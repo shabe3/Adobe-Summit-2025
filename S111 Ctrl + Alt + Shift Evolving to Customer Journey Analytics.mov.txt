@@ -1,0 +1,508 @@
+00:00:00:14 - 00:00:24:38
+不明
+Welcome to Adobe Summit. We are so happy that you're here with us. You are in the second best breakout session at Adobe Summit. The first best breakout session is actually also happening right now. You all could be playing video games somewhere down on the third floor with Trevor Paulson, but you're here with us to learn about moving your organization to CGA, which is much more fun than eight bit video games and tips and tricks.
+
+00:00:24:42 - 00:00:47:36
+不明
+We're we're thrilled that you're here with us. I'm Benjamin Gaines, senior director of product management for customer journey analytics. I'm joined by Zach Hazeltine, senior product manager, and Erica Ulmer, senior manager of data product management for Expedia Group. We're super excited to talk to you about the process of moving your organization, to customer journey Analytics.
+
+00:00:47:41 - 00:01:07:02
+不明
+And, I do want to just tease one thing before we get started. At the very end of this, there is we're doing a giveaway very easy to enter, but you do have to stay to find out how you are going to enter the contest and more details on the contest to come. So with that, I will hand it over to Zach.
+
+00:01:07:07 - 00:01:29:02
+不明
+Thank you, Ben, and pleasure to be here. Pleasure to be with you all. Like summit day one, we get you guys right after keynote. You're not tired because it's not Thursday. We're very excited about that. Wanted to spend a minute and talk about moving. Ben, have you. When was the last time you moved? It's been 11 years since I moved.
+
+00:01:29:06 - 00:01:50:07
+不明
+Yeah. Show of hands out here. How many of you have moved within the last five years? Houses. We're talking about moving. You're moving. You're moving your house. Okay, that's about half the room. Myself, I moved two years ago, and it was an experience my wife was pregnant with our second. We were moving about 30 minutes away, so guess who did the moving?
+
+00:01:50:12 - 00:02:06:51
+不明
+It was me. And guess who did the moving wrong? It was also me. So I kind of got to move twice because I moved from our house to our new house, and then I moved everything to the right place. That it should have been the first time around. When we finally moved in. Like moving.
+
+00:02:06:56 - 00:02:24:28
+不明
+We're going to be talking just about, moving to CGA a little bit today. Why do we even move in the middle of this? I asked myself that question. You know, it's I'm packing all this stuff up. I'm looking at couches and I'm like, do we do we even need this couch? Like, is it even going to fit in the new place?
+
+00:02:24:32 - 00:02:38:35
+不明
+How many of you that just raise your hand when you moved? How many of you got rid of the couch or the area rug because you knew it wasn't going to fit in your new space? Yeah, it's insult to injury, right? Like, not only do you have to move, but then you have to go shop for a new couch.
+
+00:02:38:40 - 00:03:03:04
+不明
+Not a ton of fun. Like moving into a new house, transforming your business with CGA. It takes deliberate time and deliberate planning and change management practices. And that's exactly what we're going to get to the bottom of today. Walking you through the process of going from your place now, which is an Adobe Analytics, and to this new place which hopefully is a little bit bigger.
+
+00:03:03:09 - 00:03:22:34
+不明
+And facilitates what you need out of things a little bit more. So before we start on the actual tips and tricks that we have to share with you, and our goal is that you come away with actionable things, you can go back to your organization and begin to implement. Let's talk a little bit about why we're even having this conversation.
+
+00:03:22:38 - 00:03:48:38
+不明
+You've been many of you have been using Adobe Analytics for years. Why even move to CJA? I mean, other than obviously the cost of the software, there are real benefits to being completely on customer journey analytics as your analytics tool of choice that you use throughout your organization. Of course, there's the modern features, Journey canvas, the AI capabilities, some of which you just saw on Main stage earlier today.
+
+00:03:48:42 - 00:04:08:56
+不明
+CJA is more scalable to your growing business. If you've ever, been in Adobe Analytics and wanted to combine all of your report suites into one thing, it doesn't even matter how much data we're talking about, we can do it in Customer journey analytics because of its modern, architecture and design. This new reporting engine. Many of you are familiar with this.
+
+00:04:09:01 - 00:04:31:29
+不明
+We're assuming in this session that you have some familiarity with with CJA and that you're somewhere on the journey of implementing it. Hopefully you have some use cases up and running. If you don't, we're going to we're going to share information on a session tomorrow morning that will talk about building the house that you move into, implementing, getting up and running for the first time.
+
+00:04:31:34 - 00:04:52:51
+不明
+All of these things that you see are reasons that being on CJA and running your business off of CJA is valuable for you to invest in. A couple of examples that we've heard. So we asked some some customers or former customers of of CJA, not that their companies left TJ. They left the company, just to be clear.
+
+00:04:52:56 - 00:05:20:08
+不明
+The, we asked we asked them why, what was what was why was it good for you to undertake this process that we're about to spend the next 45 minutes or so discussing? Jake Winter, used to lead analytics at Best Buy. They went through this move, they got offers. Adobe Analytics. They're using CX fully. That allowed them to invest in things that they had always wanted to do, but weren't able to do, when they were managing two systems or when they were on just Adobe Analytics.
+
+00:05:20:08 - 00:05:49:29
+不明
+So in their case, it was investing in new audiences, building out new M1 ML models, and really implementing personalization. Being on CX alone allowed them to focus on that. We asked another, an engineering manager who leads, who runs analytics. That just happens to be his title, at a, large high tech multinational. He talked about the additional efficiency that his team was able to drive by not maintaining two click streams, by not maintaining two data sets, not maintaining two tools.
+
+00:05:49:33 - 00:06:23:15
+不明
+And they were able to to show savings that they were able to recoup and in the form of additional investment with this, with the the new architecture of CJA. So if you're here, hopefully this this makes sense. Hopefully this gives you some ideas of kind of how to how to think about pitching this maybe to your team or to your leadership, as you undertake this journey that we're about to discuss now that Ben has just connected you back to your Y, you know, and some of you, you may have CGA, there may be a few use cases that you're using within that, but that of the full move has not happened yet.
+
+00:06:23:20 - 00:06:41:17
+不明
+And Ben did a great job of connecting us back to the why of CGA, what it can do for you, what it unlocks. Where do we get started, how it feels like this mammoth undertaking. We got to pack all our stuff up. We got to figure out the couches and the area rugs and the paintings. Where are we going to put them in our new place?
+
+00:06:41:21 - 00:07:05:20
+不明
+What we're going to be talking through today are the five keys to success, to moving. And those five keys that we're really going to lay out and start to kind of work through our the first one component migration. The second one, communication, user onboarding, user training. And then lastly decommissioning Adobe Analytics. Within this presentation, you'll notice that we're laying it out in this format.
+
+00:07:05:25 - 00:07:21:59
+不明
+It's going to be totally up to you to mold what we share today to your organization and to make it your own. It may may sound make sense to do one thing first before you do something else. That's totally up to you. Make that work for you. The only call that I'll make is don't decommission Adobe Analytics very first.
+
+00:07:22:00 - 00:07:49:13
+不明
+Do that one last. That's the only caveat. Hopefully that's obvious to everybody. Yeah. Have to point it out. You never know. Wanted to get started off though with component migration. And this is actually a product that is near and dear to my heart because I have had the opportunity to manage it as a product manager. What you'll notice about this picture on the screen right here is it kind of looks like, I don't know how many of you have ever moved departments, but maybe you've seen someone who has.
+
+00:07:49:18 - 00:08:13:21
+不明
+And instead of hauling things off to the dump, you find mattresses, chairs, unused things on the floor. Component migration is not only the process of moving your beloved components and analytics to CGA, it's also figuring out what you don't need and what you don't want. We're going to walk through just a quick demo of of what this really looks like while I explain what component migration is.
+
+00:08:13:21 - 00:08:34:57
+不明
+For those of you who don't know, component migration is a product within Adobe Analytics that maps your components from within analytics to CGA, using the component IDs for dimensions and metrics and aligning them to what they should be aligned to within CGA. The UI is really slick. If you've never used it, it's pretty quick to kind of get through.
+
+00:08:35:02 - 00:08:55:00
+不明
+It should be pretty self-explanatory when you use it. A couple call outs has been mentioned. This kind of assumes that, CGA is already in existence. A data view is already created. And so that would be true here, too. You would need to be moving things to an existing data view. And then within that, we move projects where we move things at a project level.
+
+00:08:55:05 - 00:09:19:05
+不明
+So this will go pick up a project and then move it straight into, CGA for you. As I started, it's not just about what you move, it's about what? You don't move as well. My wife went in when she was pregnant, and we were moving. She had a rule for me, which was if we have not used something within the last year, why on earth would we spend time moving it?
+
+00:09:19:10 - 00:09:32:32
+不明
+And you start noticing, like, well, we have two spatulas, and we don't use that one that's stuffed in the back of the drawer. Why are we going to move it? I cannot tell you how many coats I got rid of. I live in Salt Lake City. It gets cold in the winter. I had so many coats and my wife's like.
+
+00:09:32:32 - 00:09:51:20
+不明
+You haven't used that in five years. Why are we. Why do we spend time moving in a couple call outs with filtering your projects, your components down to what actually needs to be moved? Number one, you'd be surprised at how many duplicate and copies of projects that you probably have. First suggestion is going to be to delete those and get those eliminated.
+
+00:09:51:24 - 00:10:14:00
+不明
+You probably don't need them. The second thing is, is we would kind of like my, my wife's rule only move things that have been opened or used within the last year, and that's available in the UI. There's several different ways to kind of find that, but good call out there. And then the last thing that we've seen customers do is to only move things that are being used by more than X number of people.
+
+00:10:14:05 - 00:10:32:48
+不明
+That's that's something that you may need to take to your organization and try to figure out on your own. If it's 2 or 3, we had one customer who said five. That was their justification in spending the time and effort to actually move something to make sure it's being used by multiple people. In terms of tips and tricks, a couple call outs that we wanted to make, I shut off the UI.
+
+00:10:32:59 - 00:10:48:44
+不明
+We also have an API where this is available. So if you have some some resources within your organization, go ahead and use the API. You can map everything kind of at once. Get a map to create the API and it's done. Another thing that we wanted to call out and that's visible, it's being displayed on the screen.
+
+00:10:48:44 - 00:11:13:49
+不明
+A couple tips and trick type things would be the ability to create a duplicate of the project, if you wanted to use it as somewhat of a sandbox environment. So you could copy the project. You could create a copy of the data view, go and migrated to there, see how it's going to work, get it into CGA. You can delete it when you're done and then perform the actual migration on the real like prod, so to say version of your project.
+
+00:11:13:54 - 00:11:40:31
+不明
+Another thing that we've seen, it's really helpful in terms of the tips and trick, is creating a dummy component, to map things to in CGA. If you didn't have an equivalent value in CGA of something, you would either need to go into app and create the dimension or metric within the app, or you could just create one called dummy component ID one, two, three, or so on, and then map things to that to kind of speed the process up.
+
+00:11:40:35 - 00:11:57:29
+不明
+The last thing that I really wanted to show and what's being displayed now is the ability to move all of your metrics or segments, kind of in one fell swoop. And the way to do that would be to just create a project within analytic analytics stuff, all of your components that you think would be of most value.
+
+00:11:57:35 - 00:12:22:28
+不明
+Your your calculated metrics into that project and then performing the migration with that project. Just some things that might help you, help you do it along your way. That we've seen other people do in the past that, that workspace table with like 600 metrics in it is something never seen before and is awesome. I these are the kinds of things you only get at summit in tips and tricks sessions.
+
+00:12:22:33 - 00:12:42:34
+不明
+All right. Communication. Communication is really important when you move, whether it's houses or moving analytics tools. When you move houses, your friends need to know where to find you. You are now in a new location that is important for them to know. You have to send out invitations to the housewarming party, and yes, you have to invite Joe and Brenda even though they suck.
+
+00:12:42:39 - 00:13:03:12
+不明
+You have to communicate. Communication is also, of course, critical when you're changing analytics tools. Some best practices here. Some tips and tricks for communication. Proven with, with, many of our customers who've undertaken this move. Whether you use slack or Teams or some other communication platform, we recommend creating channels for this. That part's not that surprising.
+
+00:13:03:14 - 00:13:21:05
+不明
+Of course, you would create a channel for this. The part that I think, you want to take away from this is create different channels for different purposes. Where we would start is you have a channel, of course, for users to be able to ask their questions about CJA. There's more data in there. Maybe the data might be named a little bit differently or look different.
+
+00:13:21:12 - 00:13:45:43
+不明
+Generally the UI works the same way there. You know, new new tools available in it. But you know, if they were users of Adobe Analytics, hopefully it's an easy transition for them, but they'll still have their questions. So that's that Adobe CJA users channel that you see there, but also create a CGA awareness channel. And that's where you're going to sort of manage up and out, put your executives in there, the people who you who you want.
+
+00:13:45:44 - 00:14:05:57
+不明
+You want them to see the value that you are driving and that the organization is driving out of CJA. And that's where you're going to put your quick wins and kind of build momentum around this move, by by posting there and, kind of having conversation there about what you're doing, what you're doing. Well, where you're finding insights on this, powerful new analytics tool.
+
+00:14:06:02 - 00:14:26:07
+不明
+Many of you are already running office hours for Adobe Analytics, or maybe already for CJA. Of course. That's a great practice. I was just meeting with a customer earlier today who was talking about doing that, that exact same thing in CX and how important that has been in in helping their customer, their internal customers get the answers that they need.
+
+00:14:26:12 - 00:14:43:06
+不明
+But yeah. And then just, you know, any other any other methods for, for managing up and out, during this move, you want to you want to make sure you're communicating, get people excited about the fact that you have this really powerful tool that does things that no other tool can do without, without, you know, SQL or Python.
+
+00:14:43:10 - 00:15:05:39
+不明
+This is Erica. You will hear from Erica. By the way. We promise that she's got a consolidated section. Eric is the real expert, having actually done this before. Herself. But this is the wiki space that she set up for Expedia Group to, kind of to to move from Adobe Analytics to CGA and actually from other tools to CGA, not just Adobe Analytics.
+
+00:15:05:44 - 00:15:28:14
+不明
+It's beautifully organized. You know, she's got a calendar in there of training events and office hours and things. Links really, you know, clear buttons to, to that are in the language of the consumer, the customer, your internal customers. So consider creating, a wiki space if you need to, you know, borrow a friend who's really good at organizing a wiki space.
+
+00:15:28:19 - 00:15:48:51
+不明
+To do that, it's it's worth it. And it's a super impressive place where anyone at EDG can go. And, Erica, we'll talk more about that in just a few minutes. Short informal videos showing how to perform common tasks. We actually, Yesterday we had a meeting with a handful of CGA customers, and the idea of, TikTok for CGA came up.
+
+00:15:48:52 - 00:16:13:26
+不明
+I think that might have been Erica's idea, actually. You don't have to dance. But you can optionally, if you think that will make people pay attention to your, your informal trainings, but, you know, record videos explaining the definition of a dimension or a metric. And post those make those available. You've got, you know, multiple communication channels to make those available to your organization.
+
+00:16:13:31 - 00:16:36:31
+不明
+You know, hopefully you already are thinking about or have a data dictionary, a repository of information where people with questions can go. And, and, as you're communicating, find your analytics power users and put them. Consider putting them first because they will communicate for you about what's good about CX to the people that they work with.
+
+00:16:36:42 - 00:16:56:32
+不明
+Hold special trainings for them. You know, where you can go a little bit deeper and really geek out on what's possible with CGA. Don't sleep on annotations. A great. So annotations got a huge upgrade. Recently, I think it was last year that we, we came out with this brand new version of annotations. You can do so much more with them now.
+
+00:16:56:37 - 00:17:24:58
+不明
+Including, having a fixed start date and so annotations if you don't know, by the way, allow you to kind of label your data in CJA, over time. So, you can have a so let's say you onboard a new data set and you want to mark that in your data. You can have a fixed start date and say like, as of this day, we have call center data or as of this day we have survey data in CJA and then have a rolling end date.
+
+00:17:24:58 - 00:17:44:10
+不明
+So it will just keep going forever. So you can orient your users and communicate to them about, you know, when data became available, when there were issues with the data. One of my favorite tips is if there's a particularly good period of data like the interesting things happening, maybe a campaign you were running and you want to use that as a training ground.
+
+00:17:44:15 - 00:18:07:02
+不明
+You know, you want to build a bunch of learning material internally around that exact period of data. Label that data with an annotation so people. So it's easy for people to find and make sure that they're working off of the same set of data that you have built. Your training material around. And of course, you can always link out to your internal documentation, your internal videos, your wiki page, etc..
+
+00:18:07:07 - 00:18:29:20
+不明
+User onboarding. Thank you. Ben. User onboarding. We're on the third key of success. I can't believe how quick this is going by. We're almost moved into our new home. They could be playing video games right now. They could be. But instead, we're learning how to learn or learning how to move, which is, you know, essential, user onboarding is like trying to get your kids into their new bedroom, right?
+
+00:18:29:22 - 00:18:55:30
+不明
+There's there's always a fight over who gets what room. When you get there, it's like trying to orient them to their new room. Maybe the windows on a different wall. Their bed goes in a different corner. Kind of throws people through a loop a little bit. That is what user onboarding might be to some extent. Really what we want to talk about today is three different methods that we've seen customers use, that we would also recommend.
+
+00:18:55:35 - 00:19:14:07
+不明
+As to how to do user onboarding. You wouldn't believe it may seem like a somewhat elementary step. You wouldn't believe how often this is missed and how crucial the mistake may be when when it is missed. The first method is to just move everybody. And what that looks like, it's the bandaid being ripped off. Right?
+
+00:19:14:09 - 00:19:38:02
+不明
+We're going to set a date in six months. And in that six month time frame, we're moving everything. We're moving everybody. After that date passes, the expectation is that our analysts are logging in to CGA full time. They're no longer logging into analytics. Some people have done that. I think this section of user onboarding is one that is particularly important for you to tailor to your organization.
+
+00:19:38:07 - 00:20:03:49
+不明
+The second one, is moving by business unit or by group. Some of you may have an organization where your analysts are built in. Excuse me, to different business units. They they serve in those functions. They report on different KPIs that that business unit cares about. A different approach may be to go and to onboard those people in groups, go to a business unit, buy business unit, learn there, use cases onboard them that way.
+
+00:20:04:00 - 00:20:25:03
+不明
+Train them up if you have to and go about it like that. The last one is using bi or moving by by use case. And this one looks like really like you have a specific project or a specific thing that you're measuring within analytics. And you want to start measuring that in CGA first. Maybe it's something that an executive is particularly, interested in.
+
+00:20:25:03 - 00:20:45:10
+不明
+And you want to start reporting on that now. You could go through prioritize the use cases that are most important and most critical to get in and go and onboard that people that use those, projects first and move by use case, regardless of what you do and what may work for your organization. The most important thing is to pick a plan.
+
+00:20:45:15 - 00:21:02:52
+不明
+Create, you know, change management plan, project management type of an approach to it, and then stick to it. Set a date and time where it's going to be completed and then drive towards that date. By way of tips and tricks, I did want to call out Asset Transfer, which is a new tool. You may know it from Adobe Analytics.
+
+00:21:02:53 - 00:21:26:34
+不明
+It's new in CGA. It came out last fall. What this does is when you when you inevitably have a few abandoned or orphaned projects or components, this will allow you to reassign ownership to someone once you get into CGA. So once they're onboarded, you can make sure that the people have the right thing. It's in the right place and ownership is reestablished.
+
+00:21:26:38 - 00:21:47:48
+不明
+User training. Even though CGA looks and feels a lot like Adobe Analytics, your users are going to be faced with some new things. Very much like how when you move into a new house. Sure, you have a sink, but your plumbing might be completely different. You have air conditioning, but it's a different Hvac system and you need to learn how to maintain it.
+
+00:21:47:49 - 00:22:10:01
+不明
+You need to learn how to use these things effectively in your new in your new home. Some things that we've added to customer journey analytics to make this easier. We have these learning paths that we've added. We got feedback that it was hard to learn the product. So we built a few things first. We have this walk through tutorial in an in analysis workspace.
+
+00:22:10:01 - 00:22:32:08
+不明
+So if your internal customers are new, completely new to CGA, they haven't used Adobe Analytics before. Point them here. We also have under learning paths. It's right there on the landing page, a specific area just for people who are moving from Adobe Analytics to CJA, from beginner all the way through to advanced. So they can click on there, there's documentation links in there.
+
+00:22:32:09 - 00:22:52:06
+不明
+There's going to be videos in there that will that they can they can use that as a guide to orient themselves around, this new environment that they're in. It I think it only it was supposed to loop, but it didn't loop. But anyway, it's on the landing page. It's right there. So by default when you log in, you're on the projects link on the right.
+
+00:22:52:06 - 00:23:13:01
+不明
+On the left. If you just go down to learning, you'll get access to that. To that walk through the guided tour of analysis workspace. You can also get to that very specifically written and documented Adobe Analytics two CJA migration guide. So that's learning paths. Don't sleep on the AI assistant for product knowledge. This has been in CJA for a little while.
+
+00:23:13:05 - 00:23:39:18
+不明
+It does. It will answer questions. It is trained to answer questions on the differences between Adobe Analytics and CX. I just asked it a very generic one here, but you can ask it more specific questions as well, and you can have a conversation with it, asking follow up questions based on the question that you just asked. So I can ask it here to like, tell me more about this attribution difference between between, you know, how does what are the additional attribution capabilities in CGA?
+
+00:23:39:18 - 00:24:05:17
+不明
+And it will answer for me. So as a new user, having this AI assistant for product knowledge can be sort of a friend with me in the product to answer some of my basic questions. While I'm getting familiar with CGA data dictionary. You have one. Hopefully. We also have one in CJA that you can, where you can add your definitions and your descriptions of dimensions, metrics, segments, so on and so forth.
+
+00:24:05:17 - 00:24:26:50
+不明
+Make sure that that is filled out, because that is the single hardest thing for your internal customers. Your users to get, familiar with in CJA, the differences in the way the data is defined, the way that you've, you know, additional data that you've brought into. So to make sure you're using that data dictionary because they will have access to that.
+
+00:24:26:55 - 00:24:50:02
+不明
+Last, but certainly not least, in this section, brand new as of, I think, January or maybe early February in CX, we now have this product usage capability in CX. You can go turn on it's in the section under tools. At the top you can turn on product usage. We will then start. We will create a data view filled with your company's usage of CJA.
+
+00:24:50:02 - 00:25:11:00
+不明
+So now you can analyze your own company's analysis. And what this is good for around user training is figuring out who is using what, where the organization might not understand something you've built for them, and where you should focus your training. It's it's a ton of fun. It's something that that, I know as as analysts, many of you have wanted this for a very, very long time.
+
+00:25:11:00 - 00:25:30:43
+不明
+It is now available and is an essential tool in this moving process from Adobe Analytics to. Yeah, you can clap for that. You can give it up. I haven't been able to get anyone to laugh with any of my jokes, so you might as well clap. Those were jokes, Ben. Yes, those. The thing about Trevor Session was indeed they are playing video games.
+
+00:25:30:43 - 00:25:53:08
+不明
+But I was joking about that. All right, last tip. And then we want to give you the opportunity to hear from Erica who has actually done this is decommissioning Adobe Analytics. When we moved last time we moved, we sold our house. You might keep your house and rent it out, but you might sell it. We we needed to sell ours.
+
+00:25:53:12 - 00:26:09:49
+不明
+And in the same way, you know, we we've never been back. It's it's it's to us, it's decommissioned. There are a few things to consider here. One, first of all, before we even get into these three things, you might decide to keep your house. You might decide to keep Adobe Analytics around for a while for a handful of reasons.
+
+00:26:09:49 - 00:26:39:26
+不明
+Year over year reporting. You might keep it around because, while we are, working on a data feed like capability, and we don't have data feeds yet, so you might keep it around to keep that data feed going. But but many of our customers have decided to just make the move, and, and this is these are the things that they have have needed to make sure that they're considering make sure that you've replaced your scheduled projects and workbooks with their CGI equivalents.
+
+00:26:39:26 - 00:27:01:55
+不明
+Don't have someone expecting their monthly, dashboard and, it doesn't show up. Make sure you move those over before you turn Adobe Analytics off that egress to downstream systems. One. You know, I mentioned data feeds, data warehouse reports that you have ongoing API calls that you're that you have systems relying on. Make sure that you've moved those over where applicable to KG.
+
+00:27:01:56 - 00:27:29:34
+不明
+We do have, full table export now in Canada. So it's a similar to data warehouse. It has some advantages over data warehouse and some, disadvantages right now that we're that we're working on as a product team. But, you know, look into that to make sure that you're replacing those things and then any organizational notifications, you know, you know, you don't want alerts to to not fire and someone thinks everything's fine and really your, your site is down or something like that.
+
+00:27:29:38 - 00:27:49:26
+不明
+Make sure we, you move those over. We do have alerts in KG now. So you can move hopefully move those alerts right over. With that, I want to, hand it back to Zach and then and then over to Erica. There you have it. We have just nailed the five keys to success like that.
+
+00:27:49:41 - 00:28:12:29
+不明
+But the beauty of summit has been mentioned is you don't just listen to us right. That's why we invited Erica. And we will turn it over to her. Who's going to blow your mind? Okay, I don't know about blow your mind, but I am going to talk about Expedia Group's journey to customer journey analytics. We were facing this migration over four years ago.
+
+00:28:12:34 - 00:28:39:36
+不明
+And we fully completed the move to C.J over two years ago now. And we have been solely on CJ's since, but to provide some context on where we were before this move to C.J. I'm going to talk about how we operate as a business. So Expedia Group, which you will inevitably hear me, Sean, to e g, is made up of a host of brands that were all acquired over a period of time.
+
+00:28:39:41 - 00:29:05:09
+不明
+And when we were assessing this migration to C.J., we lived in a really fractured and siloed data product landscape. So these legacy brands had brought over their own data tooling solution. We had a majority of our brands already on Adobe Analytics, but they all had their own instance of Adobe Analytics, and we had Vrbo on Mixpanel. And then we had our B2B platform on Google Analytics.
+
+00:29:05:23 - 00:29:37:08
+不明
+And so our vision and this moved to C.J was to bring all of this disparate data together. So that way our end users could report on business performance as a whole, but still have the ability to drive in to specific brand performance. And so it was interesting when Ben approached me about speaking at Adobe Summit today and they were going through the content, I was like, that's the exact same path we actually followed four years ago in our move to C.J.
+
+00:29:37:13 - 00:30:03:19
+不明
+So that first step of component migration, before you can move anyone over, you need to put stuff in this new house. And there's awesome new tools that Zach talked about, that component migration tool that didn't exist back when we were moving to C.J. we did everything manual. And so how we approach is that e.g. without that handy tool was in three different phases.
+
+00:30:03:24 - 00:30:29:21
+不明
+The first phase was configuring all of our dimensions and metrics at the data view level. So that is what only admins have access to. These are kind of standard reporting metrics. Things like events, sessions, orders, but also standard dimensions. For the most part, this will be fairly straightforward, but depending on your implementation, there might be some stuff that takes a little bit of time to configure.
+
+00:30:29:26 - 00:30:59:50
+不明
+For example, like entry page name, exit page name. That's not a concept actually in our clickstream data. So CJ's persistence capabilities were really helpful in recreating this attribute in KG from Adobe Analytics. Once we had that completed, we moved over to phase two, which was assessing in Adobe Analytics what Blast filters and metrics had we as admins created for our end users and making sure we recreated those in C.J.
+
+00:30:59:54 - 00:31:27:31
+不明
+And then phase three is when we were like, we don't want to do this anymore. End users, this is great practice for you to reassess your own metrics that you use for reporting. So take a stab at that first and then come to our office hours. Raise questions in our slack channel will help assist you. But we did push our end users to actually recreate their own metrics, because otherwise we're recreating thousands of metrics and filters for people.
+
+00:31:27:36 - 00:31:54:41
+不明
+Now, an important part. They don't talk about that we spent quite a bit of time on with component migration was ensuring data parity with this component migration. This took us actually quite a few months to complete. And we approached this with three rules in mind. The first was to limit the scope and granularity of what we're ensuring reaches parity between Adobe Analytics and C.J.
+
+00:31:54:46 - 00:32:20:26
+不明
+So we select did the metrics with the help of our primary stakeholders. And we set a historical date range that we would ensure data matching between those two tools. We also established the discrepancy level. So basically we said plus or -5% difference. And that is a match. Some context here. We moved to a new data set as well with this move.
+
+00:32:20:30 - 00:32:45:20
+不明
+So we changed how we were actually capturing our clickstream data. And so two data sets are almost never going to match. So we talked to our stakeholders about meeting that discrepancy level. And now you also need to figure out around what cuts you're going to measure those metrics. We have multiple brands. Each brand has a specific regional point of sale.
+
+00:32:45:33 - 00:33:12:05
+不明
+So our our brand Expedia brand for example, is all over the world. And we have points of sale specific for each country. How do we limit the scope of how far into each metric we are measuring. So we establish that with our primary stakeholders. And then I actually built this dashboard by creating a workspace project in Adobe Analytics and one in J.
+
+00:33:12:09 - 00:33:34:45
+不明
+And I would then pull those CSV files, copy and paste into this dashboard. And it would update for every month I pulled in Excel so we could quickly see visually how close the given metric aligned between those two systems. Now, there's probably an even quicker way to do this. You could probably leverage the API. I'm a little bit old school, so I did it this way.
+
+00:33:34:50 - 00:34:04:59
+不明
+But doing something like this to speed up that process with your stakeholders to ensure that data parity, is something that really worked for us. And when we were also doing component migration, we created a custom data dictionary. Data dictionary did not exist in CJ at the time. And so what I did is I went in to confluence, I listed every ever profit metric that we had, and I wrote the corresponding CJ component that matched that proper Iva.
+
+00:34:05:04 - 00:34:23:48
+不明
+So what users could do is they could go into confluence and they could search for their given dimension. There's proper IVR and they could find the corresponding dimension and C.J. So this limited the number of questions we were receiving. So I used to use this IVR. What do I use in KG. We would point them here and say go look for it.
+
+00:34:23:53 - 00:34:53:26
+不明
+It's a simple lookup table. Now that covers our component migration. Now communication was a big part of our strategy as well. And so we had kind of two groups that we targeted. We had our executives and primary stakeholders. So we actually established a CGA, CGA steering committee, and we met with them quarterly to provide them updates on how we were progressing with the CG migration.
+
+00:34:53:31 - 00:35:22:17
+不明
+And then we also did informal weekly updates in slack for general users. We had another private slack channel help channel, where to be admitted to that slack channel. You actually had to have taken a mandatory training on CG to be added to it and be granted access to CGI. In some ways, I actually think this was a psychological trick because it caused more people to reach out to us to be like, hey, I heard about this new thing and I'm like, I want access.
+
+00:35:22:17 - 00:35:35:25
+不明
+Give me access to it. And that encourage more people to take trainings and actually start being encouraged about on migration rather than being like, why are we doing this? Adobe Analytics works perfectly fine.
+
+00:35:35:30 - 00:35:53:30
+不明
+Now that moves us into user onboarding and training, which we kind of grouped together for the most part. And you'll see this graphic was one that I designed that went out to kind of talk about our successful mixed panel phase of our migration. Who was the group that we targeted for? So Zach kind of talked about an onboarding approach.
+
+00:35:53:30 - 00:36:17:56
+不明
+There's three kind of ways you can go about that. We decided to kind of business unit which corresponded with, data products. So Mixpanel was our first phase Adobe Analytics was our second. Google Analytics was our third. And so with each of these phases, we offered quite a few opportunities on how to properly use and teach yourself things as well.
+
+00:36:18:00 - 00:36:40:25
+不明
+So we had that mandatory training, to even get access. Then we also have an internal siege video library. Now Ben talks about these awesome internal learning paths you can take, but I think it's important to invest time on your data set within siege because users need that context on the data that you collect and how it actually gets represented.
+
+00:36:40:25 - 00:37:09:45
+不明
+In C.J. We have that searchable mapping table. I just showed our private slack help channel. We also had weekly office hours available across two different time zones each is a global company. So we had eight pack office hours and North America office hours. We also have supplemental trainings any time we ingested a new data set Commerce experimentation app installs, we would talk about the architecture of that ingestion and how you should properly analyze that data.
+
+00:37:09:45 - 00:37:42:40
+不明
+In siege, we also did filter specific, metric specific, and we made sure to record all of these and add them to our training library. And then if you have a learning and development team in your org, I would highly encourage you to reach out to them. We did this and I actually traveled across our global headquarters and held in-person trainings, and we had practice problems, and people would bring their laptops and try to answer questions using CGI and I'd walk around the room and I would criticize, not just getting help people get to the right answer.
+
+00:37:42:45 - 00:38:06:20
+不明
+And those are three hour in person sessions. So one thing to of course, note with user onboarding is you likely have a wide range of roles that are going to use and their maturity levels are going to differ in how good they are at at using this tool. I say a lot of ours are are, smart enough to kind of be dangerous in the tool, but really don't know what they're doing.
+
+00:38:06:25 - 00:38:37:33
+不明
+So you want to have training opportunity, meet them where they are. And so these are some of the roles that we have using siege regularly. And so you can see data scientists, analysts, they use Adobe Analytics. They know they can write SQL. But then we have market managers who don't access data day to day. And we're actually kind of onboarding them to this self-service tool so they they can use data driven decision making in their day to day role.
+
+00:38:37:38 - 00:39:00:26
+不明
+So our training approach is to contextualize what CG is and how it fits into our larger data landscape. Then we also promoted it. You know, it's a migration. Most people are not happy to have to use a new tool. So to try and get people on our side for this migration. And we said, here's why it's beneficial to you in your day to day role.
+
+00:39:00:39 - 00:39:26:16
+不明
+And here's why it's beneficial to e.g. as well. And then we showcase. So contextualize and promote AR in a deck format. And then we do a showcase where we actually log into the tool. And beforehand I would have reached out to the director of that department and said, what's the data your team needs the most? And then when we go into that demo, I showcase a specific example suited to what that team cares about the most.
+
+00:39:26:21 - 00:39:52:09
+不明
+So I have three key takeaways from IG's journey to. The first is if you aren't a product manager, put put on a product manager hat and really treat it as a data product. Build a roadmap that includes things like your data validation process, the component migration piece, any historical back fills that you need to do, adding additional data sets.
+
+00:39:52:10 - 00:40:14:55
+不明
+When do you think you might add in your commerce data set or your call center contact data set? How long is user onboarding going to take and when do you have Deprecations for legacy tools? Second, take away implement training. This was so vital and getting people actually excited about this new tool, getting people to reach out to me and saying, hey, I want access to this.
+
+00:40:14:55 - 00:40:41:53
+不明
+How do I get how can I start using CG today? And so you'll see, this is an actual chart that I have in our intro to CG training at IG, where I talk about here's why C-J is better for us and for you then Adobe Analytics. And my third takeaway would be establish measurable KPIs. This is going to be important for when you talk to your stakeholders.
+
+00:40:41:58 - 00:41:04:01
+不明
+We actually had a line chart trending how many Adobe Analytics users we had, ideally going down over time, and how many of them were moving over to CGI so that product user usage, functionality we didn't have back then then. But it is there now, so you should be able to use that. But you can see like this Venn diagram, you want to see those users shifting over to CGI.
+
+00:41:04:01 - 00:41:28:16
+不明
+It also helped us to start targeting people that weren't making that move, to give them a little bit more handholding, to say, hey, what what's not there for you that's preventing you from making that move? And with that, I will hand it back over to Zach. Everybody, round of applause for Erica. Thank you Erica. Really brought it home there.
+
+00:41:28:20 - 00:41:45:50
+不明
+The five keys of Success Erica is three keys of success have merged into a final key that you now see on this. Is that 4001 key? Yeah. So we're at eight, but now we're averaging four keys. We're averaging four keys to success. But now we're down to one. And this is the final key that you've got to your home.
+
+00:41:45:50 - 00:42:02:49
+不明
+You're ready to move in. It's a long journey, but eventually you get there, and it's going to be up to you to kind of mold it to your organization. But one day, you end up sleeping in your new house, and it's kind of a great feeling when I want to leave you with, a couple of thoughts.
+
+00:42:02:54 - 00:42:24:38
+不明
+I love this quote from Hannah Crew, of into it. They went on this journey, to to CJA and on this topic of how you manage this organizational change. I thought she nailed it. Changes are drivers of innovation. We've shared with you some tips. Hopefully they're helpful. Some of them will apply to you. Some of them, some of what Erica shared at at from Expedia Group will apply to you.
+
+00:42:24:38 - 00:42:44:29
+不明
+Some of it won't, but you will invent your own tips and tricks. You will invent your own journey as you lead your organization through this change. It's also really exciting. She's right. It's going to be good for your team. There is more that you can do with your data to understand your customer in CJA than anywhere else that we've ever seen.
+
+00:42:44:33 - 00:43:04:04
+不明
+And, I'm excited for those of you who are embarking on this journey, I it's, I'm excited for this path of innovation that you're on. With that said, don't leave because we haven't shared the contest yet, and I think we're going to have time for some Q&A. So if you have questions, please, please get ready for those.
+
+00:43:04:09 - 00:43:22:52
+不明
+There are a few sessions that we are recommending that are related to this topic that we've discussed. So I mentioned at the beginning, if you're earlier in your CJA journey and you haven't implemented anything yet, that's the building, the new house that you're moving into. Dave McNamee is going to be talking about that tomorrow morning at 8 a.m..
+
+00:43:22:57 - 00:43:41:54
+不明
+If this was like if you were sitting here, if you stayed and you're and you're thinking like, this is years out for for like we're years from even being at the point that Zach and Ben and Erica are talking about. That's the session that you want to attend tomorrow morning. There is a lab with an 8:30 a.m. Thursday spot.
+
+00:43:41:56 - 00:44:00:58
+不明
+Now it is full at 830, but the bash is Wednesday night and everyone is going to be hung over. So now is the time to plan. Not to get not to be hungover Thursday morning and steal one of those spots when someone no shows, they also we're doing another one at 11 a.m.. You may be able to get into that.
+
+00:44:01:03 - 00:44:24:58
+不明
+That is also very much a sort of a full fledged evolution lab. And if you haven't done labs, they're hands on. You're in front of a computer, they have Tas and teachers, and they're kind of walk you through the journey of, of sort of thinking about how to move from Adobe Analytics to CGI. So, Shay O'Reilly on our team and Carson Jones, one of our engineers is, are the ones leading that session.
+
+00:44:25:02 - 00:44:48:15
+不明
+And then if you're in here, this one is not so much about my about, moving. But if you are a B2B customer or a B2B brand or you have B2B use cases, make sure to check out Marika Engle and a Quarter party. Tomorrow afternoon they will take you through the new B2B, a, which has, you know, new hierarchy or new account hierarchy.
+
+00:44:48:15 - 00:45:10:07
+不明
+And, you know, you can segment by account and things like that, and, you know, does apply here in the sense that, that that may factor into how you want to handle your move. Obligatory. So you know this hopefully you know about these. But, you know, we have a YouTube channel where we're constantly posting new capabilities and webinars and things that we're we're recording.
+
+00:45:10:07 - 00:45:33:16
+不明
+Anything that we record that we can post there, we do, you know, about experience League and we, we do still update this releases page. So anytime we're doing a new feature release, you know, we've got product usage now that's, that's listed out there. So make sure that you bookmark that as well. Two more things. And then and then we'll do do Q&A.
+
+00:45:33:20 - 00:45:53:57
+不明
+Dave McNamee, who is leading that session tomorrow morning, is also leading an exciting, prototype testing, of an a genetic implementation of how you can have an agent assist you in implementing CJA. He would love your feedback. So this is not a, this is this is to to try out a prototype and give feedback on it.
+
+00:45:54:02 - 00:46:10:32
+不明
+But you can you can scan the QR code to sign up. Hopefully I've left that up long enough. I am terrible at getting to the camera on my phone, so I'm going to stall for like three more seconds, because if it were me, I wouldn't have gotten to my camera yet. But you can test while you're here at summit.
+
+00:46:10:32 - 00:46:32:02
+不明
+You can also test after you here at summit. Now, here's the contest when Ben and Zach for a day, maybe you hated this session, and you don't want us to come visit you at your place of business. But if you liked it, and you think that we might be able to come help you, maybe think through some of these things, or fetch you coffee or do anything that you want, we will.
+
+00:46:32:11 - 00:46:51:02
+不明
+Some of you may remember we used to do this at summit, ages ago before Covid. We're reinstituting it. We will, on Adobe's dime, come to your place of business and spend a day with you and your team. We can do anything you want us to do that's legal. All you have to do, you don't even have to give us fives.
+
+00:46:51:02 - 00:47:12:41
+不明
+You just have to fill out the survey. We just want you to rate us. Rate the session. And as long as you do that, your your your, name and email address are submitted through the app and we will select a winner randomly, in the next few weeks. So please, please do rate this session. The the the prize is, is fun and it's always a good time.
+
+00:47:12:41 - 00:47:33:00
+不明
+We've always really enjoyed getting to know you better. The winners of this contest. But, more to the point, we do want to make sure that we are hearing your feedback and implementing your feedback in future summit sessions. So, please do, please do submit, that feedback through the app. So if you if you have excuse me, if you have a question, come on up.
+
+00:47:33:05 - 00:47:49:18
+不明
+If you don't have a question and you need to take off, by all means, I won't be offended. But also, you know, we will be answering some questions. So if you are leaving. Thank you so much for joining us. We've had a great time, great time preparing this, and we'll see you around summit.
+

@@ -1,0 +1,184 @@
+00:00:00:00 - 00:00:31:18
+不明
+Everyone, thanks for joining and welcome to our session today. So in today's session we're going to talk about how we at AMP transformed our market and technology stack last year. In 2020, for us to create impactful cross-channel customer journeys using Adobe Journey Optimizer, new I'm Sylvia Lam, communications delivery manager at AMP, and I'm joined here by Bonnie Thorn, our head of digital and customer.
+
+00:00:31:21 - 00:01:04:28
+不明
+So in this session, we want to share with you how we transformed our martech stack, how we've built it in app, which is Adobe Experience platform to get to where we're at today and how we're using Ago Journey Optimizer to enable that. So how we unify our customer data to drive personalization at scale. So the 1 to 1 personalization rather than the one to many how we're using a new journey optimizer to create highly personalized and seamless customer experiences.
+
+00:01:05:01 - 00:01:31:19
+不明
+By using the features within Ohio, they can emit content, the fragments, reusable audiences, and lastly, how trust and compliance is essentially the core of everything we do, how we underpins our data driven marketing communications, and how to get it right from the very beginning. But first, let me introduce you to Bonnie Thorn, our head of digital and customer at AMP.
+
+00:01:31:22 - 00:02:01:08
+不明
+HP limited is one of the leading financial services brands across Australia New Zealand. We provide banking, superannuation and retirement solutions for the past 125 years. As you can imagine, as a business that's been around for 175 years, we have many different data centers, platform, CRM, policy systems, data lakes and applications. We need to aggregate to deliver personalized online omnichannel experiences across our customer channels by Eden's Secure Portals, apps and digital media.
+
+00:02:01:11 - 00:02:28:14
+不明
+For more than 12 months, we've been on a digital transformation journey, consolidating our data, reviewing applications as systems, and designing new experiences as across our matrix that we've implemented app, which is how the CDP and, CGA and we redesigned our website. So we can create personalization experiences for Sylvia. We'll talk more about how we are using data now to deliver on the personalized experiences at scale.
+
+00:02:28:16 - 00:02:52:11
+不明
+Thanks, Bonnie. So now, before we get into our transformation story, and we give you some background and talk about the challenges we face while we're using our previous technology stack. And they might sound quite familiar to you too. So there were three core challenges we face. We had disconnected data silos. So for our legacy systems, we had we had many separate systems that weren't simply talking to each other.
+
+00:02:52:14 - 00:03:20:08
+不明
+So it made it tricky to get a full view of our customers. The behaviors, trends, especially the online and offline data, they were completely separate. We had also manual campaign management. So in our previous technology system, our communications team just couldn't quite trigger multi-step customer experiences within the same journeys in an automated way. So it made scaling on campaigns quite tricky and very time consuming.
+
+00:03:20:10 - 00:03:44:04
+不明
+They're pretty much custom build each time for each campaign, so we just haven't involved with the rest of the industry. The industry was moving towards real time personalization and our technology just wasn't quite there yet. And lastly, compliance complexity. So our old system didn't give us flexibility. We were managing content in one place and then we were delivering communications in another.
+
+00:03:44:07 - 00:04:09:00
+不明
+So for us, strictly following these strange privacy laws is vital. And we needed a tech stack to ensure we are always compliant. So to give you a clearer picture, our disconnected data silos meant our marketing team often struggled to create tailored experience for our customers. So if a customer interacted with us online, that data didn't seamlessly integrate with offline interactions.
+
+00:04:09:03 - 00:04:36:06
+不明
+So making it quite tricky to provide a consistent journey. And then the manual campaign management component, we relied on outdated processes and they were coding. That's slowing us down. So sometimes requiring extensive manual input which meant missed opportunity and limited scalability. So examples where we were manually updating lists, sending batch emails and tracking results separately, which was all very time consuming.
+
+00:04:36:08 - 00:04:46:09
+不明
+So it was pretty clear we needed to overhaul our approach and build a centralized marketing technology stack.
+
+00:04:46:11 - 00:05:19:01
+不明
+So with that, what was our goal and where do we want to be? So to put simply, we wanted to unify our marketing data to drive customer and commercial growth through personalization, enabled by one central martech platform that can really deliver our customers the best in class customer communication experiences. So achieving this meant rethinking our entire approach. We needed a system that will unify our data, streamline our marketing operations, whilst also maintaining strict compliance standards.
+
+00:05:19:03 - 00:05:50:10
+不明
+So how did data transformation journey kick off? Well, we started from scratch. We set up a brand new data ecosystem. We consolidated all our data from the very systems we had into Adobe Experience Platform, which is ERP, enabling us to create a free 60 degree view including real time streaming data, offline data, customer consent and preferences, connecting all our communication channels all into one, which gave us a brand new ecosystem on one single platform to work with.
+
+00:05:50:13 - 00:06:20:15
+不明
+And that really allowed us to build integrations within our communication channels so we could track respond to our customer behaviors and deliver tailored experiences and offers instantly. We chose Adobe Journey Optimizer, how to orchestrate these 1 to 1 personalization and multi-step customer journeys and customer engagement with tailored offers and digital experiences. But the main focus of our transformation journey was the cross team collaboration.
+
+00:06:20:17 - 00:06:50:18
+不明
+So really bringing many teams and individuals across the company. So from marketing technology to digital compliance, a data team, we even had teams externally coming in together, building and transferring knowledge or to be aligned on the same page, talking, collaborating with the same shared goal. So one of the key lessons I would share on what we learned during the transformation process was really the importance of education and awareness.
+
+00:06:50:21 - 00:07:22:06
+不明
+The teams involved were experience with similar platforms like this. However, transitioning to App in Asia still required extensive training. So we had more than 100 education sessions, many face to face training, and a number of formal training sessions to align everyone on the new system. We even set up workshops, live demos, hands on training using Adobe Experience League and even had the amazing Adobe team come out to see us to really set us up for success.
+
+00:07:22:10 - 00:07:46:29
+不明
+To ensure our teams knew how to navigate the new system so we can adapt quickly and move off. So here you can see if we take a closer look at this slide, how unifying our data changed the way we are now communicating with this platform. So centralizing both online and offline data, we're able to power marketing activities in a way we couldn't before due to the old tech limitations.
+
+00:07:47:01 - 00:08:26:25
+不明
+So instead of fragmented data, we now have a single customer view, allowing us to have tailor conversations with our customers individually. Our online data also now gives us the ability to do prospect nurturing. Again, this capability just wasn't there before. So it's been built in a way to accommodate all our customer channels. So they include our social media, our paid media, our website email is a mash up, mobile, in-app and even our secure customer portal, to really help us become targeted with our communications.
+
+00:08:26:28 - 00:08:55:18
+不明
+This has really helped and enhance our campaigns, becoming more pointy, relevant and timely and really impactful. So with the help of real time CDP, which is a customer data platform, which houses our prospects and customer Sana, we're able to go out and connect to the relevant channels of choice. So it really now has the capability to opening the door to choose the right conversation with our customers at the right time.
+
+00:08:55:20 - 00:09:25:19
+不明
+And then here you can say we have a single martech platform in place. The marketing view we have is now we can say the entire customer journey. So from the very beginning, the first interaction with a customer starts as a prospect all the way through its conversion and staying as a loyal long term customer. So when a potential customer first interacts with us, so whether that's through our website or social media, we can now capture that data point and behavior and start building a profile from that.
+
+00:09:25:21 - 00:09:56:18
+不明
+And then as they continue the journey within AMP, engaging with our content or showing interest in our services across our different portfolio, Ajio has the capability to target them and deliver them 1 to 1 personalization and really keep them engaged. So once they do convert, we don't stop there. We then have the ability to nurture them and provide relevant content, ensuring they stay informed and really building their awareness and further educating them so they stay connected with us.
+
+00:09:56:21 - 00:10:24:04
+不明
+And lastly, to retain them as a long term loyal customer, we can use automated nudges and our proactive engagement strategies, offering them exclusive offers based on their behaviors and communication preferences. But that's not all. We now have the capability to see existing customers looking for something else. So such as when existing home line customer is looking around, our website to open a savings account.
+
+00:10:24:04 - 00:10:50:00
+不明
+We can actually see that. And this is thanks to the unified profile capabilities. So this holistic view means when no long, we're no longer working in silos like how we were previously. Every team marketing digital customer service, we're all now working together, allowing us to provide seamless, consistent and tailored messages to our customers at every stage of the journey.
+
+00:10:50:02 - 00:11:17:04
+不明
+And so within any built ecosystem, governance framework is vital and it's no different with us. So with our newly built ecosystem, Adobe has a tooling to bring our governance framework together and enhance it further. So here employee trust and compliance is at the core and center of everything we do. We've already had a strict policy in place. But now we can actually have the policy in the technology system and it's all unified.
+
+00:11:17:06 - 00:11:50:13
+不明
+The privacy policy along with our customers, are all within the journeys. The process and technology are now no longer separate. We're able to continue to evolve our processes, and the governance and the technology become more seamless. We will continue to handle our customer data responsibly and continue being transparent with our data management. We have data usage policies in place, so customers always know how their data is being used, and they have full control over opting in or opting out of the communications.
+
+00:11:50:15 - 00:12:17:23
+不明
+And we now have the capability to have multiple options for the customer to let us know what the communications preferences are. So whether that's through an A and web form or one click opt out, we're able to capture it in one tool. Thanks to Adobe and throughout the customer journey, we've included content aware personalization. So what that means is our campaigns respect individual preferences and only deliver messages to those who have opted in.
+
+00:12:17:25 - 00:12:49:08
+不明
+We also create a multi channels, for customer feedback, giving them the power to update their preferences whenever they choose. So really giving greater flexibility and power to our customers. And lastly, we ensure that all our marketing activities meet regulatory requirements. So ultimately our approach to compliance isn't just about risk management. It's about data security. Ensuring data is protected and always respecting our customer's data and communication preferences at all times.
+
+00:12:49:10 - 00:13:24:28
+不明
+So now that the foundations have been built. We can confidently say the impact has been real and has transformed how we engage with our customers. We now have consolidated data across AMP. We're able to start building personalized and even complex cross journeys, through multiple channels for how to deliver consistent messages to our customers and have the end to end campaign attribution in the same system, but able to implement real time triggers and nudges and making campaigns more efficient and scalable.
+
+00:13:25:00 - 00:13:54:01
+不明
+So within AI, how are we using it? So some of the key highlights. We're able to use our next best interactions and be AI or Nic. Next best conversations. As some of you might know it as an in-app communication in our campaign, which integrates real time decisioning, the capability to seamlessly follow up from the email communications in our in-app has been a great success.
+
+00:13:54:03 - 00:14:24:14
+不明
+And the tailored email content templates to have dynamic content blocks and fragments. It has really helped bring our 1 to 1 personalization for life. It is no longer a one size fits all approach. And they multi-step customer journeys. We're able to design complex journeys where we're able to say all touchpoints in one view. It really has the ability to choose channels and triggers for the right customer based on the data segmentation using Audience builder and the reusable audience.
+
+00:14:24:14 - 00:14:52:17
+不明
+That's a feature in here. So this has really shifted off the middle way from mass marketing to a more targeted approach, where every touchpoint in customer contact counts. And the results and benefits we've seen has been super positive. We're able to develop timely, relevant conversations with our customers across all touchpoints and channels. The integration with cross-channel experiences have been seamless.
+
+00:14:52:19 - 00:15:18:18
+不明
+We're able to add various communication channels into one single journey which includes email, SMS to MBI. The customer can receive all these communications in a staggered approach where it's distributed in a way where we're not blocking them in one go by. It's carefully curated and crafted. We're being mindful how interrupting the day or experience in our ecosystem.
+
+00:15:18:21 - 00:15:50:05
+不明
+The email templates and the reusable fragments are super flexible and easy to configure. It includes the advanced audience targeting and personalization within them. They are all housed in our centralized asset management, which is a great, tool where we can give access to several teams, such as our brand and content team, to update and always keep us aligned across our brand guidelines, such as our disclaimers to headers and footers and logos to name a few.
+
+00:15:50:07 - 00:16:13:03
+不明
+We no longer have to send like emails, with imagery or files, across in an email format, as it's now conveniently or located and centrally housed in one portal. So this means we can now launch campaigns faster and truly maximizing our marketing team efforts.
+
+00:16:13:05 - 00:16:42:17
+不明
+But one of the biggest benefits of having a single martech platform is the speed and efficiency we've gained compared to our old technology. So you can see here in the build time for our journeys email templates and then our next best interactions. They're significantly faster now, than in the past. So before we when we use our previous systems building AI campaign took weeks, sometimes even months, depending on the complexity.
+
+00:16:42:20 - 00:17:08:18
+不明
+There were times where we'll manually Pujara, create this, manage each touchpoint separately. Just really slowed us down and limited our ability to be agile. But now give you an app, we can launch campaigns in a shorter time frames. Our build time has significantly decreased because everything is centralized, automated and streamlined. The go to market speed in previous times.
+
+00:17:08:18 - 00:17:33:28
+不明
+By the time we've got a campaign ready, the customer behavior or the market market conditions may have changed, but now we can respond in real time with personalized messaging, ensuring we always stay relevant. And lastly, it's all about personalization and less effort. We can easily set up multi-step journeys with real time triggers, adjusting content based on our customer behavior.
+
+00:17:34:00 - 00:17:57:08
+不明
+This means better experiences for our customers and increase efficiency for our teams, so we can test and optimize campaigns much faster than before. And it really helps us deliver the right message to our customers at the right time. And here's a use case I would like to share as one of the first automated campaigns, we went live with our Human Retention program.
+
+00:17:57:10 - 00:18:28:19
+不明
+The goal was to reduce human attrition by proactively engaging our customers, who were identified as at risk based on our internal data model. Because journey was complex and leveraged multiple channels to create a seamless experience for our customers. So our in-house data model continuously analyzed customer behaviors to identify those who were at risk of leaving. And so from that, we then created automated journeys that were triggered based on the customer's actions, ensuring engagement was timely and relevant.
+
+00:18:28:22 - 00:18:53:21
+不明
+The customers will then receive the communications based on their preferred channels. So whether that was email is a mask or RnB eyes. And this really has helped as we show an uplifting engagement with off. We also integrated proactive outbound calls POC into the journey, which allowed our call center team to directly reach out with personalized retention offers.
+
+00:18:53:23 - 00:19:19:21
+不明
+And then, based on the core outcomes, we can then further personalize the follow up messages, sending targeted offers and thank you messages to maintain a relationship with our customers. This multi-step approach has really helped each customer receive a retention experience tailored to their needs, increasing the likelihood of keeping them engaged and staying with us. And the results we saw from this use case will ship a positive.
+
+00:19:19:23 - 00:19:44:18
+不明
+The multi-step channel journey we created in Asia really allowed us to include personalized messages and multiple touchpoints. So the emails, SMS and BYS and proactive outbound calls all contained within that one journey. We then show a 21% increase in our click through rate, which was a massive uplift. And then the personalized offers were delivered at the right time.
+
+00:19:44:20 - 00:20:17:03
+不明
+So seeing official customers interacting with us for a click through or pulling our attention chain and the real time NBI offerings were based on the customer preferences, which meant these customers wanted to interact with us. And by. So this was a huge win for us, and it showed the power of leveraging AP and Jio together. So the key takeaway from our journey, unifying data at scale, gives you a free 60 degree customer view.
+
+00:20:17:06 - 00:20:41:16
+不明
+Personalization helps connect with customers effectively. So the 1 to 1, rather than the one to many makes communication effective and drives business growth and success. And lastly, trust and compliance are essential for long term success for all marketing activities. So thank you so much for watching and I really hope this presentation helps you with your own marketing transformation journey.
+
+00:20:41:18 - 00:20:45:10
+不明
+Thank you.
+
+00:20:45:12 - 00:20:46:04
+不明
+To.
+

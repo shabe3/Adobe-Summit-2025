@@ -1,0 +1,528 @@
+00:00:00:08 - 00:00:27:49
+不明
+Welcome, everybody. This is as 520 Journey optimizer. Before we get started, I just wanted to quickly do a hand survey. How many of you guys have Journey Optimizer and have a couple of use cases live already? Oh, I love to see it. Who is curious about Journey Optimizer? Doesn't have it yet, but. But thinking about it.
+
+00:00:27:53 - 00:00:32:40
+不明
+Who has no idea what I'm going to be talking about today?
+
+00:00:32:45 - 00:00:54:16
+不明
+All right. Seriously? Welcome. I know we're one of the last thing standing between you guys. And drinks and parties and cocktail receptions and everything else. I'm Jason Hickey. I'm the director of product marketing and strategy for Journey Optimizer. I'm joined on stage by Jason Prasad, who's the director of product management. We're really, really excited today.
+
+00:00:54:16 - 00:01:15:43
+不明
+We're going to walk you guys through a lot of cool stuff about what we've been building. What's coming up? And a couple of sneaks you guys saw for everybody who, saw the mainstage keynote today. You heard all about agents. So we're going to talk a little bit more about about two of the agents that are coming into in the Journey Optimizer and really excited to get going.
+
+00:01:15:48 - 00:01:35:01
+不明
+So before we get started, just a disclosure. Anything on roadmap can change. So our lawyers make us say this. Like I said, we're going to walk you through a little bit of the why, especially for the folks who aren't quite sure what Journey Optimizer is. Just a couple of slides on this, and then we're going to get into the into the heart of the session.
+
+00:01:35:06 - 00:02:05:54
+不明
+I'm going to talk about the roadmap innovation. Then we're going to show you some sneaks. We're going to show you two demos for the two new agents that we're building in now. So first I'll start with the why, why did we build Journey Optimizer? What's it all about? And over the past five years had a lot of conversations with customers, both in terms of where were their teams going with respect to, were they doing pods or centers of excellence or channel managers?
+
+00:02:05:54 - 00:02:28:42
+不明
+And how were these customers, these brands, wanting to bring these channels together for consistency across each interaction point, as well as a streamlining of the operational impact to their to their companies? The sort of the swivel chair effect or the operational and switching costs of moving from tool to tool or integrating different, products for, for data pipelines.
+
+00:02:28:42 - 00:02:50:17
+不明
+Right. And then at the same time, we saw a pretty big shift in this idea of customer centricity, moving from this idea of batch and blast kind of campaigns to really hyper personalized, signal driven, triggered campaigns that are happening on a real time action where it might only go to just one person, or it might go to a bunch of people, but they're getting them individually.
+
+00:02:50:22 - 00:03:11:20
+不明
+And then about weaving intelligence through all of it. So smarter experimentation, smarter decisioning next best action. Next best offer. Next best experience. And how do we actually bring that into every kind, every part of, of this platform. So that's really why we built Journey Optimizer. That's what it's all about. You're thinking about unified customer experience or the consumer experience.
+
+00:03:11:20 - 00:03:45:35
+不明
+So, any consumer who's hitting your website, your mobile app, walking into a physical location, a store, a branch, calling you up on the call center, using a kiosk or the Internet of Things, they're getting something that's consistent, where they're seeing the same thing everywhere, where you're able to centrally orchestrate it. And then from the marketer experience, your practitioners either you in the room or the team members that you work with, you're doing it all in one place with a common layer of trust, of governance, of access controls, common data, common content, right.
+
+00:03:45:35 - 00:04:07:51
+不明
+And the common intelligence. So that's just the one page. What is Journey Optimizer? Why you guys are all here. Who saw me do this session last year? Is are we have any repeats? Oh, man. Okay, this is the second year we've ever done this. And I'm really hoping that we make it a yearly thing. So I was thinking back to what I presented last year and tried to give myself a scorecard of, hey, I said, we're going to ship a bunch of stuff.
+
+00:04:07:51 - 00:04:27:42
+不明
+How did we do? I don't want to get up here and just tell a bunch of lies. So this is last year, and now, if you guys have been along for the ride, you saw 2024 is a pretty watershed year for the product. We shipped a bunch of new channels. We built content cards for the mobile app for for marketer, non-technical practitioners, for developer personas.
+
+00:04:27:42 - 00:04:53:40
+不明
+We released our code based experiences that go into any API endpoint. So you think about non-visual services. You think about kiosks. You think about connected televisions. You think about voice assistants, call centers, anywhere that you can call an API. You can now have agile on that channel. We did in-browser messaging. So again, no code authoring for a non-technical practitioner to be able to pop up, in app messages, in browser messages.
+
+00:04:53:45 - 00:05:11:49
+不明
+And then with our partnership with synch, we unlocked it in a mass messaging. We have a bunch of new capabilities here as well, but I just wanted to kind of show you the pace of innovation that's going through Journey Optimizer and is impressive as I think 2024 was. I think we're actually on pace to eclipse it in 2025.
+
+00:05:11:54 - 00:05:31:46
+不明
+So I'm really excited to kind of walk you through what the year looks like for how we're going to give you a lot of, of detail on exactly what we're releasing. And the strategy hasn't changed since the first day that we shipped this product. So here's what we're going to be talking about today. First category we're going to be talking about basically content and channels.
+
+00:05:31:51 - 00:05:51:45
+不明
+What are we doing in the integrations across the Adobe ecosystem? We have this amazing DNA of content in Adobe, right? From all the Creative Cloud apps, as well as our, asset management, our content management side, gen studio side, Dynamic Media, Adobe Express, all this cool stuff, and then as many channels as we have in Journey Optimizer, we're still not done.
+
+00:05:51:46 - 00:06:12:00
+不明
+We're constantly adding new channel. So we'll talk about a bunch of new channels that we're adding this year. Second, we're going to talk about innovations to the Journey Canvas itself. So you guys are actually creating these real time 1 to 1 journeys. And we're going to talk about new innovation innovations and journey optimizer to bring the best of Adobe Campaign into Journey Optimizer for batch and ad hoc workflows.
+
+00:06:12:05 - 00:06:33:21
+不明
+And then lastly, we're going to talk about where we're infusing intelligence, especially across our decisioning for next best everything and then sneaks into the journey agent and the experimentation agent. So with that, I'm going to hand it to Jason, and he's going to walk you through the product strategy for content. All right. Hopefully I'll speak faster. So I want the screen saver.
+
+00:06:33:26 - 00:07:06:29
+不明
+Okay. So the first the first integration I'd like to talk to you about is the announcement that we made a keynote earlier today, Adobe Gen Studio for performance marketing with Adobe Journey Optimizer. So Gen Studio is really adept at making those on brand email with variants that are tailored for personas that you want to reach, and bringing that into Journey Optimizer, leveraging those emails, pulling them into the orchestration canvas, and then using them to highly individualize or personalize the communications that go out there.
+
+00:07:06:33 - 00:07:29:58
+不明
+That crossover is going to be essential to make that happen. The next feature I'm excited to talk to you about, and these are going to be kind of heavy hitting, quick, heavy hitting features that I kind of go through. The next feature that I want to talk to you about is an integration with an experience manager assets. So experience manager has a construct called Dynamic Media Layers, where you can overlay multiple assets together to form a composite image.
+
+00:07:30:03 - 00:07:54:29
+不明
+So this could be watermarks tags so on and so forth. We're bringing that notion into Journey Optimizer to where you can also embed personalization as a layer on top of dynamic media. So you can have a visible editor that lets you edit an image, pull personalization into it. You will have centralized asset management. So you're not reusing content over and over again, or you're reusing content over and over again, not duplicating content.
+
+00:07:54:33 - 00:08:12:08
+不明
+And then you'll be able to kind of have updates, if you will. Updates made in M fragments reflect into Journey Optimizer seamlessly. And you can use this for use cases like let's say you all kind of seen those credit card images that have your your name on it that get you really excited to sign up for those credit cards into something like that.
+
+00:08:12:08 - 00:08:41:25
+不明
+With this. Okay. The next integration I want to talk to you about with Experience Manager is the notion of content fragments. If you've used experience manager you know they have, the idea of content fragments. You can bring those into Journey Optimizer. You can insert personalization placeholders and use them across channels. So if you have experience manager doing your web apps or mobile app, you can also use the same content fragment inside of Journey Optimizer for email and so on and so forth.
+
+00:08:41:30 - 00:09:13:03
+不明
+Okay, the next integration that we have is Adobe Express and Adobe Journey Optimizer. So Adobe Express is a fantastic application, creative, rich, lots of editing prowess bringing the power of that into Journey Optimizer. If you don't have a license, it gives you basic operations like crop, erase, remove, background, resize, adjust. But if you do have a license to it, then it gives you the ability to do things like insert text and layouts, shapes, overlays, so on and so forth.
+
+00:09:13:07 - 00:09:38:14
+不明
+Okay, the next use case is we made an announcement last year that we have AI powered content generation. Give us a tone. Give us a prompt. Give us a few inputs and we can automatically generate content for you on the fly. This is taking it one step further. We're enhancing that to also set brand standards in terms of what your tone should look like, what your copy should look like, the colors you ought to maintain for your brand look and feel and consistency.
+
+00:09:38:25 - 00:10:01:51
+不明
+So you can use all of those now as the inputs to kind of generate generative AI copy, if you will, as part of your email push and other marketing channels. Okay, the next enhancement is a feature to our landing pages in Journey Optimizer today in Journey Optimizer. So with landing pages were enhancing it with a piece called Data Acquisition Forms.
+
+00:10:02:05 - 00:10:24:05
+不明
+So if you want to create new profiles from a landing page or you want to update existing profiles with new attributes, you can do that with this feature. So a use case of this could be that a user interacts with a promotional form of some sort on a landing page, and they provide new pieces of contact information. You can use that to update their existing profile information, so you can retarget them a little better.
+
+00:10:24:10 - 00:10:49:50
+不明
+Okay, you guys, I almost wish we had drum roll for this. And I'm half expecting applause for this. But we have folders in agile today. Thank you, thank you, thank you. So folders let me tell you about folders. If you're not aware of folders the folders help you organize things inside of our product. I know we're laughing about this, but guess what?
+
+00:10:49:51 - 00:11:14:16
+不明
+Every customer has asked us and we're so excited to finally have it in our product. And the one thing you ought to know something about folders is they come with access and permission control. And if you have subfolders, all of that kind of rolls downstream into those subfolders as well. Okay, Jason. Awesome. I seriously think folders was number one on our roadmap wish list change like last time.
+
+00:11:14:21 - 00:11:33:23
+不明
+So I'm going to talk about channels. And so we build Journey Optimizer to be open. You can use us for everything. You can have, kind of a heterogeneous technology stack. You can call out to third party endpoints, other vendors, whatever. We're super open, and we we have a lot of capability there to to connect to both outbound and inbound services.
+
+00:11:33:28 - 00:12:07:11
+不明
+But we're really excited about announcing a direct partnership with meta to bring WhatsApp channel into AJL. So WhatsApp Business Channel is an incredibly popular channel, especially in Latin America and other parts of the world. And here as well. So what this integration point and this native authoring experience is going to let you do is connect to your meta business account, configure your marketing or operational templates inside of meta for your WhatsApp comms, and then those templates pull into AJL in our visual designer.
+
+00:12:07:11 - 00:12:47:25
+不明
+So you get a Wysiwyg experience. You get the pre-populated list of the templates that you've created, and then you can apply those in our journeys or campaigns for transactional or marketing use cases, and have access to, to WhatsApp native in in journey optimizer. Another new channel that we're really excited about is EOS Live Activities. So for those of you who are in the Apple ecosystem, if you've ever ordered an Uber or a Lyft or gotten groceries delivered, or if you've checked a flight status, or if you are waiting for food to get delivered or anything like that, you've probably seen something like this where you're not in the app, you're on your lock screen
+
+00:12:47:25 - 00:13:15:23
+不明
+or your home screen, and you see this kind of floating overlay with a countdown timer or, you know, your drivers almost here kind of situation. So this has a ton of use cases across a variety of industries, but we're going to let you configure the iOS live activities inside of Journey Optimizer. And then send those in real time, based on, on the events and then the profile data that you're keeping in the platform.
+
+00:13:15:28 - 00:13:46:47
+不明
+The next one I'm actually really excited about, RCS messaging. I really think it's crazy how fast RCS messaging is, is blowing up in popularity in North America. Over just the past year. Even when you think about the the tier one carriers, that are actually, you know, the backbone telecom plumbing of, of of messaging and then the handset providers themselves, across your Android and your, your iPhone ecosystem.
+
+00:13:46:52 - 00:14:12:24
+不明
+The, the, rate of adoption and the accessibility of RCS is, is greater than ever. But for those of you who might not know what RCS is, think about every time you've engaged with a brand, you've done a password challenge. Single sign on, one time pin. You have got an appointment reminder from from somebody, and you get a text from a number you've never seen.
+
+00:14:12:24 - 00:14:30:40
+不明
+It says three 4 or 5, seven, six. Your delivery is almost ready. And you're like, okay, I guess that's who this is. They say that it's, you know, this is my brand, but you don't know. So RCS has this thing called registered RCS agents, which registers with a central authority, which means that the RCS message itself is branded.
+
+00:14:30:49 - 00:14:54:16
+不明
+You see the logo of the brand that you're dealing with. It's validated or verified. You get the little checkmark that says, this person is who I think they are. And it's rich. So it's not just texts like an SMS. It's not just multimedia, like an MMS. You actually get these really cool things like slide carousels. You get buttons or pills, you get commerce transact ability.
+
+00:14:54:20 - 00:15:19:52
+不明
+It's an app like experience without ever actually having to open an app. And it's in your message inbox in your phone. So this is RCS and we're really, really excited about it. And we're rolling out RCS in waves across the year. So right now today, you can send an SMS through Journey Optimizer, provided that you're contracted with us through our partner cinch and get auto RCS upscale.
+
+00:15:20:01 - 00:15:42:38
+不明
+What that means is, is that we will check to see if the recipient is eligible to receive an RCS, and if they are, then they'll receive the message as an RCS instead of an SMS at no. No surcharge. So you pay the SMS rate, you get the RCS message, it'll have the branded RCS message. That's for RCS basic, which means that it's plain text.
+
+00:15:42:49 - 00:16:08:03
+不明
+So it's still an SMS like text message. The second phase of what we're doing in, a couple of months in the May time frame is the ability to set up a custom configuration of RCS, inclusive of of the dynamic, custom carousels and actions with any provider. So if you're using us, you can do that. If you're using another provider, you can do that as well.
+
+00:16:08:08 - 00:16:31:13
+不明
+And then lastly, in the last half of the year, we're bringing a native author and experience for RCS. So you can actually design the carousels and the buttons in the pillars yourself, and then bring all the robust analytics back from, from the RCS ecosystem. So this one's huge. And I think it's really excited. You guys can actually go try it today or on Monday when you get back in the office to try RCS Auto Upscale.
+
+00:16:31:18 - 00:16:54:06
+不明
+And start seeing what that looks like for your open rates or your click rates when you're actually sending messages through a registered RCS agent that has your logo and your verification status to it. Similar to WhatsApp, we're also, releasing line. So same kind of talk track as, as WhatsApp line is just the overwhelmingly number one messaging app in Japan.
+
+00:16:54:11 - 00:17:15:19
+不明
+It's also popular across Southeast Asia, and Singapore and Thailand and a couple other countries. So we'll have native line support, in Journey Optimizer as, as well. This is in beta. Now, if this is something that's interesting to you and you operate, in, in Southeast Asia and you're interested in line, let us know and we can get you in in the beta.
+
+00:17:15:24 - 00:17:36:51
+不明
+This one I'm also super excited about. So last year we released content cards. So content cards you can imagine are an inventory of tiles, that you can look at and might have offers or promotions for you. So we're taking it one step further and evolving the kind of cards construct into building a persistent message center or an inbox.
+
+00:17:36:56 - 00:18:07:30
+不明
+And so this is where you can imagine if you send a user a push notification, but they dismiss it or they forget it or they ignore it or they get busy. That push message might be gone forever. So it just kind of, you know, evaporates. If you clone that message into the inbox, then it's there in a persistent state on their mobile app, as well as their website or any other inbound surface that you have access to, where then they can go say, oh yeah, I remember, I got something, let me go look in my inbox and see.
+
+00:18:07:41 - 00:18:29:42
+不明
+And so we've stored it. Then they can retrieve it and then continue across their journey to complete that transaction or do whatever it is that they were looking to do. So inboxes is going to be in beta soon, coming out by the end of the year. And then lastly, when it comes to channels, for those of you who are using us for CDP, we generally think of Journey Optimizer as an owned channel ecosystem.
+
+00:18:29:42 - 00:19:00:51
+不明
+You're activating the channels that you own and operate, but sometimes, no matter how hard you try, you've nudged and you've nudged and you've tried to get them to engage with you and the the profile, the consumer just really isn't biting. So for our joint customers that I've CDP and Journey Optimizer, we are now going to allow you to select a set of paid media destinations and social destinations directly on the canvas so that you can actually say, okay, we've tried to email you, we've tried to send you a message, we've tried to engage you on our website and in our app.
+
+00:19:00:56 - 00:19:27:23
+不明
+We're going to now put you on this journey, and we're going to we're going to put this into Facebook and try to recapture you through, through through social. So these will be like I said, destinations from our CDP drag and drop a onto onto the journey canvas. So super excited about that. In terms of all the new channels that that we are building for out of the box support in in Journey Optimizer this year.
+
+00:19:27:27 - 00:19:46:50
+不明
+So I talked a little bit about the Journey Canvas itself. And so the next set of innovations are really going to be, quality of life innovations to make your jobs easier, to make you happier, to make you more productive, to make you more efficient. Cheetham is going to walk you through some of the awesome things that we're doing to iterate on and improve our journey.
+
+00:19:46:50 - 00:20:06:52
+不明
+Canvas. Thanks, Jason. So this part of the presentation is really exciting for me. It's really exciting for me because this is the core part of the product, right? This is where we make all those channels, those content integrations, everything that we're doing in the product come alive in our journey construct and the way we're thinking about our journeys.
+
+00:20:06:52 - 00:20:32:34
+不明
+Roadmap is we're thinking about how to make your lives easier in terms of helping you reuse, helping you modularize business logic that's in the journey, helping you extract more value from, from from your interactions that you're already putting into the product in terms of being able to ideate or reuse, constructs that you're already creating. The first feature that I want to talk to you about is the notion of journey fragments.
+
+00:20:32:39 - 00:20:49:50
+不明
+So with this feature, the way we're thinking about it is you can take one or more nodes on the canvas. So if you had a journey like an abandoned car journey, let's say you had an email channel in there, a push channel, and let's say you had some business logic, some conditional logic that kind of guided users down certain paths.
+
+00:20:50:03 - 00:21:19:34
+不明
+You can lasso around all of that logic and save that as a fragment. And we'll let you we'll let you kind of browse all of that through a fragment of an inventory of fragments, and you can use fragments across multiple journeys. And the idea really here is that these fragments kind of take a life of their own in the sense that as you make updates to these fragments, as you can improve these fragments over time, those fragment updates will propagate to journeys, or you'll have the option to propagate those to journeys that are both live as well as in draft.
+
+00:21:19:39 - 00:21:48:57
+不明
+And so the idea here is really giving you more control, more modularization in terms of who's building this, this pieces of business logic, if you will, and how you can find reuse over and over again in the product. The next feature we think is really exciting. It's the notion of real time pause and resume for journey management. So a use case of this could be, you know, you might have a holiday promotion journey that's running live, but let's say inventory is running low.
+
+00:21:49:01 - 00:22:15:10
+不明
+Instead of stopping the journey, you can pause the journey update messaging. And when product stock comes back online, you can then republish the journey. And so this allows for a little more control, hopefully a lot more control to kind of have to be more responsive, if you will, in terms of how you think about journeys corresponding to the realities that you have in your business and how you might use them across the enterprise.
+
+00:22:15:15 - 00:22:40:04
+不明
+The next feature is the notion of quiet hours, right? It probably doesn't need a lot of introduction, but the idea of being able to kind of honor a user's preferences or regulatory or or or requirements that you might have in your unique business, being able to specify those and honor those, and being able to use those as a way to kind of suppress messaging is a feature that we're also adding to our journey construct.
+
+00:22:40:09 - 00:23:06:10
+不明
+So with this, you'll be able to use the timezone preferences that a user has and profile know what their acquired hours are based on rules that you set, and then your journeys and your messaging inside of our product will honor all of that for the purposes of maintaining quiet hours, if you will. So if you didn't want to reach users during nights or weekends or other windows of time that really, really mattered to you or were sensitive, you can do that with this feature.
+
+00:23:06:15 - 00:23:25:22
+不明
+Okay, the next one is a little is a little nuance, but bear with me. So we're adding this new feature called Journey Parallel reentry. And maybe the best way to describe this would be to give you a use case. So the way I kind of think about it is let's say you have a cart abandonment. I seem to like those use cases, by the way.
+
+00:23:25:27 - 00:23:51:35
+不明
+Let's say you have a cart abandonment journey, and in this journey, let's say someone goes through it because they add something, add something to the cart and they don't check out. So they enter the journey. Once they entered the journey, let's say they go back to that cart over some time and add another item and abandoned again. This time they'll reenter the journey and the messaging they get will based on their will be based on the latest card that they have, as opposed to the previous cart in the previous journey entry that they had.
+
+00:23:51:40 - 00:24:11:02
+不明
+So we think this feature is really exciting. We think you're going to use it in ways we don't understand yet. We've had a few customers ask, so this we think it's really powerful for what this gives you, beyond kind of the use case that I described is it also lets you kind of do things for real time journeys in a way, to kind of catch people where they're at.
+
+00:24:11:02 - 00:24:31:59
+不明
+Right? You could have a dynamic business, you could have dynamic use cases. And this really starts delivering on some of those advanced use cases that you might want to do with journeys. In our product. Okay. The next one, this is a little bit like folders. You guys. I'm not expecting applause for this one, but we're adding an activation calendar.
+
+00:24:32:04 - 00:24:49:29
+不明
+And the activation calendar is really kind of bringing a few things together in the sense that you've got journeys in our system, you've got campaigns running in our system. And we kind of wanted to give you a place where you see all the things that are happening inside of the ecosystem, inside of our product. And this is step one of many, if you will.
+
+00:24:49:34 - 00:25:09:31
+不明
+So the calendar really shows everything that's in drive schedule live, completed, whatever, as you kind of want to see it and show to you on a calendar. There's Permissioning behind it. There are some level of collaborative workflows behind it, so you can really get to a place where your timing, your journeys, and your campaigns based on the time based milestones that you care about.
+
+00:25:09:36 - 00:25:29:04
+不明
+Over time, we're going to let you do things like upload your own events and and I'll talk about I'll talk about some of the AI innovation. But this starts forming the foundation of how we think about the intent that you come into our system and start doing things that really matter to you with our with our product. With that, I'll pass it over.
+
+00:25:29:04 - 00:25:54:24
+不明
+Jackson. Cool. Thank you. So we built Journey Optimizer, as I've said before, for real time, 1 to 1 engagement. We built it to be the fastest 1 to 1 engagement application in the world. And we asked you a pretty tough question when you started to adopt Journey Optimizer or are a pretty tough ask. We asked you to reimagine how you do everything.
+
+00:25:54:29 - 00:26:17:40
+不明
+We asked you to go from batch and blast into customer centric, and everybody has been game. Moving to customer centricity has been the number one, you know, business priority. And a lot of these digital transformations, like in so many conversations that I've been in. But you can't just abandon your batch workflows and, and those kinds of campaigns.
+
+00:26:17:55 - 00:26:47:58
+不明
+So what we're building into Journey Optimizer is a whole new re-imagination of a campaign orchestration workflow that's reminiscent of taking the DNA of 20 years of Adobe Campaign and reimagining it on platform. So what this is going to mean for you guys is that we are going to have the profile database in platform, which is all your real time customer profile data and a type two relational database using snowflake to have all of your non profile entity data.
+
+00:26:47:58 - 00:26:55:52
+不明
+So all of your bookings or your store information or your cancellations or store information.
+
+00:26:55:57 - 00:27:25:25
+不明
+And then you're going to be able to query both the relational database and the profile store to build all of these ad hoc queries for batch workflows. And the visualization would really be helping me right now. But the idea is that you can change dimension instead of saying, hey, I want to build an audience of people who just bought a thing, you can actually flip the script and say, show me all low performing stores.
+
+00:27:25:30 - 00:27:58:45
+不明
+Show me stores with the most amount of losses or cancellations or returns, or show me the top 500 reservations by value. And I might actually be three rows in that query. Right? Like in terms of all the all of the reservations. But you can look at non profile data, start to build a query and then flip it back to a profile dimension and then give that and then start to send that message in in a, in a batch way.
+
+00:27:58:50 - 00:28:19:17
+不明
+So this is what it looks like. You're going to be able to query the database for the audiences. You're going to be able to have multi entity segmentation. So multi entity here means more than just profile information. You're going to be able to then merge these different sources of destinations. See your preset visibility. So you exactly know with precision exactly how many people the message is going to go to.
+
+00:28:19:28 - 00:28:52:46
+不明
+And then continue on a multi-step campaign across multiple interaction points. So I'm going to shift gears a little bit and talk about AI, ML and decisioning inside of Journey Optimizer. So inside of Journey Optimizer we have a full decisioning engine for real time interaction management. Next best experience. Next best action. And if you think about our general philosophy for for how we're thinking about next best blank and I have no notes or screen in front of me anymore.
+
+00:28:52:46 - 00:29:09:50
+不明
+So this is really testing how much I know this content. So you have a you have a person, you have a profile, you have context around that profile. You have a goal, some kind of a business goal. You might have competing business goals. You want thing one to go up and you want thing two to go down. You want to increase the size of your average orders.
+
+00:29:09:50 - 00:29:31:19
+不明
+You want to reduce the amount of call center volume that that you have. Then you have a bunch of actions or channels, and you have content that you can give. So we're really looking at deploying and and throughout I guess I should tell you. So today in Journey Optimizer we've been really focused around next best offer next best content.
+
+00:29:31:19 - 00:29:53:44
+不明
+Right. So we have business rule ranking. So logic that you can apply. We have AI ranking with, with AI models that we've built proprietary in-house. And now we're looking to shift the decisioning framework to every single object that exists in Journey Optimizer. So we're going to start with next best journey. Is that right? It is.
+
+00:29:53:58 - 00:30:21:33
+不明
+So think about AI journeys right. You have an individual who might qualify for multiple journeys at a time. Jason talked a little bit about how we think about this from a from a prioritization perspective. And we've already launched tools for for journey arbitration around conflict management, and business logic. But imagine applying AI to figuring out, okay for any individual profile, what is actually the best journey for that person to get in.
+
+00:30:21:38 - 00:30:45:06
+不明
+And then once they're in the journey, you can think about path optimization. So I have a journey. I'm in the journey. But this journey has like seven branches on it. And normally those branches are built on conditions. And those conditions could be something manual, like a score. So it could be like if my propensity score or my churn score is between 0 and 3, I get branch one.
+
+00:30:45:07 - 00:31:10:53
+不明
+If I'm 4 to 6, I get branch two, etc., etc.. But now we're actually going to wrong slide. Now we're actually going to be able to say, hey, I want to either do an experiment. So AB test these journey paths so I can actually test a bunch of, for any individual profile. What's the best branch of this journey for them to go on or use our AI ranking to actually say, just in time, you know, I don't care.
+
+00:31:10:53 - 00:31:28:10
+不明
+Just pick for me, pick the right branch of this journey for this profile. I'm going to trust you. We're going to reinforce that, obviously, to make sure that it's performing properly, against our, you know, against a control, but use that AI. So now, you know, you're in the right journey. Now you know you're in the right path.
+
+00:31:28:24 - 00:31:49:08
+不明
+What's the next logical step? Channel optimization. So this is something like smart channels, right. So inside of a specific node on the journey canvas today you can do preferences. Right. If you know I prefer to get a push message over an email because I've indicated that in some way via a survey or a preference center. You can respect that today.
+
+00:31:49:08 - 00:32:07:08
+不明
+Totally. But if you're not sure or if they sort of have equal preference or if my preference changes depending on the day, the week, or the time of the day, or even my context. Maybe I'm on vacation, maybe I'm in Las Vegas for an event, and I'm just not accessible in the exact same ways that I usually am.
+
+00:32:07:19 - 00:32:26:40
+不明
+So you can use AI now to actually say, we know your night journey. We know you're on the right path. We know you need to get this message. We know you need to send it to you now. We actually don't know the best way to send it to you. So let's let's either again run an experiment or use some AI, in our decisioning engine to provide that for you.
+
+00:32:26:45 - 00:32:40:34
+不明
+And then, yeah. So then the journey arbitration, right, to actually figure out, like, how all these conflicts are being managed.
+
+00:32:40:39 - 00:33:03:16
+不明
+The next thing I want to talk about is, for those of you who are working with data science teams or for the folks who are like, yeah, I know you have algorithms, I know you have fancy AI models. I don't really trust them all the way, or I kind of want to do my own thing, or I want to take what you have and combine it with what I have, because I have a whole team running data science models.
+
+00:33:03:21 - 00:33:19:32
+不明
+And let's see, you know, let's merge them together and take the best of both worlds. So this is the new formula builder for AI ranking in Journey Optimizer for decisioning. And the really cool thing about what this is going to let you do is the way that you build formulas right now in Journey Optimizer is a code box.
+
+00:33:19:37 - 00:33:37:12
+不明
+It's a it's a big weight, white blank space, and you type code into it. And if you're not the type of person who wants to write what we call pkl, that feature is probably not for you. And you might look at it and say, well, I'm never going to use this, or you have to get an a backlog of somebody who is going to start writing some scripting to be able to get you the formula that you want.
+
+00:33:37:26 - 00:33:57:28
+不明
+So we will still have the scripting language for the power users who want to write in Pkl. But we also now have this total Wysiwyg mode, which goes beyond what you could even do in the formula builder, because it's going to let you take computed scores for models outside of the Adobe ecosystem. Scores from inside the Adobe ecosystem like R2, CDP, customer AI.
+
+00:33:57:30 - 00:34:25:55
+不明
+Right? So propensity scores, churn scores and things like that with model scores that we have in our AI ranking and then do math basically against them to be able to say, I have a series of options, let's say offers in this case. And each of these has an expected business outcome and a priority. And I'm going to check the model scores for each one of these to to multiply the priority versus the expected value.
+
+00:34:26:04 - 00:34:50:57
+不明
+And then that's how I'm actually going to build my decisioning. So a ton of sophistication in here. But the too long didn't read for you guys is it's going to let your marketing team work with your AI and data science teams in a much more meaningful way. Inside of of Journey Optimizer. And then for those of you who have been working with decisioning right now, historically it's been, a code based affair.
+
+00:34:51:01 - 00:35:10:42
+不明
+So we we have an API endpoint and you can, you know, put it in a channel. So we're bringing the Wysiwyg authoring into every channel we support. So all the channels I just talked about today, all the channels that exist already in the product, you're either going to be able to drag and drop decisioning onto that authoring canvas or use our personalization editor, in like a, like an in-app messaging channel.
+
+00:35:10:42 - 00:35:44:28
+不明
+Use the personalization editor to to very quickly without code, drag and drop decisioning onto any of the native channels that we support in addition to our API, custom channels. And when you put it all together, it looks just a little bit like this. I kind of wanted to put it in context, right. So applying again, both the principles of experimentation and decisioning or both to be able to say, at each journey, at each path, at each node, at each message, you know, at each channel, at each offer, apply those, those principles.
+
+00:35:44:29 - 00:36:02:00
+不明
+And the really cool thing here is you can actually test multiple strategies against each other. So maybe you have three different ranking strategies you want to try one that's an AI model, one that's some business ranking and one that's a mix of the two. You can actually test all those together. Or let's say you've picked your selection strategy and you've got the model really tuned how you want it.
+
+00:36:02:14 - 00:36:25:30
+不明
+Then you can actually start to AB test on the presentation layer, or at the, at the offer level. So now let's talk about sneaks. We've got two demos to show you. But I want to double click a little bit more into one of the agents that was announced on Main Stage this morning, and that is the experimentation agent.
+
+00:36:25:35 - 00:36:51:23
+不明
+So I've been in experimentation for 18 years, give or take. And in a lot of ways, the experimentation culture, the universe of experimentation hasn't really changed much for the sort of standard deviation bell curve customers, if you're, you know, some of the top brands in the world who are doing these incredible experimentation things, that's amazing, and my kudos to you.
+
+00:36:51:28 - 00:37:11:07
+不明
+But I would say most of us feel stuck sometimes of we don't run enough tests or the tests that we run, don't win often enough, or the lift amount is too small or we struggle for resources. We struggle for our priority. We can't get the attention of our of our leadership to actually talk about how great experimentation is.
+
+00:37:11:20 - 00:37:32:20
+不明
+I think everybody intuitively knows that experimentation is good, and that we should do it, and that it is an empirical way to actually figure out some decision making where we're stymied by, the real estate or scarcity or office politics. But for whatever reason, in the experimentation, culture itself just has not really broken through. There's eight Geist.
+
+00:37:32:25 - 00:38:06:23
+不明
+So I think about why that is. And you think about the tribal knowledge of experiments. And as you lose team members, you might have results of previous experiments in wiki or in Jira or in SharePoint or in Miro or just in somebody's brain. And then they leave the company. But there's no real way, systematically, that most of the companies that I work with are actually figuring out, like, what have we ever done other than just in the recent time that we can remember what works, what doesn't, what's been tested, what hasn't, and what ideas constantly.
+
+00:38:06:23 - 00:38:30:18
+不明
+The thing is, we would love to experiment more, but we actually don't know what to test. We're not sure where to start. So that's what Experimentation Accelerator is all about. So Journey Optimizer Experimentation Accelerator is a new app experience on platform in the Journey Optimizer ecosystem that is going to train on all of your experiment data in both target and agile.
+
+00:38:30:23 - 00:39:00:00
+不明
+That's the key part. I don't know if anybody in here is using Adobe Target and has been using target for a long time. With web testing, this works on target. So super, super exciting. It is going to use the experimentation agent. That shot and we talked about on Main stage today, and the experimentation agent has a set of a genetic skills, that are going to review all of the experiments that you've run, find commonalities in what made the content variations in those experiments work?
+
+00:39:00:05 - 00:39:25:46
+不明
+Do some reverse, like some sentiment analysis, some content analytics as well, which we talked about today, to actually figure out the nature of the variation and the treatment itself and then provide opportunities, into here's what you should do next. And then the goal is that you start to run more tests. You infuse generative AI into those experiments because we can automatically create variations for you where it makes sense.
+
+00:39:25:46 - 00:39:47:30
+不明
+Or if you'd prefer to create them yourself, that's fine too. And then learn from your tests more. So you're testing more often. The win rate of your tests is going up, and the variation or the amount of of lift that you're going is getting is going up. So Jason's going to walk you through a quick demo of, Experimentation Accelerator.
+
+00:39:47:41 - 00:40:07:38
+不明
+But again, this is both seamlessly, in Adobe Target and Journey Optimizer. So if you're not fully using Journey Optimizer yet, this is going to, to launch, training on, on all of your Adobe Target data. So let's get into the demo. Okay. So here's the new user interface. I want to call out a few things and I apologize.
+
+00:40:07:38 - 00:40:29:18
+不明
+I'm setting I'd rather be standing but you know whatever. So the new interface is intentionally simpler right. If you've looked at a lot of Adobe product, there's a lot of complexity hitting you in the face. As soon as you you pull up one of our UI's. But this is attempting to be from design language on up, intentionally simpler, easier to approach, so on and so forth.
+
+00:40:29:23 - 00:40:52:06
+不明
+How we've organized the page is also simpler. We're trying to put things that matter the most front and center. So the one of the first things that you see is the notion of KPIs that actually matter to you. And so here for this mock up, you see the notion of revenue increase that you might care about the number of live experiments that are running and surfaces that you might run, that you might be running these experiments in.
+
+00:40:52:11 - 00:41:18:37
+不明
+So the idea here really is to kind of show you what KPIs are, are being moved as you kind of run these experiments and as you kind of come back as you kind of scroll down, you'll also see a notion of experiments that are doing really well, experiments that need attention from your from from what we think, you probably should be taking attention, probably should be caring about and also some level of, of trending KPIs.
+
+00:41:18:37 - 00:41:38:05
+不明
+So we have a few directional indicators on revenue going up or CTR going up, those kinds of things. So for the purposes of an example, let me kind of follow one of these. Right. So let me click on revenue. And when I do I see kind of a more detailed drill down page that shows me here's how revenue was moved over time.
+
+00:41:38:05 - 00:42:15:27
+不明
+With all of the experiments I've kind of run, using this product. Now, the core principle here, as Jason talked about, is this is trying to make experimentation more approachable. And one of the ways that does that is it shows here on the right the notion of opportunities. And so this is where the experimentation agent comes in. Think of this as an always on continuously monitoring agent that's looking through data, that's looking through journeys, that's looking through activities and target and trying to figure out is there anything else I can put into an existing journey or an existing target activity that would make it more meaningful?
+
+00:42:15:32 - 00:42:36:12
+不明
+And so all of these opportunities that you see on the right are ideas. So the first one is add a treatment that promotes how Adobe's product products enables users to improve their design skills. So let's see what happens when I hit that. So when I hit that, the opportunity can unfolds a little bit more, tells me a little bit about the probability of lift that we've calculated.
+
+00:42:36:26 - 00:42:58:19
+不明
+It tells you the kind of experiment that it is, some rationale to justify why we think it's an important opportunity. And then on the far right, there's the notion of add to experiment. You might ask, hey, I think in my organization, the journey manager sits at an arm's length distance from the growth practitioner or the product manager that cares about this experiment.
+
+00:42:58:24 - 00:43:23:48
+不明
+So how would this really work? So when I hit add to experiment here, what this is doing is this is queuing up that treatment that that variant, if you will, to the journey practitioner or the campaign practitioner and or the target practitioner and says, hey, we think based on what the growth manager said or the product managers said, we think there's a new opportunity you can add to a journey the next time you come into the ecosystem.
+
+00:43:24:01 - 00:43:43:09
+不明
+And so if I log in to the journeys product, I see a little call out on the top right saying somebody in my organization sent me a new opportunity. I can look at this if if, if it's non-intrusive, if it's accretive, if it doesn't mess with my current journey, I can follow these breadcrumbs and say, okay, great, I'd like to generate that treatment.
+
+00:43:43:09 - 00:44:02:15
+不明
+We've got some generative AI that generates copy if you like it, or you could use your own, and then you can use this content and then pull that treatment directly into the journey or the target activity. All of the screens that I'm showing you is from the perspective of Journey Optimizer, but a lot of these principles also work for Adobe Target.
+
+00:44:02:19 - 00:44:23:07
+不明
+And again, as I mentioned, there's kind of this notion of all of your all of your experiments showing up on on this page where you can then look at the KPIs that really matter to you based on those treatments that were adopted into a journey or a campaign or a target activity. So this was the experimentation accelerator. I know I went through it really fast.
+
+00:44:23:12 - 00:44:46:30
+不明
+This is working product we did. Marc's just so we wouldn't have any flubs during a demo. But if you're interested in kind of seeing this in action, I know we've got booths set up where you can go play with this or reach out to your Customer Success manager and you can get a demo. We'd love a to show you how it works in real life, but also to get feedback on how you kind of like to see this work given the nuances of your business.
+
+00:44:46:34 - 00:45:12:18
+不明
+Okay, so the journey agent. The journey agent I think is extremely exciting innovation. So if you think of journeys, there's really a few things you can do with journeys, right? You can create them, you can ideate, right. You can create complex branching logic, whatever. But let's say over time you have ten journeys, 50 journeys, 100 journeys, maybe thousands of journeys, depending on who you are and the kind of operation that you're trying to run.
+
+00:45:12:22 - 00:45:33:17
+不明
+As we kind of thought about, hey, what can we do to make AI really compelling for you? There were there were ultimately really two things. We kind of landed on. One, we could make your time inside of the inside of the journey apparatus more effective, right? We can we can help you with productivity. We can help you do things a little easier on the product.
+
+00:45:33:17 - 00:45:53:49
+不明
+Maybe make it easier to use top to bottom. But the second piece, the more compelling piece for us, is that we wanted to make sure whatever AI we put in, it gives you better and more differentiated outcomes in terms of being able to kind of bring AI into this, into this product surface. So the journey agent, what I'll kind of walk you through really does four things.
+
+00:45:53:54 - 00:46:29:22
+不明
+One, it analyzes performance of existing journeys. The second is the notion of adjusting journeys in real time. The third is to be able to modify an idea based on learnings that we have across other journeys that have been built, and how we think journeys ought to be built. And the last piece is the notion of being able to plan and resolve conflicts, so you can really figure out the heavy hitting journeys that you want to deliver to the customer over time, as I kind of walk you through those, you might have a question from why did you start with Analyze the just isn't step one of a journey of journeys creating the journey?
+
+00:46:29:27 - 00:46:47:09
+不明
+Absolutely. Have a lot of customers that run journeys, and we wanted to make sure that we kind of meet you where you are today and give you more out of the journeys you already have running. So analyze and adjust is really where we're beginning, and we've got plans to kind of get into, modify and resolve and conflict. Some planning.
+
+00:46:47:14 - 00:47:03:49
+不明
+So again, just like experimentation accelerate. You see what. Well, I'll kind of show you what you have, what we have today it's working product. And if if you've got ideas, if you've got places that you'd like to extend the product to have a conversation with us, and we'd love to kind of go into that direction. Okay.
+
+00:47:04:02 - 00:47:19:37
+不明
+Cool. Let me pull up a demo. Thank you. Just quickly before you do that, because I know we're running close to time, we're going to end with a demo. If you guys want to learn more about some of this stuff that we talked about today, there are three sessions that I want to make sure that you guys prioritize.
+
+00:47:19:42 - 00:47:38:01
+不明
+Tips and tricks for the practitioners is tomorrow at 1:00? So Ivan is going to do an incredible job walking you through all this stuff. You had no idea that Journey Optimizer could do, but you're going to want to take back to work on Monday morning. On Wednesday at 4:00, DPD is going to be with T-Mobile, and they're going to be talking about how they're using AI decisioning.
+
+00:47:38:10 - 00:48:04:25
+不明
+And if he's going to double click into more of the decisioning roadmap that I touched on today. So thank you guys all so much. And we're going to end this with the journey agent. Appreciate it. Cool. Thanks. So here's the journey agent, you might ask hey where is the journey agent okay, a few things. Just like what I kind of set the stage a little bit with, with the experimentation, with the experimentation agent, the notion of kind of redesigning our UI so everything isn't hitting you in the face is super apparent here.
+
+00:48:04:34 - 00:48:25:44
+不明
+So we have a few things that are key front and center for you. One, you've got a section of my journeys, right? Things that are running today. Things work that you kind of left off. You want to kind of pick up. All of that is front and center, but the journey agent is on the far right. It's continuously monitoring your journeys, checking to see if there's issues with journeys, trying to figure out if there's opportunities that you could take advantage of.
+
+00:48:25:49 - 00:48:45:35
+不明
+And so let me follow one of these. So I've got a little hotel brand, a travel brand if you will, and I've got a little recommendation that shows up right here that says for your current onboard new VIP customers, there's a recommendation. So if I hit that, there's a conversation over overlay that pops up and the conversational overlay does a few things.
+
+00:48:45:35 - 00:49:07:31
+不明
+The first is it's saying, hey, for the journey that you have, we think adding a new branch to those journey might be really compelling, and we think you need to update the journey with three components to get there. And then you read on and it says, okay, we've found a few insights. And based on these insights, we think modifying the journey would be really compelling.
+
+00:49:07:43 - 00:49:24:17
+不明
+And there's some level of ROI articulation for you. It tells you what the email engagement rate could be if you made this change. It tells you what the average booking rate or KPI that you really care about could be if you made this change once you look looked at this and said, you know, this looks pretty good, let me move on.
+
+00:49:24:22 - 00:49:43:43
+不明
+Then we can tell you, okay, great, this is how your journey is going to change. Here's the before looks mostly linear with one conditional branch. And here's the after. There's kind of a new condition added of core region. And the journey kind of splits into another branch. Based on based on what was there previously. This looks okay.
+
+00:49:43:43 - 00:50:24:08
+不明
+I hit apply once I hit apply, the system thinks about it for a second, tells me, hey, everything looks in order. I've updated the journey. But wait. Although I've added these new channels for the journey brands, content for those channels are missing. So you might say, well, can you help me with that? And so you could ask the journey agent, but to bring to bring content from Am directly into this flow based on text prompts, based on indicators that we kind of get from the conversation that you're having with the agent, we can go and look in your assets repository and bring the right asset in into into this flow and tell you probabilistically how
+
+00:50:24:08 - 00:50:40:34
+不明
+this asset is going to change the journey that you're about to run. You can interact with us a little bit more and say, you know what, I don't quite want this piece of content. I would like the second image for instance, and keep the text and the call to action. Third, the journey agents are sure this looks good.
+
+00:50:40:49 - 00:51:05:35
+不明
+And then right from here you can look at the email preview for instance, as well as the push preview. And then if all of this looks good, you could come back and say, great, I want to go ahead and hit apply. And then the journey agent is ready to kind of do more. This looks pretty futuristic, but the idea here really is to kind of give you an agent that's always on that tells you, look, there's more that you could be doing with the journey, and we've got lots of ideas for those.
+
+00:51:05:35 - 00:51:16:12
+不明
+So if you want to talk about this, feel free to connect with us, during a stay here at summit or when you get back. Thank you. Thank you guys so much for.
+

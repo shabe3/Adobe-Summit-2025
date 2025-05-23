@@ -1,0 +1,388 @@
+00:00:00:46 - 00:00:23:44
+不明
+Whew. Hey, that's what I'm talking about. Welcome to CDJ Tips and Tricks Summit 2025. Man, I'm excited to be here. You excited to be here? All right. This session is going to be crazy. You guys. It's going to be fun. Okay. We got video games. We got prizes. You see this? You see this? If you do very good, you will walk away with one of these.
+
+00:00:23:49 - 00:00:40:18
+不明
+We also have $50 gift cards. And you're going to see how to win these two. But more than that, I want you to be aware that there are a lot of prizes on the side over here. We're going to tell you how to get those at the end of the session. Don't leave without taking some stuff, and we're not going to really enforce the points.
+
+00:00:40:23 - 00:01:01:33
+不明
+If you take a little extra, you know, whatever. Anyway, Russ Whitchurch with me has decided to help me with the session this year. I'll just introduce ourselves. I'm Trevor Paulson, director of product management for customer journey analytics. And Russ is amazing. I'm going to introduce you because I don't think you would do yourself justice by all means.
+
+00:01:01:42 - 00:01:29:51
+不明
+He's an amazing principle doc writer for the team. If you ever go on measure slack. Very prominent knowledge expert there. And he plays and builds video games in his free time. And, he helped with the session immensely in that way. Today. You guys are in on a little secret here. I just had the great opportunity to spend, a little while building these video games for you.
+
+00:01:29:55 - 00:01:55:17
+不明
+And I can officially call myself a professional game developer. If you see major gaps in our documentation, you now know why. Okay, so I want to get a raise of hands really quick. Who has who has CJA at their company already? Okay. A lot. Who does not have CJA. Okay, cool. Well, thanks for coming. You guys are awesome to come check it out and see what's up.
+
+00:01:55:22 - 00:02:33:39
+不明
+I thought it'd be helpful to give you just a five second overview of what siege is and why it's awesome before we jump into the tips. So CJA is a next generation application built on top of the Adobe Experience platform. It does everything I wish an analytics system would do. So it basically allows you to take data in from many different sources, tie them together in the Adobe Experience platform, reconcile your user identities into something that makes sense for your company, pulls that data into the CJR a product, and lets you do all sorts of amazing stuff with that data that you couldn't do before.
+
+00:02:33:43 - 00:03:02:58
+不明
+Unlimited metrics and dimensions. No more unique succeeded. You can create and define and modify the data at will. At query time. Retroactive, nondestructive, modifications to the data, and then you can access it in any number of places. We have analysis workspace, which you probably already know and love, but we have other ways of accessing the data too, like guided analyzes are by extension report builder and our executive focused mobile app.
+
+00:03:02:58 - 00:03:27:26
+不明
+So that's a five second flyby of why you should check out CJA when you leave the session today. If you if your company doesn't already have it. So let me tell you about how this is going to work. Okay. We have four sections of tips. Okay. They're great tips. Rest. And I compiled them ourself from all of our favorite tips that we hear throughout the year.
+
+00:03:27:31 - 00:03:47:40
+不明
+And for those four two we're going to give you three tips in each section for a total of 12 tips. Got it. Those tips after we're done giving you three tips, we are going to play a video game related to those tips, and you're going to do that on your phone. So I want you to take your phone out and turn it off of silent mode.
+
+00:03:47:41 - 00:04:10:51
+不明
+This is the only session you're going to be in where I tell you, where we tell you to put your phone on loud, okay? Because it's going to be fun and just really crank it up. We want to hear everybody's devices, like everyone, when when we get into it. What I'm going to do is I'm going to flip over to something that's a leaderboard here.
+
+00:04:10:56 - 00:04:28:39
+不明
+You can use the QR code. This will come back. The QR code is going to take you to the games okay. So make sure to open that up. And as you play the games it's going to show up on the leaderboard. If you happen to get the top score in any one of our games, we are going to give you 50 bucks.
+
+00:04:28:44 - 00:05:00:11
+不明
+Okay? If you get the top score across all the games, we're going to give you an A, an Adobe branded Nintendo Switch, okay, that you can take home with you when you leave. Well, you guys ready? Come on. You ready? Yeah. All right, let's do this. So our first section is breaking out of data limits. So, we're going to go over some really cool tips that help you get past some of those dang data limits.
+
+00:05:00:16 - 00:05:31:33
+不明
+Absolutely. So let's start off with summary data sources. Summary data sources are an amazing new capability that we've added recently to CJA, and they help you answer important questions that your organization may have, like, can I report on our marketing campaign costs, or how do I calculate our return on ad spend? You know, a lot of people also ask me things like, can we measure progress toward a corporate goal, or can we bring in social performance metrics?
+
+00:05:31:38 - 00:05:56:27
+不明
+So summary data sources work by using a special schema. Now I'm going to blow through this pretty quick. Don't worry. You're going to get this as a takeaway at the end. So if it's going really fast don't worry. You'll create a data set with a special schema a summary data set schema. And when I go into the connections editor that you can see here, you'll see it show up as a summary data source.
+
+00:05:56:32 - 00:06:20:04
+不明
+Now I'm going to select that. A summary data source has special attributes. So it has a granularity associated with it. It has a time zone associated with it. And when I bring that into CGA you'll see it appear as a folder among the data set types. When I click on, you know that folder or pull data elements in from it, you'll see that there's this setting down below that allows me to then associate it.
+
+00:06:20:05 - 00:06:49:31
+不明
+So in this case I have I need to associate our campaign code and our event data with a tracking code in our summary data. And when I make that association I can now pull in metrics that were generated from it, my event data and my summary data side by side. So I can see things like return on ad spend, or I can create calculated metrics from those things that I can see revenue per click or, you know, any of the other impression metrics.
+
+00:06:49:31 - 00:07:10:35
+不明
+And it works just like you would normally see in Analysis Workspace. So here I'm adding in some formatting and doing a little sort. It's amazing use case for people who want to bring in those sorts of performance metrics into CJA. One of my other favorite aspects of this tip, though, is that it allows you to do other stuff too.
+
+00:07:10:39 - 00:07:33:51
+不明
+So you can bring in corporate performance goals, put those in, and then you can see how you're tracking against those goals like I'm showing here or social performance metrics, likes, clicks, you know, whatever those kids use these days on the internet. But TikTok and stuff, you can bring that into CJ and measure it and see how it's performing.
+
+00:07:33:56 - 00:07:59:52
+不明
+All right. Next up is product usage data. This is a feature that we introduced a couple months ago. And I'm like to share with you a scenario that a lot of people here are quite familiar with your product admin, and you're interested in learning, about how your organization uses customer journey analytics. But you can't exactly implement CJA inside of C.J.
+
+00:07:59:56 - 00:08:26:23
+不明
+Well, we've gone ahead and done that for you. Product usage answers questions like how many people are using C.J. What are our most popular projects? What metrics and dimensions are most used inside your organization? Is your adoption of CJ growing or which users are using it the most? So you can give them a little sticker at the end of the day.
+
+00:08:26:28 - 00:08:49:35
+不明
+Nice. We'll give you a sticker. All right. Let's go into tools and product usage in here. After signing a disclaimer, you basically get to pick your sandbox and the data retention period. So if you don't want to keep the data forever, then you can select that. If you have anyone in your org who wants to opt out, then you can figure that out as well.
+
+00:08:49:39 - 00:09:10:17
+不明
+So in here, we can, go into workspace and build a simple project of some of the things, you can track, like project name, change the metrics to sessions and people and can instantly see what the most popular workspace projects are in our org. Looks like. We have a popular project with a non descript name. We can do a breakdown by user and see who's using it.
+
+00:09:10:22 - 00:09:35:39
+不明
+We've also got the most used components shown here for the most active users. Combining all of these dimensions and metrics, we can create an entire dashboard on how your org uses customer journey analytics at a glance, giving you the exact insight that you've been hoping to get all these years. And the only set up is enabling it, and the only cost is tied to data brought in.
+
+00:09:35:40 - 00:09:58:38
+不明
+Platform. Nice. I love that one. I can tell you how many times people have asked me for that feature. I'm so glad we have it. Yeah, yeah, we use it all the time at our company too. Okay, cool. Okay, so this is the third tip for this section, Shared Metrics and Dimensions. So I get asked this one probably as much as anything else about CX.
+
+00:09:58:53 - 00:10:20:15
+不明
+And while it's not released yet, we're releasing it in just a few weeks. So I included it as a tip. So when you go home, you can use it shared metrics and dimensions or something that allow you to help do things like create metrics and dimensions that can be used across multiple data views. Chances are you have a big company and lots of people using different data views.
+
+00:10:20:20 - 00:10:41:37
+不明
+You don't like to set those things up multiple times. Super annoying. This is a great way to let you solve that. You can also, you know, if you need to, you don't have to recreate them, right? Or if you change a setting, you can then, have that cascade into all the different data views. Here's how it's going to work.
+
+00:10:41:42 - 00:11:02:25
+不明
+So you'll go in to the Data Views menu. We're going to add this new option Shared Metrics and Dimensions. And essentially I can click an import button that's going to say okay here's the data views you've got. Which one do you want to pick from. And I'm going to select you know I think I search term is one that I'll pick here and add it to my shared component library.
+
+00:11:02:30 - 00:11:22:21
+不明
+When I add it in I can pick any number of shared components and share those out to any number of data views that are sharing that connection. So when I add them in, they automatically kind of get added into that data view. So if I go into a different data view and then, you know, I search for that component that I had before.
+
+00:11:22:26 - 00:11:40:54
+不明
+You'll see we add this new little icon on there. It's like a little book with a bookmark on it that shows you that it's a shared component. And if you edit it, it will actually edit it for everyone. Or you can lock it down. You know, I saw I was like, not sure if you were excited or terrified by that.
+
+00:11:40:59 - 00:12:05:49
+不明
+So yeah, it's it's really, really amazing. So we're really thrilled to have this. I think it's going to be a major, a major administrative benefit for everyone that's trying to use you create a big company. Absolutely. When we're talking about organizations that used dozens or even hundreds of data views, managing the settings for each individual one, right now, yeah, it's with shared dimensions and metrics.
+
+00:12:05:49 - 00:12:31:13
+不明
+All of that pain is gone. Yep. All right. For our next section we're going to do running with Derived Fields. We get some amazing tips with derived fields this year. So we're going to help you learn how to do. If you don't know what dry fields are they basically let you do on the fly retroactive data manipulation. Super super amazing stuff.
+
+00:12:31:14 - 00:13:03:59
+不明
+And we're going to show you just how amazing that is. The right fields are actually powerful enough that we have dedicated an entire section just to them. Yep. Okay. I'm going to go through this first one here. This one is called a user state change metric. So sometimes people ask me like, well hey, can I create a metric for like when someone moves from silver to gold, like I want a metric of that transition or I want with that metric, I want to then like attribute it to, marketing channels.
+
+00:13:04:03 - 00:13:24:30
+不明
+Like which marketing channels are getting our users to upgrade a level, or can I create a segment of users that went from one state to another? Well, with this derived field tip, I'm going to show you how you can do just that. So we'll open up the Derive Field Builder. And by we're going to use the next in previous function.
+
+00:13:24:31 - 00:13:46:11
+不明
+It's one of my new favorite functions. And what I'm going to do is I'm going to select I get page name I think here as my example. So what we're going to do is we're going to say give me the previous page name. And then I'm going to add in the concatenate function. And I'm going to concatenate the previous value with the current value.
+
+00:13:46:16 - 00:14:03:02
+不明
+That gives me like a little light path. I can see people that went from one thing to the other. If then what I'm going to do is I'm going to add in an if else and when I add in that if else, I'm going to select just one of those paths that I care about. In this case, it could be silver to gold or some other path.
+
+00:14:03:07 - 00:14:30:13
+不明
+And if I see that I'm going to set it to one, I'm going to return the value one. Otherwise I'll return blank. Now when I do, that essentially gives me a metric that I can then use anywhere in CJA. I can stick it in a calculated metric or in a free form table like you see here. So I'll drag in my marketing channels dimension and I'll pull in my, you know, the state change metric that I just created.
+
+00:14:30:17 - 00:14:52:27
+不明
+And you'll see that if I, you know, go to the tools I can even do like attribution models on this metric because it was built in derived fields. You're not really constrained by any limits that you would normally have with calculated metrics. So really, really powerful way to measure whether people are upgrading from one thing to the next.
+
+00:14:52:31 - 00:15:22:20
+不明
+All right. Next up, derived metrics. Now, one of the biggest limitations of calculated metrics in Adobe Analytics is that they can't be used everywhere. That standard to the standard metrics can. For example, you can't include a calculated metric inside a segment. Well guess what? Using derived fields, you can want to add it to a segment. Sure. Want to add it to an experiment?
+
+00:15:22:22 - 00:15:50:56
+不明
+Go right ahead. Histogram or follow a treats derived metrics and standard metrics exactly the same, so you can use them anywhere that you'd like. So here in the, derived fields, we grab the math function. We'll put it in price. Total minus amount refunded. Name it total revenue. Once we do that, we can head on over to workspace.
+
+00:15:51:01 - 00:16:18:27
+不明
+And, when we, save this calculated metric here. We'll, open the experimentation panel here. From here, we'll select one of the experiments that I'm running right now, and then select my derived metric, which is something that you normally can't do with a calculated metric and get results as if it was a standard metric. Results are inconclusive for us.
+
+00:16:18:32 - 00:16:47:14
+不明
+Well. I guess we'll just have to leave it up to the analysts then. If the what a fallout report was like, okay, I'm just messing with you. All right. How about a follow up report? Add a few touch points and then drag my derived metric over. Works exactly as expected. So this is cool because, you know, it used to take a calculated metric to do revenue minus returns, and then you couldn't use that in anything.
+
+00:16:47:14 - 00:17:05:15
+不明
+So if you want to do an experiment that incorporated your returns in there, it sucks because you couldn't do it. But now with the derived metric, you totally can. And it's amazing. Give the math function and derived fields a shot and you can use them wherever you want. Awesome. Amazing tip. By the way, is my hat really distracting?
+
+00:17:05:15 - 00:17:31:23
+不明
+I can turn this off if it's bothering you. I don't see it, so. Okay, just if you do, you know, let me know. Okay, so for our third tip in the derived field section, we're going to talk about padding dimensions. If you are an Adobe Analytics hardcore user you might remember something called the padding dimensions in Adobe Analytics or Full Paths or think you the Full Paths report.
+
+00:17:31:34 - 00:17:58:14
+不明
+Russ's hardcore. So, you know, one of the things that, that that report would let you answer are things like, well, how do I see the most common paths that users take in a free form table? Or can I see which paths result in, you know, some of my critical metrics that I have, or can I create a segment of users that took a specific path, without having to do like some crazy sequential segment of some kind?
+
+00:17:58:19 - 00:18:22:21
+不明
+Well, with this tip, you totally can. So I'm going to do this and really fast because there's quite a bit of steps in here. And don't worry, you're going to get this video to to take it home take home when you leave. But we're going to use the next or previous function several times. So by using the next and previous function I'm going to essentially string together multiple of these values at once.
+
+00:18:22:32 - 00:18:43:16
+不明
+So I'll use like I'll go back 3 or 4 values and then do a next to previous of each of those subsequent values. Here I'm doing that with, you know, the page name. So I can see the pages that people have have passed through in their session that they had. Then what I'm going to do is I'm going to do a concatenate and a little sub tip.
+
+00:18:43:16 - 00:19:06:46
+不明
+Did you know you can use emojis in derived fields? Pretty cool. So putting an emoji in there I can then you know, when I, finally finished the rule you can see the emoji in the preview there. Pretty cool right? And when I do the page path report I now I got my emoji loaded page path report. Pretty slick
+
+00:19:06:51 - 00:19:31:06
+不明
+You know I think they actually kind of like the emoji tip more than the path thing to. Okay. This is now the emoji tip. It's not a dry field at all. It's just some GS. No. Yeah it's a little double tip for you there. Cool. So sometimes a lot of the challenge of using CJA lies and knowing how to get it set up correctly.
+
+00:19:31:11 - 00:20:02:20
+不明
+In this section, we're going to show you how to leapfrog your CJ setup and get past confusing blockers that sometimes trip people up. So to start out the CJ Upgrade Guide, if you haven't already heard about it during summit, you are going to hear a lot about it. It's something that we just released, a few weeks ago, and I kind of have a special place in my heart in regards to this tool, because I helped make it.
+
+00:20:02:25 - 00:20:39:10
+不明
+So if you're not fully yet on customer journey analytics, we now have a tool that tailors an upgrade path specifically to your organization. It answers questions like, where do I even start with CJ? What if my organization has an analytics implementation already? Or how can I coordinate the move to CJA across my organization? Ultimately, our goal is to get you where you want to be, whether that's using both CGA and analytics simultaneously or using CGA exclusively.
+
+00:20:39:14 - 00:21:05:43
+不明
+The upgrade path accommodates both. So here inside TJ you just click on the left menu for Upgrade the Customer journey analytics. We have an overview of how the upgrade guide works. And at the bottom is a list of steps that you can follow to fully on board to CGA to tailor this guide to your organization. Answer each question in each tab.
+
+00:21:05:48 - 00:21:31:56
+不明
+So here we've got we want historical data components, data warehouse. Clicking next to some of the features that we want to capitalize in CGA, like tying data with other channels. And, ask a couple of questions on how you want your implementation in CGA setup. So whether you want to use an analytics schema or if you want to use, CGA schema.
+
+00:21:32:01 - 00:21:59:48
+不明
+Once you've filled all of these out. We now have a list of upgrade steps that we can follow and share with others in our organization. There's a download CSV option or a copy link option if you want to share that, and coordinate the upgrade with other users and teams in your org. Each step provides a complete description of what it entails, the estimated amount of time it will take, and a link to documentation for more info.
+
+00:21:59:53 - 00:22:20:22
+不明
+It even has a link directly to the place in the UI and platform that you can go to perform that specific step. And this is available right now. So give it a shot. I love that tip. I get asked that question so many times, and I love helping people figure that out. And everybody's implementation is going to be different and right.
+
+00:22:20:25 - 00:22:47:50
+不明
+Really hard to get to the question, but with the upgrade. I love it. You guys did a great job on that. Okay, for the next tip we're going to talk about smarter bot filtering. So oftentimes like we do have some bot filtering in CJA if you deploy the web SDK or if you use Adobe Analytics. But some folks are always like, hey, is there, you know, is there a way too, that I can do this in a smarter way?
+
+00:22:47:55 - 00:23:06:46
+不明
+And or can I use, you know, we might have data distiller at our company. Can we use SQL somehow to kind of come up with a smarter way to do bots? Or another. Another thing I get asked all the time is people say, I had this really complicated bot segment and it slows down all my reports like a ton.
+
+00:23:06:59 - 00:23:40:34
+不明
+Is there some way I can do this in a simpler way that won't bog our our reporting speed down? Well, this tips a little technical. And don't worry, you're again, you're going to get this afterwards. So if you do miss the QR code or whatever it's totally fine. This QR code is how to get to the SQL I'm running here, but this SQL statement can be run in query service in the Adobe Experience platform, and it will not only incorporate the IAB bot list and the other out of the box bot detection stuff we have, but it also will use some advanced statistics to come to identify bots.
+
+00:23:40:34 - 00:24:12:01
+不明
+Looking at the frequency of events that we receive, or also looking at the predictability of the timing of those events. Bots often leave telltale traces, statistics, traces that can be picked up. So that query service query, which don't worry, we're giving you at the end of the session, you can use that to help you identify those. And by putting the result of that query into a data set, you can then add that data set as a profile data set into CJA.
+
+00:24:12:06 - 00:24:35:07
+不明
+That profile data set will now contain all of the identities of the bots that you identified, and by adding it into our report. So here I'll just open up a just a normal like page type page name report. And if I grab that bot segment, I can look at all the traffic that was generated by the bot or the various bots.
+
+00:24:35:07 - 00:24:54:50
+不明
+Or I can use an exclude and plop that even on top of my data view, if I want you to have it, just always apply. The great thing about it is because it's a profile data set. It runs super fast, so it's a very simple segment that doesn't add a lot of overhead and is even more effective than what you might normally do with a segment in CJ.
+
+00:24:54:52 - 00:25:17:00
+不明
+So love that tip. One of the things that, I remember you telling me about it was that if hits are spaced too evenly, it flags them as a bot. Yeah. That's right. Yeah, exactly. If you can predict if it's very predictable, like every 30 minutes or every 60s, there's a hit. You know, it's a bot. So that SQL query will pick that up using some statistics that are built into data distiller.
+
+00:25:17:07 - 00:25:44:22
+不明
+Very cool. All right. Next up is our AI assistant. Now, as a doc writer, this one hits us, but, hits home for me. Because it is what I anticipate is going to be the next gen of getting questions answered. If you are looking for a specific document but you don't exactly know what to search for, I assistant is there to help you out.
+
+00:25:44:27 - 00:26:07:41
+不明
+So if, if you want to find a relevant document to a question, you have, if the entire last section on the right fields went completely over your head, then you can ask it what a dry field is and it will give you an answer. Or if you want to understand how to set up a like a connection, all of these things can be answered by the AI assistant.
+
+00:26:07:46 - 00:26:37:46
+不明
+This also applies to all of platform as well. So anywhere in platform including CA, just click the AI assistant, ask your question and you'll get a response. Now the best part about this is that not only does it give you a response, but it also gives you, its sources, its sites and sources. So you can click on the links to those and go directly to the experience League pages where, it provided or it gained that information from.
+
+00:26:37:51 - 00:27:13:00
+不明
+I love that because sometimes there's a lot of docs out there and sometimes they're related. That sometimes can be hard to know if I'm in the right doc or not. So having it automatically provide docs for me and the right link is awesome. Absolutely. All right. For this next section, we're going to talk about data viz invaders. So in this last section we're going to talk about some amazing visualization capabilities in CGA that lets you do all sorts of really cool stuff.
+
+00:27:13:11 - 00:27:21:42
+不明
+So you don't have to worry about getting stumped by different visualizations.
+
+00:27:21:47 - 00:27:48:53
+不明
+So let's start with the journey. Canvas. Journey. Canvas is my new favorite visualization in CGA. People often ask me, you know, I have complex multi-step funnels. How do I visualize that? Or can I see how specific journeys are impacting specific metrics? Or I just want to analyze specific key steps in the journey, and I don't need other superfluous things that I might see.
+
+00:27:48:53 - 00:28:18:26
+不明
+Like if I did a flow report. Well, the Journey canvas is like the flow report and the follow up report had a beautiful baby or something. It's amazing. It lets you kind of do both. So basically what you do is you can drag in any dimension item into this canvas, and by dragging and dropping these around in the canvas, and we give you kind of infinite space to put things in, you can kind of construct the funnel of your choice.
+
+00:28:18:31 - 00:28:38:40
+不明
+And, but basically what you do is you wire one up to the next so that we know you're looking for someone who went from point A to point B to point C, and if you do that enough, you can create multi-step branching funnels. And you know, by adding things in you can really dive deep. So here you can even.
+
+00:28:38:44 - 00:28:56:52
+不明
+I wanted to show you that you could even do a breakdown. So if you drag a dimension onto a metric in the funnel, you can get a breakdown of the most popular products. For example. I can come in after the fact and add in other steps. The whole flow will recalculate automatically for me after I've added that in.
+
+00:28:57:01 - 00:29:20:25
+不明
+It's pretty smart and knows how to do that. Or even if I add, I can drag in multiple things at once. You can see that here, and by then, you know, connect all three of those up and the canvas automatically will show all the cascading steps and percentages and everything for you. It's pretty amazing. I think this is the most popular visualization we've ever released.
+
+00:29:20:34 - 00:29:37:13
+不明
+I think you're right. Certainly in CJA, a lot of people love it and use it all the time. So if you haven't already used it highly recommend you go home and use it or go to your sorry not home up. You can use it at home if you want to. Yes, it. When you go to your office you should definitely use it.
+
+00:29:37:18 - 00:29:58:13
+不明
+Guess if you work from home. I'm getting myself all confused here. Don't worry about it. I like working from home. Next up, guided analysis. Now, these have been around for a little while, but only recently have we made these available to all customers. And I really, honestly, I think these are criminally underused for the value that they provide.
+
+00:29:58:18 - 00:30:24:14
+不明
+The originally they, required an add on to use these, but, you can access them all today. They provide a slightly modified layout that might be more familiar to newer users of, product analytics. They provide a more guided approach to analytics. Additionally, some of these reports provide great value and, are a pain that to recreate inside of workspace.
+
+00:30:24:19 - 00:30:30:57
+不明
+So when we're talking about time saving, definitely give these a shot.
+
+00:30:31:02 - 00:30:53:25
+不明
+So in workspace, when you create a project, instead of creating a workspace project select one of the guided analysis templates here. Let's select Release Impact Analysis which lets you see how a component changed before and after a given date. For example, we can compare the number of AI assistant queries that happened before and after our January release.
+
+00:30:53:30 - 00:31:15:20
+不明
+Let's look at another analysis type active growth. It shows how my product or site retains users over time. Here we see it by month, but you can break it down by other time dimensions like by day. If you'd like. One awesome thing about these is that you can also use them as visualizations or panels inside a workspace project.
+
+00:31:15:24 - 00:31:39:13
+不明
+This one is a timeline analysis. It lets you analyze individual people to determine what trends they follow, and offers valuable insight on how to directly improve the experience of a focused group of individuals. Now, we only went through three guided analysis types in this tip. There are a total of 11 of them and all of them are super valuable.
+
+00:31:39:17 - 00:32:05:20
+不明
+So I highly encourage you to check them out and, try one or all of them and see what insights they offer. You know, one of the things I really love about guided analysis is that they allow they're like a really great entry point for folks who may not be super familiar with Analysis Workspace or their super like use case oriented, you know, like that growth one that would be really hard to actually recreate in analysis workspace.
+
+00:32:05:20 - 00:32:31:10
+不明
+So I've tried. Yeah. It's a pain. Yeah. So it's awesome. I love that it gives you this quick jumping into point especially for newer users. Absolutely. Okay. For this next tip, I'm actually going to give you a little sneak peek into what we call content analytics. You might have seen this on mainstage today if you're watching. Content analytics is a net new offering that we're going to offer pretty soon.
+
+00:32:31:12 - 00:32:54:20
+不明
+I think it's like in a couple of weeks we're releasing it and it lets you do the answer. Things like which creative assets are the best performing on my site, or what attributes of our assets are most compelling for our users? Or can I like automatically group images that are really the same image, but they appear in different places and they have different sizes and stuff?
+
+00:32:54:25 - 00:33:20:05
+不明
+Well, content analytics is an amazing new addition to the CJA family that lets you do just that. So here I've got images used on Adobe Starcom, and when I drag those assets into the free form table, I can actually see the image in the table, which is really nice. I can then add any metric that I want to see how those images are influencing downstream conversions or whatever I'm measuring, right.
+
+00:33:20:10 - 00:33:42:28
+不明
+Really cool. And this is super, super helpful for creative teams to see how well their imagery that they're creating is, is working. One of my other favorite things is that we actually use AI behind the scenes to analyze all of the images brought in and look at the different attributes that they have. Those attributes are then brought into CGA automatically.
+
+00:33:42:29 - 00:34:00:26
+不明
+So here you can see I did a little breakdown of the color black by the various assets. And I can see here's all the clothes that you can buy in Adobe store that are the color black. You can do all sorts of amazing stuff. So you can look at the performance of these assets. You can look at the conversion rate that they drive.
+
+00:34:00:39 - 00:34:27:00
+不明
+You can look at, you know, clicks and versus performance. You know, just all the really cool stuff that you're used to, an analysis workspace with all this extra rich data around the content and the assets that your team is using. So something really cool to look into. Not available yet, but coming very soon. Soon. You know, tips and tricks session would be complete without talking about some roadmap.
+
+00:34:27:05 - 00:34:46:32
+不明
+Actually, say, Russ, I think that's a great idea. Let's dive right in. So, starting to run out of time. So I will quick fire these, side by side dimensions. Instead of forcing you to use breakdowns, you can drag multiple dimensions side by side and use that layout instead. And that is coming in just a few months.
+
+00:34:46:37 - 00:35:11:15
+不明
+Real time panel similar to real time functionality in Adobe Analytics. This feature is coming to CGA in August. As soon as the data is available in platform, you can see it in CGA as well. And then, a B2B, a new or new analysis options for B2B marketing teams. This lets you report on sales funnel dimensions and metrics coming in to you.
+
+00:35:11:20 - 00:35:32:03
+不明
+Awesome. So next next roadmap item we call CGA Warehouse Mirror. So sometimes people ask us all the time we want to use our warehouse as our source of truth. And we just wish CGA would inherit that. So like if we delete stuff from a data set or a table in our warehouse can like that get deleted in CGA automatically.
+
+00:35:32:08 - 00:35:56:42
+不明
+Well, that's CGA warehouse mirror. So we're super excited for that one. That one's planning to come in September. We're planning on making it work with snowflake, Databricks and BigQuery. So if you use those things, look forward to this. We also have and you saw this in the mainstage today, the AI assistant now called an agent, the data analysis agent in CGA for this.
+
+00:35:56:42 - 00:36:19:18
+不明
+Essentially, we'll use AI to help you build reports, build out visualizations, and guide you into the right things that you should look at. Really kind of amplifying your efforts and making it easier for you if you don't know where to start, or you just have a question that you want to ask the agent. And then finally, I think this one's my favorite one, and this is the one I probably get asked about.
+
+00:36:19:18 - 00:36:39:59
+不明
+The very most is next generation data feeds from CGA. So one of the things that we get asked all the time is we have Adobe Analytics. One of the things our company uses the most is data feeds. And we love them because they have all this like session ised process data in them. Can we get something like that in CJA?
+
+00:36:40:02 - 00:37:00:24
+不明
+Well, we didn't want to just reproduce that and make you collect a bunch of files. So we're looking at doing this using modern warehousing data sharing technologies. And we're super excited to be working on this. So this will be a whole new thing that we're working on and don't have a date for you yet on it, but it is something that we are prioritizing.
+
+00:37:00:29 - 00:37:25:16
+不明
+It's coming highly. We're actively working on it, and we are looking forward to sharing it with you guys. If you want additional resources, just use the app you have. If you already have that open, we'll put a link right in the app for you, and that will give you a summary with videos of every single tip and link to the documentation of every single tip that we shared with you today.
+
+00:37:25:16 - 00:37:42:39
+不明
+So you can take that home with you where it shows your score. There is now a link immediately underneath that will take you to this exact same page. Yep. So make sure. Yeah, definitely do that. I'm going to pause for just a second to make sure everyone's got it. We want you to take the tips away home with you.
+
+00:37:42:44 - 00:38:07:13
+不明
+Take the session survey. Let everybody know how horrible this session was for you or if you like video games, how good it was. We did not have enough time for questions today, but we knew that would happen. So we have an AMA session at the Community Pavilion at 5:40 p.m. later today. If you have questions that you want to come and ask us about CJA, we will gladly answer them there.
+
+00:38:07:18 - 00:38:32:22
+不明
+So that's just again in the community pavilion at the Innovation Theater. You can actually see it in the Summit Sessions list. Okay. Also, our social handles are on there if you want to talk to us on social media. We're on blue Sky, LinkedIn and measure slack. And before you leave, make sure you get some swag. It's just like when I take my kids to the arcade, they get prizes and that's their favorite thing.
+
+00:38:32:23 - 00:38:48:45
+不明
+So take your points, exchange them for prizes. We will not police it. Take whatever you want. Be sure to take some charms. We have so many are charms. There are so many. Our shirts. It's amazing. Thank you so much.
+

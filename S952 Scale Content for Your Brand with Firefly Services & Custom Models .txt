@@ -1,0 +1,612 @@
+00:00:00:16 - 00:00:18:58
+不明
+In content production with Firefly services and custom models. My name is Elliot Stratego. Thank you, sir. And you know, you can't do anything without a team. Here. I'll talk about this team. Incredible team that we're talking about here in a moment. But we'll start off with a short video, which we will hit here to play.
+
+00:00:19:02 - 00:00:34:23
+不明
+Yeah.
+
+00:00:34:28 - 00:01:09:53
+不明
+Yeah.
+
+00:01:09:58 - 00:01:17:53
+不明
+I.
+
+00:01:17:58 - 00:01:43:33
+不明
+Great. So, thanks again to all of you who have been a part of this journey. Fantastic journey we've been on in the last year. Just quick introduction. My name is Elliot. Said I lead product marketing for our Creative Cloud, for our enterprise customers, as well as for, Firefly, for our business customers as well. Today we're going to talk about some incredible things that you and some of our partners are doing with some of the innovative technology coming from, some of our product teams.
+
+00:01:43:33 - 00:02:03:59
+不明
+So thank them as well. Great to have Ben Vanderburg here as well, who's technology evangelist extraordinaire. He's going to be showing lots of demos and capabilities that we have to show. So if you're looking for demos and trying to understand the value of what's coming out, Ben is going to showcase that and are going to be joined by Matt from The Clorox Company.
+
+00:02:04:13 - 00:02:23:46
+不明
+So we're going to talk a lot about what The Clorox Company is doing. And when Matt talks, talks briefly towards the end, you can see some really innovative ways that his team is leaning into Genii. Lots of lessons I've learned that you can take back into your organizations. So how you can take this technology and be incredibly productive, personalizing at scale.
+
+00:02:23:50 - 00:02:45:17
+不明
+So with that, since my clicker is not working that well, we all know that content is the fuel for customer experiences. It's effectively the way that you communicate to your customers your different segments. Understanding how they can connect to your brand, how they can be loyal to your brand, how they can be aware of what their content is.
+
+00:02:45:17 - 00:03:07:21
+不明
+The key to that, in many cases, is also the bottleneck to that process. Entry comes generative AI, and we all know that many of you are performing into this room right now because it's a massive, massive opportunity for us to take advantage of the new technology so we can reach that potential of doing personalization at scale. If you look at me.
+
+00:03:07:26 - 00:03:28:04
+不明
+Sure. So if you're looking more broadly, we know that most of most everybody probably, you know, you think about it across the board. We know there's something that can help us be productive. We took a survey last year, and we found that only less than a quarter have actually connected general AI to their larger business transformation initiatives. So that doesn't mean that you're not doing it.
+
+00:03:28:04 - 00:03:45:17
+不明
+We know it's happening in small pockets within the organization, but how do we unlock that unlocking more broadly? That's the that's the key. How do we change the business? How do we change the people? How do we scale up? How do we take advantage of the new technology that's coming at a very, very rapid pace? We've seen the productivity gains in some cases.
+
+00:03:45:17 - 00:04:18:20
+不明
+We've seen a ton of productivity gain in individuals, especially the creative users that are creating content. It's amazing, amazing opportunity for us to push forward, to innovate. So you it's been an exciting year of innovations. So over our clickers here is having some issues, but we've seen a lot happen when it comes into precision and control, putting more tools in the creators and a marketer's hands to guide these, guide these models so you can get exactly the output that you need that's relevant to your brand.
+
+00:04:18:25 - 00:04:46:01
+不明
+We know many are using, this technology as well to generate new ideas and new concepts to help your brand stand out even further. And we're also seeing interest on new modalities, audio, video, 3D, many other form factors coming in so you can express your brand and new ways. So as you continue throughout this, this elevate, evolution, I'll explain to you a little bit more about how you're going to unlock this throughout our technology stack.
+
+00:04:46:06 - 00:05:03:31
+不明
+So at the bottom here you can see our our Firefly generate generative models. These are all designed to be commercially safe. So you know you get the confidence to use those and your core content what is going out to a different channel or different campaign. You have the confidence to know that you can use that safe for business.
+
+00:05:03:35 - 00:05:20:43
+不明
+On top of that, we're going to talk about our customization layer. And the idea there is you have your own brand, your own elements that are there. That's your unique special sauce to express your brand and how you can bring your own content and train on Firefly so you can get that output. And then this is an on top of that.
+
+00:05:20:43 - 00:05:41:54
+不明
+So our applications coming into play, so many cases, we have a lot of content coming out from the platform. You're going to use the tools like and technology like Frame.io to review and approve that. And then those get unlocked directly in the workflows that you use, whether you're creative team, using Creative Cloud for creating cloud for enterprise, your operations and mark up team marketing operations team using Firefly for services.
+
+00:05:41:54 - 00:06:03:29
+不明
+We're going to talk a lot about that today as well, or using express for Gen Studio for performance marketers. All those different marketing teams are here as well who are need to activate things on on social channels to advertising platforms as well. We need to make sure that we're all leveraging the same technology cohesively. Again, this is connecting it to that broader digital transformation initiative.
+
+00:06:03:34 - 00:06:30:29
+不明
+So we'll talk about a few concepts. And the first concept I want to I want to land here is, you know, that creativity and your brand matter more than ever before. Everyone's getting the technology of generative AI. What's going to distinguish you and sets you apart is how well you can use that technology to stand out. So with that, we're going to we're going to think about how we can creatively leverage the power of generative AI to stand out.
+
+00:06:30:34 - 00:07:02:33
+不明
+And one of the key technologies that we've introduced for this, and some of you a bit along with this family, part of this innovation as we, unveiled this last year, is Firefly Custom Models. Now, this ability for you to take your own brand and IP, your brand assets, content for different campaigns, whether it's for your brand styles or seasons, bring that into the model, train it uniquely in a safe area, and then unlock that for your creative teams or your marketing teams to use and generate everything on style.
+
+00:07:02:38 - 00:07:21:10
+不明
+Across, across your different teams. So with that, what's better than a demo? So we're going to do this then Vanderburg here. He's actually going to walk us through some of the innovations here with Firefly custom models. And you can see how that can be unlocked. So you create personalized content at scale. Right. All right.
+
+00:07:21:10 - 00:07:42:37
+不明
+Thank you very much. So how many people in the room here have used Adobe Firefly before. All right. So my hope is for everyone who did not raise your hand that by the end of this year going to Firefly, that it will be.com and checking it out yourself. But what we're going to do here is we're going to see what it looks like to create a custom model in Adobe Firefly.
+
+00:07:42:44 - 00:08:11:02
+不明
+So I've gone to firefly.adobe.com. And I can go in here to custom models. And this is where you can see, oh, thank you very much for we're going to switch to number four. There we go. So here we can see I have a variety of different models that I've created. Firefly custom models is great for things like, your brand styles, like we can see for city lights here.
+
+00:08:11:07 - 00:08:31:24
+不明
+It's great for things like characters, if you're using that for, say, like, your mascots, those sort of types of generations. We have those like the kids club and the alien here, as well as, for some of the other types of visual content that we have here. Now, I have a sort of, visual that we have with the city lights here.
+
+00:08:31:33 - 00:08:53:13
+不明
+Let's go ahead and look like what it looks like to, to train this. So if I go in here, I'm going to call this, City Lights demo. We can give it a description. And we have a couple of different training modes so we can train on a style. And if you imagine if you have a number of different images that are existing of your style, you can upload those into there.
+
+00:08:53:18 - 00:09:12:39
+不明
+And it will train a model based on that. The other option is what we call a subject. So if you have a very specific subject like a character or a certain item, that you want to be able to train that on and reference, I specifically want this generated in this image we have, you can train on a subject.
+
+00:09:12:44 - 00:09:35:29
+不明
+So I'm going to choose in this case a style, and we're going to save this to a project that we have called City Signal, and we're going to click on continue here. And at this point in time. At this point in time, hopefully we don't have too much of a base here at this point in time, we can then take some of our different images and we can drop them right into here.
+
+00:09:35:29 - 00:10:00:48
+不明
+So you'll notice that I have a number of different images that are uploading into here. I'm just going to have a look here. So just imagine this as kind of our brand style. You know we have the general like color of the different lights in here. And we want to create new content based on this style. Now what happens is you upload 15 to 30 images up into here and it's learning from that.
+
+00:10:00:53 - 00:10:23:47
+不明
+Then what it does is it uses AI to try to create different, different captions to describe to tell the AI what's actually in this image so that it knows that and you use your own terms to help it understand how to create that content. So for example here, it did a pretty good job on the neon lights description here.
+
+00:10:23:52 - 00:10:49:30
+不明
+But I'm going to say, triangle, streams of light with a reflection. You don't have to be extremely, specific in that actual, caption. You can keep it relatively, simple in that caption. And you would go through and you'd review every single one of those different captions just to make sure that that description is right in there.
+
+00:10:49:35 - 00:11:14:36
+不明
+And then what you can also do here is we can go in and give it a sample prompt. So we're going to say, streams of light, with city skyline in the background once. And that will be used just as a reference for us to be able to generate. So when we click on train, that's going to take all those different images.
+
+00:11:14:36 - 00:11:33:19
+不明
+You do have to make sure that you are properly licensed for every single one of those, images that you're uploading onto there. And that will take just a little bit of time for it to actually process that. Now, we don't have all that time while we're here, so I'm going to jump ahead and show you an example model that I have already trained within here.
+
+00:11:33:33 - 00:11:55:17
+不明
+So if we go in here, I'm going to have a look at, one of the models we created before here and before it gets published out to anybody, we can preview and test that to see what that is actually going to look like. So in this example, I did neon streaks of light, with Seattle skyline in the background.
+
+00:11:55:24 - 00:12:31:15
+不明
+And here we can see it took the elements of that style, took my prompt that I had of of, of Seattle and it generated these different variations in here. So I can then go in and say, you know, instead, we're going to go with, Los Angeles and click on generate and all generate variations. Now as we're generating this, you can also one of the biggest complications that people have when generating content is how am I going to write this really, really, really long prompt?
+
+00:12:31:20 - 00:12:49:00
+不明
+Well, I don't have to think about it in the concept of, a really, really long prompt. Because actually, directly within here we make it easy by giving you references so you can upload a reference image. If you were trying to say, I kind of want it in the shape of this, or I want it in, a certain, style.
+
+00:12:49:00 - 00:13:14:42
+不明
+All of these are things that can help you inform your actual, stuff that you generate, even things like camera angle, whether it's, you know, shot from above, wide angle, the color, the tone, these are all things that you can then use to, reference within that. Now, another way that you can also approach this is also, within tools like Adobe Express.
+
+00:13:14:47 - 00:13:35:20
+不明
+How many people use Adobe Express? See, once again, everybody needs to go to express that adobe.com and check that out after this. So within here what we can do is we can actually use this in a practical sense in the context of something that I might be working on in designing here. So I can click on generate image.
+
+00:13:35:30 - 00:13:56:27
+不明
+And this allows me to be able to then adjust my prompt in here. So once again I'm going to use Seattle as my reference in here. Click on generate. And that will allow me directly in the context of here, generate my actual image. So here we can see like just from before here, this was what we generated.
+
+00:13:56:32 - 00:14:15:46
+不明
+It still keeps the vibe and the style of my actual light streams in there. And we'll see that sure enough, it brings, you know, some of that style into here as well. So making it really easy for me to create a bunch of different variations of that. Another example is, we actually have an example with the like food here.
+
+00:14:15:46 - 00:14:41:21
+不明
+So maybe I'm a like a grocery store that, needs to quickly show some of the different things on the menu here. Instead of it being something that I would, have to, to, go and figure out how to, capture that I can go in here and change this to, let's say, steak with we're going to go with something really, really random just because, you know, I won't have this as an actual image in the model.
+
+00:14:41:32 - 00:14:52:57
+不明
+So with blueberries and give me something else. Something else. Cauliflower, purple cauliflower.
+
+00:14:53:01 - 00:15:12:26
+不明
+Is that right? Did I say all right? And once again, you can use that as the reference for you to be able to then, generate here. But this is the same concept that you can then apply that directly in your actual designs to be able to place that into there. So give it a quick second and let's see what.
+
+00:15:12:28 - 00:15:35:32
+不明
+Sure enough, steak with, blueberries and purple purple cauliflower. You know what? I think we could use a little bit of a drum roll. Can we get to it? Get a little bit of a drum roll? This better be a really good looking dinner. First time you ever. You, you use the model for the day. It does take a little bit of a second for it to load.
+
+00:15:35:32 - 00:16:04:18
+不明
+It's not every time you generate this image. It's the first time. It's called opening for today. All right, so wait, wait, wait for it. Wait for it. All right, one more drum roll a little louder, little louder, little louder. There we go. And sure enough, we have our steak with our purple cauliflower and blueberries in there. But still, it keeps that style of the, the, the the slate in the background, the plate looking from above.
+
+00:16:04:25 - 00:16:25:35
+不明
+It's keeping that to that. Give me that consistency. I'm not sure if purple cauliflower is the most photogenic food in the world, but we did get it. Sure enough, there and so with that, that is Firefly. Custom models make it easy for me to take my existing images and then be able to train custom models to be able to create new, fresh content based on.
+
+00:16:25:40 - 00:16:53:13
+不明
+There you go. Let's give let's give Ben a round of applause on that one. Purple cauliflower. Thanks for that one. So if you think about the power, there is, you effectively took one of your most creative people and they take the different styles that you have or you have. Many of you probably have tens of thousands of assets, maybe in your dams, for example, that you have for over the different campaigns, different street styles, different types of brands that you have across different regions.
+
+00:16:53:18 - 00:17:10:47
+不明
+You can train each and every one of those elements and then actually make that available to your creative team, to your marketing team. And everybody's singing off the same sheet of paper. When you're talking about the spring campaign, for example, or the Christmas campaign, or maybe you're doing something for the Super Bowl, or we're just announcing today as well.
+
+00:17:10:47 - 00:17:47:23
+不明
+We're making it available in Gen Studio for performance marketers as well. So you'll start to see custom models appear across the Adobe ecosystem so you can train them centrally and then use them across, the different platforms. Okay. Of course it's not working, but. Oh, it's working now. Oh, wow. That's and this is part of a spectrum of customization controls that you have that you get down to your creative user from, many of you probably use generative fill and generative expand and compositing different objects, style cards, for example, steering, sharing different styles across your organization and custom models is sort of the peak of that as well, as you're meant to use
+
+00:17:47:23 - 00:18:07:49
+不明
+these in combination together. Not in isolation. In generative AI, there is no magic button to get your unique style out there. We're giving you as many tools and controls that you need to express your unique brand as possible. So you can be creative and have content that really impactful. Okay. Well, I still think has a mind of its own.
+
+00:18:07:49 - 00:18:29:18
+不明
+Sometimes it wants to work, sometimes it doesn't always hang out over here. So happy to announce we've actually crossed 20 billion assets generated from Firefly. This is like amazing, amazing. Time to kind of past pass over this where not too long ago, we were just some of you were just experimenting with this. And the beauty of this is I'm very highly confident.
+
+00:18:29:18 - 00:18:54:32
+不明
+A lot of this content is actually being used in production in different campaigns, because we are taking a lot of effort to make sure we have commercially safe models across the board. So we didn't stop there and imagery the next day, next step was to move much towards broader multimodal experiences. So imagery vectors, design video, 3D audio, all of those were putting into our Firefly application.
+
+00:18:54:37 - 00:19:15:03
+不明
+And what sticks out to me most is video and the ability to take an image and turn that and animate that to into a new creation is almost like a superpower, if you will. This is something that was reserved to only in maybe a smaller group or creative teams. Now there's powers to extend it out to anyone who wants to be creative.
+
+00:19:15:04 - 00:19:33:48
+不明
+We're actually giving those tools to use right away. So this is an example of what that, image, the video technology looks like. Again, if you haven't tried this Firefly, that adobe.com, you can go there and experiment with this as well. This, iguana that you see here is actually on our webpage. We use this, of our own marketing content.
+
+00:19:33:57 - 00:19:48:15
+不明
+We're on the marketing team. We're often begging the creative teams on the, on the websites like, hey, we need some more video, we need some more animations. And they look at back at me like, where, where's the budget? Where's the time? We don't have the ability to do that. Now we're starting to see much more animations in here.
+
+00:19:48:15 - 00:20:14:52
+不明
+Even this presentation, you're going to see a lot more videos and animations because we're empowered to do that. We're moving into a new generation, of this. So actually see this in a little bit closer, we're going to have then showcase what you can do, with this technology. So, Ben, over to you. All right. So to start off here, I am going to be working on, an ad that I want to create for, say, like, TikTok or Facebook and so forth.
+
+00:20:14:52 - 00:20:35:34
+不明
+And if I have a look at this, we have two different visuals I created. I'm in an Adobe Express right now and something, simple. Here we have our gradient in the background. We have, say, some headphones and we have a logo here. But what I really want to do is I want to add a little bit of zazz, a little bit of animation to make this a little bit more attractive as we're going through this.
+
+00:20:35:39 - 00:21:01:44
+不明
+So what I can do here is I went here and I exported these out as the, individual, images that we have here from Adobe Express. And I can go now into Firefly, scroll down here into text of video and within here. What I can then do is I can then take my actual images.
+
+00:21:01:49 - 00:21:22:29
+不明
+Sorry. Give me one second here. We can actually take our images and I uploaded them into here. So if we have a look at what actually got generated from this, we can see that the video here, this is headphones have sound waves coming out of them and then spins and morphs into a green icon. So let's have a quick look.
+
+00:21:22:34 - 00:21:28:02
+不明
+So.
+
+00:21:28:07 - 00:21:57:10
+不明
+There we go. We could see the kind of the animation there brings that all together and then morphs into my actual logo there. So all I did with this is I uploaded two images and put in a prompt. I put in that image that I mentioned before, which was the image of the of the headphones. I uploaded the end frame that I want for this video, which is with this logo, brought that together inside of here.
+
+00:21:57:10 - 00:22:28:13
+不明
+It generates, it will generate from this first frame, the last frame, use that prompt to generate in between. And that's what it generated from that. So then when I download this, the great thing about this makes it really easy for me to then go into something like Adobe Express to add, say, like my titles that I want on the top and the bottom here, I can then take that, I can generate that, that animation and then directly from, even within here, I can download that.
+
+00:22:28:13 - 00:22:51:17
+不明
+And I have my video that now I can then take that, use that with, with TikTok, with Facebook and so forth. And it's quick and easy animation on that. But let me show you one other quick other example. So this video right here is, a video that came from Adobe Stock. So this is one that looks like we got a little bit of a beach ball.
+
+00:22:51:22 - 00:23:18:13
+不明
+Hold on a moment. It is an Adobe stock video that is essentially these guys in, in the kitchen cooking. But what I really want to do is I want to augment this a little bit more. I want to add a little bit more of something else to it. So to help me with this, what I can do is if I want to expand this frame, I don't have the opportunity to go back because this is a stock image.
+
+00:23:18:13 - 00:23:44:32
+不明
+I don't have an opportunity to go and say, go reshoot this because I don't have the original. But inside of Photoshop, I can actually take this image and I can actually go in and I can use what's called generative expand to. Then if I want to add a little bit more space to this, I can actually go in here and I can say generative expand.
+
+00:23:44:37 - 00:24:04:33
+不明
+And this is going to expand that video based on that still frame. So if you imagine if it is a camera that is not moving at all, we can actually expand that out. And I'll fill in the area around that actual image there. So if we have then a look, we will see.
+
+00:24:04:38 - 00:24:29:34
+不明
+Well I'll jump jump to this part. Well we'll see that we had the part that it generated of the actual image here. Then what I can do is maybe I wanted to also add another element which is say like this, this carrot. Yes. Because maybe this carrot is my mascot. And so I want to take this, I want to drop this carrot into here.
+
+00:24:29:39 - 00:24:56:58
+不明
+And I, not only want them, want it to drop into here, I want it to to to dance. So the way that I can do that. Okay. Sorry. Give me one second. Here. Let's try this again. So the way that I can do that. All right, a little bit of, Photoshop challenge. So let's, try this one more time.
+
+00:24:57:02 - 00:25:28:02
+不明
+So what we can do here is then inside of Firefly video, we once again can take our reference image of our carrot. I put it in the background of that actual video. I then, told it a carrot dancing on a counter. Here we go. Sure enough, we have a carrot dancing on a counter. And then I actually blended the, the things together into a final video, which is now a dancing carrot, along with our original video, which was actually a stock image.
+
+00:25:28:02 - 00:25:50:53
+不明
+So I can actually take my existing content. I can expand that out using things like general extend inside of Photoshop and use things like, Firefly video to create content. Now, I am not a, video effects guy, but the fact that this helps me be able to quickly visualize and create some of that content is a huge time saver.
+
+00:25:50:59 - 00:26:17:54
+不明
+Because it empowers me to create stuff that I never would have been able to create before. And so that's really Firefly video making it easy for me to take my content, my assets, be able to generate new video based on that, based on a text prompt based on my images, and it's super powerful. Great. So thanks, Ben for that demo as well.
+
+00:26:17:59 - 00:26:53:16
+不明
+So we're going to move on and think about all that amazing technology and what is AI giving you. And the key thing that we think about here is speed. Speed to content creation. Speed to market. If we're reducing time spending on some of those mundane tasks, that frees up time for us to go after new opportunities. And many of us have seen something like this before where we're stuck with this doom loop, if you will, of all this content that you need to create for all the different variations and all the different channels and many different languages, many different regions, all the different variants that are there, this multiplies very, very quickly.
+
+00:26:53:21 - 00:27:15:53
+不明
+And so in many cases, you probably just have one core asset that you're going to use. And the idea of even asking that creative team to create all these variations is something that you don't even bring up, because you know, your budget does support it at the time, doesn't support it as well. This is one of the reasons why we invested very heavily to taking the power of generative AI and our creative automation technology, and making those available as APIs.
+
+00:27:15:58 - 00:27:36:30
+不明
+So one of the key things we wanted to do is we know that a lot of our creative teams are spending a lot of the time doing a lot of repetitive production work. So think about some of those. Your most valuable creative teams working with you for your internal agencies or your broader agencies as well. And they're spending time doing cutting, cropping out assets, for example, or generating something new for a new campaign.
+
+00:27:36:35 - 00:27:52:56
+不明
+Or they won't even have the ability to change, create something that you're going to ab test because you don't know what content is going to work. For example. So the idea is taking back power of that, building those into core workflows so you can automate and scale production, across the dev team. So what what are we seeing?
+
+00:27:53:01 - 00:28:10:30
+不明
+Since we released this, what are our our most popular use cases. So this is sort of like a little bit of a framework that you can use to bring back into your organization of areas that you can use to automate, by far refreshing campaigns. Very quickly, you saw exactly how we're using them. For example, we do annual conferences.
+
+00:28:10:30 - 00:28:29:12
+不明
+So our next one is coming up with Max London. We know we're going to do this every year. It's gonna have a new style, thousands and thousands of assets that need to be created, new styles and new content that we need to expand out to new regions because we're growing. We're tapping into that to refresh campaigns quickly. We're seeing this happen at a seasonal rate.
+
+00:28:29:12 - 00:28:59:17
+不明
+Some people are doing things weekly, some are running different social campaigns every other every other day as well. So you can think about different ways you can automate and engage, localizing videos and personalizing video, personalizing assets and videos and content as well. My favorite one is actually down to the bottom as well. Gatorade, if you if you look at those Gatorade bottles that you see there, they're making unique bottles that are tapping into the user designated and saying, hey, what kind of bottle do I want to create a real physical bottle?
+
+00:28:59:17 - 00:29:16:17
+不明
+And it's generated using generative AI. So you can start to think about these personalized experiences and new opportunities to grow. And this is where the real opportunity is with Firefly Services. Right. So with that we have to show a demo. So this'll be our third segment of a demo Ben is going to showcase how you can tap into Firefly services.
+
+00:29:16:21 - 00:29:46:05
+不明
+And then over to you all right so to start off here I'm going to go over here. And a lot of times there's a variety of different type of content that you need to produce different variations for whether it is, web based banners that you need to produce or even like print based content, and those that localization can be based on, the language could be based on the specific region, it could be based on the specific products.
+
+00:29:46:05 - 00:30:21:15
+不明
+And every one of those becomes a multiple location factor of how many different variations now has a creative going through. And manually having to key that stuff in is very, very, very tedious. And that's where Firefly services can help me quite a bit. So let's walk through two examples that I have here. So the first one is let's say we have these different, posters that we want to use for, say, like a retail store, and we want to change out things like the discounts, we want to change out the language and even the products that are promoted based on data.
+
+00:30:21:20 - 00:30:40:41
+不明
+So what we can do is inside of tools like Adobe InDesign, we can go ahead here and we can actually, set up tags for what we call mail merge. So we can say this is where we want a specific, bit of text to go. This is where specific images, are and where we want to, take them.
+
+00:30:40:52 - 00:31:02:39
+不明
+And we can create a template in the tools that my creative teams are using every single day. But then what we could do is we can use Firefly services to help streamline that process. So I can take all of my different templates. And this is an app that I have here. This is, internal app. And this is using our Firefly Services APIs to run this automation.
+
+00:31:02:44 - 00:31:28:00
+不明
+So what this is doing is taking the templates that I designed inside of InDesign. It's going to take some of my different, linked, images and assets. And then if you see inside of here we have different data for different disclaimers, different locations, different languages. So if we have German here, we have Spanish, we have, different discounts.
+
+00:31:28:00 - 00:31:51:42
+不明
+All of these are different variations that I otherwise would have had to rekey in manually. But when I run this, this is now taking all the information from my data. Now merging that into those templates, getting the right images, getting the right, visuals, bringing those all together. One by one, creating all those variations. We create thousands and thousands and thousands.
+
+00:31:51:47 - 00:32:17:41
+不明
+And what we get then as a result is two things we could get, for PDF files that could be print ready, PDF files I could send directly to the printer. Fantastic. But I also have InDesign files. And why is this important? Because your creatives might go, hey, you know, I love this automation stuff, but sometimes there's last mile edits that we still want to make, and so we still can have InDesign files that can give you that full control.
+
+00:32:17:46 - 00:32:39:12
+不明
+But then as we look at the actual outputs, sure enough, here we go. It gives us all those different variations. Let's, it looks like I have a slight font issue on that one, but we have all the different variations with different products, and I was able to create all those variations at scale. Now, this isn't just with Photoshop either.
+
+00:32:39:17 - 00:33:07:21
+不明
+Because you can also do this with things like, this isn't with the design. Sorry. You can do this with Photoshop as well. So you can take your Photoshop files and you can create templates in Photoshop to dynamically change out different images, different text, turn on, and turn off different layers, use fire fly to use generative, generative capabilities inside of their run actions that you have as part of those.
+
+00:33:07:27 - 00:33:36:35
+不明
+So then as you create all those different variations that have it that's masking, generating, replacing elements, replacing text, creating different variations and sizes, it can then once again create all those different variations and generate even dynamic backgrounds based on that, with different text and different variations from that. So this is something that you can take something that would have been manual and be able to automate many of those different sort of actions.
+
+00:33:36:40 - 00:34:02:54
+不明
+And that's really, the power that you can do with the Photoshop and the, and the InDesign APIs within that. You guys want to see one more thing on this? Yes. All right. Cool. So one other thing that we've also done is brought things like our video APIs into this as well. So if I go in here and have a look at the this video that we have.
+
+00:34:02:59 - 00:34:24:09
+不明
+Let's have a quick lesson. Hi there. I'm just a lead designer here at Star Designs. We are so excited to announce we've got our three latest clutch bags in pink, green and mustard yellow for every occasion. Coming to you next week on our website. All right. So if we take that now, if we wanted to use that, that would be perfectly fine.
+
+00:34:24:09 - 00:34:44:16
+不明
+But we might want to expand our audience into different, very, different various languages, which again, might mean that I have to reshoot that with different, people as voiceovers, or you might have subtitles or, something that is kind of like a really bad overdubbed movie, with, with some lack of, you know, lip syncing there.
+
+00:34:44:21 - 00:35:10:05
+不明
+But what we can then do is with translate and lip sync, which is available both through Firefly as well as through, our APIs. We can actually, translate this, how we Spanish speakers. All right, let's have a listen. Oh, yeah. So, yes, this la aqui and style designs. Estamos muy emotional. Those are the most bolts of the mano and sound pretty good.
+
+00:35:10:10 - 00:35:34:29
+不明
+So. Yeah. Yeah. All right. But, notice that it also match the actual lip sync of that as well. So then we can also do that in another language. We'll, do let's do Korean, a tournament style design. So some titanium sesame that wouldn't the way they were seen in pink or let's, do, Oh, we'll do German.
+
+00:35:34:34 - 00:35:51:24
+不明
+Hello? It's been. Yes. And enlighten the designer in here by Stage Designs. If I don't see it in in mid teens, who couldn't wait until the dry noise and clutches in pink going on in. So helping scale that ability and be able to create those variations gives a whole lot larger audience to some of your video based content.
+
+00:35:51:34 - 00:36:21:17
+不明
+And as you saw from the keynote, also doing things like reframing and stuff now available to really help you scale content variations across your different sorts of mediums and channels, that's really what Firefly service is all about, being able to help take those different variations and be able to scale those. Now, with that, just to give you an idea of some of the different things that are within this, we've taken many of our capabilities from Firefly.
+
+00:36:21:22 - 00:36:52:23
+不明
+From Photoshop, Lightroom, substance 3D of as well as InDesign and some of our other, AI capabilities, and brought them directly into those as APIs so that you can take those, bring those together to create your automated workflows for your content creation so your creatives can create the greatest templates, and, and focus on the design and creating those variations and, that you would have never been able to do before.
+
+00:36:52:34 - 00:37:07:27
+不明
+You can now do that at scale and in the formats and tools that people use to create content with Firefly services. So with that, I'm going to hand it back to Ellie. Wow, that was amazing.
+
+00:37:07:32 - 00:37:28:43
+不明
+Every time I see those demos coming from Ben, you see the possibilities there of personalizing at scale. At first you're thinking, oh yeah, that I don't think I can do that. What about the videos? What about these different languages, different regions, different devices? It is now possible the tools are there. This is your list of ingredients. The team have been making different recipes, if you will, that you can take and leverage within your organization.
+
+00:37:28:48 - 00:37:46:05
+不明
+And you know, when you think about it, there's two things that, that we're thinking about from, from Firefly Services that we announced. So these new audio and video APIs are going to be we'll be able to do at scale. So previously it was just imagery. And now we're moving to these different formats and creative production.
+
+00:37:46:05 - 00:38:03:56
+不明
+We're creating new interfaces on top of that. So if you don't have the API resources or development resources, you have those creative production teams being able to stitch together those, workflows for you. So that's something that we're actively working on as well. So with that, I'm going to continue this conversation, but we're going to get very interesting.
+
+00:38:03:56 - 00:38:34:31
+不明
+Now, so I'm going to introduce, Matt Harker from The Clorox Company. So Matt, Matt is leading, customer experience, orchestration for, for the broader teams working across the board with many, many different powerful brands that maybe you use probably every single day. So, Matt, over to you. Thanks. Thanks, everybody. Hi. Yes, I'm, I'm Matt Harker, and thanks to Adobe Team for letting me join you at summit.
+
+00:38:34:36 - 00:39:07:31
+不明
+I lead an area at Clorox called Consumer Experience Transformation. And we're basically a center team in service of all of our different views and brands, focusing on things like media commerce, digital shelf technology, the powers, all of that. So it's a really great and fun intersection of where all those come together. And as you can imagine, there's a constant demand for assets and content and variation in media on digital shelf, and especially to meet our ambition of personalization and as close to 1 to 1 as you can get.
+
+00:39:07:36 - 00:39:33:13
+不明
+So I sit with that challenge a lot. And so we're exploring a number of use cases that can be powered by AI with partners like Adobe. And this is just some of the content that was in-market this year that was created harnessing the power of AI. But today, what I wanted to do was share five thoughts, five perspectives about gen AI that we're working with, wrestling with, fumbling with at the Clorox Company.
+
+00:39:33:18 - 00:39:51:35
+不明
+I know you all are in different industries and at different stages of the journey, so some may be obvious, some may trigger a new thought. Wasn't quite sure what the makeup would be, but we did decide to do it in kind of a fun way to show off the power of Firefly. So we're going to go I'm going to give five thoughts, but we're going to follow a repeating pattern here.
+
+00:39:51:40 - 00:40:11:54
+不明
+And that pattern is I'm going to show a 15 second ad, no Gen I for one of our brands in the Clorox family. I then made that ad available to the Firefly team, who chose a few still images from that 15 second ad and made a whimsical Firefly kind of transition for me to then make my point that I can share with you.
+
+00:40:11:58 - 00:40:32:54
+不明
+So through this, I hope you'll meet five beloved brands in the Clorox family, and you'll get to see the power of taking a still or two from that, adding a simple guiding prompt. What you can do. Because it's pretty incredible. So with that, we'll get started. Do you want to kick it off? We'll get kicked off with fresh snap.
+
+00:40:32:58 - 00:41:04:34
+不明
+Every cat acts like there don't stink. And now with our strongest litter ever, it actually doesn't get dirty. Day odor control. Step it up to new fresh step. Heavy duty. Okay, so that's a 15 second ad that could find itself in many places CTV, online, etc. pitch that over to the Firefly team. And what do they do with text to video?
+
+00:41:04:39 - 00:41:08:43
+不明
+Found.
+
+00:41:08:48 - 00:41:15:40
+不明
+With these.
+
+00:41:15:45 - 00:41:39:27
+不明
+Our. Yes. So I show you this because it's kind of fun. These get increasingly funny. I especially love the last one. But again you're like, where do I start? And you may already have the assets either in video still or otherwise form to just jump into this space. Right? So the first message is jump in if you're not trying Gen I get in the space, it doesn't you don't have to overthink it.
+
+00:41:39:31 - 00:41:56:01
+不明
+You just have to get started. And I would say now this room is probably largely bought. And so again, I'm saying this more so you can take this message back to your bigger companies and enterprises, but it takes time to just soak in this space and get a sense of how it works. What are the terms? What's the language?
+
+00:41:56:10 - 00:42:16:14
+不明
+How do I think about creating a good prompt? And AI is going to start to show up everywhere and company processes. So at Clorox, one thing we've done is we've created teams channels where certain user groups are given access to different tool sets, and they can just go in and play. They can just share. Sometimes people are like, oh, there's a new holiday coming up.
+
+00:42:16:14 - 00:42:31:46
+不明
+Look at this new ad I created for this, or oh, my son had a soccer game this weekend. I made him this thing. And it's just kind of like a free from sharing thing internally. But it gets everybody excited about the power of possibility. And more importantly, it socializes Gen AI in the company so people aren't afraid of it.
+
+00:42:32:01 - 00:42:47:40
+不明
+They understand it's something that empowers people to do things that you know, quicker or faster. They couldn't have done otherwise. So definitely jump in. If you're not in it. Don't wait. Don't wait for it to get mature. Don't wait for it to get the best because it is rapidly moving and it will overtake you even if you start now.
+
+00:42:47:40 - 00:43:27:17
+不明
+So I'd say jump in would be one of the first lessons. All right, next brand 15 second AD. Burt's bees moisturizes with a tingle of peppermint oil that feels like it's an Arctic mountain. Whispered peppermint secrets to your lips Asmr style. Yeah, feels kind of like that. Burt's bees, A touch of wonder. All right. And then over to the Firefly team.
+
+00:43:27:22 - 00:43:48:23
+不明
+And now the messages. So inside. Outside. So I personally, divide the world into what's happening in your company that a consumer customer will never see. And what is going to go out in the world that your consumers and customers are going to see? So first, you should think about risk tolerance for your company and establish some guardrails.
+
+00:43:48:34 - 00:44:15:15
+不明
+When I say jump in, I don't mean jump in recklessly and get everybody using every third party AI tool and create a disaster for your brand. So you need to have a little bit of discipline, understand your risk tolerance. It may be the same for your company or it may be different brand by brand. Then inside, don't worry about having it all perfect or, approved by your brand suitability, legal processes, etc. just go.
+
+00:44:15:20 - 00:44:32:52
+不明
+You're practicing speed internally as an example, what if you have a marketing leader, an innovation leader, or a product leader who has an idea and trying to socialize it or galvanize people behind them? Use gen AI to bring that picture of life and get everybody on the same page. It doesn't matter if it's perfect, you can run it a thousand times.
+
+00:44:32:56 - 00:44:49:35
+不明
+You can use it later as the beginnings of a storyboard. You can brief your agency with it. You don't have to be so precious with it. So don't be so careful. Kind of run, break things. See how fast you can go. See what used to take four weeks and get it down to ten minutes. So that's the inside view.
+
+00:44:49:37 - 00:45:11:08
+不明
+Now outside is very different. You're thinking about brand outcomes that you want out there and protecting your brand and everything you've built behind it. So there you do need to be more careful. Use commercially safe tools and IP like Firefly where you can feel confident in what you're putting out in the world. Make sure you're using your internal gate processes.
+
+00:45:11:13 - 00:45:33:18
+不明
+We are not necessarily doing one person looking at every asset going forward because it becomes overwhelming, but you're grading those assets based on what they are, what's risky, where's it going to show up, how many people are going to see it. And then you can kind of take a risk adjusted view. So definitely kind of an inside you act one way with a little bit of reckless abandon I would even say is, is like poke yourself to do that.
+
+00:45:33:18 - 00:46:15:33
+不明
+And then outside treat it very differently. So just another perspective. All right. Third brand. All right. What are the rules of the tailgate? Burgers. Split glance routes low and low. And the center is always the hardest. You've got this Kingsford king of the tailgate. And then over to the Firefly team.
+
+00:46:15:38 - 00:46:41:46
+不明
+All right. Third message. Rapid, rapid mining. So I think what's really interesting is there is data everywhere. And it's of course it's proliferating. Some of it you may have access to, some of it may be trapped behind walled gardens. But to make sense of any data previously you had to get it all in the same location. You had to normalize it, you had to get it in some, you know, structure, and then you had to to like spend time analyzing it.
+
+00:46:41:51 - 00:47:17:17
+不明
+Now, a lot of these tools can work across data where it sits. So it could be data on your own estate. It could be data with a partner. It may be in different formats. These tools are intelligent enough to make sense of things. Even if you don't spend years bringing all that together and polishing it all. The next is that, you know, you can think about things, something we do a Clorox is we scrape customer reviews that are left on all kinds of sites or unstructured data left on social sites, and we bring it together to quickly learn what are people talking about, what are their pain points with our products?
+
+00:47:17:17 - 00:47:37:38
+不明
+What do they love about our products? It goes right into our innovation roadmap. What should we focus on? What should be a line extension? What should be something new? It comes direct from customer data. Normally that would have been difficult to access all of it. Then you would have had to have team spend time combing through it. Professionals that know how to boil up insights and then share them across.
+
+00:47:37:43 - 00:47:57:25
+不明
+Now the tool that we have in place is kind of a self-service tool that sits across all that data that by no matter what facet you want to address for brand, customer, unmet need, whatever it kind of like instantly surfaces in, generates those insights for you. Now, again, it's not meant to replace insights teams. They still have decades of practice.
+
+00:47:57:25 - 00:48:17:34
+不明
+And they know how to help people understand how to apply the insights. But the drudgery of bringing it together and combing through everything and trying to simplify that down from somebody who sits in a different department is, you know, it's a lot of time and effort and a lot of back and forth. So some of these gen AI tools now immediately generate the so what when they sit on top of data.
+
+00:48:17:38 - 00:48:31:50
+不明
+So this isn't so much about creating copy or images. The consumers will see, but generating actual actionable intelligence and insights from large data sets. All right forth brand.
+
+00:48:31:55 - 00:49:01:48
+不明
+Okay. Let's go, let's go. Think about it. When you let it go, you know what. All right. And Firefly team I that that,
+
+00:49:01:53 - 00:49:23:33
+不明
+All right. Forth message agents, which we've heard about a lot going to fundamentally reshape experience, whether it's an agent working on its own in a certain space or a bunch of agents working in concert with each other. So when agents are working, and I'm seeing this a little bit more from, some of our leading retail partners are creating shopping agents.
+
+00:49:23:38 - 00:49:43:02
+不明
+And when those shopping agents act on a consumer's behalf, as a brand, we have to understand how those agents are going to work. What are they looking for when you ask a shopping agent, put something in my cart to clean up afterwards. How does that agent know what to go look for? I mean, we're essentially then marketing to bots.
+
+00:49:43:06 - 00:50:01:29
+不明
+We may need to create totally different content or 100 times the content in order to be ranked in relevance or the words we need. It's almost like an SEO game, but to an agent and a shopping agent. So agents are here not only in workflows and for speed and efficiency, but also in how consumers are going to live their daily life.
+
+00:50:01:33 - 00:50:23:05
+不明
+And as a consumer brand or product group, we need to understand how to get the best out of those so we can help consumers find the brands they love. The other thing with agents is think, rethink, end to end. I think one of the dangers in AI right now that we found is that when you start about, you kind of say, how do we do things today and who are the people involved and what are all the processes?
+
+00:50:23:09 - 00:50:39:23
+不明
+And then you can you can, break that down and like, well, there's this step in this, this step in is this step. And then within any step you're like, what tools do I use to do it? And if you ask yourself, how do I use AI to make that process that step faster, you're missing it. You have to start complete, end to end.
+
+00:50:39:36 - 00:51:11:23
+不明
+What's the starting point? What's the end goal? Because these things are so disruptive, those eight steps may completely go away. You may have two totally different steps and have to retrain your teams. We're starting a thing right now. Content supply chain. Again, a bit of a buzzword, but an important step for us to map all the places we create content today and how some in-house, some with agencies, some with influencers, etc. all the places that our content lands, media, websites, shopping engines, etc. and understand those value streams.
+
+00:51:11:27 - 00:51:31:21
+不明
+Some of them take a lot of time, some of them have a lot of asset variations going through them, etc. once you have that map and you can look to end to end, you can think about what tool can get you the most expedient way, end to end, and then help your teams work totally different with those tools and agents doing the drudgery work.
+
+00:51:31:26 - 00:51:50:13
+不明
+We would not have got there had we just started with to talk to one department and say, what do you do today? Can I make your job go faster or whatever? You would miss the real value unlock. So our our big discovery there is always start end to end. Understand how disruptive you can make it and then help teams adjust to that because hopefully their job is even more exciting, enriching, whatever.
+
+00:51:50:13 - 00:52:15:57
+不明
+But it's different than potentially what they were doing today. And then the rise of synthetic again, that's back to the marketing with bots. There's so many things that are just going to be, did you just have to think different? I think we also see it in consumer testing and innovation. Previously, when you need to get together focus groups and in-person things, a lot of this now you can basically have synthetic consumer groups react and give you reactions very quick, to what's working, what's not.
+
+00:52:15:57 - 00:52:37:09
+不明
+Does it meet their pain points. So just totally different ways of working. And so that's the big thing. You got to think really big first to get the value out of it. So okay, our final one here. Ever since you tried zesty Hidden Valley Ranch built, you've been a bigger fan of that than the Cougars. How could you say that?
+
+00:52:37:14 - 00:52:49:42
+不明
+Term hidden Valley ranch. Oh, this flavor. All right. And over to the Firefly team.
+
+00:52:49:47 - 00:52:52:57
+不明
+Oh.
+
+00:52:53:02 - 00:52:59:53
+不明
+
+
+00:52:59:58 - 00:53:27:04
+不明
+Oh. All right, final message. Pretty amazing, right? Like, I mean, I didn't have to do anything other to provide an ad that already exists, and they're like, yep, we'll take this image. This image will give it a guiding thing and then can create this kind of, you know, whimsical stuff, which is just awesome. But so last for individual made possible, we talk a lot about personalization, individualization and people in talking about forever easy to say, super hard to pull off getting more and more possible.
+
+00:53:27:09 - 00:53:53:06
+不明
+All these barriers are coming down the data to understand and the triggers to know what consumers want, when, and be able to serve exactly that to them. There were so many problems before all of those barriers are falling away. We're finding it most frequently about the variation of assets kind of this atomized content approach when you work with templates and bits and elements in there and how it can all get assembled much quicker, including video.
+
+00:53:53:06 - 00:54:16:01
+不明
+Now with some of these products is just going to just supercharge it. And we've done tests already that when we add in a personalization layer, either to better target an audience or to better serve that audience content every time we get a statistical lift. So I we're, we're pretty sure about personal relevance matters. It's just a matter of how often can you do it and how much is it going to cost you in time and money.
+
+00:54:16:14 - 00:54:39:49
+不明
+And so these tools are just totally shaking that up. So I would just say, don't abandon that holy grail idea because it's becoming more and more possible, with some of the new tools. So with that, we'll turn it back over to Elliot and see what the future holds. Great. So Matt, thank you so much for that.
+
+00:54:39:54 - 00:55:01:37
+不明
+We're having way too much fun with this video model, as you can see. So but Matt shared some incredible insights on things that you can do today. You can bring back to your organization. They're doing that now. And how many of you knew The Clorox Company has so many incredible brands that were there? I mean, for me, I just pretty much knew the Clorox, you know, the wipes, cleaning and things of that nature.
+
+00:55:01:37 - 00:55:15:02
+不明
+But they're pretty much affecting many different facets of your life on a daily basis. And then the way to take in technology and their organization together, there's a lot you can learn from that there. So Matt, thank you for that. And also thank you for letting us play with your brand a bit and have a lot of fun with that.
+
+00:55:15:02 - 00:55:37:41
+不明
+Great. So, so, you know, let's wrap up here and then we just, you know, so a couple of things that we can do to think about how we can unlock general AI within an organization. So I think the one key message that come across today is get started quickly, start to tailor your brand. So to look at the core assets that you may already have, how can you leverage that?
+
+00:55:37:46 - 00:56:00:31
+不明
+How can you leverage that to jumpstart creative ideation and use that for new campaigns, existing campaigns to bring a refreshed way to leverage your brand, start to think more broadly about how you can use that to boost creative productivity as well. So if you think about all the different people who are using your core creative teams to your marketing teams as the end, starting to blur the lines a bit about who creates content.
+
+00:56:00:36 - 00:56:26:22
+不明
+So you need to make the technology available and also enable them to use it in productive, productively at scale. And then of course, automating what's what's in vogue. Production. Many cases you have these recipes that you've been running for years and doing over and over again. And trust me, when you talk to those creative teams who are going through that drudgery of that process, of all the resizing and the different campaigns that they need to do, if you want to get towards that creative, new, impactful work, this is the key.
+
+00:56:26:22 - 00:56:45:10
+不明
+Take that, canonize that into core workflows, automate those two APIs, and then truly get it out to scale. So, one other thing. Where do we go from here is you pull out your phone and you take a survey to win. So we're going to wrap up here on this one. So thanks everybody for joining us today.
+
+00:56:45:10 - 00:57:03:45
+不明
+This wraps up our session for today. If you do, have your The Summit mobile app, please do fill out the survey here. Your feedback is incredibly valuable to us. And it's even more valuable if you give us a five on everything. That's the only role that I have for that one. So and we will be taking questions, but we have to take them outside.
+
+00:57:03:50 - 00:57:12:14
+不明
+So for that. So thanks for hanging out outside. If you have any questions. We'll, we'll be out there. All right. So thanks for the presenters today. And I'll see you all later on at seven.
+

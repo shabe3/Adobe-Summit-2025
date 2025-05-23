@@ -1,0 +1,484 @@
+00:00:00:07 - 00:00:18:22
+不明
+How are you all feeling today? Thank you so much for being here. Thank you so much for being at the summit. It's the third day. It's a final day. You made it. That's amazing. I'm. Honestly, I'm so happy to have you all here bright and early for this conversation. I know it's going to be an amazing session.
+
+00:00:18:23 - 00:00:37:03
+不明
+You're going to learn a lot from your peers and really be able to enhance your product. But before we start, did y'all have an amazing time last night to bash? Did you have joy at the beautiful of one venue? It was amazing. As an F1 fan, I was really happy to be there and I kept sending photos of my father like, hey, yeah, I'm here.
+
+00:00:37:08 - 00:00:57:01
+不明
+So thank you so much for being here. My name is Angela Canada. I'm an adoption marketing manager supporting Adobe Commerce and my family. Part of my job is how much I get to collaborate with customers to really bring you the best practices for you to make the most out of your Adobe solution. So without further ado, please welcome Juan Pablo and Francisco.
+
+00:00:57:03 - 00:01:18:25
+不明
+They're both from the Coca-Cola company, and we're really happy to have them here to be able to present to you how to make the most out of a data ecosystem for personalization success. So please give them a very warm welcome. So thank you, Dani, and thank you for all the ones that survived yesterday. So glad to have you all here.
+
+00:01:18:30 - 00:01:46:46
+不明
+As Dani say, today we JB he is the e-commerce product director for Coca-Cola company, and I, Francisco, I'm the senior director for direct to consumer business of Coca Cola. So today we were we are going to talk about what is our direct to consumer business. Yes. For you to have in mind what what what we do.
+
+00:01:46:51 - 00:02:11:37
+不明
+And after that we are going to go straight straightforward week one. Who is the one in charge of telling you how the technology is allowed? We now want to do that kind of where our. Is that where we think the business should and must go. So first we are going to start by showing you a small video.
+
+00:02:11:42 - 00:02:17:17
+不明
+Ding ding dong.
+
+00:02:17:22 - 00:02:54:40
+不明
+Ding ding dong ding. I feel that sweetness everywhere. You're the only one that can make my day. Can you? Ding ding ding dong. It's magic. Now when I jump down here and there. Look around and tell little. If you let it ring a bell. That's the magic happen in your own party. Go to your door. So ding ding dong ding ding ding dong ha ha.
+
+00:02:54:44 - 00:03:02:24
+不明
+The ding ding ding dong.
+
+00:03:02:29 - 00:03:22:57
+不明
+Ding ding ding up into a garbage Coca-Cola p p. That's very busy. Casa econom veo gratis. Tambien puede is better than Mr. CEO. Web website. Oh. Telephone number. You.
+
+00:03:23:02 - 00:03:29:42
+不明
+Love my toca to cuenta albertini and to God by Coca-Cola.
+
+00:03:29:47 - 00:03:54:56
+不明
+So for for the ones who have been in Mexico City before, these commercials represent, a bit of the CD. No, I will remove them out of the CD, but also introduce to our Mexican consumers this direct to consumer channel that is available for everyone in the in the whole Mexican territory. So the name is enter. For the ones who don't speak Spanish, it means at your home or at your, in your home.
+
+00:03:55:01 - 00:04:22:55
+不明
+And we are these huge platform that today we have 80 distribution centers spread all over the Mexican territory in order to serve our consumers. No, we started as a web page, as a website. Today we prefer to talk about digital ecosystem because we are not only a website, we also have this way for consumers to buy from us through a, chatbot.
+
+00:04:22:58 - 00:04:49:43
+不明
+This is, health conversational health web. And last year we, we launched the application for Android and iOS. So today is the consumer, the one who can choose how they want to approach to our e-commerce. And some of them, not all of them do allies actually. So they buy it sometimes from the website. But sometimes from the application.
+
+00:04:49:47 - 00:05:16:17
+不明
+We offer this next day delivery. So it's a stock up mission. We today we are not able to offer that we commercial solution. So it's a plan purchase mission of a stock up that that's why we do it that way. And one interesting thing is that we are still offering, free delivery now. So think about that.
+
+00:05:16:22 - 00:05:42:25
+不明
+We're selling Coca Cola now, that's a very, very straightforward business. Our average order ticket is around $20. No more than that. But we manage. No, we have to have this discipline to manage the business in a way that we can still offer a free delivery, but having a profitable, a profitable business. Okay. So that's the main challenge of what we do know.
+
+00:05:42:30 - 00:06:08:27
+不明
+And we offer the full Coca Cola portfolio. Of course, Coca Cola is a big company with over 200 brands. We offer all of them now the 200, but the ones that are available in Mexico for sale and on the way we have have some partners to these cheap. So today we have partnerships with Heineken. So we sell actually actual beer.
+
+00:06:08:27 - 00:06:42:38
+不明
+Now through the platform we have some partnership with Mars. So we sell snacks with Procter and Gamble. So we say we we sell also. The portfolio a small portfolio of Proctor and so on. So we try to complement the proposal that you can find not only the you can not only buy the stock admission with the Coca Cola products, but you can find other complementary products that make your life easier from.
+
+00:06:42:43 - 00:07:09:54
+不明
+Some of them and numbers for you to keep in mind. So last year was a great year for for this business. Now we we have more than 500 unique buyers all over the year. Each single month. We get 3 million of it in our sites. Now, in this digital ecosystem that I'm very present to you before. And one interesting thing to to highlight is that.
+
+00:07:09:59 - 00:07:38:52
+不明
+We have 2 to 4 peak days each month when we were where we make a special promotions. Now we have something happening in our digital platforms, and on that days we have been capable of processing over one order per second. Of course, for the ones who are more prone to to buy marketplaces now, these big marketplaces like Walmart, like Amazon, this is nothing.
+
+00:07:38:52 - 00:08:07:38
+不明
+No, this is nothing but this amount of traffic for our day to see of a CPG company is one of the one of the biggest. So that's where the technology, has a role. Our partnership now with Adobe, of course, on CMT, has allowed us to grow, you know, to grow and absorb quickly these traffic. Well, of course, offering a great value proposition to our consumer.
+
+00:08:07:42 - 00:08:11:24
+不明
+So.
+
+00:08:11:29 - 00:08:17:19
+不明
+That was, say.
+
+00:08:17:23 - 00:08:44:31
+不明
+Right. And so this is our history. We launched the retail ecosystem 30, 30 months ago. And, and we became the biggest retail player for Coca-Cola in Mexico now. So that doesn't mean done well for for confusion until you can imagine who are the blue ones and who are the yellow. No orange ones, but we do not sell more than them, of course.
+
+00:08:44:31 - 00:09:14:02
+不明
+No, we don't sell TVs. We don't sell electronics, but we are actually selling more Coca-Cola products through our own direct to consumer business than we do for this third party relationship. What we have with others, all other digital players in Mexico. Okay. And that was achieved, last year. So how have we done it? You know, the first again, this is a very simple business.
+
+00:09:14:02 - 00:09:48:52
+不明
+We sell Coca-Cola. So we're avoiding our consumers, our users, the pain of shopping these very, very bulky products, especially if you thought of, 20l, Jack, for example, the pain of going to a supermarket 14 days on a car, putting your car and so on. And of course, in Mexico, this is very special. For Mexico. There is a culture of buying refillable products, some of them for sustainability, but most of them for the price.
+
+00:09:48:57 - 00:10:17:18
+不明
+No refillable products are cheaper. They are one way products and we also are solving that pain. 40% of our revenue is from refillable products and we are avoiding the user, the consumer, to carry this empty bottle to the store in order to refill it. So we go to your home, we we take back your empty bottles and we give you the new ones.
+
+00:10:17:31 - 00:10:20:31
+不明
+Okay?
+
+00:10:20:36 - 00:10:57:35
+不明
+The other part is of course, focusing on user experience. Simple business requires a simple user journey, so we don't want to make it complex. You go to the site, you find the catalog, you add the product to your cart and you pay. That's it. 24 hours your products are going to be at your door. And finally, we are trying to find a way to differentiate ourselves, our ourself from the other digital players because you can find Coca-Cola products everywhere now, not only online, but also in the offline, in the real offline world.
+
+00:10:57:37 - 00:11:34:58
+不明
+No. So one way we are trying to to make this differentiation to happen is that we want to go or create this relationship with our consumers and user that goes beyond the transaction. So we don't want to have only a transactional way of relation giving, having a relationship with our users. So for example, during 2024, we have over 30,000 users that want something from us, from a pool of over than 100 different experience.
+
+00:11:34:58 - 00:11:58:22
+不明
+What our experience? Very simple experience. For example, Coca Cola has partnered with movie theaters. So you buy from us, you get free tickets for the movies for an amusement park, but also more sophisticated experience, for example, knowing your favorite artists. So we make this deal with an artist and you can have our meet and greet or, going to the FIFA World Cup, going to the Olympics.
+
+00:11:58:22 - 00:12:31:24
+不明
+So we leverage the experience of their direct to consumer platform. Of course, in all the assets that Coca-Cola company has to offer to the consumers. And you can find this exclusively in our platform. But after this 30 months now, this journey of 30 months from creating this e-commerce until the numbers that I'm showing to you right now, we realize that a business like Coca-Cola, that is very massive business, has many different types of consumers.
+
+00:12:31:24 - 00:13:00:14
+不明
+We can have this one single persona now that we target our service. So everyone's everyone in Mexico buy something from the Coca-Cola company. The penetration of Coca-Cola Company Mexico is over 99% because we sell soft drinks, but we sell water, we sell users, we sell milk. Now. So everyone, you know, over a period of a year has bought something from Coca-Cola Company in Mexico.
+
+00:13:00:19 - 00:13:26:43
+不明
+So the only way, the only way to connect in a meaningful way with these very different consumers is by delivering them a customized, personalized experience. And that's where we are trying to have with the technology. No. So we make this very simple framework that we stole from the internet. No, nothing. Nothing fancy. But first we need to understand our consumer.
+
+00:13:26:43 - 00:13:51:25
+不明
+So these consumer we know they are different. We need to get to know them better. We need a tool to target these consumers based on the knowledge that we have about them. And of course, we need a way to deliver the message in order to generate these personalized 1 to 1 relationship with them. So what the beginning and fun part is going to go deeper into this.
+
+00:13:51:35 - 00:14:15:26
+不明
+Now, we gather information from all the sources that we have. So we have, of course, the user information. This is the consumer profile, the transaction that they make. The very basic of our e-commerce. No, but we also have access to other more sophisticated, sources of data, for example. Interested now we are connected with meta. We are connected with Google.
+
+00:14:15:37 - 00:14:47:31
+不明
+So I know that you may like, football, soccer, music, video games. ET cetera. No, but we also have some knowledge about the feedback that the user gave to us, proper or formal surveys like NPS or when they contact to us because something had happened, but also this silent way of getting feedback from our consumer when they browse through our platform, what products do they look?
+
+00:14:47:40 - 00:15:11:31
+不明
+How much time do the spending? On which side are they making clicking the banners in the home slider? Are they scrolling down or they are. They are not scrolling down. It's see that? So we gather all this formal feedback that they gave to us, but also all these informal feedback. And we gather that in a single platform that one is going to be talking in in just three more minutes.
+
+00:15:11:31 - 00:15:35:55
+不明
+So imagine all these, all these sources of information like Lego bricks. Now we, we, we like our site to picture in that way. So we have all these dimensions, some of them summarized in the slide. And we going to stack these dimensions like Lego bricks. So we have we can have very simple segmentation. Yes. Using yes two Lego bricks as an example.
+
+00:15:35:59 - 00:16:01:56
+不明
+But we can stack more Lego bricks. No. And these Lego bricks lead us to a hyper segmentation or more sophisticated segmentation with smaller groups that share something that make these small group common. And finally, we need a way to deliver the message. So we gather the information about the user. We have this tool to to create this segment.
+
+00:16:01:56 - 00:16:28:08
+不明
+And we need to deliver the message to the very same platform. And these metrics can be delivered through digital media inside the platform with personalization, inside the digital platform that we have the website application on the board and of course through our CRM. Now, Direk direct messages, direct communication to our consumers. And this is going to be the third time that someone thank you for being here.
+
+00:16:28:08 - 00:16:55:42
+不明
+I mean, this is there again the first session in the morning. So we are trying to, make this session quite dynamic. We are going to back on for on the platform. I don't know how many of you guys are heavy users of Adobe Commerce app or audio. Please raise your hand. For you guys, this is something that you are going to, like a few familiarized with, but they're the ones who actually didn't write your hand.
+
+00:16:55:42 - 00:17:14:04
+不明
+You are going to see how easy is interact with the platform just for the simplicity. The punch was telling you how you are going to set up a coupon, how you are going to also create an audience, create a journey, how the user activate this, coupon, inside of our platform to get the benefit and so on.
+
+00:17:14:09 - 00:17:45:13
+不明
+And hopefully at the end of the meeting, you are going to be eager to actually experiment with this kind of tool, because at the end, it's quite easy to use it right? So, coming from, the childhood, the exponential growth that Pancho was telling you, imagine that, basically reaching that level of personal limitations means that, yeah, we need to consolidate millions of data points, millions of, consumers actually leaving out the data.
+
+00:17:45:17 - 00:18:08:04
+不明
+And with that, we have a lot of challenges that we need to face in a very proper way. The first one is going to be, the data integrations coming from different sources. Different formats, different level of quality. The second one, will be the, like a handling this massive volume data at a good velocity and at this scale as well.
+
+00:18:08:09 - 00:18:27:50
+不明
+The third one for sure. And you are familiarized with this one, because at the end of the core, when we work with data, I need to ensure that data privacy, the data security, the regulatory compliance, just to ensure that we are going to contact our user to actually want to be contact and in the way the user want to be contact as well.
+
+00:18:27:55 - 00:18:43:07
+不明
+In the, the for one is basically, I mean, to a really like a analytics machine, how we can offer the personalization that the user is seeking. In our, in our platforms.
+
+00:18:43:11 - 00:19:09:28
+不明
+So this is kind of, how simplicity looks like. We are going to, like, explain you very briefly the high level architecture in here. But you are going to see, there are the end, this, like, data architecture was thought for the future back, in 2022 when we started this work because, in the 2023, we actually didn't have all the data sources integrated.
+
+00:19:09:28 - 00:19:34:16
+不明
+We just have the transactional data coming from Adobe Commerce, but also the profiling data coming from our CDs or our consumer data platform. With this, information we needed to store it in somewhere, right? I mean, in our case, we're store, a storage that's information in our real time CDP. And we transform the data, we create the audiences, we ensure the compliance.
+
+00:19:34:20 - 00:19:54:16
+不明
+Of the data that we are going to use, in the, in the, in the, in the, in the different platform or the destination that we have in the architecture, but also back in 2023, we also didn't know that we can use basically a lot of the tools that Adobe, actually brought to us. And we just start with the simplicity.
+
+00:19:54:19 - 00:20:16:28
+不明
+We start with basically using coupons in Adobe Commerce. But after that, using the same integration, we start to, like enabling more and more tools depending on the use case. So these two concepts, that is going to be basically the use case. And the tool is going to help us to understand which tool is going to be the better to be use.
+
+00:20:16:38 - 00:20:41:53
+不明
+And if we have the data to actually use the destination. In, in, in this architecture. So today, we are going to go through three different platforms, some use cases in this, three different platforms. We are going to go, in Adobe Commerce for, how how we can, use the coupons and actually how we use the coupons.
+
+00:20:41:58 - 00:21:10:10
+不明
+The second one is going to be, Adobe Target. And this is, somehow a funny story because you use target because you want to test. Right? But we want to actually test the test. So you are going to see how target actually help us to, like a prove hypothesis. Simple. A simple hypothesis, such a. Look, we know that our recommendation is going to, like, work better for the user that, are exposed to the recommendation.
+
+00:21:10:15 - 00:21:37:25
+不明
+But I really want to test that. So we start to test a lot of thing using target. And you are going to see some of the hypotheses that, we, actually worked around, using this tool. And the third, use case is, Adobe Journey. So how we actually are creating some simple journeys, just to activate a specific consumer, how we actually create the CRM strategy.
+
+00:21:37:29 - 00:22:00:14
+不明
+In the ago just to, actually be sure that we are going to cut in the contact the user segment, but excluding all of those user that at some point, actually, are not going to belong to that specific segment because or purchase more in the, in the average order value or because any other variable as well.
+
+00:22:00:19 - 00:22:22:35
+不明
+So let's just start with, use case of Adobe Commerce, the famous shopping cart price rule. So some general things that you need to consider on this kind of, of walk is that we kind of offer a special discount, in the shopping cart, given a specific condition. The other one is the discount is going to be applied automatically.
+
+00:22:22:40 - 00:22:45:49
+不明
+On the, on the, on the, on the checkout, and it's going to be displayed just below, the subtotal of the, of the, of the checkout, and the third one and therefore one is going to be that, this for the discount rules, I mean can be are just for on a specific promotion by changing, some status, item, valid dates.
+
+00:22:45:53 - 00:23:04:37
+不明
+But when you set a coupon, you, must understand that you first you need to create the, segment. And that at the end is going to be some conditions on, the users. And the rule that at the end is going to is going to come from our commercial perspective, because we are going to say, how much is this?
+
+00:23:04:47 - 00:23:33:53
+不明
+We want, we want to provide how, percentage of discount. We want also to provide how many redemption we want the user to, to, to have in in a, in a period of time or so on. So with that, let's take a look on this video. That at the end is going to splain very, quickly how we like, create the first, rule or the first, variable that this, shopping cart price rule has.
+
+00:23:33:53 - 00:23:37:17
+不明
+That is this segment.
+
+00:23:37:22 - 00:23:59:13
+不明
+So, on the customer, and the customer section, you are going to see that we click on the customer. We need to normally put a name on the, on the segment. We need also in this case, to put a description, but also to select some sites in where we actually want to activate this, coupon.
+
+00:23:59:18 - 00:24:21:12
+不明
+We normally work with warehouse. A special was saying we have a little warehouse in Mexico, so sometimes a coupon is just direct for on a specific warehouse. Then you are going to click on save, and a lot of, more options are displayed on the platform. And in that platform, actually you are going to select depending on your data structure, right?
+
+00:24:21:12 - 00:24:44:22
+不明
+I mean, we select user that are coming from our website and user that belongs to a specific, domain that in this case is the Coca-Cola domain that this promotion was for on in the marketing purposes as well. And after that, basically we have our segment, completely create, but then we need to activate the segment.
+
+00:24:44:29 - 00:25:06:57
+不明
+So for death, let's go for, how we activate that kind of segment. So we have three different, like a types of coupons that we are using. The first one, we name and a unique name coupon value for a multiple, users. And in this kind of, basically configuration, you can set a lot of things.
+
+00:25:06:57 - 00:25:32:20
+不明
+You can send, fixed discount, percentage discount. You can, actually also set, a specific discount for a category or for a specific product. And that's the way actually, we are trying to personalize all of our offers and try to understand the user that actually buy more water. So let's offer our discounts, for water purposes, for water, purchases purposes for that, a specific users.
+
+00:25:32:25 - 00:25:58:55
+不明
+And in this case, we are going to see a specific, activation that we have, based for on a specific user and that we want to provide a fixed discount, given the condition that it has the, the ordering rate and then X or y amount. So you need to, always like I have in your mind, and you need to put the coupon code there at the end of the code that the user are going to put into the checkout process.
+
+00:25:59:00 - 00:26:18:27
+不明
+You are going to set up also some of the condition, that is how many redemption we want to have, per coupon. How many users per user we want to also provide in this case. And after that, the the the configuration is set. And this, this is the way that the user can activate basically this coupon.
+
+00:26:18:32 - 00:26:44:32
+不明
+So you are going to see that just right below the subtotal. We have the discount completely enabling here okay. The second one is sorry is basically if we want to have multiple coupons for multiple, users, multiple purposes. Right. The only thing that you need to change in here, you are going to see is that you can enable the auto generation.
+
+00:26:44:32 - 00:27:08:37
+不明
+Our function inside of that of e-commerce. And with that, basically you are going to make the same configuration of the previous one, but the platform is going to display, right on the bottom of the platform, all the code automatically and boom, that's all. You now can activate this, basically promotion to other channels, I mean, such as HBO and so on.
+
+00:27:08:41 - 00:27:32:51
+不明
+But this is the way basically that the user, also can redeem this, this, this coupon in the same way. Okay. The third one, and is one of the, of the most popular, Coca-Cola, is that we don't want to use a coupon. Actually, we want just to provide, on a specific discount when the user, in this case buy a water product.
+
+00:27:32:56 - 00:28:03:11
+不明
+So let's see, basically how this looks like. And it's just a small change that you need to do, comparing with the previous configuration. And you just put we don't want to use a coupon. So just click on coupon. Same this same actually configuration that we saw previously. The same rules and everything. In this part is when you actually activate the category, you just put, in this case our category, that is the water products.
+
+00:28:03:15 - 00:28:19:39
+不明
+And with that, you are saying that basically we have for this segment, we are going to enable the direct discount without using any coupon direct on the checkout. And this is how it will look like for the for the user.
+
+00:28:19:44 - 00:28:50:04
+不明
+See the coupon discount below on the subtotal. And that will be all for this kind of configuration. But the e-commerce shopping cart price rules, actually has pros and a limitation. So if we are looking for working with a broader segmentation, using transactional data for a special or big seasonality and a couple of times, a month for instance, Adobe Commerce is a great platform, right?
+
+00:28:50:09 - 00:29:17:03
+不明
+But if we want to automate some activation processes, may the segmentation a bit more complex and dynamic by you, in this case, profiling data. That is the other data source that I show on the on the high level architecture. So we need to combine some other tools, because we want to actually, have the platform doing the work that actually we were doing manually and in this case with the real time step.
+
+00:29:17:05 - 00:29:40:48
+不明
+So we are integrating the profiling data so you can integrate not only the profiling data in this in our cases the profiling data, but also another kind of data that you have under your on your data catalog. With AP, we are basically creating these dynamic, audiences. You are going to see how we create an audience very quickly and, using you, you are actually automating the triggering.
+
+00:29:40:53 - 00:30:08:33
+不明
+And that's pretty cool because at the end is something that is constantly moving, depending on the consumer behavior. And actually we don't have enough hands to like a booth. And now Army to do this work manually all the time. So this is the, simple use case. And in this case, it's a use case that we have for, let's say congratulate, the person that had the, has the, the birthday in, in a specific month.
+
+00:30:08:38 - 00:30:27:45
+不明
+So let's go to, basically a P. We just put the in this case the, the, the marketing, segment. This is, Adobe Commerce. So we went into for sure, first of all, create a coupon because at the end this is the way we are, going to activate from the commercial side of the, of the things.
+
+00:30:27:50 - 00:31:00:32
+不明
+And in this case we create, basically the, the, the coupon, all the rules that we saw before, and that will be all just make the same configuration. And after that you are going to see that the ones we have basically the coupon completely set, we are going to activate in the other platform. Okay.
+
+00:31:00:37 - 00:31:36:51
+不明
+Great. So then we go to APM on the audience section. And we are going to basically create the audience for this purpose. So the audience the first thing that we normally do is basically, bring the data from on a specific platform that in our case is going to be the, the website, the chat bot, and also the application, we for sure need to, ensure that, the user data is going to be contacted, had the consent, and we just set the rule of the birthday day, to be like a constant.
+
+00:31:37:02 - 00:31:58:28
+不明
+We use month by month. And this is the way, basically, the communication looks like for, that user in where we just, are going to see the coupon that I assume that will be commerce on the communication, and the communication itself in an email format that we normally, send to the user at the moment of the, of, of its birthday.
+
+00:31:58:33 - 00:32:28:15
+不明
+And this is how the push notification looks like. It's pretty much the same with a shorter communication. But this is the other channel that we normally use to contact the user for, for this purpose. And this is the way the user actually redeem, the coupon for, for, for these purposes, that at the end is going to be the same that you already saw in the previous, the slides, and the complex, use cases.
+
+00:32:28:15 - 00:32:50:26
+不明
+And we are going to see a very, quick video, not that quick, but we are trying to do it, quick. That is the how actually we enable our CRM strategy or our CRM point. One that is the name that we provide to the to the, to the the first strategy into, basically AP and ego.
+
+00:32:50:30 - 00:33:13:54
+不明
+But the most important thing that you are going to see here is how actually we can work with the solutions before different audiences, because at the end we don't want to, like a send communication. To the set to the same user because it maybe at some point belongs to the different segment. But the platform actually, was was not able to identify.
+
+00:33:14:03 - 00:33:38:25
+不明
+So that's why we are using the, the, the, the exceptions instead of ego. So first we are going to create the, the goals, segment. So the first thing we actually do is again, drag and drop our, experience, that is the is the platform where the data come from. And we are putting the three platform.
+
+00:33:38:25 - 00:33:59:31
+不明
+Then we select the country because you know that into LA is just for Mexico. And you you can search the country code, just select the country. And after coming from the events we are going to like put the back office, data that in this case the variables in the order place just to say user with purchase.
+
+00:33:59:36 - 00:34:21:48
+不明
+And we purchased in the last 30 days just to ensure that actually the, the, the login is going to be creating the right way. For the goals segment that are the, the user that actually purchase with, high average order value, we just put the, the order needs to be higher or greater than $300 or 280%.
+
+00:34:21:48 - 00:34:46:51
+不明
+Sorry. In this case, we normally in this strategy have segment per bottler. So in this case we need to use this variable. But it could be any other variable or segmentation variable for year. And we that normally we just put the description with the naming convention. For sure because we, we, we have a lot of teams involved from working in the platform.
+
+00:34:46:56 - 00:35:06:08
+不明
+And also we need to put the description because at the end, sometimes the name is not self-explanatory. So we need to be sure that any one on the platform or that interact with the platform has, the definition and the context of the audience, in case that an, a specific team wants to use this audience for any other purposes.
+
+00:35:06:08 - 00:35:32:40
+不明
+Right. Then let's create a silver, segmentation that is basically going to be the same. You are going to see that we are going to following the same steps on, basically porting the platform, from the data is coming from we are going to select, also the country. And after that we are going to select as well, in our case, the bottler.
+
+00:35:32:45 - 00:35:54:52
+不明
+But we are creating this audience because we want to show you how we make this collection. And that is going to appear in a in a few seconds, right after we create the role for the silver audience. The different, of both of segments is that the goal is greater. The, the amount of the order is greater than 280.
+
+00:35:54:57 - 00:36:26:54
+不明
+And, the silver is going to be, less than 280. So that's the only difference that you are going to see. After we select the bottler, that we are going to like a search, a goal, audience. Just right here. And we are going to put the exclusion. We are going to say that I don't want, actually to have the a user with the, the condition of the gold segment, including the silver.
+
+00:36:26:54 - 00:36:51:55
+不明
+So we are ensuring that at the end we are floating, and avoiding the overlapping as much as possible. Okay. So one of the cool things that, actually this tool has is that in real time, you just can refresh the audience of the platform is going to actually, coming from two different concepts to like, verify that you are creating the segment in the right way.
+
+00:36:51:55 - 00:37:08:56
+不明
+Just saying that you have at least, data to, to use, but also to calculate the magnitude of the impact that you are going to have with this, segmentation and using this audience as specifically.
+
+00:37:09:01 - 00:37:41:40
+不明
+Then we go to the, campaign setup. I'm going to be, I'm going to go faster on, on, on this one. So basically you are going to, see a, pre-created campaign that we have in place. But one of the things that I really want to share with you is that, when you have the communication, the most important thing is you you need to, associate the audience with, basically the campaign that you, you are creating for just to ensure that you are going to communicate in the right way to a specific audience.
+
+00:37:41:45 - 00:37:50:17
+不明
+So I'm going to most of us from this one.
+
+00:37:50:21 - 00:38:10:00
+不明
+And after that is just enable, the audience instead of the journey. So in the journey you are going to automate the triggering for the goal, the audience. You are going to see that we are send the communication. And if the user actually, doesn't open the communication, today's after we are going to basically, send the other communication.
+
+00:38:10:15 - 00:38:40:39
+不明
+But also you have, good tooling here that you if you want to, like a breakdown, given, one condition that you have, from the commercial standpoint or just for testing standpoint, you can divide basically. They have, of their of the, of the communications, given this, this condition and this is the way actually, we are sending, this communication to our CRM strategy, going faster to, the target than analytics.
+
+00:38:40:44 - 00:39:02:20
+不明
+And that's, the other case that I share with you, we want, to test two different hypotheses. The first one is if having a recommendation is better than not having and, don't have, having any. And the other one is the location basically in the recommendation, it was going to have a better impact, for the users.
+
+00:39:02:25 - 00:39:34:35
+不明
+So this is the way, the, the, the user actually, saw the, the, the recommendation I'm going to go faster because at the end, this is basically the, the summary of the three different experiences that we test with target. We name of the ABC testing, 33%, 33%. Each of the segmentation, assign. And we basically saw that the experience be that while displaying the recommendation just above description has a better impact.
+
+00:39:34:40 - 00:40:12:09
+不明
+For us, comparing with not having any recommendation or having the recommendation just below the description, and, basically some of the results that we get, we got for, for, for this experimentation, it was first that having a recommendation for sure was better than not having, anyone, but also because we are saying that by getting, but but having a recommendation, regardless, the location we got, an uplift of 50% plus on this TTR of this, recommendation.
+
+00:40:12:14 - 00:40:37:20
+不明
+But also we were seeing that, again, having the recommendation, are both of their product description has a a little, higher CTR comparing with the the recommendation just below. And just to wrap up and actually provide you some takeaways, and also next best for us. We are like a facing four challenges in the, in the short term.
+
+00:40:37:20 - 00:41:12:57
+不明
+Right? I mean, the first one is, is normal that we are going to keep adding more and more data. And as part of what explains what Colin Tovar has, has, this mixed model between offline and online data. So we are trying to like, see if by having an understanding the online data, we are going to be able to profile better the offline users and provide some, tools with the sales to the sales force to actually provide a better recommendation when the user with the sales from Know the Door and a, a product offered to on a specific, household.
+
+00:41:13:02 - 00:41:35:31
+不明
+The other one for sure. Media. Also, we have an analytics team that all the time are producing more and more analysis, more and more actually, a algorithms that we need to, like a figure out how we are going to plug in and use it inside of our platform. For sure. And this is something that we assign the AI in, in some of the sessions during this week.
+
+00:41:35:36 - 00:42:04:53
+不明
+Is that experimentations? Once we have an experiment completely done, we are going to have a lot of data points to actually, let's say we will feel some of, new experiments or for feel, some of new analysis. So at the end, the output be actually become on a specific point for different purposes. Right. The second one, is basically enabled multiple personalization use cases.
+
+00:42:04:58 - 00:42:33:09
+不明
+So we are going to, basically have the second version of the recommendation. We are seeing some, good opportunities to keep evolving this the recommendation that you saw before the offline pro recommendation, the CRM, 2.0, that at the end is going to be more personalization for our user, not just only based on the transactional data, but also using behavioral data preference and so on.
+
+00:42:33:14 - 00:43:00:30
+不明
+The offer and decisioning, that is one of the good, tools that the real time CVP from Adobe has, I mean, some, some use cases, such as card abandonment is one of the, the use cases that we are going to start using or we have some production actually, two days ago or, or one day ago that we had that meeting, to review that, third one, at the end, this is something that all the time you are going to face, we need to improve, the data catalog.
+
+00:43:00:37 - 00:43:24:50
+不明
+We need to improve also the meta data to ensure that the data that we are using is going to, actually enable us to, make a lot of use cases. And the other one is the recon center strategy there at the end. You know that this offline channel has a lot of users that, given the the condition of the Mexican market, even actually, don't have an email.
+
+00:43:24:50 - 00:43:47:51
+不明
+So we just have the, the cell phone. So we need to ensure that this user, when we actually want to migrate this user into the online platform, we can actually get the consent, the marketing consent to restore, like, implementing this personalization and this strategy for those users. And and again, provide more value to them.
+
+00:43:47:56 - 00:44:10:36
+不明
+And the for one, is actually how we are going to start using more channels. So the first one is, let's, keep, the eye on the omnichannel approach. But also, the way that we are planning to, basically, use this is, we need to use this idea orchestrate or, an automation to a store using WhatsApp.
+
+00:44:10:36 - 00:44:39:23
+不明
+WhatsApp is, one of our main channels, but we need to automate a lot of processes that we are using. We are doing manually. Also, how we are going to use our application to actually reduce a lot of, let's say expand your that we are, using in other channels, just using our, channel without any additional cost and the media channels also how we are going to optimize these consumption.
+
+00:44:39:28 - 00:45:02:43
+不明
+So this work, just, could be done, because we started to work in a different way, you know, that we have this relationship between client, partner, agency and so on. So when we started this war, we decided to, like, take off the, let's say the legal, entity for each one of the of the, of the team members.
+
+00:45:02:43 - 00:45:30:02
+不明
+So we are starting to work as a one single team with the agency, with Adobe. And at the end, that's what I am. And that was the reason why we start to generate value is faster than any other kind of model. Because at the end we have just one objective that is, enable this data architecture and start offering more personalized experience for our users as well.
+
+00:45:30:06 - 00:45:54:23
+不明
+And just to close, for sure, gives you a big thank you for being here, but also, big thank you for all the, team that was involved in this work there at the end could be seen as a simple work at the end. It is a simple work, but, we we are providing a lot of, value for, our users, but also internally for our different teams that are working with us.
+
+00:45:54:23 - 00:46:04:17
+不明
+So thank you so much for being here. Any questions? Happy to address.
+
+00:46:04:22 - 00:46:25:40
+不明
+Just before we go, a few reminders. Please do rate this session and the Adobe Summit app. Also experience like now has, personalized profiles so you can have discovery, build your skills, grow your network, and have our technical aspects as to what your personal needs are. So please feel free to join user and have this up.
+
+00:46:25:40 - 00:46:32:22
+不明
+I see a few pictures all the way to pass over to the next slide.
+
+00:46:32:27 - 00:46:53:22
+不明
+Lastly, we're very excited to see we're going to have, Adobe Commerce user groups coming soon, probably within the next month. So this is a great opportunity for you to network with your peers collectively, problem solve, share insights and best practices, and provide a going the education. So please do join the interest forum. I'll reach out to you soon as soon as these are launched.
+
+00:46:53:27 - 00:47:14:00
+不明
+And it's a great way to learn from your peers and honestly, just keep growing with Adobe Commerce. And lastly, but not least, and May, we're going to, launch Champion applications. Some of you are very passionate about Adobe Commerce and want to keep sharing your best practices and keep growing within this community. Please, outside of this address forum if you're interested in one.
+
+00:47:14:00 - 00:47:37:08
+不明
+Being a champion is. We have a peer to peer connection booth downstairs in the pavilion, so you can talk with champions from other solutions, hear their experience, and please join. It's an awesome, program where you can accelerate your personal brand. Great thought leadership opportunities, and share best practices. And we've heard a lot of very positive feedback on this program and how it has a know that enabled them to grow their career.
+
+00:47:37:13 - 00:47:50:24
+不明
+So, thank you so much for being here. And thank you once again, Francisco, for there was an amazing presentation by.
+
+00:47:50:29 - 00:47:50:58
+不明
+You.
+

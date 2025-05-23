@@ -1,0 +1,664 @@
+00:00:00:43 - 00:00:24:40
+不明
+I think we can get started. Well, first of all, congratulations for proving to be the strongest summit attendees for o'clock, session. I feel like we all should have a cocktail in our hands or a glass of wine. But seriously, if you need Diane, feel free to do it. You're not going to send us. Just don't let our boss see, or else that'll be a problem.
+
+00:00:24:45 - 00:00:45:10
+不明
+Thank you guys so much for being here. Thanks for coming to summit. Thanks for being amazing customers. My name is Mitch, folks. I'm on the product marketing team here at Adobe, and I'm with a wonderful Ambika Shetty on the product management team. And hopefully we're going to blow your mind today with some agile B2B edition goodness. So sit back, relax and enjoy the ride.
+
+00:00:45:10 - 00:01:09:16
+不明
+This is the roadmap session we're going to talk about the AI future of account orchestration. Two parts to today's session. So the product's actually been in market for about eight months. So I'm not going to assume you guys know what a job creation is, why we built it. What it does, etc.. So I'm going to take the first 10 to 12 minutes to do that, and then that'll provide some nice context and a nice foundation going into the innovation and roadmap.
+
+00:01:09:21 - 00:01:30:29
+不明
+Section, we're going to demo some really cool feature functionality. Just like all roadmap sessions have to show this. Are you guys hear feedback or is it just me? No, no. If you don't like it, I'll just deal with it the whole time. Just like every roadmap session, everything you're about to see is completely fake, and it's not coming to market.
+
+00:01:30:34 - 00:01:49:31
+不明
+Just kidding. And you guys are tired or just bad jokes? One of the two, everything we're going to show today, obviously we plan on shipping today. Well, some of it today, this year, but of course, if things change, if and when they do, we'll let you guys know, okay. What the heck is agile B2B edition?
+
+00:01:49:31 - 00:02:07:00
+不明
+What does it do? Why did we built it? The best way to start this first, to take a step back and understand Adobe's, latest point of view on B2B technology. And if you've joined the last, the previous two roadmap sessions today, you have already seen this, I think twice. The DB tech is undergoing a generational transformation.
+
+00:02:07:01 - 00:02:27:59
+不明
+It really started with what we would call B2B 1.0. This is when digital really entered our industry. The birth of the CRM. We digitized the customer record, we took the Rolodex, the fishbowl of, of business cards off the salesperson's desk. And we we digitized the customer record. Then we went to 2.0. This was ultimately when Marketing Age was born, right?
+
+00:02:27:59 - 00:02:55:18
+不明
+We were the first to productize the marketing qualified lead, but it was all about using technology to automate the lead lifecycle, top of funnel paid media acquisition, use cases, really focusing on acquisition. And of course, at the end, tools get rolled up into this, helping us take a more account approach, account centric approach to, to driving, lead lifecycle and top of funnel activities and really going from email marketing to marketing automation.
+
+00:02:55:22 - 00:03:22:58
+不明
+But now where we see tech going and of course is B2B 3.0, not just focusing on, leads, not just focusing on top of funnel, but the digital augmentation of the entire customer lifecycle. Of course, orchestrated by AI, both generative and energetic, I think of going from leads to taking more account, focus and buying group focus, going from a rules based system to an intelligent, AI driven and self-serve system.
+
+00:03:22:58 - 00:03:44:42
+不明
+And again, going from acquisition to acquisition, cross-sell, upsell, retention and even product led growth. The way that I think about this is putting your customer experience on autopilot and letting AI drive it for you. Please go to the strategy session, tomorrow with the example you're here. There is GPS. Garmin was the first to digitize maps and then it became on your phone.
+
+00:03:44:42 - 00:04:03:13
+不明
+Things like Google Maps started to get a little more intelligent. Hey, don't go this way because there's traffic right? Here's some alternate routes that you can take to. Now the car just frickin drives itself. And so that's kind of the analogy that we use in describing this is how can we implement the same, strategy with your customer experience?
+
+00:04:03:18 - 00:04:21:34
+不明
+And that's actually, provide some context into why we built a job creation in the first place. And the long story short is, well, there's a lot of reasons, but the main reason, is the B2B 2.0 marketing technology and strategies, they just don't create enough alignment with both sales and customers to truly maximize go to market performance.
+
+00:04:21:34 - 00:04:40:57
+不明
+And the keyword there is maximize maximize the full potential of your growth. If you revenue growth and your business growth. Now, it's pretty rare we run into customers that aren't in this situation and or are trying to avoid it or just coming out of it. Classic marketing is generating thousands of leads. Toss them over the fence to sales and sales says, hey, thanks, but no thanks.
+
+00:04:40:57 - 00:04:53:47
+不明
+Not even 3% of these are going to turn into revenue for me and closed one deals. And that is the the industry average lead to revenue conversion rate. Now, there's a lot of reasons why you could have a low conversion rate. But of course at Adobe we care about the ones that we can control and help you with.
+
+00:04:53:47 - 00:05:13:23
+不明
+And ultimately that is the deliverable to the sales team. And in this case, of course, to mql on its own, lead based marketing on its own, if that is all that you're doing, this is saying you're not going to maximize the full potential of your team and all of your efforts and ultimately, business growth. For your company.
+
+00:05:13:28 - 00:05:38:09
+不明
+But this is not even the biggest problem. The bigger problem. Well, let me back up. The reason why that is, is the world of B2B has changed. There's more people, in the decision making decisions part of the buying group. Customer expectations are through the roof. Liquid ChatGPT is doing open AI and Copilot just spiking the expectations of all of your buyers today on the consumer side.
+
+00:05:38:09 - 00:05:58:28
+不明
+And of course, that drives into the B2B side of of their lives as well. But this is not even the big problem. The bigger problem, and this is the conversation that we're having with a lot of you guys in the C-suite is how much, how expensive it is, how much money we spend and how much time we waste getting results that are lackluster.
+
+00:05:58:33 - 00:06:18:16
+不明
+And so this is really the big problem that we're trying to solve. So how do you generate better results in the most efficient, cost effective way possible in order to fix that problem, we have to understand what's causing it in the first place is really two big things causing this. The first, let's be real, go to market operations are a complete mess.
+
+00:06:18:21 - 00:06:42:40
+不明
+Look at our tech stacks, disconnected tools, disconnected point solutions, fighting abuse centers, gravity, different data models, different decision engines. Really expensive custom integrations, homegrown systems, disconnected funnels. Adobe has this problem. Had this problem, right. He's got a lead funnel, an account based marketing funnel. This is proof that account based marketing tools, while they while they help they didn't fully solve the problem.
+
+00:06:42:45 - 00:07:00:38
+不明
+We've got a lead funnel account based marketing funnel. I can't I can't reconcile the to a lot of manual process, different data model, different databases, different tools, different in some cases different teams. So there's a lot of manual process, that's created import lists here, export list there. And the second you do that it's out of out of date not real time.
+
+00:07:00:43 - 00:07:19:43
+不明
+And of course, as we said, misaligned sales and marketing teams. Right. We just end up creating a lot of, pipeline made of a bunch of leads that may or may not be part of the buying, buying process, may or may not be interested in products that my business wants me to focus on, and just not providing sales with the account and buying of context that they need to streamline the sales process.
+
+00:07:19:48 - 00:07:45:47
+不明
+So that's problem number one, a separate but related customer experience. It's two generic, two disconnected to slow. Two conflicting views on marketing and sales are doing. It doesn't provide the, the self-service experience that again, ChatGPT and Copilot and all these precedents are being set with all these AI tools. AI tools. And oftentimes we're still slow to follow up a day, sometimes weeks.
+
+00:07:45:52 - 00:08:05:04
+不明
+It takes our sales teams of the people that have raised their hand on our website. So we know we need to streamline our go to market operations, improve the connection between our teams and our technology and our process to truly maximize operational efficiency. We know that we gotta focus more on profitability, do more with less, or do more with the same team.
+
+00:08:05:18 - 00:08:21:41
+不明
+Be more efficient. I want to be able to predict demand better. Again, if I'm and invest time, energy, money, resources over here with these, with this audience, I want to be able to know, be able to protect my predict my return. And also one operating model, one solution that I can use to execute across the entire customer life cycle.
+
+00:08:21:41 - 00:08:46:45
+不明
+Instead of having different tools and tech stacks for different strategies, right? Acquisition, cross-sell, upsell, retention, product led growth. And we also know we need to improve the engagement personalization with our customers, together with our sales teams. To maximize demand generation. We need our customer experience more intelligent, self-serve, and more account centric. But beyond just the acquisition, portion of the customer life cycle, we got it.
+
+00:08:46:49 - 00:09:06:38
+不明
+Talk more. The language of sales provide that account buying group context that's missing. We got to be able to scale personalization at the account and buying group level, which is so hard, right, for individual person within a specific group for a specific account for a specific product in a specific vertical. I mean, our our chops are pretty it's pretty insane how hard that is.
+
+00:09:06:43 - 00:09:33:10
+不明
+And to make it more self-serve. Whereas I've already mentioned how do you provide way more instant gratification, on behalf of your brand to your site visitors, your website visitors, and any visitor on any digital touchpoint? And so that's exactly what we built. Adobe Journey Optimizer B2B edition to do. It's going to orchestrate your entire B2B go to market all using AI, all the key, orchestrate all the key components, your data, your insights, content engagement, sales.
+
+00:09:33:10 - 00:09:58:01
+不明
+And it's going to do that with a core focus in buying group precision. Remember that account focus. Buying group precision one of the first, the first to actually do it in our industry. And the kicker? It's all powered by generative AI and both AI agents that we're going to demo for you today. I like to think of Adobe Audition as this intelligent go to market command center that's connecting and controlling and commanding all key aspects of your go to market.
+
+00:09:58:06 - 00:10:14:42
+不明
+It's going to orchestrate what data is pulled in, right. What are countless using your Unified People account opportunity profiles to figure out who you're buying, groups who should they be? It's going to orchestrate then the insights that you layer on top of that data using AI and first party data signals an intent. Say, hey, who should I focus on?
+
+00:10:14:42 - 00:10:37:48
+不明
+Which accounts, which buying groups are surging, all the, using all the, cross-channel analytics and multi-channel attribution, reporting. It's going to then orchestrate, use those insights to orchestrate how, what content should be created and how should we personalize that from the content supply chain. Then it's going to orchestrate, literally operationalize that, content in the journeys, to where it engages your customers.
+
+00:10:37:53 - 00:11:00:58
+不明
+And when we say journeys, it's going to orchestrate all your journeys. Now, for the first time ever, your lead account and buying group journeys, working together in harmony, lead journeys, any marketing engage customers in the audience. Right now that form on your landing page is collecting information in the context of a buying group member that I'm trying to discover, or a buying group member that I'm trying to get more information on using things like progressive profiling and other features in Marketo.
+
+00:11:01:03 - 00:11:20:22
+不明
+And finally, it's going to orchestrate how sales is included in this entire process, what data my sharing with them, what insights, what content, what engagement? How are they involved in the qualification and acceptance process? But again, how are we shipping both account and buying group data to them? And again, this is exactly what we built a job creation to do.
+
+00:11:20:22 - 00:11:47:57
+不明
+There are five core product pillars. And we're going to demo some amazing functionality across all five. But again, any newbies in the room you're going to use AI to create your buying groups, figure out who they are, who they should be using your first party data, unified first party data from Adobe Experience Platform. You're going to now use AI to not only create, but also ideate journeys to streamline the time to market, to figure out what journeys are best based on the audience and the products and solution interests that your your business wants you to focus on.
+
+00:11:48:01 - 00:12:10:00
+不明
+You can use AI to now personalize content for each individual member, each individual role, and each individual individual buying group across your accounts for based on the products and interested in 1 to 1 personalization. Finally, you can use AI to coordinate better with sales, right? Qualified marketing, qualified buying groups and share account and buying group data and insights to them.
+
+00:12:10:04 - 00:12:32:51
+不明
+And finally, do the same thing surface accounting, buying group data and insights for the marketing practitioners so that you know what journeys to optimize. So again, recap what is a job creation? It is a go to market orchestration app built specifically for marketing and sales users. And we're going to talk about that today to streamline demand generation for very specific products with account focus and buying group precision.
+
+00:12:32:51 - 00:13:00:02
+不明
+It's literally going to create and provide marketing with account and buying group data that we've never had access to before, so that we can enhance our personalization. Increase conversion and call, create way higher quality pipeline for sales. And that same exact account and buying group data and insights is going to be delivered to the sales team so that they can accurately prioritize their accounts and streamline the sales, process, spend less time figuring out who the buying group is and just engaging and qualifying them.
+
+00:13:00:07 - 00:13:24:16
+不明
+And of course, using both AI or gen AI and agenda AI. Underneath the hood. And the most popular question we get what's the emotion you and at the end tool ABM tools very reliant on third party data. What are my accounts doing out in the wild type of funnel paid media acquisition use cases which is great, but Age of evolution, lives off of your unified first party data within Adobe Experience Platform.
+
+00:13:24:21 - 00:14:00:27
+不明
+Your gold, and it's designed to help execute any and all strategies across any and all funnels acquisition, cross-sell, upsell, retention, product led growth. So you're going to see a lot of this this week. But for the first time ever, a single offering built for marketing and sales powered by that combines lead account buying your base marketing together with all your unified data and insights across your experience, platform, content from your connected, content supply chain and complete analytics so that you can streamline your go to market operations and create the most intelligent account base experience possible across any and all channels.
+
+00:14:00:32 - 00:14:20:31
+不明
+So now that you know, digital is what it does, why we built it, let's finally talk about the cool, sexy new stuff for this application and three roadmap themes for job creation this year. Efficiency. How do we do more with less? Or how do we do better with the same team that I have, I know I'm not hiring.
+
+00:14:20:36 - 00:14:35:19
+不明
+Budgets are stagnant. How do I trust AI to do more? How do I offload a bunch of work, a bunch of tasks that, quite frankly, I just don't want to do anymore? That will free up time for me to do more strategic things. More importantly, how do I how do I use the AI to remove some decisions?
+
+00:14:35:24 - 00:14:58:12
+不明
+Be nice to have a day where I just have one less decision I have to make right? Or thinking about things that maybe I didn't think about as a marketer. So how do we how do we increase efficiency? Self-serve? How do we provide more instant gratification? For our customers across any and all digital touchpoints. But at the same time, and selfishly, as a marketer and a sales rep, how can I accelerate the qualification?
+
+00:14:58:12 - 00:15:16:43
+不明
+How do I take what used to take 2 or 3 months of touchpoints and condense that into 2 or 3 minutes on my website? And finally, teamwork. We've always said sales, marketing, alignment. And I know you guys all throw open your mouth every time we talk about this. But how do we, how do we go from just alignment to just being one team?
+
+00:15:16:48 - 00:15:40:01
+不明
+Why would you not be one team? Does it make sense? Right. So how do you go beyond just the concept of alignment to just working as a single revenue team? And so the common Foundation across all those teams, of course, the big bet and our big investment is agent experiences. Agent I agents. So our thought on our agents, it's not just about we don't view them to just do work.
+
+00:15:40:04 - 00:16:02:12
+不明
+As I just mentioned earlier, how can I use them to help me make decisions, more strategic decisions, analyze data, and just, surface things that I couldn't have done on my own or my team couldn't have done. Now, we're not like other people where we just throw agents everywhere. We're very methodical. Adobe is very conservative when it comes to this topic.
+
+00:16:02:16 - 00:16:17:12
+不明
+And so we asked a lot of you guys, hey, where are you spending most of your time? Where are you wasting most of your time? Where do you want the most help across the entire workflow, of account orchestration. And these are the four, sections. How can I use data or AI to surface insights on on my unified data?
+
+00:16:17:16 - 00:16:46:32
+不明
+How can I use AI to, streamline the journey creation process? How can I use AI to personalize content faster and operationalize it faster? And of course, how can I use AI not only just communicate better with my sales, but maybe give them give them more actions to take, on, on their behalf? And so again, how do I generate more revenue in the most efficient, cost effective way possible, maximize the output of my existing team and that's kind of the the underlying foundation of all the development that's going into this product.
+
+00:16:46:37 - 00:17:10:30
+不明
+So and that's just me. And because here she's going to demo some amazing stuff starting with and all these things you're going to see today, starting with the data. Okay. With our first set of customers with agile, it was very clear the number one challenge. And quite frankly, the most important part of account registration is figuring out who your buying groups are.
+
+00:17:10:35 - 00:17:31:30
+不明
+And a lot of our customers, a lot of you guys sometimes don't even know who those people are. And this is particularly really hard when you have massive product catalogs, ten, hundreds and thousands of products. As you guys know, buying groups very specific to a very specific offering, product or service, etc. but that is very overwhelming, right?
+
+00:17:31:30 - 00:17:48:13
+不明
+If I have hundreds of products, how can I? I mean, even if I knew the buying groups would take me days, weeks, maybe even a month to figure out all and input that manually. And so don't worry, we have an agent now to do that for you. The audience agent with a very particular B2B, skill called buying group creation.
+
+00:17:48:18 - 00:18:15:45
+不明
+It's an out-of-the-box AI agent, specifically designed for marketing users. It's just going to automatically create your buying groups. It's going to look at all your previous close one deals, your historical CRM data, and the who was tied to those opportunities and the solutions that were sold. Next, with your, first party marketing activity, all the contacts within your database create the roles and automatically assign, contacts to those roles literally in a matter of a few clicks to streamline the entire buying group creation process.
+
+00:18:15:45 - 00:18:39:51
+不明
+And the most important aspect of account orchestration. So Amika man, I just don't know where to get started with account orchestration. You got to help me out. I got thousands of products. I don't know who my buying groups are. Can you please help brother out? Yeah, because as you can tell, he has a flair for drama. All right, so let's get started with a couple of demos.
+
+00:18:39:55 - 00:19:02:06
+不明
+As Mitch was saying, we release Adobe Journey Optimizer B2B edition last summer. And with that came the ability to automate the creation of buying groups. This is great. And customers started gravitating towards this specific feature until they came back to us and started asking, how do I get started? What account should I focus on? So we took that feedback and incorporated into our product.
+
+00:19:02:11 - 00:19:22:00
+不明
+And today Mitch and I are standing in front of you with our audience agent. So for the purpose of this demo, I'm going to take on the role of a marketer. No surprise, over there in a fictional company called Luma Connect. And I'm tasked with the use case of having to cross-sell a fictional product called Luma Connect to my existing customer base.
+
+00:19:22:04 - 00:19:49:03
+不明
+So when I navigate to Adobe Journey Optimizer B2B edition over here, the first thing I see is my Account Explorer. So like Mitch was saying, what we have done is essentially look at your historical opportunity data and associated to the engagement activities for anyone who's been involved in the opportunity and then infer their personas. We then take these personas and start helping you create your buying routes, or even discover them if it's too early in the process for you.
+
+00:19:49:08 - 00:20:08:40
+不明
+So when I look at this grid over here, the first thing I notice is that I have my engagement level and I have my product discovery, but I have no context of what's happening over here. I can click into any one of these options over here where I can get some additional details on the accounts associated with this specific aspect of my, for example, medium readiness score.
+
+00:20:08:45 - 00:20:30:25
+不明
+I can see the engagement level. I can see the inferred personas associated with it. So I have like slightly extra context at this point, but I'm still like like what account should I actually focus on to get started with my cross-sell strategy? So what I'm going to do over here is type out the question and I say, hey, can you recommend some accounts that I should be looking into, for example, to cross-sell next?
+
+00:20:30:30 - 00:20:52:55
+不明
+And our AI assistant is going to pull up an account, a set of accounts associated with this specific product. The way we're able to do this is through our first party intent data. So we're going to look at your keywords engagement associated with it, and then detect the product associated with that specific keyword. Roll that up into a solution.
+
+00:20:53:00 - 00:21:13:37
+不明
+We can now classify this into three separate sections. You can look at intent for your leads for your buying groups as well as for your accounts. So in this specific use case I want to look at account. And that's exactly what's happened over here. In addition to that, going back to the ability to infer personas, we have essentially used that to deduce two different personas over here.
+
+00:21:13:37 - 00:21:32:15
+不明
+It's a director in H.R. As well as it. So I know that these are the personas that typically happen to have a high impact on opportunities that might have closed in the last six months, which is what I specifically want to focus on. And now the AI system is asking me, hey, do you want to go ahead and create a buying group?
+
+00:21:32:20 - 00:21:52:08
+不明
+While this is great, I need some additional context before I'm ready to like, really get started with creating buying groups. So what I can do instead is get a quick preview of what's happening across the three foundational features that build a buying group account, which is essentially my input product, which is the solution of interest that I want to sell.
+
+00:21:52:08 - 00:22:14:45
+不明
+And largely roles. These are essentially rules that govern the members that get added to a buying group. Once I have this as a marketer, I might still not be ready. Do you really want hundreds of rows of data created without looking at what's happening? We understand that. So what we have done over here is at any given point in time, you can always double click and see exactly what's happening.
+
+00:22:14:45 - 00:22:38:10
+不明
+Before you go ahead and assemble. You're buying group. I can see the list of accounts that was recommended based on some of the questions I asked, but you might have a couple more accounts in mind that might work well. And we understand that. So we have the ability to edit this. But let's say like you were just checking out the tool and you happen to stumble across the right set of accounts, I might just want to save it and set it aside.
+
+00:22:38:11 - 00:22:54:41
+不明
+Go talk to my colleagues, make sure I'm on the right path, and come back. We have that option available for you as well. I can look at the set of products that the AI generated for me, or I can also look at the rules, make some minor edits, and after I'm good to go with all of these crucial options.
+
+00:22:54:41 - 00:23:11:00
+不明
+And then I'm going to hit the create buying group button. And, and I look at this and say like, okay, I think I feel fairly confident that the audience agent has shockingly given me the exact right set of buying groups that I want to create. I'm going to go ahead and hit the create button right here and as.
+
+00:23:11:07 - 00:23:35:33
+不明
+And now I can see a quick review of the buying groups that have been created, so I can see a highlight, which tells me like, hey, here are the buying groups that have been created for a certain set of accounts. What I can also see is the level of coverage that I have when I look at a specific set of accounts and I have created buying groups, I might not have any idea on the types of personas that I already have within my database.
+
+00:23:35:45 - 00:24:01:23
+不明
+So I can see that Citi Signal, for example, has zero decision makers. So maybe I should go acquire a decision maker for this specific product for this account. So this goes back to what Mitch was just seeing where you can do more with less. You can optimize your marketing spend and really drill down into that decision maker and make sure you have that contact acquired before you start marketing to a really wide customer base.
+
+00:24:01:28 - 00:24:18:09
+不明
+And similarly, you can take a look at your rules and get into more details. So now that I have this buying group created in a span of seconds, I want to say so much over here, let's go back and look at what we can do with these buying groups. Man, that was awesome. Okay, you definitely help me out there.
+
+00:24:18:19 - 00:24:40:28
+不明
+I'll give you anything for you journeys. Okay, so now that we solved the first and biggest challenge of account registration, the second is okay, now I know who my buying groups are. Great. I got to create journeys for these people and that's also overwhelming especially. And you guys know, in the world of B2B journeys can be super complex.
+
+00:24:40:33 - 00:25:07:03
+不明
+And it just takes a lot of time, especially when you've got multiple go to market motions, bunch of different products trying to set up the most reactive, beautiful customer experience possible. Well, don't worry, fear not. We have an agent for that now as well. The journey agent with a particular B2B journey creation skill. Another out of the box AI agent specifically designed for the marketing practitioner to not only help create, but also ideate journeys.
+
+00:25:07:03 - 00:25:30:23
+不明
+And I call that out because I feel like sometimes it's overlooked. Not only the fun, but in this case, learning the product based on best practices and recommendations that the AI is going to provide the user. So describing the journey you want, hey, I want to create a webinar program for, these specific CMO or these specific buying groups for this specific account, for this specific product interest.
+
+00:25:30:23 - 00:25:52:17
+不明
+Right. And I want to send some, set up some drip email, touchpoints leading up to then I want to follow up, and then I want you to, auto chat to rise the webinar for me, for the people that didn't attend, etc.. You plug that in, it's going to create journey fragments that you can review, approve, and apply directly on the canvas and move on to the next section.
+
+00:25:52:17 - 00:26:10:59
+不明
+It will automatically split the paths. As you guys know, there's any existing customers in here. You can split by people by account and then back by people again. Again, just the whole point. How do I do this in the most efficient, cost effective way possible? And this AI agent will do that.
+
+00:26:11:04 - 00:26:39:00
+不明
+You've heard me say the word self-serve a lot in this session so far. This, to me, is one of the craziest, most groundbreaking, innovations that I've seen in my 12 year career. How again, how do we make. How do we turn? We know our customers are going out and looking at our competition. So how do you truly turn your customer experience into a competitive advantage, a differentiator because you know they're going out and looking at all your competition.
+
+00:26:39:05 - 00:27:05:13
+不明
+So when they come to your site, how do you create a differentiating experience for them? But beyond just the traditional chat bots that exist today, this is exactly what that does. Brand concierge B2B edition. You saw a little bit of at the keynote. You're going to see more tomorrow. This is actually an all new Adobe Experience platform offering that were initially going to market together with Azure B2B edition.
+
+00:27:05:18 - 00:27:38:13
+不明
+This leverages the unified profile inside Adobe Experience platform. The same profiles, the same account, opportunity people profiles, contacts that are used inside agile. It's so contextually aware it's scary. It's going to know if you're a first time visitor or returning visitor, a known lead or known contact associated target account or not. It's going to know if you're buying group member or not, and it's going to just automatically have these crazy contextually where conversations, based on what the KPI is that you said you set it up in your journey.
+
+00:27:38:13 - 00:27:58:39
+不明
+For example, say, hey, I need to find the CMO for, this buying group, for these buying groups, for these target accounts. Please go do that. And when someone comes to the site, you know, I got you. When someone comes to the site, it's just going to know, to ask the right questions, just as an STR or sales rep would.
+
+00:27:58:44 - 00:28:32:08
+不明
+And it's trained on all your product data. You could train on your product knowledge data. It knows the content on every single web page that the web visitor has visited and uses all that contextual information to ask the most hyper personalized, questions and have the most hyper, personalized 1 to 1, self-serve, self-directed customer experience, for your customers adding new channels, stage additions this year, web again, the difference here, guys, is that we have account and buying group data and insights.
+
+00:28:32:13 - 00:29:03:57
+不明
+So what's cool with this? You literally give it a URL. It scrapes the entire page, literally creates a copy of your web page, but it automatically, creates components, your H1, h2, body copy buttons and whatever. And then you can create turn that into conditional content and rerender, adjust whatever you want using with again with account focus and buying group precision again to accelerate not only the creation and the time to market for for personalized web channels, but also just providing the most relevant customer experience possible.
+
+00:29:03:57 - 00:29:24:55
+不明
+And again, this is tied into the journeys. So you can personalize leading up to a bunch of activities and then based on the actual interaction, trigger downstream follow up activities, to that specific buying group member payment activation. So, we are, adding pay media activation, I should say more. You're probably thinking, yeah, of course you should.
+
+00:29:25:08 - 00:29:42:18
+不明
+But again, the difference here is precision and refinement. This is all about return on assessment. I mean, how confident do you guys feel that you're actually spending money on the right accounts? Right. Agile is going to help provide that precision. Say, hey, I only want to optimize my ad spend on the accounts that I know that I'm missing.
+
+00:29:42:18 - 00:30:06:07
+不明
+These top three key decision makers within very specific products. And so that's the difference here. Being able to activate account list into destinations like LinkedIn, and or people, any people those destinations, that are connected to an experienced platform. So again precision optimize your ad spend and then use that same exact all that context to personalize the actual ad creative.
+
+00:30:06:12 - 00:30:30:33
+不明
+And you'll see how it's connected to Gen Studio here in a second. So, Amika, I'm in. Okay. You saw the first challenge with. The second one is I got to now do something with these buying groups. So let's see what you got. I need help. Shockingly, I have a demo ready for me, which is problem statement. All right, so now that we've created the buying group that helped me with, let's go ahead and dive into the journey creation itself.
+
+00:30:30:37 - 00:30:55:23
+不明
+So the agent that Mitch was talking about is our journey agent. We understand that there happens to be a spectrum of users across your specific team, right? You'll have some users who just want to understand what are the features that we have. We come up over here and we will give you like a plethora of actions and events that you can basically act on within the journey, but somebody who just joined your team, they might just want to understand how a feature specifically works.
+
+00:30:55:28 - 00:31:15:21
+不明
+But a power user, on the other hand, might know exactly what they want to do. And our journey will be able to recommend fragments accordingly. For example, when I come into this journey over here that I've just about started creating, I already have two page set up. I have a certain set of nodes that I have my decision maker set up for similarly and influential.
+
+00:31:15:36 - 00:31:35:48
+不明
+But then when it comes to a practitioner, as a previously Marketo engaged user, what I want to do is leverage. For example, an interactive webinar that I already had set up and I even know which webinar that I want to focus on, maybe so I can click on this little button over here, which will open up the assistant and I can say, hey, can you please add maybe a few?
+
+00:31:35:49 - 00:32:02:10
+不明
+We always say please rate because we don't know when they'll take over. So can you please add a few nodes associated with interactive webinar and make sure that anyone who attends those moves forward to the next set of actions that I have in this journey. So what the AI assistant does over here is gives me a quick preview of what it looks like, so I can continue to iterate if it's not quite the right set of actions or nodes that I want to add, I can check out more details.
+
+00:32:02:15 - 00:32:23:51
+不明
+In this example, it's added an interactive webinar node within Marketo Engage and a specific event associated with attendance of a webinar. And then I move those people further along the journey. It looks good. So I go ahead and hit apply. But we also, as always, understand that you might want to cross verify, make some quick tweaks associated with this so I can always come back.
+
+00:32:23:51 - 00:32:45:22
+不明
+Click into this, see if it looks good, maybe change out the webinar, add any kinds of details associated with it, or even delete some of these actions before I move forward. So now that I have this assistant helping me, pretty much every step of the way, let's talk a little bit about some of the other content related features that Mitch was talking about.
+
+00:32:45:27 - 00:33:07:28
+不明
+So first up over here we have the ability to connect to ads destination. So when I click into this option over here, I can essentially leverage any one of my social media platforms to activate on that. For example, you already have, like you linked in paid media ad set up, you can leverage that specific feature. When I click into this, I am able to preview the ad that typically will show up.
+
+00:33:07:42 - 00:33:31:04
+不明
+I can also leverage my Gen Studio integration to make some minor tweaks, make sure it's on brand and then decide to move forward with that. The next part over here is, B2B brand Concierge, which all of us over here are very excited about. So let's say you already have your paid media ad set up based on a certain number of impressions, or anyone who booked a meeting.
+
+00:33:31:17 - 00:33:58:21
+不明
+You want to personalize that conversation at scale, and that's exactly what we can do with our brand concierge. Over here, I want to listen to a specific event associated with the booking of a meeting, but I also want to personalize it. I look at Luma Tech. I want to make sure that anyone who comes over here, if they happen to be a decision maker, the tone of my concierge is adjusted as a decision maker or an influencer, and the rest of it.
+
+00:33:58:21 - 00:34:18:04
+不明
+All of you already know I can change. Like any kind of text, the visual style, the interface, so on and so forth. Needless to say, all of this. You can also edit within our Gen Studio integration. Now that I have this meeting locked in and I have my decision makers in place, I'm going to focus on my practitioners.
+
+00:34:18:09 - 00:34:38:25
+不明
+So when I go back and come into my second part over here, which is the web personalization, similar to what Mitch was saying, essentially, I can get started with creating my web personalization experience from scratch, but I can also plug in a URL and make sure that that is my starting point. So again, this goes back to efficiency.
+
+00:34:38:25 - 00:35:04:03
+不明
+Doing more with less self. So maybe I don't even have to go back to my content team if I just want to make some minor tweaks over there. So when I click into edit over here, we have a full blown designer experience. You can edit your buttons, any text associated with it. We also offer a generative AI feature where you can plug in some prompts, and it can iteratively build out any additional changes that you want to make to it.
+
+00:35:04:08 - 00:35:20:39
+不明
+So in a matter of minutes, you can make some minor tweaks. Personalize that web page and then you're good to go. So these are some of the content related features that we have. But we have several more available. So you can always check out our experience league to see some of the additional features that we offer within journeys over here.
+
+00:35:20:43 - 00:35:47:19
+不明
+And with that, I'm going to pass it back to Mitch man okay. That's another great solution. You just always have an answer I don't know. Don't you content Adobe's bread and butter baby. Nobody can touch us here right. So again how do I use AI to streamline the personalization process for all of my buying groups across all my accounts?
+
+00:35:47:24 - 00:36:27:23
+不明
+Starting with I was in the email designer. So we're adding a session for content generation in the email designer. Again, it's an out-of-the-box generative AI assistant. That'll help. Ultimately. Again, as I said before, spark creativity with your team. AI is, at the end of the day, pretty fun to use. Be able to generate and play around with and test out, different email subject lines, body copy, and even generate entire imagery all based on, again, the kicker here, account focused buying group precision using the account data, the buying group data and insights to really, hit on the one on one personalization goal that we always strive for and against accelerates
+
+00:36:27:23 - 00:36:49:22
+不明
+the process, but also creates more effective personalization using data that we didn't have before. And of course, I think some of you may be familiar with AI system, but if not, you can upload additional knowledge bases to give it more context. Again, the kicker here, knowing that it's doing all of this, based on the buying group role that you define, Adobe Express embedded experience.
+
+00:36:49:22 - 00:37:12:54
+不明
+So whether you've got the free version or the paid version, providing more tools to help, automate the personalization process and create more effective customer experiences, it's natively embedded across the asset manager with standard deviation, but also you can access it directly within the email editor as you're putting together emails, creating different, multiple variations. Of course, the paid version comes with fireflies.
+
+00:37:12:54 - 00:37:39:07
+不明
+So you can generate different variations while staying on brand. But also, for customers that don't have massive content, supply chain teams, be able to, to use all the power within the express. But the ones that do sometimes you don't want to bother, our, content resources. Right. So if you just need to quickly polish or fine tune or resize an image without having to reach out to the owner of the content team is a huge value add.
+
+00:37:39:07 - 00:37:56:29
+不明
+And why we've incorporated it. And this is a really cool, really small but mighty feature. I mean, think about all the time. All the time you're having to create templates to scale across all of our global teams, especially for the the large brands in the room. Right. You get a PDF from your design team and now you got to go manually build it, within the application.
+
+00:37:56:29 - 00:38:19:05
+不明
+Well, what if you could just upload it and have AI scan the entire thing automatically create HTML for you. That's customizable. Save as a template and then you're done. That's what this thing does again, speed, efficiency, cost effectiveness. All right. Amika, I got some big content needs. I need your help. How's it going to help my help? My life here.
+
+00:38:19:10 - 00:38:39:29
+不明
+Okay. Let's take a look at what we can do for it. So the next part of my demo is going to be focused on the email designer experience and all the generative AI features that we offer within this experience. So let's say I already have an email built out. So all of you don't have to watch me painstakingly build from scratch.
+
+00:38:39:34 - 00:38:55:37
+不明
+And I'm going to go into the edit experience over here. But I already see an image, some text lined up, and for the most part this looks good, but I want to make some minor updates. For example, the image over here does not quite relate to the content that I have, because it's an invitation that I'm sending on.
+
+00:38:55:51 - 00:39:16:57
+不明
+What I can do over here is plug in a quick prompt to see different options show up, but I also want to make sure these are not random images. So I can essentially upload a brand asset. And any kind of image that shows up over here is associated with the brand boundaries that we can set for our generative AI, image options over here.
+
+00:39:17:02 - 00:39:44:35
+不明
+I can continue to iterate or choose one of these and move forward. I can do something quite similar by uploading an image, or even using any images that I already have set up within marketing it. But there is another part to this. While the image for most part looks good, I might want to make some quick edits to it so we can also leverage our Adobe Express integration over here to maybe change the background, change the boundaries, or anything along those lines before I decide to move forward.
+
+00:39:44:40 - 00:40:05:31
+不明
+Similar to what I can do with my images, I can also change out my text real quick. For most part, the text over here that I have looks good, but I notice that it's missing some, you know, context around the kind of impact that we can have with this specific product. And so on and so forth. So what I can do is plug in that prompt and generate different options that I want to use.
+
+00:40:05:36 - 00:40:30:24
+不明
+Again, it can remain within the constraints of your brand asset. If you happen to have that uploaded in this specific example. The other piece over here is that while I can adjust the tone, the type of content I can also adjust is based on my buying group member. For example, if it's a decision maker, I want more thought leadership content, for example, so I can plug those in as well while I'm generating this content over here.
+
+00:40:30:28 - 00:40:53:20
+不明
+Once I have all this lined up, it looks pretty good. But what I do want to do is maybe create like four different versions of these emails. Have all of them save this template one, two, three and then confuse myself while I'm building out this journey. So what I can do instead is use a conditional content feature. So what this means is, let's say for a decision maker, I showed this specific image and the corresponding text.
+
+00:40:53:34 - 00:41:16:34
+不明
+Whereas for an influencer I can just add a different condition. For example, to say, hey, if the buying group member has a role like a manager or marketing ops who typically happens to be an influencer, then show a slightly different variation of that specific content. For example, I can come in over here, select anything that I've already set up, a condition that I have pre set up, or I can create something from scratch.
+
+00:41:16:39 - 00:41:35:36
+不明
+Once I have that lined up, I can quickly preview it, make sure it looks good. Another piece over here is that when I come into conditional content we are able to operate on three different levels. I can do this for account level, attribute buying, group level attributes, and even lead level attributes. So let's say I have all this lined up.
+
+00:41:35:36 - 00:41:58:57
+不明
+It looks great, but I also don't want anybody else messing around with my precious template that has painstakingly created. I have trust issues, so what we can do over here is we have content locking, so you can either lock in your entire template and make sure no one, and not even Mitch can edit my template over here, or I can pick and choose certain fragments of my email where I'm like, okay, there are some.
+
+00:41:58:57 - 00:42:25:09
+不明
+For example, the date and time. If the event changes, I want to allow my peers to be able to edit it and so on. So we have several options and features available within content logging. Again, like come check out our Experience League website where you can see more details around that. Now that I have all of this lined up and it's good to go, we understand that sometimes it's you who's creating these emails, and sometimes you have your content team that's giving you these emails.
+
+00:42:25:13 - 00:42:46:01
+不明
+And once you get that email, it's already in period format. There's just one tiny tweak that you need to do. You don't want to go through the whole approval cycle again. So what you can do instead is use that image conversion feature over here. I come into my templates page over here. Go ahead and pick the template that has been offered up to me in the form of a PDF.
+
+00:42:46:06 - 00:43:11:04
+不明
+I can go ahead and upload it. Preview the HTML that's already created from this point onwards. The PDF is now converted into a template. So with that template, we offer up the entire email designer experience, where you can tweak any part of it and make some minor changes. Buttons, headers. Image world is your oyster at this point. You can go ahead and create it and use it across your different journeys.
+
+00:43:11:09 - 00:44:01:17
+不明
+So that brings me to the end of our email designer experience. And with that, I'm going to hand it back to Mitch. All right. Insights. So. If our marketing team were here, they would probably tell you this is their favorite part of the product. For the first time ever in our industry, you have a bird's eye view, a single dashboard made up of unified first party marketing data, sales data for the marketing user and the sales user, all powered by artificial intelligence to surface insights based on, first party data signals, intent, etc. all for two reasons for the marketer.
+
+00:44:01:22 - 00:44:27:31
+不明
+You want to know what's working, what's not across my journeys so I can figure out what where are the bottlenecks? Where am I buying groups within certain stages of of the life cycle based on the strategy that I'm executing? So that I can optimize what journeys, which journeys I need to spend time on. And for the sales, practitioner, this drastically helps them figure out what, accounts should I focus on today?
+
+00:44:27:36 - 00:44:44:47
+不明
+With also account data and buying group insights that they've never had access to before. And ultimately, this is where they spend their time every day trying to figure out who are the members of the buying groups. But even beyond that, what accounts are surging? What accounts are not surgery? What what buying groups are surging? What buying groups are not surgery?
+
+00:44:45:01 - 00:45:08:06
+不明
+What's the solution? Interest based on, the keywords that Amazon mentioned earlier as a service intent based on all this real time marketing and sales activity. Again, for the first time, complete clarity into all my accounts and buying groups specifically for the marketing team and the sales team. So when we go, how can I how can I figure out what journeys are working and what's not?
+
+00:45:08:06 - 00:45:32:46
+不明
+And how can I help my my sales team accurately prioritize their accounts? Hello. Solution to all your problems today? Not because I happen to be the product manager for this specific feature, but because this is a dashboard that truly gives you that overview across what's happening within your entire agile B2B instance, be it buying groups, be it your accounts, the level of coverage you have.
+
+00:45:32:51 - 00:45:53:06
+不明
+So we understand that you might want to double click into details and see exactly what's happening within the journey. So we have several reports that you can operate within for journeys and buying groups. But there is another variation of these reports that we can offer. Just in case you want to come in and see how your buying groups are progressing across different stages that you can set up.
+
+00:45:53:18 - 00:46:15:00
+不明
+You can also decide on what these transitional rules are. So when I come into my dashboard over here is the first thing I see is my buying group stages. I can click in and see, okay, when this specific time frame started, there were a certain number of buying groups and it progressed to maybe 80 buying groups. This is great, but you just started using agile B2B, so you're like, what am I going to do with this information?
+
+00:46:15:14 - 00:46:34:01
+不明
+So what will also offer actually this feature is like what we offer right now is that when you click into any one of these stages, we will give you a quick generative AI summary of what's happening within these buying groups. It a jump from stage three to stage four. Or did it regress back from a stage because there was a drop in engagement?
+
+00:46:34:12 - 00:46:51:28
+不明
+So we will give you that additional context, as well as the ability to double click into any one of these buying groups that you specifically want to focus on. In addition to that, the next thing you can do is take a look at a different slice of data, like buying group highlights. What are buying groups that are highly engaged?
+
+00:46:51:41 - 00:47:12:19
+不明
+Should I start asking my sellers to be focusing on these? Buying groups? What is their engagement score? Are these buying groups even complete? What if it's only 50% and the engagement score is really high? Is it ready to be passed on to my seller? Those are some of the decisions that you can make looking at this specific part of our buying group highlights similar one metrics.
+
+00:47:12:19 - 00:47:38:33
+不明
+Seeing each one of our, buying groups accounts as well as leads, we will be able to also search party intent. For example, when I click into this View Detail button over here, based on the first party intent detection associated with keywords which roll up to products, I am able to tell the specific product that this group of buying this, this set of buying group members are specifically interested in.
+
+00:47:38:38 - 00:47:57:39
+不明
+And I'm able to also see, for example, if there is any bad news, let's say a buying group is complete, but it's not moving forward. It's not progress further down. We want to showcase that information as well. So maybe you might want to tweak your buying rules or any rules that govern these specific buying groups. I know I've been saying the word buying groups.
+
+00:47:57:39 - 00:48:16:58
+不明
+It's tripping me up quite a bit. But we also understand that maybe when you get started you're not quite ready to create buying groups. Maybe you just want to focus on some of your accounts. So we have a couple of dashboards to support that as well. We are able to showcase if there is an increase or drop in your engagement momentum, normalized across across your accounts.
+
+00:48:16:58 - 00:48:33:38
+不明
+Of course, to make sure that we show you the right information over here, you can double click into any one of these bars over here and see which of my accounts have ended up here. Why did they end up here? Is there any specific engagement channel that they focused on as a result of which they showed up over here?
+
+00:48:33:43 - 00:48:54:54
+不明
+In addition to that, you can also see account highlights. Each one of the accounts that show up over here is also associated with a quick generative AI summary of whether there was an increase or decrease in momentum. Are they at risk or are they doing really well so we can offer all that information in addition to the first party intent data.
+
+00:48:55:06 - 00:49:13:12
+不明
+So exactly what we apply towards buying groups, we have the same options available for you on an account level as well. So now that you have context of your buying group as well as account, you probably want to see how they're doing as a whole. So this is where we have contact coverage. So let's say I have a list of accounts I've already created buying groups.
+
+00:49:13:12 - 00:49:31:55
+不明
+I want to see the level of coverage that I have. For example, Luma Secure not doing great. I don't have any decision makers. Maybe this is where I use my paid media activation and go acquire the right type of decision makers and laser focus on that. On the other hand, there is another account over here that's doing really well.
+
+00:49:32:00 - 00:49:58:40
+不明
+Again, we don't want to leave you hanging or you can do is click into this, see the people associated with each one of these roles, the level of intent that they have, do they really have a high engagement score as a result of which they ended up here, or do they have no engagement and there's something amiss? So you are able to double click and see that additional layer of data for each one of the features over here while we offer up the contact coverage.
+
+00:49:58:40 - 00:50:25:19
+不明
+The last part that I want to quickly showcase over here is contact overlap. So let us say much over here happens to be an influencer across three different accounts. I don't want to send three different emails for three different products that I'm focusing on. What I can do instead is maybe leverage some of the email designer experience that I just showcase plugin data associated with each one of the three products, and tell him how he can leverage each one of these and send them one email.
+
+00:50:25:30 - 00:50:45:04
+不明
+So that's exactly what you can do with that contact overlap feature. If you notice that some of your decision makers or influencers are interested in several products, you can laser focus your marketing strategy accordingly. So now that you have all this data and you're ready to go much, do you want to talk about what we can do for our sellers now?
+
+00:50:45:09 - 00:51:12:28
+不明
+I think so it's time. I think it's time. I think it's time to bring it on home sales. My favorite. I spend 80% of my day with sales and I love them. I do, as you guys know, we've always been invested in sales and marketing coordination. I'm in the sales team, right? With Marketo Sales Insights, etc. we wanted to take that even even further.
+
+00:51:12:43 - 00:51:39:39
+不明
+Right? In this world of now having a account and buying group data and insights, how can we arm them with the tools to be even more effective? And as I mentioned before, just act as one team. The first thing that we're doing, in addition to the to the Global Account Insights dashboard that we just talked about, in addition to that, we're providing reps with their own individual dashboards, and it will be assigned based on the account ownership, the accounts that are assigned to them.
+
+00:51:39:39 - 00:52:01:57
+不明
+So they'll only see information on the accounts that, that they own. These provide basically all the information that we just talked about. But again, just for not only the accounts, but also at the buying group level. So what are my accounts doing? Who are the buying groups? Who are the roles? Which roles are missing? What is the individual activity of each role?
+
+00:52:01:57 - 00:52:23:37
+不明
+What is the group activity? Individual score a group score. We already said that. First party intent. First party data signals what product, solution interests are these buying groups interested in as a group or individually? I mean, the narrative information is actually it's overwhelming, but we just threw it all on there for them, so they'd start barking, stop barking at us.
+
+00:52:23:42 - 00:52:59:16
+不明
+But in sales dashboards at the account and buying group level, accessible within a job addition. Excuse me, within a job division. So literally creating a sales user as part of their job creation application, within, you know, email alerts today, which we that's actually live today and actually within the CRM. So creating a CRM agnostic version of this dashboard via an iframe, so that they can access this in multiple places, as we know, different reps, a different roles spend most of their time in different tools.
+
+00:52:59:16 - 00:53:18:32
+不明
+And so, our goal is to write as, as many options as possible, depending on how the sales teams, your sales teams, are structured. Again, what accounts are surging, what buying groups are surging, all related to the ones that I own. But that's not enough, right? Because great. You give them a bunch of information now they want to take action.
+
+00:53:18:39 - 00:53:35:24
+不明
+They want to do something with this data, right? Data and insights only go so far. You want to be able to actually act on it. Well we are going to enable them to do that. So just like we have actions say sales actions day within us, I was Adobe during office validation. It's at the account and buying group level.
+
+00:53:35:29 - 00:54:01:58
+不明
+So within the buying group individual buying group dashboard, you're going to see things like, hey, add to marketing age programs. If you have Marketo add to job addition journeys, trigger, add trigger marketing, approve emails and my favorite confirm and overwrite the buying group. So giving them the power to say, hey, actually this is not correct. Remove this person, add this person, or hey, so and so I was just in the sales cycle with they left or they got fired.
+
+00:54:01:58 - 00:54:20:22
+不明
+Someone came in and I know they're part of the buying group. Put him in put him in the buying group. And then by default, that gets included in all the journeys that marketing has already, set up. So this is huge and we're really, really excited about this. Again, just acting as acting as one team. Now of course, giving sales practices your permission.
+
+00:54:20:22 - 00:54:42:52
+不明
+You have to set that up right. We're not just going to be the wild, wild West here, but, but still. Okay. So we gave them data insights. We gave them actions to take, but still still not enough. Let's just give them their own AI agent. So this is the account qualification agent that will be built into the individual, account buying group dashboards specifically for the sales practitioner.
+
+00:54:42:52 - 00:55:01:46
+不明
+So it was, B2B scale account progression. You guys saw this on main stage this morning, particularly for the sales practitioner. Another out of the box agent specifically for sales. That's essentially just going to automate everything I just talked about but also provide recommendations. Hey, marketing just discovered a brand new, buying group member for this buying group for this account that you own.
+
+00:55:02:00 - 00:55:19:44
+不明
+There's a marketing event coming up in a week. We already have a program set up. I highly suggest that you add that person to to that marketing program so that they get the webinar, invite point being saving a lot of time, providing a lot of insights and intelligent recommendations so they can be as effective and also follow up as quickly as possible.
+
+00:55:19:44 - 00:55:49:08
+不明
+Striking while the iron is hot and again, optimizing sales resources right, doing more, doing more with the same team. But that still was not enough. All right. Salespeople are always on the go. So everything we just showed unified account and buying your data and insights, sales actions, an agent all in the palm of our sales reps. Hands getting push notifications.
+
+00:55:49:08 - 00:56:05:48
+不明
+Hey, just discovered new buying group member. Is this the right person? Hey, there's an event coming up. Or if they're running into, about to go into a meeting with an account and they want to know the latest and greatest with that account and the buying groups, associated those accounts. They can do that for meeting prep.
+
+00:56:05:52 - 00:56:30:51
+不明
+They can trigger all the sales actions, put someone in a nurture campaign, trigger a marketing approved email, see an entire account feed of what's going on with all of their accounts. So when we get bring us home. How are we hooking up? My sales team. I mean, give it a go. I promise is the last time you're going to see we go up here, we'll cut you loose after this.
+
+00:56:30:55 - 00:56:52:43
+不明
+Hey, so let's say going back to the Luma Connect workflow that we're talking about, what you can do as a marketer is essentially let your sales counterpart know through sales email alert notification that a buying group, for example, has had an interesting moment. Go take a look at this buying group. Start talking to the people associated with this specific buying group.
+
+00:56:52:48 - 00:57:10:42
+不明
+So the starting point for a seller could be an email alert that they get where they can quickly glean what's happening across the buying group intent data associated with it. But let's say they don't want to go through all of this. We have a quick summary upfront. They look at the summary. If it is interesting, they can double click and see more details.
+
+00:57:10:42 - 00:57:36:14
+不明
+If not, they can just leave it at that. But let's say they do want to double click and get additional information. We have hyperlinked all of this into individual dashboards that we offer up to our sellers. For example, I can come into my account detail page over here where I can see a quick summary of what's happening across my account before I dive into maybe getting on a quick call with them, I'm able to take actions like adding them to a marketo campaign or sending email.
+
+00:57:36:25 - 00:57:57:43
+不明
+Obviously, all of this will have to be pre-approved by a marketer before me as a seller can jump in and send off these emails, or I can add them to an ad B2B journey. Even. But what I notice over here is that one of my buying groups happens to have a quick notification, and when I click into it, I see that, okay, one of the buying groups over here is missing a key decision maker.
+
+00:57:57:48 - 00:58:18:34
+不明
+This is where the agent experience comes in where it can tell me like, hey, you're missing a member. You are engaging with certain people, but they're not added to this specific buying group. Do you want to go ahead and add them? It also shows you quick highlights on a buying group level. I can see that there is key engagement as well as risks identified in this specific use case.
+
+00:58:18:34 - 00:58:35:09
+不明
+Based on historical engagement data. Emails that have been sent or logged are. Agent is able to tell me that I am missing John, for example, who should be added into this specific buying group and it asks me like, hey, do you want to go ahead and add it? And I say, yes, let's go ahead and add this specific member.
+
+00:58:35:22 - 00:58:56:54
+不明
+So now that my buying group is complete, anything I customize beyond this point, I'm able to do so for a complete buying group. But like you're saying, maybe sellers get started with an email notification. Maybe they'll come into an ideal B2B application like system where they can see all these details. But we also know that a lot of sellers like to operate out of key items.
+
+00:58:57:07 - 00:59:32:30
+不明
+So the exact same pages and features that I just highlighted over here, you will be able to access within your CRM as well because we will be hyper linking all of these pages. You can put them into report a specific layout so it's accessible to all your sellers. But it's not just that. Let's say we have the email experience, but you also want to make sure that any of your sellers on the go get a notification if there is an interesting moment, for example, because they're going to jump into a meeting with this specific account, and that happens to be either a red flag or a green flag associated with it.
+
+00:59:32:34 - 00:59:52:46
+不明
+I can come into my mobile application where I can see all the accounts associated to me as the sales owner, so I don't have to see everyone's account, only the ones that I own specifically. And I can click into more details to see what's happening. For example, with this specific account, their engagement history, or any kind of recommended next best steps.
+
+00:59:52:46 - 01:00:14:49
+不明
+For example, should I quickly send them an email about an event that's coming up? So then when I get on a call with them, I can be like, hey, there was an event coming up. Would you like to attend? So on and so forth. So we are able to really close that loop from a marketer to a seller and enable them on every single interface, be it their website, be it CRM or even mobile on the go.
+
+01:00:14:54 - 01:00:31:16
+不明
+That brings me to the end of the demo for real this time, and then I can hand it back to Mitch who can close it out for us. Awesome, and thanks for staying a little bit late. I'm getting FOMO from the next room. We got to go over there and party. But here's a roadmap release plan for this year.
+
+01:00:31:21 - 01:00:52:52
+不明
+This isn't the full list. All the items in red you saw today. Items in black you did not with some beta and GA dates. And as you can see, some of the functionality is already available. Literally as of like last week. So we're really, really excited about the innovation that's happening not only just within Azure, but across Marketo in the entire B2B product portfolio.
+
+01:00:52:57 - 01:01:11:56
+不明
+Really think that this is a game changer? So just a few. I know you guys are still taking photos. Don't worry, you'll get access. There you go. Snap away. This is the this is the slide that everyone really cares about. Everything else? Not so much. So, yeah, I should just lead with that and then drop the mic and walk out.
+
+01:01:11:57 - 01:01:37:13
+不明
+Next time we can just go get a drink earlier. Key takeaways B2B three zero has arrived, right? Adobe, really is the foundational application for our account orchestration solution. It's fully powered by AI with a focus and by your precision. Efficiency is self-serve and sales. Right. Those are the key themes that we talked about this year. All powered by artificial intelligence, generative AI, energetic AI.
+
+01:01:37:26 - 01:01:59:39
+不明
+And remember our take on AI agents. It's not about just building them to do work. It's to help, with decisioning, strategic decisioning, remove decisions. I have to make, and or surface new decisions that I didn't know I had to make. And to us, that's how we will help truly maximize performance and help you, drive growth and revenue in the most efficient, cost effective way possible.
+
+01:01:59:43 - 01:02:12:28
+不明
+So thank you guys so much. I think we're out of time for questions. Thank you. If you have questions, come up. To the front and we'll answer. And thank you guys so much for.
+

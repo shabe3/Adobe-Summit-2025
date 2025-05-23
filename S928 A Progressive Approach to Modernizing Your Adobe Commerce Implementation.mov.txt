@@ -1,0 +1,468 @@
+00:00:01:42 - 00:00:24:12
+不明
+Hello everyone. This is a progressive approach to modernizing your Adobe commerce implementation. My name is Lisa, and I am a solution architect, on the professional services team. And I'm here with Mohamed Sever. I'm a principal technical architect with professional services. I will try to help you understand, a few tools and concepts that you may need.
+
+00:00:24:12 - 00:00:55:14
+不明
+Your with your mother patient journey today. And with that, we'll touch on the approach. Perfect. So let's start with the key takeaways. So why are we here? Maybe some of you saw an announcement yesterday a very exciting announcement yesterday on the roadmap Adobe Commerce Roadmap. And or you have performance issues or you want to innovate, you have limitations and you want to know more about AI builder.
+
+00:00:55:19 - 00:01:22:27
+不明
+So the first key takeaway is that we have a way to have an out of process. From the Adobe Commerce platform. We are also going to talk about, progressive approach. So a phased approach. So start small and scale smart. And then we're going to introduce you to some of the tools to get there. So those are the three key takeaways.
+
+00:01:22:32 - 00:01:43:17
+不明
+Oh okay. Okay. All right. So the way we're going to do this is we're going to start with just getting a little bit of the history of Adobe Commerce, how we got here and the evolution. Then we're going to talk about the modernization, what we mean by modernization. Then more is going to talk about the technology that we have available.
+
+00:01:43:17 - 00:02:11:48
+不明
+Our builder, the commerce store powered by its delivery services. And the tools available from the part of team for, for the modernization. Then we're going to talk about the approach and then just some actionable, next steps. Okay. So let's talk about let's talk about the evolution of Adobe Commerce. So there was beautiful acquisition happened in 2018.
+
+00:02:11:52 - 00:02:50:44
+不明
+And so the first goal of Adobe was to make a platform that was scale able, that was available for enterprise customers. We focused on, B2B, multi-region, multi-brand, capabilities, and we were focusing on having a platform that was ready to scale. Then we focused on being API first, now API first, but not API only. That means Adobe was still committed to make capabilities that were available for users, not only like giving you access to APIs, but also focusing on the capabilities needed for an e-commerce platform.
+
+00:02:50:49 - 00:03:19:48
+不明
+And then now there's the introduction of, the for continuous innovation. There's this cloud, cloud native extensibility. So we have cloud native apps available for you, cloud native services. And as announced yesterday, cloud native platform. So the important thing here. So you saw these exact same slide yesterday on the roadmap. If you went to the roadmap session.
+
+00:03:20:02 - 00:03:48:25
+不明
+But the important thing here is that these are options for you. So it's an evolution of the platform. So we're making the platform better. So there's an evolution of how we find better ways for you to implement your platform. So obviously we spent a lot of years having the traditional e-commerce platform. And now we're going into an evolution that can scale and, catch up with all of your needs and the needs of the market.
+
+00:03:48:30 - 00:04:26:12
+不明
+So if we go one by one, we have the traditional architectures are just like historically or probably most of you are in, in this architecture. So just so we know who is at current customer, Adobe Commerce customer. Okay. Who is on Adobe Cloud? Okay. And who has AB builder right now? Okay. Great. So the ones that have Adobe Cloud have availability, that have, access to our builder today.
+
+00:04:26:16 - 00:04:53:20
+不明
+So everything that we talk about today, you can implement it on your next release. You're able to start, today. So the traditional architecture was, basically having customizations within the platform, and you could do whatever you want. You could do it on the front end, on the back, on database. Everything and be customizable. And this model allowed very deep customizations, via a PHP module.
+
+00:04:53:20 - 00:05:18:02
+不明
+So this is the platform that we all know love, we're proud of. But now there's an evolution of it. So now what happened? There was a few challenges with it. So why is this lady sweating? So we we basically gave you power. We gave you code, open source code, and you could do whatever you want with it.
+
+00:05:18:03 - 00:05:35:45
+不明
+So you took the code, and then you went to the marketplace, and you said, marketing is asking for this, and merchandise is asking for this. And then you started adding a lot of customizations to your platform. And then when Adobe came with a new version of it, you had to look at what you had and let me see where it fits.
+
+00:05:35:45 - 00:06:02:50
+不明
+And sometimes it was upgrade that didn't fit. There wasn't, compatibility. Or you had issues with performance already so it didn't fit. So there was a lot of issues, a lot of challenges that were considered to, tech that and then maintaining the customizations were really expensive and stuff like that. Adobe also focusing on the experience and the experience cloud.
+
+00:06:02:51 - 00:06:34:12
+不明
+We also saw the challenge that data sharing was very, very difficult for existing customers. So we had to create a way to get out of that pattern. And so we have now the ideal, model or architecture that will be better for customers. So the ideal way is to have the or the ideal. And Northstar will be to have your Adobe Commerce Foundation untouched.
+
+00:06:34:17 - 00:07:04:39
+不明
+Right. So the only thing that can touch it will be the version upgrade. So start with, clean modular foundation that will make it easier for your upgrades. You can improve performance, improve the performance. That way. And also just operational, decoupling the the the operational load. And then we have the next layer, which is the merchandizing services.
+
+00:07:04:44 - 00:07:28:31
+不明
+So these are available to you. So now Adobe Creative Cloud native services that are available to you, you can use it. You can not use it is up to you as well. There's a catalog service. There's live search. For recommendations and so on. So that that is also something that is available to you. And then now the customization layer.
+
+00:07:28:31 - 00:07:58:19
+不明
+So now we decouple the the customizations to be through App Builder API mesh Adobe IO. So this way is a different way of extensibility. Obviously this session we're going to focus on that portion. But we also wanted to touch on the experience on the front end. So Adobe has been focusing for years on an experience product, which is Adobe Experience Manager.
+
+00:07:58:22 - 00:08:20:13
+不明
+So they have a lot of experience on what is needed for the front end, for the store front. So it was only a matter of time to use the same, storefront US or the same capabilities in storefront as, I am. So now we have kind of like a united strategy for the experience on the front end.
+
+00:08:20:18 - 00:08:42:52
+不明
+So, we have at the commerce store front, it doesn't necessarily mean that you need am now that the Commerce storefront will be powered by still delivery services, which is a, something that is also available. And, and so depending on the front end needs that you have, you can have am or just a commerce, storefront for the announcement from yesterday.
+
+00:08:42:54 - 00:09:11:47
+不明
+This is the ideal architecture that you will need to move to Adobe Cloud. Adobe Commerce Cloud Services, which is aka the sass platform. But we will call it a CSS. And so these will be the ideal Northstar to get there. Now, what does this mean to you? So you most likely have all of your customizations on the foundation currently.
+
+00:09:11:47 - 00:09:39:54
+不明
+So you have hundreds of modules on on the platform. So the good news with this modernization slash announcement is that this time we're not coming up with a new version of commerce that is three. For some people, I know that the versions where you just have to move completely to the new platform. This is just an evolution of how to decouple the experiences.
+
+00:09:39:54 - 00:10:04:25
+不明
+So you can actually have your module. So you could have if you have 500 modules, you could have move ten to a builder while you still have your foundation. So within the past, foundation, you can still have a hybrid of both. So as like I said, you have access. If you have cloud license, you have access to our builder today.
+
+00:10:04:30 - 00:10:32:59
+不明
+So you could start implementing some modernization steps to get to that decoupling. Have this architecture in mind. So these are the three things that you will need to consider if you are looking at the North Star to move to to a six. So, it so the experience is decouple enough that we also, are going to introduce something called the Commerce optimizer that you probably heard about.
+
+00:10:33:00 - 00:10:54:01
+不明
+So the Commerce Optimizer basically can be on top of any other commerce platform. I know you guys all have Adobe Commerce, but just in case, if you have, an experience that doesn't require a transactional portion of the site that just need like the experience and the catalog, then it will be basically, if you see it this way, obviously this is a way, way simplified version of it.
+
+00:10:54:01 - 00:11:10:34
+不明
+But if you see the number one and number three, it would be kind of like the power of number one and three, it would be Commerce optimizer. If you want to know more about Commerce Optimizer, there is a session today at 4 p.m.. So they're going to introduce Commerce Optimizer and how you can use it. And the power of it.
+
+00:11:10:39 - 00:11:34:26
+不明
+And if you want to know more about edge delivery services. So both for Am and Commerce it will be both included in the session. There's a session tomorrow at I think it's 11 a.m.. It's it's 1111 left. But, I heard that the lab is full, but there's no unenrolled button on these labs, and I'm sure some folks will not arrive.
+
+00:11:34:26 - 00:12:13:12
+不明
+So I would suggest you, if you're interested, and definitely go there. You will find a seat. Just maybe give my name, and then I will take you in private. All right, so before we go into App Builder. So just let's just mention a few of the benefits of the modernization. So to start with, cost efficiencies. Right. So I know, I mean, not you because you have perfect code, but like the clients that had a lot of customizations and had bad upgrades and they're very expensive to, to start with, upgrades are, you know, out of the now you don't have to worry about the cost of, of the operator.
+
+00:12:13:12 - 00:12:38:06
+不明
+That can save a lot of money. Maybe you can bring a colleague next year. For some, it faster innovation. So it is easier to have, more, get more innovation faster. When you have decouple experiences, you don't have a lot of dependencies and you don't have a lot of risk. And then on the, the last two, minimal disruption and risk mitigation that will be both on the disruption of the architecture.
+
+00:12:38:06 - 00:13:03:36
+不明
+Now you have the deployments are separate as an example. So you can have deployments on App Builder. You can have deployments or on edge delivery service. You didn't have to have all of the deployments on on the platform anymore. So minimal disruption. Also in the case of the context of a phased approach, meaning minimal disruption will be there, you can still continue with your operations like every day.
+
+00:13:03:41 - 00:13:29:26
+不明
+And what we are proposing is that you can still continue with the marketing requests and everything that you have on your backlog while you modernize, to this, to App builder. And, now we're going to go into now a little bit of App builder and IDs. So much has some examples of the technology and what's the difference between what you have right now and traditional versus, just the app builder.
+
+00:13:29:31 - 00:13:49:19
+不明
+All right. Welcome again. So before we dive into this, I just want to have a deep breath. Breath and give it, you know, give it back because, some I spoke with some of you, I see some, some of my clients here. Isaac, from my shop. I see my other clients on the other side.
+
+00:13:49:19 - 00:14:11:04
+不明
+I mean, the enterprise edition is not going anywhere. The cloud is not going anywhere because there's a cloud as a service, right? So all of three different version of implementations will be there. That's why it doesn't say you have to move to App Builder. Right. There is no heavy here. It is. It is to modernize for to extend, you know, for your extensions.
+
+00:14:11:04 - 00:14:29:33
+不明
+It's a way to modernize. So, just I want to start with that because you should understand that there is no have to hear this. You do this if it works for you and do it if it benefits to your use cases. And I will try to show some examples here. I will try to stay on the surface, right.
+
+00:14:29:42 - 00:14:48:25
+不明
+If you have deep technical questions, we will have a Q&A session. We will try to make it, as long as possible. So, I will be here. I'm a Commerce technical architect. I will be here to answer any of your technical questions. But without further ado, let's let's jump into it. So why will Tab builder right. It is.
+
+00:14:48:30 - 00:15:06:03
+不明
+It is a cloud workspace. It is somewhere that you can put your custom applications. Well, I know a few of that I like. There's a AWS Lambda that I can use for this purpose. Right. Or Cloudflare workers. Why would I why would I use this thing first of all, this is not a new product introduction, right?
+
+00:15:06:05 - 00:15:34:19
+不明
+This is this has been with Adobe for a while now for commerce. People like us. It is it is a new concept. Maybe it's been a year or so that we knew about this, but other we was using this for other products and architects were using this for years now. Right. So, you know, because I have I have some folks here that may ask to me like, hey, is are we going to have like an uptime guarantee here or, Craig Gillespie, is it is it, is it working with HIPAA restrictions?
+
+00:15:34:31 - 00:15:56:51
+不明
+It does. Right. So normally when you get a new infrastructure like this, you don't get these things all at once. But this is not new. This has been there for a while. We just connected it to Commerce. Now why why this environment. Right. It is very close to all the products it has been working with. Any other products that, you can name today in the, in the community pavilion, right.
+
+00:15:57:05 - 00:16:17:30
+不明
+If there is any API that you want to get data from analytics, or you want to subscribe to an event from, any other, application you have is on that builder. So that expands your capabilities with commerce, right? Any customization that you would need to do an integration with, and Adobe service now you have a direct connectivity.
+
+00:16:17:34 - 00:16:50:28
+不明
+And it is also in the same network with Adobe Commerce Cloud as a service. I'm not saying that you have to go SAS, but that's one just one reason, because you are on the same network. The proximity is very close, right? So well, besides connect it, it is also any any customization you move to. A builder will be one less module or maybe two or maybe five move removed from your Adobe Commerce PHP, extensions or modules.
+
+00:16:50:33 - 00:17:16:03
+不明
+So next time you upgrade like Ronde, it. I mean, you won't need to check if your module is compatible with 8.3 PHP 8.3, or if your module is compatible with 247 of the other commerce. Right. You have to go through all of those just when you are doing an upgrade. It takes time. It takes a lot of testing, and if you have less modules, less extensions, you would be we would be upgrading much faster.
+
+00:17:16:12 - 00:17:39:15
+不明
+So take this as a as a progressive approach, right. You don't have to be on SAS right on day one, which I mean, it's very hard for some of you to be there. But take it take that is your not star. So A builder is an event based platform. You have some events coming in and you do some actions based on those events.
+
+00:17:39:19 - 00:18:00:01
+不明
+All of our customizations has been like that before. When you were creating a plugin in e-commerce, it was based on an event observer or some other method that you were overriding, right? Oh, you want to you want to send some order data to your, ERP very like standard use case, right? When you do it, when there's an order placed.
+
+00:18:00:12 - 00:18:28:18
+不明
+So there's an event and you do you have an action, you send that data to your ERP. So that's how it works. And it's a very low code. Environment. You do you do use JavaScript. So let's say the state codes require not two letters, but three letters for some reason on your ERP, do you need a full redeployment on the other commerce cloud and have like a ten minutes downtime maybe or two, depending on your deployment speeds?
+
+00:18:28:22 - 00:18:46:05
+不明
+Well, if you're if you're doing that with that pillar, you don't need to do that anymore. You can just deploy that piece or maybe test it in a separate place using your production environments. And have two separate applications working with your production at the same time and then release it. It's that easy. You don't have you don't have any downtimes because of that.
+
+00:18:46:10 - 00:19:03:02
+不明
+But, you know, I have some examples here, on the, on the diagram where I'm showing a, real time integration. Right. And also an asynchronous integration with the order example. And I will dive into those a bit more, deeper.
+
+00:19:03:07 - 00:19:23:09
+不明
+Let's say that, you know, you had the use case, the order ordering, integration with the ERP system. What would you do in a traditional architecture? You would create a custom module, right? This custom module would check some, observers in your code base, and it would cache the new order data. It would send it to your ERP system.
+
+00:19:23:09 - 00:19:43:01
+不明
+You would need to create a client for the ERP APIs. Right. You would need to have that library created in your Adobe commerce. And then next time you upgrade you want you would want to make sure that works in the new version. Right. And then maybe you know the loyalty. I would also ask for the same order just to update the customer profile.
+
+00:19:43:08 - 00:20:01:50
+不明
+Right. And you would maybe need another custom module to send the same data whenever an order is placed. That is just another module to, take care of when you are doing an upgrade. It could be working on the app builder like this. First of all, the order event like you have seen on the previous slide is already there.
+
+00:20:01:55 - 00:20:22:50
+不明
+You don't need to push that event to Adobe IO. We have eventing module that you can install out of ecommerce as part of the core code base. Right. And it will send more than 700 native events. So for the ecommerce to a builder with just one simple configuration in our admin panel, you don't do any code for that, right?
+
+00:20:22:55 - 00:20:49:48
+不明
+And then you would create a custom application on the back builder. So this would synchronize with your ERP and loyalty application automatically. You have your log in. You have your monitoring. You have your data storage. You have your development tools, everything ready in that builder to create this application. Well, we have more a bit more than, just providing a clean, space that you can create an application.
+
+00:20:49:48 - 00:21:08:29
+不明
+We have some blueprints also that I will show you in a bit, but let's take another. Let's take a look at another, use case. Right. Let's say that you are running a real time inventory check with your warehouse management system, right when you are placing an order. So that's a little different than what we have shared before, right?
+
+00:21:08:29 - 00:21:32:15
+不明
+It is. It is async. It is not asynchronous. You are not sending the order after some event happened. You want to do something while that event is happening, while that order is being placed. So that is also possible with that builder. So what happens is let's say there is that old, school PHP process, right? That is running your code.
+
+00:21:32:24 - 00:22:00:36
+不明
+And at one point it is checking the inventory and your, your let's say your customer is waiting in those milliseconds. Let's say we slowed the time and it takes 200 milliseconds to load this order. Success page while it is being loaded. Right. You are checking that inventory if it's available. So you want to place disorder and if if you want to have a real time check, you know, as an architect, I would not suggest that because if that API is down, your order placement is down.
+
+00:22:00:36 - 00:22:20:56
+不明
+But let's say that you have a use case. You have to use this. You have to have a real time integration. Then you can create a webhook, right. Which builder and have an app builder serve that inventory. Check back to Adobe Commerce. So it can continue with the process and return the response to end user. This is also possible.
+
+00:22:20:56 - 00:22:42:09
+不明
+This is one of the use cases that is being missed. Mostly we think when we say a builder, we think that it's just for asynchronous, but it also works for synchronous processes the same way we were creating a plugin. If there are any developers amongst us, this is what what you normally do in the original file. So let's wrap this up right.
+
+00:22:42:14 - 00:23:09:14
+不明
+We have more than 700, native events for anything that any entity that you may think of, any action that you may think of in other the ecommerce. So, in addition to that, you have a synchronous way, an asynchronous way to, sorry, it asynchronous and it's synchronous way to create this integration. And you can connect with any application.
+
+00:23:09:14 - 00:23:37:49
+不明
+Right. It is it is natively connected to this EventBridge also that opens up a lot of doors for you. It even makes some integrations drag and drop. To be honest, if you use that. But I'm not going to leave it there, you know? Hey, there's a there's a place that you can create an application. Go ahead and create no, we have some starter kits for you because that's the hardest thing for an engineer to know where to start.
+
+00:23:38:02 - 00:23:56:31
+不明
+It's not that we don't know what we don't know. This application, but we want to make sure we create the correct architecture. That will be future proof when we are creating this, this, custom application on our, you know, empty workspace. That's why we created the story. It is it is not a plug and play thing.
+
+00:23:56:36 - 00:24:23:34
+不明
+It is a suggestion for you where you can put your ERP integration or any kind of back office integration. Right. When a certain event happens, you want to update your CRM application when a customer created on the e-commerce. So we have the code ready up until to validating your data, transforming it for your CRM, CRM application, and sending it, you just need to add one small client library for your CRM, and you can use the rest of there.
+
+00:24:23:34 - 00:24:47:04
+不明
+So for, you know, pretty easily there is logging attached to it. There's monitoring attached to it. So it's a great place to start and makes life very easy for your developers. We have the same team. Sorry, I was on the wrong slide. This is the integration star. Okay. So let's let's let's take a look at what kind of entities we have.
+
+00:24:47:16 - 00:25:06:36
+不明
+I mean, I see product, I see inventory, I see pricing, I see customer I see orders, right. But this is not just that. You have also your, capability to add any custom entity. Let's say you have a gift card entity that is not out of the box, but a custom one in other e-commerce you can attach to it here.
+
+00:25:06:36 - 00:25:29:47
+不明
+And how custom actions managed with within this, architecture. You also have some example ones. You have a sap Hana that we have built, SAP Hana integration that we have built on top of this. So even though you are not using a SAP Hana, you can take that build it application and take that as an example and see what you can, build.
+
+00:25:29:47 - 00:26:05:04
+不明
+Similar to that, we have, Microsoft Dynamics financial operations also integrated using starter kit. So definitely check those two. The financial operation one is free, freely available in our app marketplace, which we will share the link, at the end of our slide. Now, it's not just the asynchronous integrations like I mentioned. We also have some tools available for you for synchronous ones where you have some payment options or shipping here, your integrations right in your check ups, which is a bit complicated when you just think about it with the earlier diagrams.
+
+00:26:05:16 - 00:26:31:16
+不明
+So that's what we realized. We created some, out of the box extensibility modules, actual PHP modules. So we allow, e-commerce to work a bit more closely, with build it for, these extensibility purposes. We have examples there for how to create a shipping, carrying integration, shipping rules, payment rules, payment payment, get gateway integrations. So you can take that as an example and start from there.
+
+00:26:31:21 - 00:26:38:28
+不明
+It's also an architecture blueprint, to use with App Builder.
+
+00:26:38:33 - 00:27:01:12
+不明
+A common a common one was the tech services integration. We also have a simple there to. Now obviously if the goal is to move to SAS. Right. Moving your custom applications to Apple, it is not just going to cut it. Right. You would need some third parties that you are already using today, meaning they are PHP extensions to be on that builder.
+
+00:27:01:17 - 00:27:24:24
+不明
+So these are, the brands that you may have seen on the roadmaps, session today, yesterday. But if you have missed it, these are the brands that are committed to deliver extensions or applications on our marketplace. To be used, within your Adobe App Builder platform.
+
+00:27:24:29 - 00:27:49:18
+不明
+Right. I see some pictures taken. So go ahead. We will share the slides later, but, this is a good slide. You took some time to get all of these brands proofs. So on top of this we have some tools available. These are, not the ones that you need to take care of their code base, but these are just some configurable applications also within App Builder.
+
+00:27:49:22 - 00:28:10:31
+不明
+Right? This one is called API mesh. You may have heard this before. This is to orchestrate your, your APIs. And there are some use cases where we create a module, and that module is only bringing data from a certain API endpoint. But it's actually, you know, a closet in our code base. You could do that with if we had an API orchestration tool.
+
+00:28:10:44 - 00:28:34:30
+不明
+This very mesh kicks in. I have a use case here that I want to show you guys it. I know it may sound very simple, but it's just for you to understand the way it works. Let's say we have a reviews service, right? You're bringing product reviews into your product details page, and you want to keep them in Adobe Commerce, and you want to pull them from an API from an API endpoint, like the order example.
+
+00:28:34:30 - 00:28:56:46
+不明
+You would pull this, using a custom module, right? That could be one way to do that. I see most of the product review providers, though, they provide a library. So you put that library into your front end application. That is also possible, but that's just another thing to track on your front end application, especially if you're headless.
+
+00:28:56:51 - 00:29:23:06
+不明
+It's extra code base, extra code in your front end code base. Now the way it works is that API mesh can pull data from any source of API. You name it rest API GraphQL. So if it's even if it's a, you know, and structured, schema, like any Json response, you can put it in API mesh. You don't need to code anything.
+
+00:29:23:13 - 00:29:50:06
+不明
+It's just a configuration. It will mesh it together like like magic with your existing other ecommerce API and give you, one single unified GraphQL endpoint. So your storefront can use it. Why? Why would you need this? Well, store front layers are just for presentation, right? If you want to run business logic on your store front layer, then how are you going to separate where you are keeping these business logics?
+
+00:29:50:11 - 00:30:12:31
+不明
+Is it going to be on your backend? Is it going to be on your front end? Who's going to be responsible of developing these things? And when you add more and more business logic to your storefront, it just becomes heavier and slower on your storefront at some point. So that's that's why you API mesh may help you with the API orchestration.
+
+00:30:12:36 - 00:30:33:27
+不明
+All right. So I will jump to Azure Delivery Services real quick. I know Elinor has a lab session tomorrow and we have you know, we have some other sessions about this. But I just want to touch on this because, it is one of the tools that you may need during your modernization. Now, I will give you the standard pitch.
+
+00:30:33:27 - 00:31:04:16
+不明
+Right. This is where we have commerce experiences and content meaning together. You have experienced manager based, authoring or you can have document based authoring. It is pretty awesome, actually. If you haven't tested it, please. Go into the commerce booth in the community pavilion. You can test it over there. You put some, words into, SharePoint document and then save it and use SharePoint for your permissions and authoring.
+
+00:31:04:21 - 00:31:27:37
+不明
+Right. Then, you save it and it just pops up on your storefront all styled and everything. So, I mean, I don't know if you if you are in love with Page Builder or any other editor, but I'm not. It feels much easier for me to use this. I know Kevin also loves it. So, Well, I mean, IDs is where your commerce and, content experience meet.
+
+00:31:27:37 - 00:31:53:58
+不明
+But now for every for every storefront technology that we have provided until so far, you would need a full big migration to it. Remember studio times or, if you are moving to a VM, they say you would need to leave your luma front end and move to the new platform. That's why I wanted to touch into this, because you don't need to do that with, drop ins that we provide here.
+
+00:31:54:03 - 00:32:19:48
+不明
+There are multiple drop ins. You have cart checkout, PDP, any part of your commerce experience is a separate drop in. And these are modular pieces. Remember those, product widgets that we would put on our website could be from like a recommendation provider, right? You would put a library, a simple library. And, you know, you would put where you want to see your product recommendation widget.
+
+00:32:20:00 - 00:32:42:52
+不明
+It would pop up the, products there. It works in a similar way, not exactly the same technology, because those things were slow, maybe like ten years ago. But these drop ins, let's say you want to have a product detail page somewhere in your website. You just load a library, put it in, and it, it allows you to, show the product detail page there.
+
+00:32:42:57 - 00:33:08:52
+不明
+What's the benefit of it? Well, you have, future proof drop in that you can extend. You cannot touch the or you should not touch the core of it, but you have a lot of extensibility points, what we call slots, right. Using these slots you add your customization. And then when, when, the technology of the storefront gets old, Adobe will replace it for you.
+
+00:33:08:54 - 00:33:31:21
+不明
+Currently, all the drop ins are built with Preact. Right. But you didn't need to know that, right? You just need to know what customization you would you would need to do there when, let's say when, customer clicks on the add to cart button, you need to show, protection plan to sell them. Right. That's your customization to put in the add to cart slot.
+
+00:33:31:26 - 00:33:59:03
+不明
+But let's say in the future, in three years, Preact is yesterday's news and Adobe needs to put another library there. Your slot will still be valid. This is the difference between the previous front end technologies that we were, providing you. Now, these are also, compatible with any source of front end technology. You have a next year's, framework.
+
+00:33:59:07 - 00:34:26:21
+不明
+On, on on your store front today, you can put your drop in and you don't have to put all of them all at once. Right. You can start with, your, let's say, landing page being on edge delivery. Right. And the rest of the rest of your experience can stay on their existing, sorry, existing storefront in the next phase, if you like, if you can add your PDP or PLP into it.
+
+00:34:26:25 - 00:35:05:33
+不明
+Right. And keep, checkout and cart in your existing storefront. That's how visual comfort works. Today we have them, with us right now. Go ahead and check their website. You have homepage and PLP working with Edge Delivery. While the rest of the experience is with Luma team. Now this applies if you have any sort of front end, but if you are specifically on Luma team today we have a tool called Luma Bridge right where you can have some of the pages like content page, category page and product page on edge while you have the rest of the experience on Luma and Luma Bridge allows you to connect this experience.
+
+00:35:05:33 - 00:35:22:14
+不明
+Because if you think about it right, if I'm logging in one application and I'm going to cart how does that cart know who am I? So there is a bridge that will help you, to connect this context.
+
+00:35:22:19 - 00:35:45:55
+不明
+Well, this is where I give the mic to, Liz to wrap it up. I may have confused you with a few technologies or your deep ties, but, we will have more to talk on Q&A. Go ahead. All right, so now we know the technology. We, talked about some tools on how to get there, but now, reality check, it sounds like a lot.
+
+00:35:45:55 - 00:36:09:46
+不明
+And I want the technology, but where do we start. Right. So the options that we will have will be a full migration. So, get all of your 500 modules and then the Big bang, release that is, we've had some projects like that we wouldn't recommend to do that. There is no technical reason to do that.
+
+00:36:09:46 - 00:36:30:55
+不明
+So let's just be clear. If your business is pushing you because they gave you the budget and you have you want to have a team doing that. We will still not recommend it. But if the business team is pushing you to do that, there's that's one thing, but there's no technical reason for you to have a big bang migration to App Builder.
+
+00:36:30:55 - 00:36:58:58
+不明
+And this modernization, I think if you want, even if you want to move to the X or SaaS, I think there's still a way to do it without a lot of risk. With smaller, releases. And rather than everything at once shift. Right. So, this way we can have, we can test it live again. You can have your current technology, you can have your modules that you have, right now, and you can have our builder at the same time.
+
+00:36:58:58 - 00:37:22:44
+不明
+So that's the beauty of this modernization. So in terms of steps, I guess that's zero will be for those that have Adobe Cloud asked for a build it to be provisioned. You can play with it and decide what to do from there. But in terms of okay, I have and I'm keep saying 500 because one of my clients has 500 but 500 modules and so what do we do?
+
+00:37:22:44 - 00:37:46:42
+不明
+So if there's partners in the room, please don't just go to the to the module by module and then just do a like for like I think this is if they have a lot of modules, it means that there's years and years of valuable customizations that they put the effort in it, but it means that because it was a lot of years ago, there's time to do a check with the business requirements.
+
+00:37:46:57 - 00:38:05:55
+不明
+So always start with a feature matrix. So we call the feature matrix because it's it's basically the list of all the features that Adobe Commerce has. And then plus the customizations that you will need. And that way you map first your requirements to the features like we currently have. And then you find the ones that needs to be need to be customized.
+
+00:38:06:00 - 00:38:27:07
+不明
+And then you do need to map them to the inventory that you have on your current customizations. Actually, I'll touch that later, but then you need to prioritize them and then we'll go into development and then how we will release that. So let's go step by step. So like I said you you create your feature matrix with your business requirements.
+
+00:38:27:12 - 00:38:46:58
+不明
+You tag the ones that are more valuable for the business, the ones that work for you, the ones that have big impact. And then you map those requirements to the, the inventory of your current customizations. I'll tell you why you need that, in step three. But then you map those customizations also by functional area.
+
+00:38:46:58 - 00:39:07:46
+不明
+That way you can find the dependencies. So if you're going to release something that is going to touch your, PDP, then you know which modules touch the PDP and you understand the the complexity and the dependencies of of everything. So that's your first step, planning and design. And then you move into the prioritization so you can do it different ways.
+
+00:39:07:55 - 00:39:28:58
+不明
+If you're code is perfect and you want to go into, a dysfunctional way, then like you said, you can start with content, then check out later and stuff like that. Each delivery service, it's very easy to move just your content first, and then you focus on where the drop ins are and stuff like that's a you could prioritize that way.
+
+00:39:29:13 - 00:39:52:10
+不明
+Every business is different. So depending on how you want to do it now, since we know that a lot of customers have upgrade pain points again, maybe now you may be the ones that didn't get to this room, but does your what are the dependencies to get the the complexities that are, limiting you to go to the next version.
+
+00:39:52:10 - 00:40:12:03
+不明
+So maybe start with that. If you have performance issues, if you have dependencies, the word rate indexing happening a lot of a lot of as a problem. So identify where do you want to start. And so see that as a as an impact and value in every release. Now we are not asking you to to stop your your business.
+
+00:40:12:03 - 00:40:36:00
+不明
+So then also prioritization on your current flow or your current development will be to start using AMP builder. So every new requirements like that that you get try and start to move it to to App builder. So that's a way to see it. Also finding the quick wins right. So we have integration starter kit. So all your integrations maybe you can start with your integrations as well.
+
+00:40:36:12 - 00:40:59:02
+不明
+Maybe you can start with one, see how it works and and stuff like that. So prioritize it depending on your technical dead on your limitation to innovation. And again, every business is different. So you can prioritize. So we don't really have a prescriptive way to to prioritize. But obviously if there is even an upgrade that coming that you really behind, then prioritize that.
+
+00:40:59:02 - 00:41:21:22
+不明
+And, and using the tools will be a way to go. Now, now that you are in development again, use the tools available with the Luma Bridge. It is just for a phased approach. We still want you to, at the end of the day, as a no start to completely move to. If you are considering edge delivery services for Ax, you don't.
+
+00:41:21:27 - 00:41:45:48
+不明
+So just to clarify, you don't require each delivery services or commerce storefront powered by each delivery service because marketing might be in the room. But, you don't require to to have IT delivery services. So ax supports any headless so any, any head that you have is supporting ax. So again the luma bridge is just a tool for you to get faster there.
+
+00:41:45:48 - 00:42:08:36
+不明
+So kind of to accelerate. But it doesn't mean that you have to use it. And it's just something that is available. The integration, the checkout and all of the starter kits that the product team will be releasing. Obviously, it's an accelerator for you to get faster to this, this model. And then something important to understand is that not every module means an app, right?
+
+00:42:08:36 - 00:42:33:55
+不明
+So if you have 500 modules, that doesn't mean you're going to have 500 apps. And that is why it is very important to have a, list of your current modules in your inventory, because at the end of the day, even though once you are an app builder, then the releases are separate. But when you're starting in the modernization, there's a step where you're releasing an app that you have the module as well.
+
+00:42:33:55 - 00:42:51:12
+不明
+So you have to if you don't really have a way to just turn it off, then consider in development that you created the app and then you have to detach, the, the module that you have and stuff like that. So there are and obviously in our builder it will be once you're in a builder then it will be easier.
+
+00:42:51:12 - 00:43:19:59
+不明
+But for modernization, consider that you don't want to have duplication in production to have any issues. And then how do we release that? So again you prioritize, find value. In every release we have some examples. And I added the word example in every step. So you remember that is just an example. So we are not being prescriptive on how or which apps you start with.
+
+00:43:20:04 - 00:43:44:28
+不明
+So some of the things that we've heard with of customers are like okay let's let's do edge delivery service first. We have the example that is in my head for edge delivery. They do have 500 modules, but 100 of them or plus 100 and something are dependent on the their for the front end. So sorting or things that they create a module for the front end.
+
+00:43:44:33 - 00:44:07:03
+不明
+Therefore if they move to edge delivery service first, then out of the 500 modules that they have only 400 to migrate to app Builder. So that's why they decided to go with edge delivery service first, because they have a lot of modules that are, for the front end. Then there's a lot of customers that are like, I don't know your technology, I don't know our builder, so I don't know what that is.
+
+00:44:07:03 - 00:44:26:24
+不明
+And maybe it's not going to work for me. It's not. So you can test it. So as for provisioning, you can just deploy one app one functionality capability and you can test it. So that could be a release. So anything that can give you value that will be the way to prioritize your releases. You can release it with your schedule.
+
+00:44:26:24 - 00:44:59:21
+不明
+Again like in any with the hybrid approach, because we want to be really clear that we're not forcing you to go to App Builder, but it also works with your current module. So you can do PHP and AB builder at the same time in the pass environment. Obviously, at the end of the day, if you do want to move to Ax, a.k.a. the SAS platform, then you do have to migrate all of your you have to be headless, and you need to migrate all of your PHP modules to App Builder.
+
+00:44:59:25 - 00:45:33:36
+不明
+And with that those are the steps. So just to summarize. So our builder is the way to reduce your tech dead have better and faster innovation with out of the process. Out of process applications. And then consider a phased approach breast layer that less risks. You can have multiple deployments and consider we have tools available. A product team is committed to, create accelerators for you to to go into this modernization.
+
+00:45:33:41 - 00:45:59:42
+不明
+And of course the X lady. So we're here to help. So if you want to know, I do have performance issues, but I don't know which modules are giving me performance issues. Then we're here to help. So we are professional services. We have health checks that can help you prioritize which are the modules that have, performance issues, or if you have upgrade issues on compatibility and things like that.
+
+00:45:59:42 - 00:46:26:38
+不明
+So we are here to help. We also have technical advisory. So for partners here we can help the partners or customers I have partners we can help as well. You're not trying to compete with, partners. Yeah. Just to clarify, if these are all all of these things are new to most commerce folks. And if you need any architecture led wise, even if you have, your in-house development team or your partner working with you, what, you want someone to take a closer look from Adobe?
+
+00:46:26:38 - 00:46:43:24
+不明
+We can do that. We are working, with some you know, I see some of my clients here. We are working with them and they have their partners, but we just help them to map their journey. Yeah, we have we have no capacity to do. Everyone that wants to modernize. So of course we just want every customer to be successful.
+
+00:46:43:37 - 00:47:07:49
+不明
+So this is the best time to partner with partner. So if you're a partner we're open to help you. So we just want the customers to have a successful modernization picture of this one I know is not clickable. But if you want there's some resources available. You have the App Marketplace link. It's it's the hardest one to find, to be honest, because most of the time when you see all the commerce extensions, you go to the existing one.
+
+00:47:07:49 - 00:47:22:06
+不明
+But this is where you have the ability applications. So definitely take a picture of it, but we will share the slides later. I will send us an email. We'll send it to you. Thank you everyone for attending. Thank you very much for.
+

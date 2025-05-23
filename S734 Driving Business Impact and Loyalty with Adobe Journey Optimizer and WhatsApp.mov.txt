@@ -1,0 +1,432 @@
+00:00:01:39 - 00:00:24:15
+不明
+I want to just take a moment and say thank you for everyone. Thanks for having us here with Adobe. My name is Marco. We're singer. I'm here on behalf of meta. And we're really here to talk about business messaging and Journey optimizer. Adobe Journey Optimizer is a phenomenal product. I think many of you are using it already.
+
+00:00:24:20 - 00:00:43:50
+不明
+We're here to talk about that integration. A little bit about our agenda today. We're gonna talk a little bit about the customer experience today. Talk about the value of WhatsApp in the customer journey. And I'm joined here with Travis Jordan as well to. Yeah. It's good to be with you today. My name is Travis on the Adobe product team.
+
+00:00:43:55 - 00:01:03:06
+不明
+I'm going to talk a little bit about the integration between WhatsApp and Journey Optimizer. And I'll take a minute to even give you a preview and walk through that end to end. So excited to share with you, some exciting, things, in the future. Yeah. Awesome.
+
+00:01:03:10 - 00:01:32:01
+不明
+So customer experience matters more now than ever. People expect companies to know them and anticipate their needs at every point in their customer journey and across every channel. But this is an easy to do this. Companies need a holistic view across many touchpoints to meet customers where they are with personalized experiences that meet their unique needs.
+
+00:01:32:06 - 00:02:09:49
+不明
+Customers expect today instant, real time and contextual interactions with brands they love. And when brands don't meet those expectations, they lose customers. Research shows that 80% of customers have have switched brands because of poor experiences. And that's not about just customer service. It's about how brands communicate across the entire customer journey. With over 2 billion users worldwide. WhatsApp is one of the most widely used messaging platforms, making it an ideal channel for businesses aiming to connect with a diverse and extensive audience.
+
+00:02:09:54 - 00:02:36:59
+不明
+WhatsApp provides a universal platform where businesses can engage with customers in real time, regardless of geographical boundaries. What makes WhatsApp unique is not that it's just a messaging app. It's a trusted, high engagement platform where brands can build real relationships with customers. It allows to strengthen customer relationships with personalized conversations that offer the intimacy of a phone call.
+
+00:02:37:13 - 00:03:13:03
+不明
+At the scale of email and want and SMS, ultimately driving business growth. These functionalities enable better, more personal customer service, which is crucial for businesses today. In fact, richer research shows that poor customer service can have significant impact on the company's bottom line. 3.1 million is at risk in global consumer spending due to poor customer service, representing 6.7% of company's total revenues.
+
+00:03:13:08 - 00:04:00:58
+不明
+Also. A Forrester Consulting study found that WhatsApp for business can yield a 265% return on investment over three years. Forrester also found that brands in their study using WhatsApp have seen a higher click through rates, more conversation, more conversions and an increase in average order value. In fact, marketing messages alone have boosted customer loyalty. By 60%. Beyond marketing, businesses that use WhatsApp for lead generation and customer engagement reported a 55% increase in lead to sales conversion rates, which shows how powerful this platform is had really driving real revenue impact.
+
+00:04:01:03 - 00:04:11:46
+不明
+Soon, businesses can bring these high engagement, high ROI experiences into their existing Adobe flows at scale.
+
+00:04:11:51 - 00:04:43:59
+不明
+Here's an example of how Benefit Cosmetics leverages WhatsApp for businesses to create a communications channel that supports service for appointment scheduling, leading to an increase in bookings and sales. Here, the business outcome was to increase sales benefit leverage several entry points, such as the benefit website and an ads that click to WhatsApp campaign and in-store displays with QR codes linking directly to the chat bot in WhatsApp.
+
+00:04:44:04 - 00:05:03:34
+不明
+The in experience consisted of an interactive bot that allowed customers to book and modify appointments, review FAQs, and explore products and services. The conversion point was a successful in-store appointment booking through WhatsApp.
+
+00:05:03:39 - 00:05:42:34
+不明
+Chat. Is there a video? Okay. This is an example with a very different outcome. To drive awareness of lock to, Mondelez created a WhatsApp based experience to encourage their audience to create year end retrospectives. Participants answered questions and uploaded pictures and videos which resulted in engaging, personalized videos. The business outcome was to increase sales via brand awareness. Entry points included influencer content and ads that click to WhatsApp and drove customers into messaging threads, with the luck to brand.
+
+00:05:42:39 - 00:06:07:32
+不明
+Once there, the in thread experience directed customers to a WhatsApp chat bot, prompting them to upload pictures and videos, answer questions and choose a selection of emojis and hashtags. The conversion point was receiving a personalized year in review video that was ideal for sharing on reels or with family and friends.
+
+00:06:07:37 - 00:06:36:52
+不明
+For example, if a customer engages with an online ad but doesn't complete a purchase, Adobe Journey Optimizer can automatically trigger a personalized follow up message customized with quick choice menus, increasing the likelihood of conversion. AI powered automation allows brands to engage at scale, maximize every touchpoint in the customer life cycle, whether it's in onboarding, retention, or post-purchase engagement.
+
+00:06:36:57 - 00:06:54:16
+不明
+All right. Let me bring up Travis here whether to over you journey Optimizer. That was a really smooth transition. But I wanted to go ahead and make the introduction here. And we'll talk a little bit more about this product. Thank you Marco, I appreciate you taking a minute and walking us through the power and the value of WhatsApp.
+
+00:06:54:21 - 00:07:13:31
+不明
+As many of you, I'm sure, have already experienced, today. And and as Marco said, first of all, congratulations for being here. Am is early. In fact, I don't think I would be here where I'm not a presenter. So Marco said, you know, you've got to come your presenter. So he convinced me to be here. Anyway, so thank you.
+
+00:07:13:31 - 00:07:43:41
+不明
+And it's good to be here at summit. We have some very big news to share with you today regarding WhatsApp and Journey Optimizer. Imagine, if you will, reaching your customers on the largest messaging platform in the world and delivering that seamlessly, intelligently and at scale. Right? And that's exactly what we are aiming to deliver. With the integration between WhatsApp and Adobe Journey Optimizer.
+
+00:07:43:46 - 00:08:17:06
+不明
+But you know what, Marco? Instead of just talking about it, let's wake everyone up. And let's start out with, with a little video that shows a preview of what we're going to talk about. Awesome. Okay.
+
+00:08:17:11 - 00:08:30:12
+不明
+Oh.
+
+00:08:30:17 - 00:08:43:21
+不明
+Oh.
+
+00:08:43:26 - 00:08:53:28
+不明
+All right. Pretty cool, Super exciting. All right.
+
+00:08:53:32 - 00:09:12:27
+不明
+You know, before we dive into the integration. And I'll walk you through that end to end. Let me give you just a little bit of an overview of Adobe Journey Optimizer and step back, just for a minute. How many of you today are using Adobe Journey Optimizer or are very familiar with it? If you could raise your hands.
+
+00:09:12:32 - 00:09:42:47
+不明
+Okay, so about half the audience. Perfect. So I'll walk through this just just briefly. Adobe Journey Optimizer is a fantastic product. It helps brands deliver hyper personalized, cohesive interactions to every customer. That means real time, intelligent engagement across any app, screen, and channel. So whether it's mobile, web, and email and now WhatsApp businesses can orchestrate seamless experiences at scale.
+
+00:09:42:52 - 00:10:00:31
+不明
+Okay, so I'm going to take just a minute. Let's walk through some of the key feature sets. And once again, this really is a fantastic product. If you didn't have a chance to visit, some of the sessions yesterday, I personally sat through and I thought, wow, this is an amazing product to be a part of. So I'll walk you through just a few of the core features.
+
+00:10:00:36 - 00:10:26:38
+不明
+First of all, Journey Optimizer provides a unified customer profile built into the platform, so profiles and audiences are the foundation of journey orchestration. This is a part of what enables you to know your customer and create personalized, data driven experiences unique to them. Secondly, we have omnichannel engagement. Brands can connect with their customers through a variety of channels, right.
+
+00:10:26:38 - 00:10:59:47
+不明
+So this includes email. This includes SMEs, IMS, in-app, both web and mobile, direct mail, web, iOS, live activities, just to name a few. And now WhatsApp. This ensures you have plenty of options to connect with your customers where they are. Next Adobe Journey optimizers. Adobe Journey Optimizer has a fantastic content authoring and, authoring and design tool, so it's built in with drag and drop capabilities and also an asset repository.
+
+00:11:00:01 - 00:11:30:04
+不明
+So this enables marketers to easily author, edit and activate content across all these channels, all from a single platform. Next is the journey orchestration. This is the real power. So this brings together real time journey orchestration, allowing brands to automate and adapt their their journeys based on customer behaviors. Contextualize changes or events. And lastly, one of the things we're working on among many things, is intelligent optimization.
+
+00:11:30:09 - 00:11:58:13
+不明
+So we have fantastic intelligent optimization features today, and you'll see even more in the future. So marketers can no longer no longer have to rely on guesswork when engaging with customers. We bring together intelligent optimization and decisioning to the forefront, helping brands to identify the best content, the best offers, and engagement strategies at scale. And that's one of the things I'll preview in the demo, is how we're able to deliver with a real offer.
+
+00:11:58:18 - 00:12:02:48
+不明
+App with WhatsApp, real time.
+
+00:12:02:52 - 00:12:27:28
+不明
+And you can see here there's kind of two, two core experiences within Journey Optimizer. First is, first are campaigns and second are journeys. Right? So campaigns are kind of that traditional brand driven experience. That's a batch and blast to a lot of different customers. So regardless of channel you can deliver your message via campaigns. That's that's important for customers.
+
+00:12:27:28 - 00:12:51:51
+不明
+But we've obviously moved well beyond that now. Right. So we also want to deliver, engagements and experiences that are, interaction oriented. And they're focused on that life cycle. These are one on one. And these are personalized to that individual. So this is where we see great power, with Journey Optimizer.
+
+00:12:51:55 - 00:12:58:36
+不明
+All right. I'm going to come down here and just walk you through a demo.
+
+00:12:58:40 - 00:13:11:24
+不明
+Before I do this, I want to bring up Nikhil Sharma just for a minute. All right. Yeah. Give it up now. Come on up here Nicole. Come on up here.
+
+00:13:11:29 - 00:13:33:14
+不明
+So Nicole is our lead engineer. Director over engineering with this product. And he's done a fantastic job. He and his team of building and creating exactly what I'm going to show you today. So I don't want you to mistake the Marco or I built any of what we're going to show you. Okay. So yeah. Thank you Nicole.
+
+00:13:33:14 - 00:13:40:07
+不明
+Appreciate it.
+
+00:13:40:12 - 00:14:07:25
+不明
+So I showed you a video previously, right? And the video walked through a fictional brand called Luma Cruise and travel. And so imagine, if you will, this brand would like to. And what I'm going to show you here is kind of how we built that experience and journey optimizer. So you saw kind of the experience, the guy sitting behind the computer, you saw the marketer are building those interactions, and then you saw the individual receive that WhatsApp message.
+
+00:14:07:26 - 00:14:35:21
+不明
+So I'm going to walk you through exactly how that happens. An Adobe Journey Optimizer. And so to set the stage, this is a fictitious customer. And they would like to utilize, journey optimizers journeys to deliver, a campaign at scale. Right. So and they want to deliver a message to WhatsApp. Right. And, and then they want to fall back to maybe an email message for those customers that didn't read that so they could fall back to email.
+
+00:14:35:22 - 00:15:00:11
+不明
+So I'll walk through how we did that. And specifically they want to deliver an offer. Okay. The first thing that a customer would do is configure credentials. And by the way, the first two steps I'll show you are a one time shot. Something the customer does just wants to set this up. And configuring the connect credentials primarily starts with more of a technical persona that's familiar with the APIs, that's familiar with the connectivity.
+
+00:15:00:16 - 00:15:19:28
+不明
+But this enables us, at Adobe, enables you rather to connect with your account with Adobe, and also with your WhatsApp account, so that you have a seamless integration between the two. So there's a secure and an integration between Adobe and Meta.
+
+00:15:19:33 - 00:15:43:54
+不明
+So you'll see here first on the left hand menu this is Adobe Journey Optimizer. And if you scroll to the bottom you'll click a tab called channels. And under WhatsApp settings. Now you'll see there's a meta credentials link. And so now here's where you can set up your meta credentials. So now click on the top right create WhatsApp API credentials.
+
+00:15:43:59 - 00:16:08:04
+不明
+So from there I give it a name whatever I want to call it. And then I add the API token and also add the business account ID. So from there once I add the business account id it's going to pull in automatically your WhatsApp business account or your Waba. All right. So now you can see if you, if you do the drop down automatically, all of your WhatsApp business accounts would appear here.
+
+00:16:08:09 - 00:16:28:04
+不明
+So I'm going to go and select my Luma WhatsApp account. And then from there it's going to pull in all your phone numbers that are associated with that Waba. Right. So it's going to automatically know what your WhatsApp business account is. And also the phone numbers associated with that. Now I do want to highlight what you're seeing here is our very first iteration of this integration.
+
+00:16:28:04 - 00:16:47:55
+不明
+This is what we'll release with beta. We are working with meta as we speak to provide an even more even, a greater seamless and automated experience, through their APIs and connectivity. So next. So now I see the metadata that comes with that. So you can see all that and I submit it now my credentials are set up.
+
+00:16:48:00 - 00:17:09:41
+不明
+Now move on to set up a channel. So within Adobe Journey Optimize you have a feature called Channel Configurations that stores all of your technical configurations that give that channel meaning once again sometimes performed by technical persona. So here I just simply select my WhatsApp channel. You can see here WhatsApp is now there along with let me go back to that.
+
+00:17:09:41 - 00:17:38:13
+不明
+This is pretty impressive right. So these are all the channels I talked about code based content cards, direct mail, email and app messaging, push SMS, web line and now WhatsApp. So I select that and now you can see here I reference my WhatsApp configuration. The the step one. So now I'm linking my channel configuration with my WhatsApp configuration.
+
+00:17:38:18 - 00:18:00:51
+不明
+And boom there it is. And then I'm going to enter that phone number once more and click submit okay. So both of these two steps are kind of a one time configuration type of step oftentimes performed by the by the technical persona. Now I'll move on to the fun part. Moving on to the marketer persona and what they do with the Journey Optimizer to set this up.
+
+00:18:00:55 - 00:18:20:11
+不明
+As was mentioned previously, you have kind of two experiences. You can set up a campaign batch and blast, or you can set up an interactive 1 to 1 journey based experience that delivers real time interactions, to the customer, to the one or a group of individuals. So I'm going to walk through the latter, which is creating the journey.
+
+00:18:20:20 - 00:18:42:18
+不明
+Okay. So you can do campaigns, but I'm going to walk through how to do this with the journey. First of all, let's go ahead and create the journey. You can see on the left rel I've click journeys now click Create Journey from there. I have a I'm going to go and give it a name pre Cruz promotions.
+
+00:18:42:23 - 00:19:06:33
+不明
+Now from here you can see I have a series of events I can select from. In this situation. I want to start with my audience right. So you can create a set of audiences that are that are meaningful to you. And so I'm going to go ahead and select an audience that I've already created. And so to do that, I'm going to drag and drop this audience qualification event onto the canvas.
+
+00:19:06:37 - 00:19:25:19
+不明
+From there I can select my audience. I've given a, can you imagine which one we picked? Who thinks they know which, audience I'm going to pick which one looks right for Cruz. Yeah. So we're going on a for Cruz, which is the best. Is that the best time to do it? Probably summer. Right. Yeah. All right.
+
+00:19:25:19 - 00:19:46:21
+不明
+So far Cruz. All right. So now I have my audience set up from here. So know how I want to deliver this to from here. Now if I click the actions right, you see on the left roll that menu called actions. Now I see all the channels I can orchestrate and I can do this in a different order.
+
+00:19:46:21 - 00:20:04:28
+不明
+I can sequence them as I want. So remember in this case I want to start with WhatsApp. I want to get this message to my preferred channel to as many people as possible. Okay. So I'm going to go ahead and select WhatsApp from the left route and drag that onto the stage. And by the way, I'm going to come back and configure this.
+
+00:20:04:28 - 00:20:19:43
+不明
+I'll show you how to edit it and everything else. But first I'm going to kind of set the stage for the journey and set the flow. And then I'm going to come back to WhatsApp and add the content. Okay. I'll show you how that integrates with meta. So if you remember next we got to create a condition right.
+
+00:20:19:48 - 00:20:36:13
+不明
+So we want a condition that says okay if they don't open the WhatsApp message, let's fall back to maybe a less popular channel like an email in this case. So I'm going to add a condition to and those expressions are now added.
+
+00:20:36:18 - 00:20:50:55
+不明
+And you can see here that now I have two paths now WhatsApp opened and delivered or WhatsApp not delivered. So now I can go to my left route and I can go ahead and I can select.
+
+00:20:51:00 - 00:21:14:28
+不明
+The email channel. Right. And once again I'm not going to configure email, but you could configure that and set it up. But let's now go back to WhatsApp okay. So now I have remember in my channel I have and this is a very basic journey. Right. So this is your audience qualification. I have a condition. I'm going to send your WhatsApp message now fallback to email.
+
+00:21:14:33 - 00:21:34:46
+不明
+So my WhatsApp. And now this is where I can kind of decide what I want it to look like and what I want that experience to be. Let's go ahead and give it a label. And then this is where you combine your journey with the steps that I showed previously. So you here see here you're you're selecting the configuration which was step two.
+
+00:21:34:51 - 00:21:58:57
+不明
+So now I select if you remember that was called the Luma WhatsApp channel config. And now select that. And so that links the channel to all those credentials, all those things that we set up previously. Now the journey of those credentials are now set up. Okay. Where are we going to click now if we want to edit the content.
+
+00:21:59:02 - 00:22:20:35
+不明
+Where are we going to click if we want to add a content edit content. All right. Thank you. Sure. Everyone is still awake. Still with me. All right. Edit content. You guys get a bonus point. All right. Excellent. So now we're going to click Edit Content. And this is where we personalize preview and publish that message. Let's click Edit Content.
+
+00:22:20:40 - 00:22:44:40
+不明
+Beautiful display. Isn't that nice what Nicole and his team built right. So here I have two types of messages. I have a template based message which is business initiated. And then response messages is what those customers respond back to. Today we're going to focus on the first piece which is template messages. So we're going to select template message.
+
+00:22:44:45 - 00:23:09:23
+不明
+Now what you're going to see is a full integration with meta templates. How many are familiar with metas templates. Meta WhatsApp templates raise your hand. Yeah not a lot okay. So meta has on their system within their meta business manager. You can create business templates. Right. So that's where you author your template. And then you are able to create it.
+
+00:23:09:23 - 00:23:31:50
+不明
+You add your buttons, you add your media, you add your content and all that is created and generated within meta. So what we do is once you make that connection, you can simply select your category. And this is coming from meta directly. And then we can select our template. So what we're doing within Journey Optimizer is we're reading all the templates that you have approved.
+
+00:23:31:55 - 00:23:49:55
+不明
+So matter when you create a template there's a short window where a template needs to be approved. What does that window. Anywhere from 2 to 24 hours. Exactly. Yeah, exactly. Okay. So it takes just a little bit of time for them to review and approve that to ensure that. Tell us a little bit why it's reviewed and approved.
+
+00:23:49:55 - 00:24:10:07
+不明
+Yeah, absolutely. So you know, if you think about templates it's it's the idea, you know, as, as Travis was sharing, you know, that you essentially have to get that message out. Right. And it can be and you've seen this probably a lot in emails. You know, thanks for reaching. You know, thanks for buying something. You know, contact name, you know, first name, last name, order number, etc..
+
+00:24:10:12 - 00:24:27:19
+不明
+And so we have the same concept as well. Two on meta side as well. And so in order to make sure that we, we provide the best experience to consumers, that they get the right message. We review that type of template. So we know, you know, is that going to be the best type of template that consumers are expecting to receive as well too?
+
+00:24:27:32 - 00:24:43:58
+不明
+We're just making sure that the quality of that is extremely high as well too. And so we do a very quick process of actually reviewing those actually, you know, in some of the worst cases, I think we're like 24 hours, but most cases we're actually done in minutes as well too. And so you actually set up your templates, get that, reviewed and approved.
+
+00:24:43:58 - 00:25:06:49
+不明
+And then once you're approved on it, you're good to go send out your campaign. Perfect. Thank you Marco. Appreciate it. So here I'm going to go ahead and select the pre-approved template that I created. And that is called pre Cruz deal. And voila take a look. So here's what's happened. Now what I've done is I'm rendering all of that message that I've created in meta.
+
+00:25:06:52 - 00:25:29:51
+不明
+And I'm able to see it and get a preview of that template or message. Right. And then I can see all of the different elements of that WhatsApp message. So in here, for example, I can see my header has been brought in. I can see my body content's been brought in. So one of the things that's important is the content itself needs to be edited inside of meta because once again, if I edit that, it needs to go through a review cycle.
+
+00:25:29:51 - 00:25:52:41
+不明
+So we're rendering the pieces that are not editable here. But then, you can edit that in the meta template. And we talked with customers. We said do you want to add in here. They said, no, we're used to editing and creating in the WhatsApp template library. So our intent is to leverage and render that. But then also most importantly, what I'm going to show you is to preview and personalize this message.
+
+00:25:52:46 - 00:26:11:43
+不明
+So within that template you can see I've added two variables right. So these are personalization variables I can enter a variable for those. But the power now is I can enter if you see the. If you see here I can click this icon to the right of the one. I think I actually have a pointer here. There we go.
+
+00:26:11:56 - 00:26:34:22
+不明
+So right here I can now go to our personalization editor. And I mentioned previously how we have a full personalization editor make this experience matter to the customer. And by the way this I'm not demoing the personalization editor. So what you're going to see is a very abbreviated version of that. So if you look at that and go, wait a minute, I had a couple more steps, there are a couple more steps.
+
+00:26:34:22 - 00:26:59:22
+不明
+But for for simplicity's purposes, we're focusing on the WhatsApp. So you add your elements here. And so once again in this case I wanted to to address them by their first name. So within the profile I'll select the this variable profile that person's named first name okay. And now it injects that if you see now here now it injects that variable right here.
+
+00:26:59:27 - 00:27:21:33
+不明
+Under one. Okay. And then you see on the left, it was also updated on the preview. So now I want to add offers. Offers give you the ability to provide in real time the best offer for that individual customer. And in this case I'm going to. So if you look at number two this is where we're going to add the offer capability.
+
+00:27:21:37 - 00:27:41:40
+不明
+So I go and click that and I and once again this piece is you know just showing a couple of the steps. It's simplified. But in this case I have two different offers for the customer. Number one, a free cruise offer, dinner upgrade, and number two, a room upgrade. Which one would you take, by the way, who who prefers the who would prefer a dinner upgrade?
+
+00:27:41:45 - 00:28:02:44
+不明
+By the prime rib. Raise your hand. Okay, maybe it's a little early for prime rib. If I were doing this at 11, everyone probably raise your hand. What about the, room upgrade? Who would prefer the room upgrade? There you go. So we'll go with the room. And now I can inject that piece of code here.
+
+00:28:02:49 - 00:28:07:27
+不明
+And now I have. Oops.
+
+00:28:07:31 - 00:28:35:10
+不明
+Now I have. If you look at variable number two I have that offer message. So now it'll deliver for that individual, with a set of data and a set of parameters for that, specific offer, we can now target that, offer to them. So now I can go to preview. So and simulate this content up in the top right you can see a simulate content and I can simulate content for a specific test profile.
+
+00:28:35:15 - 00:28:55:16
+不明
+In this case that's me. And in this case it knows through some data that I love prime bread dinner package. So I'm going to my message. You can see here it says hi Travis as my first name. And then I can see that I've received the prime rib dinner package.
+
+00:28:55:21 - 00:29:14:21
+不明
+So now our message is ready. Okay. So from here, our journey set up, our audience is set up. I now have personalization in place. I now have offers in place. I'm ready to publish my journey. And once I do that, it's real time as audience to start to qualify for those. We start to deliver those messages to them.
+
+00:29:14:25 - 00:29:31:27
+不明
+So now I simply click publish and boom, my journey is now live. And that wraps up our demo, for this particular feature. So thank you. So.
+
+00:29:31:31 - 00:29:58:09
+不明
+By the way, once this is published, you can also access delivery reports and see all the data that comes in. So you have all that available to you to determine campaign effectiveness. Who opened there, who looked at the, how many messages were delivered to WhatsApp, how many messages were delivered to email. So you can see some of those deliverability types of metrics, in, in Journey Optimizer as well.
+
+00:29:58:13 - 00:30:27:16
+不明
+Okay. As a product manager, one of the great things, one of the wonderful opportunities we have is to interview and to meet and learn from our customers. And, as a part of this product, we've had an opportunity to meet with, dozens of customers and to get their feedback. One of those customers is Santander. Do we have anyone from Santander here today?
+
+00:30:27:21 - 00:30:32:12
+不明
+There were four. The registered.
+
+00:30:32:16 - 00:31:01:28
+不明
+We were there at the same time earlier or later. So we. That's right. So they, they've allowed us to share this slide with you today. Kind of, sharing their use case. So there's a lot of different use cases we have. And we saw a lot of use cases that were focused on marketing type messages. And then we also saw, several use cases where it was focused on, utility or transactional type messages.
+
+00:31:01:33 - 00:31:32:30
+不明
+So for Santander Brazil specifically, they want to focus on delivering a, a transactional type message. Right? So in this case, what they're wanting to do is send, a follow up message to their customers. To, Yeah. Send a, email, not an email, but send a follow up WhatsApp message to their customer and, transactional and then inviting them to click a link to, to get additional service.
+
+00:31:32:34 - 00:31:51:18
+不明
+And this was specifically targeted towards Brazil as well. Right. So oftentimes we meet with customers. Obviously they want to focus on specific regions. And we know WhatsApp is is most popular in Latin America and Europe and also, in India.
+
+00:31:51:23 - 00:32:11:40
+不明
+Okay. And summary this new native channel integrates and enables the following number one simple setup integration. All right. So you saw that end to end once again steps one and two I do once. And then you saw the journey setup I did it pretty slow. I was going through it very slowly and there's a couple times where the clicker didn't work.
+
+00:32:11:40 - 00:32:32:36
+不明
+So I probably clicked, you know, double the amount of time to get this setup. Then you would. So you can see here the set ups pretty quick and seamless. All right. So that's one of the major advantages of this integration. Number two is increased reach. The more and more I work with with meta and their team, the more I'm astounded by the reach of this channel.
+
+00:32:32:42 - 00:32:58:17
+不明
+Right. 2 million active customers. Is that right? Yeah. Two, 2 billion daily users making sure WhatsApp making sure your way. If it were 2 billion, we wouldn't be here today. So 2 billion. So thank you. 2 billion customers. Right. What a wonderful reach. And then next streamlined workflows. You had an opportunity to see this in action with Journey Optimizer.
+
+00:32:58:17 - 00:33:22:14
+不明
+So integrating that within an omnichannel environment brings this channel even more to life. The next is built in trust and security. All right. How many of you receive for example an SMS message as an example or maybe an email and you're not sure who exactly sent it, if it's spam or if it's really from them, raise your hand.
+
+00:33:22:19 - 00:33:40:40
+不明
+I got one from my wife as I'm coming in, which was really weird. No, not not. I knew this from her, but she got a message from the Venetian hotels and it said, welcome to your hotel for checking in. And she says, is this legit? And I think I'm always saying this is, is this a legit, message?
+
+00:33:40:45 - 00:34:00:58
+不明
+I'm like, I don't know, maybe. And I don't know why they sent it to you rather than because my wife's not here. So she somehow she sent it to her phone number. So, anyway, I wasn't sure if that was the Venetian hotels. So with WhatsApp, does anyone know the difference with WhatsApp? The power you can have from trusted security to WhatsApp.
+
+00:34:01:03 - 00:34:28:58
+不明
+Yeah. It's encrypted. Yes, there is end encryption with it as well, which is a huge part of security. You're spot on. And addition to that you also have your your your business identity and verification. Correct. So I can see as you saw on the demo, I can see a logo of that company. I can see a verification to ensure that really is from the company, that I think it is so built in trusted and security through the security of the Adobe platform, through the end to end encryption.
+
+00:34:28:58 - 00:34:55:32
+不明
+That's within WhatsApp. And also just, verify business and accounts, that prevent spam filtering. All those are really important as it relates to built in trust and security. Lastly, maximize campaign impact, right. So one of the advantages of WhatsApp is the high engagement rate. Right? So we know that, WhatsApp has one of the highest engagement rates.
+
+00:34:55:37 - 00:35:15:29
+不明
+I want to say it's 42% or something. 40 something percent. Is that am I even we it's a higher number. We can share the specifics, but, but but I will say about 40. It's higher. Okay. So so the engagement rate is high. I put Mark on the spot. I've done it a couple of times for this presentation.
+
+00:35:15:34 - 00:35:35:28
+不明
+I love it. You want to talk about the engagement just briefly. I mean, you know, just to build on your story and thanks, Travis, on this. One of the things that, you know, when we think about that presence online for every company, you know, as Travis mentioned, you have a established business presence. It's your company logo, it's your company name.
+
+00:35:35:33 - 00:36:01:18
+不明
+And as a result of that feature and and the engagement on the platform, we literally have, you know, I think the number that we share it out there. Right. It's it's a billion conversations between consumers and businesses. It's that scale. And it's comes down to, frankly, trust and reliability and simplicity. And so all of this ends up actually yielding a very high level of engagement around your messages.
+
+00:36:01:22 - 00:36:19:21
+不明
+The open rates, how people open it, how they read it, how they click through it, or actually bar nine, like at the highest that you're going to see actually across any type of channel on the space. So we definitely encourage businesses to play and participate in this because they are going to see a huge level of ROI, an impact of using this.
+
+00:36:19:28 - 00:36:23:21
+不明
+Thank you. Appreciate it. Thank you.
+
+00:36:23:25 - 00:36:43:15
+不明
+And once again, all the channels are fantastic. I am channel agnostic. But at this presentation today we are talking about WhatsApp. But every channel obviously has its own pros and its own cons right. So I'm grateful that we had an opportunity to kind of highlight some of the pros of of WhatsApp. That was for Mike back there, who's the channel manager.
+
+00:36:43:15 - 00:37:17:21
+不明
+And you know, he he needs to know I love all the channels equally. But tonight my friend today it's about WhatsApp okay. All right. So WhatsApp high and Gator rates as was mentioned by Marco along with the trusted communication framework is what makes this powerful a powerful addition to Adobe Journey Optimizer. This new channel and integration allows brands to deliver personalized, intelligent, omnichannel conversations that drive customer loyalty.
+
+00:37:17:25 - 00:37:27:20
+不明
+And with that in mind, this is my favorite deck. I'm a product manager. This is what we love to do. We're going to talk about what's coming and what's next.
+
+00:37:27:25 - 00:37:39:40
+不明
+All right. We're excited to announce that we will be releasing, limited beta this month for WhatsApp. Who are.
+
+00:37:39:45 - 00:37:57:04
+不明
+So if you're interested, go ahead and scan this QR code. We do have limited availability, at this point, but if you are interested, please scan that and we'll see if we can slide you in the beta once again. That will be launching at the end of this month or the first part of April. So we're excited for that.
+
+00:37:57:09 - 00:38:18:30
+不明
+Number two, this will be generally available by the middle of this year for all Journey Optimizer customers. So we'll move very fast, very quickly from a beta to a GA release, and that will be available to you by the middle of the year. Once again, Nicole knows about these dates we reviewed. This is good with him, right?
+
+00:38:18:37 - 00:38:38:19
+不明
+Raise your hand. He's good with them. Right? To kill. Okay, so, we are working hard. In fact, I mean, literally, the kill last night, he comes to me this morning. He's like, I was up last night working with a team. I mean, their team is working around the clock to get this delivered for you. And doing great work.
+
+00:38:38:24 - 00:38:58:06
+不明
+So thank you. And then in the meantime, as you await that JIRA release and sign up for beta, we invite you to go ahead and drop by the booth. That is number 351. Is that right? Yep. And so you can get more information at the booth here summit. And also reach out to your Adobe representative or your meta representative.
+
+00:38:58:06 - 00:39:06:52
+不明
+We can help you get up and going. So thank you for your time today and we appreciate you and fill out our survey if we did a good job. Thank you. Awesome.
+

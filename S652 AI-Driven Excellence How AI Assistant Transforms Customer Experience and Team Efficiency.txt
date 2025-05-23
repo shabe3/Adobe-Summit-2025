@@ -1,0 +1,416 @@
+00:00:00:12 - 00:00:40:57
+不明
+So welcome to session S6 five two on AI Driven Excellence. Today we'll show you how I assistant in Adobe Experience platform can serve as your productivity companion. And my name is Rachel Hennessy and I'm the lead product manager back at Adobe for AI Assistant in Adobe Experience Platform. And for the last three years or so, I've been working with the team to build a natural language chat interface that sits on top of Adobe Experience platform and its native applications like real time customer data platform, Adobe Journey Analytics and Customer Journey Analytics and Work Front.
+
+00:00:41:02 - 00:01:02:21
+不明
+And our vision for AI assistant is really to be your productivity companion. So to help you learn about the applications and how they work to help you troubleshoot, if you run into any issues to help you search for things so you know you need to find data and objects. And so that's what we're going to show you today.
+
+00:01:02:25 - 00:01:29:15
+不明
+And with me, I have the talented Rachel Anderson from triple A northeast. Hi everyone. I am also Rachel. My name is Rachel Anderson, and at Triple Northeast. My job is to make our omnichannel as efficient and as easy to use as possible. Since 2023, we've been using the Adobe Experience platform and the Adobe Journey Optimizer to craft personalized experiences for our members.
+
+00:01:29:20 - 00:01:52:59
+不明
+We'll utilize any tool that we can to optimize over our daily day to day tasks and get some time back. So while my official title is UI UX specialist, I consider myself a Jack of all trades master of none, which makes the AI assistant perfect for me. I'm able to save loads of my time on my workflows, and I'm excited to be here today and show you all how I do it.
+
+00:01:53:04 - 00:02:19:16
+不明
+Awesome! Thanks so much, Rachel. So here's a bird's eye view of the next 60 minutes. First, we'll give you an overview of what I assistant in Adobe Experience platform is. Second, Rachel will give some demos of how she and her team at Triple-A northeast have been using AI assistant. And then third, we'll show you some other capabilities that we just didn't have time to squeeze into the demo and give you a glimpse of what's coming next.
+
+00:02:19:21 - 00:02:39:11
+不明
+And then we also have some goals for you for the session. So if you want to know what would be you leaving this room successful, what are the things that you need to accomplish? The first is at the end of this session, you should be able to either you, yourself or someone you know. Help them. Use AI assistant to increase your productivity.
+
+00:02:39:16 - 00:02:57:40
+不明
+And the second one is a non-negotiable. We're going to have some fun in here today. So we have a bit of a game show format for you. So we want you to kind of let loose and get into it with us. We have a few prizes that we'll be giving throughout as well. So lean into it. Let's have some fun today.
+
+00:02:57:45 - 00:03:24:54
+不明
+Okay, so now that the housekeeping is done, how is everyone doing today? We just said we're going to have fun. Woo. All right so enjoying day one of summit. Hopefully you all attended some of the keynotes today. We're in some pretty exciting times. How we work is really evolving fast in front of us. We're seeing workflows change from, you know, traditional clicks to more conversations.
+
+00:03:24:59 - 00:03:56:21
+不明
+We're seeing really rigid experiences turn adaptive from really reactive experiences to more proactive insights being pushed towards us. So today is really all about taking a look at how AI Assistant and Adobe Experience platform will help you really ride that agenda. Wave into the future. So you may have heard in the mainstage keynote, the strategy keynote, other sessions, customer advisory boards, Adobe's agenda strategy.
+
+00:03:56:22 - 00:04:24:18
+不明
+So I want to share where this session fits into that larger picture. There are agents for practitioners in Adobe Experience Cloud. There are agents for brands consumers. So this morning we announced Brand concierge. And then there's agents for developers. This session is all about AI assistant, which is where the agents for practitioners surface through. If you are really jazzed up about this slide and want to dig more into the details.
+
+00:04:24:30 - 00:04:41:25
+不明
+We have an under the hood session, that my boss and my boss's boss are running tomorrow on this exact same stage at 8 a.m. in this room. It's called Under the Hood. So if you're interested in that, please come back for that one. So, yeah, I see some folks taking pictures of the slide. That is exactly what I would love you to do.
+
+00:04:41:27 - 00:05:07:14
+不明
+So perfect. And you can actually keep out those phones because we're going to do a quick pulse check to see who we have in the room today. And just understand how familiar you are with AI assistant. I will be using the same poll link for the entire session, so we'll keep flashing up QR codes. You'll only need to scan at once and then you'll get pushed all the questions.
+
+00:05:07:19 - 00:05:33:03
+不明
+We will be giving out prizes, so please do put some sort of identifier so that we can call your name and, you know, to come collect your prize. Whether that's initials or cell phone number. Correct. But some information that. Great. So you have about 20 more seconds. We can transition over to see some of the responses coming in.
+
+00:05:33:07 - 00:05:53:15
+不明
+Okay. Okay. So it sounds like we have a few power users. A couple have tried it a few times. Some people have no idea what I asked to do this and some want to learn more. So you're in the exact right place. All right. Awesome. Well, manager, do we know who might have answered that one the quickest?
+
+00:05:53:15 - 00:06:25:52
+不明
+And we can choose a winner for that. We can. So we got around 150 responses today, which is awesome. Thank you all for participating. But we have one winner for this and that is Nick. Oh we have an Amazon gift guide for you. Okay. Come along. Get it. Congratulations. Congratulations, Nick. Okay, so it looks like we have some of you in the audience who are making up these numbers.
+
+00:06:25:57 - 00:06:49:27
+不明
+Across Adobe Experience platform. We have thousands of users across hundreds of companies that are already leveraging AI assistant and becoming power users. So hopefully after the session, some of you will be able to be two, or all of you will be able to be two. So since assistant launched in June of 2024, we've been watching carefully to see how it's helping practitioners be more productive.
+
+00:06:49:31 - 00:07:17:33
+不明
+And it's really across these four pillars. We're seeing data teams be more productive, creating schemas, understanding their data sets, being able to find attributes and events more easily, audience teams across optimizations and insights, being able to get them more quickly and then journey teams being able to much more easily manage their inventory. But taking a step back, I want to share briefly how we built this.
+
+00:07:17:38 - 00:07:48:50
+不明
+And it wasn't by locking ourselves away in a room at Adobe Coding, hoping that this would hit the mark. Instead, we leaned really heavily on you all you all our customers to give us input throughout every step of the way, to help us understand what improvements we need to make, what use cases we need to go after. Because one important thing to realize is, I mean, many of us in the room have used tools like ChatGPT perplexity, which are very like open domain chat bots.
+
+00:07:48:50 - 00:08:15:23
+不明
+You can really just ask anything, and for the most part, you get a pretty good response. But with these more enterprise focused chat bots, they're closed domain and they serve a specific set of use cases that are relevant for the tools that they're embedded into. And so we needed to work with all of our customers to understand what are the types of questions that you have when you use Adobe Express platform and apps, and then how can we help make those work for you?
+
+00:08:15:23 - 00:08:34:44
+不明
+In AI assistant? So I want to give a huge shout out to, any other feedback program customers in the room and especially in northeast for joining us today. Your input has been huge in shaping where we are with AI assistant and Rachel. Actually, I remember the first time we introduced AI assistant to you and your team.
+
+00:08:34:44 - 00:08:59:53
+不明
+Can you share a bit of what that moment was like? Absolutely. So when I first saw a demo of the AI assistant, I immediately saw its potential to save hours of time doing day to day tasks such as audience cleanup, audience product knowledge, and general product insights all at our fingertips with just one simple conversation, which is the AI assistant.
+
+00:08:59:58 - 00:09:22:52
+不明
+I was very excited that I'm not be able to spend more of my time optimizing over our personalized experiences. And, you know, instead of getting bogged down with those general day to day tasks, I have way more time to sit down and actually think about what I'm doing and move down, move on to the next campaign. Being a part of the feedback program makes us feel like we're sort of in the driver's seat in helping to make decisions with.
+
+00:09:22:57 - 00:09:40:50
+不明
+Rachel's team has been incredibly rewarding, and seeing the impact that it's had on us has been huge. So I'm excited to be here today and show you all how I do it. Awesome. That's so great to hear. And so why don't we jump in and you can start showing everyone how you've been using it. Let's do it. Let's jump right in.
+
+00:09:40:55 - 00:10:03:28
+不明
+Okay. So what's our mission at Triple-A northeast? We are a not for profit organization. Well, part of the game is getting people to join us members. A bigger part of the game is getting people to stay. We need to retain our members in order to continue offering our great services. A big challenge for us is getting people to renew their membership on time.
+
+00:10:03:43 - 00:10:32:12
+不明
+We want to target the right people to get them to renew at the time that works for them, at the channel that works for them. So yeah, we're going to use the AI system today. We're going to walk through an end to end workflow and provide this renewal campaign via Adobe Experience Platform. The Adobe Journey Optimizer. Awesome. Okay, so the first thing I need to do is understand what data I already have access to and what audiences I already have available to me in the Adobe experience platform.
+
+00:10:32:13 - 00:10:51:54
+不明
+We use something called a schema to organize our data. The data is stored in something called an experienced data model or Xdm. Today I'm looking to find the right xdm field to help me target people who are up for a renewal date. Let's see if the AI assistant can help me. Yeah. Let's see. All right. So I'm going to happen here.
+
+00:10:51:59 - 00:11:22:13
+不明
+And I'm going to ask to show me Xdm fields used to represent renew. Awesome. So as I was putting that in, as you can see, assistant is a natural language interface that's embedded into the Adobe Experience platform apps and right now she's sending this prompt in natural language. We're taking it translating it to SQL, and querying a knowledge graph behind the scenes that we've built up behind each customer sandbox and the xdm fields.
+
+00:11:22:13 - 00:11:46:54
+不明
+Right now that it's searching through, it's looking for any that are related to renewal. Using a smart data dictionary that, again, is created behind each individual sandbox. So great. It looks like you found all the fields I did. I'm curious, do you ever download the answers that AI system gives you? Absolutely. So I can go over right here to this download csv CTA and send that on over to my colleagues.
+
+00:11:46:58 - 00:12:04:36
+不明
+It looks like I have this field Rachel contact and it needs a renewal date, which will help me call the right people who are up for renewal. So I'm going to store that in my back pocket and use it for later. Awesome. And so it's great that you have a system to help you do this pretty quickly. But how did you do this type of use case before?
+
+00:12:04:40 - 00:12:28:32
+不明
+In a world without the AI assistant, I would have had to comb through over hundreds of data sets and schemas to find the right fields to use in my audience. But now with the AI assistant, I'm able to save loads of time. And now it is your turn to decide just how much. Yeah, I think that kind of sounds like a good time for, round of time time savers showdown.
+
+00:12:28:37 - 00:12:49:01
+不明
+All right, so for serious business, I don't know why you're laughing. So for this question, go ahead. And it should come up on your phone from the previous QR code, but scan again if you'd like. How much time do you think Rachel and her team saved by letting AI assistant do the work of finding which attributes to use.
+
+00:12:49:06 - 00:13:30:38
+不明
+So you'll have about 30 more seconds to answer this one. I can still see some people scanning them down. All right. We'll switch over to the answers in about five seconds. So that's our all right. All right. So it looks like we have some people saying five minutes five hours, majority at 20 hours. All right. Can we get those answers?
+
+00:13:30:43 - 00:14:00:35
+不明
+So dramatic. All right, so let's take a look at the answer. So those of you who said 40 hours, well, that is the correct answer. All right, so 888 northeast has about 150 schemas, 150 data sets. Reviewing each one takes about one minute. And this needs to be done about twice a week. So that's about 40 hours save per person per month or actually five days per month.
+
+00:14:00:41 - 00:14:27:49
+不明
+That's a lot of time. That's a lot of time. So now that, who won that one? Okay, are we ready to hear the winner? We had 158 people voting this time. 62 of you got the right answer, but the winner is Ali. Ali in the room. You can come get your prize now or after the show.
+
+00:14:27:54 - 00:14:32:35
+不明
+All right, get a quick.
+
+00:14:32:40 - 00:14:54:06
+不明
+Okay, so that was all fun and games, but now it's time to get back to the work. I want to validate and see roughly how many people I could be calling to better estimate my audience sizes. I'm going to hop back into the AI assistant now, and we're going to find out how many profiles will be up for renewal in the next six months.
+
+00:14:54:10 - 00:15:16:00
+不明
+All right. So right now you're looking at how many profiles are for new in the next six months with AI assistant. How would you have figured out which profiles are up for renewal without AI assistant? Well, I would have had to go into the data lake, into the data set, into the subset for the data set, and then write an SQL query for this to see how many returns it gives me.
+
+00:15:16:04 - 00:15:31:34
+不明
+It would be super laborious and super manual from our CRM side. Now, not all of us are good with SQL. So some of us might need to wait for others to get back from vacation to even handle this request. Yeah, interesting.
+
+00:15:31:39 - 00:15:57:31
+不明
+So, okay. Yes. It looks like we have just over 2 million profiles here. That's a lot. That is a lot. Okay, so after each response, I am able to get these related suggestions here to help me figure out what to ask next. But for now, I'm on a specific mission. So let's find out. Audiences that used the Zdm field related to renew that we found earlier.
+
+00:15:57:36 - 00:16:26:45
+不明
+All right. And you probably know what I'm going to ask you, but how would you have done this without AI assistant? You know, without the AI, I would have had to open up each audience and track which ones are using that field in their definition, which would have taken us forever. And then given that this is kind of a fairly new tool and you're used to do it in a manual way and I are using assistant, how do you know that you can actually trust the responses that are coming through.
+
+00:16:26:54 - 00:16:44:13
+不明
+That's a great question. So when I go in here I can basically see the plain English right here and how it arrives at each, at each response. And then I can open up the source query. And I can see here that it's clearly looking at my definitions and crawling through all of our audiences to find the right ones.
+
+00:16:44:18 - 00:17:10:37
+不明
+Awesome. And I remember when, you all first told me how many audiences you have at Triple-A northeast. It kind of helps me understand why asking AI assistant and having it comb through all your audiences for you saves you a lot of time. How much time? Yeah. How much time and how many audiences? Let's find out. Yeah. So this sounds like a good time for a round of audience trivia.
+
+00:17:10:42 - 00:17:37:57
+不明
+All right, so I see people getting their phone out for the next QR code. So this time, you're going to guess how many audiences Triple-A northeast has in real time. Customer data platform. Don't get it wrong. And this one's free response. So the closest, the closest answer will win the prize.
+
+00:17:38:02 - 00:17:56:44
+不明
+All right. It looks like maybe a couple people still scanning. All right, now we're ready to move over to. Let's see. Answers coming.
+
+00:17:56:49 - 00:18:10:21
+不明
+All right. Starting anything from 2 million to 2000.
+
+00:18:10:26 - 00:18:38:11
+不明
+I love it. All right, I'm ready to reveal the answer. And while Namata looks at who got closest. So there are 1076 audiences. That is the correct answer. And, Rachel, if you want to give us some context about the audience, is the northeast. Typically, northeast has a ton of business lines. We cater to everyone, no matter what your need is, but one of our biggest ones, which we have access to a lot of data to, is travel.
+
+00:18:38:24 - 00:19:01:37
+不明
+So, you know, with all of those data points that we can pinpoint, it's really important that we target the right people. So yeah, lots of audiences that we need to manage over here to play. Awesome. All right. I think we're ready to reveal the winner. I think we are the winner for this round of audience trivia is Shannon w Shannon.
+
+00:19:01:37 - 00:19:32:04
+不明
+Congratulations. Who's in the audience? A winner and you get an Amazon gift card. Come back later and get it. How many audiences did Shannon guess? Thousand. So that was the closest versus the fastest. Oh yeah, that's same close up. Okay. All right. So all fun and games. But once again let's get back into the work here. So with all of these audiences will want to do a little bit of cleanup.
+
+00:19:32:09 - 00:19:53:45
+不明
+So deleting audiences has always been a scary task. You never want to delete something and then risk breaking something downstream. So let's use the AI assistant to help us do this in a clean way without breaking anything. Yeah. That's always that's always good. Okay. All right. So we're going to hop back into the AI assistant here. And we're going to look for audiences with duplicate definitions.
+
+00:19:54:00 - 00:20:16:47
+不明
+So I'm typing in here. Show me details of duplicate audiences. Awesome. And while that loads so behind the scenes, AI assistant is looking up the audience definition, combing through all of the audiences in the knowledge Graph that we've built up and finding just the ones that have duplicate definitions. If she had asked instead, give me the ones with the duplicate names.
+
+00:20:16:48 - 00:20:33:51
+不明
+I could search by that or use case that we currently have. And Alpha is to look at overlapping profiles as well. So show me the profile overlap between audiences, which is honestly super cool. That's one of my favorite parts about this. So as you can see, we do have returns here. This is not great for me.
+
+00:20:33:52 - 00:20:56:55
+不明
+I do not want duplicated audiences, so we need to make sure that these audiences are not being used anywhere before we pass these off to be deleted. All right. Okay. So we're going to get back into the AI assistant here. And we're going to ask which of these audiences are not currently being used in journeys.
+
+00:20:57:00 - 00:21:25:08
+不明
+Great. And so what AI system is doing here is what we call a lineage check. So taking that audience and then searching across all of the other objects in Adobe experience platform and seeing if the audience has been used in those. So I have to ask, how would you have done that kind of lineage check before assistant? Well, Rachel, we would have had to manually comb through all of our audiences and find out which ones are not being not being needed anymore.
+
+00:21:25:08 - 00:22:03:07
+不明
+Not being used in this would have taken tons of time, but how much do you. How much time? You guessed it, it's another time. Slow down. All right, so for this one, try to figure out how much time did Rachel save by letting AI assistant find unused audiences or duplicate audiences for cleanup? And this time, in addition to the gift card that you get, you'll get this nice little cleaner upper so you know you want it so high for this one.
+
+00:22:03:12 - 00:22:10:55
+不明
+All right, let's see the responses that we're getting coming in.
+
+00:22:11:00 - 00:22:24:42
+不明
+All right. We're going big on this one.
+
+00:22:24:46 - 00:22:36:31
+不明
+That most people are going 36 hours. We have a few on the other one filtering some responses coming in last couple seconds.
+
+00:22:36:36 - 00:23:03:13
+不明
+Gets me every time. All right. Let's see the answer. So it was those of you that said 36 hours is the correct answer. As you know, Triple-A northeast has about 1076 audiences. And reviewing each one takes about 30s and needs to be done once every week. So that's 36 hours that they say monthly, per person for audience hygiene.
+
+00:23:03:18 - 00:23:40:13
+不明
+And Mamata, who is the winner for this one? Roll please. The winner for this round is Mary Alice. Oh, I actually have the Amazon gift card. And the cleaner. Yeah, yeah, yeah. Looks excited about this. Yes. As you should. Okay, so now it is a back to my campaign. So I want to see how many people will receive my radio campaign out of all of the people who are up for renewal.
+
+00:23:40:26 - 00:24:12:52
+不明
+Yeah, let's see it. Let's get back to the AI assistant. I'm going to ask to show me significant changes in all of my audiences around to renew. Awesome. So for this one, this is a fun one. So assistant is actually smart enough to understand what significant change means in this context. And it uses the last 12 months of historical audience size to first determine a baseline and what a normal range would be, and then checks to see if there's any spikes or dips that go outside of this range.
+
+00:24:12:57 - 00:24:34:42
+不明
+And then it does adapt based on the size of the audience. So it's not just a static percentage change that is being reported here. Also, in this case, since Rachel didn't give any timelines, it's just looking for changes that happened in the last one week. Okay. So this is super interesting. It looks like one of these changed a bit more than expected.
+
+00:24:34:53 - 00:24:53:06
+不明
+So I'll be sure to pass this off to one of my colleagues to take another look. This would have been an uncaught error that could have impacted budget, so I'm glad the AI assistant was able to help me catch this. Yeah, I remember that one time on the feedback call a couple of weeks ago, you were letting us know that due to this feature, you were able to find that one of the audiences that you use a lot dropped to zero.
+
+00:24:53:18 - 00:25:24:38
+不明
+You're outing me in front of my boss is Rachel X. Okay. This is super helpful for me to see the health of my audiences. Yeah. So, another thing to note is that in this example that we showed you, Rachel was actually prompting AI assistant to give her the response. But another thing that we're currently working on with the audience agent is for it to be able to actually proactively identify when changes happen.
+
+00:25:24:43 - 00:25:46:09
+不明
+So you can kind of set some thresholds and say if something if the audience changes more than this specific threshold, send me a notification and send it to my app inbox. So if you're interested in learning more about that feature, definitely pop by the DNI Genetic Zone. And in the agents section we have a demo of that use case super cool.
+
+00:25:46:13 - 00:26:08:55
+不明
+So now that we just took a look at what the significant changes of our audiences are, I want to take a look going forward and see how many within this audience I'll likely see for my new campaign. Yeah, I'm going to hop back into the AI assistant here, and we're going to search for what is the forecasted size of my audience around, people who are up for renewal in five months.
+
+00:26:09:00 - 00:26:34:26
+不明
+Great. And how this one works is AI assistant uses past size as a reference. So it looks at the last 12 months and it uses this to predict future sizes. And then we just exclude any anomalies like, holiday periods. We take that out of the forecasting equation. Absolutely. So this is a pretty big pool as we can see over 2 million.
+
+00:26:34:26 - 00:26:56:39
+不明
+Still, I know that, you know, sometimes calling everyone does not usually equate to completions. Yeah. Makes sense that you'd want to be a bit more targeted. Yes. So this is my favorite part of the demo. Let's make sure we're targeting the right people. We're going to put the AI assistant to the test and crank up the difficulty here.
+
+00:26:56:43 - 00:27:19:32
+不明
+I want to see if the assistant can help me create a top performing audience, minimizing the amount of people that I'm sending my campaign to without taking a hit to the conversion rate. I don't want to bombard everyone. Okay, so let's see if we can get back in here. And I am now going to ask my goals to maximize renewals.
+
+00:27:19:37 - 00:27:31:21
+不明
+Let's take this audience. But can you help me optimize this audience to be just 100,000 customers of that 2 million?
+
+00:27:31:26 - 00:27:53:40
+不明
+Okay, so this is pretty cool. It just handed me the steps that we follow today in real time customer data profiles, customer AI, but instantly, normally I would have had to sit down and figure out ways to brainstorm over this campaign. But now I just get to ask the AI assistant, you know, just like that. And here I get to see some steps of a predictive model that it could give me.
+
+00:27:53:40 - 00:28:08:49
+不明
+And after renewing this, this looks pretty good to me. So I think I'm going to get back into the AI assistant and tell it to do its thing right.
+
+00:28:08:54 - 00:28:29:13
+不明
+So as that's loading, I have to ask, how would you have done something like this before? This would have taken hours of research and back and forth with our data science teams, who have a million other things to do on their plate. But now I just did it in seconds. My mind is blown. Okay, so let's get back into the AI assistant here.
+
+00:28:29:13 - 00:28:38:48
+不明
+I'd like to understand how it did what it did. So we're going to ask how did you arrive at these predictions?
+
+00:28:38:52 - 00:28:57:06
+不明
+Okay. So this is really cool. I can see all the work it's doing in the background, pulling from our event data, our profile data, looking at our confidence level rationale and even pulling key factors influencing predictions. This is honestly really cool. Yeah. So I could see all the work that it did in the background to get here.
+
+00:28:57:10 - 00:29:20:30
+不明
+Awesome. And something cool to note here is that AI assistant isn't working alone, so it has the audience agent in the background and customer AI that's powering it to help Rachel and her team build better performing audiences. But you might wonder how much better performing these audiences, which you also may have guessed leads us to another round of audience performance showdown.
+
+00:29:20:31 - 00:29:51:40
+不明
+So this one's a little different, right? Because it's about performance. So get ready to think. So for this one you're trying to figure out how much did the transaction rate improve when Rachel's team used AI assistant to optimize audiences. And so this was for a car rental campaign that they did, I think last year. Yes.
+
+00:29:51:45 - 00:30:07:30
+不明
+All right. I don't see anyone else scanning so we can go over to the answers.
+
+00:30:07:35 - 00:30:16:19
+不明
+And.
+
+00:30:16:24 - 00:30:25:16
+不明
+It seems like people are catching up, but the.
+
+00:30:25:21 - 00:30:58:04
+不明
+Like. All right. Awesome. How many people responded to that one? Let's see. We had 110 people responding. Oh 129 now. 129 respondents to this awesome. And, I'll show the answer. So it was they were able to get it was, I think, 165% more transactions while targeting just a third of the audience size. So pretty impactful there. So if you guessed that, then that is the correct answer.
+
+00:30:58:04 - 00:31:22:41
+不明
+We got the correct answer. So Namita, who is the winner for that one? Okay. Drum roll please. I am ready to announce the winner for this round. And it is David Everhart is the vaccinations you get an Amazon gift guide for your quick. What did miss woo all right cool I didn't see anyone but so hopefully after.
+
+00:31:22:42 - 00:31:48:05
+不明
+Oh okay. Perfect. We'll see you after. After the show. Okay. So now that my audiences are optimized, I am ready to start building out a journey. So one thing about tripling, or at least we are constantly expanding our teams. We spend a lot of time doing hours and hours of onboarding. One thing about the AI assistant is we can tap into general product knowledge, which is really great for us.
+
+00:31:48:05 - 00:32:07:32
+不明
+So instead of sitting down and doing those hours of onboarding, they can just hop into the AI assistant and ask, well, so let's get back in. Let's see if I'm going to ask, how do I create a journey. Cool. And this was one of the first use cases for assistant that we released. So we call it product knowledge.
+
+00:32:07:37 - 00:32:26:24
+不明
+And what's happening here is I went and found the documentation resources to answer this one. It shows a few, grabbed some snippets that were relevant and then compiled an answer. We also provide the links to the citations. So if you are really jazzed about reading the full document, you have it there. You can add it to your clipboard.
+
+00:32:26:38 - 00:32:45:25
+不明
+And then we also give those little inline citations so you can check and see where each phrase in the answer actually came from. So this helps a lot. I mean, I even use it as an Adobe employee to instead of asking like a product manager, that might take a while to get back to me, I just ping AI assistant, get my answer.
+
+00:32:45:30 - 00:32:57:51
+不明
+It saves me a lot of time and it sounds like it's helping. Super beneficial for us. Awesome. Okay, one week later.
+
+00:32:57:55 - 00:33:20:10
+不明
+Okay, so now that a week has passed, it is time to see how our journeys performed. Let's get back into the AI assistant. I'm going to ask what the performance of my journeys are that are related to renew. All right. So finding the performance of journeys related to renew. And how would you have found, the performance of just the renewal journeys in the past?
+
+00:33:20:15 - 00:33:40:59
+不明
+Rachel, I would have had to put my data hat on, comb through analytics, and build out tons of reports to see how my journeys performed. But now I just get to ask the AI assistant. Awesome! Okay, so it's great that I can see all of these journeys and their click through rate, but honestly, this is too many for me to renew.
+
+00:33:41:04 - 00:34:05:42
+不明
+Let's narrow it down. Show me my top five live journeys that are related to renew shorted by click through rate. Okay, it's pretty cool that the, that the AI assistant knows which stories are related to renew. Rachel. Yeah, and that's actually one of our newer functional is where we come up. It's kind of similar to the data dictionary where we're classifying journeys on what type of journey they are.
+
+00:34:05:42 - 00:34:29:39
+不明
+So whether it's an upsell or a renewal journey, and in the back of each customer specific sandbox, we're actually labeling them, categorizing them so that I assistant can understand what the different purposes of those journeys. Wonderful. I think my job here is done. I'm going to send an email over to my bosses with these performance results, and I'm ready to get started on my next big campaign.
+
+00:34:29:43 - 00:34:52:15
+不明
+I hope everyone got a good feel today on just how much time we've saved and how much smoother our workflows are. I was able to complete an end to end workflow all the way from finding data attributes to picking the right audiences and figuring out what the performance of my journeys are all, it's just the AI assistant. I not only saved hours of my time, but I got a faster speed to market with all my ideas.
+
+00:34:52:15 - 00:35:11:46
+不明
+Rachel. Awesome. Yeah, thank you so much for taking the time to show that. Absolutely. And I know we we showed a bunch of, capabilities in those demos, but we didn't nearly show all of the capabilities that AI system supports today. So we threw a bunch of them onto one slide for you, and I'll talk through them one by one.
+
+00:35:11:51 - 00:35:32:39
+不明
+Some that we wanted to highlight. So we have, data insights in customer journey analytics where you can use natural language to ask to create visualizations. So saves you a bunch of clicks there. If you're not a power user of customer journey analytics, you can just ask, it, you know, create those visuals and it will happen on your behalf.
+
+00:35:32:43 - 00:35:59:49
+不明
+We have Content Accelerator and Adobe Journey Optimizer, which you can upload a brand kit and have it generate images for you and then iterate on them. Same thing with copy. We have support ticket creation that's currently in a private preview for our feedback program customers. The bottom three are. So what support ticket creation is, is if you're chatting with assistant, you have an issue, you're trying to troubleshoot and you're still not able to fix your issue.
+
+00:36:00:03 - 00:36:25:45
+不明
+You can just instead of switching and creating a support ticket, you can just push the support ticket right through AI assistant. And the benefit there is that assistant will have all of the context of the issue that you were just chatting with it about, so you don't have to read create that context in the support ticket. Then we also have audience overlaps, which I think we spoke about earlier, where you can say, you know, between audience A and audience B, what are the similar profiles that I have?
+
+00:36:25:49 - 00:36:48:00
+不明
+And lastly, we have some data set observability, use case coming as well to make sure that the sizes of your data sets stay in check. And we know that's a pretty highly requested, functionality. Yeah. So of all those things, I'm really interested to hear Rachel, which of those are most exciting to you? Honestly, Rachel, all of them are super great.
+
+00:36:48:00 - 00:37:06:55
+不明
+But one thing I'm super excited about is the audience overlap. So we've been working in our weekly feedback session to create a better future with the overlap, to figure out, how many people we could target. You know, as we saw today, we want to make sure we're targeting all the right people at Triple-A northeast. So we want to make sure we're hitting all the right people for a specific campaign.
+
+00:37:07:03 - 00:37:37:21
+不明
+Yeah. Awesome. Thank you for sharing that. We would love for you all to be a part of the program where you're getting access to these early features, see how you use them, what works, what doesn't. Come join us. Come join. It's a fun time. Rachel and her team will tell you. Great. And, I want to also call out that there are tons of other great sessions during summit about AI assistant and our genetic strategy, so this would be another really good slide to take a picture of.
+
+00:37:37:21 - 00:37:56:22
+不明
+If you're interested in learning more about some of the topics that we went over today. One that I'll put a two that I'll put a special plug in for, besides or which are already on the slide. One is the 8 a.m. session tomorrow morning for Under the Hood. Two is in one hour from when this ends.
+
+00:37:56:22 - 00:38:18:52
+不明
+We have a lab in the San polo room, where basically all the things that Rachel just showed you up on the screen, you could actually be sitting at, computer or yourself trying them out. So that's an excellent way to put to the test what you just learned in this room. And then the third thing is definitely head over to the Jenn-Air genetics Zone and the community pavilion.
+
+00:38:19:04 - 00:38:36:18
+不明
+We have a lot of great demos there for you. If the demos aren't enough, we also have t shirts and stress balls. So really fun times over there. You'll get to see Namata and some other folks on the team who are building this out. And then the last thing is kind of three more calls to action.
+
+00:38:36:23 - 00:38:55:09
+不明
+If you loved what you saw today, want to get access to it. Assistant, but don't know how that first QR code is for you to get access. Second, if you want to, join, you know, triple in northeast and all the other great customers who are giving us feedback and being on the cutting edge of what we're developing and getting the hands dirty with the early prototypes of it.
+
+00:38:55:13 - 00:39:21:18
+不明
+That's the second QR code. And then the third is to join the community on Adobe Experience League, where you can kind of chat with other practitioners about how you're using, assistant. All right. I see some phones up taking pictures. I'll give like ten more seconds there to finish capturing that. Thank you so much. Thank you everyone.
+
+00:39:21:23 - 00:39:21:57
+不明
+For.
+

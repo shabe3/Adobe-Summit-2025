@@ -1,0 +1,592 @@
+00:00:00:01 - 00:00:25:03
+不明
+Right, everyone, I think we can get started. First of all, I just wanted to say thank you all for coming. I know it's early. So hopefully you all are fueled with caffeine. Hopefully we can bring some good energy for you this morning. I'm incredibly excited to be here. I'm Rohan Bott, senior product marketing manager from Adobe. Really excited for all we have to share with you about World Vision Canada's Evolution.
+
+00:00:25:08 - 00:00:47:17
+不明
+So as I was preparing for this presentation, I was reflecting back on the Giving Tuesday time of last year. End of last year, and my wife and I were trying to figure out which nonprofit organizations we wanted to give to. And I remember we were both sitting at the table, and we had this big pile of mailers that we had received from nonprofit organizations.
+
+00:00:47:17 - 00:01:20:47
+不明
+We were going back through emails and text messages that we had received. And I remember thinking, man, there's so many different, causes. There's so many different organizations. There's so many different ways to give through portals and electronic payments. And I had this realization that the friction was super low. Right. And it creates this unique opportunity where it has never been easier for people to actually go through the process of giving and getting engaged.
+
+00:01:20:51 - 00:01:45:45
+不明
+But if we zoom out to the industry situation more broadly, it presents a very different picture, right? In the US, we see that about a quarter fewer households are giving in 2024 than did in 2000. We're seeing that there are major retention challenges, about a 4.6% decline in retention year over year. We're seeing that acquisition is harder than it ever has been.
+
+00:01:45:46 - 00:02:15:07
+不明
+It's about $1.50 to acquire a new donor for every dollar raised. And we've seen a major shift in who the primary donors actually are from older generations to millennials and Gen Z. And with that has come a significant shift in expectations of what a superior donor experience actually looks like. Now, I know many of you in this room are from industries outside of the nonprofit space, but I'm guessing that you can see challenges like this in your own industries.
+
+00:02:15:08 - 00:02:48:54
+不明
+Challenges with acquisition and, challenges with retention. Challenges with getting deeper customer engagement. And so in this backdrop, there's really a few different approaches, right? Either you can excel through really meaningful engagement or you can fade into the noise. And all of these challenges. And I remember, you know, going back on that experience that I had towards the end of last year as a donor, thinking through what was it about those organizations that actually caused me to give?
+
+00:02:48:58 - 00:03:03:26
+不明
+It really depended on those organizations that created real connection to me through really personalized and relevant and resonant engagement. It felt human, and it connected me to those organizations.
+
+00:03:03:31 - 00:03:37:05
+不明
+So at Adobe Summit, we talk all about the customer experience, right? It's through every session that you hear. And in this in this industry and in this space that looks like demonstrating really crystal clear impact, it means that all communicate ones are hyper personalized to that donor, what they care about, the causes that they're interested in. And importantly, it means leading with storytelling and not just asks the story of the nonprofit organization the story of your brand and not just the transaction.
+
+00:03:37:10 - 00:03:58:49
+不明
+But hopefully you saw, in the keynote yesterday that there's an increased focus now on the marketer experience. And what I mean by that is how do we start to remove blockers for marketers and empower them to be more creative in the work that they're doing to have greater productivity and agency over the work that they're doing? And I love this quote by Fun Rise.
+
+00:03:58:54 - 00:04:12:20
+不明
+How do we not just think about surprising and delighting our customers or our donors, but actually surprise and delight ourselves as marketers in the work that we're doing?
+
+00:04:12:25 - 00:04:37:45
+不明
+So World Vision Canada has been on an incredible trajectory of digital transformation and growth, and much of that has come from their dual focus on both the customer experience and the marketer experience. And they have unlocked some major results. And we're going to talk about how they've achieved these over the course of our discussion today. They have four times faster email creation workflows than when they started, with greater marketer efficiency and autonomy.
+
+00:04:37:50 - 00:05:00:39
+不明
+They have much deeper personalization in all of the customer and donor engagement that they're doing. Marketers have significantly more ownership over the end to end workflows, and they've been able to shift successfully from a static batch and blast approach to much more of a personalized and deep, journey centric mindset.
+
+00:05:00:44 - 00:05:28:04
+不明
+So what are we going to talk about today? Well, first, Selby Mong, who's a CIO and VP of enterprise technology and transformation for World Vision Canada, is going to cover their vision, no pun intended, and overarching mindset shift that World Vision Canada made. Then Stephen Cave, product manager for marketing technology, is going to talk about the how. Our goal here is to give you some tactics that you can take back to your desk, back to your teams when you leave Adobe Summit.
+
+00:05:28:09 - 00:05:49:52
+不明
+And finally, I'm a huge email marketing nerd, so I'm going to talk about some of the email, specifics, all the innovations that we're bringing to Adobe Journey Optimizer. But enough about us. I'd like to learn a little bit about who's in our audience today. So could you please raise your hand if you have fully implemented and are up and running on Adobe Journey Optimizer or Adobe Real Time CDP?
+
+00:05:49:56 - 00:06:11:31
+不明
+Anyone? Okay, we have a few hands. And raise your hand if you're currently implementing Adobe Journey Optimizer or real time CDP. Okay, if you folks. And raise your hand if you don't have either solution today and are just here to learn. Amazing. That's so great to see. Okay. Awesome. Well, I am sure that we can provide value for all of you over the course of the discussion today.
+
+00:06:11:33 - 00:06:18:09
+不明
+So without further ado, I'm going to hand it over to Selby.
+
+00:06:18:14 - 00:06:26:24
+不明
+Thank you. On.
+
+00:06:26:29 - 00:06:54:00
+不明
+Thanks, Ron. So good morning, everyone. My name is Selby Mong. I work for World Vision. So, for those who are not familiar with who we are. We are not a glasses company. Although some people have thought that in the past. We are, in fact, a, an in international development, organization or charity.
+
+00:06:54:05 - 00:07:22:32
+不明
+And our mission, actually, in simple terms, is life in all its fullness for children everywhere. This is a a big statement. Actually, and in a small statement at the same time. So, you know, like, seems pretty simple. It's actually quite complicated. And it actually encompasses many, many things. So for instance, I went to Rwanda recently.
+
+00:07:22:37 - 00:07:46:14
+不明
+And I visited a project that we did in collaboration with the government there to provide clean water to 100,000 residents in that area and clean water in North America. We take this all for granted. We turn the tap and we're good, right? For them. The average walk would be six kilometers through often undeveloped terrain.
+
+00:07:46:19 - 00:08:11:20
+不明
+And they do this every day. They bring back a 20 liter jug of water. Often the children do this. And, It's dangerous. It's, not great if they don't. Right. So you get clean, dirty water, you can get sick in many ways. So, you know, like, for us, we're not limited in what we do, right?
+
+00:08:11:24 - 00:08:40:08
+不明
+But the purpose is to create sustainable communities. Not to just give money, but actually to create value and create impact. Right now, the thing is, our donor base, is many and varied. Unlike a lot of industries, we have both a B2C and a B2B component to what we do. We work with large organizations and we work with individual donors.
+
+00:08:40:13 - 00:09:07:37
+不明
+And they come to us in variety of flavors and interests. Right. And in trying to fulfill the the requirements of these users. It's, it's a tricky thing, right? You want the the experience that they get to be engaging. You want it to appeal to their interests. But because we do so many things, it's really hard to not make it a scrolling list.
+
+00:09:07:42 - 00:09:28:34
+不明
+Like something out of The Simpsons with, Benny Hill theme song playing the background. Right. So what you really need is the ability to focus, right? We know that Shotgunning doesn't work, and we know that people today are really fast to hit the unsubscribe button really fast. Hit the junk button.
+
+00:09:28:39 - 00:09:58:01
+不明
+So for us and World Vision, we've been on a bit of a journey. And over the last several years, we've built, an entire engine around measuring impact. The actual value that we create with the money that is invested in us by our donors. And the idea is like, we don't talk about things like, oh, well, we we built these buildings, we dug these wells.
+
+00:09:58:10 - 00:10:26:31
+不明
+We talk about average life expectancy. We talk about average literacy rate. We talk about economic sustainability. Right. And so we can do this obviously at a macro level and say all the things that we've done, as an organization. But the most important thing is to express to our donors what it is that they've done. What is it that their $100 has created?
+
+00:10:26:33 - 00:10:56:46
+不明
+What value has it created? Right. And so, you know, we've moved from a traditional marketing vehicle that says, hey, you know what? These are all the things that we're so great about. We've moved to these are all the great things that you've done right. So we understand that, you know, donors, engage at the rate that they want to with the content that they want to write.
+
+00:10:56:51 - 00:11:21:01
+不明
+And the problem is, how do you do that at scale? Anybody who's worked in this space will understand that. You can generate a report, can always generate a report. Anybody who's worked in any situation say, I can generate a custom report. It might take days. It might take months. Right. How do you actually create an experience for all of your donors?
+
+00:11:21:06 - 00:11:32:12
+不明
+That is both customized and personalized to what they need without hiring an army of people.
+
+00:11:32:17 - 00:11:57:49
+不明
+So. The where we started, obviously, was where everybody else has started. Right. So you start with your your static batch and blast. You've got a bunch of systems that kind of work together, but not really. And then you've got a bunch of workflows that kind of accommodate the systems, and create a whole bunch of handoffs. And bottlenecks and effectively, manual work.
+
+00:11:57:54 - 00:12:28:02
+不明
+Right. And we moved to a, a digital experience, a digital native experience where we actually say, at the center of it isn't what we want. At the center of is the donor. And to serve that is the marketer. So we get all the technology out of the way. We get all the processes out of the way. And we let the marketers make their magic right?
+
+00:12:28:07 - 00:12:53:31
+不明
+So from a, transformation perspective, and it is a transformation, right? It's a full digital transformation. You start with the technology. Everybody wants to talk about the technology because it's digital. But that's only one, one pillar of the four. Right? So the second one is you need the right people. You need the right talents. They are not the same talents as what traditionally be understood in this space.
+
+00:12:53:35 - 00:13:19:15
+不明
+You need to create processes that are inherently digital. You have to be able to move at pace. You need to be able to experiment at pace. You need to be able to generate the velocity to actually understand exactly what it is that your customers want. And then it's a mindset thing, right? You just have to abandon the way that you've done things in the past.
+
+00:13:19:20 - 00:13:50:54
+不明
+You have to think in agile ways. You have to think about how do I do rapid experimentation? You have to think about being data driven rather than guessing, which is the traditional way they've done it, or industry best practice. You've heard that before, right? It's all about actually active engagement, measuring and watching exactly what it is that comes back and understanding what it's telling you.
+
+00:13:50:59 - 00:14:22:08
+不明
+So, I will say there is no golden ticket. There's no silver bullet. Every organization is different. Every organization is at a different level of maturity. And all of these things are obviously not like you follow a, an organized list and you're all good, right? It does depend on, where you are and what talent you have available to you.
+
+00:14:22:13 - 00:14:43:05
+不明
+But, like, I guess the, the most, the most important thing, right, is to not leave anything on the table. Question everything. Right? Look at everything to decide whether or not this actually serves where you're trying to get to from a transformation perspective.
+
+00:14:43:10 - 00:15:12:37
+不明
+So when we were doing the, The analysis for this, we looked at a bunch of options. We looked at a bunch of, technologies. And we landed on the Adobe suite. And there's a bunch of reasons that we did this. But the most important ones for us were having done this for a long time as an i.t.
+
+00:15:12:41 - 00:15:42:30
+不明
+Leader. I didn't want to end up in integration hell, where you're constantly managing your integrations, you're constantly writing code. And let's not forget, like, even though a lot of folks in this room probably don't work for a software development organization, software development is a is a secondary competency that you have. When you build integrations, you're basically building software that you're going to maintain forever.
+
+00:15:42:34 - 00:16:02:00
+不明
+So we said, okay, look, I don't want to do that, right. I want to make sure that the the ongoing cost of this is, is is kept low. I want to make sure that when there are new enhancements and things like that, that I don't have to keep building things. Right. I want to make it somebody else's problem.
+
+00:16:02:05 - 00:16:24:49
+不明
+So, I made it Adobe's problem. So. Right. Like we said, look, you know, like they've got multiple systems, they've got a great ecosystem. They've got a great roadmap. Right? They had a the most fulsome roadmap that anybody had at the time. Right. Everybody was like, oh, well, we're going to acquire those pieces. We're not sure. You know, we'll figure it out when we get there.
+
+00:16:24:54 - 00:16:45:22
+不明
+And they had a full roadmap right? Now, you know, it's it is a roadmap. So, you know, not everything materializes at the rate you'd like it to, but at the very least, I could say, oh, these are your tools. Make sure they work together. All right. That's a fair ask. If you've ever tried in the integration world of telling vendors you need to play nice together never works.
+
+00:16:45:27 - 00:16:51:22
+不明
+Never. So,
+
+00:16:51:27 - 00:17:12:51
+不明
+The other thing, the the other thing that we, we were betting on was the fact that if we picked a leader, we picked somebody big enough, that we'd be able to get, a stable pool of talent. Right? If anybody's ever played in the space, you understand? Like, the technology moves really fast. So when you go and you say, oh, well, I need an expert in this.
+
+00:17:12:56 - 00:17:35:27
+不明
+If it's a niche technology, you're never going to find anybody. So you're always going to have to train them. So the idea was get somebody that actually is big enough that you could say, oh, the university, these students know this technology and I don't have to train them. So, you know, look, we are at in a building full of Adobe staff.
+
+00:17:35:32 - 00:17:56:50
+不明
+At an Adobe hosted summit. Right. So obviously, I'm going to say this is, this is the technology that we supported. I will say in all honesty that we've never regretted the choice, right? It's been an excellent partnership, and they've delivered on a lot of the things that we wanted.
+
+00:17:56:54 - 00:18:26:08
+不明
+So for our ROI, when we when we went into this, we had five tools that we selected. And they form the core of our, our, our back end when it comes to our personalization. And, with that, you know, I'll ask Stephen Cave to come up and talk about the details and, any challenges that we had.
+
+00:18:26:13 - 00:18:31:50
+不明
+Yeah. You know, I got this one.
+
+00:18:31:55 - 00:19:01:01
+不明
+Thanks, Selby. It's an absolute pleasure to be here this morning. And I want to walk you through what our approach was to the implementation of agile and CDP. And as we start to empower our marketers and remove them from the limitations of, batch and blast campaigns and deliver personalized journeys. But I have to start with what implementing change looks like in my experience and more specifically, marketing technology changes.
+
+00:19:01:06 - 00:19:29:32
+不明
+So let me know if this sounds familiar. First, you have the destination. We agree on where we want to go, and we believe that achievable. And then then come to the plans. And you've written all of these plans before, I'm sure the migration plan, the change management plan, the project plan, and then then comes the fun of navigating all the twists and turns and curves that are within that plan.
+
+00:19:29:36 - 00:19:53:57
+不明
+And that's where that route that is on paper, that says it's 11 miles, actually takes you through about 318 curves. And if it's a road like this, then you seek it out. If you're a motorcyclist or a sports car enthusiast. Yes, that is the tail of the Dragon. But if it's a martech implementation, that's equally exciting for people like me and hopefully many of you here this morning.
+
+00:19:54:02 - 00:20:30:52
+不明
+But I have to take you back to where we were as an organization and where I was in that organization where we had technology and capacity issues. So the tech stack issues, how I break that down for you. We had a legacy partner who had purchased two platforms, merge them together as a unified solution. And after we implemented that second solution, but one year later, they sold them off to two separate companies and both with quickly diverging roadmaps because they were really competitors in the space and there was no amount of custom solutions, custom codes, APIs that could connect the data.
+
+00:20:30:52 - 00:21:01:22
+不明
+The data that was in one platform would not work in the other. Solution for to deliver personalization. And this really, really limited us. The. It was impossible to resolve the these issues, and we hadn't seen the innovation on these tools that could allow us just to pick one and double down on that. And if we had, then we wouldn't be where we needed to be today in 2025 and wouldn't have solved our other issue.
+
+00:21:01:26 - 00:21:31:40
+不明
+You see, we had capacity issues. Everything went through one team for the data, for our emails, our lists for print, for telemarketing, went to one centralized team and then worked really well actually for quite a while until it didn't. You remember where you were in 2020? Well, we got really lean in 2020 and everything relied on such a special skill set that if a person was sick or something, there's a humanitarian emergency, there would be a cascading effect that would happen across all of our planned marketing activities.
+
+00:21:31:45 - 00:21:55:56
+不明
+And the tools themselves weren't marketer friendly. We couldn't just say, well, let's just train the marketers to use these tools. And also, that meant that the marketers were really shielded from the complexity of the requests. So they didn't really know what the impact was when they said, hey, I just have one more change, one more revision. But the other unintended consequence of being on these platforms is that they really created a mindset.
+
+00:21:56:01 - 00:22:14:51
+不明
+The marketers actually adapted to the limitations of the rules and the constraints of the platforms, which meant that and I don't blame them. I would do the same thing I would if I have to submit a request to get something done and there's a chance of capacity issues, then just give me one big batch list and give me the largest list possible to help me achieve my goals.
+
+00:22:14:56 - 00:22:41:32
+不明
+So we partnered with Adobe to resolve our tech stack issues and how we use it. But on that journey to navigate through those roads, we had really developed three principles to our approach. First, we had to transition away from those legacy platforms as quickly as possible. And that meant that our first use cases really had to prioritize how we deliver new features, but also business critical capabilities.
+
+00:22:41:33 - 00:23:01:54
+不明
+When we launched on agile. We had to make sure we also instilled confidence in our marketers that this platform was more capable or as capable to help convince them. The other thing is that when you're straddling multiple platforms, that creates a workload on the teams and it creates data consistency issues that you. So the minimizing that would work best.
+
+00:23:01:59 - 00:23:21:29
+不明
+We would also have to reconsider the entire end to end marketing experience for both our marketing teams and our operations teams, and what it meant for their roles to be changing. And then. How do you use existing data effectively without restricting growth? And that meant that we'd have to be willing to challenge some of our legacy business practices.
+
+00:23:21:34 - 00:23:51:34
+不明
+And if you've ever done an implementation, there's sometimes a a risk or a bias or temptation to fall back into processes and structures that are familiar. If I was to say that differently, you can't take the new technology and bend it and contort it to fit the outdated processes. The so it was our implementation partner that actually helped highlight some of our practices that maybe we'd held onto for a bit too long.
+
+00:23:51:39 - 00:24:11:28
+不明
+So it wasn't uncommon in our organization to share email addresses. Now, I didn't say sharing email addresses for licenses because nobody in the room here ever does that. I know that I'm talking about a husband and wife being donors, having two different customer IDs or donor IDs, but they share an email address with an organization that's been around as long as we have.
+
+00:24:11:37 - 00:24:30:22
+不明
+Before email, it was such an important part. Well, that really undoes all the value of the CDP and the unified identity and the ability to build that profile. That's really driven by email. So we fix that in all those twists and turns, in that big arc in that road. Those are some of the things that you had to be willing to adjust.
+
+00:24:30:28 - 00:24:56:16
+不明
+And so we did that. The key lesson here, though, is we gave our implementation the partner, the space to guide us, but we also gave them the mandate to push back. It wasn't on more than one occasion that Selby even said on calls. You need to make sure we implement implement this correctly. We are looking to you for the leadership and guidance to make sure that we don't paint ourselves into a corner.
+
+00:24:56:16 - 00:25:20:14
+不明
+By then, the team just executing what we asked for. We want to ensure that our investment in the technology really made sure that we were able to use all the key features that are in the platform, and that we use the best practices when implementing those features. Now, we also had to ask ourselves during the implementation, key questions on a regular basis.
+
+00:25:20:18 - 00:25:42:51
+不明
+And it really breaks into three categories from a practitioner perspective. How will the market actually complete the tasks, and how can we make this as intuitive as possible? And actually the key word here is practitioner. We were moving our teams from being submitting requests to being hands on journey builders. Then for some sustainability and maintenance. How do we manage and maintain this on an ongoing basis?
+
+00:25:43:05 - 00:26:04:35
+不明
+How do we minimize technical debt? You know, all the technical debt that occurs when things during your implementation get kicked down the road? And if you've ever worked with great technology folks, many of you in the room here today, you probably have a unique skill set. You know, the the thought to solve the problem with, hey, let me just write a query for this or a script for that, or I'll use a bit of Python over here.
+
+00:26:04:40 - 00:26:24:35
+不明
+Well, we would have to say okay, that's great. But are you the one planning to manage and maintain this forever? And that would force us to rethink how will this get managed and maintained by a team that maybe has a different skill set? And then regards to flexibility and adaptability. You have to build structure, but it has to remain flexible.
+
+00:26:24:39 - 00:26:52:07
+不明
+It has to be something that can withstand as marketing changes, as different approaches and adds different channels and things change over time, or as an organization even changes its structure. And then one of the key key things here and a key piece of advice, again, I'll give credit to the implementation partner on it was that when we were putting this into the CDP and building that up, we had to make sure that we were, putting in only the data that was necessary for our use cases.
+
+00:26:52:12 - 00:27:14:40
+不明
+And instead of over, engineering a solution where we were stringing, stringing together data that we might need in the future, it's far easier in the CDP to add data over time than to try to remove structures that you don't need. I'm just going to grab a sip of water. It is really dry here in Vegas.
+
+00:27:14:44 - 00:27:41:27
+不明
+And that way you don't have to listen to me smacking my lips as I'm trying to. So taking those principles of our approach, and the key questions that we had to ask, and I'm pretty sure I asked most of these, on a weekly basis to the project. We narrowed in on two key use cases. Use case one really centered around the ability to deliver a very personalized donation appeal to a very specific sponsor segment and donor segment.
+
+00:27:41:32 - 00:28:00:54
+不明
+And I'll interchange donor and sponsor repeatedly in your world is probably you would refer to a customer or consumer, depending on your market. But how do we find that very specific person? And then how do we, send them an update about their sponsor child and, and attach all that unique information about their child and about the impact that they've made.
+
+00:28:00:59 - 00:28:19:30
+不明
+And this would form the entire structure for all the data sets that we would need for launch. And I was confident that if we wrote it with enough nuance in each one of these use cases, that we could actually achieve 80 to 90% of the different marketing team's requirements. So I'll break this down for you. Use case one really focused on how do we build up that profile.
+
+00:28:19:30 - 00:28:37:19
+不明
+What do we know about the customer? How do we put in as much data, as necessary in order to really be able to find them specifically? So are they a sponsor or do they give to us in different ways? What what what have they given to us in the past and the inclusion and exclusion criteria? And I'm sure many of you know this.
+
+00:28:37:24 - 00:28:59:32
+不明
+The beauty is if you write the inclusion and exclusion criteria, you can always invert it to find the other other folks. And this actually gave our architects and our engineers the ability to understand what our unique needs were and structure that profile. And this really was our acceptance criteria or MVP. We had to have these at launch.
+
+00:28:59:37 - 00:29:19:51
+不明
+Anything less than this when we wouldn't have served, all of our teams. And again, go back to that principle of our approach. We had to get as many teams or all of our teams off the platforms. We couldn't just narrow it down to one specific group then for use case two, this is where you get into the fun of data relationships.
+
+00:29:19:56 - 00:29:48:05
+不明
+And how data sets will interact with each other. So in our organization you can be a sponsor. And then you can sponsor one child, you can be a sponsor and sponsor many child up to even 100 children, some of our largest sponsors. But you can have then you can have a sponsor child who has one sponsor, but you can have a sponsor child who has many sponsors, that husband and wife, they may sponsor that same child but under two different accounts.
+
+00:29:48:10 - 00:30:16:59
+不明
+And then that child is attached to communities and that sponsor may sponsor multiple children attached to multiple communities. And that's where you get to have the fun conversations about data relationships. Is it a 1 to 1, one to many or many to many? And how that works best in ATP? And this might be a matter of fact for many of you in the room, or some of you might be saying, I didn't think I'd have to listen to data schema talks and key pair value relationships when I signed up for the World Vision 8 a.m. session, so I'm not going to stay on that for too long.
+
+00:30:17:03 - 00:30:42:11
+不明
+I will say by tackling this, it helped us understand how the data works best in the platform, and it gave our engineers and our architects the ability to structure what we needed to be able to deliver this to our customers and, well, this might not be the approach for everyone. And I've had conversations even as recently as, as, yesterday that sometimes it's easier to start with the most simple use case.
+
+00:30:42:16 - 00:31:05:44
+不明
+I knew that if we had to start with our first two to use cases, we had to deliver. We had to do these ones specifically because we had to get off the platform. We needed this structure in place. And by doing these hard ones upfront, it really deepened our team's knowledge and understanding of exactly how the platform works best and how we'd have to plan for that in the future.
+
+00:31:05:49 - 00:31:29:24
+不明
+Now, while we're doing all that data stuff, we also started to completely redesign our workflow. So this is. Our previous this is complicated to say, but maybe you guys experienced us today. It's a it's a handoff. Marketers submits a request. They submit it to a resource team. So can you get resources to build a list? Can I get resources for my creative assets?
+
+00:31:29:32 - 00:31:50:01
+不明
+Can I get, a resource for it to build the email? Can you confirm that I have for a person to do that job? Oh, by the way, I also need to get a landing page to send somebody to that. And then each one of those has its own cycle. And in 2019 and I think we had four different intake processes and four different forms.
+
+00:31:50:05 - 00:32:13:41
+不明
+And then you meet with the person and tell them, what do you need. Go through that rounds of revisions, they deliver it back, do more rounds of revisions. That all gets compiled together. The email gets sent out, and it takes weeks to launch a campaign. And this might sound convoluted and it is, but this is one of those things where processes sometimes get built up over time to shape and accommodate the technology and the options that you have within those technologies.
+
+00:32:13:46 - 00:32:36:44
+不明
+And we looked at this and said, well, what if we took all that energy that the marketer is having to expend? They already know what they want. They know what they need. What if they work within the toolset themselves? So we set out to do that to empower marketers to work within a marketing friendly toolset where they can create their plans, create their audiences creative journeys, create emails and review it.
+
+00:32:36:49 - 00:32:53:13
+不明
+And that means sorry. And then they do a final QA, and deployment where they actually hand it off to a separate team to do that final orchestration. And this really strikes a balance for us, where our marketers can be empowered to move at the speed that they need, and it also provides them a fresh set of eyes.
+
+00:32:53:18 - 00:33:14:01
+不明
+So how many people here have ever sent an email out to their organization or out enterprise level out from their organization, and you just wish somebody had looked at it before it went out, and you needed that fresh eyes because you were moving so fast and you'd seen it so many times. So allows us to do that and provide assistance to the marketer in that way.
+
+00:33:14:06 - 00:33:34:11
+不明
+But we move from weeks to launch different campaigns to marketers. Being able to have this done within days. And this entire process can be done in even just a single day, depending on the size of the team and what they're needing to do. Especially for you, a lot of your ad hoc, campaigns and emails. Now, I'm going to show you this.
+
+00:33:34:16 - 00:33:58:02
+不明
+This is not an eye chart, and don't try to squint to read it, download the PDF, and even then it might be just a bit too small, but I'm going to try to break it down. We took those steps and this is what it looks like. That blue bar across the top. That's the marketer. The black diamonds are all the decisions that they make anyways, you as a marketer, you know when you want your campaign to go out, you know the audience, you know what you want to say, you know where you're driving it.
+
+00:33:58:02 - 00:34:15:54
+不明
+They were already providing us this information. Those blue boxes. Well, now they're building it in the platform. They're creating everything that they need. That orange team at the bottom is still my team. But we meet the marketer where they're at. So a marketer that needs to do a campaign that they've already done and a ton of times they can do all of this.
+
+00:34:16:07 - 00:34:33:59
+不明
+But sometimes you run into a situation where they need new data that doesn't yet exist. My team would build that. If it's a really complex automation that will assist them where we need to help them there to get them started so that they can manage and maintain it in the future. And then we'll do that QA, at the end again before it goes live.
+
+00:34:34:04 - 00:34:51:56
+不明
+And this provides the marketer with a really self-contained flow and it minimizes the dependency. If I was to show you this from a couple of years ago, let's say 2019, there'd be a lot more orange across this, at every touchpoint and probably about 3 or 4 other colors of the rainbow for all the other teams that they'd have to work with.
+
+00:34:52:01 - 00:35:15:55
+不明
+Now. Also mentioned on the road to empowering marketers. We actually started in 2020 with a relationship with Stancil, who's who's here in the, it down in the pavilion. And what I liked about, stencil was it's a no code email builder. The, the benefit of having that and sorry, I should say we did this in 2020 because we're trying to empower marketers and get them moving in that direction.
+
+00:35:16:00 - 00:35:35:25
+不明
+And we hadn't yet selected, agile, but we were still struggling with that legacy technology. The benefit of a for this during the implementation is that we were actually able to push back on that scope creep of we were already changing all the data. We're already changing all the processes. And somebody even said at one point, hey, why don't we completely redesign all the emails?
+
+00:35:35:25 - 00:35:53:14
+不明
+And we said, well, we don't have to because we can actually use the emails and push them in from from a platform that works. Well. The great thing is that our customers never noticed a difference visually on our emails. They looked the same, especially when you're in that in-between stage where you're transitioning some journeys over obviously faster than others.
+
+00:35:53:19 - 00:36:12:03
+不明
+Now, the benefit for us is that central has a partnership with Adobe, and there's an out of the box connector with agile. So we've been able to push those emails. So we're taking the skills that we already built up. And now we're just bringing people into agile. Or we start people in agile. They build their audiences and their journeys, and then they can go get it from Stancil.
+
+00:36:12:08 - 00:36:28:37
+不明
+Or if you're a slightly larger team, you're working in both, platforms simultaneously. And it's been been great that way. One of the things I really like about Stansell is that concept of like a no code, and that was always my benchmark for what we deliver to our marketers. How do we get them, to, to do this?
+
+00:36:28:37 - 00:36:53:48
+不明
+So we actually took that that idea of how do you get marketers up to speed? And we actually brought in our day to day operations team, the one that was already working on the legacy platform. They knew all the data attributes and how they worked, and we actually had them pre-built audiences. And what we did is we built pre-built, what we call core audiences, and then there's audiences for strategic segments, and then there's your event driven ones, your inclusion and your exclusion.
+
+00:36:53:48 - 00:37:11:26
+不明
+So now a marketer can just drag stuff onto the canvas, and they always start with a core audience as the first thing. And I'll tell you the reason I have the core audience there is our customer can only exist in one core audience, which means that you have the permission to talk to that customer. You've already secured that.
+
+00:37:11:30 - 00:37:28:54
+不明
+And a lot of people talk about building an audience in agile, much like they're modeling with clay. That's how we feel like people do. I want to sculpt what I need, and we actually change that instead. It's actually more like creating a sculpture from marble. And the reason I say that is you start with a marble slab and you strip away what you don't need.
+
+00:37:28:59 - 00:37:59:12
+不明
+So you start with a core audience. So let's say you have permission to talk to sponsors. You start with that. I know that you have the permission to do that, and then you remove, you add and remove your inclusion exclusion criteria in those segments to get down to exactly what you need. And this is really worked well for onboarding of marketers, but it also works well to provide us the guardrails to ensure that when you have a customer that goes across multiple lines of businesses, and in a world if somebody donates to us, you don't want to have ten different marketers saying, oh, I see that you donated to us.
+
+00:37:59:17 - 00:38:22:31
+不明
+And that provides us with the structure. But taking that modular approach, we also did that for our learning center. So we built an in-house learning center just on our, our, in-house platform, where we were able to layer on all the nuances of Ajao and CDP and everything that's in there. And then cross link to experience where relevant.
+
+00:38:22:36 - 00:38:41:04
+不明
+So we have videos that explain what's in the platform, what you can expect, but also walking through each task. So if somebody needs to build an audience, here's a couple task, here's a couple of videos. And what are the naming conventions that you need to abide by. Here's how to do this in the in agile. And we have a short read and then usually a video that actually walks them through that.
+
+00:38:41:09 - 00:39:00:37
+不明
+And I share this. And maybe for some of you this seems obvious, but we actually got it wrong the first time we did it. See, what we did is we booked meetings with our marketing teams. We're excited. We got this new product, the new technology, and it was taught by people who are already had the skill set, and the marketers actually felt like they were getting hit in the face with a firehose of information.
+
+00:39:00:42 - 00:39:18:53
+不明
+And what they were left with is this overwhelming feeling of, I have to learn all these things, and a recording where it's like they'd have to scrub back and go find that two minute section to how do I do this task? And we learned this because we actually surveyed in our internal marketers. For me, it's been always important.
+
+00:39:18:53 - 00:39:40:55
+不明
+What if I was a marketer? What would I want to have done to me? So we surveyed them, funnel what their pain points were, identified some of these things that these were, the things that they said, I have to go look at this video. And we iterated on it and we changed it. And this is what has worked a lot better for onboarding our teams and giving them than a reference guide, and allows us to also curate what do they need.
+
+00:39:41:00 - 00:40:09:20
+不明
+So we can say, watch these videos first, and then we'll have that conversation. So where are we now in 2025? Well, I'm happy to say we're off of our our legacy, especially those two legacy platforms. We drive all of our e-commerce events into ATP. We send our Azure triggered journey events. In there, we have our CRM and cloud data warehouse data flowing in and Am integrations, but we're also able to deliver, our journeys now for automated journeys on email.
+
+00:40:09:27 - 00:40:31:33
+不明
+We do a lot of ad hoc campaigns. We have our direct mail running out of jail. We have, telemarketing set up as an activating an audience to a destination. We use the out of the box connectors for the paid media and social, which really helps to drive down the costs, and achieve efficiencies in those channels. And then we have with the out of the box connector, for our voice of the customer surveys.
+
+00:40:31:38 - 00:41:01:32
+不明
+But I do want to speak to you a little bit about email. So as a charity, you would expect that we would do send out offers or in our language, we would call that fundraising appeals or appeals. So you would expect that as a charity, you do that and you would expect to send emails for updates. But as we talked about, you know, that we we do child sponsorship where you can sponsor a child, but we're talking about how do you deliver personalized journeys, how do you deliver something that's not just sending emails out at just to ask for money or give updates?
+
+00:41:01:32 - 00:41:21:27
+不明
+We want to do that on a personalized level. So let me give you an example of a product that we do have it. It's called chosen sponsorship. And that's where. A customer or a donor will go to a church and sign up to be a chosen sponsor. And they get their photo taken and the photo gets sent to the field halfway around the world.
+
+00:41:21:32 - 00:41:45:36
+不明
+We're children. Two weeks from now will be grouped together to come in and and actually get to look at a wall of photos where they get to choose who's the sponsor that's going to impact their life. And the sponsor gets the reveal of finding out who picked them. And that's a personal connection that gets that happens there. And that's where we talked about it.
+
+00:41:45:48 - 00:42:06:15
+不明
+We want to also then be able to show them the impact. And that's what I mean by delivering personalized journeys. This is the type of thing where you need technology and you can think about it well, how would you do all the back end? Well, that you need technology that can deliver the right message at the right time, in the right channel, to the right customer?
+
+00:42:06:20 - 00:42:26:26
+不明
+So then if we go back to a slide that you seen, earlier on the people process technology side of things, well, we have the technology. We're on a human CDP. We're enriching a customer profile, on a daily basis. We've empowered our marketing teams. But the one thing I want to mention here is our operations team. The one that was always generating those list.
+
+00:42:26:27 - 00:42:46:18
+不明
+Well, we've actually been able to repurpose them and have them work on more complex things, the things they couldn't get to, the data integrations that need to be built, the really complex automations. We're actually able to get a lot of value. They're able to provide a lot more value to the organization. When we talk about processes, we actually have ten different business teams that are actually using this process now.
+
+00:42:46:23 - 00:43:08:12
+不明
+And when I say business teams, that could be somebody that manages the church list and the church relationships. It could be advocacy, it could be sponsorship, a variety of different teams. We're able to reduce their time to market and we eliminate the capacity issues and risks. And what I mean, there is our emergency response team. Well, they don't have to get in line and we don't have to disrupt those activities.
+
+00:43:08:12 - 00:43:29:56
+不明
+Now, one team can deliver campaigns not in weeks, not in days, but they can actually be delivered in minutes when there's a humanitarian emergency. And we need to to activate emails. But most importantly, it goes back to that mindset that shifting from everything, having to be a static list to a continuously updated audience based on ever changing customer data.
+
+00:43:30:01 - 00:43:51:24
+不明
+And I know that we're getting it right. And I and I say this because my internal conversations with with my counterparts and peers are I'm watching one business team talk to another team and say, yeah, we're only going to do automated campaigns where we get the right amount of leads because we actually see the performance. Different women don't want to do any more of those lists, and that's when you know that you're changing mindsets across the organization.
+
+00:43:51:29 - 00:44:09:37
+不明
+The other thing that's been a benefit is that ability to do iterative testing. Marketers always get us to do whatever testing. We were always asking marketers to do the iterative testing. The issue is that to get to that MVP of that list, sometimes you're just trying to get something out the door. Now it's in the control of the marketing teams to do that.
+
+00:44:09:44 - 00:44:34:54
+不明
+That level of iteration. And the other thing that's, and is we're able to think of how we can use data in ways that we've never imagined. We could have even had that conversation four years ago, and even entertained the conversations of how we can leverage data. And that's been amazing to be in a situation where when your teams come to you and if you're in my type of role, you can say, yes, the platform can do that.
+
+00:44:34:54 - 00:44:56:08
+不明
+Or by the way, here's a new feature that just came up from agile would you want to partner with us? And we'll roll that out because we think it can provide value to you. But I want to go back to this slide implementing change. So we we know that we have a destination and we talked about the implementation and all the twists and turns that, you go through on this journey.
+
+00:44:56:13 - 00:45:17:54
+不明
+Now. Selby's what he spoke about for the vision. Well, the vision is actually a lot bigger than just one single destination. This is just about building the martech foundation on the right platform, but it's going to be about reaching a series of destination, and that's going to be a larger road trip. And I know I need to wrap up to make sure we fit in time here.
+
+00:45:17:59 - 00:45:36:21
+不明
+The, I want to let you know where we're going with that. And it is what we are moving in that North Star towards that vision. That's how we talked about how we deliver automation at scale of personalized proof of impact. More tactically, some things that we're really excited about agile and am using content fragments, really excited for folders.
+
+00:45:36:21 - 00:45:56:01
+不明
+They got announced yesterday. And then we also want to expand into some of those channels, some of the ones that were highlighted yesterday, but dive deeper into SMBs and how we coordinate across, multi-channel campaigns and with that, I'll hand it over to Rohan to talk to you more about agile and CDP.
+
+00:45:56:06 - 00:46:28:00
+不明
+All right. Awesome. Thank you so much, Steven. And just an incredible story and so many different learnings there. That was just absolutely fantastic. So I just wanted to give you all a peek behind the curtain at what's coming for email within Adobe Journey Optimizer. Since email was such a core part of the story for World Vision Canada. So when we think about designing an exceptional email program, there's a few things that we have conviction about here at Adobe.
+
+00:46:28:05 - 00:46:52:17
+不明
+First, we believe that organizations shouldn't have to have a large number of email platforms or ISPs in order to be able to handle their email use cases. Rather, you should have one powerful tool that can handle those array of use cases. We also believe that marketers shouldn't need to wait 2 to 5 weeks to get a single campaign or single email out the door.
+
+00:46:52:21 - 00:47:25:58
+不明
+Rather, they should be able to do so in ours, with the right authoring tools and data at their fingertips to hyper personalize emails. We also know that email programs don't stand alone, but rather they need to be deeply integrated into the existing data and content ecosystems that you have as an organization. And finally, we want to really start removing the guesswork from email marketing, instead focusing it more on optimization around the KPIs or the business results that you're setting as goals for your own marketing teams.
+
+00:47:26:03 - 00:47:48:33
+不明
+So I'm going to talk a little bit about innovation in each of these areas. Now when I say email marketing, usually what pops into people's heads right away is the block you see here promotional and evergreen campaigns, right? It's those one time marketing blast seasonal promotions, holiday sales, major announcements. But with agile, we've seen a lot of momentum recently with your life cycle and behavioral triggered emails, right?
+
+00:47:48:35 - 00:48:11:15
+不明
+This is you're Welcome series. Your abandoned cart reminders, your post-purchase follow ups, how you're reengaging people over time. And of course, no email program is complete without your transactional and operational emails, right? Your order confirmations, your password resets, your shipping and delivery notifications. And you may notice that all of these have different teams that generally work on them within organizations.
+
+00:48:11:20 - 00:48:34:22
+不明
+And we see that about 56% of companies have over to email platforms to be able to handle this array of use cases. And over a quarter have three, four, or even five ISPs. I recently heard from an organization that had 11 ISPs that they were using internally to handle a full array of different email use cases. So what's the problem with that?
+
+00:48:34:26 - 00:48:56:43
+不明
+Well, that creates a lot of complexity, right? Not only the duplicate licensing and infrastructure costs and your higher operational and data costs, but it also silos all the workflows across your teams. Data is harder to manage across solutions. You have to manage your governance, your compliance, your legal management, your deliverability, your IP warmup, all of these different things across solutions.
+
+00:48:56:48 - 00:49:20:36
+不明
+And at the end of the day, you may end up with a disjointed customer experience because emails are going out of all different systems to those customers. And so with agile, our focus is how do we start to take all these email use cases and really do them exceptionally well within one tool? So there's a few things that we're bringing out through the rest of 2025 that will allow you to do just that.
+
+00:49:20:41 - 00:49:49:32
+不明
+First is we are reimagining agile campaigns. So this will allow you to launch those complex, multi-step campaigns that happen for email and across channels with things like multi entity segmentation. So you aren't just segmenting based on the unified customer profile that lives within Adobe Experience platform, but rather you can segment based on other data types like products or stores or subscriptions or accounts.
+
+00:49:49:37 - 00:50:12:47
+不明
+And you can get on demand counts for your segmentation as you're creating those campaigns and even build and iterate them as you're going through your campaign workflows. And with you today, you can already handle high throughput across both marketing and transactional email use cases. But coming in the second half of this year, we're bringing more dedicated options to expand throughput even further.
+
+00:50:12:47 - 00:50:42:34
+不明
+In case you have enormous global campaigns or low latencies. If you need to get messages out the door really fast with more flexible scaling as well as rate control. So you saw a slide that looked a lot like this one earlier, right? Stephen talked about moving from a traditional hand off approach to a marketer empowered approach where marketers can really take control over their end to end campaign workflows, but that relies on having the right tools in place so that marketers can offer as needed for those emails.
+
+00:50:42:34 - 00:51:02:16
+不明
+They can do the personalization that they need. So there's a couple capabilities that we're bringing out that give marketers the control that they need, and the confidence that they need to be able to author a compelling, personalized and on brand emails. The first, which I'm really excited about, is coming in the third quarter. It's called themes in the Agile Email editor.
+
+00:51:02:21 - 00:51:33:51
+不明
+So this allows your teams to define themes using your brand colors, your fonts, your sizes, and more, and then quickly apply those to emails as you're creating them. So you could be sure that every email that you create feels just like your brand and allows your marketers to move faster. And a really popular release from last February was Content Locking, which allows you to lock content at any level of the email from a specific block of text to certain components within that email logos, headers, footers, legal text.
+
+00:51:33:55 - 00:52:03:34
+不明
+So as marketers are going through their workflows, they know that they're not going to break anything with the existing emails that components that they need. Last year we also brought to market AI assistant for content generation. This allows you to use prompt and gen AI to create email, text, or even entire emails, pictures, etc. but there's a number of enhancements that we're bringing out in the rest of this year that are really groundbreaking.
+
+00:52:03:39 - 00:52:37:03
+不明
+First is brands and adherence checks. This will allow you to automatically extract your brand guidelines, including writing style, your imagery, your colors, and then use AI to perform quality assurance and quality checks. It scores adherence to how well you did in authoring that email against your brand guidelines, and all generated content adheres to your brand guidelines. Additionally, we know that many of you are global companies, so we're giving you the ability to generate content in non-English languages and even ingest non-English brand guidelines for AI assistant.
+
+00:52:37:04 - 00:52:59:04
+不明
+When we released it, it wasn't just for email. It was for a lot of the channels we have within now, including SMS, MMS, web channel and more. But now we're adding landing pages to the mix and that's already live in product. And lastly, we know that writing personalization script can be difficult. So coming in the second half of this year we're allowing you to use natural language to generate personalization code.
+
+00:52:59:09 - 00:53:34:17
+不明
+So a number of capabilities that allow your marketers to excel. Now as I mentioned earlier, we know how important it is that your email solution is deeply integrated to your data and content solutions. In fact, we've seen more organizations connecting their enterprise data warehouses directly to Adobe Journey Optimizer as their system of engagement. So we released Federated Audience Composition, which allows you to create audiences for your email campaigns directly from your enterprise data warehouses like snowflake, while also minimizing data duplication.
+
+00:53:34:22 - 00:53:59:39
+不明
+As you know from the keynote yesterday, Adobe has a strong content ecosystem and foundation, so we're announcing a number of really powerful integrations in the second quarter that connect Adobe Journey Optimizer to these various content solutions. That includes the integration with Gen Studio for performance marketing, so that you can generate content in Gen Studio and flow that right through to geo to personalize, orchestrate, and deliver.
+
+00:53:59:43 - 00:54:24:06
+不明
+We're integrating with Adobe Express so that you can edit assets directly within and including things like text overlays. And we're, integrating with Adobe Experience Manager so that you can use, fragments directly from AMP sites within your email campaigns and content across channels, making things faster than ever.
+
+00:54:24:11 - 00:54:44:56
+不明
+And we are we know how important it is to integrate with third party solutions. Steven talked about our stencil integration earlier. It allows you to use stencil for your email authoring, and then to keep that in sync while using it with Adobe Journey Optimizer. We've also recently integrated with movable ink DaVinci so that you can personalize even for batch campaigns.
+
+00:54:45:01 - 00:54:57:28
+不明
+And lastly, an integration framework for a much more expansive set of third party integrations, to integrate across the email ecosystem.
+
+00:54:57:32 - 00:55:22:41
+不明
+So I know we're a little tight on time here, but I'll keep rolling through these quickly. And then, we'll, we'll wrap up from there. So I know how important it is to, take the guesswork out of email marketing and instead focus on optimization. So already within Adobe Journey Optimizer, you can run experiments, right? You can create multiple variations of an email, and you can determine the optimal layout, content, sender name, subject lines, any of that.
+
+00:55:22:52 - 00:55:45:52
+不明
+But coming in the second quarter, we're allowing you to then immediately and automatically scale the winning treatments from those experiments so you don't have to wait around for an experiment to end, decide the winner and move on from there. Already within Adobe Journey Optimizer, you can use rules or AI decisioning to identify the next best offer the next best content for a given customer in their customer journey.
+
+00:55:45:57 - 00:56:10:37
+不明
+But coming in the second quarter, you can understand how decisioning is working with a new decisioning dashboard. And finally, within Adobe Journey Optimizer today we have seen time optimization. This allows you to use AI and ML to predict optimal send times based on historical open and click rates. But now we're really allowing you to get more fidelity with honoring the preferences of your customers.
+
+00:56:10:49 - 00:56:43:55
+不明
+You can set quiet hours that depend on customers in their specific time zones. You can detect overlaps across channels and even set frequency caps. And lastly, none of this matters if the email isn't landing in the inbox. We know deliverability is key. So we launched proactive spam scoring. This uses Spam Assassin to give you a score as you're authoring the content, and even gives you an actions list so that you can make sure that that email is going to work with ISPs and efficient IP warmup.
+
+00:56:44:02 - 00:57:14:40
+不明
+This gives you a single canvas so that you can conduct deep warm up. You can create, execute, edit, and track it, including reporting on things like your delivery, your bounce errors, your retry rates by domain. So I know that is a ton of innovation that we've packed into our roadmap for email within Adobe Journey Optimizer. There's some great resources here to learn more, including a blog post, a more deep dive capability guide, and you can even play with the AI assistant for content generation in Experience League.
+
+00:57:14:40 - 00:57:34:34
+不明
+If you want to learn more. And that concludes our session today. So we wanted to say a huge thank you for coming. It means a lot that you're here. We would really appreciate feedback. It helps to make sure that we deliver the best content for you every time we have a session. So please go into the app, click on the survey section in the left hand nav.
+
+00:57:34:39 - 00:57:49:18
+不明
+We really appreciate any any feedback. And with that we can open it up for maybe a question or two. And we're happy to hang out outside the room. The folks have individual questions. After. Thank you.
+

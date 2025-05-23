@@ -1,0 +1,540 @@
+00:00:00:01 - 00:00:26:34
+不明
+Welcome. Good morning. You made it at eight a am and you're here. Bon voyage. The people and process behind Marriott's successful CDP journey. Thank you for being here. I know it was probably hard to hear your alarm this morning. And so we're going to, congratulate you for being here by starting with a game. And, there may or may not be prizes.
+
+00:00:26:40 - 00:00:55:30
+不明
+So get your competitive juices flowing. Okay. So how you play this game? There's going to be pictures on the screen. They represent something. Think to yourself what what they say and what they might say when put together. So a b and a leaf. What would that be? Good job. You get it? Okay, so that was the.
+
+00:00:55:30 - 00:01:08:41
+不明
+That was the trial run. Now we're going to go for real. So just shout it out. Whoever gets it first. Will may or may not get a prize.
+
+00:01:08:46 - 00:01:27:33
+不明
+Yes. Who said it? Marriott. Right over there. I think you should, but. Sorry. Good job, good job. All right. Ready? Next one.
+
+00:01:27:38 - 00:01:39:49
+不明
+Thanks. Nice. That was quick. Good job. She had her coffee, and you're making her run. So good job.
+
+00:01:39:54 - 00:01:48:02
+不明
+Okay. Ready for the next one? This is the most challenging. So get ready.
+
+00:01:48:07 - 00:02:20:06
+不明
+For. That. Yeah. Who's that? Say a louder. Adobe summit. Oh, that's the same guy. Maybe you can, give it to a friend or a colleague. I should have said that as part of the rules. You can't run twice. All right. Little warm up. I hope everyone's ready. We'll try to make this exciting. So start with introductions.
+
+00:02:20:11 - 00:02:49:57
+不明
+Hi, everyone. Kristen Cooper. I am part of Marriott International. I'm on a team called, marketing data activation and personalization, and I look after our audience capability. Both from a platform perspective and capability perspective. Hi, everybody. Nina Caruso. I am on the product marketing team for Real Time CDP, and thrilled to get to share the stage with Kristen today.
+
+00:02:50:02 - 00:03:24:50
+不明
+So this session is all about an audience center of excellence. But before we dive into what that is and what it means, we need to start with defining what exactly a CDP is in the first place that's going to support an audience center of excellence. So with Adobe CDP, the, just to walk through it for you, there's three key components collecting, ingesting and federating data, creating these actionable profiles, and then activating that data.
+
+00:03:24:55 - 00:03:57:46
+不明
+So for brands like Marriott, they're bringing in, known customer data. They're bringing in prospect data in many cases, anonymous data, third party data. They may even be federating data from their warehouse. And they're bringing it all together in these actionable profiles. They're creating models. They're creating audiences based off of these. And then they're activating these. And what's critical we see at Adobe is to be able to do this all across the funnel.
+
+00:03:57:51 - 00:04:20:33
+不明
+So all the way from paid media use cases to using it and own channels and sending it back to enterprise systems like warehouses or call centers, and having all of this backed up by this end to end governance framework to allow for the safe, monitored usage of the data.
+
+00:04:20:37 - 00:05:00:02
+不明
+So a customer data platform, whether it's Adobe or any CDP, hopefully represents this very exciting opportunity for the enterprise to benefit both from a bottom line perspective, but then also to take away some operational benefits as well. So things you can expect from a CDP, being able to execute those full journey marketing use cases, being able to, create touchpoints with individuals, whether they're a prospect or a known customer from the point of acquisition all the way down to conversion, retention and loyalty.
+
+00:05:00:07 - 00:05:37:53
+不明
+And hopefully those touchpoints are resulting in some key lifts. So things like increasing conversion and engagement by being able to have a better, more well-rounded data set. So being able to access data throughout the organization, democratize it is a key benefit of the CDP. And all of this bringing together again these comprehensive profiles. Now, on the operational side, by bringing those, actionable profiles together for the organization, this can help with cross team collaboration.
+
+00:05:37:58 - 00:06:05:49
+不明
+Now, there's a common set of audiences that can be used for marketing or other purposes that can be used across teams. In many cases, this can help facilitate cross team communication with entirely separate, disparate teams having the opportunity to connect and work with one another in ways that maybe they never have before. And hopefully all of this translates into some big efficiencies, especially on the practitioner.
+
+00:06:06:01 - 00:06:18:33
+不明
+The end user side of having that better accessibility to data to create audiences and then streamline the activation across so many channels.
+
+00:06:18:38 - 00:06:47:09
+不明
+So here's where the audience SEO becomes so necessary. If we take back that diagram of what are the fundamentals of a CDP, from collection to our federation to creating profiles to activation, look at all of the different teams who touch aspects of this. Likely there's an advertising team who has access or maybe cares about some of those, synonymous identifiers.
+
+00:06:47:10 - 00:07:22:11
+不明
+There's probably a marketing team that's going to have some of those, known customer identifiers. In signal information, an IT team who's probably owning the data warehouse that the CDP may be separating from. There's partnerships and advertising teams who have a stake, in terms of the execution of paid media or advertising channel execution. Then there's customer engagement teams who are owning the own channel activation and then customer service and support.
+
+00:07:22:16 - 00:07:53:34
+不明
+Who would probably want to make use of when the CDP writes back to call centers or other enterprise systems. Now, in many cases, there could already be an audience strategy team that is dictating how and when and where audiences are used across the enterprise. Stay with me here. There's still a data science team that cares about the models that are built within the CDP, wants to understand them, and then privacy and legal always want to have a seat at the table.
+
+00:07:53:34 - 00:08:26:31
+不明
+They want to be able to understand what are the governance labels and rules that are put in place in terms of how and when and where individuals are using data and how to activated downstream. Now, when we look at each of these different teams and how they touch different aspects of the CDP, in many cases each of these teams have their own data, their own KPIs that they care about, their own processes and many ways, their own way of working.
+
+00:08:26:31 - 00:08:56:42
+不明
+Sometimes their own culture. So this is exactly what we're looking to solve for when we think about an audience center of excellence and the data back to the shop. When we looked at the CDP Institute's most recent survey of their customers, CDP and users 43% of those who were surveyed said that cooperation is the biggest obstacle to blocking better customer data utilization.
+
+00:08:56:47 - 00:09:23:08
+不明
+It's not the technology. It's the people in the process that makes the difference. That's the barrier to getting to value. And I love this quote too, from McKinsey. And I think it speaks to what we're going to dive into today, that the marketing operating model is the foundation that's needed to help build these capable bility, or close these gaps in capabilities to help drive the business forward.
+
+00:09:23:13 - 00:09:54:54
+不明
+So that's why we have a whole session devoted to this today, which is how do we bring the organization together, all of the disparate parts of that, to create this audience center of excellence that ultimately helps to drive value from your CDP investment. The audience really is helping to define business priorities. It's helping to streamline the KPIs that sometimes conflict honestly across all of these different teams.
+
+00:09:54:59 - 00:10:22:02
+不明
+They're helping to identify and prioritize different use cases. And what I think you'll see come across in this presentation as well, is build the culture that sets the tone for how this all comes together and is hopefully successful. So I know that sounds like a lot. And it is. We recognize this is a journey. It's sort of like the steps that you took here today.
+
+00:10:22:08 - 00:10:41:55
+不明
+You didn't just get here. If you're a Harry Potter fan, you didn't just operate here, even though maybe you wish that you did. You probably had to secure travel approval and budgets in your organization. Book your flight. Book your hotel. If you're like me, you spent a lot of time figuring out childcare for when you're leaving young kids at home.
+
+00:10:42:00 - 00:11:04:22
+不明
+You had to look up the weather, decide what you want to wear, pack your suitcase looking over to the airport. Look through the summit app. Decide what sessions you want to attend. Choose which dinner and parties to all of the ones you were invited to to figure out where you wanted to go. And then hopefully on the plane ride home, you're taking the time to share some learnings and insights from colleagues who weren't so lucky to be here.
+
+00:11:04:26 - 00:11:36:11
+不明
+So there was a lot to do to even get you to where you are in your seats today. And that's just like creating an audience. SEO. It's a journey. The Christian and I have taken the time to break this down into six steps, to make this easy and digestible, to understand how to successfully establish and adopt an audience SEO that drives your business forward and extract as much value as possible from a customer data platform investment.
+
+00:11:36:16 - 00:12:05:42
+不明
+So the six steps here. First is dream. Thinking about where is it you want to go on this CDP and audience SEO journey? The steps you need to prepare before you take that leap and fully roll out the CDP in the audience. SEO go is where we're an execution time, where we're adopting this. We've designed the model, we're rolling out the use cases measuring to understand is this working or not?
+
+00:12:05:44 - 00:12:35:37
+不明
+Is this bringing us the results that we were looking for? Having fun. So building a culture that, brings fun into the mix. And we'll explain a little bit more about why we played that game at the beginning and then planning your next trip. This is not meant to be a set it or forget it exercise your audience SEO and your CDP should constantly be growing and evolving and changing as your business hopefully grows and changes as well.
+
+00:12:35:42 - 00:12:59:24
+不明
+So step one in this six part journey is dream. So this is all about Ideating. What is it you're trying to get to? What are you trying to accomplish when you adopt an audience? Or when you adopt a customer data platform and how the audience SEO can help you to drive to there. So I think about this from the lens of what, where, why?
+
+00:12:59:29 - 00:13:28:05
+不明
+What are the specific business issues that you're trying to solve for? Can you state those clearly to make sure that the CDP and the people and processes that back it up are solving for that? Where so what are the specific capability gaps that your organization feels today? And making sure that the CDP that you choose and the people and process are set up to fill those gaps that you've identified.
+
+00:13:28:10 - 00:13:52:50
+不明
+And then most important, in my opinion, is why why are you looking to make this investment in the first place? Do you have a North Star in terms of where you're trying to get to with this investment? From a technology perspective, but are there things you're trying to accomplish from a people and process perspective as well? So, Kristen, I'll turn it over to you.
+
+00:13:52:55 - 00:14:26:39
+不明
+Thank you. What a great place to end. But before we get too deep into this, I'll ground you all. In case you don't know about Marriott, who we are. So Marriott International is a travel company. We have over 30 brands. 9100 properties across 142 countries. Large scale. But we are not just hotels. We also offer our members tours and activities and moments.
+
+00:14:26:43 - 00:14:50:23
+不明
+I don't know if you know, but we do one point drops where you can literally redeem a single Bonvoy point for something like tickets to the Stagecoach Music Festival. We also have partner products like our Co-Brand credit cards, our eat around town food and beverage options boutiques. You can have a western heavenly bed in your home.
+
+00:14:50:28 - 00:15:13:50
+不明
+Amazing. And we expand that even broader by partnering with other brands in the travel space. And that's global. So I've just listed a few here. But Starbucks is another. Did you know that while you're in stay at a marriott, you can earn extra Starbucks points or you can earn Bonvoy points on your Starbucks purchases? So partnerships are big.
+
+00:15:13:50 - 00:15:53:53
+不明
+And really, what I'm trying to have you take away to kind of start this presentation is that we are large scale, and our strategy is around building the world's most loyal travelers by having a portfolio of amazing experiences, no matter where you go. That scale that makes Marriott such an awesome, prolific brand is also the thing that is challenging because the magic here happens in pairing those two things together, finding what our customers are passionate about and why they travel, and pairing it with our portfolio of hotels and experiences.
+
+00:15:53:58 - 00:16:35:23
+不明
+So enter the CDP. Nina walked you through kind of the initial first steps to take when thinking about a CDP investment. So I'll give you some insight into how Marriott was thinking about that. There were really three things that we wanted the CDP to do for us. The first is democratize access to data. Before the CDP, often our marketing and customer experience teams had to go solve the data problem for every channel and every individual, kind of experience or solo campaign, that they wanted to activate to their customers.
+
+00:16:35:23 - 00:17:07:04
+不明
+And that was challenging. Often the data was in platforms like the ones that you see on the screen that are quite technical and require it. Engagement. The second job that we wanted the CDP to do was enable omnichannel activation. Once the marketers have access to that data to build their own audiences. So the catchphrase here that I like to say in, in our organization is build the audience once and activate it everywhere.
+
+00:17:07:09 - 00:17:34:43
+不明
+That means you no longer have to solve the data problem for each channel. You have a unified set of customers that you're trying to reach on any, platform or channel where they may engage with your brand. And last but certainly not least, we wanted to localize activation. So we are a large company. I mentioned 142 countries where our properties are and our members are in even more than that.
+
+00:17:34:48 - 00:18:00:53
+不明
+And the people that are really closest to those customers knowing what they care about and what their priorities are, why they travel, are the people in our global regional teams. And so we really wanted the CDP to solve, having that single centralized source of data where those marketers that are close to the customers can self-serve, as much as possible.
+
+00:18:00:58 - 00:18:32:52
+不明
+So entered Adobe CDP. We are an Adobe shop. We have a lot of Adobe products, which you can also see on the slide here. And the usability of our CDP was really, something that made us think that that was the right place. But for us. So we say that Adobe real time CDP is a real time extension of our data warehouse for marketing and personalization use cases.
+
+00:18:32:53 - 00:18:39:34
+不明
+So it is our activation ready set of customer data.
+
+00:18:39:39 - 00:19:05:24
+不明
+Obviously that didn't happen or we didn't get where we are overnight. So of course, we started with that vision that you saw in the last slide, something that was really important to us. And I'll talk about our pilot in a bit more detail, in a moment. But something that was really important as we were starting out was partnering with other, service providers that have done this before.
+
+00:19:05:29 - 00:19:28:54
+不明
+For us, Accenture was a major partner in both our pilot journey and continues to help us kind of on our journey. And that was really critical to, getting our pilot and initial learnings quickly and kind of guiding our teams through the process. This is a new skill set that we don't necessarily have, in-house at the beginning.
+
+00:19:28:59 - 00:19:53:48
+不明
+Third was kind of aligning our organization to, based on the pilot and things that we learned, aligning that, you know, this is something that we want to invest in and grow our martech stack around. So that was kind of our third step. And I'll be honest, any large enterprises can, can probably agree with me that this is not an insignificant step of the journey.
+
+00:19:53:53 - 00:20:18:19
+不明
+And that has to happen before you get to implementation. For us, this happened really in earnest about a year and a half ago. So just to give you a sense of where we're at in our journey, but that was, I like to say, do it for real this time and, start incorporating the more, kind of engagement model that you'll see a bit later into.
+
+00:20:18:24 - 00:20:56:51
+不明
+This is not just technology, right? If we're really going to adopt it into our martech stack, we have to have that people in process around it. And now I would say we are at the point probably inching towards that. Number five on the road of actually scaling our use of this. So this is things like migrating old campaigns to use this new technology and start guiding our marketers to think more omni channel through those kind of key things, democratize access to data, omni channel activation, really key and localized activation.
+
+00:20:56:56 - 00:21:29:04
+不明
+All right. Thanks, Kristen. So we got through kind of that dream figuring out where we want to go. Now it's time to prepare. And Kristen mentioned this briefly. But we're going to talk about pilots or test, cases and what they can offer to you as you set out on this journey. So when we think about at Adobe, what it makes a, a good way or a framework to think about pilots or test cases, first is verifying the functionality.
+
+00:21:29:09 - 00:21:55:23
+不明
+So you bought a CDP, likely because you are missing certain technology. You're trying to fill that gap, test out some of those capabilities that you were looking to buy as part of the pilot to make sure that they're working as you expected them to. Momentum. So pilots provide a great way to hopefully see early performance and quick wins.
+
+00:21:55:28 - 00:22:21:56
+不明
+Use that as a mechanism to get that organizational buy in that alignment that you're doing the right thing by continuing to invest and roll this out. When you identify what that test, case or pilot is, I recommend that it be straightforward. There is so much that real time CDP can do. So think a little bit small for the pilot.
+
+00:22:21:56 - 00:22:49:50
+不明
+So it's easy. It's somewhat quick to execute. And then when you think about the insights that you're gleaning from the pilot, take those learnings to the implementation itself. Did you learn that a certain data source needs to be cleaned up? Was something not working exactly the way you thought it would? Think about this from a process perspective, to where there are different teams that should have been involved in the pilot, or would have been helpful to you.
+
+00:22:49:59 - 00:22:58:48
+不明
+Think about bringing them in as you fully roll out the CDP and the Audience Center of Excellence.
+
+00:22:58:53 - 00:23:28:42
+不明
+So Marriott did do a pilot, as I mentioned, very similar themes to what Nina and, and, Adobe's, recommend nations are. But for us specifically, these were kind of our are what we were trying to get out of the pilot in priority order. So as Nina mentioned, capability validation was big. Like many large or even not large, but established enterprises, you probably have a tech stack already.
+
+00:23:28:47 - 00:23:51:40
+不明
+And integrating into what you have existing is a a massive, not insignificant part. I think, anyone who may have done a technology implementation has probably thought at one point, and I wish I could, like, literally build this from the ground up. But that's probably not the case for many of you. So capability validation was big for us.
+
+00:23:51:44 - 00:24:16:13
+不明
+The second thing was that cross-functional stakeholder engagement. And I'll say, I even wish we had focused on this more in the pilot. Some of the teams that we did engage during our pilot are listed on the screen. I'll call special call out to enterprise Architecture and Security. That is maybe one that could be thought of as.
+
+00:24:16:13 - 00:24:39:40
+不明
+Oh, we'll handle that later. I highly recommend that you keep those people in the loop during your pilot, getting those learnings and asking key questions that you'll need answered before kind of implementing it for for scale. And and third, but obviously still important was selecting use cases that were aligned with our strategic revenue drivers in the organization.
+
+00:24:39:45 - 00:25:03:42
+不明
+So use cases that people care about already will help you tell your story later. Of the value that CDP could provide if you were to scale it, even, to business as usual. I already gave a call out to to partners, but it really like the next slide will show how quickly we went. And I highly recommend that you engage someone who has done this before.
+
+00:25:03:47 - 00:25:30:42
+不明
+That's what's going to help you get to a five month pilot. So this is just a little bit more about our specific pilot. It was about five months from when we initiated the first, sandbox to when we activated all four pilot use cases. We were testing for us. Streaming data, ingestion and streaming segmentation were really important to that.
+
+00:25:30:43 - 00:25:55:43
+不明
+That job that we wanted GDP to play. So we were testing that, you know, we had some real time data sets alongside batch data sets. We were we were looking at how the identity resolution and the unified customer profile was put together at scale. So 189 million customer profiles were created during our pilot. And we had four key use cases that resulted in six segments.
+
+00:25:55:43 - 00:26:21:08
+不明
+And these were segments of different types. Right. So we were testing that ability to combine data from different sources, combine digital data with data warehouse or loyalty type data, and create a combined luxury segment, for example, of people who are both browsing and had relevant signals telling us what they might be interested in, those types of experiences and past actual transaction history.
+
+00:26:21:10 - 00:26:45:53
+不明
+Just as an example from an activation perspective, really important for us to test both owned channel activation. So email and digital personalization, were part of our pilot and paid activation. I there are many sessions here that I think this is really key to be able to have one centralized audience that can be activated to both places.
+
+00:26:45:53 - 00:26:52:09
+不明
+And that was something that we tested during our pilot.
+
+00:26:52:14 - 00:27:15:47
+不明
+All right. So we figured out the dream where we're trying to head to we've prepared with the pilot. Now it's go time. And I would say this is the media's part in this, in this six part journey that we're on, is rolling out the audio and SEO as you're fully adopting the CDP as part of your organization. So what is the CEO doing?
+
+00:27:15:47 - 00:27:42:49
+不明
+We've talked kind of around this. Let me lay out some basics for you. The CEO for an audience CEO is responsible for ultimately driving the strategy. They're owning the initiatives on behalf of the organization, for the audiences that are used and managed within the CDP. They're measuring the effectiveness they're looking at. Did this do what I intended it to do?
+
+00:27:43:04 - 00:28:08:45
+不明
+They're facilitating this cross-functional, communication and processes that probably are new to the organization. And ultimately they're doing a lot of governance work as well. Right? They're deciding who has access, who needs to have access, how and where data is used. So a few things to consider if you're going on this journey or about to embark on it yourself.
+
+00:28:08:50 - 00:28:38:34
+不明
+One is that this is not a one size fits all approach, is that ultimately, different types of CEOs are going to work for different types of organizations. So if you are a large conglomerate that has multiple different business units, a distributed CEO may actually work best for you. Where there's multiple CEOs per business unit for the majority of organizations, probably some type of hub and spoke model is going to work best.
+
+00:28:38:39 - 00:29:04:30
+不明
+Another important consideration is the skills that you're bringing to the table. When we think about a CDP. There's so many different parts to it. There's technical parts to it, there's business strategy parts to it. It's bringing in different groups within the organization. So thinking about the diversity of those skills and bringing some of those individuals and their backgrounds to the table is really, an important consideration.
+
+00:29:04:34 - 00:29:26:46
+不明
+I would also say that this is something that should be revisited. So when you're at the beginning of your journey, your CEO and the things that you're doing and the people who are part of it may look different once a year or 2 or 3 years down the road, maybe you don't need as much help, for example, from an architecture team to help with implementation.
+
+00:29:26:50 - 00:29:58:21
+不明
+Maybe more of the focus is on business strategy instead. So there's a lot that the audience here we can do, should do, is responsible for. So let me walk through some examples today. One is the audience. CIO should be owning the implementation of the CDP itself as it rolls out across the organization. They should ultimately own the audiences, how they're created, who's touching them, where they're activated in the CDP.
+
+00:29:58:26 - 00:30:29:00
+不明
+They should own integration. So these set up as both inbound data sources and, external destinations where data is being set to this group should own the execution, the project plan that they've put together. They should also own the roadmap. So deciding what use cases and business priorities they're solving for and in what particular order. An important role for an audience C02 is vendor management.
+
+00:30:29:05 - 00:30:56:45
+不明
+So understanding from your CDP vendor, what's on their roadmap, what capabilities have they rolled out and how can you access them or learn about them with your organization? We've already talked a little bit about governance and usage, but the audience CIO should be acting as somewhat of an administrator, of deciding what levels of access different groups or different individuals should have when it comes to their touch of the CDP.
+
+00:30:56:50 - 00:31:20:08
+不明
+They should be owning communication. So reporting out to the rest of the organization how the CDP project is going and hopefully what value is being extracted from it, owning the measurement as well. So looking at as you've launched a campaign, as you've tackled a use case, did it perform, to the expectations that you had set out for?
+
+00:31:20:13 - 00:31:47:38
+不明
+And then last but not least, is education and adoption so critical? But the audience should be owning how different groups within the organization are ultimately going to use the CDP, making sure they're embedding it into their regular workflows, but also making sure that they have the learning, the education to be able to use the CDP effectively as well.
+
+00:31:47:43 - 00:32:13:10
+不明
+So Christian's about to get into more details in a moment, but I thought it'd be helpful to take a look into from a more of a generic standpoint of roles and responsibilities and who the different players are when it comes to an audience. SEO. When we look at this across many organizations that we work with at Adobe. What's most critical is the core team and the size of the organization.
+
+00:32:13:24 - 00:32:37:09
+不明
+That core team could be could fluctuate a lot. It could be one person. It could be 20 people. What's most important, in my opinion, is having a product owner, having someone who is driving and owning the CDP. If there's no product owner, the CDP is probably never going to be used and you'll get no value from it. So have someone who's the owner.
+
+00:32:37:14 - 00:32:59:50
+不明
+What this core team is responsible for is all of the day to day that I just walk through at the outset, they're helping to drive forward the implementation. They own the project plan, the roadmap. They're figuring out who has access. They're doing a lot of cross-functional communication. Hopefully, this core team is backed up by a stakeholder team and executives as well.
+
+00:32:59:55 - 00:33:26:55
+不明
+On the stakeholder side. Don't expect them to be involved in the day to day. Maybe they're participating as needed. Maybe there's monthly readouts from a we talked about it and legal before. It's important to get them involved at the beginning. They could be a stakeholder where they're brought in. As you go on for specific use cases that require new types of data, and getting their input on what they're comfortable with using from an activation perspective.
+
+00:33:27:00 - 00:33:50:28
+不明
+And then there's the executives. Hopefully they're providing you budget. They're providing you some air cover. They're helping to break down any challenges or roadblocks that you may face. And also hoping to have them sign off on kind of cross functional decisions and help with establishing what that North Star is at the outset. So, Kristen, what does this look like for me?
+
+00:33:50:29 - 00:34:27:17
+不明
+All right. Get your phones ready. So here's Marriott's operating model. And this is going to be a building slide. So you can take one now. Or you may wait. So this is the pieces of our operating model, at the highest level. So, audience capability product manager. Hi. That's me. And then we've broken our kind of team that that's around the CDP, focusing on bringing the most value into two parts that are kind of turning and facing other parts of our organization.
+
+00:34:27:22 - 00:34:59:10
+不明
+So our audience center of excellence, are the users of the CDP. They are the people who build audiences and send them to destinations. This is a fairly small team. But, you know, at our scale, small is big. This is about 20 to 30 people, and they're representing primarily our regional teams. For you, that may be something like business units for us, putting data in the hands of marketers you saw was one of our our key objectives here.
+
+00:34:59:15 - 00:35:22:08
+不明
+So the regions each have a few members on the SEO and some of our key channel or like experience owners. Also set on the SEO, we started small. So we did not invite everyone in the organization in at the beginning. And this is like if I had another pro tip, that would be one of them.
+
+00:35:22:08 - 00:35:53:51
+不明
+Start with, super users who will get trained early and be the first adopters and flesh out things like your audience naming convention, your destination naming convention, how you're going to use tags, things like that. A small kind of tiger team that is in this day to day, they live kind of in the marketing organization, but they have a little bit of that data acumen is going to really help set you up for then future scaling.
+
+00:35:53:56 - 00:36:24:58
+不明
+Those people are kind of representing the customer experience side of our organization. So their stakeholders are marketers, both kind of headquarters based for us. I said regions are really important. We have a few business units. So they represent those teams that are, kind of thinking about customer experiences holistically. And the audience center of excellence is their bridge into the data audience question within a campaign.
+
+00:36:25:03 - 00:37:03:14
+不明
+They also interface with channel operations team. So of course, we have teams that are focused specifically on email and specifically on, smash and push. We have teams that are specifically focused on kind of digital merchandizing, personalization and service channels. Many of you are maybe also on a journey like us towards more omnichannel thinking. This audience center of excellence is really helping kind of coordinate what previously were more channel specific strategies into a more audience led strategy.
+
+00:37:03:19 - 00:37:32:50
+不明
+On the flip side, is the platform team. So these are the people that are building reusable capabilities. They're making new data available in the platform. They're making new channel integrations available in the platform. As Nina mentioned, they are working very closely with our Adobe partners on what new products and features are coming available, how they might support the use cases that the Audience Center of Excellence team has surfacing.
+
+00:37:32:55 - 00:38:04:06
+不明
+And they're also, of course, continually working with, IT enterprise architecture, security, things like that. So let's bring this to life a little bit, like how all this actually works. So let's say we have a use case, that let's say the Asia Pacific team is bringing to the table, the Asia Pacific team is going to engage with their 2 or 3 representatives on the audience Center of Excellence to say, hey, what data do we have available?
+
+00:38:04:11 - 00:38:35:57
+不明
+I want to drive demand to a certain market in a certain time frame. What, like who is most likely to respond to this KPI that I'm trying to drive? So marketers are bringing your goals, your KPIs, to the audience SEO, the audience, SEO in CDP. This is like revolutionary for us, is able to log into the platform, do some exploration of what signals we have available, and size it right away using that fancy audience estimator feature.
+
+00:38:35:57 - 00:39:11:33
+不明
+If you're familiar, if the data is already there, marketers happy with the size of the audience that fits with the goals. And it's ready to go, then that team can build it, distribute it to the channels. That's it. No more engagement with it, no more kind of long timeframes waiting for prioritization. This is it. If, let's say we need new data, let's say that we want to do some really cool like data science, propensity based activation and and that doesn't exist today for for a specific use case.
+
+00:39:11:38 - 00:39:35:01
+不明
+That's when we'll bring data requirements through myself. We'll get it kind of prioritized amongst all of the other kind of platform work, that the team might be working on. If there's a new integration, we might do something like solution reviews and things like that. Once it's prioritized in the backlog, then the platform team will pick it up.
+
+00:39:35:06 - 00:40:01:45
+不明
+They'll work on that solution architecture if needed. That's an existing pattern. We'll go pretty quickly to work with, let's say, the data warehouse team, for example, to make that new data available. Let's say it's going through an existing pattern pretty easy at that point to make this new data available, the platform team is providing specifications, making sure that it fits marketing's use case.
+
+00:40:01:50 - 00:40:28:09
+不明
+We'll do a quick demo. We'll train the audience, the SEO on kind of the new data that that's available. So that they know kind of the guardrails about how to use it. If there's any gotchas or suppressions in there. And then that's it. It'll go on to the audience Center of Excellence. So let's actually bring this a bit more to life on how that audience SEO got stood up.
+
+00:40:28:09 - 00:40:58:53
+不明
+And we'll actually use that data. So first up, assemble. This is important. You got to pick individuals for that audience SEO and the shall we did it that have that data acumen. They won't be completely overwhelmed by, you know, working with attributes and signals and being trained on on what's real time and what's batch or, you know, they already understand the concept in CDP that the data is refreshed all the time.
+
+00:40:58:53 - 00:41:20:21
+不明
+You're no longer just pulling a list at one time. Like, you can have an audience that's refreshed every day or every second as data comes in. So these people were selected because they represent marketing and kind of the customer experience side, but they have a little bit of that data acumen that's going to make actually learning the platform and using it.
+
+00:41:20:26 - 00:41:59:32
+不明
+Easier for them. We activated that team. So we'll start talking more about culture and building kind of that culture of collaboration. But this team mates, first of all, they are global. As you see, time zones are really fun to coordinate. But it's important, right. So we do a kickoff. We started with some initial training, but then we have an ongoing support model where we get this team together with the platform team on a monthly basis so that there's constantly sharing of ideas, sharing of requirements to feed the platform backlog.
+
+00:41:59:36 - 00:42:08:42
+不明
+And we're seeing kind of taking the best of our entire organization and getting ideas.
+
+00:42:08:47 - 00:42:42:28
+不明
+Once you have kind of the the bones stood up. What we did and what I highly recommend is pick one, pick one kind of enterprise strategic initiative to really work in this new way. For us, it was a global loyalty lifecycle framework. So so that's things like defining what a lapsed customer is. What, what our kind of upper funnel, what the boundaries of that is.
+
+00:42:42:33 - 00:43:19:13
+不明
+Those are like headquarters or like customer experience and analytics kind of decisions. And it provides a framework then for localized tactics to be deployed against the strategy. Right. So localized tactics you may recognize some of these individuals. Beyer Sophia, Alexia are mentioned there. Those are people that are on the audience center of excellence working within the context of this global strategy and framework to say for my specific region in a mia, the first touchpoint here, I really need to get consent so that I can market to these customers later.
+
+00:43:19:17 - 00:43:41:03
+不明
+But that's not maybe necessarily the top priority for the U.S. team. So again, within this framework, developing those localized tactics as new data was needed. And at the beginning, a lot of your use cases will need new data. But at some point it gets to the point where you you have kind of the basics already available in the platform.
+
+00:43:41:03 - 00:44:05:16
+不明
+That's where the scale really starts to happen. But when you're first starting out, you want to kind of build in this enable step. So get that data in, activate that campaign, measure and enhance. So this is the a full loop kind of circle. Again, we started with one demonstrated how this new operating model can work. And then you can scale from there.
+
+00:44:05:21 - 00:44:35:45
+不明
+So this is our journey on the platform side. There are a few things that I really want, this group to take away that I think were really kind of our secret sauce here. One is this is a truly integrated cross-functional team. This is a team dedicated to a capability, the audience capability. But it's comprised of individuals that sit in different parts of the organization and have different reporting structures.
+
+00:44:35:50 - 00:45:00:57
+不明
+And that's been really critical for us to actually get the speed to market. So being able to engage directly with the data team when marketing has a new data need, having people sitting on this team that are thinking all the time about the audience capability, who can also go into our data warehouse and run queries is massively helpful.
+
+00:45:01:02 - 00:45:28:48
+不明
+For us, I'll say our team is about ten people dedicated to audience capability. It's, a blended staffing model. So it's a combination of contractors and full time employees. And it's a combination of onshore and offshore. And for us that that really helps with kind of the, the cost value, balance that we all always have to, to keep in mind.
+
+00:45:28:52 - 00:46:03:55
+不明
+And from a skillset perspective, I think what's really key is that our team can work on anything, like we try to to build up people that are, full stack, if you will. They may be focused on one specific data domain or, you know, production support is may be their primary job, but it's people who are who have a kind of broader understanding of everything that we're doing and can flex based on where the work is, ways of working persistently fund this team.
+
+00:46:04:00 - 00:46:28:11
+不明
+A lot of us, married included, has some history of like project based funding. For us, what built momentum was having a kind of a consistent team that can build that culture and momentum over time and doesn't have to worry about, you know, tying in with this specific project funding. The team is always going to be dedicated to the effort.
+
+00:46:28:16 - 00:46:48:38
+不明
+Lastly, respect our ceremonies. I can certainly talk more with individuals if you want some ideas on on what kind of regular meetings that we have. But it's really important to us to especially when we're building momentum, respect to the times that we get together. And what the purpose is.
+
+00:46:48:42 - 00:47:11:58
+不明
+Awesome. Those were some incredible nuggets. And I saw all of the screenshots happening. And you will get the deck at the end. But now that we've gone through the kind of go adopt and Kristen shared all of those amazing insights, the next step that's so critical is the measurement of, well, did this work? Because if it's if it's not working, then it's not helpful.
+
+00:47:12:03 - 00:47:32:43
+不明
+So here are some tips that we have. At Adobe before I transition back to Kristen on how to think about measurement when it comes to an audience center of excellence, one is we talked about at the beginning of all of the distributed teams who are touching the CDP in some way, or hoping to use it for a certain use case or exact value.
+
+00:47:32:47 - 00:47:57:55
+不明
+As you're going through the process of rolling out the audience, SEO, align on what your key performance indicators are at the outset. At the beginning, align on that before. Because if you're backtracking into it, it's going to be very hard to figure out what's the right thing to measure. Let's figure out what are you measuring first before you go and do next.
+
+00:47:58:00 - 00:48:26:21
+不明
+Key tip here would be make a point to pause. This may seem so simple, but I've seen so many customers go off, launch a use case, launch a campaign. And when I asked them what it did for them, they didn't actually yet take the time to go back and measure it. So make a point as you roll out each new use case, whether it's after a pilot, after you're, you know, going through your roadmap of different priorities, make a point to evaluate that.
+
+00:48:26:26 - 00:48:52:37
+不明
+And then it's making sure last point here that the SEO model is working for you. Measure that as well. So understand with those processes the people, the distinct skill sets that they bring to the table. Do you have the right people? Are those people doing the things that you need them to do? Is that helping you to get to your goal or what may need to be shifted around?
+
+00:48:52:42 - 00:49:24:13
+不明
+Said so for us, our KPIs and kind of our guiding principles are aligned to our key kind of stakeholder groups. So for our marketers, we're focused on enabling speed to market. One key metric we had at the outset is we kind of looked across all the different channels and, and took an average of how long it took for a marketer to go from an idea to a live campaign targeting customers from a from a data perspective, on average is about five months.
+
+00:49:24:13 - 00:49:53:49
+不明
+I would say right now we're around averaging two weeks. That's massive. That speaks for itself. For our customers from a customer experience perspective, that that idea of build the audience once and activate everywhere, we really want consistent experiences. The only way you're going to do that is if you have, data in the platform that's going to actually, kind of target the, the people that you want in the channels that you want.
+
+00:49:53:49 - 00:50:15:49
+不明
+So one of our other metrics that we set right up at the beginning, in our first year of the do it for real this time implementation was we needed to stock the shelves. So make data that's, available so that more and more of our use cases follow that first flow in in the operating model where you don't have to go enable new data.
+
+00:50:15:54 - 00:50:38:19
+不明
+Because that's where we can take that two weeks, even down to even less than that. So we had a very aggressive goal of 150 new attributes or signals in the platform in our first full year, 2024, I am happy to say we exceeded that. We got 169. So last but not least for our shareholders simplicity and efficiency.
+
+00:50:38:19 - 00:51:03:54
+不明
+So this is where my current focus is, is, okay, now that we have the the shelves stocked and we're seeing some value, let's simplify our stack and migrate more and more of our audiences and campaigns into the CDP. So that's where we're headed next. I love it. Great job, great results. Okay, so now we get to get a go to the fun part.
+
+00:51:03:58 - 00:51:28:05
+不明
+So something that's so important, when you're thinking about an audience center of excellence and building it out is how you help that team stay connected. They're often distributed, like Kristen mentioned, on her team. They're all around the globe. How can you bring people together? So here are some learnings I have across our customer base of how you can kind of help people.
+
+00:51:28:09 - 00:52:03:53
+不明
+Stay on the same page. One I've seen work well, our newsletters or even podcasts. So newsletters you know, some type of regular email cadence, monthly, weekly, whatever works of sharing what new audiences were built, what new use cases were activated, something cool. I saw a customer do a few years ago is do an executive podcast, where they would interview an executive within the organization every month or so and say, how is the CDP impacting our key business priorities, helped get that audience team really engaged and and kind of feeling the importance of what they were doing?
+
+00:52:03:58 - 00:52:33:37
+不明
+Learning is an important part of this, as well. So for Adobe, in any case, you may all know, but we have experience League as part of that. We also have, product certifications and exams where you get a nice badge you can put on LinkedIn and show that you're an expert. I've seen teams do this as somewhat of like a friendly competition of how many certified people they can have on their team, keeps people educated, but brings some fun to it.
+
+00:52:33:42 - 00:52:59:07
+不明
+And then last but not least, simple things like office hours and slack channels of just making sure that people have the time and place an opportunity to connect with one another. But in my nearly ten years of having conversations with customers about how they build out a culture for their audience, Center of Excellence never seen anyone do it as well as Kristin, so I'm excited for her to share her story.
+
+00:52:59:12 - 00:53:24:17
+不明
+This is my favorite part. And unfortunately we're running low on time, so I'd love to talk more individually, but I did want to share a few things. This is really of all of the things that I've just talked about, this is our secret sauce of building a culture of collaboration culture where everyone can bring their full selves to work and, kind of test themselves, continue to learn.
+
+00:53:24:26 - 00:53:49:24
+不明
+So some ways that we do that, we have a quarterly planning. We try to do this in person, for, for the people that are located in the US and we manage time zones. So that agenda is very intentional to include the entire team, including offshore at the beginning, and then kind of move through the day and, cover some of the topics that may not be as relevant to them in the afternoon.
+
+00:53:49:24 - 00:54:14:40
+不明
+That was really important. We are one team. It's, you know, the world is small these days. And so we try to make that even more so. I gave a call out to our favorite lunch spot, jetties in the, the DMV, DC area. If you're ever there, highly recommend. We get that every time. Something else that we do, actually, during quarterly planning is we bring some friendly competition to the mix.
+
+00:54:14:40 - 00:54:45:08
+不明
+So that game that we played at the beginning, that was one of our favorite games, we did like, I don't know, 20 or so of those kind of games. And that's a really important, consistent part of our quarterly planning that creates some of that. Like it breaks down boundaries, right? And it gets, you can actually build relationships amongst the team through kind of having these laughs and where you kind of like your adrenaline up a little bit.
+
+00:54:45:08 - 00:55:05:12
+不明
+Right. And it, it is also, we'll often do something kind of work related, like the game that we did. But it's often a way to, to like, get ourselves out of the day to day. Right. And, and do something a little fun, something else that we do as, kind of a broader team is this pay it forward initiative.
+
+00:55:05:17 - 00:55:27:49
+不明
+So every month we identify someone in kind of our stakeholder group. So outside of our core team who has gone above and beyond for us, for example, I mentioned that 150 attribute goal in 2024. There were a few people that were really critical to making that happen and getting on track that sit in our data engineering team.
+
+00:55:27:54 - 00:55:47:23
+不明
+So this pay it forward program is an opportunity for us to recognize them, write a nice little note, have everyone on the team sign it, and give them an Amazon gift card just to show a token of our appreciation. I think it's helped us kind of grow our our reputation throughout the organization as a team that's good to work with, right?
+
+00:55:47:23 - 00:56:10:35
+不明
+Like it's good people. We're all just people. And this is my most fun, is I mentioned bring yourself to work. Is that anyone? A fourth wing fan? Oh, my gosh. Okay, I see a few. So something that we do is we take our, our favorite books and movies and our pets and they become our test profiles.
+
+00:56:10:40 - 00:56:29:23
+不明
+So, Violet. Sorry. Gale has a test profile in our dev sandbox, and it's really fun. It's just one of those little things that makes coming to work more fun and builds culture amongst the team. So these are a few of my favorites. I'd love to talk more if you have specific ideas, I love that. Thank you for sharing.
+
+00:56:29:27 - 00:56:59:52
+不明
+So we mentioned this at the outset, but is this an audience? Co a CDP investment is not a set it and forget it. You should always be thinking about what's next. I always like to plan my next vacation when I'm on the flight home from the vacation I'm currently on, so same mindset here. So where to next? And the way to think about this is as the business priorities for your organizations evolve, make sure those are filtered into the CDP and their projects.
+
+00:56:59:52 - 00:57:36:28
+不明
+Think about what new data you may have access to. And think too about what are the new product capabilities on the vendor side that you now have access to and can glean additional value from as well? Yeah. So for us, some of those new features that you may be hearing about more this week that we are really interested in, as I mentioned at the beginning, partnerships is a key way that we're kind of growing reputation beyond just heads and beds and and really connecting experiences globally and, and kind of into the day to day.
+
+00:57:36:33 - 00:58:03:40
+不明
+So the real time CDP collaboration tool, we're really looking forward to some co-marketing opportunities using that. And kind of my, my other side of my hat, my security team is always asking about data minimization. And, so that's really key for us, like looking ahead as we, expand our martech stack and to continue to scale is find opportunities to reduce data movement.
+
+00:58:03:40 - 00:58:11:02
+不明
+So we'll be, embarking on a pilot of the federated audience composition feature as well.
+
+00:58:11:06 - 00:58:34:49
+不明
+I love it, you guys. We did it. We went on this journey to establish and adopt an audience center of excellence. So we dreamed. We thought about what we wanted to accomplish. We prepared. We went. We created the Audience Center of Excellence. We figured out how to measure it, have fun along the way, and then thought about how do we plan what we want to do next.
+
+00:58:34:54 - 00:58:56:11
+不明
+So as we wrap up, I wanted to share with you what are some things you can start to do today or bring home to your teams at home? If you're just starting out on this journey? One is figure out with the quote unquote dream, what's your North Star? What is it, ultimately, that you're really trying to solve for?
+
+00:58:56:16 - 00:59:17:52
+不明
+And how do you think the CDP and the audience SEO that supports it, can help with that dream too? I mentioned this before, but basically, find your Kristin, find someone who's going to own the CDP, who's going to own the technology and the people and process behind it. Having that owner is so critical. And three, I hope you took this away.
+
+00:59:17:52 - 00:59:39:32
+不明
+Is that the culture aspect of this shouldn't be underrated, of building that culture of fun, of keeping everybody engaged is only going to help you do your jobs better. Ultimately, we're out of time, but I'd love to come in, hear from you guys individually. And find me around. I'll be here. Thank you for coming.
+

@@ -1,0 +1,216 @@
+00:00:02:02 - 00:00:26:31
+不明
+Thank you so much for joining us today at 8:00 Am for our session starting off. Let me introduce myself. Hello. For those of you that don't know me, just half of this room I can see already knows me. My name is Jessica Cross, and I'm a partner marketing manager at LinkedIn. Today we're going to talk about reclaiming lost signals, how LinkedIn and Adobe Power Smarter B2B marketing.
+
+00:00:26:36 - 00:00:48:24
+不明
+Up on stage here today, I have pulled in my favorite solutions. Engineer Barber. Please introduce yourself. Everyone I'm Barber. I'm a customer solution engineer at LinkedIn. Amazing. Let's get straight into the agenda. So what we are going to talk about today with you is number one, let's talk about B2B signals. What does that mean. What are they. How can you track them.
+
+00:00:48:28 - 00:01:10:19
+不明
+We're then going to show you the integrations between LinkedIn Ads and Adobe real time CDP, and how those two things integrate. We'll then take you through what I call three winning plays to show you actually how you can use this integration. What are the ads you can use? What are the conversion events you can track? And then we'll end it with how to get started.
+
+00:01:10:24 - 00:01:29:31
+不明
+So one big thing I want to call out is it's really great to be back at Adobe Summit. This is me up on stage in a room very much like this. Technically it's 2019, so it's been a couple years since I've been at this event. I did go to every single Marketo summit that ever existed. Right, Edward?
+
+00:01:29:36 - 00:01:49:03
+不明
+So it's just wonderful to be back in this, this environment, in this, you know, room with all of these, like minded marketers. And I also just sneak a photo. It's my mom up there. So it's taking a picture of my mom up into the slides. And it's also wonderful to be back in person with Baba. Baba and I have done a form of this presentation on a webinar about four times now.
+
+00:01:49:08 - 00:02:19:57
+不明
+So it's nice to be able to give it to you in person and get real live questions. All right. So why is LinkedIn here? Why why do we matter for a B2B context? To start with, LinkedIn is where the where with a platform built for professionals. It really comes down to our ability to bring a different dimension to your marketing campaigns that only LinkedIn can provide, all in thanks to the unique nature of the platform and what we call the economic graph.
+
+00:02:20:02 - 00:02:39:25
+不明
+So let's get into what is this economic graph that we speak of. So first off LinkedIn we have over a billion members. Quick show of hands. I hope everyone raises your hand. Who has a profile? Who's got a LinkedIn. Okay. Amazing. I don't need to help anyone with a profile who I would I would be willing to help you with a profile if you needed it.
+
+00:02:39:30 - 00:03:08:46
+不明
+So we have a billion members. We crossed that milestone in late 2023. We then have 68 million companies have a page on LinkedIn. So that means that, you know, a company page with information about, you know, the who, what, where, when, why of that business. We then have 14 million job postings at any given time. 41,000 skills represented across those job posting and across your profiles, and 136,000 universities in schools.
+
+00:03:08:51 - 00:03:32:30
+不明
+So I give you these stats and these numbers to say that LinkedIn is really a digital representation of the global economy. And the other interesting nuggets for you is that it's where professionals are going to connect. I can tell you firsthand I've been using LinkedIn all week to try to connect with people, including Lee here. We were messaging all week long trying to figure out a time to connect.
+
+00:03:32:34 - 00:03:57:36
+不明
+LinkedIn is the place that people are going to communicate with. Like with businesses, we've seen a 42% increase year on year in public conversations on LinkedIn. So that means the comments in those posts that's happening on LinkedIn and accelerating speed. Another stat that's not up here on the on the slide, but I do want you to know about is our video consumption has increased 36% quarter over quarter.
+
+00:03:57:41 - 00:04:19:18
+不明
+So LinkedIn is more and more predominantly becoming a video first platform. Another fun stat. 2 billion members interact with a company page every single month. So that means members like yourself are going to those company pages to find out about, you know, the business too. They have any upcoming events? Do they have a LinkedIn live that I should join to learn more about their product?
+
+00:04:19:22 - 00:04:44:46
+不明
+And the last one is 2.4 million queries per second into that economic graph that I talked about. Meaning members are searching for people, for ideas, for jobs and again for opportunity. So all this to say, LinkedIn is the place where key stakeholders can connect in a trusted, professional environment. Then on top of that, we have what we call the product and services marketplace.
+
+00:04:44:47 - 00:05:21:49
+不明
+So hopefully you're familiar with a couple of our offerings. We have of course like the jobs and recruiting that that product area is actually work there around demand generation for the jobs and recruiting product for about three years, driving about maybe 2 million mql. Then we've got LinkedIn learning. That's an online training platform where you can learn anything from public speaking to Python, and then relevant for the today and the rest of this presentation, we have our sophisticated B2B advertising and targeting solutions all built on top of that self-reported economic graph.
+
+00:05:21:54 - 00:05:42:57
+不明
+All right. So with that, hopefully you're getting a sense that LinkedIn really is the place for B2B marketers. Let's talk about the B2B buying journey and why it's so complex and expensive. We know based on our internal research, and I'm sure I'm not the only one sharing a stat like this at Adobe Summit, that the sales cycle for B2B is extremely long.
+
+00:05:43:10 - 00:06:06:56
+不明
+Based on our research, we see it's 192 days long, and if you're doing math that's over half a year, then on top of that, we've got, it takes about if you're if you're measuring your marketing effectiveness, attributing revenue to your marketing campaigns, it takes time. So we see that only 30% of the total revenue is attributed within the first quarter.
+
+00:06:07:01 - 00:06:36:43
+不明
+It then takes six months to see 50% of that revenue attributed to the campaign. So if you're measuring your marketing campaigns using maybe a 30 day, even a 90 day window of effectiveness, you're getting less than half of the expected results you might get from that marketing campaign. You're shortchanging yourself in terms of proving the effectiveness. The last nugget I'll give you is then it takes a full two years for all revenue to be attributed from that marketing campaign to the impact to the business.
+
+00:06:36:48 - 00:07:01:06
+不明
+So this event today, Adobe Summit 2025, ideally, those Adobe marketers are reporting on the effectiveness of this event two years from now. We all know that's probably not the case, but just to prove the point that the time lag issue with measurement is really, really long. So let's do a customer journey slide. We've seen a lot of journey slides up on stage.
+
+00:07:01:06 - 00:07:22:12
+不明
+I only have a journey slide. I don't have a funnel slide in this deck. So stay with me. In this journey we have a pretend prospect and a pretend company. Let's call it fake and fake. So let's start off. We serve an ad to a prospect about thick and fixed B2B SaaS company. The ad captures her attention. She lands on a landing page.
+
+00:07:22:17 - 00:07:42:00
+不明
+She clicks away. She's busy. She has a meeting. She has to go do stuff. A couple days later, maybe two weeks later, we serve her another ad impression. This one again, and it's makes her go visit the website and she decides to sign up for a newsletter that gets her on the email list, which we love. She gets an email about a local field marketing event.
+
+00:07:42:05 - 00:08:07:08
+不明
+She attends the event, she speaks with some salespeople, she speaks with current customers, and she's interested in learning more. And thankfully, our SDR does the follow up books. That demo. She takes a demo on day 50. Day 80, she signs up for that free trial and then converts into a paying customer a day 110. So this actually is a kind of a slow, a faster sales cycle than what I originally described.
+
+00:08:07:08 - 00:08:28:01
+不明
+But just to give you an indication of all the touchpoints that could potentially occur. Of note, we've got three online conversion events, and then we have three offline conversion events tracked in this journey. And what we're talking about today with you is how you can use LinkedIn and Adobe to integrate those things together, together to power your marketing.
+
+00:08:28:06 - 00:08:49:02
+不明
+So that was all great. That was really positive information. Now let's talk about some of the doom and gloom. The doom and gloom is that the tracking journey that I just showed is now been made so much more difficult to track. Based on evolving privacy changes. We've all been through it. 2018 GDPR came into effect. That was really difficult.
+
+00:08:49:02 - 00:09:08:58
+不明
+That was really hard. In fact, Edward, you helped us get that implemented at the company I worked at before. Then we had Apple app tracking in the iOS update that cut our email, open rates and half. It's okay. We don't care about open rates. Google then decided to start phasing out Chrome cookies, and then they changed their mind.
+
+00:09:08:58 - 00:09:33:38
+不明
+And now they're opting for what we call users choice. So they're allowing the user to pick their preferences in terms of their privacy. Other nuggets I want to give you in 2025 alone, we're seeing eight states are looking to implement privacy laws. So what does this all matter? What's a digital marketer to do? What it means is that we just need to embrace a privacy first approach to our marketing, to power our campaigns.
+
+00:09:33:43 - 00:09:58:19
+不明
+And with that, I'm actually going to turn it over to Barbara to talk about the importance of your first party data in this new privacy world. Perfect. Thank you. Jessica. So all these changes made traditional targeting and measurement methods a lot less effective, right. Because we need now marketers to rethink their approach on how do they reach the right audience and optimize their campaigns.
+
+00:09:58:24 - 00:10:21:34
+不明
+You can start this by leveraging your first party data. This is the data that you've collected from your customers already, so it may come from your website. It comes and lives in your CRM. It can come from any of the marketing automation platforms that you use today in your tech stack. And you want to use this because using the first party data in your marketing provides three key advantages.
+
+00:10:21:39 - 00:10:49:45
+不明
+It allows you to enhance your targeting and reach the right people at the right time. It also gives you a more holistic view of your customers across the various touchpoints within the customer journey, as well. And then you can use both of these combined, and it'll allow you to optimize your marketing spend with much better insights.
+
+00:10:49:49 - 00:11:16:46
+不明
+You can implement these strategies with Adobe's help. For example, you can use Adobe's experienced platform or app to bring in your first party data from any of the data sources that you have today. Once this data is an app, you can segmented into different audiences and send it to LinkedIn to use within your LinkedIn ad campaigns. As of today, Adobe has two real time CDP integrations with LinkedIn.
+
+00:11:16:51 - 00:11:45:31
+不明
+The first one is Masked Audiences. This is where you can send your first party data to LinkedIn and create mass audience within LinkedIn to use for your LinkedIn ad campaigns. The second one and the more recent one is the LinkedIn conversion API. This allows marketers to send their conversion data to LinkedIn to use for not just measurement, but also use it for campaign optimization as well.
+
+00:11:45:36 - 00:12:13:59
+不明
+So what exactly is conversion API and how does it work? Think of LinkedIn's conversion API as a more reliable way for businesses to track the effectiveness of their LinkedIn ads. Now, we know that tracking traditionally has relied on website pixels, right? But the website pixel is something that could be impacted by the cookie changes. It's impacted by ad blockers or any other browser changes that may come across by.
+
+00:12:14:04 - 00:12:39:54
+不明
+Jessica also showed us a journey, that spanned across both online and offline touchpoints. Now you can capture the online touchpoints with a pixel, but the offline it's just not possible, right? So Cappy essentially solves for these pain points by allowing you to send conversion data from your end to LinkedIn with the help of partners like Adobe.
+
+00:12:39:59 - 00:13:02:44
+不明
+Now that we understand what is conversions API, let's take a look at how this data actually flows to LinkedIn. It all starts when a prospect interacts with your brand. Right. So this could be a website visit. It could be a form submission or even a trial sign up. This activity is captured on your end in your servers. It's if it's a conversion it's stored in your CRM.
+
+00:13:02:49 - 00:13:30:11
+不明
+And you can leverage Adobe's app integration to essentially bring that data from your CRM to Adobe. And once it's there, it'll be processed and then sync to LinkedIn in real time. And then once LinkedIn receives this signal, will process it and then attribute it to your LinkedIn campaigns as well as leverage it for optimization to drive real business impact for you.
+
+00:13:30:16 - 00:14:02:51
+不明
+The next question is does it work? Short answer yes. Otherwise we wouldn't be up here, you know? But in all seriousness, like the benefits from conversion API are enormous. In our last study that we did internally. Advertisers on average saw a 31% increase in attributed conversions because they're getting a more complete view of the buyer's journey. And then we're able to ingest these data signals that we're getting and leverage it in our optimization engine.
+
+00:14:02:51 - 00:14:48:10
+不明
+And essentially we saw advertisers see their CPA drop by 20% on average. LinkedIn is also building solutions beyond measurement and reporting that leverage this conversion data that we're receiving. So think of something like the predictive audiences, which has been shown to drive cost per lead by almost 21% across your lead and objective campaigns. Overall, I'm going to say the numbers make it very clear that adopting Capi will give you better insights on customer touchpoints, improve your ad performance, and also gives you more control over the data that you want to send to LinkedIn.
+
+00:14:48:10 - 00:15:10:23
+不明
+In this ever evolving privacy landscape. And with that, I'm going to take you back in, Jessica, so we can go over. I'm going to keep it. All right. Let's do it. Okay, I'm back on. So let's talk about these marketing plays. So we've talked about journeys. We've talked about the timing issue. We've talked about privacy laws. Barber talked about the integrations itself.
+
+00:15:10:24 - 00:15:31:04
+不明
+Let's talk about how it even matters to us marketers. So we've got three plays. We'll take you through. The first one is how do you prove the impact of your top of funnel brand awareness campaigns through the funnel, to those conversions that actually matter for your business? Take us through what the targeting would look like here. So for this play, your target audience could be your account list, right?
+
+00:15:31:06 - 00:16:01:46
+不明
+You'll create a list of audience within the app platform and then sync it over to LinkedIn as an audience to do to use within your LinkedIn ad campaigns. One other thing that I also want to highlight is you'll also have access to some of the additional retargeting options that Jessica highlighted earlier as well. So you can use things like job title, job experience, as well as even things like skills to narrow down your audience even further when it comes to measuring the success of these campaigns.
+
+00:16:01:48 - 00:16:24:25
+不明
+You can do something similar and leverage the cap functionality to stream over your Amc+ in the last 30 days. And once LinkedIn receives this data from Adobe, will attribute it to your campaigns. If a member interacted with your ads. So then what this ad would actually look like, and I would recommend you would run what we call a document ad to this, this type of campaign.
+
+00:16:24:30 - 00:16:50:06
+不明
+So this is like a top of funnel awareness building campaign, document ads. It's a great way for you to promote research report, thought leadership, of course, anything that frames your company as experts in the industry and showcases the customer value that you bring to, you know, your customers. So this type of funnel content, you know, a prospect might click through, hit the landing page, maybe they convert, maybe they do fill out a form, maybe they don't.
+
+00:16:50:11 - 00:17:11:11
+不明
+But then if in the next, you know, depending on the time window that you set with that mql lookback window, if someone converts on the site directly, this connection between Adobe and LinkedIn can then pair that member information together and you will attribute a conversion to this top of funnel awareness campaign. Let's go to the next play. Next play.
+
+00:17:11:11 - 00:17:34:45
+不明
+We want to optimize middle of funnel for meetings and opportunities. So what's this targeting look like then. So for this play your target audience is a bit more complex than the first player. Right. Because the audience is going to include members in your target account list that have visited your website, but they haven't converted yet, so they haven't done anything that you want them to do things like requesting a demo, right.
+
+00:17:34:46 - 00:17:57:34
+不明
+So once you've created this list, you can send it over to LinkedIn as an audience to use in your campaign. And again, don't forget to use the targeting options like before within LinkedIn Campaign Manager to narrow down this audience even further. And like before, to measure the success of something like this, you can stream over user a list of users that have requested a demo.
+
+00:17:57:39 - 00:18:29:21
+不明
+And again, once LinkedIn gets this data from Adobe, we'll do the matching and then attribute it to your campaigns within the defined attribution window that you're using. So example of an ad, this one I recommend trying a live event ad. Hopefully some of you have even tested this. We do have a LinkedIn event streaming function on platform. You can then run events or ad sorry before and after that event to capture registrants and then to re promote that content to that target account list that Barbara was talking about.
+
+00:18:29:25 - 00:18:56:49
+不明
+So the live event ads, as you can see, this one, maybe it's maybe it's got a request for demo call to action at the very end of the show. That's what my boss used to tell me. Shake the tree. You put on the content, you got to shake the tree and get them to request that demo. So in this one, as Barbara mentioned, if they do convert, thanks to that tracking that we've enabled, they if they turn into an opportunity down the line, we would attribute that opportunity to that conversion event to this campaign.
+
+00:18:56:54 - 00:19:30:11
+不明
+All right. Getting through it. Third play. Let's talk about how to win back churn customers with bottom of funnel targeting. So again take us through what this audience targeting is. So for this place specifically your target audience is going to be your current customers that are simply not spending. Right. So you can filter for this audience within the app platform by looking for people that are still your customers have purchased and converted, but they're flagged as inactive because they haven't, for example, spent in the last 30 days.
+
+00:19:30:16 - 00:19:48:29
+不明
+Once you have this audience, you can sync it over to LinkedIn and essentially do the same thing, use it in your campaign and leverage some of the additional and targeting facets that we have. But then LinkedIn, and then to measure the success of your campaigns targeting these users, you can sync over a list of customers that have spent in the last 30 days.
+
+00:19:48:34 - 00:20:08:13
+不明
+And again, once LinkedIn gets this data, we'll do our magic. We'll attribute it to your campaigns so you can see the true effectiveness of your campaigns. Now back over to the ad. What ad I would recommend. I recommend trying to use what we call a dynamic ad. This one I feel like doesn't get as much attention and love.
+
+00:20:08:13 - 00:20:29:25
+不明
+And I say that because I know there's less demand on this inventory type than the main sponsored content feed. So you have a better chance of winning auctions when using a dynamic ad. The other really cool thing about dynamic ads, as the words say, dynamic ads allow you to pipe in personal, not fully personal information, but information about the member or the company.
+
+00:20:29:25 - 00:20:51:23
+不明
+So you can do first name, last name, company, job title, and even industry to personalize that ad, which makes it really great for hyper targeting when you're trying to win back a customer. This one I can't remember. What did it say? Join a join a tech conference. So we're inviting churned customers to join that tech conference to come back.
+
+00:20:51:37 - 00:21:15:49
+不明
+Learn more about the solution and see if you can win them back with this dynamic ad. All right. With that, we're actually plowing through this content. But that's great. It's nice and early moving through through the slides. So let's talk about today. Today's key takeaways. First off I hopefully you take away from this, maybe just the one thing you take away is LinkedIn is the place for B2B.
+
+00:21:15:54 - 00:21:44:49
+不明
+Again, with our economic graph, with our unique data set, we are the platform for B2B marketers, whether advanced audience targeting. And then the other thing I want to highlight is you want to leverage your first party data. Use it because use it within every marketing for that you have, right? And then take advantage of the two, integrations within Adobe real time CDP to scale and measure the true effectiveness of your LinkedIn ad campaigns.
+
+00:21:44:54 - 00:22:06:54
+不明
+Last one. Embrace privacy. It's here. Can't go around it. Can't get beyond it. It's just going to keep happening to the more that we can embrace privacy first and think about the members and their experience in our marketing. The easier time we're going to have in terms of adopting all of these solutions and thinking about the members experience when we're building our marketing.
+
+00:22:06:59 - 00:22:13:33
+不明
+Thank you so much. I really appreciate all the questions of your time. Thank you for.
+

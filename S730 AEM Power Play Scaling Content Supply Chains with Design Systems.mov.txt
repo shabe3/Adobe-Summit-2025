@@ -1,0 +1,528 @@
+00:00:00:41 - 00:00:22:27
+不明
+Good afternoon everyone. Thank you for being here with us today. We're going to get started. So it's great to be here with you today at Adobe Summit 2025 in Las Vegas. I know everyone's traveled from near and far, so it's an honor to have you in this room with us. Today, we're diving into what we call a true and power play where strategy, technology and execution.
+
+00:00:22:31 - 00:00:43:04
+不明
+Complexity into a competitive advantage. We're going to share with you how Willow Tree partnered with Brunswick Corporation to streamline their multi-brand content supply chain, leveraging a unified design system and Adobe Experience Manager as a cloud service to power their entire digital ecosystem. So let's get started.
+
+00:00:43:08 - 00:01:15:03
+不明
+My name is China. I am a director of delivery at Willis. Willow tree, sorry, a Talis digital company. I lead enterprise scale digital transformation projects and drive team strategy alongside our client partnerships. Willow tree is an end to end digital experience partner, and we have a deep rooted history with Adobe spanning over 17 years. Our team is made up of global experts in the Adobe Experience Cloud ecosystem, with over 200 plus certifications and 100 implementations.
+
+00:01:15:05 - 00:01:38:04
+不明
+We also have two specializations and am an Adobe Real time CDP. We help our clients maximize their marketing technology to drive investments and make sure they're achieving their business goals, and also building lasting partnerships. I'm so excited to be with you here with you today alongside Brian from Brunswick Corporation. We've collaborated with Brunswick to transform their entire digital ecosystem.
+
+00:01:38:15 - 00:01:55:52
+不明
+And today we're going to share a key part of that journey. With that, I'll hand it over to Brian to share a bit more about Brunswick and what they do. Hey everybody, thanks for joining us today. I'm Brian Schultz, vice president of digital customer experience with Brunswick, where I've led the enterprise digital customer experience team for almost four years.
+
+00:01:55:53 - 00:02:17:57
+不明
+I've been involved in, digital experience where, you know, marketing leads technology mostly in the direct consumer e-commerce space for about 25 years. So, crazy. But, I wanted to take a minute and a half of your time to audio visually share with you, introduce you to a reintroduce you to what Brunswick does. Because I'm really proud of what we do.
+
+00:02:17:57 - 00:02:40:21
+不明
+And some of you might still think we're in the bowling industry. Which is a great industry. Don't get me wrong, but it can pose a recruiting challenge for us. So I just it's take a minute to kind of to to revisit what Brunswick's been up to the last few years.
+
+00:02:40:26 - 00:03:16:20
+不明
+Oh, we missed the audio. Yeah. Audio.
+
+00:03:16:25 - 00:04:16:33
+不明
+I know you.
+
+00:04:16:38 - 00:04:49:21
+不明
+Know. So, So, Brunswick, is a pretty complex organization, right? We're all about marine these days with mercury propulsion. The leading, the leading outboard and propulsion manufacturing pleasure boats in the United States. Over 50%, as you saw in the video. Nabucco group, which, is everything from intelligent, navigation systems and side sonar fish finders to to vote seats and fishing rod holders.
+
+00:04:49:21 - 00:05:17:42
+不明
+There's no boat made in the United States that isn't using Brunswick. And now the co group parts and accessories. 14 leading boat brands in the United States, including some of the most recognizable brand names like sea Ray and Boston Whaler, being the one that has the most brand recognition in the United States, and then new and innovative business models like our Freedom Boat Club and, Flight Board is an acquisition that we had recently, which you saw in the video with the E foiling.
+
+00:05:17:49 - 00:05:49:50
+不明
+So we're consistently building new businesses and engaging in acquisitions, keeping our digital marketing teams super busy, much like an auto manufacturer. Our primary consumer marketing goal is lead generation, collecting, nurturing and connecting interested buyers with the dealers who are then going to go and close the sale on the dealerships. But the marine market's pretty much right in 2025, with approximately 125,000 pleasure boats will get sold in the U.S. it's not it's not that many boats.
+
+00:05:49:51 - 00:06:15:15
+不明
+So our marketing budgets are they're pretty finite, like they're set. We only have so much money to support the business and to drive the demand and the awareness we need. I'm super proud of our marketing organization in that we generate about 40% of the business directly through our digital experiences. For Brunswick. Think about it, that hundred and 25,000 is less than 1% of the cars that are sold in the United States.
+
+00:06:15:15 - 00:06:43:17
+不明
+In the same year, meanwhile, a 100,000 people in the United States in 2025 are at least going to get on a boat. Right? So it's a popular activity. You've heard the saying the best boats are your friends boat, but we're in the business of supporting and selling them, and we love when people use them. So Brunswick's four divisions feature a myriad of different business models in addition to lead generation, but we have over 60 industry leading brands that we have to support that cater to every aspect of recreational boating.
+
+00:06:43:22 - 00:06:53:52
+不明
+With this large and super dynamic portfolio, efficient management of our enterprise wide digital experiences. My job and it's a must.
+
+00:06:53:56 - 00:07:21:20
+不明
+But we got some problems. We face a growing challenge in that we're always acquiring and merging. I joined the company four years ago to bring the digital experience into an enterprise organization utilizing Adobe products Adobe Experience Manager, Adobe Experience Platform, Marketo Real Time CDP. But at one point and even a little bit today, every brand has its own unique digital experience, its own unique code base, right?
+
+00:07:21:25 - 00:07:40:27
+不明
+Even several of the Adobe Experience Manager sites that we built in Adobe Managed Services had ended up with their own code bases, because we would partner with some of the great partners it down in the exhibition hall, who you'll see, who would take components in copy and paste, and when you copy and paste a component, voila, you've got a new code base.
+
+00:07:40:32 - 00:07:57:52
+不明
+So managing 60 plus brands led us to having to figure out a way to handle this complexity. It's the kind of thing that kept me awake at night, right? The problems we had were inconsistent content management across all these platforms. We had a bunch of people in, and our press team had to do things a different way for different sites.
+
+00:07:57:56 - 00:08:32:17
+不明
+We had siloed and unique workflows that were really slowing our execution down. We were and we're just kind of getting out of this, this bucket now expanding seven figures in annual development expenses just to support these 60 different websites that we had with no innovation to show for it. And then when our digital product organization actually came up with an experience in consumer that was innovative, 50% of that time would be spent building it, not actually building to innovate, but then building it just so it could be used with the different brands.
+
+00:08:32:22 - 00:09:10:20
+不明
+It was not, you know, reskilling it so that we used it was not the most efficient way to work. So these are the kind of things that in my, in my role kept me thinking, we gotta change. We've got to figure out the nuances of like using enterprise platforms the right way. And so, with this fixed development budget, you know, we reached out to our, our partner here, Willow Tree in China in particular, and we started talking about, how we could innovate faster, how we could actually scale the Adobe Experience Manager platform in the cloud in a way that, made our jobs more efficient and allowed us to do the
+
+00:09:10:20 - 00:09:21:24
+不明
+job we needed to do, given the fact that our organization is relatively small, and needs to support a lot of brands.
+
+00:09:21:29 - 00:09:43:25
+不明
+Thanks, Brian. And before we jump into some solutions, let's dive a little deeper into what the problem is. So complexity is often seen as a challenge. But what if it could actually be your organization's biggest advantage? In today's digital world, we know things are moving faster than ever. Enterprises are managing multiple multiple brands, different content channels and technologies, each with its own unique demands.
+
+00:09:43:30 - 00:10:09:53
+不明
+So the key isn't to eliminate complexity, it's to harness it. It's not just a barrier. It's an opportunity for your organization. When we think about enterprise level digital transformation, it's really on unifying your digital ecosystem to streamline operations and taking that complexity can really be a strategic asset that fuels innovation, agility, growth, and also gives a really good return on that bottom line.
+
+00:10:09:58 - 00:10:31:09
+不明
+But complexity without the right approach can quickly become overwhelming for teams. Many organizations find themselves stuck. They're unable to move fast. They're struggling with speed to market with fragmented systems, and they're losing out on a lot of opportunities by the time they get this new enhanced digital experience to the market, the next one already needs to be in its place.
+
+00:10:31:14 - 00:11:01:41
+不明
+So if we look at some stats that we've pulled, 30% of technology investments are wasted due to overlapping systems and redundant solutions. So this means companies are paying for tools that actually aren't driving any value. Disconnected systems. 82% of enterprises report that significant inefficiency inefficiency is because their marketing technology stack isn't integrated the same way. This is making it harder for their teams to deliver seamless customer experiences and then slow execution.
+
+00:11:01:53 - 00:11:29:45
+不明
+72% of marketers say slow execution and approvals are the biggest reason that they're missing marketing. Market opportunities, delay in content and campaign launches directly impact revenue. That's where clarity becomes really critical, and that's where our journey with Brunswick we began. So for any transformation, you need to start with a deep understanding of the business, the challenges in the ecosystem, which is one of the ways that we approached our work with Brunswick.
+
+00:11:30:00 - 00:11:49:31
+不明
+This meant taking a deep dive into their multi-brand structure, understanding how these 60 brands work together. We can't just go in there and tell them what they need to do. We have to really understand their business. We have to understand their different content workflows. We have to understand their existing systems to pinpoint where the areas of opportunity are and what wasn't working.
+
+00:11:49:35 - 00:12:11:21
+不明
+So this wasn't just about technology for Willow Tree in Brunswick. It was about aligning our teams, streamlining processes and building a strategy that would work for their business and also make Willow Tree a better partner. So let's take a look at how we approached our work. So we started off with a comprehensive audit across all of Brunswick's 60 digital properties.
+
+00:12:11:26 - 00:12:35:24
+不明
+So this wasn't just a high level review. We took a data driven approach using real cases, tagging and brand alignment to see exactly how their systems were being used in real time. And what we found was a little eye opening. The data revealed some major inefficiencies, redundancies and opportunities for transformation. So as we dig into some of these stats, let's keep in mind this is not unique to Brunswick.
+
+00:12:35:39 - 00:13:03:37
+不明
+If we had the opportunity to do an audit across many organizations, I would be pretty confident that we'd pull very similar results. Let's dive into those numbers. So we found that there were over a thousand components used across these 60 brands, and there were 4000 variance of these components in the system and used across 215,000 different experiences for the brands.
+
+00:13:03:41 - 00:13:27:21
+不明
+So when we look at that and we actually pull out the fragmentation, 80% of those components for a single use case, there were non reusable components. And then if we look at the remaining 20%, 10% of those components were only double use cases. So that means 90% of the investment that Brunswick was making into their new digital experiences into their components.
+
+00:13:27:22 - 00:13:48:27
+不明
+90% of that was for a one off scenario. The level of fragmentation wasn't just an operational headache for Brian and his team. It really was becoming a major roadblock. It was driving up costs. It was slowing the execution of the marketing team, and it was really making scalability nearly impossible. There's one important thing, one of them that sticks out to me.
+
+00:13:48:27 - 00:14:18:11
+不明
+When we were looking at the content card, there was 190 different content cards used across the 60 brands. So we really needed to get together and think about a new digital approach for Brunswick that would start taking these opportunities and start taking these obstacles and turn them into opportunities. Yeah, it was fantastic that Willow Tree helped to dig into all 60 of the brand digital experiences, inclusive of websites and apps, and really kind of take a look at the things that we hadn't even contemplate migrating to the Adobe platform yet.
+
+00:14:18:13 - 00:14:41:07
+不明
+So it was it was a comprehensive view of a really difficult to maintain situation. It was great to take our pain and put it into numbers. Yes. Thank you. Yes. And the numbers change at the end. They do. So when we talk about solving complexity, it's more than just technology, right? Like everybody in this room, we're here because we want to learn how to harness the power of the Adobe ecosystem.
+
+00:14:41:12 - 00:15:05:10
+不明
+And with that is the right strategy. And we wanted to use this challenge that seemed overwhelming at the beginning of our time together to be a catalyst to actually drive change for the Brunswick team. So when designing a scalable approach, we wanted to really make sure those obstacles were opportunities and opportunities for unlocking efficiency, driving transformation, and setting the stage for long term or long term success.
+
+00:15:05:15 - 00:15:24:01
+不明
+We wanted to make sure that Brunswick would not have to reinvest and redo this work over. So we're going to walk a bit through that strategy today and how we put it into action now. Thank you. Appreciate it. So everyone has set out with the best of intentions to utilize an enterprise platform in an efficient and seamless way.
+
+00:15:24:01 - 00:15:55:32
+不明
+In fact, that's what Brunswick did when we started using Adobe Experience Manager. And oftentimes we find it's slipping away and then you get a complicated situation like us where you have 60 different code bases. So in working with China and working with Willow Tree, we partnered to create a scalable and futureproof solution. We thought really carefully about how we needed a site, clear goals, ensuring efficiency, consistency and long term sustainability that the system we were building wasn't going to just get eroded and start to fall apart.
+
+00:15:55:37 - 00:16:25:18
+不明
+Our strategy focused on four key pillars. We needed to be structured, standardized, and it had to be scalable. You know, we were using Adobe managed services for 95% of what we were doing, and we needed to move to the cloud. So we had it. We had to have it live in a cloud as a service. The system needed to scale seamlessly across the brands, right horizontally across the brands by eliminating redundant development, which was really slowing us down and taking 20% of our development budget.
+
+00:16:25:23 - 00:16:51:30
+不明
+Ensuring efficiency, consistency and the ability to reuse those components, but also make sure that every brand has its own opportunity to have its unique experience. So some of our competitors, whose name I, Polaris, they have a number of pontoon boat brands where the websites look exactly the freaking same. Right. They have the background is a different color, and the logo is different, but other than that, it's the same.
+
+00:16:51:30 - 00:17:16:57
+不明
+And so, like, how do you differentiate your brand in a digital experience where everything looks the same. And so we really, really it's important to us that the system we were building was scalable but super flexible for the brands. We needed to have a we need a unifier components. We had the thousand components, 190 different types of content cards and build it into a build once deploy everywhere model that allows other that other brands to benefit from the optimized system.
+
+00:17:17:02 - 00:17:42:04
+不明
+In order to keep it working, we needed governance and compliance. We needed to ensure that we had accessibility all the time. We had to have excellent core web vitals, all the time. And, we needed to make sure that the sites were secure and that we kept brand consistency no matter what happened. The the ability for us to move quickly but ensure that we were on brand was really important.
+
+00:17:42:09 - 00:18:09:35
+不明
+And then finally we just had to empower our content cuz content had to be more scalable. We had to reduce the reliance on developers to build digital experiences so that our marketing teams and we'll talk about the concept that, that we're using. We're using the term now, and I hope Adobe is okay with it. Of experienced managers as a role, they needed the tools to build style and manage content independently, accelerating execution innovation, empowering the brand level marketing teams.
+
+00:18:09:35 - 00:18:30:31
+不明
+Right? When we do development, we want it to be learning new things about the marine experience and solving those customer problems. We can scale across those brands and then the brands can focus on building their digital experience within the brand, so that we get the power to scale and improve the experience for all those people who are out on the water, it's very important for us.
+
+00:18:30:36 - 00:18:54:29
+不明
+So, it was, we want to make sure we could empower the brands without having to rely on the sprint cycle, which is awesome, right? You build new things, but every time you want to develop, you've got to plan a sprint. And then you have to have a sprint, and that's a that's a month. Right. So it's not it's it should be used for building innovative features, not for making sure the brand teams can market correctly.
+
+00:18:54:34 - 00:19:19:12
+不明
+So once we had this clear strategy in place, we needed to align our solution to each of these pillars. So the first was brand agnostic components that were powered by design tokens. So those aren't familiar with design tokens. They actually control the UI elements within the system and make sure that everything's in a single system for Brunswick. And this is going to drive consistency across their brands but allows for flexibility.
+
+00:19:19:17 - 00:19:45:27
+不明
+Then we started talking about an enterprise component library in a cloud. Again, I think one of the key things we build once deploy everywhere model. So we needed to eliminate all that redundant development and allow the teams to create experiences without developer support. So actually empower the marketing teams to go and build digital experiences without development needed. That was one of the biggest goals walking away from us and then cross team collaboration.
+
+00:19:45:27 - 00:20:05:38
+不明
+Brunswick does not have 60 different teams for each of these brands. It's really a strong Tiger team that's getting everything over the finish line for them, so we really need to structure their workflows to make sure that marketing and content and the development teams were all in sync and, and, ensuring smooth execution and then an API driven content supply chain.
+
+00:20:05:53 - 00:20:27:06
+不明
+This was a key piece here, a single source of truth for content that would be enabling real time updates and reducing manual efforts and inconsistencies. So the idea behind that was taking the weight off of the Brunswick content team to actually have to offer all of these little details. We think about about all the spec checked and with it, the size, the different models, the colors.
+
+00:20:27:06 - 00:20:47:32
+不明
+It's an overwhelming amount of product data to get into these different experiences. But the strategy and the tech alone wasn't enough. Strong teams is what really delivers. So let's take a look at how we worked with Brunswick, and brought this solution to life together. So if you see us, one of us walk over and move the mouse around.
+
+00:20:47:32 - 00:21:03:50
+不明
+We've got like a 2.5 minute timeline in there. Screen is shutting off. So. So if you see me walk over there and touch it because I'm making sure I can keep talking to you. So Brunswick. So we like we like to control our own destiny. We love working with Willow Tree and with partners who are our experts.
+
+00:21:03:50 - 00:21:28:19
+不明
+Right? We can't always be the experts, but we're on a multi-year journey to build enduring digital innovation within the organization and to be the biggest in the best in the marine industry across our digital product, user experience, research and design software delivery teams. You know, we really have built a lot of expertise internally with consumers who can empathize with what the consumers are going through, what the customers are going through, what our dealers are going through.
+
+00:21:28:24 - 00:22:00:34
+不明
+We believe that listening to our customers and solving their problems through a delightful digital experience is the only way that we're going to win in the industry, and it is competitive. It was critical for us to be able to co-develop with the design system and the enterprise component library as a single team with Willow Tree, in a way that transitioned to the expertise that they brought into our organization, so that we became the experts in using these components in a branded way, efficiently across all of our brands, and empowering ourselves to move faster.
+
+00:22:00:38 - 00:22:20:29
+不明
+You'll hear it in the remainder of the presentation that China and I are going to trade off on the technical details, just in the same way that our collaborative team did as they were designing and developing. Willow tree has been a really good partner and cooperating together to achieve a design system and token library within. And that Brunswick is able to self-manage.
+
+00:22:20:36 - 00:22:36:43
+不明
+Yeah. And and what Brian's really seeing here is like Brunswick didn't want to make the investment again. And on a, you know, a consultant coming in, going away and building something really cool. And then we hand it back to them in here, you know, you have to manage it yourself. We needed to make sure that Brunswick and Willow Tree was fully embedded from day one.
+
+00:22:36:43 - 00:22:56:34
+不明
+So we had we've spent so much time with Brunswick, I can't even tell you we had a full agile model. So full scrum ceremonies every day. You know, there were days that were great. There were days that were, you know, this ticket's taking me a week there, a tough timeline conversation. So it wasn't just about the work, it was about how we were in it together.
+
+00:22:56:38 - 00:23:20:46
+不明
+Problem, problem solving in real time, working through those stressful moments, having tough conversations with Brian. And then at one point, I mean, we were so embedded. I'm like, rooting for the designers. The lead designer, Brunswick, his kids hockey team. We like watching them go through the playoffs or, giving parenting tips in between calls. So it's just something that was really, integral to the success of this project that we had.
+
+00:23:20:46 - 00:23:48:06
+不明
+And this journey that we're on is how well we work together. So in the end, I think it's the incredible talent on both sides that made this partnership such a success. So when we kicked off this transformation with the theme of teams being embedded and spending time together, we decided, let's get everybody in the room together at Brunswick headquarters to look at this design system and power through some conversations about changes that we wanted to make.
+
+00:23:48:11 - 00:24:08:51
+不明
+We needed to spend time looking at the full functionality of the components and making sure that they were empowering all of the teams. So what we did was we started off with Mercury Marine, Bay liner and sea Ray, the three digital experiences that we thought best represented all the brands across the Brunswick portfolio, and we built out this massive workshop board.
+
+00:24:09:04 - 00:24:38:24
+不明
+So for example, we had the content card. Remember 190 different content cards. We mapped them out. What was used on Mercury Bay liner and sea Ray had them all side by side and then actually had the discussion. Are these unique use cases? Do they need to be separate content cards, content card A or content Card B, and what we found is after we started working through this is the teams are so quickly able to align on their needs, and we were able to consolidate most of the components.
+
+00:24:38:36 - 00:25:01:37
+不明
+So when the teams were engaging in these tough conversations, we would have some voting. You can see the stickies up here, you know, should the content card or should this component be in the system. Can it be consolidated into a single component? And oftentimes the voting was pretty unanimous across the board. So by the end of two days we went from 1000 components to 5454.
+
+00:25:01:37 - 00:25:23:58
+不明
+That's a 94% reduction for Brunswick, 54 components that we thought. And we this is just the beginning. We still needed to design and ideate on them and build them the 54 components that we thought would change how they manage their digital experiences and use across all their portfolios that that, two day engagement was, was really great. I think the best thing about it, though, as we went, we're in the Chicagoland area.
+
+00:25:23:58 - 00:25:44:28
+不明
+And so, Willow Tree came in Chicago and we went out for a steak dinner after after the, two day engagement and the restaurant we were at was filming a commercial for the restaurant. So, if you go to the Lake Forest Sophia Steakhouse website, you can see our, engagement immortalized in their video. That's pretty awesome.
+
+00:25:44:28 - 00:26:08:08
+不明
+Yeah. Yes. If you're in Chicago and I and a number of other people who are sitting and cheering each other and, yes, and appreciating our successful transition from 1000 to 54 components to drive the business. Yeah. There was a lot of, cheers and, libations that night. It was a good one. So when we talk about design and scale, we are talking about design tokens.
+
+00:26:08:21 - 00:26:40:37
+不明
+Design tokens really unify the approach that we were taking. These are going to control the typography, the colors, the UI elements to, ensure consistency across the brands. Centralized storage is a key part of design tokens. So the colors, the design styles, the spacing units like padding or quarter radius were structured for easy access and reuse. So all of the design elements for each of the Brunswick brands that we get from their brand books are actually living in the design tokens, which brings and allows for flexible component styling.
+
+00:26:40:46 - 00:27:02:25
+不明
+So the tokens allowed for the application of the brand colors and the styles across the components and the states, ensuring the adaptability and accessibility. And then the design tokens also make the system responsive and thematic. So the system supports multiple screen sizes, so mobile, tablet and desktop. So say here and we'll show some more visuals in a bit.
+
+00:27:02:30 - 00:27:33:11
+不明
+Let's say you're actually working with the system that we built and you're pulling in components. They can actually, in real time, show the different screen sizes from mobile tablet to desktop. And the color themes, light and mark and dark mode are also, included in the token structure for seamless experience. So by aligning early and building this structural foundation in which the design system would be built upon made it not just scalable, but it's going to make it adaptable to every brand and every platform.
+
+00:27:33:16 - 00:27:54:59
+不明
+So here's how those design tokens create consistency and flexibility. So our content card, the component that we keep on pointing to, you can see here that we have two brands, Harris and Boston Lanter and Boston Whaler pulling from the content card on the left. These are completely two different styled components. Two different styling of the components but using the same content card.
+
+00:27:55:14 - 00:28:15:22
+不明
+So that's really the power of the system here is it allows for the flexibility. So the brands are able to go in and make these unique experiences. But it also provides the structure that Brunswick needs. So the team isn't going crazy and they end up with a thousand components again. So Brian's going to take us through how we use the components and ingested them into it.
+
+00:28:15:22 - 00:28:38:52
+不明
+Yeah, absolutely. So, we we, we really needed to have a design system that looked like what was going to happen on the websites. Right? Our designers needed to be locked to a system that is always going to be responsive. It's always going to scale correctly, is always going to have the ability to be brand accessible and highly performance so they can be free to do designs quickly.
+
+00:28:38:57 - 00:29:13:57
+不明
+To create a cohesive and scalable design system, we implemented, a structured approach using SAS, which is an acronym for Syntactically Awesome Style Sheets. Right. It's a it's sort of like a meta version of style sheets that allows us to keep all of those brand decisions about the brand style, the look and feel, the the, the colors, the fonts, the spacing, all in in an individual style sheet in multiple ways within the design system that the brand gets applied to the to the site that it needs to very efficiently.
+
+00:29:14:09 - 00:29:29:51
+不明
+And this really helps our design teams because they have the we think about it, it's like Russian nesting dolls, right? The brand creatives are accountable for all of that. Right. What is the what are the fonts they want to use? What's the styling. What's the space? What's the logo? What is what's the shape of the form fields that they want to use?
+
+00:29:29:51 - 00:29:51:19
+不明
+What does their padding look like. And then that little nesting doll lives within the user experience that our user experience designers build at the enterprise level to make sure that the the consumers and customers are getting what they want. And then the brand creatives come back and they own all the content, right? They own the promotions, they own the assets, the images.
+
+00:29:51:24 - 00:30:13:50
+不明
+It's really a wonderful way to work and it moves very, very quickly. So it ensures consistency. It allows flexibility where it's needed and it delivers a few key benefits. One, that centralized SAS variable defines all that stuff in a way that ensures a unified look and feel. That's the same across all the brands. The questions that we need to ask as a digital experience to the creatives are really easy to ask.
+
+00:30:13:50 - 00:30:35:25
+不明
+We have the conversations. Nine times out of ten, they're already in the brand design books, whether physical or PDF, that they might have. And then efficiency and maintainability updates the design system cascade, automatically, reducing manual overrides, eliminating the chance that developers can go do something that's not on brand. Right. It's not going to happen anymore. They're scalable.
+
+00:30:35:25 - 00:31:02:57
+不明
+They enable brand specific customizations within within the the tokens set while maintaining a shared core structure, meaning that we're never having to write a style twice. And then finally, the seamless integration, which I'll talk a little about in the next slide. That SAS integration feeds directly into a, what that means is if a brand decides that they're going to do some level of refresh and they want to change the way that their site looks, we don't even go into the code.
+
+00:31:03:06 - 00:31:35:14
+不明
+They go into the design system, they update, the style sheet or the token set, and then we push a button in the CI, CD pipeline. It goes to the website or QA or whatever we choose to do. We want to control it in a way that creates a structured approach that streamlines the styling, enhances the brand consistency, consistency, and again accelerates the development and ensures that development is happening horizontally at the enterprise level and empowering the brands to be able to move very quickly.
+
+00:31:35:19 - 00:31:54:21
+不明
+So we talked a little bit about the automation within the CI CD pipeline. We don't have to rely on developers at the core of the system that we built. It's like two pieces, right? It's the design system, and then it's the actual enterprise component library, which are the components that we built with Willow Tree or actually you guys built those.
+
+00:31:54:26 - 00:32:14:25
+不明
+Let's face it. I'll talk about all the cool stuff we built in a few slides. And that enterprise quote layer lives in a in the an as a cloud service. It's designed really specifically for bunds. Brunswick based on all of those thousand components that we had to replicate only using 54. And so the design system is really and you're probably familiar with this.
+
+00:32:14:25 - 00:32:42:15
+不明
+It's an atomic design system that has a 1 to 1 relationship with these components that we built in AMP. So you can design in a in the design system and you can have you can say, I want to build something unique and new. I don't want to do any development right. And you know what those guardrails are. They're going to keep you in a space where you can translate it directly over into Adobe Experience Manager and bypass the development, and to add a layer on top of that.
+
+00:32:42:15 - 00:32:58:38
+不明
+I think one of the great things that we've seen is the digital marketers can go in and create these new digital experiences, and then they always they all already have a visual, if they're creating it in the design system, and they can go to the designers and say, hey, does this work? What needs to be included in the system and website?
+
+00:32:58:38 - 00:33:19:32
+不明
+So it's really powerful and it really promotes team. Yeah, it does it. It empowers the brand marketing teams to manage our digital experience with better agility. Right. That's that's what we're all about is we we want to innovate and we don't want to be a roadblock or or delay the speed to market for the marketing objectives of our brands.
+
+00:33:19:37 - 00:33:42:12
+不明
+So to ensure that the product content remains accurate and up to date across the brands, this is where I get to talk about the stuff we did. We so we took this enterprise component library system. We started to build these really flexible, dynamic product detail page and other page templates that are automatically integrated directly with our our, PIM system.
+
+00:33:42:12 - 00:34:08:30
+不明
+Right. So all of these different product specs and details, it's a single source of truth. If something if the brands change something, they go change it there and it's automatically updated on the websites the next time the cache refreshes. We implemented with Adobe Enterprise. Tim. The set up enabled us to automate updates through these API driven systems, eliminating any, not any, but eliminating all of the spec manual content entry we were doing utilizing that single source of truth for product information.
+
+00:34:08:34 - 00:34:29:28
+不明
+It really allows us to scale across the brands in a standard and efficient way to have that integration. So and by seamlessly linking and with the enterprise Team Brunswick's marketing teams can now populate and update content much faster, ensuring that every brand has access to real time, consistent product information, again, without having to rely on our developers to really focus on a single brand.
+
+00:34:29:33 - 00:34:49:33
+不明
+Yeah, and we have a great visual app where you can actually see, picture of one of the PDP pages and all the different fields that the Brunswick team was having. The author and I spent a lot of time with Lesley from Brunswick learning really how much of a lift this was for their team. So be able to automate this to empower the Brunswick team is is really something special.
+
+00:34:49:37 - 00:35:10:38
+不明
+I felt like we're close so I'm going to yeah. So building the system was just the start. We've talked a lot about Brunswick. You know, they didn't want to be handed over a new system that they didn't know how to use. So we when we got towards the end and started looking towards delivery, we needed to make sure that they were able to take full ownership of content creation, moving faster than they ever had before.
+
+00:35:10:43 - 00:35:28:46
+不明
+So we had a lot of hands on working sessions together, daily working sessions, oftentimes times the Brunswick marketing team would come to us with a component. They were trying to, author a site and we would have an actual walk through on the call screen, share and teach them how to author the component and then put together authoring instructions.
+
+00:35:28:51 - 00:35:51:48
+不明
+We did live training. We did CT sessions. They learned directly from our team, and we learned from their team. And then mastering the authoring the components and workflows and best practices was a lot of what we talked about every day. But now coming out of it and with one of their new sites launched using the system, we know that they're able to author and build new digital experiences without relying on developers long term success.
+
+00:35:51:49 - 00:36:09:32
+不明
+When we talk about it was really enabling the Brunswick team, so we wanted to make sure to that they were able to easily access any information that the, that they needed. I think it's a lot for an organization like Brunswick with 60 plus brands to say, hey, here's this new system, make it happen. Now across the board.
+
+00:36:09:47 - 00:36:30:29
+不明
+So authoring enablement was really important. We made sure that while we were working on our design system, that all the technical specifications from an implementation standpoint were being documented for their development team. So they can go back and see why we built things a certain way. I mean, we were involved day to day of scrum. But that they had those answers that they were looking for.
+
+00:36:30:40 - 00:36:56:17
+不明
+We also needed to make sure the component architecture was in there. So that comes from a design standpoint as well. In our design system in Figma, we have a, break out of every single component, how it's compromised, what pieces of the tokens are pulling into the components. And then, of course, we also had authoring instructions, which I have to hand over to Leslie at the Brunswick team, who really put a huge effort into helping me and working together to make sure the team can learn to author.
+
+00:36:56:29 - 00:37:26:06
+不明
+So this is a screenshot of one of the pages that we built. A bit of the home page. You can see how they're organized from atoms, molecules up to organisms. And this is going to be something that helps, empowers Brunswick's team. It also has can be used to track future use cases. So if a marketing executive is going to build a a new experience and they feel like it cannot be accomplished within the system, we can start having conversations of what components can be used or is it a snowflake and it needs to live outside the system.
+
+00:37:26:06 - 00:37:52:30
+不明
+Or if we can just bring that functionality, to be a part of the system that we're working with. China is is is being is underselling it. She built all that said I did did it was a lot of work, but it was a great, a great handover for them. And then outside of the structured wiki, we we knew that the wiki would serve as a single point of truth, but keeping their teams aligned documentation alone wasn't enough.
+
+00:37:52:35 - 00:38:11:34
+不明
+So the core of the governance is actually this triad of development, design and product. At Brunswick. They each have a very important role, when they have to have tough decisions, say there's a brand that's coming to the product team and says, hey, I want this new experience on the site tomorrow. I want it to look exactly like this.
+
+00:38:11:38 - 00:38:42:14
+不明
+This triad of the governance team. Other folks are going to have those tough conversations. Product can push back on the brand, and the governance team can actually say, we can build an experience that's even better than this, using our enterprise component library that's powered by the tokens to bring this experience to life. So design ensures brand consistency and usability development, provides the technical foundation for scalability, and then product aligns the system with business goals and user needs to launch new, engaging digital experiences.
+
+00:38:42:28 - 00:39:05:18
+不明
+So this balance that we have empowers the team to manage, evolve and scale more confidently. And I've had the pleasure of witnessing some of these kinds of conversations already with the Brunswick team, and they're already starting to look at things in a very more strategic, and like minded mindset. And with that, I'm going to hand it over to Brian, because every every product needs a name, right?
+
+00:39:05:22 - 00:39:26:26
+不明
+So every product needs a name. Right? So, so, our, our, our director of user experience design at Brunswick is a gentleman whose name is Andy, who is very British. And, he made a decision that he loved the name Archimedes, which is great. And so that's Archimedes is the father coined the, law of buoyancy. Right.
+
+00:39:26:26 - 00:39:43:07
+不明
+So it's pretty fitting name, but you, we're an acronym loving organism like business, right? We love our acronyms. Five syllable for syllables. Sometimes a little too long for us. So sometimes we'll call it Archie. And that's much to Andy chagrin. He really hates that. But. So we had this. We had this new toy. We had to build some stuff.
+
+00:39:43:07 - 00:40:10:24
+不明
+Right? So we had a new project to build some stuff. And, we started with Cray. Cray is, our is our most luxurious boat brand. We selected it as the first brand to go live with the new design system. It really set the foundation for future rollouts across Brunswick's portfolio. This was primarily developed, by the Brunswick organization, with some front end support from Willow Tree and utilizing those components that we built as part of the organization.
+
+00:40:10:29 - 00:40:30:42
+不明
+It's one of our most iconic and experience driven brands. Cray required highly engaging, visually rich digital experience, making it really the perfect the perfect brand to showcase the power of this new design system. We kept Ciara's tagline every moment perfectly crafted very much in mind when building this site and a lot of people, some of the people who built it, are sitting down here in the front rows.
+
+00:40:30:42 - 00:40:53:56
+不明
+Thanks, guys. With launching with Siri, we were able to validate the scalability, the efficiency of the design system in a real world environment environment, proving how it streamline our, streamlines our brand execution while allowing to the brand to have flexibility and maintain creative excellence. As a brand that ain't cheap to buy, I'll tell you that much.
+
+00:40:54:01 - 00:41:25:51
+不明
+I'm a I'd love to be an owner, I'll tell you that. So, but let's talk let's talk a moment about content authoring. Right. Think of this atomic design system that we built as Legos. It has so much flexibility compared to what we used to do when we built things in Adobe. Experience Manager. You're probably used to thinking of content management as holes in holes in the page, holes in the component that the development team left for you to put assets and videos and images and personalization.
+
+00:41:25:55 - 00:41:49:55
+不明
+The new component library allows authors to assemble complete experiences in Adobe Experience Manager, which is that bypassing the development in many cases, they're incredibly flexible. And if you think about it, you can take a component from one brand in the author, Adobe author and drag it to another brand. And it's just gonna look like that brand because it's got the tokens are all set up and you can there's a lot of different options and variants within those individual components.
+
+00:41:49:55 - 00:42:12:08
+不明
+It's really, really remarkable and helps us to achieve speed, to market in a way that stays unique to the brand because of all that flexibility. It's it's unique to the brand, but it's always on brand. This is a big portion of that, turning enterprise complexity into a competitive advantage that trying to refer to earlier in the presentation. Suddenly now we have the ability to move faster than if we just had one brand right?
+
+00:42:12:22 - 00:42:40:00
+不明
+We've got the system that allows us to scale very easily across the brands. We've as I was saying, we've we've kind of coined this new role of experience managers. They're kind of in between development and marketing, and we're thinking about them at the enterprise level of people who are going to go and literally be able to build entire websites in Adobe Experience Manager in a way that we have to do very, very little development.
+
+00:42:40:00 - 00:43:05:30
+不明
+Right. There's the bootstrapping of setting up the pipeline to bring the styles to the site, but that's about it, right? It's incredibly powerful. We've got the PIM integration, we've got the enterprise Dam integration. All the product information we need is there. It's available. It's really remarkable. So you guys have have probably had the experience of you're building a new, new digital site, a new experience, and you're about to launch and something screwed up and you're like, oh, man, this is I can we can't launch with this.
+
+00:43:05:30 - 00:43:35:28
+不明
+And someone says it's just authoring. Don't worry about it. We can we can bypass it. We can. Don't worry about keywords authoring. We'll fix it later. Well, we'll that we're never going to use the term just authoring again because it's so powerful for us. So utilizing these kind of brand agnostic components and leveraging data from an enterprise PIM, these components and single page apps that we built at Brunswick make it straightforward to leverage capabilities and content for more use cases than just the consumer use case.
+
+00:43:35:33 - 00:43:57:29
+不明
+Right. Our sales are all close in the dealer experience, and so we have the ability now to use these, these, these things that we built to go into new spaces like the dealer experience, the tie, the omnichannel shopping journey together from what happens with the consumer, in online and what, what goes down in the dealer showroom floor.
+
+00:43:57:29 - 00:44:18:13
+不明
+Right. Every time that a consumer configures one of these boats, we save it. We save the configuration. They go into the dealer. The dealer can pull it up and can have that conversation. This is where we begin to scale the system in a way that allows us to very rapidly improve the digital experience for Brunswick and our channel partners, and in the dealer market.
+
+00:44:18:18 - 00:44:44:37
+不明
+So this transformation is not just about solving today's challenges. It's about building a foundation for first party, data driven, personalized marketing and long term digital agility. By streamlining operations and leveraging and cloud, Brunswick is unlocking these benefits that we've talked about. Speed to market, being able to utilize that component library, the teams, the the brand teams can bypass development bottlenecks and build experiences in real time.
+
+00:44:44:42 - 00:45:11:50
+不明
+Design. I should talk about this for a minute. Design is a lot faster, right? We're not thinking about breakpoints anymore or screen sizes. Or unless we're going back and updating really the core component library. All those decisions are made. We're bootstrapped. We want to build a new a new native application for free to book club. We're going to go in there and start thinking about it in the framework of of the design system we already created, even if that experience doesn't necessarily live in.
+
+00:45:11:55 - 00:45:37:20
+不明
+And and we're starting to think that maybe wireframing is dead, right. We traditionally would do a lot of wireframing, but now we created a token set that's like a nondescript token set. And so you go in and you start moving things around and thinking about the consumer experience from talking to your consumers. We're really big on making sure we talk to them, solve their problems, and then you can very quickly design that using the atomic design system.
+
+00:45:37:25 - 00:45:56:28
+不明
+And then you look at you go, how much of this is components we already have, and how much of this is going to require any new development for us to, to go in the right direction. And then finally, well, financial optimization, let's not forget that. Right? You know, spending seven figures on doing support where you get nothing out of it and that's 20% of your budget.
+
+00:45:56:35 - 00:46:13:15
+不明
+We can't live like that. We need to be able to spend the money, focused on building innovation and ensuring that when we build it, we build it once, right? We'll build it once. It'll work for all the brands when we want to update their configurator. We looked at earlier, we'll we're going to do it once in the past.
+
+00:46:13:15 - 00:46:39:21
+不明
+We had to do it like five times or six times what I'd like. I wanted to groan audibly because it was so frustrating for me to be spending 50% of that budget on just skinning the darn thing again and again, and then the the content supply chain efficiency, right? Integration of APM cloud with the API driven content enables that rapid deployment of new experiences that, ensures every brand is on brand, has the right information, is powered by that single source of truth.
+
+00:46:39:26 - 00:47:04:57
+不明
+So it's a pretty remarkable system. Thank you. What a time to get a tickle my throat. What Brian just outlined. Isn't just theoretical. It's happening now. We've actually seen the results, and it's already coming to life for Brunswick. It's working for them. And this transformation has already delivered measurable success, providing scalable, structured system that can unlock speed, efficiency and smarter resource allocation.
+
+00:47:05:01 - 00:47:37:37
+不明
+But numbers speak louder than words. So let's just go through some quick, real, quantifiable success that the system has already driven across Brunswick. So component consolidation. We spoke about this earlier and 94% reduction in their single use components and the component size. Sorry, a 94% reduction in their component library side, 100% elimination of single use components. There is no longer any single use components in their entire digital ecosystem that powers their experiences.
+
+00:47:37:39 - 00:47:59:00
+不明
+Well, none that are going to stick around. Yes, they're going to go. And then onboarding at scale and faster adoption. What used to take six months can happen in four weeks. So when we mean adoption, we mean getting the brands on to a, cloud, getting them using the system, getting a new experience. Launched six plus months. We're looking at four weeks now.
+
+00:47:59:05 - 00:48:27:34
+不明
+Also speed to market, which is key for Brunswick. Week long delays for new marketing campaigns are now a thing of the past. Content authors can go from idea to execution in hours, unlocking unprecedented speed, using our communities and elevating Brunswick, really elevating them above their competitors. So this transformation was not just about solving today's problems. It was about building a foundation that would drive long term success for Brunswick.
+
+00:48:27:49 - 00:48:51:49
+不明
+They now have a unified, scalable system. It's empowering their teams. It's accelerating execution and eliminating inefficiencies. What once took months now takes weeks. What took weeks now takes hours. That's very powerful. In a single structured design system in place, every brand can move faster and they can really optimize the use of the system. But this is just the beginning for Brunswick.
+
+00:48:52:03 - 00:49:14:31
+不明
+With this momentum, we're set up to push even further, leveraging more of the ecosystem that Adobe is providing. The foundation that we have here is already driving smarter data, data driven marketing, and long term digital growth. Just to add on to that, Andy informed me that what used to take 40 hours of design time now takes like 6 to 8.
+
+00:49:14:31 - 00:49:35:49
+不明
+So it's the speed of our ability to design and innovate is just rapidly increased. So, what's what's next for us? Well, we need to move all those brands over to a component library and, and move, to the Adobe Cloud more broadly. Right. We've got we have sites running on systems you wouldn't believe. I think they might say trade on the bottom trademark.
+
+00:49:35:53 - 00:50:13:42
+不明
+2004. We've got we've got some, some B2B brands that could definitely use, a little bit of love and attention. And so we're going to work on that. Luckily, as you've heard, it's mostly a content driven exercise, right. We're experienced management thinking about that and building it with those Legos of the enterprise component library. The standardization. Think about how in the world can we personalize across 60 different sites if they're not running in a common platform and common architecture, it becomes very impossible for our marketing technology organization to personalize, to do the to do personal marketing, to bring that consumer experience that the consumer had when they design the boat back to them in
+
+00:50:13:42 - 00:50:34:00
+不明
+a way that's easy for them to use. So the standardization provides us with a scalable, AI ready framework to do things like propensity modeling, next course of action, and really use our Adobe Series platform in an effective way. With centralized workflows, dynamic content powered by these integrated templates, we are going to be able to move much quicker from a marketing technology perspective.
+
+00:50:34:05 - 00:50:52:27
+不明
+Every digital transformation comes with some takeaways. And for Brunswick, there was really three that stood out one. Standardization with flexibility is the foundation for speed and efficiency for us. Without it, our ability scale was impossible. It kept they kept a number of us really concerned about how we were going to truly innovate with the money that we had.
+
+00:50:52:32 - 00:51:14:10
+不明
+Governance matters. Without clear ownership and processes, systems can become unmanageable and we set out the best intentions there was when we started using Am, an Adobe, managed services, there was a set of components called the Brunswick framework. They got copied and pasted, and then all of a sudden we were in a whole, whole mess. As before my time, I can't take accountability for it.
+
+00:51:14:10 - 00:51:34:06
+不明
+But, and finally, automation and I will play an essential role in the future. The system isn't just built for today. It's built to adapt and scale as as new technologies emerge, emerge. As we look at the whole Adobe Experience platform, we're actually going to be able to utilize it to drive continuity of marketing and take a bigger market share.
+
+00:51:34:11 - 00:52:07:27
+不明
+Of that 125,000 boats that are sold every year. Thanks, Brian. So we talked about complexity often being seen as a challenge. And the more brands and the more channels you manage, the layer of complexity, the layers of complexity emerge. But remember, when you walk away from this today, complexity isn't just a barrier, it's an opportunity. Brunswick's transformation proves that standardization and governance unlock speed, agility, and efficiency, and it also is driving speed to market and the return on their investment by a structured system.
+
+00:52:07:27 - 00:52:27:19
+不明
+They've eliminated all their redundancies. They're empowering their teams and positioned themselves to take full advantage of AI and future automations. So the real question to ask yourself, is your organization ready to scale and innovate, or is complexity going to be a barrier for you and hold you back? We want to thank everybody for coming here today and listening to Brian and I.
+
+00:52:27:24 - 00:52:43:25
+不明
+If you'd like to continue to the conversation, we'll be back at the Willow Tree booth with some of our architects, myself, Brian, and actually some of the Brunswick team. So we'd love to chat you about how we accomplished all this. A bit about Brunswick, a bit about Willow Tree. You want to talk boats? We can do that too.
+
+00:52:43:29 - 00:52:54:51
+不明
+Sure. That's also one of our favorite stuff. I could do that all day. Yeah. So it's great to meet everyone. And, thank you for being here. Thank you.
+
+00:52:54:56 - 00:52:55:30
+不明
+For.
+

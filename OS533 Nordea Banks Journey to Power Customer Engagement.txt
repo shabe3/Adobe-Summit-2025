@@ -1,0 +1,112 @@
+00:00:00:00 - 00:00:31:27
+不明
+Imagine head of customer engagement from Nordea Bank. My name is for head of data products and Marketing Technology. I would like to share with you our journey to power customer engagement. We thought of experience before. Nordea is one of the biggest banks in Nordics and we strive to be personal, expert and responsible and being personal. We really want to understand our customers and build strong relationships with them.
+
+00:00:32:00 - 00:01:08:28
+不明
+And in this session, we're focusing in this part in particular, and we will be looking into how Nordea is building capabilities to enable personalized advice and communications across our digital channels. Our vision is to to really understand our customers, their life stages, their key life events, their dreams, their aspirations. And then based on that, enable proactive and well timed personalized advice and communications.
+
+00:01:09:00 - 00:01:49:03
+不明
+On top of that, of course, we want to be able to tailor, those messages and communication. According to individual preferences. And in the back of all this, obviously, we want to be a trusted partner for our customers to promote their financial well-being. Also through the digital channels. One of the steps, then, that we have taken towards this vision is to modernize our martech stack and our marketing automation tool, in particular.
+
+00:01:49:05 - 00:02:20:15
+不明
+And that like modernizing our marketing automation tool, really enabled us to scale up the number of activities and the number of data that we're using and the channels that we that are used for, for digital, personalized advice. And, as you can see, we've already had a significant uplift on the number of of activities that we are running across four markets at the moment.
+
+00:02:20:17 - 00:02:51:07
+不明
+Then, we're going to say a few words about, you know, where we're coming from. And the previous tools that we were using really, like, prevented us from, from scaling, from moving towards the vision. And, from the business perspective, really the, the one of the key things where we're ability to scale up and, that's something that, that we have been tackling now with the new tool for.
+
+00:02:51:07 - 00:03:13:14
+不明
+I do want to go into more details, on that. Yes. Let's go to through some of the challenges that we had in our previous, platforms. We had reached the limits on how many campaigns were run at the same time and how much data we could use, in our activities. Now, in Adobe will be able to scale up our activities much more as we go.
+
+00:03:13:15 - 00:03:46:13
+不明
+We have seen in the numbers already, we are able to use richer data, both for segmenting our customers and then personalizing the content are able to leverage real time data in our day to day. Another challenge we had is that we were operating in separate solutions. We had custom built integrations across all of them, and the limited our own internal experience we could provide to our customers maybe also make it as more difficult to maintain the home system.
+
+00:03:46:15 - 00:04:10:10
+不明
+Now, with the other WordPress platform, we have one common logic platform that everyone can use, that we can also extend into new channels like social media or our advisory, our contact center. The previous tool was the same for mass communication. So as you can imagine, we had to build many things to try to operate with the channel.
+
+00:04:10:10 - 00:04:32:20
+不明
+We had. It was mainly focus on one time send out with limited personalization capabilities. Now we we see and improve automation on all the activities that we can do. And we have much more personalization capabilities.
+
+00:04:32:22 - 00:05:00:08
+不明
+On top of that, some of the issues with the previous tools was that we actually, because of the complicated set up, we needed quite many roles to to build and launch a campaign. And that also meant quite long lead time, to market. So with the new tool, it's more simple, it's easier to use. And we don't really need multiple roles, launching campaigns.
+
+00:05:00:10 - 00:05:29:24
+不明
+So, we can get faster new things out towards our customers. Also, when we're looking at, of course, onboarding new colleagues, whether it's in the business side or development of this tool. Previously it was quite, a big effort to actually, onboard new colleagues to, to learn how to use the tool and how to develop the tool.
+
+00:05:29:27 - 00:05:49:00
+不明
+And, now we are quite happy that the onboarding is a lot easier when you have easy to operate, platform. And, and we can get new colleagues, up and running faster.
+
+00:05:49:02 - 00:06:07:25
+不明
+We would like to share with you some of the highlights of our migration journey. We started the initiative some years ago, and as part of moving to a cloud solution, this required us to ensure full readiness to live up to the spectators that our customers have on us when managing the data in a safe and trusted way.
+
+00:06:07:28 - 00:06:34:09
+不明
+We decided to rollout to channel by channel, having our old and new solutions running at the same time, migrating hundreds of campaigns across all Nordic countries and securing continuity of all communications to our customers as part of the project. You can see we started with email in the first quarter of 2023, and then we followed by our mobile applications, our Nedbank and our contact center.
+
+00:06:34:12 - 00:07:03:12
+不明
+Last year, we also enabled new channels such as Facebook and Instagram using the integration with meta and SMS. Bring it as well. List of our advisors. Now all countries are able to leverage these channels as part of their activities. As a the benefit, we have been able to decommission our legacy platforms. Yes. And during this project, of course, we invested a lot of times, in training our people.
+
+00:07:03:15 - 00:07:36:13
+不明
+Now and today we have, dozens of users, using app on a daily basis. One of the if you look at the voice of working space, one of the things that we also changed, during this process was, moving from one of campaigns to always on, conversations. So today we have around 90% of all the, all the communications that we have running are always on.
+
+00:07:36:16 - 00:08:02:07
+不明
+And that, of course, means that we don't need to manually, do send outs. In this process, we also onboarded both private and corporate segments into the same platform. So we're able to, use this tool across the bank, which is a great benefit for us as well.
+
+00:08:02:10 - 00:08:28:24
+不明
+We have some, learning areas, representing now, as part of the project and in three the first one is on data. Our previous marketing platform was on premise. We were using data stored in relational databases. Transitioning from them to HCM schemas has been a big change for us, and it has required us to take some steps back and rethink our use cases.
+
+00:08:28:26 - 00:08:52:08
+不明
+How is that, going to be used to the different giving our users more granular data with user friendly names and descriptions has been highlighted by them as a big improvement in their work. For us is a very important factor when building improve audiences and providing personalized content towards our customers. The second area is on the guardrails.
+
+00:08:52:10 - 00:09:12:19
+不明
+The platform governance have become a natural part of our day to day activities, both in terms of how do we continue doing development on the platform, but also on how should the users create and maintain all communications to us, our customers? When we started not being fully aware of the implications of the guardrails led us to suboptimal decisions.
+
+00:09:12:22 - 00:09:38:21
+不明
+It is therefore very important to proactively align your architecture, integrations and ways of working with all the users, both the end users and the development teams, to the customers in the platform, while still providing them some flexibility as part of their daily work. Our last learning area is to always prioritize building all integrations using out-of-the-box solutions provided by other platform.
+
+00:09:38:23 - 00:10:09:17
+不明
+We started the development work in Adobe Unity myself, before new channels and integrations were made available in journeys as an example, and integrations to our mobile and Nedbank channels were done before the journeys had similar capabilities that are available today. Capabilities that could potentially fatal integrations. It was a lengthy process, as we had to figure out how can we make this integration, ourselves, build a new custom solution.
+
+00:10:09:19 - 00:10:38:18
+不明
+So we had to invest a lot of time designing a solution and understanding how our end user should leverage those channels as part of their activities, which is something that we'll be addressing in the future so we can fully orchestrate across all our channels. For example, as part of journeys or some internal solutions. We will of course need to continue doing custom developments, but we have seen clearly a much shorter time to market when using out-of-the-box possibilities.
+
+00:10:38:20 - 00:10:56:29
+不明
+As an example, we enabled SMS in a matter of months which has never seen, on our site, and we think that this will also make us better prepared, for how otherwise best platform continues developing in the coming years.
+
+00:10:57:01 - 00:11:33:23
+不明
+Yeah. So, we have quite ambitious roadmap, ahead of us to enable real hyper personalization. And now we have taken the first step to be able to scale up by modernizing our marketing automation tool. But then going forward, we are looking into adding more channels, into the mix and also enabling true, seamless cross-channel orchestration. And we're also looking into, increasing the number of real time data, to be used.
+
+00:11:33:25 - 00:12:01:13
+不明
+So that we can be even more relevant and accurate, well timed with our communications. And the lastly, of course, leveraging AI, whether it's connected to the content creation or other other parts of the, of the area. And, we're really glad that we have taken the first step towards our vision by modernizing our marketing automation tools.
+
+00:12:01:15 - 00:12:27:14
+不明
+We're really also excited, about the journey ahead. What we still need to develop to be truly hyper personalized and enable personal, personalized advice to our customers. We would like to thank you for listening in, to our recording, and we hope it was relevant for you and that you can hopefully get some learnings out of it.
+
+00:12:27:17 - 00:12:39:20
+不明
+If you're also starting this journey ahead, thank you for your time. Very much. Appreciate it. Enjoyed this summit. Thank you. I.
+

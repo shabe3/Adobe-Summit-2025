@@ -1,0 +1,416 @@
+00:00:00:52 - 00:00:24:41
+不明
+Hello, everybody. Thank you so much for coming to hear about the Virgin Atlantic story, our personalization story that we've been proud of. If you like to drive over the last five years or so, particularly powered by its Obi and the things that we've been delivering across the to enable, if you like, the customer journey itself. So I'm Simon Nathan, I'm the head of CRM.
+
+00:00:24:41 - 00:00:46:57
+不明
+I've been with Virgin Atlantic, like I said, for five years. Driving the personalization story, but also driving a lot around how we understand our customers and how they behave, and therefore how we can trigger different types of activity and personalization across the whole lifecycle. And then Tom, thank you so and so I'm Tom now. So I'm senior manager for CRM delivery.
+
+00:00:47:02 - 00:01:15:16
+不明
+And I'm also a Adobe product owner for a campaign and more recently Adobe Experience platform. And was also working very closely with some of my colleagues in terms of the integration into into other Adobe Experience products, which is Adobe Analytics Experience Manager, audience manager at Adobe Target. Fantastic. Thank you. So so today we'll show you how we've driven through the app platform and all the data and unified profile work that we've been doing.
+
+00:01:15:21 - 00:01:53:56
+不明
+Significant gains in terms of the amount of personalization, 1 to 1 activity from a volume perspective that we've driven through lots of different channels. The second part is all around how we driven significa conversion improvements three times the amount of conversion from our own, if you like personalized activity that we've been driving before. And then from a customer experience perspective, we've been driving our preflight comms activity and driving NPS as a result in terms of managing expectations of our customers before they board our flights and before they get to our results from a holiday perspective to the biggest part of the journey, though, is particularly around our journey from a single channel, CRM owned
+
+00:01:54:00 - 00:02:18:46
+不明
+email perspective into a digital channel space where we've been able to personalize across multiple web social WhatsApp channels into a offline space as well. Utilizing our contacts center, that crew teams onboard to be able to personalize that journey through the power of data. But before we go into that, what I wanted to do was just show the agenda.
+
+00:02:18:51 - 00:02:40:49
+不明
+So I'm going to do a bit of a overview of virtual. And so we were 40 years old last year from my first flight in 1984, which I'll talk about in a second, and I'll talk about some of the highlights and some of the themes, if you like, that punctuate Virgin Atlantic's history and kind of the way we, the DNA that we have now in terms of innovation and personalization.
+
+00:02:40:54 - 00:02:58:08
+不明
+I'll then also talk about our brand vision and how that directly links top down into our personalization journey, the change journey that we've been on, and then the end to end experience that we're looking to enable. And then I'll hand over to Tom. Tom will bring this all to life. So I'll do the set up. Tom will take it home.
+
+00:02:58:08 - 00:03:22:45
+不明
+In terms of what specific activities we've powered through the Adobe platforms to enable personalization across multiple channels, and some of the results that we've seen from that as well. And then finally, for a key Takeouts perspective, we'll also go through some of the key learnings that we've had so far in terms of that journey and hopefully some things that you can take away or ask us questions on at the end of the presentation.
+
+00:03:22:49 - 00:03:47:34
+不明
+So Virgin Atlantic, like I said, Virgin Atlantic starts in 1984 from the from an idea from Richard Branson that flight could be better, could be experienced in a much, much better way. And he devised the first flight from London Gatwick to Newark in June of 1984. And since then, it's been a continual process of shaking up the aviation industry and leading in terms of customer experience.
+
+00:03:47:49 - 00:04:10:38
+不明
+One of the biggest things that Richard Branson, if you like, led into, flying at that point in time was how can flying not only be functional in terms of getting you from A to B, but how can it be ultimately fun as well? When you experience, what you can experience on board? And that theme kind of goes through in terms of the innovation that was done from that point, in terms of, seat changes.
+
+00:04:10:38 - 00:04:37:37
+不明
+So the first flight back to these, the first, premium economy, the first time we've done flatbeds, with our accessibility number six. So some of those seat innovations through to, leading on sustainable aviation fuel, which culminated in the first 100% sustainable aviation fuel flights from London Heathrow to New York, this, in 2023.
+
+00:04:37:42 - 00:04:54:58
+不明
+And then the other part is around our partnerships as well, saying not only the partnership with Adobe, but our partnerships with Delta, Air France, KLM and more latterly, our partnerships. From a SkyTeam perspective, we're an airline. We have 45 planes. We're not a large airline by any means. We're quite a niche player in some ways because we only travel long haul.
+
+00:04:55:12 - 00:05:20:16
+不明
+So we need the the power of our partners and the power of our partnerships is crucial in order to have that kind of global connectivity and the ability to connect our customers across all different parts, essentially of the globe as a result. So, so loads and loads of fantastic stories. But leads on to this quote from Richard Branson, which is around every success stories to tell of constant adaptation, revision and change.
+
+00:05:20:21 - 00:05:49:40
+不明
+And the story I've just talked about, they're very, very shortly, very short highlights just punctuates the amount of change and constant change that has been to enable, if you like, the developments in customer experience and you. I think that particular statement couldn't be more true now in terms of if you like, the precipice that we're on now with the advent of AI technology and how we are looking to develop that personalized experience, which is becoming ever more crucially from a customer expectation perspective as well.
+
+00:05:49:44 - 00:06:17:33
+不明
+And this is also punctuated for me specifically when, we went through, I joined Virgin Atlantic. Like I said, five years ago, literally just before Covid, it was a perfect time to join an airline, potentially. And with that, it was punctuated with, significant change within the industry where we had to strip back from our core operations into an airline that was, lighter in terms of what it would normally do.
+
+00:06:17:38 - 00:06:39:02
+不明
+It focused heavily on cargo during that period, but also enabled us to kind of come back and rethink, well, what is our strategy in terms of developing, personalization and our customer profile so that we understand our customers in a much better way, which led on to our brand promise. So how do we create thoughtful experiences that feel brilliantly different at every opportunity?
+
+00:06:39:02 - 00:06:59:38
+不明
+So this is from a brand perspective. We want to enable those experiences. We want to enable that personalization. We want to empower our teams across our crew throughout. So our contact center through to our retail teams, the ability to create those thoughtful experiences. But then with the data and information that they need to be able to do that as a result.
+
+00:06:59:42 - 00:07:25:09
+不明
+So personalization and CRM kind of underpins this brand promise. And so this ability to be able to power the journey from an end to end experience as a result. So I'm now going to get interactive with everyone here now. So we've got an audience question, because we're interested to hear back from your experience as well, in terms of your biggest challenge or the blockers that you've had to personalization at scale.
+
+00:07:25:09 - 00:07:50:46
+不明
+And we've got four different areas of answer here data and technologies and the ability to get the data, combine the data together and underpin it with technology to be able to make it actionable, that stakeholder engagement from a senior or from across departmental perspective, the ability to activate this across channels. So some channels are very easy, but some channels can become much more problematic in terms of integration or just that whole change management curve that you need to go on as a result.
+
+00:07:50:46 - 00:08:22:43
+不明
+So there is time if you can do the honors, if you can scan that, you should be able to go and answer that question. And while you're doing that, I'll talk about why personalization is important at all. So few stats 80% of consumers are more likely to make a purchase when brands offer personalized experiences, 71% expect personalized interactions, and 76% get frustrated when this doesn't happen and 56% of online shoppers are more likely to come back when they see personalized recommendations.
+
+00:08:22:48 - 00:08:40:38
+不明
+I think what is independent is this is no longer like something that can differentiate experiences across brands. It's now something actually that becomes a hygiene factor in terms of what we all need to do to develop that personalized experience, because the customer expectation is moving that way. So in terms of the answers that we've got here, really interesting.
+
+00:08:40:38 - 00:08:58:27
+不明
+So yet this is very much in the, in what we've seen as well as the data and technology. I think data, particularly in terms of underpinning, like we are still on the journey, I'd say in terms of our unified profile, we've we've come a long way in terms of our unified profile. We've now got the capability and the technology that exists with Adobe.
+
+00:08:58:42 - 00:09:24:10
+不明
+It's now actually making some of those things more actionable than ever before. But to make them actionable, the change management piece has been one. And the stakeholder piece, actually those two things combined has become one of the interesting, if you like, challenges, blockers, stroke opportunities that we have to how do we get a sense of that data and that insight into the hands of the people that can use it most powerfully, which are our careers, our contact centers, our retail teams, the people that essentially across the organization.
+
+00:09:24:10 - 00:09:50:31
+不明
+It can't just be handled by one team or a few separate teams. As a result. So we'll link directly from that. Tom, if you can flip back, into our journey. So thanks very neatly into the words above, which is change is difficult and we are still a work in progress. But I want to share the story around our Adobe Experience Platform implementation, which started a few years ago.
+
+00:09:50:36 - 00:10:18:19
+不明
+The original story of experience platform and the capabilities it has shows and, and I guess the ambition that we have for it in terms of creating much more personalized experiences across the entire journey, meant that we had hundreds and hundreds and hundreds of use cases that we wanted to enable. The problem is with hundreds of use cases, it's very difficult to then break that down for senior management into something that's actually actionable and something that they can see, okay, it makes sense to make this investment because you're going to get this return.
+
+00:10:18:24 - 00:10:44:54
+不明
+So we actually broke it down on the far left hand side for you guys into just some simple executions to start with. How can we do something fast, quick speed to market but also actionable and can be measured very, very quickly in terms of success. So we did some very simple email adaptations which Tom personalization. Sorry, which Tom will talk about specifically, but those first three use cases made it very simple.
+
+00:10:45:06 - 00:11:10:46
+不明
+We turned, significantly against the investment that we were making, which gave us the green light essentially to then expand those use cases, that capability we built into other channels as well, and then started to build out the story from a digital, like I said before, into a, into an offline perspective as well. I think the other thing I wanted to mention, though, as well, is data is great and driving it actionable insight is fantastic, but it's also the empowerment of our teams that's critically important.
+
+00:11:10:47 - 00:11:31:05
+不明
+I'm going to give two examples. One is around on board. You'll see in the middle bottom a little note that we hand out to some of our high value returning customers when they board the plane again a time again. And it's just to recognize and thank them for being such a great customer and being a personal note directly from the crew who are serving them at that time.
+
+00:11:31:09 - 00:12:05:39
+不明
+It's a really nice touch in terms of welcoming those customers back. And then the other part is around the love hearts that we serve at the end of every journey. Now that's kind of uniquely virgin, great on its own, but actually it's more the principle and the way we empower our crew teams to, if you like, go and talk to families and talk to the kids and empowers the kids to then go at the end of a very long flight to go and hand out these things across the customers, give them a great experience, post the flight and the families, then talk about that experience long beyond the flight and possibly what they've had to
+
+00:12:05:39 - 00:12:24:44
+不明
+endure having you. I'm finding myself across a long haul flight as well, but but those neat little touches, they don't all need to be powered necessarily by Jason. There's there's things that we can do to deliver those special experiences. And then the final point I'll make before I do hand to Tom is just around what we call creating our red thread.
+
+00:12:24:45 - 00:13:02:10
+不明
+So how do we take this from like single interaction, single points where we can drive value back into the business, into our customers, but have that experience enabled across every single touchpoint within the journey itself. Create that red thread. That means a business, customer or family or a couple that are going on that, landmark vacation. All of those customers feel every single point that they are uniquely being served, and they are uniquely getting the recommendations that are relevant to them, which obviously builds revenue for us and value, but then also ultimately loyalty and retention as well.
+
+00:13:02:15 - 00:13:16:24
+不明
+So with that, I will now hand over to Tom, who will talk more around why we personalize.
+
+00:13:16:29 - 00:13:21:14
+不明
+Why? And.
+
+00:13:21:18 - 00:13:25:58
+不明
+What?
+
+00:13:26:03 - 00:13:31:56
+不明
+What I want to.
+
+00:13:32:00 - 00:14:26:01
+不明
+I, I I know so I just. Well, I'll have to say I might be biased by the way, but every time I see that video, I really get huge sense of pride, just purely because it has, like Simon's mentioned, it really has been a huge journey for us. And this is just really a highlight of just a lot of the individual use cases that we've developed along the way.
+
+00:14:26:05 - 00:14:48:24
+不明
+So, so I'm just taking you through a lot of the strategic elements that we've gone through so far. But what I'm going to do is really break this down into some specific examples and really talk about how we've taken that fantastic strategy and really turn it into activation using some of our Adobe Experience cloud products. So I'm going to break this down to three different sections.
+
+00:14:48:29 - 00:15:07:13
+不明
+Linked to the customer journey that we're the the Simon obviously went through, which is acquisition first, which is very much about trade and sales. Then we go on to our preflight services, which is very about how how do we increase NPS and then how do we look at retention using our fantastic loyalty program as the heart of what we do them?
+
+00:15:07:18 - 00:15:33:58
+不明
+So to start off, we're going to be, be looking at trade and acquisition. Our first example here is Black Friday. Now, as you can imagine, Black Friday is a really very specific period for not just an airline, but every industry in the world. So what we have found and from, from statistics is that an average individual will receive 20% more emails into their inbox in that period.
+
+00:15:34:03 - 00:16:07:57
+不明
+Now, as a consequence, that means that there is at least a 6% decrease in engagement, meaning we are really fighting tough against such a saturated inbox at that time of year. So how can we use personalization to overcome this? So we looked in last year's, Black Friday campaign about how we utilize Adobe Analytics to understand customer behavior, but then also the hundreds upon hundreds of data variables that we have within our systems to be able to provide dynamic content for each of those individuals.
+
+00:16:08:02 - 00:16:34:42
+不明
+Now, by creating those sum of all parts, we were able to achieve over 10,000 different dynamic variations for an individual. It's worth just saying that this is a multi-stage customer journey. So we had an initial communication, but that was tailored for each individual step along the way. So based on the engagement from that communication and also on the web, we were able to tailor what that individual was to receive.
+
+00:16:34:42 - 00:16:59:49
+不明
+Next, I have to say this was one of our more successful, more successful campaigns in this space. We had over, over a 20% uplift year on year. And more importantly, this also sets us up to be able to have that really rich information for individuals that were interested. As we led up to our sale activity in the winter.
+
+00:16:59:54 - 00:17:26:27
+不明
+The next example is Abandoned Brows. Now, I won't lie, this is probably my favorite of the of the use cases. I kind of felt I should have left this to the end, but I'll jump straight into it. And that's called abandoned brows. So Virgin Atlantic, we don't have the concept of a cart, but what? This was a enabled us to do was be able to identify someone that was within our book flow, identify the different attributes that somebody had captured.
+
+00:17:26:32 - 00:17:48:15
+不明
+All throughout that process. And then if somebody had dropped out, we were able to obviously, respond in kind to be able to push them on to the next stage. The reason why this is such a big one for me is this was actually our first app use case. The that essentially we were able to activate across every single one of our Adobe Experience cloud products.
+
+00:17:48:19 - 00:18:19:01
+不明
+We were first using Adobe Analytics to be able to capture that information at different stages of the customer journey, linking back down to our core data, and then send a follow up communication, enrich that profile, and then be able to deliver an email via Adobe campaign, personalized content on the web, via, Adobe Target, and also use Adobe Experience Manager as our content source to be able to, deliver all of the different dynamic variations.
+
+00:18:19:06 - 00:18:53:21
+不明
+The reason why this is so fantastic is we did manage to deliver this within five months from the first day of discovery, when we when we implemented Adobe Experience platform. So hugely proud of being able to accelerate, how quickly we were able to deliver this. But the stats make it make it most important. We were able to deliver double the amount of audience growth growth using our CDP stitching, and because of the additional layer of personalization that we were able to apply through those multi channels, deliver us triple the amount of revenue than we'd seen from similar activity in the past.
+
+00:18:53:21 - 00:19:00:19
+不明
+So huge win for us and hugely proud of that. Achieved.
+
+00:19:00:23 - 00:19:26:08
+不明
+So moving on to service now I think whether you flown with us once or you've flown for the hundredth time traveling can always be stressful. It's not an ambition. It is our responsibility to make sure that a customer has the best experience to remove the most amount of stress through that process. One of the best examples is our preorder Pre-Select program Simon's mentioned earlier.
+
+00:19:26:08 - 00:19:51:13
+不明
+It's about all of the individual propositions and touches that we can add via Virgin Atlantic to really make ourselves unique in this space. What preorder Pre-Select now enables us to do, and our customers to do, is be able to. Seven days in advance of your travel, you will have a selection of meal options, which are differentiated by the cabin that you're flying in, the route you're flying in, and also your loyalty tier status.
+
+00:19:51:18 - 00:20:22:12
+不明
+We will deliver a communication via Adobe Campaign and then capture that information back using an Am landing page. This goes into a cyclical loop, and then and then enables us to be able to deliver that relevant and and optimized content to the customer. This for us is a win win win. Really. The first is we're able to offer a better options and experience for the customer, really being able to tailor their own personal journey for for what they want to experience.
+
+00:20:22:12 - 00:20:47:56
+不明
+There's no more chicken or beef you have. You have the selection at your fingertips in advance of what you have. You travel. The second is it makes it, it makes it a lot more of a seamless and efficient process for all staff. They have all the information at hand, and it also means the all our crew can have meaningful conversations with the customer in advance of, in advance of serving their food.
+
+00:20:48:01 - 00:21:19:18
+不明
+And then the third is sustainability. We're big on sustainability at Virgin Atlantic. And but our customers being able to pick their food options means there's a lot, a lot less additional waste. And as a consequence, fuel that that's required for the travel. It's been hugely fantastic in terms of results. What we've found, just from our initial trials, is we have at least a 10 to 15% increase in our food and beverage metric, and with particular routes up to a 5% increase in empire.
+
+00:21:19:22 - 00:21:24:50
+不明
+So it's really doing the job that we were looking for it to do.
+
+00:21:24:54 - 00:21:51:03
+不明
+The second example is online chicken. Now, this is probably nothing new to everybody in the room here. But, we've always historically emailed our customers, to tell them they're able to, check in online. The reason why this is so important is because that reduces that initial stress when you get to the airport queuing and, at each of the individual airports to really start your journey.
+
+00:21:51:08 - 00:22:18:17
+不明
+So being able to get people engaged and being able to complete this, this area of the journey is really significant in being able to streamline that process, both for the customer and, and off. I know stuff. What we've been able to do, we've always historically done this in email, but what we've been able to do is expand this out into SMS and WhatsApp as well, with this significant, benefit within our WhatsApp channel, that we're having a two way dialog with the customer.
+
+00:22:18:22 - 00:22:46:20
+不明
+So people are able to reply back to our communications and then being able to have a direct response. Via, I, it's worth just saying off the back of this that it creates that dialog with our customer. So whilst the initial interaction is for online checking, we're then being able to follow up with additional communications to see if we can make their their journey or their experience even better for them.
+
+00:22:46:25 - 00:23:11:00
+不明
+So the final stage is about retention. So we're going to focus a lot on our loyalty program. We've got a fantastic loyalty program. And I think one of our challenges within CRM is really how do we articulate the huge benefits of the proposition to each individual customer profile to make sure that they're aware and how to be able to make the most of, of, of the office that are there for them.
+
+00:23:11:04 - 00:23:22:10
+不明
+So, another great video here.
+
+00:23:22:15 - 00:23:28:06
+不明
+By.
+
+00:23:28:10 - 00:23:38:01
+不明
+
+
+00:23:38:06 - 00:23:50:03
+不明
+Who's.
+
+00:23:50:08 - 00:24:05:27
+不明
+In.
+
+00:24:05:32 - 00:24:12:22
+不明
+The.
+
+00:24:12:26 - 00:24:32:50
+不明
+So, as I say, as, us as, marketers in the CRM function or challenge is really to be able to make sure that all of our members are aware of the fantastic, propositions that are there available to them. I could start going. What about all of the hundreds of communications that we have, both real time triggered and or soulless activity to talk about?
+
+00:24:32:54 - 00:25:12:19
+不明
+New propositions such as, unlimited availability. But I did want to just focus on two core points. But we've really brought together technology and our ground and our ground teams. That example is with our contact center. So being able to bring that rich source of information that we have within our single, you know, our unified profile makes it that when somebody comes into the contact center, we can identify them, we can reduce the amount of security questions that are required, which, which can be reduced as much as 50% in some examples, which means that we can have really very, very close, tailored conversations with our customers.
+
+00:25:12:24 - 00:25:37:02
+不明
+And that is so important because these are the people that are on the ground. These are the people that have direct conversations with our customers. So being able to provide them with the right information, whether that be via a next based action or the next best question, means that we're being able to tailor that right information for them and being able to move them on their way.
+
+00:25:37:07 - 00:26:00:07
+不明
+So I'd love to stand here and say we had this sorted out from day one. That 100% is not the case. Particularly with the experience platform, which Simon's, obviously spoken about. You'll be aware of this framework, the three piece people process and platform. But I do just really want to call out for that. We have strong consideration.
+
+00:26:00:12 - 00:26:24:43
+不明
+In regards at Virgin Atlantic, which is principles. It was quite interesting seeing the Marriott Marriott example in the keynote earlier. Stole my stole my line. But, a technology and a platform is not a silver bullet, and that is 100% the case. Despite how good the number of salespeople I've spoken to, I'm yet to see that fancy big red button that sorts out all my problems.
+
+00:26:24:48 - 00:26:43:55
+不明
+Thank God, because I'll probably be out of a job, but, But yes, it's not. It's not purely the case. If we if you focus on implementation in respect of the people you have in the process to be able to activate it, then yes, chances are you will have a successful implementation. But this is why I want to call out principles.
+
+00:26:44:00 - 00:27:13:12
+不明
+Because if you align your core principles of what you're doing, that is how you have a successful change program and how it's adopted within your business. So from experience, platform perspective, I just want to go through, go through a couple of these individually. So, so starting off with people. So with experience platform, one of the big major benefits is that we were able to break down those silos from individual areas around, around the business.
+
+00:27:13:17 - 00:27:39:14
+不明
+But that came with its challenges. Each of those silos had different objectives, that different KPIs, and they had different skill sets. So we needed to look and identify how we create a common framework that brings everybody together to be able to launch that forward. You've seen a lot of examples over the last couple of days, I'm sure, about how we personalize our information for customers.
+
+00:27:39:19 - 00:27:59:31
+不明
+But what I will say is we've also focused on personalizing that information for our own internal teams with different skill sets and different layers within the business. And that's been hugely, hugely important and valuable. I will just say as well, I would have I would love to have had a Adobe Experience platform specialist hired within the business from day one.
+
+00:27:59:42 - 00:28:33:34
+不明
+Again, not the case. So that's where we've learned and on a lot of experience from both Adobe Professional Services and a lot of our additional, trusted suppliers to be able to really create that foundation that we can push ourselves forward from. So next is process. So a big part of what we identified straight upfront. And this was a learning through all the change programs is being able to identify champions that can really take the information that we're discussing and being able to breed that across each of the individual areas of the business.
+
+00:28:33:39 - 00:29:05:44
+不明
+And by having those champions, we're able to understand different people's point of views, also different objectives. And then equally, how can we how can we change the dialog to make sure that there's greater adoption across different areas? And then, the final element is platform. So not in the purest sense of the product itself, but how do we how do we find and identify SMEs to be able to, to be able to really find out those key pain points and establish that core foundation that we really want to build upon?
+
+00:29:05:55 - 00:29:25:53
+不明
+We were very clear in terms of what our initial objective was, but being able to create that foundation has been key as we've moved further through, each of our subsequent use cases. You can't build a house on sand, essentially. So having that in place has been has been really key. And then say arguably the most important is principles.
+
+00:29:26:05 - 00:29:52:44
+不明
+So everything has to align back to our principles. So for us that was customer is always first. We need to be able to demonstrate back to the business that we're driving revenue and ultimately an ROI, but ultimately making sure that we're having a better a better customer experience and improving that NPS figure. So, so and so that's achieved.
+
+00:29:52:49 - 00:30:14:31
+不明
+So what's next? When I was looking through this before, I was thinking, these are the most generic five titles you can ever possibly imagine. And I'm sure you've seen this through God knows how many presentations over here, over the last couple of days. So I'm going to break it down a little bit for you. So first is unlocking new capability.
+
+00:30:14:36 - 00:30:42:26
+不明
+So as I say, we had a very clear objective in our first 6 to 9 months of of acquiring an experience platform. But we were very, very aware that we were only really scratching the surface. So being able to identify what mattered and equally what didn't and how that aligns to our roadmap was really, really key. One, one piece that was actually very, very useful for us was, something that Adobe provided for us, which was an adoption score.
+
+00:30:42:31 - 00:31:00:30
+不明
+Now, that's a programmatic view on what you have and haven't activated within the platform. And we were able to use that as a baseline to understand. Yes, we'd like to go and tackle this piece first. No, that can that might need to wait until further down the line when other capabilities, are available. Or actually, it might be.
+
+00:31:00:30 - 00:31:28:47
+不明
+That's just not for us. We have different technology in the business that will fulfill that need, but really being able to understand that has been has been key. The final point on on capability is I would just say be curious. It's it's arguably why I like summit as much as I do, because it allows us to identify different areas of capability and technology from different, like minded people on how that can really move you forward.
+
+00:31:28:47 - 00:32:11:23
+不明
+So keep curious and really identify those pockets that really make sense to you. Which links to training and development. Again, very generic, but all I would say is with every new capability means that there are there is new training and more opportunities to upskill those individuals. Now, it's a very obvious term to say we need our practitioners to be able to activate this information, but it's also very key, a key to ensure that our senior level strategists are able to understand what capability they have at their fingertips, to be really able to tailor and change the strategy that they're driving next.
+
+00:32:11:27 - 00:32:33:38
+不明
+Which moves into embedding that strategy across all of our different functions. We've obviously discussed, a number of different use cases where we've activated predominantly through digital channels. But one key area of focus for us as we move through 20 to 25 and even up to 2030, is how are we, how are we activating that information to our offline channels.
+
+00:32:33:50 - 00:32:58:29
+不明
+So that could be further expanding our contact center information that could be to our clubhouse or maybe more importantly, and where we see maybe the biggest benefit is providing that same information to our crew. And it works both ways. So if we're having direct customer feedback on the plane, we're able to filter that information back through for our next communication.
+
+00:32:58:34 - 00:33:20:42
+不明
+And this is what's really going to help in terms of supercharging our use case delivery. So as I say, we're about just over 12 months into into our experience platform journey. Now, we've delivered over a dozen use cases to date, but what we really want to do is change that. Change that from a monthly execution of use cases into a weekly or even daily execution.
+
+00:33:20:42 - 00:33:33:16
+不明
+So it's really turning it into value. This is the norm. This is how we are delivering this, optimizing experience every single day, always on all time.
+
+00:33:33:21 - 00:34:05:36
+不明
+But we're not naive enough to think that we're going to get a lot of additional resources any time soon. So it's how do we make technology work harder for us? What can we do to be able to, enable and activate different elements such as AI? And there's been huge and very valuable sessions, that I've seen over the last couple of days that really identified how we can do that to make life a lot easier for, for our grand teams, but then ultimately making sure that we deliver personalization at scale, which is our ultimate ambition.
+
+00:34:05:41 - 00:34:35:39
+不明
+So, I'm going to move on to, next question, which is what are your biggest learnings in developing personalization? So is it the operating model? Is it the process? Is the you're having to work with to be able to really deliver what you need to do? Is it the change curve? Is it getting people on board, making sure they're adopting this new process and making sure that the right people are in the right place to be able to deliver that?
+
+00:34:35:44 - 00:35:02:34
+不明
+Is it the success measures? Is it identifying what success looks like? And more importantly, how do you identify and understand how it's progressing? Or is it senior level engagement? Is it how we, how we articulate what we're doing and how we approach, their senior level conversations to be able to move us that step forward. So I'll move on again.
+
+00:35:02:39 - 00:35:21:39
+不明
+So we've got the QR code there for everyone to, to quickly give us, a view in terms of their biggest learnings. While we're doing that, I'll just talk about some of the kind of stats that we have on my lens is so critical because, there's a number of tech projects obviously start, but they don't always necessarily work out.
+
+00:35:21:46 - 00:35:46:34
+不明
+So statistically, 25% of tech projects fail out, right? Up to 50% show no or limited ROI, and 70% of change projects fail completely. So there is a need, if you like, to develop our learnings and our ability to be able to handle, if you like, the change curve itself. Is this working? So? So no one is. No one has answered or it's not working.
+
+00:35:46:34 - 00:36:06:59
+不明
+I'm not sure always, but, I think across these I mean, these ultimately these these answers link here. And if they do work at some point I'm sure they might work one day. We can move into kind of our key learnings, which kind of links across all of those answers ultimately in some way. But we've kind of talked about these throughout the presentation.
+
+00:36:07:04 - 00:36:38:34
+不明
+One of our key learnings that we had very early on, actually, was when we did implement ADP, it was a it wasn't a journey where we managed to convince someone within a week or a month. It took a journey, probably around 18 months to build a, if you like, a senior level engagement. Combined with the the brand vision that we have to say, we think this can be a powerful tool that can enable personalization at scale in the way that we want to develop, you know, this omni channel capability that we're all after at the moment.
+
+00:36:38:39 - 00:37:03:45
+不明
+And getting a few like that perfect shared across senior management was an incredibly important journey that, to get that kind of top down buying and ultimately that top down sign off on on the product itself and being able to push that through. But the thing that links directly to that, so great that we had a clear personalization strategy, great that we, if you like, broke it down, which will dip down into three clear use cases.
+
+00:37:03:49 - 00:37:19:39
+不明
+To, to to get to that ROI. And great. We have the ambition very clearly stated. But the other the other thing that was very important when we built this story was we had to ensure that we gave ourselves the time as well, to make sure that we could learn the things that we said we had planned successfully.
+
+00:37:19:44 - 00:37:35:49
+不明
+Change does take time. It's not just about the delivery of the initial use cases as well, with the ones that we could do very quickly. It was about engaging other teams and making sure that the the broader change curve, which we're still on now, to be fair, it kind of can land in a, in a very, substantial way.
+
+00:37:35:49 - 00:37:57:37
+不明
+And like I said, our growth from one channel to now, over six channels that we developing plug in the Adobe experience platform into is is signaling that that that change, that transformation that we're looking for essentially and and the results are highlighting the effectiveness, the way that we're having to. The other part, which I talked about previously as well, is how we bring stakeholders with us on this journey.
+
+00:37:57:49 - 00:38:19:21
+不明
+And the important thing isn't just bringing them on the journey in terms of this is what it can do for you. It's about this is how you can be empowered to use the data and the insight that can actually drive those experiences. I think for us as well, like it's how we use our we talk our digital channels and, and being able to empower those teams to be able to create uniquely personalized experiences based on the data we have.
+
+00:38:19:25 - 00:38:36:05
+不明
+But then it's also about how do you empower thousands of teams, our contact center agents, our retail teams as well to to be able to handle the data and use the data in a way that's actually meaningful when they have interactions directly with our customers on a day to day basis. And that's critical in terms of landing those use cases.
+
+00:38:36:05 - 00:38:59:06
+不明
+And the benefit that we'll get from personalization at scale. The fourth one is all around define what goods looks like. Like measurement is key to this. Like really understanding what is the success criteria. What what does what does success mean when you get to that, you roll out those use cases and you know you've absolutely hit the KPIs that you want to hit to then enable you to go on to that next stage.
+
+00:38:59:15 - 00:39:16:51
+不明
+But also alongside that, how would you exactly measure those so you don't end up in conversations with your finance teams, with your commercial team saying about attribution and all those things. It's kind of how do you bring those things together to ensure that you're all aligned in terms of the way you measure and what and what those success criteria will be.
+
+00:39:16:56 - 00:39:50:15
+不明
+And the final one is equally as important as all the rest of things, which is be really proud about what you've done. We're here on this stage because we're really proud of the development that we've done, the delivery from a personalization perspective, and we celebrate that success with our people, with all the people involved. Our partners, Adobe, some of our technical partners and obviously across the teams as well, and make sure that whether they're small wins or big wins, they are celebrated that keep that motivation going in terms of doing those those continuing, if you like, on that change curve and that change journey itself.
+
+00:39:50:20 - 00:40:10:27
+不明
+So thank you so much for listening to our story. We hope you've got a lot out of it. We, just before I do go on security, there is obviously a chance to do feedback within some stuff. Fantastic. So if you can leave us some feedback in terms of the presentation, that'll be really appreciated. Thank you so much for listening again, guys.
+
+00:40:10:32 - 00:40:16:00
+不明
+
+
+00:40:16:05 - 00:40:17:12
+不明
+You.
+

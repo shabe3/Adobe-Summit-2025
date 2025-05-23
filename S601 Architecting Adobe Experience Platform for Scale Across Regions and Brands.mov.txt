@@ -1,0 +1,456 @@
+00:00:00:01 - 00:00:38:19
+不明
+Thank you for coming in today. My name is Sal Dowd. I am in the product Management team, an Adobe Experience platform, and my name is Danny Miller. I'm in, customer engineering and, architect that, basically guides a lot of our partners and consulting team in, really complex, gnarly implementations. And he's my partner in crime. When we help many customers like you navigate the complexity of, representing your business, let's just say and configuring Adobe Experience Platform.
+
+00:00:38:24 - 00:01:05:56
+不明
+So how many of you today attended the keynote in the morning and saw the Mary, at the global VP talk about how they represented or unified their profile across five brands globally? That wasn't a perfect use case for. What are you going to hear about, today? Today in our session, we in a describe, and show you how you could actually achieve the same.
+
+00:01:05:56 - 00:01:34:55
+不明
+Plus we will discuss additional, ways that you, or options that we have as parts of the features of Adobe Experience platform that enables you to actually configure your platform to support multi brand or multi regions, use cases and grow your business. But the challenge is it gets really complex managing customer data across brands and across regions.
+
+00:01:34:55 - 00:02:04:33
+不明
+You're constantly balancing balancing multiple challenging dimensions. As you evolve, as complexity increases, as you grow your business. And today we'll talk about some of these key challenges and how, we will help you navigate those. So at the heart of it is someone likely like you that's sitting here in the audience is constantly thinking, how do I do this?
+
+00:02:04:33 - 00:02:42:59
+不明
+How do I manage, my brand, requirements, my regional demands, data governance. How do I create this unified profile and, and provide data, insights in in a world that only gets complex as you actually expand and onboard more use cases, because you've got to think about starting when you're first starting your implementation, you're probably thinking of, you know, seven use cases or, or so, but you know that you have many other use cases that you want to implement for potentially multiple business units.
+
+00:02:42:59 - 00:03:25:35
+不明
+And then the efficiency here becomes, something that you have to pay attention to. It becomes challenging to manage and balance the complexity of of managing all these, regions or, brands that require certain, either, autonomous, to operate autonomously is another way to think about this or, uniquely, maybe each brand has some unique, requirements, to that specific brand that you need to consider as you're implementing or deploying your experience platform, you'll also be facing some challenges related to consistent customer experience.
+
+00:03:25:35 - 00:03:56:49
+不明
+And what I mean, or we mean here is not necessarily the intent to create one campaign or one, messaging that fits or one for all. This is not necessarily the case. The situation here is how do you still leverage consistently the, data, the shared data that you have for brands or regions at the same time, create this unique experience for a brand or an audience, specific to, a region.
+
+00:03:56:54 - 00:04:19:57
+不明
+And on top of all of this, you're also thinking of governance. How do I govern my, data that I have in the experience platform, who should have access to the data and if they have access to what parts and what pieces of this data that they should access for the purpose of their role or their their persona.
+
+00:04:19:57 - 00:04:48:07
+不明
+Let's just say we'll talk about that in a minute. So it it can get complex with scale. And we want to make sure we today provide you with as much information that can help you navigate this complexity. And then we don't. That's why I asked you about the area today, because we we've been working with many enterprise customers that are global and some that are just local to a specific country.
+
+00:04:48:07 - 00:05:11:40
+不明
+And as you can see, we in our presentation today, we'll cover topics that's not just relevant to like the Marriott's of the world, which was the use case today. Which actually don't. It's more likely the one in the middle, which is a global company that we managed to unify that multiple brands across different countries while respecting, respecting, governance.
+
+00:05:11:40 - 00:05:44:46
+不明
+But we will also it will apply to financial services company that we've helped as well, which their intent was I just want my profiles globally or, to operate on one single profile, because I want that complete understanding of my, customer accessible, available for my marketers, for my data analysts that are going to act on this data so they could derive either actionable insights or actionable, activations, to personalize, experiences at scale.
+
+00:05:44:51 - 00:06:08:56
+不明
+At the far right, you have a balance of both. You have it gets a little bit more complex as you start operating a brand and a region. You may have a customer, customers want to operate on a country level, but within the country you may also have a retailer. You have multiple brands that you still want to create some unique experiences for the those brands within these countries.
+
+00:06:08:56 - 00:06:39:30
+不明
+So as you could imagine, it could really get complex if we don't start or architecture implementation from the beginning to be, set for for success for the long term. And we're hoping today will help you understand, more, how to to address and face these challenges. What how do you start? You know, one of the questions that we get when we talk to customers is, how do we, so where do we start?
+
+00:06:39:32 - 00:07:07:06
+不明
+Do we start talking to our it? Do we start talking about to our marketers or, what the personas in our organization is going to help us decide or make these decisions. And we always advise customers to really start with just the business structure. Maybe don't look at your, technical or, it, convenience in this context here, you need to really think of your organization.
+
+00:07:07:15 - 00:07:32:30
+不明
+You need to think of your business. Are you a type of organization that is centralized when it comes to marketing or decentralized? The centralized means you may have a marketing team that actually creates audiences for all brands and for all regions. That marketing team has access to all the data. Decentralized types of marketing. It could be, you may have marketing teams that specialize in certain region or certain language.
+
+00:07:32:34 - 00:07:56:55
+不明
+Group of German speaking countries, for example, may have a specialized marketing team that just focuses on that type of an audience. So thinking of your business structure helps influence how you architect the deployment. Remember, if you're familiar with Adobe Experience Platform, we have capabilities that allows you to isolate the data like the sandboxes you saw.
+
+00:07:57:00 - 00:08:29:15
+不明
+Up top that we will talk about multiple sandboxes versus a single sandbox. So such decisions or such discussions here will help determine which path do you follow on within each path. Also, what might you need to pay attention to to really successfully deploy experience platform? Another key requirement is data. What level of data sharing? Not all customers, some customers do really want to isolate the data and not share it, or they want to share it.
+
+00:08:29:15 - 00:08:55:55
+不明
+They want to still have that unified profile, but they may want to keep a piece of this data, not necessarily isolated, but protected. Maybe it's PII, maybe you're working with an agency and you want to only give them certain, access, or a brand, and you want to isolate the brand's data in a certain, place or only have, certain people access that data.
+
+00:08:56:04 - 00:09:27:07
+不明
+So understanding your data requirements and data sharing is is key because it's going to also influence the compliance here. Right. So come in. Combination of thinking of, compliance needs would help you, decide on in some instances you may have regulatory reason where the data has to be isolated. I'll give you an example. If you go to a pharmacy and you buy, a Snickers bar and you buy medication, you may not want to have this data in the same place.
+
+00:09:27:07 - 00:09:53:03
+不明
+You may be by via compliance reasons. The you may have to separate this data and keep it, isolated. So thinking about potentially the structure of your business, your data sharing levels, the compliance, and then the amount of autonomy that you want to have for your teams will will help you make some decisions as you expand and build your experience platform.
+
+00:09:53:07 - 00:10:25:51
+不明
+People sometimes tend to forget also that growth trajectory. We customers start small, but they grow, their business, customers evolve. You add brands or you may add regions, or you may add additional be used if you're operating in a multiple space. And if you don't really think 2 or 3 years, down the line of where potentially you may be or how many additional use cases or abuse or brands you want to onboard, you will face some challenges.
+
+00:10:25:51 - 00:10:57:45
+不明
+So it's good to think through the overall big picture, start breaking it down, which will help influence the such decisions. But with that then I mean, do you have any, ideas? How can we structure or can you give an idea how can we structure Adobe Experience Platform, for an efficient, implementation? Sure. It's one of the things that we see is part of what comes to the forefront is a centralized versus a decentralized structure.
+
+00:10:57:52 - 00:11:27:24
+不明
+South touched on a little bit there when he was referring to, do we have an enterprise style team that is executing everything in one place? Do we have local, let's say decentralized teams that need to execute within the context of, of their area and brand or region. And this plays a part of how we think about when we start to consider a multi sandbox versus a single sandbox scenario.
+
+00:11:27:28 - 00:11:53:22
+不明
+Along this front, we also have to start to consider from a data sharing standpoint. So I also touched on this. Do we want to encourage data reuse across these different groups of regions and or brands. Or do we need to do a more of an isolated approach, more isolated? The data is the less easy, the harder it is to do data sharing across these different areas.
+
+00:11:53:27 - 00:12:15:02
+不明
+But of course, compliance will always trump everything in terms of if I compliance dictates in a certain way that data must be isolated, then we have to take that into consideration in our design and see what does need to be isolated and what can be centralized. And do we have a capability to accomplish a little bit of a hybrid of both?
+
+00:12:15:07 - 00:12:44:03
+不明
+So tell us a little bit, Sal, about the key personas that you've seen. That's that's important as we, Adobe applications are designed for more than one persona. They have features and functionality for, specific personas, but not all personas are not all personas in terms equal, in terms of what access level they should have or what function they they operate in.
+
+00:12:44:07 - 00:13:09:34
+不明
+You need to think of your personas in context of your workflows so you can successfully build roles. And we'll talk about those in a minute. And permissions, around these personas, which will dictate the experience of a persona when they log into the experience platform. If you are a marketer, for example, I'm you may not, need to look at schemas or you may not need to look at, in just the data.
+
+00:13:09:34 - 00:13:35:01
+不明
+You have a data architect for creating schemas and ingesting data. Similarly, if you are a developer, you may never activate, an audience or create an audience. So you need to think of the personas that you have within your business structure, within your organization, and then start based on that, building their, roles and decide the workflows that they should follow with Adobe Experience platform and applications.
+
+00:13:35:06 - 00:13:55:58
+不明
+When you define a role, and you say this role has permissions to or does not have permissions for schemas, for example, their experience within the experience platform itself, when you log in, you're not going to see schemas on the left. So you optimize the experience of your persona, based on the permissions that you grant the persona.
+
+00:13:55:59 - 00:14:33:07
+不明
+So the more permissions, they'll see the whole set of functionality, which can overwhelm and individual users potentially and with less features and functionality, geared and planned towards the persona is much better, let's just say for, effective, productive, team that works and focuses on marketing. So here, well, I'm giving just a couple examples where if you have a marketing team that specializes in Germany versus France, and you may have also, we talked about the balanced approach, centralized and decentralized, you may have both in some, certain situation.
+
+00:14:33:07 - 00:15:12:09
+不明
+You may have a centralized team that, or a global sphere of large enterprises that operate in multiple countries. You still have the global enterprise company that wants to still operate and see all the data across all the countries, and you also potentially will have a marketing team, for Germany, for France, and for for that, what we encourage you to do is build roles specific for these marketing teams, specialize and not specialize and then decide what they can access, what they can see via the family of permissions that we, we have, in place.
+
+00:15:12:14 - 00:15:39:27
+不明
+And now I want to ask Danny, you know, what's the best strategy? A marketing department that is centralized. How can they take action on all our unified profiles worldwide, which was similar to the financial services company we've had up in the front. Great question, but it's always usually followed up with a separate question, which is this?
+
+00:15:39:32 - 00:16:09:18
+不明
+But I still want to have each geo and or brand have its own quote area where they can do their thing without being held up by necessarily a centralized enterprise kind of overlord, if you will. And so what we see is a single sandbox versus a multi sandbox, and we've thrown the term sandbox around a few times. So for those of you who aren't familiar with platform, it essentially a sandbox is you can think of as a container.
+
+00:16:09:23 - 00:16:47:37
+不明
+This container contains all the objects that we might create, such as journeys and audiences. It also contains the data that can be accessed within and only within that sandbox. So we use a single sandbox approach where essentially saying is, I'm going to centralize all my data and objects and workflows in one spot. So what does that give us that allows for a more global operation across all my brands and geographies, and it allows me to bring together all that information into one single goal view of the customer across these brands or regions.
+
+00:16:47:42 - 00:17:17:25
+不明
+And this enables a lot of things around a, for example, a centralized place. Do all my segmentation. I can cut across brands, I can cut across regions, I can mix and match. There's no need to move data around because it's already been centralized into one place. But it also says, how do I ensure that there's a data model that does not become chaos, can allow everyone to just do whatever they want?
+
+00:17:17:25 - 00:17:40:25
+不明
+There does need to be some kind of a core data model that we agree with our, regions and brands, how we're going to let's what I like to call do the city planning. So I might establish certain ways where I'm going to agree with these, how they will extend and implement and integrate their piece of this overall puzzle.
+
+00:17:40:30 - 00:18:03:24
+不明
+But it does lead to various questions, which is, well, I may still want to allow some people to see the whole thing and some people to just see pieces. And so this is where some of the controls and governance that Sal just mentioned around the access control. And so all these you basically take into consideration as we bring this together into one sandbox.
+
+00:18:03:28 - 00:18:26:48
+不明
+So from an implementation standpoint, your architecture will roughly look like this. Where have all my right sources you've seen diagrams like this before on the left side here from analytics to various enterprise sources and SQS, I would load that into platform, into one production sandbox. I might have other sandboxes for things like dev and stage and things like that, but one production one.
+
+00:18:26:52 - 00:18:48:50
+不明
+And from here, my native apps that are built on top natively in platform would access each of those sandboxes directly. And there's what we call sandbox aware. Some of the other tools here. We also would integrate with each of the sandboxes, and some of them do it a little differently than others. Right target has their concept of workspaces.
+
+00:18:48:50 - 00:19:12:33
+不明
+I believe it is. Audience manager I believe puts things in folders right for the sandboxes. Marketo has a connector, right? That it points to a specific instance. So each one of these things right, you would work with what those are to make sure that those are being access to properly. But since I have one production sandbox, it's a fairly straightforward implementation across these.
+
+00:19:12:37 - 00:19:49:53
+不明
+So what might look like from an activation perspective. So from an activation perspective I might have my enterprise core attributes. These are things we would agree as an enterprise. They are shared and central across all the brands. Then I would allow each one of these different brands to have their kind of piece of the puzzle. In this case, I might have membership tiers as an attribute of brand, whereas purchases for yesterday was a event that happened in brand B, and I could pull all that together in a new campaign that I execute for brand C.
+
+00:19:50:06 - 00:20:18:47
+不明
+And so this again is encouraging. We use at a very low level access to the attributes that somebody might be interested in executing a campaign in a different context without having to move data around because it's already been centralized. So this again encourages reuse and cross-sell is a great example of this. So how does this actually look like when we go into the schema.
+
+00:20:18:52 - 00:20:50:42
+不明
+This is one example of white of how we might do this. Another example could be doing it slightly different, which I'll go through here. I'm using Adobe as an example. We're all familiar with the experience cloud. I might put a context node here for Adobe, and under that I put another context of the experience cloud. And within that I will have developed the whole schema of fields that are attributes that are relative and specific to people who are in the experience cloud.
+
+00:20:50:47 - 00:21:11:12
+不明
+I might have a data set there to capture all my data, and so you could see I'm allowing that one business unit to develop anything and extend it within the context of the experience. Cloud node. And therefore if I extend that out, I would add another one for the document cloud. I would add another one for the Creative Cloud.
+
+00:21:11:16 - 00:21:30:27
+不明
+And then each one of them would have their own set of schemas or data sets. I could do this for those out there. No platform. Well I could build all this in one Uber schema, or I could have multiple schemas depending on what my needs are. Usually this is set up in multiple schemas, each one having their own data set.
+
+00:21:30:37 - 00:21:57:31
+不明
+And then I would hand over to that appropriate group the ability to load just their data set. And I would have a core set of attributes that I talked about before with its schema and its data set. And the union view would bring all this together in profiles that I could execute against one unified profile. So this allows flexibility and autonomy while still allowing a what I call city planning.
+
+00:21:57:36 - 00:22:24:43
+不明
+So I'm laying out that one business unit over here is going to have a hospital and a school, and this one over here is going to have government buildings. And I don't really care per se, what they do there when they actually build it. I just know it's going to go there. And as long as we agree to that, in terms of at an enterprise level, I can provide some flexibility, autonomy and speed without having to hold them up through enterprise level governance.
+
+00:22:24:48 - 00:22:47:04
+不明
+But I would do that for those centralized enterprise level attributes. So flexibility and standardize, standardization kind of come together. So South, while this is all great and everything, what if I only want the people in that one brand and or geo to see the fields and audiences that are appropriate to them? I don't want to open up everything to everybody.
+
+00:22:47:16 - 00:23:33:07
+不明
+Yeah. That's fair. That's a really good question. How do we do that? I mentioned earlier we have access controls. We have a family of access controls. The common one that you probably used first is the role based access controls. And then not too long ago recently, last year, we've added an additional, attribute based access controls for that purpose that Daniel was just asking, which is I want to be able to restrict certain nodes for access or even within a node, certain field in that schema, which, of course, will apply on the data that is going to be based on the schema.
+
+00:23:33:14 - 00:23:58:10
+不明
+We could actually restrict access on the individual field. So if you have Social Security or a medical condition, whatever that may be, you have the power or a brand node or a region node as anyone's expressing it, not necessarily the entire region node. We're talking about the stuff that's not core common to the profile. Maybe the name is not necessarily a brand specific right.
+
+00:23:58:10 - 00:24:22:26
+不明
+The name is a name email potentially, but the idea is you have the power to use attribute based access controls and to be specific, field level access controls, which is a subset of attribute based access controls to actually label these fields. And once you add a label, you can then apply a policy that says, if my role has that same label on on it, we match it, we create.
+
+00:24:22:28 - 00:24:44:13
+不明
+It's a match based policy. And if you have the same label on the field or the node, it will allow you, to see the field or the node. If you don't, you won't see it. So that's how we actually allow you to do this. You could apply more than one label. You're not restricted to one label on a field could actually add multiple.
+
+00:24:44:15 - 00:25:15:04
+不明
+So you have the agility. Let's just say to classify your data based on sensitivity and then action on it. On a per rule. And of course, users that belong to that role would, would, not have access to these specific fields. Now, I said a family because on fields this is great. Meaning it allows a use case that enables a customer to label the field.
+
+00:25:15:09 - 00:25:22:43
+不明
+The lights are flickering. So they're trying to put you to sleep.
+
+00:25:22:48 - 00:25:52:18
+不明
+We we also have, for a different type of a use case. We have another family of access controls, which is alac for which is object level access controls for, for this specific use case or, we, we allow enabled the customer to actually label also segments. Remember we talked about centralized and decentralized. So imagine you either have a combination of both or one centralized team that builds audiences.
+
+00:25:52:22 - 00:26:17:07
+不明
+They can at the time of creation labeled audience Germany, which means if you are a marketer with a role France, you're not going to see an audience that has a label Germany. So we yet also optimized what you see in the experience platform. We filtered the audiences that you're not supposed to see based on this labeling. What's also critical to understand here is activation.
+
+00:26:17:07 - 00:26:44:42
+不明
+Here. You're trying to also prevent potential user error of me activating an audience I'm not supposed to activate. So if I if you want to restrict access to a specific audiences like this, maybe it's a paid media audience. Not all, marketers should activate the paid media. That's one way where you would restrict access to specific audiences. So notice we're layering the, functionality.
+
+00:26:44:42 - 00:27:09:25
+不明
+It's not one feature that's going to solve for the multi-brand multi-region. You're layering it down for the purposes of different personas too, in order for them to get the job done, and achieve a certain objective. So now what if I want to make it even more complex than what if I want only a specific geo or a brand?
+
+00:27:09:30 - 00:27:40:16
+不明
+I want them to build only specific audiences for regions and only activate, on a per brand or a per journey, even if the audience has the, profiles from multiple different brands. Good question. So we have basically two tools or levers by which we can accomplish this. This one is fairly easy and simple to understand in that it's you can build audiences that basically filter down to say person must be in, for example, the United States.
+
+00:27:40:21 - 00:28:05:03
+不明
+So now I have a United States, audience and I just include that audience and all the subsequent audiences I built. It's easy to understand, it's easy to train on. And now I have a way and I just build a whole bunch of those for however many regions I have or brands that I have. The downside to this and the trade off really, is now I have to ensure or remember that I'm doing this every single time.
+
+00:28:05:07 - 00:28:28:27
+不明
+The upside of this, though, is that when I look at my audience size, I know that that audience side has already been filtered for the region that I'm going to activate against. And so I don't see any kind of discrepancy between activation and audience size. Why do I bring that up? Well, the next lever that we really have is we can filter at the time of activation.
+
+00:28:28:31 - 00:28:53:19
+不明
+And what this is, is utilizing consent policies in a slightly different way. So I can design consent policies for more than just consent. What I can do is essentially have a consent policy that says whenever the marketing action is equal to, for example, the email marketing for the United States, I can apply this by checking to make sure that that profile is actually from the United States.
+
+00:28:53:24 - 00:29:12:21
+不明
+So therefore, when something starts to go out the door, it's going to filter down just to those people. So if I start with a generic large audience of everyone who purchased yesterday and try to send an email out to apply this consent policy, it's going to I'm going to have a huge discrepancy between the amount of audience, profiles.
+
+00:29:12:21 - 00:29:37:54
+不明
+I thought I had and the amount that actually go out the door. So by including the filter in the segment, my segment size is equal to the activation. So they're just trade offs. This one I don't have to embed in every single audience. So that's kind of nice. But again, if I don't have it in the audience definition, some people get confused as to why the audience is so big and so few people actually receive the email.
+
+00:29:37:58 - 00:30:07:19
+不明
+So then I'm going to make it a little bit more difficult for you. Lovely. This is nice. I mean with like happy this scenario, but with some the real world there's some additional complexity, complexity here in terms of what if you're really, required to have isolation, 100% isolation. I don't want profiles. I don't want my audience to include data from, or audiences from two different brands or two different, regions.
+
+00:30:07:19 - 00:30:35:43
+不明
+And I don't have the need to share. I don't I'm completely operating autonomously, on my own in a certain country or a certain, brand. How can we do this? Great question. And this is really where legal kind of starts to step in. But for us generically, we call this the multi sandbox approach. So what we have here is we basically have a a need to compliance saying we need to separate this data.
+
+00:30:35:43 - 00:31:02:26
+不明
+So at the sandbox or data layer we need to have the data persisted in isolation of one another. So in order to achieve this we use sandboxes and we separate the data. But what this also does is it asks us once I have multiple sandboxes, how do I do my marketing? Do I have a centralized enterprise level sandbox that executes, let's say, brand level cross global campaigns?
+
+00:31:02:31 - 00:31:31:30
+不明
+Like we saw with Marriott, right? Or do we have multiple regional sandbox? These are brand specific sandboxes where they execute campaigns within each one of those specific to that, I also have to keep in mind my data and my workflows now become isolated because remember, all the objects in the sandbox are specific to that sandbox. So my ingestion may need to be duplicated across a centralized enterprise sandbox and a regional or brand sandbox.
+
+00:31:31:35 - 00:31:58:59
+不明
+Same thing with my workflows, right? I have different journeys that I may want to do the same thing just in multiple places, because now my data is in multiple places. So I need to have the journey in multiple places. And of course, this leads to increased management complexity of making sure that all these things are being loaded into all these different sandboxes, sync to where appropriate and right, autonomous or separated where appropriate.
+
+00:31:59:04 - 00:32:32:22
+不明
+This does provide a lot of brand and regional flexibility that you brought up that allows them to execute, because essentially we have a full blown sandbox now by which that team kind of monitors controls and is able to do what they want. And a lot of the access controls still apply here. They may be a little looser because we have already isolated things at a sandbox level, but they still apply, and we would want to take into account whatever we were thinking and applying it at the sandbox level.
+
+00:32:32:27 - 00:32:55:12
+不明
+So when we think about it at a kind of diagram level here, you almost have what looks like this is where I have some enterprise data, okay. And I might load it into an enterprise level sandbox. And I just put the full thing there. But I have these regional or brand specific sandboxes. And so I might take the core data, those enterprise attributes we talked about.
+
+00:32:55:22 - 00:33:24:13
+不明
+And I would put them into those, regional sandboxes at the same time, I might have some enterprise level data where I need to slice up so that they just see their specific area of the data for that brand or for that region, and put it into the appropriate sandbox. So now they have a piece. Because we have independent sandboxes now though, each of those brands are regions is able to load their own data.
+
+00:33:24:18 - 00:33:48:25
+不明
+And it will just sit in that one sandbox. It doesn't get replicated to different sandboxes. As a result of this, we may find ourselves in a certain scenario where though we have our marketing campaigns that need to execute. So we'll dive more into that later. But at a high level, I may want to be able to take things and share audiences in such a way where I have some sensitive data.
+
+00:33:48:25 - 00:34:13:39
+不明
+Maybe that's local in the enterprise sandbox, and I need to get to a local or regional sandbox, and so I can do some audience share there. So I'm not really sharing the data per se, just that somebody exists in an audience. And then of course, if I want to do it in reverse, I can, where maybe I build an audience in a regional sandbox that's specific to data that exists there, and I need to get it back into the centralized enterprise sandbox.
+
+00:34:13:39 - 00:34:36:41
+不明
+But I don't want to move the sensitive data. So I could just share the audience in such a way so that it comes up to an enterprise share area. From a implementation approach. You'll see it looks kind of similar here, and that I still have all my sources and I still have platform, but now I have all these different sandboxes that are also production sandboxes.
+
+00:34:36:41 - 00:35:05:19
+不明
+So I might end up with a region sandbox for each one of these. And as a result, right. You could see and imagine all my data sources now and possibly need to be replicated in multiple places, depending on my needs, but also my integration over here from the different perspectives. Right? We have to make sure that those are connected to the right sandboxes for those appropriate, different kinds of regional or brand sandboxes.
+
+00:35:05:24 - 00:35:28:40
+不明
+So the integrations here start to get a little bit right, complex in that you have to consider ensuring that the right one is hooked up to the right thing. And some of these like target audience manager. Right. They specifically have one instance. And that's why the workspace is and the folders come into play here. So we have to consider and keep that in mind as these integrations are laid out.
+
+00:35:28:53 - 00:35:55:19
+不明
+Whereas some of the more native platform ones are our sandbox aware by default. So. So once we put this multi sandbox thing together though, how does that increase the operational workload? I talked about having objects and all these different places and journeys and audiences and things like that. How do we ensure right that customers are operating efficiently in this kind of environment?
+
+00:35:55:31 - 00:36:26:58
+不明
+I'm sensing some competition, both from your tone with these questions. Then here, what? We've got an app for that. No, no, we have an application feature that actually enables you, to, to exactly do such the what Danny was describing the, the complexity or as you grow your business, I don't want to call it complexity, but as you grow your business, the need to have multiple sandboxes or in your software development lifecycle, we also have these sandboxes.
+
+00:36:26:58 - 00:36:59:24
+不明
+So that purpose he could develop and iterate and only allow developers in a development sandbox. And then once you're happy with your schema, for example, or with an audience that you're experimenting with, you in many cases want to have that schema available in your single production sandbox or if you operate multiple production sandboxes or brands or regions, you also want to replicate it because for the most part, schemas, your data sources as an enterprise most likely are the same.
+
+00:36:59:24 - 00:37:25:23
+不明
+Your schema is going to likely be, common. So the sandbox tooling is a feature that allows you to create what we call a package. Think of it as a zip file. I am working in my, sandbox. In my source sandbox, I'm able to add objects to a package I don't didn't publish it yet. It's still not published, so I can keep adding objects to it like schema or two.
+
+00:37:25:28 - 00:37:46:51
+不明
+I can add audiences. What's nice about the packaging as well is, is it pulls in an independent object. So a schema has a field groups. If the field group is not in, the target sandbox for example, it needs to be created. So you don't want to go and also manually find the field group and add it to the package.
+
+00:37:46:58 - 00:38:07:40
+不明
+What. That there's intelligence in the tooling that when you add a schema it's going to pull in all dependent objects. Same thing with a segment that you add to the package. It will bring in the right component dependent objects with with that. And then you publish it when you're ready. Ready. You publish this package. In this package.
+
+00:38:07:40 - 00:38:30:43
+不明
+Once you publish it, it becomes available at the global level, global level, meaning I could be in any sandbox if I have the right permissions. Again, this is also controlled by permissions. It's not like anyone can import and export. Let's just say you we have permissions that enables admins to control who would, who would do this, activity.
+
+00:38:30:43 - 00:38:58:51
+不明
+But the idea is you will have a repository of packages and then you could import them into, a target sandbox. So by this we optimized and efficiently enhanced the software development lifecycle. We also enabled collaboration between potentially brands. You may publish or share, schema. Not schemas, audience definitions between, the different sandboxes as well.
+
+00:38:58:51 - 00:39:29:30
+不明
+So this is really helpful in terms of, setting or optimizing the workflow, as you grow your business. Now, Danny, now, let me ask you a tough question, okay. As an enterprise with multiple brands, multiple sandboxes, reporting becomes a challenge. How do you give visibility into, the, the multiple different, data that lives in different sandboxes?
+
+00:39:29:34 - 00:39:49:35
+不明
+And how can you also potentially use this data for activation? Great question. And this one is a bit tricky Sal. So I'll give you credit there. So let's go back to my simple diagram here of sandboxes. If we take our enterprise data we know we're going to load it into an enterprise level sandbox. And we'll probably take a copy of that.
+
+00:39:49:35 - 00:40:19:53
+不明
+And we'll put pieces of it right into each of the subsequent region or brand sandboxes. Now, if we have an enterprise marketing team that's executing campaigns, they're going to have, that would be executing their campaigns out of the centralized enterprise sandbox. From there, let's say they're using something like a Geo, and that will create, data saying this person got to this node, they activated in this way.
+
+00:40:19:53 - 00:40:51:52
+不明
+We sent this push notification. Right. All that lands also in that same sandbox. And we can use then CGA to do reporting based on the data we loaded, plus the data and campaigns that, generate, data and merge all that within CGA to do reporting on these one area enterprise style campaigns. At the flip side, right. Remember we said we would allow each of the region sandboxes to also load their own data.
+
+00:40:51:57 - 00:41:25:23
+不明
+They can then take that data using a decentralized marketing team. They may execute campaigns out of that specific sandbox. With that sandbox, again, will generate data in that sandbox for those localized campaigns or brand specific campaigns. And we can layer in right CGA to do analysis on data. Again, that exists in just that one sandbox. So we have these two areas that are kind of reporting and activating data off just those areas.
+
+00:41:25:28 - 00:41:53:06
+不明
+But some teams we've seen have a centralized marketing team that wants to also execute inside these local or regional sandboxes or brand sandboxes. So how do you allow this? Well, a simple way to do this is really to allow log in. I can take my centralized team, give them a log in to this, brand specific sandbox, and then they can run campaigns out of that.
+
+00:41:53:11 - 00:42:24:28
+不明
+So that's a simple way for us to just allow access and without having to move the data back to the centralized area in order to execute any kind of campaigns. Another way to do this is, as I said earlier, we can share audiences and this can go in both directions. So I can take a regional or brand specific audience, and I could share it back to a centralized area and utilize that in combination with other pieces of data to execute out of an enterprise level sandbox.
+
+00:42:24:41 - 00:42:52:15
+不明
+Again, so that allows me to still keep the data isolation in the forefront. Now, for some customers, though, they feel that this isn't quite enough, and what they want to be able to see is some kind of reporting. So after the activation is done, I want to look at things from an enterprise level. So one way is I can do what's called a panel share.
+
+00:42:52:15 - 00:43:20:40
+不明
+So it's like a dashboard inside of CGA that I can create. And inside there I can have multiple panels, one panel pointing to the data that's sitting in my enterprise sandbox, and another panel that's pointing to the other sandbox in my regional or brand specific area. Now, the data doesn't technically get merged together. It's kind of sitting side by side, if you want to think of it, are top and bottom, and I can have a whole bunch of these, so it's not really right.
+
+00:43:20:42 - 00:43:38:56
+不明
+Bringing it into one area, it's bringing it into one kind of project or dashboard, if you want to think of it that way. So sudo brings it together. If that isn't good enough or you want more of a merged approach, what we can always do is do a data set, export and then the other sandbox can do an import.
+
+00:43:39:10 - 00:44:05:35
+不明
+And so now I can take the data and merge it back into some kind of an enterprise, conglomerate. I did write something that I can drill down and cut across each one of these, so it solves that problem. But you have to ask yourself a question. Now, did I just create a problem? The whole point of having isolated sandboxes is because I want isolated data.
+
+00:44:05:40 - 00:44:25:16
+不明
+So we have to ask ourselves and or legal to say, can we do this? If I bring back this data, does it create a problem? If I don't bring in the attributes along with it, maybe yes, maybe no. They'll give you some feedback. If they say no, then we say, okay, if I were to anonymize the data, can I bring it back?
+
+00:44:25:21 - 00:44:44:13
+不明
+They'll let you know. Yes or no, right? You may have to roll it up to a campaign level even to say, okay, I'm going to bring data over at that level. Maybe it works, maybe it doesn't. Part of that will be dictated by your legal teams and your compliance teams, but it can be done just by using this approach.
+
+00:44:44:13 - 00:45:10:22
+不明
+But I would double check with them. And maybe panel sharing is the best way we can go about bringing this together. In one view. So with that thank you Danny. But one last thing. On on probably many people's minds, which is would talk about data moving sandbox to another or compliance GDPR. What are what are your thoughts on privacy.
+
+00:45:10:22 - 00:45:35:13
+不明
+How do we actually ensure that privacy is honored within our Adobe Exchange for a platform? Is it complex? The functionality that we're giving, does that complicate GDPR or doesn't impact that would be helpful to understand? Sure, sure. The nice thing is this. Right. So just a quick primer on how it happens. Right? A customer will provide a access or delete request into the company.
+
+00:45:35:15 - 00:46:03:46
+不明
+You guys. From there you'll submit a job into the privacy service for Adobe saying please delete this person's data or access this data. From there, the privacy service will federate out to all the different experience cloud. Whatever you specify, whatever applications you specify for us to access and or delete. So if you say analytics target audience manager, it'll go to those at the same time.
+
+00:46:03:46 - 00:46:30:06
+不明
+If you specify platform and you can specify the different data stores inside platform, like the lake and or profile store or identity graph, each one of those. It will issue that same request across every single sandbox you have. So single mall twice. Sandbox doesn't matter. Privacy service will get them all, so you don't have to worry about which strategy and how much privacy service isn't it?
+
+00:46:30:10 - 00:46:54:50
+不明
+So with that, I kind of want to wrap it up. Wrap this up with the side by side, because we've thrown a lot of information at you. So for me, this is how I my mental model, I have my single and my multi sandbox approach. Compliance legal will always trump this decision always. And so that's the first thing we need to consider is what are they telling us.
+
+00:46:55:04 - 00:47:16:46
+不明
+And get specific and discreet with them on what exactly we can and cannot do before just saying, oh they say we have to keep the data separate because as you can see, if I provide a context node, I'm keeping the data separate. I'm landing it in different data sets. The question is is that okay. So we then need to go in and talk with legal about specifically what does isolation mean.
+
+00:47:16:46 - 00:47:40:42
+不明
+If they're saying it needs to be isolated. Now Sal talked about right. That package tooling and putting it together in sandbox. Right would move this thing around. Right. Standardization becomes easier when I have a single sandbox. It's much easier to control because once I create schemas in other sandboxes, technically they can just go in and edit the piece in that sandbox.
+
+00:47:40:42 - 00:48:07:41
+不明
+And I'm not controlling things. Now, if I have really good controls from a governance level like you talked about, I might be able to isolate and keep some of that down. But it is easier, definitely, from a single sandbox approach. Autonomy. We kind of showcase that. I can somewhat control it really well and provide the flexibility really well within a single sandbox, but you definitely have more autonomy in a multi sandbox approach.
+
+00:48:07:46 - 00:48:35:51
+不明
+But also think of autonomy partially as your business readiness. What is your culture? Are you a very highly sharing cross collaboration culture across these regions and or business units or brands, or is it very much? We're very isolated and we don't want to work together. Only you will know that. But part of that may lean you more towards a multi sandbox approach.
+
+00:48:35:51 - 00:49:02:37
+不明
+But I don't think it's a really good reason per se to do that. I think there's ways to do that in a single sandbox. But reusability, these objects, these journeys, these audiences, right. Having everything in one area is definitely going to make it easier from a reusability standpoint, data, it's really boils down to this data and workflows become more shareable in a single sandbox because it's all there.
+
+00:49:02:42 - 00:49:40:21
+不明
+I don't have to move data around. There's no latency, there's no worrying about synchronization of things. Whereas in a multi sandbox. Right. And I definitely end up with some data duplication. But I achieve isolation. So it's a trade off really that it boils down to here for me. Last thing I'll leave you with is I always strive for a single sandbox in every single implementation, because all the work that I'm going to do there, if I decide at some point I need a multi sandbox, I can take all that work and repurpose it exactly as is in a multi sandbox environment without any problems.
+
+00:49:40:21 - 00:50:25:31
+不明
+All that sandbox tooling. You talked about the schema design. If it's kept consistent, I can use the package without worrying about things and therefore my audiences and my workflows. Right. They're all referring to a common schema that's highly reusable. But. So I gave them my thoughts. What are yours? Let's talk the key takeaways and we'll take questions. We want to leave you if we leave you with this, successfully and you successfully really consume this material and use it, it will make your life easier as you implement experience platform because it helps you streamline, your, your approach and think about in general, your architecture, because I think it's one of the most important things
+
+00:50:25:31 - 00:50:47:48
+不明
+is to architect your deployment, look at your business structure. Don't get stuck in this, you know, technical convenience. For example, even if it was a little bit more, to do. But think of your, architecture upfront. And think of your business structure upfront. It is key. Think of growth plan for growth because we know companies grow.
+
+00:50:47:52 - 00:51:09:12
+不明
+That's what we like to see, of course. And that's everybody's wish. So thinking of growth will help you make those decisions. As Danny mentioned, you could start with a single sandbox, but at least knowing that that is the option, the convenience, the ability to grow, whether within the same sandbox, like what we showed you today with some options or multiple sandboxes.
+
+00:51:09:12 - 00:51:42:43
+不明
+This is, available for you. And the multiple sandboxes in here is a feature that really gives you that flexibility that actually helps you set yourself up for success and governance. I can't stress enough how important it is for you to really understand the data, understand who should have access to it, and if you're labeling it early on so you could be successful and not fall into, pitfalls related to privacy or non noncompliance, use cases.
+
+00:51:42:43 - 00:51:59:45
+不明
+And, and with that, we we really appreciate your time. But we're happy to take questions. If you have any questions come up to the front. There is a microphone. And we're also we're happy to hang after the session as well. There's no other sessions after this. Maybe we can also chat a little bit more.
+

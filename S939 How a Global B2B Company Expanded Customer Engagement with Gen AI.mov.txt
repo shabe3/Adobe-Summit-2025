@@ -1,0 +1,376 @@
+00:00:00:39 - 00:00:28:19
+不明
+Okay. Good morning and welcome to that kind of small and elective round of BPP marketeers. And hopefully you all agree that we have a tough job in B2B to be in marketing. And we want to take you a little bit on our journey that we are in, that we have embarked like two years ago, to really trying to understand how we can expand our customer engagement using AI.
+
+00:00:28:24 - 00:00:50:58
+不明
+So the goal of today's meeting is a very simple one. We really want to understand how we create campaigns in five minutes. And this was an audience. And with a marketing team in a country that has no diploma marketing skills and understanding on marketing technology. So it's not an easy goal as you can experience. And let's see where we are today.
+
+00:00:51:03 - 00:01:17:10
+不明
+So to go on that journey, I would like to introduce also Dominic, who along with our team has worked on building up an architecture in marketing that enables now, the personalization at scale. He has implemented our customer data platform successfully and seemingly has aged a little bit on the time course from the picture to that. So don't tell.
+
+00:01:17:15 - 00:01:47:30
+不明
+My name is John Tammy, and I'm heading the Digital Customer experience team at Carl Zeiss Meditech, which is a group that was founded two years ago to combine pre-sales activities, e-commerce activities, as well as post-sales activities into one end to end experience for our customers. So let's get started with our journey. And introducing also a little bit about Zeiss, which is a well-known brand, but a lot of people actually don't know what we're making.
+
+00:01:47:34 - 00:02:24:07
+不明
+So we were founded in 1846 by Carl Zeiss, who had a small workshop at the University of Indiana. So he was actually working alongside with his customers, building scientific equipment, especially microscopes that would enable researchers to understand nature, to understand medicine. So he was like really embedded into his customers. One of his customers, well, was Robert Koch, who found out that the bacteria, caused tuberculosis.
+
+00:02:24:12 - 00:02:52:24
+不明
+And due to the resolution of the optics in the Zeiss microscopes, he was able to actually see the bacteria for the first time and really understand that these small critters, create, tuberculosis. And thus a long conversation with Ice and Robert Koch there. Robert Koch clearly stated that his Nobel Prize at the end is in part really related on the quality of the science microscopes.
+
+00:02:52:24 - 00:03:27:24
+不明
+And still, as today, you can still repeat these, these experiments using this ice microscope with a special lens at that time, invented especially for Robert Carl, that shows the details of the bacteria, whereas competitors at that time were not able to really resolve, just physically, resolve the structures in the bacteria. So it's really a brand that is built around customers really about driving, being driving, research and being leading in the world, of optics.
+
+00:03:27:28 - 00:03:48:45
+不明
+For sure. Zeiss wrote a lot of letters to his customers. So if you go in our archives in Vienna, you'll find rows of binders of letters to the customer. He was talking to customers about the status of their research. He talked to customers like Robert Koch when he realized that he found, along with Abbott, a formula to improve resolution.
+
+00:03:48:45 - 00:04:15:29
+不明
+So he would talk to Robert Koch, telling him about the advantages of the new lens. And if he wants to try it. So he was a perfect marketeer because he knew whom to write, which channel. Well, it was letter at the time, and which time point Robert Koch was working properly 24 hours a day. So he was happy to receive the letter and understand that there's a new solution, a new technical solution that will enable him to advance his research.
+
+00:04:15:34 - 00:04:41:58
+不明
+So this was a really good setting of our company. And based on that striving for leadership in optics, Zeiss has to be developed into a 10 billion big company today, leading optics, for example, in the semiconductor market. So if you look on your iPhone and you'll have that new chip of Apple in, the optics that actually gets the chip exposed is from Zeiss.
+
+00:04:42:03 - 00:05:12:03
+不明
+They'll be looking in industry and quality research. That is the so-called microscopy department. And we both of us are from the medical technology group. The medical technology group is 2 billion in size and we're offering solution for microsurgery. So that's any kind of surgery in the brain. Quite tricky. And you better know exactly where you're cutting into. And ophthalmology, which is anything around the eye keeping the lifetime of the vision for people.
+
+00:05:12:03 - 00:05:44:26
+不明
+So also pretty tricky. Pretty careful. But a big also from a business size, because everybody in the world will develop a cataract and will need a lens implant. So this is the business we're in. Overall, we have developed seven businesses within the medtech group, and we're offering about 200 solutions, products to our customers. So you can see that this hand has adapted, radiated from the origins from what Carl Zeiss was at the beginning into a vast business.
+
+00:05:44:31 - 00:05:55:07
+不明
+So today, keeping up with the customer engagement, with keeping close to our customers is really tough.
+
+00:05:55:12 - 00:06:21:41
+不明
+So we now have to talk about a vast variety of customers, no longer only about call, but now a big difference, different and structured, group of customers. With that being said, I would hand over to Dominic to go into our customer types. Thank you so much. Yeah. So, with these images, we want to show you that our customers today, they have massively changed.
+
+00:06:21:41 - 00:06:42:52
+不明
+Right. So in the medical business, in hospitals today in B2B, we see a large buying center. And they all have different roles on our customer side. So you can see we have surgeons who really work with our microscopes in the operating room. They're very busy. They're super stressed. And you have to you have to hit the message, right.
+
+00:06:43:04 - 00:07:13:32
+不明
+If you want to reach them. But there's also service technicians who take care of our machines that they're always running and up to date with the latest software. And now, increasingly, we also have these digital applications. So we need to talk to someone in the hospital who's taking care of the cloud and the IT infrastructure. So you can imagine it's not as simple as one and, 176 years ago, but you have to consider all of these different contexts if you want to run marketing successful.
+
+00:07:13:37 - 00:07:45:55
+不明
+So what did we do together with Adobe here is we implemented Adobe real time CDP. So on CDP, we bring together all the customer data that we have from decades into one single platform, have these unified profiles, and then we can build out these different audiences and activate them on the marketing channel. So this enables us to run personalized marketing in real time to these different roles, such that for the search engine, we talk more about a new innovation.
+
+00:07:46:06 - 00:08:08:04
+不明
+But for the service technician we might inform them, hey, your service contract is running out, you need to act. You know, maybe your warranty is about to end. We have some some things in place for you. So this is this targeted communication. And, I think what is interesting for you to learn from our experience here is that we can prove that it works.
+
+00:08:08:09 - 00:08:34:31
+不明
+So we have now learnings from over 15 use cases where we applied Adobe CDP, run these personalized campaigns. So we did omnichannel retargeting, personalized websites, upselling use cases. And every time we do this, we see that engagement is really skyrocketing. But not only engagement, but we also can I mean, at the end of the day, if we invest in technology, we need to get something back from it.
+
+00:08:34:35 - 00:09:07:19
+不明
+So we're also looking at conversion rate, which is very tough in B2B. But you can see that with, implementing CDP, we increased our conversion rate by 58% on average in these use cases. So we definitely want to, you know, apply personalization and hitting the right content for the right person more often. And now Johan will talk about why this is challenging in our global business with all of these different stakeholders.
+
+00:09:07:24 - 00:09:32:21
+不明
+Yeah. And as we laid out as you have now, kind of a matrix of complexity that you have to face, we talked about seven businesses that we serve in XYZ media tech. And then you have multiple to multiply your content by role. Yeah. We talked about the technician. We talked about the doctor bi product. Because you shouldn't tell someone who has insulin for brain surgery about the new ice surgery microscope.
+
+00:09:32:25 - 00:09:59:01
+不明
+We have been solving about 30 languages in our systems. We have different behavior in the structure. And today, in our multi-channel approach, you have to decide who is using which channel. And that's regionally different. If you're in Asia and you all know this. So we're ending up with a vast complexity, that we have to drive our marketeers to create dedicated, personalized content at scale for.
+
+00:09:59:06 - 00:10:24:34
+不明
+This is exactly where we fall short today. If you look in our reality, we have marketing teams that create kind of a brochure that ask another agency to translate that into languages. And you all know how how much work is involved. And maybe we find out that we do a separate piece for the technicians or for the IT guys in one country out there, maybe different versions, old, new, whatever overlapping.
+
+00:10:24:34 - 00:10:52:37
+不明
+So reality really lags behind having personalized personalization at scale available for our customers. The other challenge we're having is simply the operational model, how XYZ is set up. We have a very strong headquarter with a headquarter marketing team who is creating, they think is the best content. They really work on a brochure for two years, have that brochure that's kind of written in stone.
+
+00:10:52:42 - 00:11:21:05
+不明
+And this is now seven businesses that create brochures that create different marketing planes, and then they send it all out to our countries on the right side, which are small marketing teams lacking skill sets, lacking resources. It's usually the intern who does the marketing in the countries. So you can imagine that they receiving messages of seven senior marketing teams, they are completely swamped.
+
+00:11:21:19 - 00:11:57:54
+不明
+They don't know what to do, what to send out, where to find something. So we're really stuck in kind of our organizational, scheme here. And if you talk to countries but we not do sufficiently if you talk to them, it's actually pretty bad. So there's too many tools they don't know which company does what. Actually, if you're creating material that doesn't work in China's colorful world, for example, and if they find some, assets, they simply don't find the assets because we have advice for different asset management systems.
+
+00:11:57:59 - 00:12:34:39
+不明
+And sometimes it's sent out by email. Two months ago, so they are completely lost in our infrastructure. And I think based on that, we developed a hypothesis that it should be a perfect application for AI to really structure the workflow and really help the local market use to execute marketing. And we only talk about very tactical, simple, basic marketing at scale in the countries and also at cost, not because the countries don't have money to run big campaigns.
+
+00:12:34:44 - 00:12:58:01
+不明
+So cost was a bigger issue. So this is kind of the hypothesis we started this two years ago. Going into that, we identified four clear levels that we want to push. We want to simplify the access. We want to be four times faster in production, because you can imagine if they send the question to the headquarter, headquarter needs like two months to figure out who's responsible to answer the question.
+
+00:12:58:01 - 00:13:22:37
+不明
+And then it takes another two months to respond. We want to have a first time, right. So they want to have an asset that they be kind of confident to send out. Even in our medical environment. And we want to maintain the personal experiences because we know that this will bring big added value to our, company looking in our infrastructure, it was like, okay, guys, this is a mess.
+
+00:13:22:42 - 00:13:46:57
+不明
+So we have a mixture of resources, technical resources, processes, approaches, different, tools that are in place. So what we call now, the Wheel of Pain is kind of an endless circle in the countries where they create something, they send it for approval, they send it for feedback. They call the headquarters, and the headquarter person is on vacation and you're on this.
+
+00:13:47:09 - 00:14:09:31
+不明
+So we said we need before we start implementing AI, we need to make sure that we have to get a clear infrastructure, a clear agreement on our processes. You cannot simply sprinkle AI over a broken system and get it fixed.
+
+00:14:09:36 - 00:14:34:10
+不明
+So what did we do? We had a really, really big meeting to get everybody in a room and really build a same understanding on our content supply process. This includes people from we had BCG at the time as a consulting company. We had people from the government to really talk about, the European AI act. So there's a lot of facets to that topic.
+
+00:14:34:15 - 00:15:01:12
+不明
+And we needed to get everybody on the same page, in a workshop to really, unwind all that mess that we have with our interaction with our countries. So the outcome of the workshop is brutally simple, and this chart actually looks very, very easy. But it's a hard work to really make sure that we structure a common terminology and process flow, starting with understanding the data.
+
+00:15:01:17 - 00:15:21:07
+不明
+This was never happening before. Countries was sending out campaigns where they didn't have an audience. They would just send it to the full list. Briefing. How do countries want to brief the AI or the model at the end? How do we do campaign planning to avoid overlaps? Oh, there's a headquarter campaign. Oops. I'm just sending a different information.
+
+00:15:21:12 - 00:15:49:23
+不明
+How do we select the campaign creatives? How do we actually go to content creation, review and approval process in a regulated market? Super important to have a good refit and approval size and then optimize the publishing, the activation and the analytics later on of our content. So we have an understanding of one content flow, one terminology, and one process that we're now trying to optimize using AI.
+
+00:15:49:28 - 00:16:12:25
+不明
+Okay. And I will now take you step by step through this new revised content supply chain. So just to repeat again. So today we will show you our Genesys solution. But the AI solution it lives at the center of this content supply chain. So when we create text when we create images and creatives this is part of the middle.
+
+00:16:12:25 - 00:16:40:30
+不明
+When it's about creatives and text generation. But actually to really leverage efficiency in the countries you have to look left and right. So in the beginning we also thought about which technology can we use for audience selection, for timeslot selection, for smart campaign planning that already at the start, we don't waste any time. And then once we have the text and the image, do you want the countries to copy paste it and put it in a JIRA ticket?
+
+00:16:40:35 - 00:17:13:01
+不明
+No. So you want to make sure that the content can leave your tool and flow end to end up to review approval, publishing and analytics. And there's tools and technologies also there to use that. So translating that into actual tools. And this is how our landscape looks like and a few things here to point out. So on the content creation part we're actually using two AI tools and one is our own XYZ AI marketing service.
+
+00:17:13:13 - 00:17:41:17
+不明
+So it's a proprietary gen AI model that we developed based for our needs. And we'll talk later a bit more about why and what that looks like. And we also using Adobe Firefly services to generate and change images. And you see a big chart here at the bottom, which is Adobe work front. And work front here helped us to really connect the different phases of the content supply chain and make it really easy for the local marketeers.
+
+00:17:41:22 - 00:18:03:07
+不明
+And then there's Viva. So I'm not sure who in this audience is also from the tech industry, but Viva is a tool where you can do your media asset management, where you can do your approval processes. So we're in a high, highly regulated market. We cannot say, unfortunately for marketers, we cannot say what we want. But we have to make sure there's substantiation and claims around it.
+
+00:18:03:21 - 00:18:31:10
+不明
+And so viewers will remain our tool where we store this officially approved claims and materials. So now I'll share the the secret combination of nice. But this is basically so we'll show you the front end today as well. And that you see how it looks like for the marketeers. But we wanted to spend just a few words on our solution architecture, because you might want to build this or a similar solution in your organization as well.
+
+00:18:31:19 - 00:18:55:30
+不明
+So this is what we came up with based on our requirements. So what we got is feedback from the from the local marketeers is they don't want to use 20 different tools. It's a mess. So what we've been able to achieve here is that on the front end layer, you'll see that here. There's actually only two tools that they use.
+
+00:18:55:42 - 00:19:21:56
+不明
+There's Adobe work front and there they do the entire campaign orchestration. And then this is connected to our XYZ AI marketing service, which is a chat interface that you probably know also from other language models. So they only work with these two, tools here. And then all of the magic happens in the back end. So there's work from fusion, which helps us to automate all of these processes.
+
+00:19:22:01 - 00:19:47:17
+不明
+There's a back end for an AI service, where we basically tune the model to give the answers that we want. And then there's also AMP assets, because assets you need to store the images and then run your Photoshop and Firefly services. It's very difficult to do it outside of, the the Am assets here. If you want to be fast and have this all automated and this.
+
+00:19:47:22 - 00:20:07:42
+不明
+So we call this XYZ Chennai Marketing Hub. Johan will later talk about also how this looks like organizational. But this is basically then taking input from the core layer. So what you need is you need description of your personas. You need your target group descriptions. You need the templates, you need the approved images, the approved material.
+
+00:20:07:51 - 00:20:24:49
+不明
+And we also get audiences from CDP. So all of this is feeding the AI marketing hub automatically. And then whatever we create, we push to the activation layer like Marketo, like social, like personalized websites.
+
+00:20:24:54 - 00:20:46:22
+不明
+Okay, let's move from the solution architecture to these front end. And we start with data. So we want to increase efficiency in the countries right. And what we see is that often they create some campaigns they have some ideas. But then at the end of the day at publishing, there's no audience or there's people in the audience. Yeah.
+
+00:20:46:30 - 00:21:14:39
+不明
+So how you can increase efficiency even at the start is you give the countries an opportunity to query CDP and say, okay, I want to target ophthalmologists in Brazil, and then you get feedback from CDP, how many people, how many email addresses do we actually have on our database to do that? So you already eliminate a few ideas at the start, but you make sure you you are effective and hit the right audience already at the beginning.
+
+00:21:14:43 - 00:21:50:53
+不明
+So in this case, we get 1000 people in our audience. This is happening in work front. And now the next step is in work front. We let the countries fill out a briefing form, and it might seem super simple, but you cannot over, you cannot, over, overstate how important it is to have structured information when you interact with Genie AI tool, because the countries they want to perform campaign for certain language, certain product, certain target group, and you need to make sure you have the base material for all of these conditions.
+
+00:21:50:58 - 00:22:18:50
+不明
+So if you just provide a genie tool, they have to prompt and prompt over and over again. And we eliminate this easily by offering a briefing form where they can just select what they want to do. And there's one more hack that we implemented, which is the template. So if you go into a genie AI tool and you know this probably by your own experience, you have to tell the tool in the prompt, only 300 characters.
+
+00:22:18:50 - 00:22:45:31
+不明
+The text needs to be this long for the email, I need a subject line and so on. Imagine all of the countries, all of the languages doing this prompting all over again. It's much easier if you give them templates where headquarter knows from the data. This is a well-performing email, this well-performing social media post, and then you can give this template to your chat interface and say this is exactly the structure of the content that you need to generate.
+
+00:22:45:36 - 00:23:13:41
+不明
+So template selection here is really important for the countries. Let's come to, to let's say a negative experience from our journey here, which is image creation, image generation. So when we started this project, we thought, let the countries give the opportunity to generate images by prompting like, hey, I need this image of a doctor in this clinic and so on.
+
+00:23:13:46 - 00:23:43:58
+不明
+And we spent weeks or we wasted some weeks to get it right. And in the end, we did not succeed. So the countries, they don't have time and they don't have the skills, quite frankly, to go into Photoshop and create these different variations. They're not creatives, they're marketeers, and they need to get a job done. So what we did instead is we took the tools, the nice tools from Adobe gave them to the headquarter marketing teams, and they create variants.
+
+00:23:43:58 - 00:24:06:18
+不明
+So they have one expensive photo shooting one image, and then they're using Firefly APIs to change the ethnicity, background, gender and so on of the images. So you have a lot of different variants. And then the country marketeers, they just need a very good image retrieval capability in Virginia AI service. They say this is what I want to do.
+
+00:24:06:23 - 00:24:30:38
+不明
+And they get suggested the three best images based on the request based on the local market. So we refocused to image retrieval and image variance instead. Okay. So this is our Chennai tool. You'll see a bigger video soon. But now the next step is to create the text and to, to create the campaign post.
+
+00:24:30:43 - 00:24:56:56
+不明
+So they have a chat interface and, there's some features that we developed based on our requirements. I think a nice feature here is, for example, that we take now all of the briefing information from work front, and we already execute the first prompt automatically because the countries they have to learn also how to prompt and different prompts might bring different results.
+
+00:24:56:56 - 00:25:19:57
+不明
+So we take all of the briefing information automatically and say, okay, what's a good prompt? What brings a good result. And this runs automatically. The tool is creating the text. It translates the text. It suggests the images, and based on the channel. And then you can, you can put everything back together. I think one important point here is also feedback.
+
+00:25:20:11 - 00:25:49:01
+不明
+So we have the language model. And we need to make sure our language model improves over time. Right. So we have collected in the process over the last half year or so, we have collected more than 200 feedbacks based on the sessions from the countries. So they create some content, they provide feedback directly in the tool. And then our data scientists, they can use this feedback to improve the language model even further, to give better results and better translations.
+
+00:25:49:06 - 00:26:19:14
+不明
+And there's actually now a second language model. So we you see the language model that is creating the text. But as we said, we're in a highly regulated business. So we need to make sure that the countries is actually allowed to publish what this tool created. And that's quite tricky. Right. So we have trained a second language model that is validating the output of the first language model and say, is that in line with the base material, is it, is it okay, is it compliant.
+
+00:26:19:19 - 00:26:44:13
+不明
+And we also have rulesets and user feedback to improve. Also this validating line. Okay. Now the next step is we have the images, we have the text. And now the countries they want to do the review. How is that usually working. They get in a room with their boss and show PowerPoint template like this is the text and these are the images.
+
+00:26:44:18 - 00:27:10:48
+不明
+And you can imagine if you're heading a marketing department or, a certain business you want to see how is the how does the actual deliverable look like? How's the social media? How's the email look like? So what the countries would do is they would take the text and the images, they go to market marketing agency, they go to social media agencies like, hey, please put everything together and they have to wait again a couple of days until they get the final deliverable.
+
+00:27:10:53 - 00:27:39:40
+不明
+Not in our solution because we started with a template. So now with work from fusion and our tool, everything is automatically put together into the final deliverable on an instant. So they see and work front. This is how the final post looks like. They can assign it to their managers. They can assign it to their team. They get instant feedback directly in work front, and they can continue the content supply chain without any interruptions.
+
+00:27:39:45 - 00:28:00:10
+不明
+Okay. Let's say now this is reviewed. Now we need to somehow get this set up in Marketo, for example, or we need to create a website. Right. And why don't we also automate this process? Because I mean, we already have everything that we need in the tool. So here you can see that we use work from fusion.
+
+00:28:00:18 - 00:28:17:53
+不明
+And you can set up these, scenarios and work for fusion. And this is pictures a bit complex. It took us some time to figure it out, but actually this is what happens. So in the Genii, it creates the HTML according to the template. This is going back to work front where the user can review it clicks on approve.
+
+00:28:17:58 - 00:28:49:01
+不明
+This is triggering. Then this whole scenario where everything is mapped and the APIs are called in Marketo and then in Marketo. Already this email that you've just seen, this is already created directly in Marketo. And to have a production ready asset. So this is now the final few. We started with the briefing document. Again we use the briefing to not have the countries prompting directly to collect all the relevant information like language, which product, job description, they are used to do that.
+
+00:28:49:01 - 00:29:16:14
+不明
+They are like at least some basic marketing understanding. So it's easier for them to write the text for the campaign is about than writing a prompt into a chat bot. Well, you have, you maybe forgotten something. That's what we fixed with the template. This is kind of the set up of the campaign in the front. Now pulls the email Dominic talked about, and then you get a link immediately getting you into our chat bot.
+
+00:29:16:19 - 00:29:35:52
+不明
+So this is now the chat bot. You see the chat bot is based on our material on it pulls up the references for the country, so they see the existing material, and it will also immediately translate the text into the local language. Then it will open up the access to the text, but also enable you to connect to images.
+
+00:29:35:52 - 00:30:01:49
+不明
+You you select the image that has been retrieved, as a suggestion, and then it automatically montage the text plus the image depending on the template together, into a finished image. So now you can say, okay, that's approved, and if it's approved, it automatically pushes over into Marketo. So at the end you have the image as a template in Marketo.
+
+00:30:01:49 - 00:30:35:40
+不明
+It's not been sent out yet automatically, but it is in Marketo. And you can, start now building your campaign, directly. So this is below five minutes. Actually two minutes. But you have to write the text so close to our five minute thing, and that's for an easy image. Keep in mind these are invites to trade shows that, announcement of certain whatever discounts and stuff like that, that completely works if you really want to get the world going with these campaigns, rather than having very complex campaigns running in the countries, that's exactly the point.
+
+00:30:35:40 - 00:31:03:34
+不明
+And that's where we are today. So that pilot prototype is running now in seven countries. Will trying to increase that. So and we have the first successful campaigns running through the tool. So this is a campaign on the cataract workflow that we created, social media posts where we created landing pages, the text and email with a header directly in the tool, send it out and already have some results of that campaign.
+
+00:31:03:39 - 00:31:25:34
+不明
+So again this was the first title. So the overall the performance is kind of okay. Is we have a good open rate, because it's pretty targeted. But it seems like the click through and the engagement could be a little bit better. But one unexpected thing happened. We have these in the the time it was like four countries only.
+
+00:31:25:39 - 00:31:58:41
+不明
+We did this in four countries. And our global views on our cataract page increased almost three times because now you have an engagement in the countries they did nothing before. And this sparked our global visibility on the cataract topic enormously. That's kind of a side effect, but if you enable the countries, you see some result. And I think that's something which we, which we really like to push to get a global, consistent visibility on those topic.
+
+00:31:58:46 - 00:32:20:36
+不明
+And we're trying also to enable the countries to do other things than they have done before. So for example, the search engine advertisement we haven't done before. So now the countries have a tool to create the ads on Google, and simply increase the awareness on certain topics in their countries. This will have a huge effect. It's kind of we were not there before.
+
+00:32:20:38 - 00:32:47:06
+不明
+We didn't have it. So the effect will be, really positive and it's kind of giving the countries, also some tools where they can improve their marketing. The business case. Going back to our hypothesis, we started with about 70% cost savings. So we slightly exceeded the cost savings on almost 80%. That's by cutting out the translation cost, which is the biggest bucket.
+
+00:32:47:06 - 00:33:15:49
+不明
+That's an easy one. But also the agency costs of resizing an image, sending back and forth, managing smaller projects. So there's a huge impact on the costs, but there's also taking off some workload of this local market. So it's almost having the time demand to create campaigns in the countries. That's that's also a big positive effect to reduce these manual tasks in the countries.
+
+00:33:15:54 - 00:33:42:09
+不明
+So if you take if you take those two different outcomes of the business case, we have a dramatic cost saving and we have an efficiency gain, we can calculate an overall business case. And we did this. So these are the real numbers. We had an upfront investment. To run this. So this is the big peak here, on the left side where we invested substantially in building all that.
+
+00:33:42:14 - 00:34:06:00
+不明
+The black bars are the marketing, the marketing costs in the countries. And you can see they are decreasing, not with 70% immediately, because the country will not use the tool for everything. The country, will not do it perfectly. They will still have the old agency. So you'll see a reduction of the costs in marketing in the countries over time.
+
+00:34:06:05 - 00:34:39:16
+不明
+So we are expecting to eat up the upfront investment within, let's say, 4 to 5 years. What we see additionally is we have some costs for licenses. Yeah. We talk about work front, we talk about Firefly and so on. So there are some costs that are dragging on throughout the project. And we also expect to have some headquarter costs because we want to have 1 or 2 or 3 or 4 people supporting the countries to execute the image, to consult on the audiences and all those things.
+
+00:34:39:16 - 00:35:18:16
+不明
+So it doesn't run for free completely on I am looking at this topic. I think it also changed the way from an operational perspective on how the countries perceive marketing. Remember when we talked about that everything was stamped on the countries, and they only received the input. Now the countries have kind of the marketing hub in the middle, and they can ask them so they have something to go to, whether it's the Genny iPad or it's actually some people in the back end, but now they have a bucket where they get dedicated information for the countries and they can ask.
+
+00:35:18:16 - 00:35:32:26
+不明
+And the marketing hub takes away the complexity and provides the information that is available on the now structured system and tool landscape.
+
+00:35:32:31 - 00:35:53:29
+不明
+So for the first time at XYZ, we have also like a clarification on the roles and on the skills. So the headquarter as we talked about is kind of they do positioning marketing plans. These are the content marketeers, the creative guys and whatever. So they should still do that. I think the Firefly example is a really good example.
+
+00:35:53:29 - 00:36:22:36
+不明
+So these guys can deal around this improving images with all whatever methodologies approve them, dump into our asset management system. And then the marketing hub automates is the retrieval of these assets from our asset management, the marketing hub is really focused on the country support, and really on operating that tool stack. This this is where you need the AI competency data management, the workflow competency.
+
+00:36:22:40 - 00:36:48:34
+不明
+And then you have country marketing. They really can focus now on getting the tactical marketing going, really executing, scaling, working into personalization. They are driven by a sales mindset. And that's what we had in the past. The countries in our organization are only focused on sales. So here they can do that because they have a supporting infrastructure based around the marketing hub.
+
+00:36:48:39 - 00:37:17:24
+不明
+With that being said, be coming to the questions like, where are we going now? What is the overall perspective on really growing this to really get it personalized and running it into an omnichannel experience? Exactly. And, we started today's conversation with the CDP, and over the last half an hour or so, we showed you, now we have a revised content supply chain where we really can create these personalized content within minutes in the country.
+
+00:37:17:29 - 00:37:42:36
+不明
+But what we should not forget, it doesn't end there, because on CDP, actually, we have again a feedback loop and we can see what are the people in the audience engaging with. So we have all the analytics data, we have all the activities and engagement data. So we know exactly what is the content that is most successful and most engaged with in this audience.
+
+00:37:42:48 - 00:38:09:00
+不明
+And it's not only like a name of the email, but we would we can retrieve the entire text and the imagery that is most engaging for our customers. And I think Adobe is also going in this direction. Yesterday we learned about this content analytics. Right. This is exactly what we need to understand now is which content for that particular audience is most important.
+
+00:38:09:05 - 00:38:32:24
+不明
+And if we bring this back, if we close here, the feedback loop, this will now move into a wheel of gain. Yes. So we started the presentation Talking Wheel of Pain, JIRA, email calls and so on. And now if we bring these two words together, we have generative AI, revised content supply chain and all the analytics data from the CDP audiences.
+
+00:38:32:36 - 00:39:01:28
+不明
+If we bring both of these together, it it becomes the real deal, you know, because our countries, they can engage again and again to create content. But we also learn for the audience. How do they interact? So if we feed this back, we can tune our language model and say, please create a campaign for this audience and bring a response that is very likely to be engaged within that audience.
+
+00:39:01:39 - 00:39:10:30
+不明
+So every time the countries run a campaign for a particular audience, content will be improved, will be more engaged with.
+
+00:39:10:35 - 00:39:37:54
+不明
+And with that, with that, we are exactly where we had been 176 years ago. So Carl Zeiss knows that Robert Core is interested in small bacteria. So now we can do this at scale with our diverse audience, with our diverse roles that we have, and we can write these text that are highly personalized at scale and in the right language.
+
+00:39:37:58 - 00:39:57:14
+不明
+So we can even include that if a customer is interested in hunting gear, we can include, like a side note and really show him what we have latest technology available from our other business groups. So this is kind of our dream to get the data back into that game, because that's what Carl Zeiss did almost 200 years ago.
+
+00:39:57:19 - 00:40:19:17
+不明
+And we really want to do this in our complex world today, using our marketing hub as kind of the centerpiece and enabling the countries to really drive this. So with that being said, we're at the end of our presentation. Thanks so much for joining us. At the early time here in the US. And any questions, please feel free to jump into a small group.
+
+00:40:19:17 - 00:40:27:54
+不明
+So any questions. Welcome. Thank you so much. Thank you.
+
+00:40:27:59 - 00:40:28:31
+不明
+For.
+

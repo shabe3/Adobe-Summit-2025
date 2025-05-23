@@ -1,0 +1,428 @@
+00:00:01:51 - 00:00:18:58
+不明
+I'm just gonna start with introductions really quickly and we're going to go over our agenda. I'm Jamison, one of them, and I'm a group product manager at Adobe. My focus is agency specific product strategy, but I work on the Gen Studio Solution team, and we'll talk a little bit about that. This is Rob Lawrence's managing director at Wheat Point.
+
+00:00:19:03 - 00:00:36:16
+不明
+And he's also going to talk about what Lee point is and the whole partnership. So, today there's a couple of things we want to cover off on. Lee point, which is an Omnicom company and Adobe and our partnership and the way that we work together. We want to go into the methodology of how we point drives marketing ROI for their clients.
+
+00:00:36:21 - 00:00:56:45
+不明
+And then we also want to share some innovations that we have coming and work front that are core to agency use cases. And what I mean by agency, that's creative agency, digital agency. Size anybody who uses humans to help service their clients. And the roadmap for some of those capabilities. I also want to just ground everybody.
+
+00:00:56:45 - 00:01:19:23
+不明
+You guys saw this slide in the presentation in the opening keynote. When we talk about Adobe Gen Studio, Gen Studio is the solution to help solve the content supply chain problems. When we talk about Gen Studio, it's really that top layer of applications that could be one, two, three, many, all of them that mean you are solving your content supply chain.
+
+00:01:19:28 - 00:01:43:54
+不明
+We're going to focus on work front for a lot of this discussion. Work fronts integral into the entire Gen studio solution, especially for agencies who are helping, coordinate projects across a whole variety of different teams, different geographies, different clients. But later on, if you have questions about this, we'll have a little bit of time for Q&A.
+
+00:01:43:58 - 00:02:01:10
+不明
+So I'm going to pass it off to Rob and he'll cover a couple of things. All right. This is not just a slide of all the great accomplishments. This is kind of our introduction. To what point does an Omnicom company. In addition to all the credentials, all the certifications we have, we have a phrase. We drink our own wine.
+
+00:02:01:15 - 00:02:18:09
+不明
+You're going to hear me talk about that. A lot of how we use these tools at Omnicom and at Lee point, and how we reinforce that with our clients when we're talking about things like ROI and a lot of the challenges that come with us. In addition to some of these you guys might have seen, we got 2025 Adobe Digital Experience Gen Studio partner of the year.
+
+00:02:18:12 - 00:02:49:12
+不明
+It's kind of a mouthful. As well as 2025 Adobe Digital Experience Partner of the year for UK and Ireland as well. And in addition to what leap Point can offer, I do want to kind of highlight Omnicom as a larger organization has almost 700 plus agencies in it. So not only does Lee point help you solve some of the problems that you're seeing today, but in addition, places, companies like Cloudera Rep OPM, who are actually here in the audience today, will also help you solve some of those questions and some of those problems that you don't see today.
+
+00:02:49:17 - 00:03:09:43
+不明
+So it's a big strategic advantage to get involved with us, because we can start to open that up to the wider company base and make sure you guys have all the types of different solutions, in front of you. So we're going to start by talking about the problem. It boils down to three things. Too much content across too many systems and not enough time.
+
+00:03:09:48 - 00:03:28:18
+不明
+And this only really gets more challenging with scale. You know we talk about AI a lot, but that is really ramped up. How much content is in the marketplace. And for teams to be able to manage that much content and that little of time across so many systems really adds a whole bunch of unnecessary bottlenecks to to the process.
+
+00:03:28:22 - 00:03:51:34
+不明
+We have an adage at Lee point that I say all the time, which is how many clicks it takes your teams to do something, is directly correlated to how happy they are to do it. And the name of the game is to reduce those clicks in this process. And all of these solutions and all these things that we're talking about are kind of aiming to get there to kind of reduce it and make it simple and make it easier for people to use the systems.
+
+00:03:51:39 - 00:04:22:01
+不明
+As a result of these three problems that we see, we really struggle to maintain things like brand, presence and consistency and even at Omnicom. Right. Are we all looking at the right stuff at the right time? And through these three things, we're going to talk about how the solutions within the Gen studio and within work front can kind of help reduce the time loss, can help manage all of the content coming at you, and can help all the siloed systems talk to one another and connect easily.
+
+00:04:22:06 - 00:04:43:44
+不明
+So we're going to talk a little bit now about the solution. The Adobe work front areas. We're going to live most of our time today. And there's really three things that we're going to talk about. Adobe planning or work front planning. This is the new shiny toy. This is the new thing that everyone's talking about. And I can tell you, in over a decade of implementing work front, this is I've never seen a better product address.
+
+00:04:43:44 - 00:05:01:53
+不明
+Some of the biggest marketing concerns that we have. Things like calendaring, things like reporting, things like just a prettier UI. You know, we're going to talk a little bit about change management, how difficult it is to use these tools. Planning has done a fantastic job of addressing a little bit of that change management. When you're implementing these workflow.
+
+00:05:01:57 - 00:05:27:56
+不明
+That's our tried and true work front system, right? PMI based best practices for time management, for demand management, but most importantly for resource management. We're going to talk about this content ROI equation. But resource management is one of the most important pieces of this. And in every client, including Omnicom that we implement, it is where their lacks the most knowledge and understanding of how it goes into your content.
+
+00:05:28:01 - 00:05:47:28
+不明
+Everyone understands how you measure things in the market, but how do you measure how much it takes us to create those things that are in the market? And that's we're going to talk a lot about today as well. And then lastly, I call this the magician's bucket. I manage a team of about 20 different integrations architects. Those are all the people that make all the automations and integrations talk in the background.
+
+00:05:47:33 - 00:06:08:30
+不明
+And if you're familiar, this this is work front fusion today. And as the products grow and scale up, you're going to see more and more of these automations built into the platform. So the combination of these three things really helps us to address those problems we talked about before time management, content management and siloed systems.
+
+00:06:08:34 - 00:06:28:01
+不明
+I'm going to talk a little about our methodology as well. So at Leap Point we talk about four things with almost every one of our clients and everyone internally at Omnicom as well. And that's people process data and technology. Now we're going to spend most of our time on the technology sector, which is why we've kind of highlighted this.
+
+00:06:28:06 - 00:06:54:24
+不明
+But all four of these are really important key pillars when you're looking to implement these solutions. Who are the people involved? What are the processes you're trying to capture? What is the data that's moving through that. And what systems it in. And if you can identify those four things for any implementation you can succeed. But if any of those are missing, you end up in the middle of a tier, in the middle of any other type of implementation and realize that we've missed a step.
+
+00:06:54:28 - 00:07:15:15
+不明
+We don't have the right people in the room. We don't have the right data in the room, or the process wasn't documented. Clearly. So again today we're going to focus heavily on the technology piece. But when we think about how we succeed at Omnicom and how we do this for our internal agencies, these are the four things that we drill in to everybody to understand our implementation.
+
+00:07:15:19 - 00:07:34:36
+不明
+Okay. This is the content ROI equation. And yes, I did use AI to make that image. And no, I'm not a designer. That's why it's one draft. But ultimately what this is showing you as a lot of people are focused on in-market analytics, what are we doing in the market? How many downloads are we getting? How many eyeballs are getting on our content?
+
+00:07:34:40 - 00:07:58:39
+不明
+A big part of that equation that people are missing is the level of effort. And then the market level of effort are things like planning, researching, writing, editing, designing. How do we measure that to say, are we using the right time for the right things? And where do we see this in Adobe work front or Adobe is one Adobe work front can measure how much time it's taking us to create these things.
+
+00:07:58:44 - 00:08:23:21
+不明
+And things like Adobe Analytics measure how is that content doing in the market? And I'm going to give you an example of that from a real client. I've tweaked a little bit of the numbers, but just so you guys can understand what that equation really means. A webinar gets 100 downloads but takes 100 hours to produce. I had a CMO tell me we need to produce every single webinar we can, and he had no idea how long was taking them to create them.
+
+00:08:23:25 - 00:08:45:25
+不明
+But that same team was creating whitepapers that were getting ten downloads and taking about an hour to produce. So the question is, which one is the better investment in these tools? And these solutions that we create are built on? How do we maximize and optimize that equation? And if you don't understand both halves of it, you're never going to be able to do that.
+
+00:08:45:30 - 00:09:01:16
+不明
+So whether it's analytics in the market or whether it's Adobe work front, getting those two to work together so you can find out where are we spending the most of our time and where does the content have the most impact is going to be really key.
+
+00:09:01:21 - 00:09:21:52
+不明
+So we kind of touch on the technology, but I want to identify some really important use cases for each of these pieces or each of these tools. So the first one is the new shiny tool that's work front planning. There are three immediate use cases that we want to talk about around data collection, taxonomy and what we call first touch.
+
+00:09:21:57 - 00:09:41:48
+不明
+I talked earlier about clicks and how hard it is to get things off the ground. Any time you're implementing a solution, training those users on how to use that tool is always has to be baked into the time it takes to go to market. But with a tool like a work front planning, it's an Excel file. If you know Excel, you're already basically an expert in work front planning.
+
+00:09:41:49 - 00:09:59:47
+不明
+Do you know how to control pace? Do you know how to control copy? All of that exist as functions within planning. So that piece about data collection, those complaints you get about how do we get all of this disparate data we need to launch a campaign is all done through an interface and work front planning. And layered on top of that is the text taxonomy.
+
+00:09:59:47 - 00:10:23:12
+不明
+Part of it, what I call department you call company, what you call segment, you call channel. Those things are what throw off campaigns right at the finish line, and the ability to have a system that is really easy to use, layered over the controls and governance you have with taxonomy, is what separates planning and what makes it so important to the solution.
+
+00:10:23:16 - 00:10:41:01
+不明
+I'm also using a term called first touch here, whereas planning becomes the scratchpad for your campaigns. Right. All the thoughts I have, all the all the things that I've been thinking about doing the year in the year I'm putting down in planning, I'm commenting on, and we're going to show a demo of this so you guys get some more experience with it.
+
+00:10:41:06 - 00:11:08:19
+不明
+But that's the first touch for your system. This is what's replacing the PowerPoints, the 15 different Excel files, the the meetings. You have the post-it notes on your desk, everything goes into planning. It's the first touch of all your data into this life cycle and then work front workflow. So this is our PMI driven project management tool. This is where we take all of that data, all of those ideas, all of those drafts and actually turn it into work for people.
+
+00:11:08:24 - 00:11:30:02
+不明
+How do we get work into people's hands quicker. And that's where work front workflow comes into play. This is also where we layer on the financial and the human resource management portion. So I talked earlier about why resource management is so important because you need to measure how long it's taking to create this content. And work front is where you start to layer that in.
+
+00:11:30:07 - 00:11:48:39
+不明
+This is also where we see the last touch of our equation. Right when I spend four hours to create a webinar or this presentation with Jamison, and you better believe I had a project and work front to create this presentation, we did. I measured how much time that took. You know, I reported to Megan, who's our CMO, about how much time it was, take me to do that.
+
+00:11:48:39 - 00:12:04:35
+不明
+And that was the last place that we were capturing that measurement. It's the baseline of when I go, hopefully 2% next year. Fingers crossed. We can say this is how much time it's going to take me, because this how much time it took me last year. And then lastly, the magicians, right. The work front, automations and integrations.
+
+00:12:04:35 - 00:12:37:57
+不明
+This is not really a UI facing piece. This is how we get this data. The last touch, the campaign data collection, all working together and integrated to other systems as well. So I use a really techie fun term here called a user defined relational database. Basically means it's really easy to use. You don't have to fit within certain, parameters in order to map information from planning to other systems because of the interface and how simple it is and the work front integrations automations is what enables that.
+
+00:12:38:02 - 00:12:54:15
+不明
+So I'm going to walk you through a couple steps, and we're going to layer on these different pieces of technology. So you can see how they kind of play in the market. So the first is a campaign brief. We've all been there where I'm collecting hundreds of PowerPoints and trying to synthesize them and download them and upload them and share them and airdrop them.
+
+00:12:54:16 - 00:13:20:00
+不明
+I mean, we just had to do it before we started this call. Capturing all that information in one place is what work front planning does. And a campaign brief, which used to be Excel files and PowerPoints, is now captured. And what I will admit is a very pretty UI, the ability to see things in the timeline view, the ability to customize based on what I need, but to also allow it to be a scratchpad.
+
+00:13:20:11 - 00:13:49:52
+不明
+This is not definitive. This is where I'm putting all my ideas and only when I'm ready do I then kind of announces ideas by sharing them using integrations, and pushing them in other systems. And again, we'll show you guys that as an example in a bit. So the integrations is what syncs that data across that scratchpad. And ultimately what work front does is take all that unprocessed data, all those thoughts, all those briefs, and puts it into a structured format that allows you to keep compliant with your snowflake system or Salesforce or your ERP.
+
+00:13:49:57 - 00:14:14:03
+不明
+All of those other systems that always continue to get out of sync work front eventually allows you to keep those in sync with the data elements. So a campaign brief uses all three of these to make a much more unified experience, and ultimately to enable you to spend less time in less clicks. And you will probably hear me say that 100 times, because the less clicks it takes, the happier everybody is.
+
+00:14:14:07 - 00:14:32:57
+不明
+This takes us now to the campaign kickoff phase. So yeah, we've done the brief. We've got all our data in the system, but how do we actually turn that to work? Well, work front core, which we know work front workflow. Got to get my terminology up to date. It utilizes all the best practices for taking all of that data and turning to a project plan.
+
+00:14:33:01 - 00:14:51:34
+不明
+So this is where you see your tasks. This is where you see your risk registry. This is where you see the dates and actual time that it takes. So not high level planning but very specific. How much time do we plan to do this versus how much time it's taking us to do work front automations. This also reduces clicks, right?
+
+00:14:51:48 - 00:15:14:19
+不明
+So when I used to take 20 minutes to create a campaign brief or create a project, I can now do in two, because an automation takes unprocessed data from planning and turns it into a project plan. And lastly, the integrations from a campaign kickoff. Everybody knows that when you actually kickoff a campaign, you need to let other systems know it can't just exist inside this ecosystem.
+
+00:15:14:24 - 00:15:31:28
+不明
+So the ability to connect to Salesforce and to Anaplan and all those other applications to say, we've now kick this off, we now going to get more content. You saw a little bit of that today. I'm not going to say they stole it from us for the keynote. But you saw a little bit of how they do. And they go get that content when they want to kick off that campaign.
+
+00:15:31:33 - 00:15:56:06
+不明
+And that's where that point comes into play. Content execution. The funny fact about work front is nobody actually does their work in work front. Right. I do it in Photoshop. I do it in a database. In tool work front is the map to all of those systems and tools. Rob we actually have a saying we don't want you to work front.
+
+00:15:56:07 - 00:16:19:54
+不明
+We want you to work. There you go. So you just get the work front. Just get the work done. Don't spend time doing work front. And the one thing that your that creatives will tell you is don't force me to build a tool that doesn't serve me right. If I have to go into work front and just click through because I need to, versus if I can be in Photoshop and mark the task complete from there, I can get my job done quicker.
+
+00:16:19:58 - 00:16:37:35
+不明
+And so content execution is really where you start to see all these other systems come into play and work front become more of what we call a headless project manager. Everyone can log in. They can see the tasks they have assigned to them, but they do their work in other systems. They're not creating anything. Work front. They're uploading into work front.
+
+00:16:37:35 - 00:16:59:48
+不明
+They're getting things approved and work front, but they get to stay in the systems that they use day to day. And again, it's less clicks, makes everybody happier. From an integration standpoint, this is where you start pushing content to other systems, whether it's am whether it's Azure whether it's any other type of database, whether it's a product information management system.
+
+00:16:59:52 - 00:17:21:22
+不明
+At this point in the life cycle, you're using these three tools and you're using them to push that content to other systems and map all of that metadata because it does, you know, good to upload a document to Am just to have to copy and paste every single piece of metadata into that other system. And then lastly, tracking and measurement.
+
+00:17:21:27 - 00:17:41:29
+不明
+Once you get all of these systems in play, and once your campaign brief has been put into play and the campaigns kicked off and you've created this content, well, now we're at the other half of the ROI equation, and we're using work front to measure things like actual hours versus what we planned. Jamison, we'll talk about this in a little bit.
+
+00:17:41:31 - 00:18:08:18
+不明
+There's a trifecta in resource management. We talk about forecasted hours, what we wanted to do, planned hours, what we sold to do and actual hours. What we actually were able to do and the ability to spill the beans. Rob I was going to wait until that. So I took that away from you. The ability to see all three of those in one place is your ability to go in six months, we're going to need X amount of people in one month.
+
+00:18:08:18 - 00:18:29:17
+不明
+We're going to need less people, right? Those three data points is where tracking and measurement play for a work front system and work front planning, you get that 10,000ft view. We focus a lot on something called exception reporting. It does not do any good to give you an Excel file with 150 campaigns and say, tell us how they're doing.
+
+00:18:29:22 - 00:18:49:19
+不明
+Well, you need to be able to do is focus on the one that isn't on target and what campaign planning or work from planning does for you is allow you to see those campaigns, but highlight specifically, what are the ones that I need to spend time on today, not the 15 that are going well. I need to know the one that's behind schedule and that's what that view gives you.
+
+00:18:49:24 - 00:19:10:12
+不明
+And then lastly, work front integrations. All of this data we talk about in work front needs to be married and joined to other tables. It can't exist by itself. So creating this solution creates the foundation to then integrate this tool and integrate this data into other systems as well.
+
+00:19:10:17 - 00:19:37:08
+不明
+So what does all look like in a real world example? Campaign briefs for data collection, intake and work front and brief reporting. How close are we to having this brief done? How many notes do we need? How many revisions do we have? Campaign kickoff. How are we taking all this data and actually getting it to people's hands to do the work, work front portfolios and programs?
+
+00:19:37:08 - 00:20:03:07
+不明
+That's what creates all of the architecture that makes it easy to use the system. I only need to see the things I need to see. And then into content execution. This is our review and approval. So all of that information now gets reviewed and put into whatever piece of content you're creating in that life cycle. And then lastly, that leads us to the, content tracking and measurement, Adobe Analytics and integrations to external reporting.
+
+00:20:03:12 - 00:20:31:27
+不明
+And that is one of the biggest gaps we see, not only at Omnicom but at every client. You buy all these tools, you buy all these toys, you get all this data, and then it sits and you don't do anything with it. And that is that is the death knell to trying to complete that ROI equation. Because as much as much use as you get out of these tools, if you're not able to pull that data out and to marry it with other systems, it does you no good.
+
+00:20:31:31 - 00:20:51:02
+不明
+So I'm going to talk a little bit about a real world example from a client that I worked on. And this is again a very high level view. I'm going to try to show you some of the example as I get into the tool as well. So the way that they were using this is they had campaign planners collecting all of their data and planning.
+
+00:20:51:07 - 00:21:11:08
+不明
+So the minute I have an idea, I start a new line item. This is the name of my campaign. This is what I want to do. This is when I want to do it. And I also want to tag Jamieson and ask him if he likes the name of it, but only when that's ready. Do I use work front integrations to trigger the request to what we call the bank the ERP system.
+
+00:21:11:13 - 00:21:28:25
+不明
+I want to launch a new campaign for a Adobe Summit, but I need to ask for that money. I need to request all of these things. I'm going to do all of this data I've collected. I'm going to request that from what we call the bank of the ERP system, that's going to automatically assign it to all the hierarchies.
+
+00:21:28:30 - 00:21:55:05
+不明
+One of the biggest challenges between financial reporting and work management reporting is it's not 1 to 1. We don't work in the same way that we do financial reporting. So instead of trying to fit work front into a financial reporting model, use integrations to actually map that into another system so people can actually focus on working the way they're supposed to, instead of having to try to report into some finance department they didn't know they were a part of.
+
+00:21:55:10 - 00:22:18:25
+不明
+Everyone's gone to the HR record and realized that they're part of some department with some number behind it. No one realizes why. That's the financial reporting that becomes so difficult to marry to the actual work. You have to get done. And then lastly, once they request that money and they see I've got an approved budget inside of work front planning, I am ready to share the world with my share of the campaign with the world.
+
+00:22:18:30 - 00:22:36:22
+不明
+They would trigger the creation of a work front project that then actually generates all the tasks needed. So if I'm a designer and Photoshop, I get a notification that I have a new task for a campaign and we're going to have a campaign kickoff and the ability to seamlessly move through these without having to have a license in each one.
+
+00:22:36:27 - 00:22:56:42
+不明
+So I don't have to go copy and paste data from one to the other. Took what used to be a 2 to 3 week timeframe for them to kick off a campaign into almost three days. Now, that sounds like a very fun statistic, and I'm happy to talk more about it later. But ultimately, they took on work front planning as one of the first customers.
+
+00:22:56:47 - 00:23:18:13
+不明
+They integrated it with one of the first ERP systems, and they were also a very good client of work front. They've used work front for almost six years. They have a very good foundation. So all those pieces came together for them to be successful, to cut that time down and to get campaigns out the door quicker. Okay. I'm going to show you an example of this.
+
+00:23:18:18 - 00:23:42:27
+不明
+I'll give you that. And while Rob is pulling this up and switching screens. This is extremely complementary to the demo that ended at the opening keynote where she was using workflow and planning. She was opening her campaign. She was seeing all the campaign details and then kicking off a project. So one of the things we talked about a lot about how pretty planning is, is this timeline view.
+
+00:23:42:32 - 00:24:02:04
+不明
+It's one of the things that sold a lot of my customers on work front, planning that ability at a very high level to know, what are we doing today? What are we going to do tomorrow, and where do we have problems? And this interface not only shows you that, but allows you to click into these as needed. So here's my adoption and growth mindset.
+
+00:24:02:09 - 00:24:25:54
+不明
+Here's my metadata that I'm capturing behind it. Here's my status I've currently requested budget for this item. I've gone and asked my bank, this is how much money I want. If only was that easy to ask for that much money, but it really is easy to ask for that much money in this, in the solution. And here's all of that metadata that we talked about that can be structured, that comes from a predefined set list.
+
+00:24:25:58 - 00:24:49:26
+不明
+So as an example in this table view what I'm going to do my lead point at Adobe Summit campaign when I want to choose the tier. This field pulls from a controlled taxonomy and another list within planning that if you know how to use Excel, you know how to use that has an easy integration point directly into snowflake.
+
+00:24:49:33 - 00:25:06:49
+不明
+So every time snowflake adds a new tier, it shows up here automatically. And that's the idea of saying I can copy and paste whatever I wanted to here. But it's structured with all the taxonomy management principles that we use with marketing, governance.
+
+00:25:06:54 - 00:25:28:53
+不明
+And as we go into a specific campaign, one of the newest features. In workflow, project creation, in one click, I can take all of this data that it might have taken me two weeks to collect, I might have had tons of meetings and I need to get people work tomorrow. They need to know that they have design work.
+
+00:25:28:53 - 00:26:02:38
+不明
+They have tasks. We have to have a kickoff. And usually that would mean me going out of the system, creating Excel, putting a bunch of things down, running it around people, making sure it works. But with the capacity management and resource management and you haven't work front in one click, I can generate a work front project. And immediately at the end of this you'll see a linked work front project based off a template of task that is already set up with resources.
+
+00:26:02:38 - 00:26:25:16
+不明
+With the amount of time it takes with the team members, I need and all of the project management best practices. And if you've used work front before, you know that converting a request to a project is the bane of most people's existence. It is the number one automation I spend time on. And that took one click. So again, back to how happy people are to do things.
+
+00:26:25:17 - 00:26:41:36
+不明
+It's directly correlated to how many clicks I have. All my project work ready to disseminate to all of my team members. Just like that. And I can easily navigate back to that same planning record.
+
+00:26:41:41 - 00:27:05:50
+不明
+If I can find the link, there it is. And I can see all the comments that might have been made. I can see all the metadata that was put in and any additional connections to a taxonomy that I need to know about. So all of these data points, deliverable types, regions, product lines, subsegments, those are all things that I can comment on.
+
+00:27:05:51 - 00:27:22:32
+不明
+I can say I don't understand this. Why do we have it as this subsegment. Or hey, can we add a new subsegment. Because I'm trying to do something new and I don't need to open a different window. I don't need to open another system. I have another login and it's all connected. The minute I make that change, it's reflected in work front planning.
+
+00:27:22:37 - 00:27:48:32
+不明
+It's reflected in work front workflow. And with all the automations and integrations we have running in the background, it immediately links up to those third party systems we do. We'll leave some time at the end for questions. But I do want to get back to the rest of the PowerPoint. Cool. So what you just saw there are some of these use cases and a little bit more with real examples in putting a campaign, capturing that data.
+
+00:27:48:32 - 00:28:07:50
+不明
+Turning to work from project that connect work records to planning records is the biggest game changer from a data standpoint. That becomes the most complicated part of work front. All of this different data you put into the system, and people don't know how to map it easily. How do I map it to snowflake? How do I map it to my tears?
+
+00:28:07:55 - 00:28:25:09
+不明
+Well, you solve there just by clicking into one column. I get a list of all of my different segments, all of my different regions, and if I have a question about them, I can click into that record and ask. And it's all tracked and all auditable. Every time someone changes one of those records, the integrations takes over and sends it out to a new system.
+
+00:28:25:13 - 00:28:43:28
+不明
+Every time someone comments on those records, we can send it out to a new system and with the approvals that go into planning as well. When you add a new record, it won't show up until you've approved it as well. So there's a lot of governance controls that are built around that. This channel, the content and channel objects into planning records.
+
+00:28:43:33 - 00:29:03:31
+不明
+I want to report on everything by specific channel. Well, everything has been tagged easily now. And I can create whatever report in view inside of planning. That shows me that we didn't go into all the filtering and all the views that you can create, but everybody can have their own custom view. If I view everything through the lens of, let's say, the European market, I just want to see everything tagged with Europe.
+
+00:29:03:36 - 00:29:32:10
+不明
+If Jamieson wants to see everything with us, his view just shows him us records. And lastly, the performance data, the planning records planning becomes the mapping to all these other systems. So you can say, how much time did we spend out on work front? And how effective was that time spent in the market? Whether it's an activity, a trade show, an event, a webinar, all of that rolls up into a planning record and people don't even have to do anything to make it happen.
+
+00:29:32:15 - 00:29:40:37
+不明
+All of these automations and integrations work in the background to link those records further.
+
+00:29:40:42 - 00:30:10:03
+不明
+Now, I want to talk a little bit about how we do this at Omnicom. We are undergoing something called Project Tie, and the first thing that I want to highlight is that almost anybody at Omnicom, and I know there's some people here with it, so hopefully this holds true. Can tell you they are aware of Project Tie. This is an undertaking of all of those tools that we just talked about to reinvent how Omnicom takes a 700 plus agency model and is able to measure that ROI.
+
+00:30:10:08 - 00:30:36:56
+不明
+So it's not just that we're trying to sell these to our clients, it's that we're drinking our own wine. I know people prefer Kool-Aid for wine, so, these are some of the biggest transformation goals that we have. Increase productivity, strengthen the foundation, increase control and transparency. And all these sound very nice and consultancy speak. But that increased control and transparency is probably one of the most vital pieces on that board.
+
+00:30:37:01 - 00:31:02:35
+不明
+At any time somebody can log into these systems and view campaign data, view content data, view performance data and you save yourself the meeting. You save yourself the email. You save yourself the travel that you would have to do because it's all in one place. Some of this actually came from our presentation last year. We did around project Tie, and I only want to point that out because it's not something we just put on a PowerPoint and we're not doing it anymore.
+
+00:31:02:40 - 00:31:26:30
+不明
+This is a year over year transformation that we're undertaking at Omnicom, and not all of our agencies are undertaking as well. Some of the people that presented last year, Cleve and Doctor Ali, they've talked about some of these, changes to the system and what we're doing. But again, I cannot highlight this enough. The resource and work management is the forgotten part of the content ROI equation.
+
+00:31:26:34 - 00:31:43:19
+不明
+Every CMO I know has little to no visibility into how much time it's taking them to create content, and that's not because they don't want to. They definitely want to. It's because they don't have the right system or solution in place to do it.
+
+00:31:43:24 - 00:32:02:00
+不明
+Okay. We're also working really closely in partnership with Omnicom and Lee point to maximize that ROI and also validate some new capabilities that we have coming in our roadmap. So the work on the roadmap has these strategic pillars have been really unchanged for a couple of years on purpose. But number two that I want to call out is unlocking capabilities.
+
+00:32:02:00 - 00:32:23:28
+不明
+Core for digital agencies. That doesn't mean that these capabilities I'm about to show you from a roadmap perspective are only for agencies. We see use cases in in-house in-house agencies, creative teams, marketing teams as well. But it's number two on our strategic pillars list. When we work with Omnicom and other agencies on this, we have three core areas that we're really trying to address.
+
+00:32:23:33 - 00:32:53:15
+不明
+The first is under financials. There are a lot of financial capabilities and work front today we're enhancing those dramatically so that Omnicom, at the scale of 700 agencies, can operate and have accurate financials. The second is resource management. Obviously, for agencies managing your resources and your people and your capacity is core to the business. So we're enhancing those capabilities as well to make sure that you have a view into who's working on what, who's planned in the future and what retainers or commitments do you have and who's aligned to those.
+
+00:32:53:20 - 00:33:17:02
+不明
+And the third is a happy grab bag of scalability enhancements. Again, Omnicom 700 agencies with 70 plus thousand employees. That's a lot of people using one instance of work front. But to enable that, we've got a lot of enhancements coming. And also I want to reiterate, Jamie's I, we used to work together, but we work together even closer now than we used to work at Adobe.
+
+00:33:17:02 - 00:33:42:04
+不明
+And that's because the feedback loop that Adobe has created for us allows us to go, that's not working. That's broken. Can we fix this? And, you know, you saw some of those in our instance that we're getting some of those features. But that partnership has really reiterated to us what they're willing to do to make these work for such a large, scalable agency, not just a one off shop, but a agency of 700 plus.
+
+00:33:42:09 - 00:33:58:28
+不明
+And I just want to kind of highlight that because every time we get on a call, there's that receptive feedback loop that we work with. Adobe on to improve these products so that they actually start to work for us. It's a ton of trust and a ton of transparency with a relationship. So a couple of things just to highlight.
+
+00:33:58:33 - 00:34:24:58
+不明
+Agencies need to view financial data. And we're bringing a lot of new capabilities to be able to do that natively within the work front application. So when you have rate cards configured, when you have location based rates on those job roles, when you have advanced assignments where you can see the cost rate and the billing rate of individual users who are working on a project, who can maybe assign a senior creative director or a creative director, you can see all those changes.
+
+00:34:25:03 - 00:34:46:47
+不明
+Now we have a new reporting capability that will be able to see all of that data across time in a very flexible way, so that you're not taking all that data out, putting it into Excel or Power BI, or doing it natively in the application. And we also plan to have additional capabilities where you can create your own, your own custom data points to layer into this.
+
+00:34:46:48 - 00:35:11:55
+不明
+So when you're thinking about utilization reporting, when you're thinking about how many tactics did I create on this project over the course of the entire campaign or the entire project? Some of that flexibility will be here. The second, and the name is still TBD on this, but we want to be able to enable agencies and customers to have the flexibility to use project resources.
+
+00:35:12:00 - 00:35:45:29
+不明
+It could be equipment, it could be non labor resources. That's a weird name. That's why we're workshopping it. But we want to be able to have for example a camera. If you have a certain rate that you charge to use a camera or any sort of VR headset or even an editing bay, be able to configure that and then book that resource on your project, just like you would have a person assigned to a task, and then have that resource have its own schedule be booked on a certain day, also impact the financials of that project and have it be extremely flexible and configurable.
+
+00:35:45:34 - 00:36:09:41
+不明
+We're not trying to replace Microsoft Outlook with the ability of meeting rooms here, but we're trying to extend the entire project's resources aside from just humans. And the third, on strategic resource management agencies sign retainers. They have scopes of work. There are contracts for certain bodies of work with clients. We know that there are resources attached to that.
+
+00:36:09:41 - 00:36:32:06
+不明
+There are rates attached to that. There's billings attached to that. So we have a new capability that we're calling top down staffing, where you can create a top down plan, a align a certain metric. Maybe that's a time frame or a dollar amount, and then add resources or add job role placeholders and be able to have a record attach so that you can see the full scope of that retainer.
+
+00:36:32:11 - 00:37:01:48
+不明
+And then eventually when you have projects that are being opened, could be ten projects, could be 100 projects across time. Bring all of that actual data into visualize the trifecta forecasted hours that we thought we were going to work on this retainer, the planned hours of the actual work that we're planning out in real time, and then the actual data, the actual hours from when people are working on those projects and visualize that in one UI.
+
+00:37:01:53 - 00:37:31:50
+不明
+So I'm sure you're probably thinking like, this sounds great. These are great UX mockups. These aren't mockups. This is real. It's real code. We've got a lot of development work that's already been done. We're going to continue working on the development in Q2. Q3 is when you're going to start seeing some of these capabilities materialize, and we're going to pace these out because we're also looking at the adoption curve of our customers and embracing all of these capabilities at once is a lot.
+
+00:37:31:55 - 00:37:52:51
+不明
+So Q3 we're going to focus on financials. Q4 it's going to be additional scalability enhancement that I talked about. And then the staffing plan capability. And then throughout the way, just like with our normal release cycle, we've got other capabilities that are going to be continuously released throughout the rest of 2025. And on. And if you stop by the Omnicom booth, I'll give you his personal cell phone.
+
+00:37:52:51 - 00:38:18:34
+不明
+So when the quarter comes and you don't have it. Yeah, I was going to plug coming to the Adobe booth because there are demos of some of these capabilities down there. But please don't call me. So I also have a QR code here. I mentioned an early access program. We are taking applicants for this early access, program where we're not sure when it's going to start.
+
+00:38:18:34 - 00:38:28:37
+不明
+It's going to start sometime in Lake Q2, early Q3 to get some early access to these capabilities and give us some feedback.
+
+00:38:28:42 - 00:38:49:21
+不明
+So we talked about Omnicom and Leap Point and Omnicom Company and our partnership we talked about and the way that Leap Point maximizes ROI for their customers using in this use case work front, planning work front and other integrations of third party systems. Then we also took a look at some of the new enhancements coming and work front.
+
+00:38:49:26 - 00:38:59:21
+不明
+Thanks for coming.
+
+00:38:59:25 - 00:39:00:31
+不明
+To.
+

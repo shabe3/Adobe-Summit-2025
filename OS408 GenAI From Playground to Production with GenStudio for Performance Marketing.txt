@@ -1,0 +1,176 @@
+00:00:00:05 - 00:00:28:26
+不明
+Manager at Adobe. Today I'm joined by my colleague Luis Macro, who's a senior Genii strategist. We're both on the product marketing team for Gen Studio for Performance marketing. And we're super excited to talk to you today about one of Adobe's newest products, launching last October, called Gen Studio for performance Marketing. In our session, we'll introduce a customer problem for you that was identified, and talk to you a little bit about how this new product works.
+
+00:00:28:26 - 00:00:57:15
+不明
+To solve that customer problem and meet our customer's needs. I'll then turn it over to Luis, who will walk you through some of the core use cases of Gen Studio for performance, marketing and finally, we'll close out with some change management best practices that we at Adobe have learned when incorporating generative AI into our content workflows. This is where we see generative AI coming in as a promise to transform how organizations scale content creation.
+
+00:00:57:18 - 00:01:27:16
+不明
+When we think about that five times growth in demand for content, we can see generative AI as a way to automate creation of content. Instead of making content one piece at a time. You can now generate multiple variations that not only can help meet your content demand, but can also help you experiment against each other. The second is time we just talked about how a single piece of content may take anywhere from 3 to 6 weeks to generate.
+
+00:01:27:18 - 00:01:52:02
+不明
+But with generative AI, you have the ability to generate content instantly using prompts that really help direct it in the context and objective that you're hoping to generate. The final piece is that cost. We mentioned on the last slide, that cost was made up of time and ad spend. And when you think about that together, that's where we get that 2 to $6000 per piece of content.
+
+00:01:52:05 - 00:02:30:03
+不明
+But now when we're able to generate content instantly, that becomes so much smaller to almost a marginal cost to generate a single piece of content, allowing you to ideate and experiment at a much faster rate. So to Adobe, we noticed this, right? We saw the industry problem of content demand. And with that we generated Adobe Gen Studio for performance marketing, which is a generative AI first content workflow application that is centered around creating and activating omnichannel content that's aligned with your campaigns.
+
+00:02:30:06 - 00:02:58:04
+不明
+But we didn't just build this content to solve that one industry need. Really, we wanted to focus on creating an application that would allow you to create on brand. So content that's aligned with your brand guidelines, your tone of voice, your key values. It's customized so your you can create content that's resonating with your target audiences, performant so that the content that you're generating is getting better and better each time.
+
+00:02:58:06 - 00:03:24:04
+不明
+And finally compliant. There's no point in creating content if it's not aligned with your compliance standards. And even better than that is that now Gen Studio for Performance Marketing services three main media channels. The first is paid social. The second email in the third banner and display. And there's so much more to come. And so we're really excited about the promise of this new product.
+
+00:03:24:07 - 00:03:47:08
+不明
+And with that, I'm going to turn it over to my colleague Luis Maycock, who's going to walk through some of the use cases for Gen Studio for performance marketing and how some of the companies that you probably have heard about are using them in finding success. All right, everyone, now that we introduced you to Gen Z for US marketing, we want to talk about the four main use cases that we have seen our customers have success with.
+
+00:03:47:10 - 00:04:10:24
+不明
+So we'll start by talking about the first use case we'll talk about is the ability to refresh and assemble content across multiple different channels, and a lot faster than you used to do before. Right. So at Adobe and Adobe has been using gen for performance marketing for, for a long time. And we have seen some really impressive results.
+
+00:04:10:24 - 00:04:37:09
+不明
+So for example, we have been able to now that we can create content a lot faster than we could before leveraging Gen Z, we've been able to create seasonal campaigns, which is something that we could not quite do before. So, for example, in one of the campaigns that we did, which was a fall campaign, we saw a 9% return on ad spend, because now we can do create campaigns, that are, you know, more, I would say, more topical.
+
+00:04:37:09 - 00:05:05:21
+不明
+Right. We can respond quicker to things that happen in the world, like the changing season, for example. Another thing that we've been able to do is we've been able to test at scale. We've been able to scale our testing and optimization. So algorithms for testing and optimization algorithms to optimize content delivery. Dave existed for a long time now, but we just have not had the ability to scale the content that those algorithms really need to be efficient.
+
+00:05:05:23 - 00:05:42:18
+不明
+But now with generally performance marketing, our marketers themselves can do this creation, right? With brand guidelines under the supervision of reviewers and approvers. But, you know, in a single pane of glass, they can create this content a lot faster and we can generate, variations to test them. In one of the tests that we've done for email, which was done for Max, we saw a almost a 60% increase in CTR, right, by deploying five different variations of the same email, testing them against each other, seeing the higher performing one, and, and deploying the, the highest performing one.
+
+00:05:42:21 - 00:06:12:24
+不明
+And then the other thing we've been able to do as well, we just refresh and reuse content. And again, because we've enabled and empowered our marketers themselves to create some of this content, we've been able to reduce the time to create this content from three weeks to three days. So now, instead of having marketers write creative briefs and send it to the studio team, our marketers are writing prompts in Gen SEO for performance marketing, and they send it to either the studio team or to our agency partners for review and approval.
+
+00:06:12:24 - 00:06:22:03
+不明
+So it's just been a lot more efficient. It's enabled us to really, create and use a lot more content.
+
+00:06:22:06 - 00:06:44:17
+不明
+Another use case that we have seen work out really well is now that we can create content much faster, we can also personalize this content to, you know, personas, products and different, segments. So this is an example from one of our retail customers. They were able to create ten different banner ads for their home page in two days.
+
+00:06:44:19 - 00:07:11:18
+不明
+Each of these, actually, each set of these banner ads, was targeted a different persona, and they had three different gamer personas. This this reduced the creation time by 60%. So creating a lot faster. And I think this could be reduced even further. And it drove a tempered a10x expansion of personalization, because before they could only create one version of this banner ad, now they were able to create ten different versions targeted at three different personas.
+
+00:07:11:18 - 00:07:37:17
+不明
+Right. And what we saw was pretty incredible in terms of result. Right? By deploying ten different variations targeted at different personas, they were able to see, you know, basically double the CTR. And the top performing variant of this test performed three times better than the previous one. So two acts better than the control. So it was pretty incredible to see the personalization effects here.
+
+00:07:37:20 - 00:07:59:15
+不明
+Another use case that we have seen very successfully is the ability to give our geo teams, the teams that are not in the United States, the ability to self-serve some of their own content. Historically, they have had to wait for our United States teams to give them content, and then they would work to translate that content and all of that.
+
+00:07:59:20 - 00:08:20:11
+不明
+But now and this is an example from our marketing team, our Japan marketing team. They're able to go into general for performance marketing prompt in Japanese and get the output in Japanese, cultural eyes, you know, they can create their own content. They don't have to wait for the United States to do that for them. Right. And so this has been a big unlock.
+
+00:08:20:11 - 00:08:42:24
+不明
+And they've been able to by doing that, by creating some of their own content, they're able to market more products, to more audiences. Right? They're not limited only to what, you know, the, the the, our ust you can provide them and then the, the fourth use case that we, had seeing success with is what we call a gen SEO inside.
+
+00:08:42:24 - 00:09:01:02
+不明
+So in Gen studio, what we do, one of the things that we do is we for and currently we have this for meta, and we will expand this to more channels, more performance marketing channels. So what we do is we will take every single asset that is in market, right. And we will analyze the features of this asset.
+
+00:09:01:02 - 00:09:26:05
+不明
+So for example these images that we see here. Right. What is the background color. The foreground color. What's the theme. What is what are the elements. What are the objects. What are the main keywords. Right. When it comes to copy, what is the voice and tone and all of that, we really analyze, the entire image, and then we correlate that to performance data, and then those insights can then be used to inform your next campaign.
+
+00:09:26:05 - 00:09:46:26
+不明
+Right. To inform testing to inform optimization. So really leveraging the power of this, Jen, AI analysis of these images to drive performance. So this is an example of a test that we did actually at Adobe. We looked at Gen Studio Insights, for our meta ads. And Jen Studio pointed out that the color black as a foreground was performing really well.
+
+00:09:46:26 - 00:10:07:03
+不明
+So we looked a little deeper into the data, and we realized that it's because it seemed to us that it's because it was it was it were ads that had product expressions and they had these little, these little representations of our product inside of them. So we thought, wow, this is interesting. Let's do a test. Right. Let's do a test where we have these, product expressions and the ones that we don't.
+
+00:10:07:03 - 00:10:30:20
+不明
+And we saw that actually the ones that doing this test, this AB test, we saw that the ones that had the perfect expressions, had a 40% higher revenue. Right. So they really are doing a good job at capturing those customers that are more interested in the product itself. Right? And not just in a pretty image. So that was a really interesting it came from Gen Studio Insights, and it drove, a significant amount of conversion for us.
+
+00:10:30:20 - 00:10:51:03
+不明
+So this so now we have a whole motion at Adobe that, you know, the creative optimization where we look at Gen Studio Insights, we see what it's telling us. It gives us ideas for things to test. So we will create new assets based on those insights, put them into market. And, you know, there's this sort of creative loop that has been formed.
+
+00:10:51:05 - 00:11:11:24
+不明
+So another thing we want to talk to you guys about is in terms of, how do organizations, can adopt and adapt to generative AI. Right. And here we're using the Adobe's own story, right, of which I was, glad to have been a part of. So, these are some of the lessons that we have learned that I want to talk to you guys about.
+
+00:11:11:24 - 00:11:34:09
+不明
+So I would say there's three main critical success factors in our opinion. So number one is you really need executive alignment and sponsorship. Number two, you have to prepare for this. And and there's some definitely work that you need to do. And you have to get ready. And then the second one, the third one is, you should adopt a phased approach to adoption.
+
+00:11:34:09 - 00:11:55:26
+不明
+And we'll talk about all of these three. So talking a little bit about, executive sponsorship at Adobe, we've been very lucky to have, you know, to have been supported in this transformation by our executives. Here. We have my former VP, Pat Brown, and who was very supportive of the transformation that we went at Adobe, in our marketing organization.
+
+00:11:55:28 - 00:12:17:24
+不明
+And when it comes to executive sponsorship, right, it's more than just allocating resources. Right. It's more than just saying, okay, go ahead and do it right. It's also about you have to become an active champion, right. You have to articulate this generative AI vision of how it can transform marketing operations. Right? How can it can make, everyone's lives easier, right?
+
+00:12:17:24 - 00:12:40:09
+不明
+Both for marketers but also for creatives. But also it has to it has to create, foster an environment, right? That is is willing to take risks and is also mindful of the learning curve that it requires. Right? I don't I don't think generative AI is like super complicated. For example, I don't think prompting is particularly difficult for marketers, given that they're used to writing a creative brief.
+
+00:12:40:09 - 00:13:02:26
+不明
+Right? I think writing a prompt is not that different than writing a creative brief, for example. But you do need to have leaders that, understand that it is a process, right? And that we need to to get to it. So in terms of this preparation, right. There's I think five main things that we have learned. So one is you need to prepare the right team and the right roles.
+
+00:13:02:26 - 00:13:24:28
+不明
+Right. At Adobe, what we did is we identified a particular team. It was our email team, our LCM team. And then we identified certain people that we felt like had the highest proclivity or excitement for generative art. Then we clearly defined these roles and responsibilities. Right? And we actually have another WIP. We have a white paper that we're going to talk about.
+
+00:13:24:29 - 00:13:43:19
+不明
+I'm going to show you guys at the end, but talks more about some of these roles and responsibilities. One of them, for example, is is a generative AI champion, right. It's someone in your organization or marketing organization that will like, has, you know, as a North starts to drive in this transformation, there's going to be some new processes that you have to establish, right?
+
+00:13:43:19 - 00:14:03:05
+不明
+One of the ones that we've established at Adobe is this sort of review and approval process that we have established. So now, you know, we kind of flipped the creation process in its head, where now the marketers start to creation and our creative team is reviewing and approving it. While before it was you know, the studio would start the creation and the marketer would review and approve.
+
+00:14:03:05 - 00:14:24:29
+不明
+So we basically flipped that on its head. One thing is, agency support, right? We definitely leveraged agents to support in these new workflows, to allow us to scale, and then finally, one thing that's very important, right? I think generative AI, if you adopt it in isolation, you're not going to be very successful. You need to integrate it into your current technology stack.
+
+00:14:24:29 - 00:14:43:10
+不明
+You need to integrate with your current process as it should not be adopt, adopt, adopted as like this. So thing that's just a novel thing that should be isolated. And then in terms of like a path to success. So this is the path that we took and which we recommend. It can definitely be adopt adopted to any company.
+
+00:14:43:10 - 00:15:09:26
+不明
+Right. But first of all, we would say identify generative AI and be like someone in your company that believes in generative AI, and can tell the story of, you know, augmenting creativity, augmenting efficiency. Then what we recommend is and what we did is find a team of marketers and, and that are that, you know, are really good at their jobs and are like ready for some transformation in the way they operate.
+
+00:15:09:28 - 00:15:34:03
+不明
+Then number three is find the team of creatives right in your organization and your studio team. Maybe you and your agency partners that really understand your brand really well, who are excited about, generative AI and can help you translate those, your brand identity basically into generative AI guidelines. And then you should start, what we did, which is basically pilots, right?
+
+00:15:34:03 - 00:16:00:05
+不明
+Let's, let's, let's partner marketers and creatives using a tool like generative performance marketing. And let's establish a process where we're going to run some pilots, going to run campaigns leveraging generative AI. Right. And we're going to go through this process of review and approval. And we're going to see how things go. And I bet you will be successful at this, a part of this number five is training programs, right?
+
+00:16:00:08 - 00:16:22:14
+不明
+We've had to train our marketers on prompting. For example, our creative team put together some trainings to help our marketers ident, understand our brand identity and our brand visuals. Right. And it's been really incredible to see, you know, our marketers now understand the brand really well. Like I, for example, I can I can look at a piece of content today and and be like, oh wow.
+
+00:16:22:14 - 00:16:41:03
+不明
+Yeah, this is on brand or this is on a brand like tank. Thanks to some of these trends that we've had to develop. Number six obviously monitor performance, right. We want to make sure that this content that we're putting in to market performs well. It's on par. It has high quality. So always were monitoring this always monitoring how our employees are feeling.
+
+00:16:41:03 - 00:17:03:04
+不明
+Right. How do they feel about this transformation. And then number seven, which is, you know, once you've established this initial team, you could think of them as almost like a center of excellence. Right. And you can from them, you can sort of expand, this success towards the rest of your organization. So that's it. Thank you very much for watching our session.
+
+00:17:03:07 - 00:17:05:05
+不明
+And I hope you enjoyed it. Thank you.
+

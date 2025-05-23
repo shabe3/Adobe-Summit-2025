@@ -1,0 +1,268 @@
+00:00:01:17 - 00:00:17:17
+不明
+Hello. Hi, everyone. All right. I'm going to go ahead and we're going to get started. We wanted to start with a thank you. The first thank you is of course, thank you for being an Adobe customer. Our second thank you is thank you for coming to summit. We realize it is a great feat to take time out of your workday and from your family live.
+
+00:00:17:18 - 00:00:40:10
+不明
+So we appreciate you joining us here at summit and at our last. Thank you is thank you so much for joining our session. We really appreciate having you guys here today. Yes, thank you. And thank you for braving it at 230 on a Wednesday in the middle of this conference. I hope you have caffeine in you. I am not above bribing you guys, so if you need to stay, come on later and then we'll talk about how I can get you some drinks later.
+
+00:00:40:15 - 00:01:06:38
+不明
+But also thank you to the workday team that's here for letting me represent our story and share this, with the broader audience. And I hope I do it justice. But you can ask me questions or the entire front row, if you have any. At the end of the session, and maybe as an extra incentive for questions, our special guest, Sean, has promised that he will sing for us because he is a singer and he's going to sing journey for us.
+
+00:01:06:47 - 00:01:33:48
+不明
+So if you stick around for questions and ask questions, Sean's going to say, and I need to see that. So, okay. My name is Susan Douglas, and I'm a principal strategist with Adobe's Digital Strategy Group. I work in kind of an internal consulting team within Adobe, and I'm spending O'Callahan. I have the pleasure of leading the omnichannel and the audience team, and I'm going to have a not so secret special guest join me in just a little bit.
+
+00:01:33:52 - 00:01:55:19
+不明
+Sean leads up our audience, Tam, and maybe give you a sneak peek under the hood about how we make the technology. We're going to talk about work. Awesome. Okay. So we're going to start at the very top. And if you joined the keynotes earlier today, you saw I met talk about full lifecycle marketing and B2B. We saw this quote where I saw this quote when I was doing some research earlier this year from Emma, from workday.
+
+00:01:55:24 - 00:02:14:50
+不明
+And she's talking about awareness at the very, very top of the funnel or the lifecycle. So even anonymous users, if they're coming to the website, when Shantanu was talking to the CEO of Coke yesterday, he was talking about how they're building brand awareness, both with personalization for people that are engaged with the brand, but also meeting people where they're at with events and whatnot.
+
+00:02:14:55 - 00:02:43:27
+不明
+And increasingly, that awareness, that brand awareness is becoming more and more important for B2B companies. And that's because buyers are selecting products that they already know when they're in that buying stage. So if we think about the demand that we've been focused on as B2B markers for the last couple of years, we want to really level that up into that research phase where people are anonymous, they're reading our content, they're going to G2, they're talking to their peers because that's where decisions are made, right?
+
+00:02:43:29 - 00:03:13:17
+不明
+That's where buying groups are formed. That's where short lists are created. And increasingly, that's also where buying decisions are made. And when they're engaging with you, you're more validating a choice that that company has already made. But we know as B2B marketers that the complexity within the B2B cycle is getting pretty big, right? Even more and more, if you've seen some of Adobe's literature on content supply chain, the the amount of content that we have to create a buying group of cross-functional team members, right.
+
+00:03:13:18 - 00:03:32:17
+不明
+Being able to create that content for all of those different team members, the data touchpoints that channels all of that increases, the complexity increases. But we have to do a great job security, but increases what we have to do to be able to meet our customers where they're at and drive forward demand for our products and our services.
+
+00:03:32:22 - 00:03:51:46
+不明
+When we look at Adobe's own data, we see that there is an average sales cycle with our market. Our users have around 135 days. I don't know, for some of you, your sales cycles could be 3 or 5 years. But really, when we look kind of holistically across our customer base, we're seeing that sales cycles are increasing across the board.
+
+00:03:51:51 - 00:04:15:02
+不明
+And oftentimes those sales cycles that are increasing are because we're not creating relevant experiences for those cross-functional team members. So engage stages. You're over year have increased in length and duration. Opportunities have increased in length of duration. And when we look at benchmarking of customer experience on websites, what we see is users of your products or solutions have a great experience.
+
+00:04:15:07 - 00:04:42:46
+不明
+But as those cross-functional folks that live in that buying group that maybe have a less relevant experience, so the people that are influencing that deal, or even the executives that are actually making that final buying decision or the final financial decision. So thinking about those cross-functional teams and who is in your buying group is becoming increasingly important. Being able to identify them, understand what their role is and create the content and the experience that's relevant to them.
+
+00:04:42:47 - 00:05:05:31
+不明
+That's everyone from the developer who is going to be standing it up to the procurement person. That ultimately is going to be figuring out whether or not the company is going to get the return on investment that they need. And when we look at buyer group orchestration, it's really all of those individual journeys grouped together to orchestrate a journeys that drive that account forward and drive that opportunity forward.
+
+00:05:05:35 - 00:05:31:01
+不明
+And the data and the signals in between those journeys where we can start to really create that momentum, create those relevant experiences for those cross-functional teams where they're feeding off of each other. So I talk about what to do, but I and it's going to tell us how to do it. Lovely. Thank you. So for those of you unfamiliar with workday, we are predominantly known as an HR and finance software company.
+
+00:05:31:13 - 00:05:49:07
+不明
+The story is a little bit bigger than that. We've been on the growth journey for quite a while now. We debuted on the fortune 500 list, last year and just last week celebrated our 20th birthday. It feels good to be young, at least in that way. As you can see, we've been on a massive growth journey.
+
+00:05:49:09 - 00:06:15:57
+不明
+We have about 20,000 employees and about 11,000 customers. And over the course of time, it's become really important for us to start matching sales and letting us meet the business where it's headed. That's how Customer Growth Engine was born. We had a need to be able to help accelerate these buying journeys, create higher quality leads. So to give you an idea, over the past year, we had about 4 million interactions that were driven by marketing.
+
+00:06:16:02 - 00:06:36:42
+不明
+Imagine you could harness all of these interactions, understand who they are, accelerate their buying journey, create really amazing leads, send them over to sales, got it converted and have awesome revenue generated. We don't get a commission yet, but that's my goal eventually. So I'm going to try to talk you through how we did what we did and why we're moving towards what we wanted to move to.
+
+00:06:36:43 - 00:07:12:02
+不明
+So we wanted to move away from being predominantly human. Interaction led sales having to do a lot of that heavy list lifting, qualifying, having to do like custom solutions to a world where it was more digitally and interactive. We could let users self qualify themselves and we could have inbound marketing. I know have used that term in a while or people haven't, but inbound users come in and talk to us and tell us where they're in their journey, and then take that back to sales and talk about qualified leaves that we've generated, and have packaged solutions that are configurable to do it.
+
+00:07:12:07 - 00:07:32:26
+不明
+So it's all sounds great, but we needed a pilot use case to do this. And a couple of years ago we launched our product called Adobe, Adobe Workday Adaptive Planning. There's A's in there. And essentially what this let us do is it was a product we could sell standalone, meaning we didn't really have to disrupt the rest of the business in order to sell our core business.
+
+00:07:32:41 - 00:07:54:22
+不明
+We had a little area, a playground to say, to be able to start experimenting and creating this experience that was predominantly digitally led. So that's where we started our journey with planning. There's three main areas, and I know when you're doing massive transformation, you can start in a million ways, but there are three main impact areas that we decided were the areas we wanted to focus on.
+
+00:07:54:26 - 00:08:15:37
+不明
+One was customer intelligence. So how do you take all that data? How do you understand who the users are, whether they're anonymous are known to us where they're in their journey? Are they willing to purchase? Are they even ready to purchase and pull all that data together? The second scoring models, everybody has scoring models. They might be slightly rigged towards the mql process.
+
+00:08:15:42 - 00:08:38:29
+不明
+Not as much trying to get qualified sales leads that sales will actually accept. So we wanted to work with our data science partners with our teams to help us understand how we can get scoring models that not only inform marketing and help us create lots of mql, but quality Amc+ and how we can get those driven over. And last, and I'm very biased to this area journey orchestration.
+
+00:08:38:34 - 00:08:58:09
+不明
+So how do we then take all of this data? How do we start informing those scoring models, and how do we start orchestrating journeys to create these interactions so that we can accelerate that buying process? So since I'm biased, obviously I'm going to start in that area. So let's talk about the workday planning journey that we had executed.
+
+00:08:58:14 - 00:09:23:29
+不明
+There's one issue with the slide, though. The lines I think are off. And I the first question I get is what is the difference between omnichannel and multi-channel? And those lines, my friends, are the difference. You can siloed and activate in each of the channels, but each of the channels are not talking to each other. So something someone does in email might not really show up or you might not have the right data for the right ad to show up and change.
+
+00:09:23:33 - 00:09:48:45
+不明
+So we changed our strategy. Essentially what we do is we go stage by stage. We create three audience segments. And what we're caring about is are you the right person or the right account, and where are you in that buying cycle? And then leverage each of the channels to support that cycle. So now you're able to meet your users where they are, not where you have dollars or where you want to be able to get them out.
+
+00:09:48:50 - 00:10:07:37
+不明
+So that's the fundamental difference. There is a lot of data and technology that goes into making this happen. Spoiler alert we use Adobe to do quite a lot of this, and I'll have Sean come up in just a second and talk about it. But that is the baseline journey that was created just to start understanding Kili increase lead gen.
+
+00:10:07:52 - 00:10:39:22
+不明
+And can we create a buyer process that helps accelerate said journey? Then the digital team came up with four digital experiences we wanted to work on. We essentially said, what are the content gaps? But it wasn't just about content. It was about understanding how we can get prospects and buyers to self qualify themselves. So there are four areas that were created the maturity assessment, the value calculator, a pricing page and an RFP template.
+
+00:10:39:27 - 00:11:01:08
+不明
+Obviously a pretty heavy lift, but each of these areas we thought would give value to our customers, but also gave us value back when they interacted with them. So that we could influence not just the journey, but also that scoring model that I talked about earlier. Help all of that be interconnected so that we can better start understanding how these leads and accounts are getting qualified.
+
+00:11:01:13 - 00:11:18:17
+不明
+So you're like, this is all great. How do you guys use Adobe to make all of this possible? So, Sean, you wanna help me out here? Talk about how this happens. I'll come back and do that in a second. So go back to.
+
+00:11:18:22 - 00:11:44:18
+不明
+So this is a high level overview about of how Adobe Experience Cloud powers customer growth engine and the inception of this process that you see is the when we started to use Adobe Audience Manager, which was years ago. And it is and was a great platform that we are using. And we started using it as the centralized audience building platform for collecting behavioral data.
+
+00:11:44:21 - 00:12:12:23
+不明
+Users that come on site. Third party search data, which within Adobe's marketplace, we're able to access third party data to purchase and layer later on with our first party data. We had identity resolution platforms that where we onboarded, specific, PII data to transform those to device based, data sets so that we can utilize them within audience manager, as well as a third party demographic and thermographic, data that is available within marketplace.
+
+00:12:12:28 - 00:12:39:04
+不明
+And, you know, at the time when we were using this, it's a great platform at an anonymous device based level. But what really kind of shook up the digital advertising industry is the announcement of, the deprecation of third party cookies. And that led us to searching for solutions for the future to, basically, fool proof ourselves from the third party cookies going away.
+
+00:12:39:09 - 00:13:05:18
+不明
+That's where we introduced, real time CDP. And we saw the power of real time CDP. We onboarded it taking similar data sources of on site visits. First party search for, certain topics that we have at an account level which are not within our database, our CRM that is uploaded, from our data lake directly into CDP, and the demographic and thermographic data that we collect on a first party basis from form submits.
+
+00:13:05:22 - 00:13:26:03
+不明
+And we saw the true power of this being within the known identity space. And when we set this up, we set it up as a CDP, potentially replacing audience manager. But as we are familiar, the third party cookies going away, the date kept getting pushed back. So we were able to use these two platforms in tandem together.
+
+00:13:26:03 - 00:13:45:03
+不明
+And we found the complemented each other so well because at the very top of the funnel, you know, you have your unknown, users that you, don't necessarily know yet which the third party perspective comes into play. And at the top of the funnel, we target them and try to push them to reveal themselves by form submits.
+
+00:13:45:07 - 00:14:21:24
+不明
+And once they do become into like a known state, that's where CDP takes over. And now we're actually targeting them deterministically within these platforms, because we know their specific data and how to target them. And through the use of both of these platforms, it's really allowed us to create high accuracy audiences utilizing that high fidelity data points for smarter and efficient targeting, powered by known data, as well as build effective, scalable audiences through the use of third party data sets that we can purchase at an unknown state, which really enhance our marketing strategies to target known and unknown data.
+
+00:14:21:29 - 00:14:43:07
+不明
+Yep, and as much credit, Sean, as I would like to take for coming up with this incredible strategy on our own, we kind of ended up finding our ways here because of the cookie list or now the non cookie loss world. So talking of transformation, sometimes you plan things out and sometimes you end up where they are. So that's the point is what we ended up actually getting is the best of both worlds.
+
+00:14:43:09 - 00:14:59:20
+不明
+Understanding both anonymously who our users are and accounts are kind of going back to what Susan is saying. Like the research stage starts way before you reveal yourself. I want to be able to find you where you are. And so that's what this enables. So that journey slide I showed you guys earlier that is all powered by this and how this works.
+
+00:14:59:20 - 00:15:19:36
+不明
+I'm going to go one step back and talk about the impact that this all drove. So essentially the digital experiences that we connected helped us increase Mql response rate. So we tracked our marketing box. We did really well. So they went up 74% year over year, our sales reject rate. So not only are we sending over leads, but sales actually kind of like them.
+
+00:15:19:36 - 00:15:38:26
+不明
+That kind of rarely happens. So that went down to 3% from 7%. Of course the goal is to get a lot closer to that 0%. And we will be forever in that endeavor. But the goal was, look, let's start to get, some real feedback from sales, and I'll talk about how that's going to come into play in just a little bit.
+
+00:15:38:31 - 00:16:03:36
+不明
+And our S-1 unit. So our opportunities created by sales for this particular product rose 107% year over year. So massive impact. It really, really worked. What are we doing now? Well, we're on a journey just like workday and our customers are. And our initiative is not going anywhere. We get to expand this pilot experience all across the rest of our business.
+
+00:16:03:36 - 00:16:22:39
+不明
+Now, as you can imagine, if you're digitally influenced, you want to go into a high volume, highly gen situation. That's where we see this going across all of our products, across all of our prospects and customers that requires us to focus on these three areas and double down all the more. So what we've done so far is set the foundation to what Sean was saying.
+
+00:16:22:39 - 00:16:46:24
+不明
+The customer intelligence engine connect all your first second and third party data together. Understand that three and 60 view of your customers. But what does that future state look like? I don't know, maybe there's an AI audience agent that could help with some of this stuff that was just launched. Or look like models are trying to understand what is what are other data domains, what does it look like in a mirror and the rest of the regions where your business exists.
+
+00:16:46:28 - 00:17:08:00
+不明
+So that's the next step of what we got to do in the scoring model situation. Same thing. We built something from scratch. We learned we created experiences that we're feeding it, but what else can we do? Can we add AI to it? Can we understand how these scoring model can help influence? And I promise you, it's going to look different in every product and across different customers and prospects that you have.
+
+00:17:08:14 - 00:17:29:32
+不明
+So will we be adjusting it? You bet. The other piece scoring models cannot just be lead. It's lead and account level. And hint that kind of goes into our story as well. So going into journey orchestration, that journey that I showed you, we don't see it going anywhere. It's still exist. You still want to be able to talk to your your broader, wider customers.
+
+00:17:29:36 - 00:17:47:29
+不明
+But we also do want to start stepping into buying groups and understanding accounts. I don't know, ones that maybe showed high interest and pulled them out of a generic journey and put them into a more accelerated journey so that we can get them further qualified. So that's where we see, agile and some of the other elements working.
+
+00:17:47:34 - 00:18:05:03
+不明
+Sean, you want to give them a sneak peek of. Sure, our tech stack of how we see that working. Yeah. So obviously we still have CDP in this perspective, which is still going to service the same way at a profile level, as well as an account level for building audiences. Where we're taking this for the next step is Adobe Journey Optimizer.
+
+00:18:05:08 - 00:18:25:49
+不明
+And you can see there's various data sets that we, we have that are specialized within Adobe Audience, within, Adobe Journey Optimizer. What we're we're adding journey interactions as well as targeting at the buying group level. And creating those buying groups based off of the demographic and thermographic information that we have and our back end data.
+
+00:18:25:54 - 00:18:46:07
+不明
+So now we're really building out a journey for these individuals to say, if there is a VP that needs a piece of content, there's a trigger based orchestration that that happens when they consume it, then maybe the manager that's deep into the platform needs a piece of content that's specific to them. They consume that, the next trigger happens and and so forth.
+
+00:18:46:08 - 00:19:16:23
+不明
+And at the very end, you have all of your necessary individuals that are in the buying groups that have consumed the content that they needed to make a decision. And that's really where the centralized decision making delivers for Adobe Journey Optimizer, dynamically personalizing offers, from, you know, a centralized content library. And that's really where we see the power of these two platforms working together with audience building from, real time CDP as well as the journey orchestration piece from Adobe Journey Optimizer.
+
+00:19:16:28 - 00:19:43:09
+不明
+Pretty cool. Thank you. All right. So I wanted to touch on a couple of best practices since you lead the whole customer intelligence. Do you have some tips? Yeah. So first you want to identify the specific business goals that the integration aims to achieve. When we're talking about targeting users, what is the goal of the campaign. And based on the integration and the technical aspects of it, does it align with the goals of the campaign?
+
+00:19:43:14 - 00:20:02:22
+不明
+Is the integration real time, or is there a lag within the data that you're going to get? And if there is, what does that do to the message that you're trying to to to deliver to the customer? So there's a lot of different nuanced pieces that you need to take into consideration when exploring new integrations and third party vendors that are going to enhance your data.
+
+00:20:02:27 - 00:20:25:00
+不明
+Also aligning the integration efforts with the overall business strategies with marketing and sales, there's nothing better than having marketing and sales, you know, work together because there's alignment there. It's easier for audience builders to understand what the what the end goal is to build that necessary audience. Since we do know what Salesforce is expecting out of a lead or a mql.
+
+00:20:25:05 - 00:20:51:44
+不明
+So that it's easier for us to get Mql to, the sales individuals that are more qualified. And, you know, internally, through this process, we've enabled scalability. We've facilitated and prioritize the integration of more data sources, and allow the use of previously inaccessible data sources. So working together, across like organizations to get a better understanding of like, what first party data do you have that I may not know of?
+
+00:20:51:58 - 00:21:12:30
+不明
+And how can we actually get that data back into CDP so we can start using it to make a more robust profile, with within audience building and CDP? Perfect. I am no expert on lead scoring, but I did talk to our expert, lead scoring at workday and got you guys some tips on here. So essentially the idea was to define and develop the scoring model.
+
+00:21:12:30 - 00:21:35:28
+不明
+Again, with sales and marketing in place, a lot of models can be biased just to doing mql or just supporting sales. This one, I think the advice is to bring it two together. We also used both explicit implicit and intent data. Like I said, I'm not the genius, but the person who is specified different signals that you can start to pull in into your scoring model so they don't necessarily have to go fill out a form.
+
+00:21:35:28 - 00:21:52:33
+不明
+There's other signals we could push. There's behavioral stuff. There's things they do on the web. So it's it's a mix of all of those data and the different weightage you create for them. For us to be able to create these scoring models. And then of course, they leveraged, a lot of technology on, on the foundation of this as well.
+
+00:21:52:33 - 00:22:16:48
+不明
+So that includes Databricks, which is the platform that we use in order for us to create our internal scoring model. We are obviously in the future thinking about also exploring CDP and the predictive models we have there as well, merging to maybe create a mega model, some sort that can help us on this endeavor. And then lastly, those little contexts that I talked about, we call those aggregators high value, responses.
+
+00:22:16:48 - 00:22:38:40
+不明
+How do you connect things that we're identifying and pulling into the model so that we can influence it? I call it journey rigging, but the idea is to say, can you understand what you're learning from the users in the accounts, and can you match them where they need to be? Journey orchestrations. I like to call myself a troublemaker, so break down any data silos that you have, especially in channel.
+
+00:22:38:45 - 00:22:54:59
+不明
+A lot of the strategy that we leverage is centralized audiences. So take all the the intelligence that you have. Your first party, your third party, pull it all together into the CDP or a, we push it to the end channels and then let the N channels do what it does best, take the data that that has to.
+
+00:22:54:59 - 00:23:14:29
+不明
+But this way you're incorporating all of the data rather than having each of those channels, individually work together. And then align these strategies and understand their impact across each of the touchpoints. So when I had first started doing journeys in general, we were picking up content and saying the same content needs to show up in every single channel.
+
+00:23:14:34 - 00:23:29:47
+不明
+And that's just going to fix it. That's how we're going to be doing journeys. What we learn is some channels do better or some channels help you at the top of the funnel. Other come in at the middle. Some, like our customers, love engaging with us on email. Others, like prospects, would never open an email. I could not get them to do it fast enough.
+
+00:23:30:02 - 00:23:55:22
+不明
+So it's understanding what channel you need to use and optimizing this journey along the side, which is that last point. Their journey work never, ever ends, especially if you want to get AI involved. I does what I learned and that's the point. The more you have, the longer you have these journeys in market, the more learnings you have both as individuals, as a marketers that are helping optimize these journeys.
+
+00:23:55:32 - 00:24:21:43
+不明
+But also now imagine the power of AI building on top of that. So what's next? We think AI and orchestration is the future of creating growth engines. The B2B journey is evolving, but it's coming down to data, which is something I love about being a marketer in this time and age. It's bringing the arts and science together to be able to orchestrate and create these journeys and create some really smart decisioning, precision at scale.
+
+00:24:21:48 - 00:24:43:02
+不明
+This is what we've been talking about and personalization at scale. So where can you leverage technology like AGL or technology like CDP to help influence some of these things, to help personalize at the right moment, to the right users, in the right accounts. And how can you facilitate facilitate that experience? And lastly, nothing happens without a team.
+
+00:24:43:07 - 00:25:08:00
+不明
+And this effort took such a massive transformation on our side. There is only a fraction of people sitting here that are part of this. There's such a huge cross-functional team that backs up all of this. So thank you again for letting me share it. But it's important to get your tribe together and get the right Buy-In, because they're the ones that will help you create the impact that you need.
+
+00:25:08:05 - 00:25:08:28
+不明
+To.
+

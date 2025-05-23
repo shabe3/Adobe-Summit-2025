@@ -1,0 +1,632 @@
+00:00:00:01 - 00:00:29:33
+不明
+Coming by. Welcome to, to our session here. We're going to kind of get a little bit, technical in this session today and, take you through some developer tips and tricks, focusing on scaling creative asset pipelines, using, of course, generative AI capabilities. We've been talking about that for a couple days now and, take you through some, some automation, some, some workflow automation, looking to essentially show you how, some of the sessions you've seen so far are put together, including some awesome features.
+
+00:00:29:33 - 00:00:49:45
+不明
+We saw the keynote. So we're going to take you through, through the back end pipelines that make all of that possible. So my name is Guillaume Clément. GE for short. I'm a multi solutions architect on the Firefly Enterprise team, and I'm joined with Marcel Marcel Boucher. So I'm also a part of the Firefly Solution acceleration team.
+
+00:00:49:49 - 00:01:11:27
+不明
+Been at Adobe 28 years. So that's why my my hair is white. Just trying to learn all the tech and keep up to speed. So, yeah, we're going to, share some of the tips and tricks that we've been that we've basically learned in the last 12 to 18 months, implementing Firefly enterprise solutions for our customers and basically the insights that we're seeing.
+
+00:01:11:27 - 00:01:42:37
+不明
+So what we want to do is share with you kind of the stuff that we've learned, building out POCs and demos last, like I said, last 12 to 18 months. Awesome. All right. So one of the things that we have heard consistently, right, is that creatives don't have time to be creatives. So what they're doing is they're spending a lot of time updating tasks, doing repetitive work and, spending a lot of time just doing the kind of manual stuff, to be able to feed the content marketing machine.
+
+00:01:42:37 - 00:02:09:49
+不明
+Right. So we hear a lot about the explosion of requirements of content and being able to deliver personalization at scale for enterprises. A lot of that burden gets put on the shoulders of the creative teams that they need to deliver that content, and also need to be part of that process. So creatives only spend about 29% of their day on on truly creative tasks, and we want them to spend more time, do more creative stuff.
+
+00:02:09:54 - 00:02:32:13
+不明
+If there's one thing that generative AI cannot replace is human creativity. So what we want is we want those creatives to be able to focus on that and not on that repetitive work. And this image, as I said, I've been at Adobe for for quite a few years. We've used this image over and over again. So you may have seen this in presentations, from Adobe.
+
+00:02:32:13 - 00:03:02:53
+不明
+And ultimately it resonates. It's true. Right? You have all of these teams that have been put together over time to create content for organizations. And ultimately it becomes this kind of spaghetti of these different, these different individuals that work together, that use different systems to collaborate different repositories. There's no single source of truth. So ultimately you have this zoo of content that you need to try to wrestle to, to be able to deliver personalization at scale.
+
+00:03:02:58 - 00:03:29:01
+不明
+So today's focus we're going to be focusing on is all the way from mockups to delivery. Right. So how can we streamline and optimize that process and ultimately break down the silos so that the teams can work together and they can collaborate using the same assets, not having to recreate and use the famous file names final, final, final and draft final one, or whatever you want to call your naming conventions.
+
+00:03:29:06 - 00:03:47:33
+不明
+How do we get to a point where there's a single source of truth? Creatives are still in control. They define the brand, the layout, the look and feel. But how can we produce content at scale with humans in the loop? To be able to make sure that the content that is generated is on brand? Absolutely. Well, I'll add one thing here.
+
+00:03:47:47 - 00:04:18:16
+不明
+One of the biggest challenges that we see when we're working with organizations and transforming these solutions, frankly, is change management. There is a lot of change required to enable that collaboration across teams and to make all of this automation and implementation of these generative capabilities possible. So that's why we want to show you this image here and spend some time talking about where we're going to focus today to take you through where we have, opportunities to enable collaboration and automation to to make these, these processes slightly more efficient.
+
+00:04:18:21 - 00:04:42:25
+不明
+Awesome. With that, we recognize that every organization's journey is going to be different. There's many different stages of adoption that we're dealing with, when, when we're adopting new technology in general. But of course, AI being such a disruptive technology, we have to understand how to take a phased approach to our to our journey or our journey or our implementation of that technology.
+
+00:04:42:30 - 00:05:06:09
+不明
+So in the early stages, we have a lot of customers that are exploring with tools, creative tools that are, you know, frankly, all over the web. And we're trying new features out. We're using, we're using these tools manually. And, in a 1 to 1 sort of silo, we normally see workflows that are fairly manual. We're essentially taking data from one platform to the other, and we're experimenting with these features.
+
+00:05:06:14 - 00:05:27:32
+不明
+The next stage in our journey is using, is accelerating that in an assisted fashion. And so here we're still relying on some of these tools and manual workflows to put them together. But we are able to achieve some great creative workflows by combining these capabilities together. As we progress, though, we see that repeatability becomes an issue.
+
+00:05:27:32 - 00:05:59:04
+不明
+And so we're able to continue using these tools manually. But of course we're not able to scale them. And so in the repeatable stage we start thinking about the optimizations we have, with programmatic automation. And so that's what we're here to really to talk about today, talk about these, automated pipelines, essentially the workflows we're going to take you through, of how we use each individual generative and creative feature, putting them together in order to take, our content and our assets from ideation all the way through to activation.
+
+00:05:59:09 - 00:06:20:15
+不明
+Lastly, we're sort of talking about, some, some of the latest and greatest features. We saw a nail on stage yesterday showing us, our agent capabilities. And so we're now starting to see a transformation towards intelligent workflows, where we're able to use agent or multi-agent workflows to bring these capabilities together, in a way that requires a lot less intervention.
+
+00:06:20:27 - 00:06:39:33
+不明
+And so, it's important to, to recognize where we are in those journeys. Not every customer is going to start at the same stage. And frankly, not everybody is going to need to get to the same stage at the same time. And so what we're here to talk again about today is, is taking you through, at the very least, a programmatic approach and seeing how these capabilities can be, can be put together.
+
+00:06:39:37 - 00:06:59:13
+不明
+Yeah, actually a poll for people in the room like who here is on kind of like the explorative and assisted area where you're you're using AI or AI capabilities, but in a manual fashion. Right. So a good chunk of people and then repeatable and programmatic like actually to that next level where you're trying to do automation and those kinds of things a little bit less.
+
+00:06:59:13 - 00:07:14:13
+不明
+Right. And then as we get to intelligent, anybody kind of feel like they're past, we figured out automation. Now we're just going next level. Yeah. Exactly. Right. So that's that's the experience that we're getting with our customers. Yeah.
+
+00:07:14:18 - 00:07:34:31
+不明
+Great. So here we're going to take you through three key stages. We were showing you the great diagram here earlier. But we're going to take you through three key stages. In our session today we're going to talk about creation and the importance of creating content and also templates that are optimized for automation. It's funny to think about that.
+
+00:07:34:31 - 00:08:00:07
+不明
+We talk about creativity as being sort of a, an agile, open environment. But in this case, we are leveraging specific features in the creation stage that will help us automate. And so that's that's a key point we're going to want to talk about today as we take you through, these features. We're then going to talk about automation and enabling the collaboration across not only individuals but within with individuals and systems.
+
+00:08:00:07 - 00:08:18:59
+不明
+And so how do users and creative folks and, folks on our team, how do they interact with this, these, programmatic capabilities to leverage our generative and creative services? So we're we're going to show you some of those, those examples today. And then lastly we're going to talk about activation. How do we take this content, these assets.
+
+00:08:19:13 - 00:08:41:09
+不明
+How do we push them all the way through our activation platforms and perhaps even our activation channels, such as social or web content or all of the omnichannel, asset formats that we may want to be publishing, then I kind of like the, the middle image key that that's on the slide, because ultimately, what we need to recognize is we're bringing creatives and technologists together.
+
+00:08:41:20 - 00:09:03:54
+不明
+Right. So not necessarily kissing like the slide is almost showing, but ultimately is bringing those two, those two groups of people together. Right. So typically creatives have been working in isolation. They create the images. They do a lot of that stuff, man. Images and videos and whatnot manually. And then it's it gets handed off to the technologists or the marketers or the communicators that need to take that to the channels.
+
+00:09:03:59 - 00:09:18:40
+不明
+Really, what we're here to talk about today is how did those two roles come together? Right? Because ultimately, creatives are going to need to work hand in hand with technologists to be able to leverage the the advantage of automation.
+
+00:09:18:45 - 00:09:36:07
+不明
+All right. So we're going to talk first off first phase. We're going to talk about creation. So creating this these these templates and creating the content that is going to help us, start this automation. The first phase of course, in creation is, is what are we creating. So there is there is an element here of, of creativity.
+
+00:09:36:07 - 00:09:54:52
+不明
+We're looking for new ideas. We're looking to experiment with platforms that are going to, to, to give us new insights and new ideas on, on what's to create. So we're going to spend a little bit of time talking about remixing and transforming content using, some tools like project concept. I believe you may have seen that in some of the keynotes today.
+
+00:09:54:57 - 00:10:14:22
+不明
+If not yesterday. And we're going to we're going to take you through a small, a short creative journey, using those tools. We're going to talk about extending and repurposing, existing content. So we, we, we saw in many of the presentations taking imagery from products or other key art assets that our customers in our organizations already have.
+
+00:10:14:33 - 00:10:35:54
+不明
+Available. How do we remix these assets? How do we generativity modify them, and how do we also, start activating these assets? By taking them through automation. So with that, we have a quick technical demonstration. We're going to do this a few times, during our presentation today. But we're going to go through this project concept, demonstration.
+
+00:10:35:54 - 00:11:02:06
+不明
+So bear with me as I switch screens here. And as, as is doing this, I think one one important thing to highlight is what we're going to be walking you through today is the stuff that we do day to day, right? So as we build these demonstrations, etc. in fact, the most of the demonstration that you saw in the keynote on day one that was and, and showed on stage is is exactly we're going to show you how we built that demo.
+
+00:11:02:07 - 00:11:18:55
+不明
+Right. So not the end to end thing. Not the entire thing, but for the most part, we're going to show you a lot of the key moments in that video. That demo, that's how we we built it slowly. So let's take you through here. The, the the ideation phase, of a creative using a tool like project concept.
+
+00:11:19:01 - 00:11:40:48
+不明
+So we have some brand guidelines, we have a little bit of sample imagery and and overall, we're looking to start generating new ideas for our outdoor experience, campaign. Noticing a typo in the title here that I left earlier. So using our features and project concept here, we're drawing inspiration from existing assets, existing imagery. We have some images that we generated.
+
+00:11:40:48 - 00:12:05:02
+不明
+We played with that, on canvas. And the first thing we want to do is draw from the colors, that we have here, in this image. So we are able to use project concept features that, let us refer to existing content or, extract certain aspects of an image. In this case, we're picking up vibrant colors, from the example image that's available, we're then going to, play a little bit with some prompts.
+
+00:12:05:02 - 00:12:28:31
+不明
+So we're typing out a prompt here for, an origami styled, image. And we're, using Project Concept here to invoke our Firefly capabilities. So our Firefly models are the ones creating the content here within the project context, concept, experience. And with that we're seeing a couple sample images. So we have the ability of putting these images on the canvas.
+
+00:12:28:31 - 00:12:51:18
+不明
+And essentially using this mood boarding, experience to start experimenting with these ideas, playing with concepts, borrowing concepts from other styles and imagery, and essentially putting together again or or ideation content. So with this image, we're, we're, we're satisfied with at least this, this version, I think it looks, quite good to, to put on, some of our assets.
+
+00:12:51:23 - 00:13:16:21
+不明
+We're going to actually going to go through and start creating variations of this, this asset. We'd like something a little bit larger to start using in, in our template, in our templates, and in the rest of our content. So in this case we're going to use another Firefly feature, generative expand within concept to take the source image that we have and make it a little bit, a little bit wider, give us a little bit more, real estate to work with.
+
+00:13:16:26 - 00:13:36:36
+不明
+This sounds like a simple concept. We just wanted to make the image a little bit bigger, but it is one of the first steps we're taking in making sure that we can use these assets in, in our automation, we understand that we're going to want to target multiple different aspect ratios. Not every aspect ratio is going to look at the same, portions of the content.
+
+00:13:36:50 - 00:13:55:18
+不明
+And so for that reason, we want to make sure we have, an asset that we can work with here, some, some key art that will lend itself well to our automation task. So here we have at the same image a generativity expanded. We see it's actually actually gave us a little bit more, space in the image to to work with here.
+
+00:13:55:22 - 00:14:16:32
+不明
+And that is once we select the right one that we're looking for, that is what we're going to use here in this case for, for our ideation purposes. So this is just a quick, a quick showcase of, of some capabilities in, in project concept, but, wanted to, of course, show you some of the features here available.
+
+00:14:16:37 - 00:14:39:59
+不明
+As we start playing with key art imagery and as we start putting together this, this content into our templates. All right. Perfect. Now let's let's talk a little bit about, templates. And so, we were talking about automation and the role that, templating, plays in that. So we're going to take a moment to, to discuss that right now.
+
+00:14:40:08 - 00:15:11:38
+不明
+Let me scroll over to the correct slide here. Perfect. Awesome. Right. So the the role of template. Right. So this is where we're really asking the creatives to do something different. Because typically a creative professional that is working in InDesign, illustrator or Photoshop or whatnot, they're used to creating their assets with multiple layers that they potentially hide. And there's no real there's not necessarily a, a process or a structure to the, to the template or to the file.
+
+00:15:11:45 - 00:15:37:33
+不明
+Right. So really what we're asking the creatives to participate in this new journey of automation and generative AI is to participate in, adopting certain best practices. And how can you optimize or prepare a template for automation? So there are new things that we're going to be relying on our creative, professional colleagues to do differently. Now, when we think about that, we think about like the structure, right?
+
+00:15:37:33 - 00:15:57:07
+不明
+So when someone a creative hands off a template to somebody like myself who's a developer, I'm not necessarily going to understand their thought process on how they named the layers. They probably didn't even care what the layer names were as long as the output was what they wanted. Now, what we're asking them is they're going to need to, identify those layers, right?
+
+00:15:57:07 - 00:16:14:07
+不明
+And potentially using a naming convention. And we'll show you in the next slide some of the naming conventions that we use regularly. To be able to address what's variable and what's not, because ultimately the creative needs to be in control, right? So they want to control what the template is going to look like. What are the things that you can and can't change.
+
+00:16:14:15 - 00:16:31:32
+不明
+And here as an example, you can see you went to the next slide. We have these handle bar brackets around all of the text. That's variable right. Or the layer names that are replaceable. So I don't know if you can see it on the screen, but there's the red arrow pointing out the, the background layer name.
+
+00:16:31:37 - 00:16:53:28
+不明
+So those are things that basically the designer is saying you can change these things, but everything else needs to remain intact. So what we're going to be leveraging are the Photoshop API's to be able to replace and swap out that content, to be able to generate, those variations. Absolutely. And the last slide, we were talking about the role of templating and selecting the right type of templates.
+
+00:16:53:33 - 00:17:19:21
+不明
+We're of course using all of these, these, desktop tools like InDesign and Photoshop. That of course used to be desktop. There are a lot more than that now, but each one of these tools is creating the type of content and the type of designs that are suited, for specific channels. We can think of all the amazing features we have in Photoshop for, for manipulating, art and manipulating images and etc. of course, templates as well.
+
+00:17:19:26 - 00:17:38:36
+不明
+And then we have, of course, applications like InDesign that are better suited for print channels and the ability to control things such as the color palettes, the bleeds, the margins, etc.. So selecting the right platform, the right tool for the right job is important. We're going to talk about interoperability a little bit later between these these template types as well.
+
+00:17:38:36 - 00:18:02:24
+不明
+But what we're able to do with with Firefly services and all of our generative capabilities is take these templates once we get them ready for automation, we're now able to start using and leveraging these creative assets within a generative and creative process. And that is that is the first step in in essentially achieving a little bit more efficiency there as we start using these template types.
+
+00:18:02:29 - 00:18:23:33
+不明
+So I just want to point your attention, Marcel. You mentioned variable elements in the in the canvas like text. In this case we are not we're not hardcoding any text in these templates. We're actually ensuring that the text that gets added to these templates is coming from a variable source, perhaps one of our data, feeds that we may have, or another system where we're actually managing our, our content.
+
+00:18:23:33 - 00:18:46:53
+不明
+We're now able to merge that with our, design layouts. We're also using multi-layered designs. So this particular template, of course, has a certain, style and a certain, template elements that we're, we're, we're ensuring or adhering to. But it is doing that with multiple different aspect ratios in a single document. So we're able to keep all of these things together.
+
+00:18:47:07 - 00:19:08:06
+不明
+And once again, with automation, be able to create, all of these assets in the various aspect ratios that we're targeting from a single template. And then lastly, reusable objects, smart objects in Photoshop. For those of you who are Photoshop power users, you know you know how to use some of these these features. Smart objects are a way for us to embed imagery and reuse it across all these artboards.
+
+00:19:08:16 - 00:19:31:39
+不明
+Again, making automation much simpler. So now we'd like to take you through that a little bit and show you some of the examples, of our templates. Also, as I was, gears switching over, you probably saw that we're showing a Photoshop template in that case. And we had just said, well, if you're if you wanted to do tax, InDesign is probably the better template format to use.
+
+00:19:31:44 - 00:19:51:25
+不明
+So the reason why we showed you a Photoshop template in that case is because the headline is always short. The the, subject or the byline is always short, right? So even though because ultimately if you're going to do automation, most of the time you're going to do a multilingual right and you're going to be doing the different aspect ratios.
+
+00:19:51:30 - 00:20:17:15
+不明
+So again, you need to keep in mind like how long is that text going to be if it needs to reflow and wrap? Photoshop is not the right templating solution. InDesign is a better templating solution for that use case, right? So that's why it's very important to keep in mind what are the outputs, what are the use cases, and where are the potential areas that you might struggle if you're using the wrong templating technology for the use case that you're trying to solve?
+
+00:20:17:20 - 00:20:40:16
+不明
+Absolutely. And I see some some head chickens in the audience. So there's actually been some experimentation with these as well, which is great. Absolutely. So, Marcel was saying a lot of the lessons learned we're talking about here, of course, is his experience we've had delivering these solutions with our customers over the last 18 months. And absolutely, those are things that, we find out quite quickly as we start using templates like these for localization or regionalization.
+
+00:20:40:21 - 00:21:02:06
+不明
+The translated language is in Texas, of course, of, of, of variable length. And so, it's important to, to look at the right templates for those use cases. So here what we want to show you is, is essentially what the creative process may look like today, using an application like Photoshop. So we have a template here that's being used, in Photoshop to author our art.
+
+00:21:02:06 - 00:21:24:25
+不明
+So we're actually adding the image here to this template, the one we were just looking at in project concept. So we're assembling our, version essentially our copy of this image here. This is what perhaps the look of a creative looks like, on your team today. Or if you are creative, maybe you're doing this already today, we're making our changes to to in this case, one of the aspect ratios for our image.
+
+00:21:24:30 - 00:21:43:48
+不明
+We're inserting text into this image and preparing, this asset essentially for, for our needs, for our campaign. And you can see that as we're doing that, we're taking our I don't want to say we're taking our time, but we are taking some time, certainly, performing these updates manually. We're now making some adjustments to the key art.
+
+00:21:43:48 - 00:22:06:54
+不明
+Make sure that it looks it looks good here for for the image where we're adjusting the brightness and we're seeing, we're seeing essentially what the work of a creative looks like as we're creating this one specific asset in, in English only and this, this, this single language, with only one aspect ratio being targeted. So now we want to show you what it would look like in a multi artboard document.
+
+00:22:06:54 - 00:22:33:02
+不明
+We were just showing you that in the in the screenshot. And so a multi artboard document uses some of these variable elements such as variable text. It's also it's assembling all of our aspect ratios on in the same document on the same canvas. And it's giving us the ability to use smart object capabilities like we were talking about to adjust our key art, make our changes or updates, or configure options.
+
+00:22:33:03 - 00:22:57:06
+不明
+Perhaps we're using overlays, perhaps we're using, any of the features available in Photoshop to make sure that the art, meets our standards. And then using our smart objects, as soon as we save this smart object and we return to, our aspect ratios here, we see that using just simple features like that, we're able to, the create all of these different aspect ratios by editing the content a single time.
+
+00:22:57:10 - 00:23:17:26
+不明
+And we're going to take that a step further, and we're going to stop, creating this content manually. We're now going to start using automation to achieve, this assembly. But we can quickly see how just using some of these simple features is the first step in preparing this content for automation. And another important note is we're talking a lot about replacing smart objects and text.
+
+00:23:17:31 - 00:23:34:45
+不明
+But also keep in mind with Firefly services and the API's, pretty much everything that you can do in Photoshop on the desktop, not everything. There are certain capabilities that are that rely on cloud and certain specific capabilities, but for the most part, what you can do in Photoshop on the desktop, you can do using the APIs. All right.
+
+00:23:34:46 - 00:23:54:52
+不明
+So please don't walk away thinking that you can just replace tacks and layers if you want it to change. You know, blending. You want to change, saturation, hue colors, those kinds of things programmatically. Those things are all available as well. Yeah, absolutely. Now we've been talking about Photoshop and we were showcasing earlier the importance of selecting the right templates.
+
+00:23:54:52 - 00:24:17:42
+不明
+So let's let's take a look at what that, what we can do here in InDesign, which is a similar, templating concept. We, we have, of course, certain use cases that are better suited for platforms like InDesign than Photoshop and vice versa. If we're looking for advanced image editing, we probably are going to do that in Photoshop or with Photoshop services and capabilities rather than in InDesign.
+
+00:24:17:54 - 00:24:43:42
+不明
+But we have many use cases that actually blend both of them. So we use interoperability across our templates, in order to bring together certain creative designs through the Photoshop or others through to InDesign, using the same key art, using the same text, targeting many different aspect ratios. And so that is one of the, of course, advantages we have, of of being able to automate these, these aspects when we set ourselves up for automation using these templates.
+
+00:24:43:42 - 00:25:12:09
+不明
+And also if you want to do true omnichannel. Right. Because as I'm sure a lot of you know, in the room, InDesign is is awesome at doing print large, large scale and large size print, right? Whereas Photoshop has some limitations around the size. So bringing those two things together where you can do key art in Photoshop, then lay that on to an InDesign template is really where you start to unlock true magic with building these assets for true omnichannel.
+
+00:25:12:14 - 00:25:41:52
+不明
+Absolutely. So happy to take you through that. And, let's, let's cut back here to to what we were discussing around our templates and, let's go through a quick recap of that. And so as we start using, as we start leveraging these templates, Marcel was just alluding to the fact earlier that when we're when we're editing or authoring this content, we oftentimes end up with a very interesting naming convention, right?
+
+00:25:41:52 - 00:26:08:53
+不明
+We end up, having to have a final, final, final extra draft. This is really the last one. XD and so that becomes a big challenge. So not only is automation, important in setting ourselves up for automation, but the next logical step is of course collaboration. Being able to collaborate on these assets, version these assets and start using our, automated features within these collaboration platforms.
+
+00:26:08:58 - 00:26:28:24
+不明
+So what are we going to take you through now that we talked about templates, we talked about ideation and content is is just that. We're going to talk about collaboration in an application here. Frame.io Adobe Frame.io. I don't know if anybody in the audience has used Frame.io before. Yeah. Great. Great simple application. Great collaborative features.
+
+00:26:28:24 - 00:26:57:48
+不明
+The ability to connect directly with our creative tools and, and power automation, which is amazing, the ability to centralize their feedbacks or commenting and approval. Within this application as well. And as I mentioned, automation friendly is is a key aspect. So what we're going to look at now and frame that IO is not only how can we collaborate with our team, with the folks around us and get approval on our assets, but how can we collaborate with our automation features in order to automate specific tasks?
+
+00:26:58:03 - 00:27:16:03
+不明
+Yeah. Another super important note to make is when people hear the word automation, they can start getting nervous because you automatically think, a lot of people will think it's like a lights out thing. I'm going to start generate a bunch of assets, and then I'm going to be stuck with all these assets. Right. So it's super important to have something like frame.
+
+00:27:16:03 - 00:27:34:59
+不明
+It doesn't have to be frame, but have some sort of platform where you can have a human in the middle or a human in the loop, right, that verifies the assets. So what we're going to show in this particular scenario, is that we've broken down those steps, into, into very discrete actions, which we're going to see in a second.
+
+00:27:35:04 - 00:27:59:53
+不明
+But ultimately, you can combine those. So it depends on the organization. It depends on the requirements of your business. But you feel reassured that when you're doing automation, you can do it at different levels, and you can break it down in different sizes so that it meets like if you're highly regulated and you need to make sure that everything is verified by a certain team, you can achieve all of that with a proper review scenario.
+
+00:27:59:58 - 00:28:24:24
+不明
+Awesome. Yeah, let's take you through that in Frame.io here. And, the first thing we're going to do is take the content. We had we had some imagery, we had some templates done in Photoshop, and we're just going to go ahead and upload those to, to our frame, environment here, to our, to our new project. So taking the imagery we had from Project Concept and our, our, Photoshop for those quick we cut the perfect.
+
+00:28:24:28 - 00:28:47:57
+不明
+And so here the same image we were just playing with, in, in project concept, this is, actually an even larger version of it. We extended, even more so preparing the asset for, for automation. Now, what we can do here, just simple, review statuses. We're able to start setting labels on our assets and taking it through, essentially our approval.
+
+00:28:48:01 - 00:29:07:22
+不明
+It here. So I'm going to leave a comment for Marcel. Marcel, I'd like to know your thoughts on this, this imagery here. And of course, we have all the notifications that'll that'll be triggered here. And now this, approval information, both the status, the commenting and all of the file information. We'll continue living with this asset as long as it is in frame.io.
+
+00:29:07:22 - 00:29:32:18
+不明
+And, of course, once we're done with the approval process, we could also take this information and persist it through with the asset, all the way to, to our other systems where it's going to be activated. So great. We have our key cart. Let's take a look, here at some of our capabilities, for automation. So the first thing we're going to take a look at, just to simplify things here, we're actually just using data, a spreadsheet.
+
+00:29:32:18 - 00:29:52:48
+不明
+Very simple. In Frame.io we understand that data and your environment is likely going to come from other systems where you are authoring some of that content. But here we have a simple spreadsheet with just a local headline. And then if I navigate to the second page, we have, subheadline and some references to our imagery. So very simple concept.
+
+00:29:52:48 - 00:30:18:54
+不明
+We're just preparing a little bit of data to use in our automation. Interaction there. We're just going to show you now and take this point. Right. So the fact that we've named the fields both in Photoshop or the layers, the objects in Photoshop that we want to replace, the same as in InDesign, that same data file, that same spreadsheet, or that same data source, depending on where it's coming from in your environment, can power those two templates, right?
+
+00:30:18:54 - 00:30:41:58
+不明
+So you'd be able to interchange that data. Yeah, that's a great point. So here we're using a Photoshop file. But let's go ahead and leverage, our automation and extensibility capabilities in Frame.io to invoke a new action here. We've configured Frame.io to, to have specific new actions that are leveraging our automation platform. We're going to show you that in a moment and show you how these workflows are put together.
+
+00:30:42:03 - 00:31:04:34
+不明
+But in this particular example let's go ahead and render our template. So what we're going to do here is click on our template action and be prompted to select our data file. With what data would we like to merge with this template we're going to select the spreadsheet we have available. And we'll get confirmation that in this case automation is working on it.
+
+00:31:04:39 - 00:31:21:00
+不明
+It's important to note that not every feature in the automation pipelines that we're implementing are going to be instant. There's a few of the features that are going to take some time to process assets, especially as we're talking about assets at scale. We're going to have to power through a lot of content, a lot of assets, assemble some imagery.
+
+00:31:21:07 - 00:31:43:46
+不明
+Sometimes we're dealing with large, large file formats as well. And so that's why we're using here in Frame.io, some features that, that are going to happen asynchronously as we continue, looking at our content. Right. Oh, sorry. I was just going to jump in. I was going to say, as we generate this, this particular rendition where we've merged the text and the images, it's actually several API calls.
+
+00:31:43:51 - 00:32:05:19
+不明
+Right. Because first we're going to do a get manifest call on the PDF or sorry, the PSD. So we can get all the layers. We can get that those names that are replaceable. Then we're going to do a, a call to do an edit PSD so that we can replace the smart objects, we can replace the text, and ultimately the resulting PSD document which is still layered, still editable.
+
+00:32:05:24 - 00:32:31:30
+不明
+So if the creatives not happy with it, they can download it out of frame, open it up in Photoshop, make changes, put it back in, keep going. Absolutely. Yeah. Great. Great point to that dimension. So this is still a Photoshop file a fully layered document. And so we have all of the creative controls available here directly. In fact, if we wanted to take a look at the individual aspect ratios of each one of these documents, they're currently combined in the same Photoshop file.
+
+00:32:31:35 - 00:33:03:46
+不明
+But another automation, operation that we've included here is to extract artboards. So if we click on this one, once again automation takes over and starts creating folders for us where where we're going to go find or new assets in here. We are now seeing automation create our multi artboard or sorry our single artboard variations. So we've taken the Photoshop file we had and we've essentially separated it into all of the specific aspect ratio or all of these specific formats in individual Photoshop files.
+
+00:33:03:46 - 00:33:26:27
+不明
+So once again giving us all the creative control we still have on these assets in a fully layered document. And also, one point to be clear, is all the operations I is doing to trigger the automation. Those aren't out of the box with Frame.io. Right. So I just want to be clear on that. Those are extensibility or custom actions that you can configure inside of frame.
+
+00:33:26:27 - 00:33:47:44
+不明
+So super easy to do. Actually I think we have a demo of that a little bit later. But ultimately you can you can customize frame to to have those custom actions that are specific to your workflow. Yeah, absolutely. Yeah. And we're going to take you that through that in just a minute. So now with this, with these documents, it's great to see that we can, we can still, create some, some actions with it.
+
+00:33:47:49 - 00:34:12:52
+不明
+What I like to now show you is the extraction of key art. And so by using these multi aspect ratio artboards, we have we've also contained the content and we've created variations of that content that are specific to to certain aspect ratios. So now if we wanted to reuse that content across perhaps new experiences, new templates etc., we have the ability here of extracting the key art.
+
+00:34:12:57 - 00:34:38:57
+不明
+And that one took a little extra second, but the extraction of the key art will actually go and pull all of that variable content that we had within our template in order to be able to reuse it. Specifically. The key art here is interesting because we now, are guaranteed we now know that we have a variation for this specific channel at this specific size, in this case a square aspect ratio of 1080 by 1080.
+
+00:34:39:01 - 00:35:00:14
+不明
+And so with these elements we're just exploring all of the, the features, all of the, the capabilities that are possible through automation within a collaborative experience in Frame.io, in order to, as Marcel mentioned, keep our our users in the loop. We understand that automation is not always a scenario that happens on its own all the way through to activation.
+
+00:35:00:26 - 00:35:22:01
+不明
+So it's important to make sure we can collaborate with these features. So now this is great. But let's let's go ahead and take a look at what what we what we need to do to take these assets through to activation. So we want some final rendered assets. We're going to leverage our last automation here to create renditions. And so in this case, we are no longer going to export Photoshop documents.
+
+00:35:22:01 - 00:35:44:13
+不明
+We're going to create and generate, rasterized outputs in these case static images. And these images are now something that we can use to activate in our other platforms. Perhaps, perhaps we want to publish them to some, of our digital asset management systems or get them ready for, maybe social media posts. And so now we're dealing with images PNG as you can see.
+
+00:35:44:18 - 00:36:10:15
+不明
+And so these assets are now ready to be to be approved or at least to be reviewed to later be approved and trigger additional automation. So now if we're happy with these, we can approve these, for assets. And again, we have the ability of leveraging automation to take these assets through to activation. All right. And here we're showing, you know, a small amount of assets for assets is not that impressive right.
+
+00:36:10:15 - 00:36:40:04
+不明
+So you can do thousands of assets. But here we kept it small just so that we don't clutter the screen. And everybody loses where we're at. Yeah. Perfect. Back on here. Perfect. All right. So evolving with technology right. So basically what we want to be able to do is start with something simple. Because many of the, the pitfalls when we work with customers is that they're looking to take their most complex Photoshop document or illustrator or InDesign document and automate that.
+
+00:36:40:04 - 00:37:00:02
+不明
+Right, because they want to prove to me that this is going to work well. Ultimately, you're setting yourself up for failure because that's not an easy task, right? So we talked a lot or we didn't talk a lot, but we talked earlier about the fact that it's important that the creatives change their, their their way of thinking and their way of creating their templates in their files so that they can be automated.
+
+00:37:00:07 - 00:37:28:35
+不明
+So what you want to be able to do is start simple. Start with something that is relatively static. The text isn't going to be too long or whatever the parameters are. You want to start with something simple. Get those learnings under your belt to get the API calls. Get the automation, get the flow nailed. Once you do that, then you can evolve to the next level, which is more of an adaptive relative positioning, leveraging AI to do smart cropping, all those kinds of things where you're starting to do something more advanced.
+
+00:37:28:40 - 00:37:51:29
+不明
+It's basically a rock crawl, walk, run kind of approach, right where then you evolve where you you can basically say, instead of having the specific aspect ratios and sizes that we had in the document allow for arbitrary sizes, right? Maybe somebody can just declare which size that they want, and you can automatically and programmatically do that in the document.
+
+00:37:51:34 - 00:38:10:22
+不明
+Absolutely. Great. So I think that wraps up our creation stage quite well. We've created content. We've gotten it ready for for activation. So now what we'd like to do is talk about automation. The next stage in our journey is, of course, unlocking all of these features. We showed you how that happens in a platform like Frame.io.
+
+00:38:10:30 - 00:38:29:11
+不明
+There's of course, many other options to integrate with our automation capabilities, but now we'd like to, take it to a slightly more technical, portion of the presentation where we're going to show you how that automation is actually happening within our platforms. So we're going to start with, something that sounds simple, but that is very important.
+
+00:38:29:16 - 00:38:55:03
+不明
+Yeah, exactly. The read before you test. Right. So there are some Adobe specific things that we are API's work. Right. So IMS, our identity management system is how you get the authorization bearer token to be able to call your API keys. Right. So it's important to understand that because we basically implemented on OAuth. So you need to understand scopes making sure that you've got the right credentials for the right APIs, the right scopes are applied to it.
+
+00:38:55:08 - 00:39:18:32
+不明
+And then learn how to generate your token so that you can invoke the calls, and work with those. Another very important aspect is to recognize that are some APIs are synchronous, like the Firefly JNI APIs and all the other APIs that require more processing power, such as Photoshop and InDesign are asynchronous, right? So we'll show you the kind of the difference in a minute.
+
+00:39:18:46 - 00:39:39:36
+不明
+But very important to understand now with the latest version of the API is v3. We now have asynchronous capabilities for Firefly as well. So your programing model stays the same. So you can treat everything asynchronously. But very important to understand those two ways of doing it. Absolutely. So the first step of course reading the documentation. Great, great.
+
+00:39:39:36 - 00:39:57:06
+不明
+First place to get started. But but now let's take a look at how we actually test these services. So we're going to use we're going to show you a quick demonstration of using some testing tools, to get that done. And in this case we're going to choose one of our favorite platforms to do that.
+
+00:39:57:10 - 00:40:16:13
+不明
+Called postman. So I don't know if there's a developer in the audience that has used postman, but yes, a great tool, of course, to invoke, some of these APIs. So let's go ahead and take you through that. Yeah. As you set up, I mean, we for every demo or a POC that we build, we build up all the API calls with the customer assets in postman.
+
+00:40:16:15 - 00:40:45:33
+不明
+So we get that all set up. We get it tested to make sure everything works. All the results are exactly like we expect. Then we move into automation. Right. So Guy is going to walk through that particular set of stats. But very important to do that. Okay. We're back. Perfect. All right. Great. Yeah. So taking you through postman, let's talk about some of the key features we have here in postman and how to to leverage them to help us get through all of the various operations we're looking to do, and of course, try to set up our automation.
+
+00:40:45:37 - 00:41:07:30
+不明
+So the first part we're going to take a look at here in postman are the use of variables. So we're going to show you how we're using environments. In this case Firefly services to configure variables. We have variables such as the URL and variables such as our authentication parameters. These are authentication parameters that you're going to get through the Adobe Developer Console.
+
+00:41:07:35 - 00:41:36:33
+不明
+But of course they're interchangeable. And some of these some of these credentials will give you access to certain services, perhaps not others. So it's important to start setting up our testing. I want to say our testing tools appropriately to not have to copy a lot of that content around, not have all of the secrets, tokens being shared everywhere on your desktop and be able to get some, interoperability and reuse out of the requests we're using in these tools.
+
+00:41:36:37 - 00:41:56:55
+不明
+So we'll show you what that looks like here. In one of the sample environments we have available. So we have some URLs, we have some client credentials. And a lot of the information that is kept here. And it gives us the ability to toggle through some of these environments and some of these credentials as we start making our requests, to, to Firefly services.
+
+00:41:57:00 - 00:42:19:37
+不明
+As Marcel mentioned, authentication is probably the first part in getting started. So in this case we're communicating directly with our IMS service, passing our, client information and our client secret, essentially a password protected encrypted password. And that gives us access. It gives us an access token. This token is the token we're going to use to authenticate to all of our subsequent APIs.
+
+00:42:19:37 - 00:42:39:24
+不明
+And so most of the operations we're relying on today are going to use these access tokens. Now, as you can imagine, if you do this 100 times in a day, it would be quite painful to copy paste this access token around to all of the requests. So now let's take a look at our second pro tip here of the platform, which is the use of scripts.
+
+00:42:39:28 - 00:42:55:22
+不明
+So this is where we're showing you a little bit of code. We don't want to go too far into that today. But we're using a brief a small little script here to extract the token from the response we received in IMS. We're going to set a variable with that token. And we're going to reuse that token in our subsequent calls.
+
+00:42:55:33 - 00:43:15:49
+不明
+So to make sure that we're always authenticated to our firefly's services. So if we take a look here at our collection, you'll see some variables, being set here at the bottom. And this variable was set programmatically as soon as I invoked the IMS authentication. Now that lets me use it in all of the, the other requests I'm going to make.
+
+00:43:15:54 - 00:43:29:43
+不明
+And for those of you that don't know, the IMS token is good for 24 hours, right? So that's why you need to be able to refresh that token. Great point actually. Yes. So it does change quite often. We can't just set a variable and use it forever. That's why we're going to have to continue refreshing that token.
+
+00:43:29:43 - 00:43:51:46
+不明
+And that's a very important, of course, security aspect of using the off authentication mechanism. So now with this variable, you can see that we're setting up at a collection level, our token to be used as a bearer type authentication. And that authentication will now be used for all of the requests contained within this collection. So great.
+
+00:43:51:46 - 00:44:13:57
+不明
+We've authenticated to the service that is our first operation here. Let's go ahead and start generating some images. So we're going to invoke our fire fly model using the Firefly Services API. It's an important distinction I know there's there's a little bit of confusion around what is Firefly, what is Firefly services. But just to demystify that quickly, Firefly is our set of generative models.
+
+00:44:14:11 - 00:44:40:19
+不明
+Firefly services gives us access to these models programmatically, as well as many of our creative capabilities, such as our InDesign video, Photoshop APIs. So combining both of these concepts together, we're going to, prepare our call to Firefly, Firefly services to invoke our Firefly model. And we're going to generate, again, the same type of imagery we're just looking at here, in project concepts.
+
+00:44:40:19 - 00:45:10:30
+不明
+But this time we're going to do it programmatically. So we have a variable again, another script typing our prompt here. You can imagine that in an automation perspective, we're not typing prompts into an API call. We're using variable. We're using data that's coming from other systems. We're at times using large language models to take data context. Perhaps user segment information to then programmatically create new prompts that would, work well within our audiences and again, enable programmatic ideation.
+
+00:45:10:35 - 00:45:27:46
+不明
+But in this case, we're going to just type a prompt and we're going to see what we get from that, great example. In some of the POCs that we've built, this year, we actually use a lot of, of LMS to be able to take like, for example, just a location, or a theme of what the campaign is about.
+
+00:45:27:59 - 00:46:00:00
+不明
+And we leverage AI to generate the prompt. So it's you don't have to be a prompt engineer. You can just have I do it based on some keywords. That's part of your campaign. Great. Perfect. So here's an image we saw that that looks pretty good. Similar to what we saw in project concept. We're now going to invoke Photoshop in this case we want to show you, one of the features in Photoshop that we were just talking about here, which is which is the asynchronous responses we get, from some of these services that are processing a little bit more data, a little bit more content.
+
+00:46:00:05 - 00:46:20:20
+不明
+So using Photoshop, we're going to send a request here to the, the get manifest operation. That's something that helps us understand how our document is composed and what is essentially contained within it. Something a little bit different here. We're not getting a direct response from this API. We're getting a Http code 202. And I want to get two technical here.
+
+00:46:20:33 - 00:46:41:19
+不明
+But that means that this system has accepted the work and is still working on it. And so we're going to have to go ask the system to see if it's completed, if it's done with this task. And so that's what we'll do here with the URL that is provided. Essentially the job reference. Or once again using a script here to set this URL to be able to refer to it in the next call.
+
+00:46:41:24 - 00:47:00:28
+不明
+And then if you've looked at our API documentation, you see that you can now make a request to this URL to find out more about this, this job, about this task. In this case, we get a successful response from this, this API. And you can see that the status is succeeded. And so that's an important aspect of working with asynchronous jobs.
+
+00:47:00:43 - 00:47:20:18
+不明
+We may get a successful job that gets started. It does not necessarily mean that the job will complete successfully. Or you may be querying the status of that job, and they may still be running. And so if you are trying to develop code, write code. Most of the time we're thinking about it in a synchronous fashion. With every line of code we move on to the next one.
+
+00:47:20:33 - 00:47:38:24
+不明
+In this case, we're going to likely have to continue querying that service to find out more about the status of the job and in order to automate the next set of operations. And so it is a bit of a mental shift as a developer to make sure that we are coding against these asynchronous patterns. And here we have it.
+
+00:47:38:31 - 00:47:59:30
+不明
+Yeah. We're showing you the document manifest. If you've not used the get document manifest API call and your developer, you need to get very familiar with that because you'll be able to introspect the the Photoshop document and understand those little placeholders that we had. With the special naming, you'll be able to go figure out where those are, and then you can programmatically build your payload to modify the Photoshop document.
+
+00:47:59:34 - 00:48:24:20
+不明
+Again, another difference between the different templating language. Photoshop does have the ability to do a get manifest in design, however, unfortunately does not right. So if you're doing an InDesign document as a template, you as a developer have to be very familiar on what the objects are, what the naming conventions are inside of the document, as opposed to Photoshop where you could introspect the document manifest and figure that out programmatically.
+
+00:48:24:25 - 00:48:43:13
+不明
+Absolutely. Yeah. So we're going to take a look now at now that we've tested all of our APIs, we're going to quickly take a look at automating these API sequences together. To do that we're going to use Work Front Fusion. We're going to just really show you quickly the events driven and user initiated, actions we have there within the platform work.
+
+00:48:43:13 - 00:49:06:06
+不明
+French fusion for those who are not familiar, is a low code automation platform. And so it's a great place to get started, to start building these sequences of operations, calling these APIs one at a time, or several at a time. In order to enable this automation and using our webhooks and connectors, we're able to, of course, accelerate the development of these, of these, automated pipelines.
+
+00:49:06:10 - 00:49:33:50
+不明
+And then we're going to show you, a quick, sample of using a tool that we really like to call Json data. It's, it is a library that's available in some other products, such as, the document generation, API in the document Cloud. And, one of the interesting tips I want to point out here, even though we want to keep it short, is the fact that when you're dealing with low code automation platforms, those platforms excel at sequencing these operations and holding the business value.
+
+00:49:33:50 - 00:50:00:07
+不明
+Essentially, the business logic within these operations, they do not excel at heavy lifting of large binary documents. And so pro tip here when we are leveraging platforms like fusion, we are never really processing large binary payloads and files. Within these workflows, we are making reference to files that exist in our storage systems via things and mechanisms like pre signed URL, if you're not familiar with that.
+
+00:50:00:07 - 00:50:23:37
+不明
+But if you've ever interacted with, a storage mechanism like Azure, binary storage or perhaps Amazon S3 buckets, that is a mechanism we have to keep assets, outside of our automation platform. Perfect. So let's go ahead and show you what that looks like. Briefly using, using that.
+
+00:50:23:42 - 00:50:43:39
+不明
+And you was kind of underplaying that, you could, you could do a little bit of testing with fusion, as you can see, the total total yearly operations, those are the number of flows that we've run, those. So we're actually showing you a view of our internal version of fusion, where we run our own automations. Yeah.
+
+00:50:43:40 - 00:51:18:37
+不明
+Perfect. So let's take a look at the custom actions we were just invoking in Frame.io from, from that perspective. So perhaps a little bit intimidating if you're opening fusion for the first time. But these are the actions we were clicking through here in Frame.io. And so you can see how, we were automating a sequence of operations between, in this case Photoshop Json, that, adding a little bit of logic and interacting with Frame.io, that is, that is essentially what powered the features that we just saw and quite frankly, what powers a lot of the interactions we saw today in other sessions or in the last two days over many other sessions.
+
+00:51:18:37 - 00:51:43:32
+不明
+In these demos, we quite often use low code automation to make that possible and put together these system integrations, quickly and efficiently. And so the first thing I want to show you here, if I switch to, again, postman, a little power, power user feature here in postman is that I have the ability to get essentially the command, the curl command of this request.
+
+00:51:43:37 - 00:52:03:32
+不明
+If you're familiar with it, that means I can invoke this API via command line, but I can also copy that and paste it into fusion and get an amazing new connector, an Http connector that replicates this API call in my low code scenario. So you can take a look at it here. This is the same Firefly image generation API call.
+
+00:52:03:43 - 00:52:23:46
+不明
+Now in my low code scenario, I'm ready to start using it, at least in the context of this, request. But as Marcel mentioned, a small, I gotcha. Or a pro tip here is that this request is still using the same authentication token that we created in the first place. So it's only going to work for the next 23 hours.
+
+00:52:23:51 - 00:52:50:31
+不明
+So, of course we don't use this mechanism specifically when automating these sequences, but, still nonetheless a very interesting feature. Pro tip of the platform, especially if we're looking for quick, iterative, processes. Now, if we don't want to get that far into, Http connector configuration, we may also want to leverage the out-of-the-box connectors. We have such as Adobe, Firefly and Photoshop readily available here in the platform.
+
+00:52:50:45 - 00:53:13:41
+不明
+And so all of the parameters we had in the API configuration and those that match the API documentation are available here in a low code context. Great. Let's fix up this, scenario. And now let's take a look at again one of our favorite tools Json data. And so this is a small library that's available and open source library.
+
+00:53:13:46 - 00:53:46:39
+不明
+The way we use it to keep it short is, almost as a regular expression to transform Json data. And so that is a mouthful. But what that means is that a lot of the integrations, the a lot of the interactions that we perform between APIs are handling Json data. And these Json data transformations help us move data around, arrange the fields, and prepare those requests to our APIs in order to enable all of that dynamic behavior, such as find all of the replaceable elements in this Photoshop file.
+
+00:53:46:51 - 00:54:05:58
+不明
+Go ahead and set all of the data within it or extract all of the artboards in this Photoshop file by finding their references. Yeah, super handy and low-code. No code environments. And actually one of the key the phrases, the catch phrases that we use is Json added to the rescue. Like there's a lot of times you're going to get caught trying to build something dynamic.
+
+00:54:05:58 - 00:54:16:05
+不明
+And you, you end up in this kind of like this cycle of trying to figure out, how are you going to pull this thing together in Json, how to really can solve those problems.
+
+00:54:16:10 - 00:54:31:33
+不明
+Perfect. So here we go. So without going into too far into based on that, some of the pro tips, we use fusion in work work front fusion and how we enable all of that automation in platforms like frame that I o and keep checking my watch. Here we have one last thing we want to show you.
+
+00:54:31:39 - 00:55:12:28
+不明
+We've shown you collaboration, automation and we want to show you activation here. So let's go ahead and move on to activation and see what we can do once we've automated, all of these, these various, portions. And so I'm going to show you this very quickly here. Perfect. So from creation to activation, let's talk about, some of the functionality we have now, with, with all of the content we've generated, perhaps we want to publish them to, to our content management platforms as we talked about, or maybe bring them into certain platforms like Adobe Express in order to take the, final assembled assets that we have, but enable our
+
+00:55:12:28 - 00:55:34:43
+不明
+communicators to perform the last mile changes or the user segment personalization items that we're looking to accomplish here. So we're going to show you very quickly Adobe Express, working with Adobe Experience Manager and how, we've published the content using fusion to Adobe Experience Manager, where it can now be used in Adobe Express. So let's go ahead and do that.
+
+00:55:34:48 - 00:55:50:11
+不明
+Yeah. Because you're going to hear a lot of that, right. You're marketers. Your communicators are going to want to be able to remix content. Right. Like this campaign work last year I love the template, but the images don't work. Or for example, like Max London versus, Max North America. Right. So we want to change those different images.
+
+00:55:50:11 - 00:56:13:15
+不明
+So by having those assets inside of a Dan like AMP assets, you can now make those templates, those documents available to marketers to then remix and self-service. Absolutely. So here in Adobe Express we're moving a little bit fast. But we're going to take our Adobe Photoshop document, the one that we were just automating through, through some of the, the sequences and frame.
+
+00:56:13:28 - 00:56:40:59
+不明
+We're actually going to take the source document here. This is still a layered Photoshop file, and we're importing it into express in order to continue, assisting with the the edits that we're going to be doing with our communicators. We're taking that document, and we're actually going to lock certain aspects of that document in express to ensure that some elements don't change, but that our communicators have the ability of replacing other key elements, such as the image.
+
+00:56:41:04 - 00:56:58:22
+不明
+We're now going to take a look at the brand. We've created a brand here in express for Luma and for these templates. And so that brand is accompanied with, some of the contents, such as fonts and colors. And we're going to save our template to the brand. We can configure some of the restrictions we have here in express.
+
+00:56:58:22 - 00:57:33:58
+不明
+We saw that in the keynote yesterday actually. And so configuring the template restrictions lets us define what exactly our users are going to be able to do with that template. Once again we started with a Photoshop template. We're now configuring some of these parameters in Adobe Express. And we're going to save these restrictions and save that template. Now if we switch roles a little bit and we take a look at, a communicator using Adobe Express, we see that we can navigate through to our brand, go find our templates, and we can start, start leveraging it to bring in some of our assets.
+
+00:57:34:03 - 00:57:55:30
+不明
+One of the really cool features we're going to show you now is how we've used automation with Frame.io. And we've actually published some of these assets. Once I hit approve in, frame.io. We didn't go through that in much detail, but we actually moved. We published these assets programmatically to Adobe Experience Manager. Now getting them ready for activation into our multiple channels.
+
+00:57:55:35 - 00:58:16:18
+不明
+So now using express with an integration directly into Adobe Experience Manager, I can go select the image that was published automatically to that platform. And as a communicator, I can, I can actually decide what type of content I'm looking to, to bring in here for these specific channels, make my last mile edits, that I'm looking to do here in express.
+
+00:58:16:22 - 00:58:48:13
+不明
+And if I want to, I can reactivate this asset, save it back to Adobe Experience Manager. Essentially to be used in, in other activation channels. And in this case, we're going to enter a little bit of metadata, persist all of that to Adobe Experience Manager. That will continue living through with the assets. And and as I publish that, again, to Adobe Expense Manager, I'll be able to use that, in platforms like perhaps Journey Optimizer, or even Adobe Experience Manager sites and be able to leverage certain things like content analytics.
+
+00:58:48:18 - 00:59:11:53
+不明
+So here's my assets published automatically into Adobe Experience Manager. Again, getting that ready for activation. Lastly, if I go back to express, if I'm looking to target perhaps a more instant channel, let's go ahead and publish that to social media. Perhaps that would be a great post for a platform like Instagram or X, and we're going to use a generative feature again in express to generate a new caption.
+
+00:59:11:58 - 00:59:33:14
+不明
+Get that post ready for activation to social. And if we're satisfied with that, we can actually go ahead and publish that right away to the social media channels. And so taking you through ideation, automation, creation and now activation, in under 60 minutes by a few seconds. And so that was a bit of a, of session.
+
+00:59:33:14 - 00:59:46:16
+不明
+We wanted to cover a lot of content here today. So, if we want let's do a quick recap and maybe see if we have any questions. Thank you.
+
+00:59:46:21 - 00:59:47:04
+不明
+For.
+

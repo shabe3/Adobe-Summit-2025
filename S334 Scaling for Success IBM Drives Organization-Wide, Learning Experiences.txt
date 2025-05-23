@@ -1,0 +1,404 @@
+00:00:00:35 - 00:00:25:03
+不明
+It's a thrill to have you all here today. I'm doctor Alan Partridge. I'm the director of digital learning evangelism at Adobe. And you may find yourself wondering. Wait a minute. I saw this person, I saw that person, and so on. I was on the docket the whole time, I promise. But my my colleagues, one of them, unfortunately, is ill and wasn't able to join us.
+
+00:00:25:08 - 00:00:50:25
+不明
+And the other one had some last minute sort of interruptions to deal with. So, but I do promise that I am the best of the speakers, so it's okay. It'll all be perfectly fine. I'm thrilled about today. And today's topic, because we have a very interesting story to kind of share, and I hope that you will feel free to kind of actively participate in today's session as well.
+
+00:00:50:32 - 00:01:11:11
+不明
+I find that no matter how much wealth of information any speaker brings to the room, when the room is full of people like this, the room itself always has as much, if not more information to offer. So I'll toss back to you periodically. I hope you'll free. Feel free to jump in. The other thing you should know about me.
+
+00:01:11:11 - 00:01:32:43
+不明
+In addition to me being a Wyoming cowboy in an e-learning rebel in general, is that I was a college professor for a quarter of a century. I know it doesn't show. And that means, unfortunately, that if I pause waiting for you to answer, I'll do what college professors do, which is just stare at you uncomfortably until someone responds.
+
+00:01:32:54 - 00:01:53:15
+不明
+So just that it's always good to have that heads up. So you kind of have a sense of it. I've been with Adobe for about 17 years. I was teaching for part of that time and not teaching for part of that time. I taught a variety of things, most recently educational technology, communications, things like that.
+
+00:01:53:20 - 00:02:20:15
+不明
+I also have a background in 3D, 3D art, 3D design, and development. I've written several books, including books about 3D game design and development. I've worked with a variety of crazy coding teams and all kinds of other stuff. All of that led me to Adobe. Where at Adobe. I quickly found that I fit in, pretty well.
+
+00:02:20:20 - 00:02:47:47
+不明
+I joined Adobe working on the shockwave team as an evangelist for that team. And then shortly thereafter, I became an evangelist for the e-learning group, which, creates, produces, etc. all of Adobe's e-learning related training related kinds of software solutions. So my background is, a little wild, but trust me that it's basically all has to do with education.
+
+00:02:47:52 - 00:03:18:52
+不明
+Not long after I joined the Adobe team, we started to build a project at Adobe based on the things we were hearing from customers and what we were hearing from customers all the time was that they were extremely unhappy. They were extremely happy, unhappy with their learning management systems, their backend data systems. What the what they really meant, because we went out into the world to kind of explore and understand exactly what was happening in the world.
+
+00:03:18:57 - 00:03:49:25
+不明
+Was that their training solutions in-house had very little to do with the architecture that the industry was providing them to record, report and enrich training experiences for learners. It was making it really problematic. And so we looked at all of that on a very long roll. And then over the period of about two and a half years, we developed an original piece of software.
+
+00:03:49:29 - 00:04:31:08
+不明
+This is the first fully original in-house engineered solution at Adobe for over 20 years. We were absolutely thrilled to see that it took off in the pilot, and then it took off in the early days, and then we went forward with it. Initially, that that product was known as Adobe Captivate Prime. And then eventually we realized as we kept retooling it and rediscovering it for large enterprise, that there was a very strong possibility to spot this sort of space in the industry between marketing and training learning.
+
+00:04:31:13 - 00:04:50:26
+不明
+I bet a bunch of you, how many of you have a marketing kind of alignment today? Yeah. So I bet many of you have been through this process of sort of saying, oh, well, I've got pressure from my learning teams and so on, or I am pressure from my marketing teams and they want to get some learning content, maybe some customer education content and so forth and so on.
+
+00:04:50:31 - 00:05:15:20
+不明
+But you end up not able to use existing learning architecture because it doesn't know anything about marketing. Or conversely, you try to use marketing architecture and it doesn't have any aptitude whatsoever for learning and training kinds of solutions. So we realized at a point about five years ago that that was a huge gap, and it needed to be differentiated and discovered.
+
+00:05:15:25 - 00:05:40:16
+不明
+It was at that point that we embraced the wider Adobe ecosystem, and we became a part of the central Adobe. We're now tightly aligned with Adobe Experience Manager as a solution, and that gave us an opportunity, to really begin to solve the problems that are related to the sort of modern blending of marketing and learning and training.
+
+00:05:40:20 - 00:06:04:55
+不明
+So that's my story. I wanted to talk to you today a little bit about the B2B landscape and how it's evolving, how it's changing. The space of B2B and it's story directly relates to an encounter that we had with IBM. Thus the title of today's session. Right? We've been working with IBM for a little over a year now.
+
+00:06:05:00 - 00:06:29:28
+不明
+And those explorations with IBM have helped us to work together to solve some pretty massive problems. I'll talk to you about those in detail here in a little bit, but I think probably the way to sort of make sure that you're you're fascinated for the next 20 or 30 minutes before I get there, is to let you know that IBM started with over 30 learning management systems in-house.
+
+00:06:29:32 - 00:06:57:57
+不明
+And after our initial year, they're down to 70. So consolidation is a big part of the story of what's going on with IBM, but it's not the only part of the story. And I think it aligns to this story of what's happening in general with organizations that are stopping for a moment to say, how can we address some of these long term problems and in a way that instead of just trying to fix what's wrong, actually looks at what can we do better?
+
+00:06:57:57 - 00:07:24:41
+不明
+What can we do to anticipate the potential of, hybrid space where marketing and training are kind of brought together? So as we look at the B2B landscape, I know by now you've already read my stats, right? So you can see that 55% of B2B buyers rely more, on content. 70% of buyers rank relevant content that speaks directly to our company is very important.
+
+00:07:24:46 - 00:07:54:03
+不明
+And the biggest one here, I think is 84%. B2B customers say good customer experience is a personalized experience. They rank that as sympathetic, directly related. I think when we look at these aspects, we're talking about two big things personalize ation, and we're talking about a content led series of experiences. And I think it's not trivial that that's part of what the focus is here.
+
+00:07:54:03 - 00:08:19:21
+不明
+So, I want you to think about this with me for a second, about where people are in the world that you want to advertise or market to, and do it by thinking about yourself instead of thinking about your potential customers. Right? When I make a move to advertise to you directly, let's pretend that I have a company that sells.
+
+00:08:19:26 - 00:08:41:35
+不明
+Oh, I don't know, phones. When I immediately begin our conversation with the advantages of my phone versus somebody else's phone, what happens in your mind? Just let it happen. I'm going to tell you my phone's name is, my bud. My bud. You got to hear about my bud. It's available for only 499 a month. It's an amazing deal.
+
+00:08:41:39 - 00:08:46:51
+不明
+How do you feel right now, in this moment?
+
+00:08:46:56 - 00:09:12:17
+不明
+Indifferent. That's good. That's impressive. I would take indifferent. If I were marketing this phone, I'd be like, yeah, that's pretty darn good. Anybody else feel more hostile? Yes. In fact. Yeah. Go ahead. Another subscription. Exactly. Oh my word. Same way we all feel now about any subscription service, basically. Please make them stop. They're overwhelmed. It's too much. Right.
+
+00:09:12:17 - 00:09:44:17
+不明
+So we immediately have resistance to any kind of direct advertising for sure. And in fact, marketing often can be viewed as a way of softening advertising. Right. And that's where we start to get into alternative methods of messaging, which are slightly less direct and advertising. So I want you to think of the reaction that people have to direct advertising and direct marketing.
+
+00:09:44:21 - 00:10:18:02
+不明
+Think of that as a shield. Can you imagine people putting up a shield in that sense? Okay. So now I want to ask you the question, what about content led marketing? And then later we're going to tie that question to what about education or training or customer education led kinds of efforts. Are those things the same? Do you react with the same shield, or do you sometimes drop your shield?
+
+00:10:18:06 - 00:10:49:30
+不明
+What about the difference between content led marketing and customer directed education? Can anybody define that? Can you think of a way that those two things are different? Yeah, technically anything that's an interaction or that requires the person who's engaged with it to have more than casual contact with that thing meets the definition, the technical definition of content lead marketing.
+
+00:10:49:35 - 00:11:02:15
+不明
+Right. But is that the exact same thing as, customer education?
+
+00:11:02:20 - 00:11:33:18
+不明
+It is exact same thing. Really a lot of similarities. I couldn't agree more. These two things are deeply aligned, right? So it was no surprise to me, as I had been for a long time preaching the effectiveness of customer education as a stealth marketing tool. That content led marketing ran in direct parallel. In fact, I think that it could be argued that these are what my dad would call two ways to say the same thing.
+
+00:11:33:23 - 00:11:56:06
+不明
+Right. My dad used to always say, there's not really a whole lot of new and different ideas under the sun. It's just that people in a specific occupation or a line of business come up with a way to name a certain thing, and that's the name they use. You're teaching them that. You're an expert in that field when you use those names, right?
+
+00:11:56:11 - 00:12:26:45
+不明
+I think you could make the argument they're very close to the same thing. Now, the the technical definitions up a assign a noble, notion to education, even customer education. They basically say, oh, but it's for the good of the education of the individual that they're less likely to to assign to content led marketing. I think we could probably as a room, shoot that down pretty quickly.
+
+00:12:26:48 - 00:12:45:41
+不明
+Right. I think there going to be times when you're content led. Marketing is performing a tremendous service for your customers. And I think there going to be times when your customer education is not doing a whole lot for anybody other than you, and not doing all that much for your customer. So I definitely think we're in the same kind of bailiwick here.
+
+00:12:45:53 - 00:13:06:41
+不明
+And I only wanted to point that out so that you would see. Wait a minute. There's a lot of similarity here. But remember, as we kick things off today, we talked about how there is this sort of crossover space where people have been truly frustrated and it has a lot to do with nomenclature. It has a lot to do with the way we name and describe things.
+
+00:13:06:46 - 00:13:41:11
+不明
+Think of it this way. We name and describe things in marketing related to how we access information about how people are moving through their journey right. And in education, we name and describe these things to talk about how learners are moving through their education or their skill set. There are tremendous parallels here, but the language is different enough that it frustrates us when it comes to the technology stacks.
+
+00:13:41:16 - 00:14:04:24
+不明
+So when we start to look at cases like IBM's, we can say, okay, wait a minute. The B2B content landscape is really complex, and we know that the content needs to be personalized based on any number of factors. So if we, for example, trying to create a sample where we said we're going to create a project, this project is a is a practical example of exactly whatever it is we're trying to do.
+
+00:14:04:29 - 00:14:23:06
+不明
+We could easily see that within the confines of that project, there are a number of different media or assets that have to be generated. So think about those assets for a second. Now you guys, all these assets from the exact same place right.
+
+00:14:23:10 - 00:14:54:40
+不明
+No, no. You get them from all over the place don't you? Right. So you have all these different content arms that are producing assets for you and delivering them back to you. And then they're all disparate in a way. Right. They include any number of these different pieces, which obviously can vary greatly in terms of the language they use, in terms of how they're attempting to do what they do, in terms of, what kind of expectations you're consumers have or your B2B partners have.
+
+00:14:54:55 - 00:15:14:27
+不明
+In all of these cases, these things can be all over the board. Now, as we get over to the right hand side, things like product trainings, those start to look a lot like education or traditional customer education or partner education and so on. And as we look through the rest of the stack, we can see there's just all kinds of stuff here.
+
+00:15:14:32 - 00:15:44:36
+不明
+How many of you have found that within this content marketing kind of space, you need to then customize that media, those assets to align to industries, to align to GEOs, to align to personas, to the sales channel. Yeah. People finding that it's kind of a dull moment, right? Of course, you need to align to all of those different spaces in order for that work to make sense.
+
+00:15:44:50 - 00:16:20:16
+不明
+Right. That is also the same and true inside of the education space, but traditionally inside of the education space, very little has been done to deal with these kinds of alignment. So whereas there are many forms of tags and automation and artificial intelligence that emerged at the very beginning of marketing efforts that augmented your technology stacks, there are relatively few variations of those things that exist in most of today's ecosystem around the education space.
+
+00:16:20:27 - 00:16:40:58
+不明
+So it makes sense that you would find these roads kind of difficult to kick because of that. Remember at the beginning I told you that I had gone all around the world with a number of colleagues, and we asked people what was going on with their learning architecture, and they all said that it was enough to make them want to weep, cry, gnash their teeth.
+
+00:16:41:07 - 00:17:09:30
+不明
+I'll never forget I went to one meeting. I thought it would take two hours. Eight hours later they were still complaining. That was a whopper, right? And it wasn't inconsequential concerns. They were all really, really relevant concerns. The industry sat stagnant effectively for 25 years. If you look at some of the original learning architecture technology, it looks like it's 30 years old, right?
+
+00:17:09:40 - 00:17:37:46
+不明
+Some of it is just really, really terrible. And so, of course, you'll run into these problems as you move into that space. Now likewise, you can see that across different delivery systems, different portals, all of these different pieces of B2B content are going to be delivered in these different mechanisms and methods. And we've seen the world modernized to be able to handle all of those different kinds of solutions really well, really effectively.
+
+00:17:37:51 - 00:18:02:00
+不明
+And we know that we can deliver them internally. We can deliver them externally. So we can definitely find ways to support this kind of an architecture and support an architecture that allows us to have this, material surface. The only thing I wanted to talk about here is just multiple types of content. Experiences are required for each stage of the customer journey, whatever that stage may happen to be.
+
+00:18:02:05 - 00:18:31:53
+不明
+And. Wouldn't it be cool if I could make that go on? And I wanted to note that most of the stage that we're particularly interested in the projects that we've been focused on, is in the post-purchase space. It's like it wants to, but it doesn't want to. And there we go. And that takes me right to my sort of main point here.
+
+00:18:31:58 - 00:19:02:06
+不明
+Learning solutions and technical manuals, things like that become critical content led interventions in the post-purchase experience. So it isn't necessarily true that you will never see educational content in the pre-purchase experience or in the in the decision making experience. But my point is, most of what we see here, a lot of what we see here in the post-purchase experience is this kind of content, right.
+
+00:19:02:10 - 00:19:12:30
+不明
+So we can see that there's definitely a parallel going on where these two things are happening at the same time, and we're seeing the same kind of piece. All right.
+
+00:19:12:35 - 00:19:33:16
+不明
+There we go. I want to tell you briefly about Adobe Learning Manager and how that little journey turned out and and what it looks like. So, now I recognize that most of you are any of you in training and development? Three. Three whoppers. Okay. Four note four. That's awesome. I knew coming in that most of you would not be in training development.
+
+00:19:33:21 - 00:20:03:52
+不明
+So for those of you in training development, I'm going to say this in like two seconds. Adobe Learning Manager is a full feature learning management delivery system on par with Cornerstone Own or Dojo. It supports every form of learning, including face to face training, online learning including scheduling, including skills demonstration, and so on. It is a whopper, complete with, all the solutions you need for social learning, gamification, and on and on and on.
+
+00:20:03:53 - 00:20:48:09
+不明
+Right? For the rest of you who didn't hear what I just said or can't translate that, and understandably so. The learning manager is a modern online solution that allows you to deliver educational content in all the formats that training and development specialists love, with support for all of the reporting systems that they love. And what that means to you is that if you go back and say, hey, I've got this idea for a program in marketing that's going to leverage some learning stuff, but I need to introduce it in some solution like this.
+
+00:20:48:13 - 00:21:12:30
+不明
+They are going to be cool with it because that's about as good as they could get in terms of learning management architecture anyway. It's not like it's a prohibitive or that it's, removing some value for them. In fact, for most people in the land and training world, it's absolutely equivalent, if not better, than most of the solutions that are out there.
+
+00:21:12:35 - 00:21:32:05
+不明
+So for those of you in marketing, Adobe has taken this solution quite a bit further. So you see their customer education, sales and partner and franchisee training employees, skilling and compliance. These are sort of the three buckets that we look at when we think about what Adobe Learning Manager can do. That bucket on the right employee skilling and compliance.
+
+00:21:32:05 - 00:22:10:19
+不明
+That's how your internal and HR teams discuss and describe this. They're talking about how do we upskill people through the organization in order to improve their life. So that they can have a better job. It's basically creating a path toward a job and a career. The other two are areas which are not covered at all well by conventional learning architecture, and they're areas which Adobe has specifically built in by introducing really comprehensive, solutions that integrate things like Adobe, Marketo so that you can automate your campaigns.
+
+00:22:10:23 - 00:22:40:06
+不明
+You can send out email, you can build websites, you can do all the things you can do with a traditional Marketo kind of implementation. And you can trigger, based on these interactions inside of educational experiences. Imagine you're taking a course in ECS, and that system is capable of reporting back that you took the course in ECS and sending that information into your record, so that now your record shows that you have these interests.
+
+00:22:40:11 - 00:23:19:24
+不明
+It can then make recommendations in real time to you. It can advise you to look at other parallel pieces. It can enrich the data and create this really powerful set of information that helps you understand those customer personas in a way that you don't normally get. Now, this is equally true of content led marketing, right? Because remember, content marketing has the same fundamental parameter that it's engaging the customer in some sort of conversation or dialog or interaction, which is ultimately dropping their shield through the content lead value ad.
+
+00:23:19:29 - 00:23:36:17
+不明
+Right. So you can see how these two things kind of run parallel and why there's this sort of differentiate for us in terms of customer education has a lot to do with that third bucket, right. The fact that you might well be using a learning management system as part of your standard upskilling or reskilling. Now I want you guys.
+
+00:23:36:19 - 00:24:00:30
+不明
+You guys are perfect audience for this, that those of you who are in learning and development pretend you don't hear this for just one minute for me. Now what is it you hate about learning management and learning management? Architecture? Let me hear it. Come on. You can't skip the videos. What else?
+
+00:24:00:35 - 00:24:21:26
+不明
+It's all alone. It's way out. It's completely isolated. There's no integration with other content management. That's a slightly technical answer, but a personal answer to. Right, because it. We call it the dungeon. People think of that as the LMS dungeon. You get sent to the dungeon, right? What else do you hate about it?
+
+00:24:21:31 - 00:24:42:43
+不明
+The APIs don't deliver the right data, right? So you send an API call, and whatever comes back is garbage, or it's impossible to decipher, or you can't run an API on the thing you need. There's an API for everything except the thing that you need, right? Fair. Anything else? Yeah.
+
+00:24:42:47 - 00:25:08:52
+不明
+Excellent. So analytics don't match your customer experiences. They go anti marketing. They're not aligned to marketing concepts. They're not aligned to traditional analytics concepts. They're aligned to some weird crusty Scorm compatibility model that comes from like 1982 right. Oh and what about Scorm and all those weird standards? Right. That's all over the board, right? Okay. You're not alone.
+
+00:25:08:57 - 00:25:21:23
+不明
+You guys. Oh yeah.
+
+00:25:21:28 - 00:25:52:40
+不明
+It's an excellent one, right? You're you're digging in on the notion that it's ineffective or less effective than it could be as a sort of stand alone education tool. 100% right here, too. So all of these things have been constant faults and flaws with learning management architecture. And it's not just a flaw with the data set. It's an intrinsic flaw with the way that that particular industry has failed to recognize its fallibility, has failed to recognize its direction.
+
+00:25:52:45 - 00:26:19:24
+不明
+It has not done a good job of figuring out how to make these improvements. And let's look at the way it's handled differently. When you have a marketing solution, roll out. I bet you have a whole team trying to figure out from the gate to the end point, exactly what's working and what's not. Is that true? Yeah. I'm not going to pick on any of the folks in the room, but when you folks have a new solution roll out.
+
+00:26:19:29 - 00:26:53:18
+不明
+They often don't get the most detailed information about the reporting outcomes. They often don't. Right. So there are this whole slew of problems that relate to this traditional architecture, and it's important to recognize upfront that those fundamental issues can create misgivings for everybody. There's one that. Nobody said I'm surprised they didn't say it. Who loves getting random assignments from emails that are coming, apparently from an administrator you don't know, telling you that you have to drop everything and spend the next two hours working on this compliance thing.
+
+00:26:53:23 - 00:27:20:38
+不明
+Anybody hate that? Yeah, we all hate that. That's ridiculous. Right. So that whole variety of mandatory compliance of failure to understand the learner, a failure to deliver results effectively. Who wants to take a training that they know isn't doing any good? Right. You want to take a training that you feel like is actually having a benefit. Okay. So when we look at these things, we can see that there are some differences.
+
+00:27:20:43 - 00:27:50:48
+不明
+The challenge then with the Adobe Learning Manager became to create an architecture that was so open and so integrated with modern marketing solutions that you could actually use it in a way that's significantly more effective to create an architecture that supports engagement and that recognizes the need for constant integrated reporting, that an architecture that supports every member of the organization, not just a few members of the organization.
+
+00:27:50:53 - 00:28:12:31
+不明
+And at the same time, it has to be incredibly easy to use because just like your marketing team, that learning team is not fundamentally all IT folks. Right. I we've only been in this room for, what, 20, 30 minutes? And I already know who's heavy. It in this room because it it feeds the way we have conversations and what kind of, understanding we come to quickly.
+
+00:28:12:31 - 00:28:42:55
+不明
+Right? So most of the people in these industries are not technical geniuses. And that means that for them to be able to create the content, put the content in place, do an effective job. They need to be able to focus on that. And one of the thing to just think about there, if they're busy working on the technical issues, it's less time that they have to work out the education issues to figure out whether they're delivering meaningful content right away, out of the gate.
+
+00:28:43:00 - 00:29:05:44
+不明
+Look at that. Let's talk about IBM. See, you were ready. You're all like, oh, is he ever going to talk about IBM? I am, okay. So let's take a look at a little case study on consolidating learning content for the entire enterprise at IBM. I mentioned to someone before today started that, my dad worked for IBM as you and your parents both worked for IBM.
+
+00:29:05:44 - 00:29:13:13
+不明
+This is back in the 60s for me, probably in the 80s for you. But,
+
+00:29:13:18 - 00:29:46:51
+不明
+But my my dad worked for IBM. He was a field service engineer. I have loved everything about this project. And as I mentioned earlier, it was, at its core, a tech stack consolidation project. So a project wherein the goal was to reduce all these dependencies on 30 plus learning management systems. This happens everywhere. I bet you if we could secretly get you guys to raise your hands, I would find out that there are others in this room who also have at least ten learning management systems.
+
+00:29:46:56 - 00:30:25:38
+不明
+Anybody admit to ten? Anybody admit to 15? So we go for 20. The highest I've ever seen is 42. But they grow and they multiply. People are reluctant to shut them down, and often they find it difficult to consolidate them and shrink them down into size. So it becomes really relevant. Now, if we look at IBM's use case specifically, they had too many of these learning management systems that were legacy, etc., but they didn't hate everything about everything.
+
+00:30:25:38 - 00:30:47:54
+不明
+And so they did a thorough review and came to understand that there were content delivery solutions that really work for them. Kaltura and a number of other solutions that were delivering everything from streaming video to specific kinds of content. All were quite effective, but the cost was absolutely prohibitive to have so many different architectures in place at the same time.
+
+00:30:47:59 - 00:31:14:18
+不明
+So they needed a way to consolidate the architecture, reduce the cost overall, and bring these solutions together in a way that was more comprehensive and less painful. Right. And that meant some kind of architecture that would allow them to bring other forms of content and media into a kind of centralizing hub or space. Now, in addition to that, they want it to be future ready.
+
+00:31:14:23 - 00:31:46:18
+不明
+They're concerned about their large language models. They have a tremendous amount of investment that's gone into Watson ECS. They have had tremendous success with their AI based, logic related to Watson ECS, and they wanted to have an architectural approach that would allow them to integrate with their data systems, with their knowledge base records, with their learning management architecture, and so on, without having to worry that the LMS would be proprietary and exempt them from using Watson.
+
+00:31:46:23 - 00:32:11:21
+不明
+Right. Now, you guys, obviously you're here. You know Adobe well enough by now to know that our approach is often open. And so that kind of approach introduces an architectural approach that's very beneficial when we work with companies like IBM because we are working of course, on AI solutions, and we are working on solutions that will allow us to, realize that data.
+
+00:32:11:26 - 00:32:34:24
+不明
+We're also very concerned about hallucination. We're very concerned about ensuring that, when you ask your corporate system a question, you not get nonsense, you get actual usable data and that that data be salable and that it be something that's easily recognizable. And so that also aligned in this case to Adobe Learning Manager and the direction that we're taking our work.
+
+00:32:34:29 - 00:33:02:38
+不明
+And the ability to integrate obviously with Watson X or whatever kind of architecture and Lem models they were deploying and then finally unifying content creation and delivery, a big concern for them. They, had more than 100 content publishing teams that were using a huge range of content creation solutions, in the learning domain. They wanted to unify those efforts and bring it back down into a smaller pool of content creation solutions.
+
+00:33:02:42 - 00:33:25:56
+不明
+So they've actually switched to primarily most of their content creation now is done using Adobe Captivate. I don't know if you've had a chance to look at Adobe Captivate in the last two years. It has sort of moved from long in the tooth to pretty darn stunning. And now as we introduced the AI based content authoring, those kind of solutions there, they're really cool.
+
+00:33:26:10 - 00:33:52:09
+不明
+I, I'm so proud of the way Adobe has handled these AI integrations that the rule of thumb seems to generally be this it's not your job to create content for the customer 100%. It's your job to expedite the workflow for the customer so that they can do the job they need to do faster and easier. So, can you use Firefly and other tools to create content, augment content?
+
+00:33:52:09 - 00:34:14:32
+不明
+Deliver suggestions? Yes. Should that somehow impede them from being able to make their own changes, make their own text, do their own work? You know, scan it and so on. No, it should absolutely not and should always be flexible. And so that was in sync. In terms of the way we've been working and the way they've been working, and this then made really good sense.
+
+00:34:14:37 - 00:34:39:06
+不明
+All right. So now I'm too old to read that screen from here. So I'm going to come over here like this. I'll just confess it openly. I'm just way too old for that. So IBM's reasoning here was pretty straightforward. They wanted multiple platforms to be consolidated and not have so many platforms, not have so many workflows, and they wanted to separate those pieces.
+
+00:34:39:11 - 00:35:07:40
+不明
+Obviously they wanted to, reduce the number of content sources and separate that out. They wanted to integrate with their, content display platforms, their large language models, and they had challenges with learning governance. And that meant that they wanted to reduce the overheads related to governance of the learning solutions. The fewer architectural solutions they had, the fewer governance teams, bodies, etc. that they needed to have.
+
+00:35:07:45 - 00:35:27:52
+不明
+I don't know if any of you have ever met some of the learning team from IBM. I have several times. They often go to training magazine conference and other major conferences. And it's just clear that over the years this had swollen into this enormous effort across many, many teams and many, many solutions. And it needed to be kind of reined in.
+
+00:35:27:54 - 00:35:51:19
+不明
+So some of that is a matter of getting together and working with the customer to kind of say, okay, well, how can we all work together to, to understand better the approaches that we should be using? But some of it is also having an architecture that's flexible enough to import 17 learning management systems into one architecture, with, you know, simple migration kind of solution.
+
+00:35:51:24 - 00:36:02:50
+不明
+So it can kind of vary there. I'm watching my clock. I'm at 743 before I have to pause for questions. So.
+
+00:36:02:55 - 00:36:19:42
+不明
+I just I was there was great pride in that because usually I run horribly over and I feel like there's a slight chance that both will be the last session of the day, and I'll be the one that doesn't run horribly over, which would make me so proud. All right, this is the slide I love. I feel so proud to be a part of this project.
+
+00:36:19:46 - 00:36:59:52
+不明
+This is insane. So if you've seen any kind of tech stack consolidation or learning management, consolidation in the past, you may notice that these numbers are obscene. First, it should be mentioned. IBM is one of several organizations that we have worked with that is doing projects that are really should be considered social responsibility projects. Right. They have a solution where they are providing free training to high school and college students in the millions, and they're shooting for a target of 30 million by 2030.
+
+00:36:59:57 - 00:37:34:55
+不明
+This is a massive education goal. But note there that these are the numbers of people who are now using the system, right? So we're at, 315,000, that are employees. That's internal, IBM employees. We're at 180,000 who are employed by business partners of IBM. We're at 457,000 customer learners. That's half a million customer learners. And then we've got that 10 million stack of corporate social responsibility learners as well.
+
+00:37:35:08 - 00:38:05:57
+不明
+So this is a massive project, one that helps IBM obviously realize some benefits. Anybody have guesses about what those benefits might be? Yeah. Everyone's smarter. Let's hope. Let's hope everyone's smarter. That should definitely be a part of it. What else? Sorry. First party data. They now have the data under one roof, all consolidated into one space. That is useful, right?
+
+00:38:05:58 - 00:38:12:01
+不明
+That is intelligence that you can't get a lot of other ways. What else?
+
+00:38:12:06 - 00:38:50:16
+不明
+Sharing content across these instances becomes possible. Anybody have other thoughts? Cheaper. Inevitably. Cheaper. Right. You're getting rid of over half of your existing systems. You're reducing your governance. You're reducing your need for additional personnel. Definitely. Definitely cheaper. Yeah. Ultra. Oh come on. So there have been challenges in implementation and they continue to be viable challenges, right? Those challenges included that there were 40 plus applications to transition.
+
+00:38:50:21 - 00:39:16:56
+不明
+They had over 40 applications. They needed to transition to the Adobe Learning Manager, such as, content display platform, a learning experience platform, and others. Many of these, were considered quite effective. And I think it's it's also worth noting that IBM was quite selective about exactly what they wanted to consolidate out and what they wanted to continue forward.
+
+00:39:17:01 - 00:39:38:41
+不明
+And they found solutions that worked for them. In some cases, we worked with them to help them consolidate the stack in ways that we didn't necessarily support going out of the gate. So another big achievement of this particular effort was we didn't support LTI. That's very common. In fact, most learning management systems today in the corporate space do not support LTI.
+
+00:39:38:46 - 00:40:03:12
+不明
+But IBM, like many companies, was finding more and more demand for LTI, especially as it related obviously to their social responsibility stuff. But also as it relates to just sort of general business need, I'm also hearing more and more from people in the healthcare space and legal space that they need LTI. So making that move specifically hand in hand with IBM for us was, you know, great pay off.
+
+00:40:03:16 - 00:40:24:48
+不明
+And then, there were 100 plus publishers, 15,000 learning activities, all of which had to be transitioned. The fact that we're able to automatically migrate digital files, along with records, obviously plays a big role in helping us out there. They divided the implementation into multiple phases, and you can see that those phases occur over a set of three years.
+
+00:40:24:52 - 00:40:48:10
+不明
+We do expect that these phases will continue on going into the future, but this is how far we worked with IBM to sort of say where we are. Right. So as you look at it from the beginning, you can see that the first in 2024, the planning, strategic planning, defining the most valuable players and so on is the basic core activity for the first year.
+
+00:40:48:15 - 00:41:16:50
+不明
+As we moved into 2025, we established Adobe Learning Manager as the principal learning management architecture for the organization that becomes the strategic learning management space. And then now into this year, we're starting to migrate things over to where we establish Adobe Learning Manager as the part of record. I think it's worth making this point to sort of show you that transitions like this are not instantaneous.
+
+00:41:16:50 - 00:41:43:13
+不明
+They're not overnight. You don't snap your fingers and then suddenly change everything. Instead, you look at what are the needs. What's a reasonable schedule to roll out? How can we migrate the existing solutions, bring people across, minimize the pain for people so that as often as possible, they're not even aware that they're back end system architecture has changed and then bring them into a space that's more meaningful.
+
+00:41:43:17 - 00:42:12:55
+不明
+And I think if I did that right, yeah, I did. So the expected benefits of using Adobe Learning Manager obviously decreasing the cost. We went over these, improved productivity in terms of time to launch, revenue gains through, standardized and modernized learning processes. Keep user experience at the top, and while, simultaneously easing the governance requirements in the back end and reduce the number of learning applications and administrative overloads.
+
+00:42:12:59 - 00:42:42:15
+不明
+Look at that. And in my little clock thing says that I finished with 122. In order to give you enough time to ask me questions, go nuts. Please don't hold anything back. I am made of Teflon, so by all means I will go back. One slide. Awesome! It was so nice to meet you all. Thanks for staying. I know that I'm kind of dull and uninteresting, so, feel free to fill out your thanks.
+
+00:42:42:20 - 00:42:57:49
+不明
+If they. If they give you evaluations, please fill them out. It's, wonderful to meet you all. Don't hesitate to reach out to me. I'm Doctor Partridge Allen on LinkedIn. And I always love making more friends, so thanks, everybody.
+
+00:42:57:54 - 00:42:58:37
+不明
+Who?
+

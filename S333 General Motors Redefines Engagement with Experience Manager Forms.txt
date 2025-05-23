@@ -1,0 +1,476 @@
+00:00:00:03 - 00:00:26:04
+不明
+Okay. Hi, everyone. Thank you so much for joining us in this session today. In which run from Jim, we'll talk about how he managed to redefine engagement using a forms. So before we get started, I just wanted to ask everyone here a quick question, a quick question, which is what's the connection between these products and services? We have a house, a business loan, a motorcycle and a VR headset.
+
+00:00:26:09 - 00:00:35:11
+不明
+Feel free to shout anything. Think quietly. Both options. Okay. Give it a couple seconds. There.
+
+00:00:35:16 - 00:01:01:23
+不明
+I heard someone over there. Maybe now. Okay, so the answer is that you need to experience them before you buy them. You actually need to go into the house and figure out if the lighting matches what you saw in the pictures. You need to go into their bank and negotiate those contract terms. You need to test out that motorcycle and see if that's the speed that you were actually looking for, and figure out if you like a VR headset or you don't.
+
+00:01:01:28 - 00:01:18:52
+不明
+And the way the customers are going to arrive to those experiences is through forms. This is what's going to happen. They're going to do a lot of research in the market, narrowed down their options to maybe top three or top two. And for the ones that they want to test, they're going to request an experience using a form.
+
+00:01:18:57 - 00:01:40:28
+不明
+Now on the other side, what organizations want to happen is to make that experience as best as possible. Because in that way, you're maximizing your chances of turning that person into an actual customer and buying your customer your product. So the real question here is how do forms need to be to actually drive successful experiences? And it's three things.
+
+00:01:40:33 - 00:02:04:58
+不明
+Agile. It needs to be able to be used for any author, for any type of form. It needs to adapt to all your customers. And finally, it needs to be integrated with all your systems. So now I will pass it over to Ron, in which he will tell his story about forms in the. Thanks, Melissa. So, you know, a lot of the GM's really interesting.
+
+00:02:05:05 - 00:02:29:19
+不明
+And, my my role GM I'm the software, engineering services manager, kind of over the, brand sites organization and our software and services group. Which is a fancy way of saying I help run all of our brand sites globally for GM. One of the things we kind of want to talk about is hopefully what you'll learn during the session, you know?
+
+00:02:29:23 - 00:02:50:32
+不明
+I think it's paramount to understand that, you know, homegrown solutions certainly have their place. There are definitely going to be instances where a homegrown solution makes sense. However, in our particular case, I think what we found is, for various reasons, the homegrown solutions we kind of came up with, put us in a situation where we couldn't be as agile or as fast as we wanted to be.
+
+00:02:50:32 - 00:03:07:44
+不明
+And, you know, when you lose that agility and that speed that really does kind of eat up time, it eats up your development resources, time. It puts you kind of behind it all a bit. So, from a business perspective, that can also look at the idea that you're not innovating potentially as fast as your competitors either.
+
+00:03:07:56 - 00:03:35:53
+不明
+So, in one of the things to do is and, and streamline our operations, you kind of get also above the table stakes, right? Once you kind of get above the table stakes kind of offerings, it becomes, how do you prioritize optimizing for the customer experience? And that's looking at who your customers are, what they're trying to do, and trying to meet them where they are by providing experiences that really speak to them and reduce the friction and barrier to entry for what they're trying to do.
+
+00:03:35:57 - 00:04:00:14
+不明
+Lastly, I think once you kind of start to converge on that customer experience around doing things that, you know, streamline and optimize for the customer journey, you can then also then look at the next level of truly personalized experiences. How do you get customers, to further reduce the friction points? If you know who the customer is, don't ask them for information you potentially already have.
+
+00:04:00:19 - 00:04:17:02
+不明
+And you want to be a good steward of that customer information through the life cycle. So with that, let me talk a little bit about what, kind of the footprint we're talking about here. You know, we're operating 100 plus countries where the fifth largest global automaker, you know, we're in the top five of U.S. companies.
+
+00:04:17:05 - 00:04:39:09
+不明
+GM is an institution in America. So, when I say that we have a lot of websites and a lot of web content, that is not an understatement. It is literally tens of thousands of pages, if not hundreds of thousand pages globally. And it is no small feat, the small army we have to kind of put together for authoring and and things of that nature.
+
+00:04:39:14 - 00:05:00:11
+不明
+But we're also looking at all ways in every, you know, place, how do we optimize to make sure we're reducing the manual effort around this. And that's, you know, we're always looking at the various things we can do to streamline that customer experience and streamline the business operations, parts of things, so that we're not constantly rebuilding and orchestrating the same things.
+
+00:05:00:15 - 00:05:21:14
+不明
+Another interesting piece is in the automotive industry, you know, there are some industries where maybe you only have one brand. GM has four major brands we have to contend with. But, we tell part of the story. There's a number of smaller brands too, like our parts organization, OnStar. You know, it ends up being quite a significant footprint when you look holistically at GM's offerings.
+
+00:05:21:19 - 00:05:44:02
+不明
+We also have a high number of models and a huge dealership footprint as well. And dealers being the lifeblood of what we do are kind of the front door interaction, how we work with our customers and kind of the sales funnel and actually being able to sell vehicles. So a vital part of the, you know, actual customer journey and purchase chain.
+
+00:05:44:07 - 00:06:07:10
+不明
+So, you know, that speaks a little bit about GM, but what about us from a content management perspective? You know, we have roughly 140 what we call tier one brand sites. And when you go to chevrolet.com, that is a tier one brand site. And those are basically OEM operated brand sites that we control. We want to control the messaging around our vehicles and kind of talk about them.
+
+00:06:07:15 - 00:06:42:22
+不明
+And that's opposed to what we would consider a tier three dealer site. Of which we actually operate 200 tier three dealer web sites in Mexico and 600 tier three dealer websites in South America. So we've actually built our CMS solution, to be extendable and supportable for these dealers as well, where essentially we can we know we can operate a website better than the mom and pop shops that are out there locally for them, and that kind of helps create a consistent experience for the brand, but also provides the dealer with the quality of the web experience they know they're looking for.
+
+00:06:42:31 - 00:07:02:45
+不明
+And we can kind of converge a lot of the pieces together in how we support both. This is also across 37 countries that we have kind of our websites across in nine different languages with ten different brand themes. So when we talk about brand themes, that's usually like your the coat of paint we put on top of the all your CSS kind of stuff too.
+
+00:07:02:46 - 00:07:21:04
+不明
+So CSS, typography, colors, all that stuff that actually gives it its identity. We've got ten different sets of those that we need to support across the whole thing. So when you add up all these things together, it could be a substantial footprint. This also doesn't speak to the the actual types of forms, so it may not sound like a lot.
+
+00:07:21:06 - 00:07:47:46
+不明
+We've only got like six or so types of forms. However, when you math the math. We have a lot of forms. There's like 3000 plus forms globally. And, when we've kind of been through our journey and how we look at this and orchestrating and maintaining and optimizing, for this, it ends up being a significant burden to kind of look at that over time.
+
+00:07:47:46 - 00:08:16:27
+不明
+If you're having to do a lot of that work manually, it just is untenable. So, let's just kind of talk a little bit more about the forms themselves, right? So GM has a number of types of forms. And an example of three of them are like the contact us form. So if you want to have an interaction with a GM brand, but maybe you're not quite ready for the purchase funnel yet, but you want to continue to understand, what we're doing as a business.
+
+00:08:16:27 - 00:08:35:47
+不明
+The vehicles that are coming out. Maybe you want to stay close to Cadillac because you're interested in the brand as a whole. You can fill out a contact us form and, you know, be entered in to receive information on a periodic basis about what GM does. It doesn't put you directly into the purchase funnel, but keeps you informed about what GM is doing.
+
+00:08:35:52 - 00:09:05:16
+不明
+There are also more immediate actions you can take as a customer. So you can go fill out a request to quote form if you are ready to buy. If you know that you are looking for a specific vehicle. Our request to quote experiences are actually pretty smart. So if you go through our inventory lists and you find a specific Corvette that you are super jazzed about, you can actually go ahead and ask that specific dealer for that specific Corvette and get a quote.
+
+00:09:05:21 - 00:09:24:53
+不明
+You just enter your information, you press the button and you're good to go. So we actually try to reduce some of those barriers to entry through optimizing the customer flow through the journey by saying, hey, we already know what vehicle you were looking at. We already know that this vehicle existed a particular dealer. So let's remove as many of those barriers to entry as possible for the customer.
+
+00:09:24:58 - 00:09:48:30
+不明
+On the other side of the spectrum, you could, in theory go build a brand new Corvette corvettes. Literally, the number of permutations I think ends up in like the trillions of options you could have. So it's it's astronomical. So you could build a corvette that is unique for you, that has all the options you want, then pick your the dealer you like working with and still go through the same exact form.
+
+00:09:48:35 - 00:10:04:26
+不明
+Likewise. You might come in cold, the know you want to traverse and kind of go through that and not have a specific traverse in mind. Maybe you don't even have a specific dealer in mind. Maybe you pick three dealers that you want to shop around and interact with. The same form works for all of those customer journeys.
+
+00:10:04:31 - 00:10:25:46
+不明
+So it's really flexible in that way to provide an experience that meets the customer where they are for whatever particular kind of route they're going through. At that point. Smart forms. So I said, our forms are smart, but we actually have a thing called a smart form, which is confusing. But in this particular instance, the smart forms are actually looking at the customer behavior.
+
+00:10:25:50 - 00:10:47:40
+不明
+So in this particular instance, say you go and you're looking at a vehicle and you're then kind of poking around the site, maybe you go look at an offer you're trying and thinking about. Maybe I'm on the fence. In this instance, the form comes to you. The formal actually pop up at a certain point in the experience when you've met a number of criteria and says, hey, I saw you were interested in this vehicle.
+
+00:10:47:44 - 00:11:10:00
+不明
+Would you want to get a quote? And by bringing the form to the user at that point, we're trying not to be obnoxious by having nobody likes the model where you have like 50 pop ups kind of come up all at once, but at the same time, we're trying to monitor you for when you've met enough criteria where we say we think you're interested, and at that point we can kind of push you a little bit.
+
+00:11:10:05 - 00:11:35:38
+不明
+Ironically, these forms are actually some of our best converting forms. For that reason, people want that little nudge after they've kind of gotten in the right direction. So in our forms world, this kind of illustrates some of the most popular flows. So just out of curiosity, who's going through a vehicle experience, where you've had to go fill out a form like this on a, on an OEM website?
+
+00:11:35:39 - 00:11:43:18
+不明
+Anyone? I see some hands. Was it a good experience?
+
+00:11:43:23 - 00:12:04:49
+不明
+I'm going to guess probably not. In some cases you usually get it bombarded by dealers and whatnot afterwards. So it really comes down to trying to get to a customer and meeting them in the right spot where we're sure they're engaged. We know they want to kind of go through that perspective that that relationship with the dealer at that point where we can hand a qualified lead off to a dealer for them to kind of complete the transaction.
+
+00:12:04:54 - 00:12:27:46
+不明
+Hopefully, that also explains a little bit about why dealers might contact you so much. Because they are they are independent businesses that definitely would love to close a sale. So let me walk you through a little bit of the journey and kind of how do we get here? Right? At various points in our journey, we kind of came from a place where, you know, when I started with GM, our forms were a lot more rigid.
+
+00:12:27:51 - 00:12:52:18
+不明
+We had completely Java backed applications where, the, the forms themselves and the, the styling and kind of the business logic. It was all mushed together. Right. And they worked and it worked fine. There was nothing wrong with it. But you might not be able to innovate or change as rapidly as you'd want to, because all those pieces were tightly coupled together.
+
+00:12:52:20 - 00:13:12:51
+不明
+Right? So GM kind of looked at revising our strategy, and we kind of got into a room and said, hey, if we could go do this again, what would we do? Right? And we looked at the opportunities we had. We developed a new system. We said, hey, we're using a GM. Let's figure out how we can use the pieces of a GM insights, maybe to build our own forms.
+
+00:13:12:56 - 00:13:44:05
+不明
+And we built a solution and we launched it. We realized we had a significant problem. Authors were kind of putting some form fields maybe where they shouldn't be, and that's because there was no contract between the UI and the services that we had decoupled from the broader application. And in that moment, we realized we had, I don't say, made a mistake, but we hadn't considered all the potential problems when our author routine wasn't necessarily informed about the full capabilities of the forms themselves.
+
+00:13:44:10 - 00:14:10:24
+不明
+So this ended up kind of having us pivot where the development team kind of took control of the actual form layouts themselves and the form capabilities in the form of like a static manifest of Json information for those forms. So what's more, broadly speaking, the development team had to get involved again and didn't really want to, and it slowed things down, didn't really get us to where we wanted to be and was cumbersome.
+
+00:14:10:28 - 00:14:27:10
+不明
+We made a lot of strides in where the UI was, and it still had more flexibility than where we had been, because we had decoupled the services layer. So the services layer could now kind of incrementally innovate independently. But on our UI side, for how the CMS was actually putting those forms out, we still didn't have the flexibility.
+
+00:14:27:12 - 00:14:49:25
+不明
+We're looking for enter in and forms and forms is kind of where we took another crack at it and we said, hey, look, we know what the problem is now. We know we can't kind of give all of the freedom to the authoring team because we give too much freedom. Somebody is going to put a piece of data into a form, and the because the back end is not aware of it, it drops it on the floor.
+
+00:14:49:30 - 00:15:10:12
+不明
+So we didn't want to have that. So just to kind of give you an idea of like the various problems we had when we when we originally started, the front end and back end were tightly coupled. We didn't really have responsive experiences. We were still dealing with. AMP versions and full blown, you know, things. And we required code changes every time we wanted to change a field, wasn't it?
+
+00:15:10:23 - 00:15:34:33
+不明
+Right? But a lot of the web was like that then. I don't think it was anyone's fault. It was just more of a maturing exercise that I think everybody probably in this room has gone through with their own applications. When we kind of took our first crack at it, we realized we ran into some problems here also where we, you know, we didn't have the ability to kind of create an intrinsic contract between the front end and the back end fields.
+
+00:15:34:37 - 00:15:53:19
+不明
+So if the backend needed a field, there's nothing. And it was required, there's nothing that required the front end of the form to collect that information. So you could have a form that never actually successfully validates on the back end. Likewise, if the front end of the form includes a piece of information and the backend is not ready to accept it, it drops down on the floor.
+
+00:15:53:24 - 00:16:15:24
+不明
+So that was a huge pain point for us. I mentioned the Json authoring configuration thing and never again. We will never go back to that. We also had to go build a lot of our own custom form elements on top of that, so to speak. The language of forms, the HTML kind of standard has a forms set of parameters that you should use.
+
+00:16:15:24 - 00:16:40:35
+不明
+What an input field is a form wrapper. And we had to go kind of write these up ourselves. And that took time to speak the native language of the web in regards to forms. So ultimately where we got to is then when you think about these in terms of the scale we had to operate that, we ended up actually where multiple of these solutions were kind of actually coexisting at the same time.
+
+00:16:40:35 - 00:17:04:13
+不明
+On top of each other, which wasn't great. And we realized we needed to do something significantly to to draw a line and innovate for where we were at. So, I'm sure I'm not alone in, in everybody who's probably had ecosystems that are similar. So we took a step back and we had to define what we actually wanted to do.
+
+00:17:04:17 - 00:17:31:00
+不明
+Our pain points around ensuring data integrity, giving freedom to authors, and being able to adapt our experiences to our brands, and at the same time also taking the development team out of situations they didn't need to be involved in freeing up development resources for other tasks that we needed to go complete, and to do this for 3000 plus forms.
+
+00:17:31:05 - 00:18:00:54
+不明
+And that's kind of where we got to a Informs. So when we when we chose a forms as a cloud service, it kind of mapped to the things we wanted to do. So for example ensuring data integrity and forms has something called the form data model. So if you have a Rest endpoint that has a particular schema, you can actually use the form data model in and forms to generate a series of essentially the schema for you.
+
+00:18:00:54 - 00:18:32:25
+不明
+On the authoring side that has the components that map to each of those form fields. And you can define that mapping and kind of create this, this piece. But what this does effectively is it gives your authors a palette to paint with. They can't go create any color they want. They can't use any component they want. But now, because, you know, there's a contract between the front end in the back end, you have eliminated both the risk of an author, including a field that isn't captured by the back end and the back end, requiring a field.
+
+00:18:32:28 - 00:19:01:13
+不明
+The author hasn't put it so. That form data model creates an integral binding contract that makes sure the data integrity is there across the board. It is essential to making this work. A result of that, though, is we've now given the the business and marketing teams and authors a way to kind of manipulate those forms if they want to add additional instructions inside of the form or move the form fields around.
+
+00:19:01:17 - 00:19:17:35
+不明
+They totally can do that. We are not dictating through the form data model the order the data needs to be collected in. We are just saying this is the data you can collect, and any of the data that's required needs to be marked that way in the API.
+
+00:19:17:40 - 00:19:49:50
+不明
+By also doing this and forms brings you those standard HTML form components right off the bat, out of the box. Functionally, they all just work. So that kind of, you know, serves multiple purposes of one because they're all functionally the same. You don't have to go reinvent the wheel that allows you to bring your brand's identity and styling to it, without having to worry about rebuilding an entire set of functional UI components for the forms.
+
+00:19:49:55 - 00:20:10:46
+不明
+On top of that, it also reduced some of the burden under development team around, you know, those pieces of of not having to build the HTML pieces, but at the same time, forms are also can be complicated organisms, right? You might have instances where you have branching logic where people need to make decisions, and then you have new fields that open up based on what happens in the old world.
+
+00:20:11:00 - 00:20:38:19
+不明
+You need a developer to go code that logic. Probably have some JavaScript on the front end, or worst case scenario, maybe you're you're backing it to the server when it sends. The form is giving you different variations, but it's a lot more complicated. And again, absolutely needs a developer involved. Whichever way you go with the rules engine the AMM forms provides, you now have a way to create those simplistic rules that are based off of the outcomes that a customer takes.
+
+00:20:38:24 - 00:20:59:41
+不明
+So you could say if in field one I say a and fail to, I say B, I now get an entirely new set of forms options that have information I could collect. So it creates a more dynamic experience that allows you to maybe up you skirt some of the pieces of information you want to collect until you actually know that they're relevant to the customer to collect them.
+
+00:20:59:45 - 00:21:17:33
+不明
+So the rules engine is extremely important. And what we found is as we were doing this, that, hey, migrating this for our 3000 forms, I won't say it was easy, but it was easier than if we were the the solution we were living with at the time. So let's talk a little bit more about each one of these things.
+
+00:21:17:33 - 00:21:38:48
+不明
+Kind of independently. So we talked about the form data model a little bit. And that contract one of the things that this kind of also does too is your you can have multiple authors working against these forms because, you know, your authors don't need to be experts in what the data is. The contract does that for them, right?
+
+00:21:38:53 - 00:22:12:11
+不明
+So whatever type of information you're pulling in that schema, that data model is basically making sure that the form will always submit. And that is like gold right there. Because what you don't want to do is have a form you think works. You go and fill it out, you get a success message, and then you find out from the person who's running the reports on your data that, oops, the data is all gone and never actually made it anywhere, or your error log is now, you know, flush with all sorts of that data.
+
+00:22:12:16 - 00:22:35:26
+不明
+So, there's a lot of things that are about the form data model that I can't summarize all up here, but it is vital for teams that are trying to make sure that you have a connected platform between your services engine that is collecting your data and, the UI. And this is just kind of a show of what this looks like under the covers.
+
+00:22:35:27 - 00:22:55:30
+不明
+So one thing you'll notice is this form is not pretty. And there's a reason for that. We actually apply the styling after the fact. So a lot of this you can actually now join the form up to have the data in the right spots, the UI in the right place. And then you apply your coat of paint on top of it.
+
+00:22:55:35 - 00:23:13:53
+不明
+Right now you can use the same form structure across all your brands, and it scales up really well and really nicely. You plug in an extra few couple data values that define the brand, or define the dealerships you're working with. Bam, you have a working form. So now by template sizing this, we've kind of cut down on the initial barrier to entry.
+
+00:23:13:53 - 00:23:38:57
+不明
+If we need to launch in a new region for a new brand, so on and so forth. So saves you a lot of time. And then if you need to tweak that template, you can totally go in there and do that. But on the left hand rail you'll actually see that we have fields and the different components they're tied to that show you all the things in that data model that are all the possible things that the author could pick.
+
+00:23:39:01 - 00:23:59:49
+不明
+Mentioned the out-of-the-box component library, but this is it in practice. So in this world, you know, a select boxes select box, a radio buttons, a radio button, a button is a button like these things that are intrinsic to how forms work. You just get them and our forms then can look, you know, a similar as we want or as different as we want.
+
+00:23:59:54 - 00:24:23:30
+不明
+Applying that coat of paint as necessary to introduce colors, typography, layout where we determine it's, you know, worthwhile and that reverse it reduces the burden on the dev team, accelerates our time to value. We don't actually need to worry about building components. The big asterisk on this you can build a custom component if you need to. There are times that it might make sense.
+
+00:24:23:34 - 00:24:50:13
+不明
+So for example, the first component in this page on each of these pages is actually the same custom component. And it actually lets you pick a make model here of a vehicle and is communicating with a data service to facilitate that transfer of information. And the reason we chose to build it that way is there's a very specific set of business logic that also determines when certain things need to show up to, and also pulls in things like image and price.
+
+00:24:50:18 - 00:25:13:14
+不明
+So we determine the overhead, for this repetitive task for an author didn't make a lot of sense. And the development team decided that they want to control when that logic would change. So the goal is yet to 80% reusability. You're going to have your 20% edge cases. That's okay. Getting to 100% out of the box, you know, is is almost unrealistic.
+
+00:25:13:19 - 00:25:39:03
+不明
+But if you can reduce your overhead to the most important things to your business, then you can focus on them. Picking a vehicles pretty important for us. The other custom component that's on these ones is picking a dealer, which is also really important to us. So those two things as being custom components made a lot of sense, but we also wrote them in such a way that again, we decoupled services and UI and styling.
+
+00:25:39:14 - 00:25:52:50
+不明
+So that we could use reuse the same component for authoring and baking into our templates. So for authors, it becomes a seamless experience. We still have the data contract we need to have and everything is right as rain.
+
+00:25:52:55 - 00:26:10:08
+不明
+So that out of the box component library there is if you're not, have you haven't been there and I think it's a game components. Dot dev. Has a full list of all of the components there that are possible with the A and core components, but they also have the four components. It's worth checking out. It's really cool.
+
+00:26:10:13 - 00:26:28:55
+不明
+And then on the the component list, you just you get all of these things that you would expect a form to be able to do for you right out of the box, no questions asked. Done. And that is really nice because then you don't need to go write all the TL for it. You don't need to go write a dialog.
+
+00:26:29:00 - 00:26:42:41
+不明
+But at the same time, if you want to inherit those components and build on top of them, you totally can do that. So you it isn't, you know, one or the other 100%. You don't need to go all in on custom or all in out, out of the box. You have the flexibility just like you do with traditional.
+
+00:26:42:41 - 00:26:59:16
+不明
+I am in a lot of ways to inherit what you want. Build on top of it. You get the benefits of what Adobe has done to stand on the shoulders of giants, and you be able you're able to implement these things really quickly and easily. So yeah, at that point you only need to build and bring your own styling.
+
+00:26:59:16 - 00:27:14:59
+不明
+And this is where kind of the magic happens, where we're able to basically take that brand agnostic form and add a layer of paint on top of it to make it look like the brand. And we could do that for each brand. If all of a sudden, tomorrow I got a phone call that was like, we need to spin up an entirely new brand.
+
+00:27:15:14 - 00:27:30:29
+不明
+We would just need to add a new style sheet. That's it. So it ends up making it really easy, and it makes a lot of sense for how we need to scale as an enterprise.
+
+00:27:30:34 - 00:27:51:37
+不明
+Rules engine. So the rules engine is extremely powerful. I mentioned the vehicle make model year thing before. That's more of a complex thing because we're also changing things on the UI as a result. But if you have branching logic in your forms, things that are relatively simple or and they don't have to be simple, but you want to make sure you make the right decision around repeatability.
+
+00:27:51:51 - 00:28:14:40
+不明
+This is where you could have something as simple as like, is this a personal transaction or a business transaction? It's a business transaction. I'd like to know more about you. So we uncover a number of fields that are again there in the form data model that are then available for users to enter. We can even then flag those new fields as required conditionally.
+
+00:28:14:45 - 00:28:36:45
+不明
+So that provides a really powerful experience where we can begin to tailor the experience a little bit more for the customer around what they need to do when they need to enter something, really making it feel organized and adaptable and at the same time sustainable. With the API system we have in place around what data we know we need to collect.
+
+00:28:36:50 - 00:28:49:23
+不明
+So a really crucial bit for contextualizing experiences for your customers in order to create that branching business logic or conditional behavior.
+
+00:28:49:27 - 00:29:12:03
+不明
+So yeah, this this goes into a little bit more of like specifically what that looks like for authoring. So as an author you can go ahead and select the component can be one right out of the box. You create a visual business rule. So you don't need your authors to know programing or your marketers to know programing. Use a visual rule set that you then go and put in, and then the form fields change depending on your answer.
+
+00:29:12:08 - 00:29:17:27
+不明
+Pretty simple.
+
+00:29:17:32 - 00:29:37:37
+不明
+Overall and forms for us has enabled a lot of creativity for our business units. It's made it easier for us to streamline the operations we have and rolling things out. It's made it easier for non-technical folks to make forms and kind of have those conversations in the organization to really rapidly turn around changes when they want to see them.
+
+00:29:37:42 - 00:29:53:47
+不明
+There's a big thing as long as it's in the form data model, that's the big asterisk has to be downstream compatible with the data. You know, it really makes it easier to get through the process and spend more time thinking about the customer experience.
+
+00:29:53:52 - 00:30:14:18
+不明
+We talk a little bit about the future, right. This is where I'm going to read the tea leaves a little bit. So the the full speculation handles on here about what we might do in the future. And I have some of my product folks in the audience. I definitely can't promise anything. But, you know, we're we're trying to think about what do we want to do next, right?
+
+00:30:14:18 - 00:30:37:49
+不明
+Where where are we going with our forms implementation? And, for our forms implementation, we're talking about, refreshing the component library. We started our journey with a Am forms a few years back, and this was prior to the core components really being a big thing. So at the time they had what were called forms, foundation components, very similar idea, but different.
+
+00:30:37:54 - 00:31:10:18
+不明
+And in that notion, Adobe came along and, and did the right thing and built a more unified, more current robust library, which is actually what the components you will see on Am components. Dot dev, those, adaptive form core components are the new library that everyone's going to use going forward. And we want to update our library and the actual reality is a lot of it's really easy if you follow the component inheritance model and never pick up a component out of the box directly, you should proxy your components.
+
+00:31:10:18 - 00:31:28:58
+不明
+Always. It makes it really easy to switch from one to the other because you just change where the proxy pointing to. So, that's a, you know, again, for your app developers out there, that's something that should be hopefully pretty easy to understand. But the long and short of it is from a business lens. You're not locked in.
+
+00:31:28:58 - 00:31:55:12
+不明
+If you have a good implementation. So refreshing. That component library brings us up to the most current, you know, tech that Adobe has created. It gets us fully supported by Adobe. Adobe stands behind the core components completely. The original foundation form components use JSP, whereas the new ones use HTL. So there's a lot of modernization and things that are happening around it, and they're what Adobe is using going forward into the future.
+
+00:31:55:16 - 00:32:18:39
+不明
+So there's a lot of really great reasons that if you're not using the adaptive form core components, take a look at them. They're pretty great. It's relatively straightforward because the HTML underneath hasn't really changed. But this is where you might get a small performance bump from the amp side. You're certainly going to be more compliant, and it's going to be easier to overlay and extend those components as you need to.
+
+00:32:18:44 - 00:32:44:09
+不明
+We're also looking at form intelligence being a big thing. We want to make sure our forms are smarter, smarter about knowing who you are. In the automotive world, the account space is relatively new. Still, we've only a few years into our journey of trying to create really personalized, rich experiences around knowing who our customers are and creating a relationship with them.
+
+00:32:44:09 - 00:33:06:10
+不明
+That extends from the websites to the vehicle to their phones and kind of across the board. So we would like to get to a point where, you know, with our forms, we extend out from those capabilities that we have around, you know, what's in our account lifecycle and experience. How can we extend what we know about the customer into that relationship?
+
+00:33:06:15 - 00:33:11:04
+不明
+So I think there's a lot of opportunity there to.
+
+00:33:11:09 - 00:33:31:56
+不明
+Integration with CRM around dealer appointments. This is a big one. There are some regions in the world where we are testing things with different providers, but the overall goal should be to get to a point where we can actually say, you don't just want to test drive and then get a call from a dealer, right? We actually figure out how to make that make sense.
+
+00:33:32:01 - 00:33:52:38
+不明
+We'll talk a little bit more about each one of these kind of things independently. But here's here's the example I would give around that last one. So Sally is looking to buy a new Corvette. She's got one already. It's awesome. Okay, so she has decided though that the brand new shiny C8 Corvette absolutely has to be in her driveway.
+
+00:33:52:43 - 00:34:16:59
+不明
+She's an account. She's already signed in with her phone. She goes to the website she orders in. We would like to get to a point where we actually pre-filled the information we know about Sally. There's no reason we shouldn't. We may not walk it in, and there's a little bit around the UX that you have to be careful with because, you know, somebody might be borrowing Sally's computer or whatnot, or maybe Sally's filling in a, you know, request for, for their spouse.
+
+00:34:16:59 - 00:34:41:55
+不明
+But like, at the same time, we want to take the information we know into that experience and try to build out something that makes sense for Sally, because we are under the assumption it is her. And at that point, we also then want to facilitate that test drive that Sally can do. And depending on how she's gone through the experience, if she's coming in cold, maybe we actually get to a point where we pre-select the Corvette, the latest Corvette for Sally.
+
+00:34:42:04 - 00:35:08:09
+不明
+We know which term she had before. Maybe she wants the same trim. So we personalize as much of that experience as possible, using the information from our account system to actually drive that. And then on top of that, we want to make sure that if Sally has a preferred dealer that she, you know, bought her Corvette from the last time and really likes working with them, she can connect with an advisor, have the times that advisor's available and actually pre-book a slot.
+
+00:35:08:14 - 00:35:38:36
+不明
+And this actually does something interesting too, because GM's customers aren't just GM's customers. GM's customers are also dealers. So the dealers look to us in our unique relationship to help give them leads and pre-qualified leads that actually generate sales. But in this case, we can actually do something really cool for the dealers to where we can tell them exactly when Sally is going to come in, and they can know to have a Corvette gassed up and ready to go when Sally pulls up.
+
+00:35:38:41 - 00:36:04:13
+不明
+That's powerful. And if you're Sally coming on the lot where the advisor greets you as you get out of your car and says, hey, you ready for your test drive? Here are the keys. Has that ever happened to anyone here at a dealership? Now, but it's possible and we can create those experiences. It's within our grasp. We just have to connect the dots.
+
+00:36:04:18 - 00:36:33:15
+不明
+So hopefully by this point, a lot of this journey makes sense of why those homegrown solutions don't quite work. They're great when you're doing the table stakes. If you need something that works and you need to build it, you need to build it fast. You can totally do that. But will it scale? That's the question. And that's where we often as developers and marketers, business folks, we often struggle is the scaling part.
+
+00:36:33:20 - 00:36:56:21
+不明
+So by transitioning away from our homegrown experience, we got to a place where we could reduce that development cycle. We got to a place where we could figure out what parts of the experience we actually want our authors to control and be able to manipulate where we needed to ensure the integrity of the experience and make sure that that kind of go all the way through and work and end.
+
+00:36:56:26 - 00:37:23:59
+不明
+And once we did that, we were able to get from a table stakes solution to something that scaled really well. And that enables us to think more about prioritizing, improving the customer experience, what are the next things we can do? And that's where all those entry points from different applications, where if you build a Corvette versus finding a Corvette at your favorite dealer are different and we can make it, you know, smart, but it can always be smarter.
+
+00:37:24:04 - 00:37:49:11
+不明
+Likewise, the next horizon is those personalized experiences, the ones that feel like they were built for you, that improve kind of customer experience is something you can't place a dollar tag on, because once you get to being feeling like you have a relationship with the dealer or with the brand that feels like you've made that connection. It isn't just a car.
+
+00:37:49:16 - 00:38:15:10
+不明
+It's kind of part of the the thing you you do every day. It's it's something you interact with a vehicle being the second biggest purchase you will likely make in your life. That is something that you want to feel good about. And we should be wanting to make you feel good about it. So anywhere where we can drive those connections, those personalized experiences where we're reducing the friction and making it feel better for you, that has value.
+
+00:38:15:15 - 00:38:37:11
+不明
+It has value to us as an OEM. It is value to dealers as the facilitators of the transaction. Miss value to customers who want to feel good about a very large purchase they're making in their lives. So with that.
+
+00:38:37:16 - 00:38:48:06
+不明
+Much run. That was extremely helpful. Extremely interesting. Thank you so much. Yeah.
+
+00:38:48:11 - 00:39:10:28
+不明
+So before we go, with questions with the audience, I have three questions for you. The first one is about gen AI being such a key pillar here at summit. How do you envision Gen AI in your performance management? So this is a great question. And I think gen AI is one of those things of regardless of how a how you feel about it, of whether you like it or not and whether you'd like it to go away.
+
+00:39:10:28 - 00:39:33:11
+不明
+It's a reality. It's here to stay. And I think at that point you then have to start to tilt, shift your mindset to how are you going to make gen I work for you, right? And in the world, the forms where conversion rates are everything. This does something interesting. I mentioned that whole thing around getting past the table stakes to where marketers and authors and business folks can try and play with those experiences, right?
+
+00:39:33:22 - 00:39:58:38
+不明
+They can move fields around, they can decide what language helps convert the best. But what if they didn't have to do that? What if the system did it for them? What if they put in the outcome they wanted to see and the system generated 3 or 4 variations of it and then said, hey, let me put 20% of your traffic to each one of these, you know, and see whether the original or which one of the four variations perform the best.
+
+00:39:58:43 - 00:40:34:29
+不明
+And then once they see a noticeable uptick that becomes the new master variation. And now not only do you roll that out in one spot, you apply that same mechanism at scale across the board. That's the power of AI. So in that world, I think from a management perspective, AI is a force multiplier for marketers and business folks to be able to look at something and be able to figure out how to scale those experiences in a really meaningful way, that creates new opportunities that wouldn't have been possible just because of the sheer, you know, number of people would have required to do it manually.
+
+00:40:34:34 - 00:40:58:49
+不明
+Yeah. Thank you. I agree, new levels of productivity and time to market. So now on the other side of your customers, how do you see an AI impacting their experiences? Oh yeah. So for gen AI impacting customer experiences this one gets interesting because I think it challenges. You could get to an interesting perspective here where who uses ChatGPT?
+
+00:40:58:54 - 00:41:23:10
+不明
+Just out of curiosity, Johan's would you call chat GPT a form? Kind of is you type information into it, right? You get a response. Well, what if we took what we know about you and kind of tailored that conversation to gathering the information we needed to get from you to facilitate the transaction you needed? I would like to schedule a test drive.
+
+00:41:23:22 - 00:41:51:56
+不明
+Hey, what's your name? Where are you from? What vehicle you're interested. Do you know what things are important to you about a vehicle? And you can kind of have a conversation with the customer to essentially in the background, almost fill that form out. But instead have that conversation lead kind of people to the answer. And in the background, as you're filling out that essentially that piece of data, you would need, you can then say, hey, you know, are you ready to talk to a dealer like we are?
+
+00:41:52:01 - 00:42:13:05
+不明
+This is this is what we do. By the way, I also found that Corvette near you already. It's only this amount of money. It's right there. You can go have it. It's about pushing people in that right direction. And in a similar way to the way our smart forms work, it's meeting the customer where they are. Maybe that experience for that form doesn't engage them as a unique experience, but is tailored in the journey.
+
+00:42:13:07 - 00:42:35:34
+不明
+Hey, I saw you were looking at corvettes. You're looking for a good deal. There's an incentive right now. This dealership's offering it. Would you like to go test drive in one? There's an appointment. It's 1:00 today. You might just have to say yes. If you're logged in. So it's about rethinking, I think, what that customer experience could be rather than what it is today.
+
+00:42:35:38 - 00:42:57:56
+不明
+Playing 20 questions with your customer is not the most engaging experience. But if you could turn it and turn it into a almost human like interaction, that's a far more interesting thing you could do. Yeah, I agree, and getting you faster to those dollar revenues. Right. Yeah. So last question for you, Ron. You talked about integrations and personalization in your roadmap.
+
+00:42:58:01 - 00:43:25:59
+不明
+But I'm curious to hear what's the future of that roadmap or the future of the future. So now we're looking like light years ahead, I feel like so I think there's an opportunity where, you see a lot of these things converge. And how do we empower, marketers and business folks more? How do we make it so the systems can adapt in ways that we didn't expect?
+
+00:43:26:04 - 00:44:07:43
+不明
+You know, that could be melding the experiences together, where it's more seamless across your journey, where when you want to look at a look at inventory, we kind of talk to you about, you know, what you a vehicle you might want to have or even having that conversation around where you could go. I think there's a lot of opportunity, around melding the changes that we would like to see in the authoring experience and the customer experience together, and at the same time, then bringing the data on top of it that we know about customers and about our own vehicles to create experiences that really don't have to feel like we you are shopping
+
+00:44:07:43 - 00:44:30:36
+不明
+or in a sales funnel. They feel way more organic. So I think very excited about your future of the future with forms. Right? Okay. Thank you everyone so much for joining. Tomorrow we have two more sessions on forms hands on lab in the morning and later at 230, our top innovation session, we're going to show great things with Jenny AI in the forms world.
+
+00:44:30:41 - 00:44:38:54
+不明
+And finally, please remember to take the serving to sum it up, to win either of these two great prizes. And with that, thank you all so much for joining us.
+

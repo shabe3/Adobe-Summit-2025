@@ -1,0 +1,588 @@
+00:00:01:28 - 00:00:27:14
+不明
+Welcome everyone to the Adobe Analytics. Now, I'm just kidding. To this. Yeah, you're in the right place. If you're looking for interactive webinars, you're in the right place. So welcome to the Boost Webinar ROI with Gen AI innovations for Interactive Webinars. I'm Joe Stewart, senior PM for Marketo Engage and I'm really excited to have Kelly Pronate and Matt Dawood from Price Effects with us.
+
+00:00:27:16 - 00:00:55:05
+不明
+Let them introduce themselves. I'm Kelly. I'm our vice president of commercial excellence at Price Effects. I'm Edward and I'm our marketing director at Price Effects. All right. So let's look at today's agenda. I'm going to give a brief overview of interactive webinars. First of all, who has used interactive webinars before? Raise your hand. Okay. I have a few of you, hopefully, you know, within the next few weeks, all of you will use it.
+
+00:00:55:10 - 00:01:16:55
+不明
+Spoiler alert it doesn't cost anything to try it. Okay. It comes included. I will go over that. I'm going to go over. You know, this launched last year, meaning we, everyone was provisioned with this in June of last year. We've made a ton of recent enhancements and there's a lot of items on the roadmap. So I want to cover all of those.
+
+00:01:17:06 - 00:01:43:18
+不明
+And then we're going to be able to hear from Kelly and Matt about their experiences with interactive webinars. And then, Matt's actually going to do a customer demo in his Marketo instance, show you how he uses interactive webinars for price effects, which I'm really excited about as well. And then we'll talk about next steps. So I'll flash this and this is you know, there are some roadmap items in this session.
+
+00:01:43:22 - 00:02:18:59
+不明
+Remember that they are subject to change at Adobe's discretion. Okay. So as all of you marketers know, webinars are an integral part of B2B marketing. It's one of the top channels to drive engagement at scale to, to educate and to nurture prospects. But managing webinars is often inefficient, costly and, ineffective. And that's because you have multiple tools you're using.
+
+00:02:18:59 - 00:02:47:33
+不明
+You're using your marketing automation platform like Marketo, and then you're also using your webinar platform. And then you have to manage both of those and manage the data sync back and forth. And that's what makes it frustrating. To do webinars. And so it's a it's another siloed database and integration that you have to manage. It increased time and cost setting it up.
+
+00:02:47:38 - 00:03:10:32
+不明
+You know, working in another tool. And then it also you're limited by the data flow. From the webinar platform into your marketing automation platform and back and forth. And sometimes you have to pay for middleware just to exchange the data. So we've supported webinars for years through Launch Point. But we knew we could do it better.
+
+00:03:10:37 - 00:03:47:44
+不明
+And that's why we built a comprehensive webinar platform. Inside of Marketo. Engage. This is the first native marketing automation and platform plus webinar technology integrated product. So a to, you know, 2 in 1. This isn't something that Adobe just threw together. With Adobe Connect, we have two decades of experience in, in webinar technology and, and training technology training delivery.
+
+00:03:47:49 - 00:04:17:12
+不明
+And so we've brought Adobe Connect as the delivery engine inside of Marketo engages interactive webinars. And so that's something that no other marketing automation, platform, has. No other one has a native webinar tool. And so the, the differences are, and what this allows, it allows you to reduce your total cost of ownership. You don't need to pay for the extra tools for the middleware or the manual data syncing.
+
+00:04:17:16 - 00:04:44:10
+不明
+And it's going to streamline your event marketing. You can create promote and deliver, and analyze all within Marketo versus using multiple tools. And then it's going to improve your webinar performance. You're going to have better data. You're going to get it quicker. And with that data, you're going to do better lead nurturing and improve your webinar ROI.
+
+00:04:44:15 - 00:05:13:32
+不明
+So how does it work? The first step just you can clone your event program in Marketo. Engage. So if you already have your webinar programs that you use with whoever your webinar provider is, just clone that program. And then when you when you click on create new webinar, there's a dropdown for interactive webinars. So you select that after you schedule the date and time.
+
+00:05:13:37 - 00:05:42:45
+不明
+It's going to take you to the interactive webinar overview page inside of Marketo. And that's where you can design your webinar room. So you design your webinar room. You have different layouts, templated layouts with different pods like quizzes, polls, downloadable links. If you want to insert like recordings and you can build out different layouts for different speakers, all with all within Marketo.
+
+00:05:42:50 - 00:06:10:30
+不明
+And then you will deliver your webinar and then you'll publish it. Your on demand recording using JNI to create video chapters and auto summaries, which I'll go over in a minute. And then you are able to obtain all that rich engagement data. And use your smart filters and smart lists to, to post and nurture those attendees.
+
+00:06:10:35 - 00:06:38:19
+不明
+And then you also have a lot of dashboards where you can analyze the webinar data, because it's not about just, performing webinars. It's about improving your webinars, finding out what resonated well with your attendees. So you can do more of that in the future. Okay. So like I, like I mentioned before, it doesn't cost anything, to try it out, it comes included.
+
+00:06:38:24 - 00:07:06:56
+不明
+So, all of your production instances have been provisioned with interactive webinars. Depending on your package, you'll get different entitlements. So select package, you will get 12 webinars per year. And that will refresh, after those 12 months. And then, those are up to 500 capacity webinars. And then you get six, gigabytes of storage.
+
+00:07:06:58 - 00:07:28:39
+不明
+And then it's just one webinar at a time. No concurrency. If you have the prime package, you get one unlimited room, which means you can run as many webinars as you want, as long as they're not concurrent and you get unlimited storage to store your assets and your recordings and all that. And then if you have the ultimate package, you get two unlimited webinar rooms.
+
+00:07:28:44 - 00:07:56:28
+不明
+So you can run two webinars at the same time. Right. If you have regional teams different be use that are all running webinars. Sometimes they run them at the same time. So you can do that and ultimate up to two at a time. If you need additional rooms, you can purchase those as an add on. So you can purchase a 200 capacity room all the way up to a 1500 capacity room, as many additional webinar rooms as you need.
+
+00:07:56:33 - 00:08:22:05
+不明
+So you can run those concurrent webinars and, three a lot of customers have asked us to increase our capacity, and 3000, audience capacity is planned. So if that's something that's been holding you back from using interactive webinars because you need up to 3000, let us know and we'll let you know. This, you know, we're fast tracking this.
+
+00:08:22:06 - 00:08:46:37
+不明
+We don't have a date yet, but we can let you know as soon as this is going to be ready. And I also want to tell you a tip. So especially for those on select. So you have 12 credits per year, right. You can try it out without burning burning a webinar credit. The way you do that is you've set up your webinar and I, I, recommend doing this for like an internal meeting.
+
+00:08:46:42 - 00:09:08:11
+不明
+So you you set up a webinar, just put a date a couple of months out. Invite everyone on your team to that webinar. And you can design the webinar. Hold your team meeting in it. As long as you don't have more than ten people. And it's not after the date that you put the webinar. It does not count as one of your credits.
+
+00:09:08:11 - 00:09:20:19
+不明
+And then you just cancel that webinar. You can do that as many times as you want, without using any of your webinar credits. So, yeah, please try it out.
+
+00:09:20:24 - 00:09:45:07
+不明
+So yeah. What can you expect if you use, interactive webinars? And why should you use interactive webinars versus your current webinar provider? Faster time to market. So since it's all in one workflow, it's more efficient to set up to manage and all your reporting is in one place compared to other providers. You should expect a higher engagement lift.
+
+00:09:45:12 - 00:10:14:21
+不明
+There's a lot of, different pods, design around to, to engage with customers that you can set up. Like I said, different layouts for different presenters. So you, it's, you know, it's in the name, interactive webinars. It's meant to be very interactive. You should also expect better, better internal alignment. So as you're working, you know, as marketing ops is working with event marketing.
+
+00:10:14:25 - 00:10:46:00
+不明
+You can have your event marketers have a license to or have access to interactive webinars without having them access everything else in Marketo that you're doing. So that they're, they're involved in the webinar. And then also all of the data can be linked to sales insight and CRM. So it's assessable for the sales reps. So marketing ops, event marketers, sales and they're all more aligned with, better and faster data.
+
+00:10:46:04 - 00:11:15:27
+不明
+And then all of that, you should expect, a conversion uplift because first of all, you get the data a lot quicker. Some webinar platforms, it takes up to 24 hours to get that, to get the data into, your marketing automation platform after your webinar. And this is under an hour, usually 20 to 45 minutes. You'll see that webinar data populate within your reports and within your Marketo Engage instance.
+
+00:11:15:32 - 00:11:41:04
+不明
+So we all know time is money. You need to follow up with leads quickly and you're able to follow up with those leads quicker. With interactive webinars and Adobe we're all in. We had a large contract. We do several, webinars per week, and we moved off of that webinar provider. And our DD marketing, solely uses interactive webinars.
+
+00:11:41:09 - 00:12:14:22
+不明
+This is as of July of last year. The results, have been impressive. We've reduced webinar creation time and eliminated third party solution costs. We've improved webinar, attendance rate to 43%, where industry averages about 25 to 35%. That's by using a lot of like a lot of the data within Marketo to create your webinar audiences and invite the right people, and personalize those invites.
+
+00:12:14:27 - 00:12:44:30
+不明
+So they will attend. And then one hour turnaround time on, on, getting that lead, behavior report for faster sales engagement. And then we've oh sorry. Let me click this. And then we've also increased, up to our conversion rates up to 30%. With using interactive webinars. Okay. Let's look at, recent enhancements to the product.
+
+00:12:44:34 - 00:13:14:47
+不明
+So the first one is Engagement Dashboard. And this allows marketers to uncover easily uncovered top accounts and, using attendee insights to personalize follow up and, and, boost conversions. So previously webinar data was aggregated. So you would do a webinar and you could see a report of everyone who, click the link, filled out a quiz. Answered a question.
+
+00:13:14:47 - 00:13:41:08
+不明
+Right. You see the numbers? Now you have it at an individual level with several tabs that you can drill into. And this is something I want to demo and see if that it's, My better. So yeah, let's let's look at a demo here.
+
+00:13:41:13 - 00:14:12:09
+不明
+Okay. So after delivering your webinar, the overview screen updates to include view recording. I'm sorry. Let me make sure that this is I'm just playing recorded demo here. Okay. Here we go. And then you click on View Engagement dashboard. The engagement dashboard helps marketers assess audience interactions and engagement while offering insights for improvement for future webinars.
+
+00:14:12:14 - 00:14:41:57
+不明
+Click view Engagement dashboard opens a new tab with Event AD Analytics organized into six sections. The first is Event Summary, which provides overall webinar metrics of live and on demand performance, including registrations, number of attendees, registration to attendee conversion rates, average duration attended, and on demand metrics like recorded views and average watch duration. The engagement section provides you with key engagement metrics.
+
+00:14:42:01 - 00:15:09:40
+不明
+And engagement. Over time, you can view a point in the recording that has high or low engagement and observe what type of content is getting engagement and what's not. The interaction section highlights the engagement with various engagement pods such as polls, quizzes, and file downloads. So you can measure attendee interaction. The on demand section tracks the webinar recording performance, including views over time and average watch duration.
+
+00:15:09:45 - 00:15:41:37
+不明
+The participant activity section provides individual activity level engagement. So you can see all the interactions from a particular attendee. And finally, the download Report section allows you to download the webinar performance reports to share them out however you want, with your internal teams. So in summary, the engagement dashboard provides a holistic view of webinar engagement and interactions for analyzing the current performance and identifying future improvements.
+
+00:15:41:42 - 00:16:15:43
+不明
+Okay, so the next one, Jane AI on demand webinar experience. Yeah. This is a really big one. So we all know how much time goes into setting up a webinar, creating the content, finding the right speaker, inviting the right people, all to have the 25 to 35% of registrants show up to the webinar. So that just shows, that makes OnDemand very important because these people registered, they are interested.
+
+00:16:15:48 - 00:16:42:38
+不明
+They're just busy. So you need to make it really accessible, for them to watch. So that's why we have created the, Jenny Webinar Experience on Demand webinar experience. So what you're able to do with this, you record your webinar, as soon as you're done recording, there will be a button that says generate smart content.
+
+00:16:42:43 - 00:17:11:19
+不明
+And it will auto generate, webinar summary from the webinar transcript. And it creates video chapters, with a video player. And, you can those video chapters will have, have headers based on the content. You can merge and merge, but it just within a matter of minutes, you have all of your on demand, webinar content available.
+
+00:17:11:24 - 00:17:32:31
+不明
+And we're actually going to have Matt, demo of that a little bit later. The they currently use this and he's going to show you how they do that. And it does it does have video tracking too. So you can see what the on demand attendees are clicking on. Based on kind of that those headers or those topics, webinar topics.
+
+00:17:32:36 - 00:17:58:07
+不明
+So it allows you to know, you know exactly what they're interested in. You know, which which of the video chapters they watched. So this is, this is been in beta for a little while now, and it's going GA, in, later this month. So, you just have to sign a gen I, terms and agreements.
+
+00:17:58:12 - 00:18:31:21
+不明
+You may have done that already for, like, the new email designer or for something else within Adobe, but this. Yeah, this will be GA later this month. Okay. So tokens, tokens allows marketers to streamline webinars set up and promotion. You're all familiar with Marketo tokens. So we've created these specific interactive webinar tokens. So we all know that webinar titles may change, webinar dates may change or times or speakers.
+
+00:18:31:26 - 00:19:00:23
+不明
+Right. You don't want to have to go and just update all those assets you created the landing pages, the invites. Right. With that information you insert tokens and then you're able to change the webinar time or date in that one place, and it will update across all of your assets. Allowing you to, you know, efficiently personalize webinar promotions and ensure campaign consistency.
+
+00:19:00:34 - 00:19:27:36
+不明
+So some assets aren't or aren't updated with or don't have the the old date and time. So people show up at the wrong time. This allows for consistency in that. And then also just allows you to communicate webinar updates with these. Okay. So CRM sync for interactive webinars. This is another, you know, top enhancement, that came earlier this year.
+
+00:19:27:41 - 00:20:02:26
+不明
+So CRM sync is all about aligning sales and marketing, right. So when your attendees, come to a webinar, you want sales to know that their account has attended that webinar. They are able to see that within CRM, all of the or the activity data, like if they answered a question, if they, downloaded a link, if they responded to a poll, those activity, that activity data, your sales rep will be able to see that.
+
+00:20:02:27 - 00:20:35:36
+不明
+Now if you have Marketo Sales Insight, which hopefully most of you have, there's a new webinar tab in Sales Insights. You can kind of see in this screenshot here. And you can hover over that and you can see the activity data for that account and for that lead. And then you can also create interesting moments as a marketer if you want to, if you want to flag something for the sales rep, you create an interesting moment, saying, hey, they downloaded this, white paper.
+
+00:20:35:36 - 00:21:01:28
+不明
+So this is something they're interested in. You should reach out to them and follow up with them on that. And if you don't have sales insight, it will still, it will still sync to CRM and direct activities in Salesforce. This is live. And then it's coming to dynamics later. Later this year. Okay. So those are the recent enhancements.
+
+00:21:01:30 - 00:21:29:37
+不明
+Now let's look at the roadmap. Okay. Yeah. Here's another one that I'm really excited about. Blog generator. So like I was mentioning before, a lot of work goes into creating the content for that webinar. Finding the subject matter expert, creating it. As marketers, we know that we need to engage with our customers on various channels.
+
+00:21:29:42 - 00:21:59:52
+不明
+So what you're able to do with the blog generator, after you record your, webinar, you're able to, go into Adobe Connect, which is where all the recordings are saved, and you're able to, auto generate, content from that to use in like a blog. But it can also be content that you use in emails, you use in social media or, or newsletters or just different channels.
+
+00:22:00:01 - 00:22:31:15
+不明
+And this is going to help you expand all that great webinar content into different channels. So we it's yeah, it helps you effortlessly repurpose your content. There's a lot of, indicators that you put in that make sure it's on brand and, that it resonates with your, you know, you create a target audience and then it allows for seamless ad editing all within Marketo.
+
+00:22:31:15 - 00:22:56:55
+不明
+So this helps you stay on the platform and stay within Marketo and do things that you're doing. All within Marketo. And this is one that we can look at a demo as well. So. Okay. So on the events tab within Adobe Connect, you can see all of your past events. You scroll to the event recording and select Generate Blog.
+
+00:22:57:00 - 00:23:16:12
+不明
+That will pop up a generative parameters window so you can customize your blog post. And there's a series of parameter tabs. On the left hand side. You can define your brand value and your brand voice for AI to use while generating the content. You can choose what product the blog post is about in this example, it's about Adobe Connect.
+
+00:23:16:17 - 00:23:52:55
+不明
+Then you can choose the target audience. So based on this webinar, we'll select corporate trainers. You can specify the webinar context and the blog post intent like lead generation or knowledge sharing. You can specify the tone and length of the SEO keywords to include and specific keywords to avoid. Okay. Let me see here. Okay. And then and then once you're done with the parameters, you go into blogs and click Generate blogs.
+
+00:23:53:00 - 00:24:23:21
+不明
+And let's just look at some that have been generated already. This one here, you see at the top there's a title followed by a banner image. And then like every blog, it has an intro paragraph that hooks the reader into learning, into reading the blog. There'll be a few sections based on the length specified. All of this content has been created in the brand tone for that targeted persona, while bringing out the value prop of the product base and the specified intent.
+
+00:24:23:25 - 00:24:47:01
+不明
+At the end, you'll see a call to action. You can edit it, and once you're done, you click save and then you just download it and then format, which you can edit using any word processing editor. And then publish it on your own on your preferred blogging platform. So this feature is still under development, with a beta planned for later this year.
+
+00:24:47:06 - 00:25:12:43
+不明
+Okay, so now let's look at room search. We also want to make interactive webinars easier for you all to use. We understand that it is a different platform, right? So, we've we've added a couple new enhancements to make it easier to use. First one room search. It simplifies the learning for new user, users.
+
+00:25:12:48 - 00:25:29:33
+不明
+Because now you can search right within the room. And when you search for something, it actually initiates that workflow. So you don't you just start typing in something like microphone and then I don't know what's going on with the lights.
+
+00:25:29:38 - 00:25:59:24
+不明
+Spooky. Yeah, that is spooky. So, yeah, you're able to, just have smoother webinar sessions because, like, if you're in a webinar session and you, the host needs to do something now they just search and then have that, have that workflow initiated, without having to know beforehand. Okay. And there are some things that, you need more information about.
+
+00:25:59:24 - 00:26:29:56
+不明
+And that's why we have a help assistant. So this is a Genii chat pod within the webinar room. So for more complex actions or in-depth questions, you just ask the chat pod in conversational language. You know how you do something, and then you'll receive, you know, clear, relevant responses with steps and screenshots? So and account admins can control the availability of help assistant.
+
+00:26:29:56 - 00:26:55:42
+不明
+So if you don't want this in, your webinar, within the webinar room, then it doesn't need to be there. And this is also in public beta right now. So if you go into interact webinars, you'll see this, so this is a good one to do. A demo of as well. So let me let me show you room search and help assistant.
+
+00:26:55:42 - 00:27:18:48
+不明
+So. Let's start with room search. Now let's say you want to provide microphone access to one of your participants. You can come in here and just type microphone and click allow participants to use microphone. When you choose this the room search will initiate the workflow and open the dropdown where the particular option is. So you can see it under microphone.
+
+00:27:18:48 - 00:27:42:18
+不明
+And then click allow participants to use microphone. So you don't have to know all the preferences. And just like search through like like this is showing. Trying to find it in settings. And now sometimes you'll need more information and you'll have questions on how things work. And that's where help I assistant comes into play. You can ask questions.
+
+00:27:42:23 - 00:28:07:14
+不明
+For example, how can I share a product file with participants during a webinar? And the AI assistant went through all of the connect knowledge base. And then it came back with these steps on how to share files with participants using the file pod. It also provides screenshots wherever applicable. Yeah. You can also see where I drew the information from, with links to the help documentation.
+
+00:28:07:19 - 00:28:27:10
+不明
+So this is a generated response. And sometimes responses can be inaccurate. So please do double check the documentation. And in case you do find something that's inaccurate, provide us feedback by clicking on the like or Dislike button. And if you want to share the response with the team member, then you can just copy this response and send it off.
+
+00:28:27:16 - 00:28:55:16
+不明
+So with these features, new interactive webinar hosts can easily find actions and and feature related information directly within the webinar platform without needing to search through detailed help documentations. Yeah. Yeah. Like I said, they're they're currently in public beta. And we hope this reduces your learning curve and helps you discover features quickly and use the platform more.
+
+00:28:55:21 - 00:29:24:51
+不明
+Okay. Last one for me is automated semi. So isn't it wonderful? You set up your webinar, talk with the presenter, schedule it, get registrants, create the content and then the day before the presenter is sick or they have to travel or they can't. Do the webinar anymore. And so now you have to cancel the webinar or reschedule the webinar.
+
+00:29:24:55 - 00:29:50:06
+不明
+So automated semi live allows you to take a prerecorded, a recording of the webinar. So you pre-record it and then you can schedule it with the start and end time. And you don't even have to be on there as a host. And it will you set up the room beforehand with the different with the different pods and engagement feature.
+
+00:29:50:06 - 00:30:26:16
+不明
+So it looks like it's coming in live, and it just helps a lot to make the webinar experience better, especially for the hosts. And and the presenters. So this helps improve consistency. It can be nice to pre-record reduce the stress of a live event, like the lights going off all the time. Like you could just edit that out in the video and then, so you and then also you have something polished, something edited that you play.
+
+00:30:26:31 - 00:30:48:22
+不明
+It could also free up, let's say your your presenter is like the one subject matter expert, and you want them answering questions during the chat pod. They're not going to be answering questions on the chat pod while they're giving a webinar, right? But if it's prerecorded, they actually can just be answering those chat bot questions while it's, playing the recorded webinar.
+
+00:30:48:27 - 00:31:11:07
+不明
+So it makes that allows them to scale and that way, and it's going to just all of this done. Right. And also I should mention you can schedule, you know, multiple playbacks. So that way you can play them back at global friendly times. So and it could be in the middle of the night for you.
+
+00:31:11:07 - 00:31:40:55
+不明
+But it's scheduled to play at 3:00 am which is prime time in different regions. So then now you're going to get more attendees because it's had a better time for them. So doing all these things together can, you know, you can expect higher conversion lists from having like, nice prerecorded content scheduled at the right time. You don't have to do automated stimuli, like, but, if there is something where it makes sense, then you have, you have this option to do it.
+
+00:31:41:00 - 00:31:59:28
+不明
+Okay. So if you are interested in, some of these beta and we have a lot more coming that I'm not even I'm, I'm holding I'm not going to announce today, but if you want to be on our Gen I, some of our generator features, take a picture of this QR code and sign up for the beta.
+
+00:31:59:33 - 00:32:22:00
+不明
+I also show this at the end in case you weren't able to grab it right now. But now I'm really excited to hear from Kelly and Matt about their experiences using interactive webinars. Awesome. Thank you. All right. So I'm Kelly pro Nick Joe mentioned earlier. So I head up a commercial excellence division inside price Effects and Price Effects is a business to business software company.
+
+00:32:22:01 - 00:32:44:31
+不明
+We sell pricing software. Our customers are large enterprise. So at the lower end, about 500 million in annual revenue. And what we have found is that during a very long sales cycle, from first touch to close, we're averaging about 375 days. We typically see and we know a lot of this data thanks to, Marketo measure formerly visible.
+
+00:32:44:36 - 00:33:07:01
+不明
+We also see a few dozen different interactions throughout that. And what was surprising to me was how well webinars perform in that sales cycle, and particularly when they're performing. So what we uncovered through that is that webinar touchpoint for us, about 90% of the deals that close have a touch point later stage. Now in part this is because of how we're presenting these, right.
+
+00:33:07:01 - 00:33:28:51
+不明
+We're doing a lot of thought leadership with our external partners. We use a lot of outside partners for implementations. And so when we're bringing them in later, it's helping to build trust with our prospects and customers about what's going to happen next in their journey. So what's the big punchline there for me was lesson learned. I came in and I was like, oh, webinars are clunky, they're complicated, they're pain in the butt, they're necessary evil.
+
+00:33:28:51 - 00:33:47:18
+不明
+And lo and behold, we found out. Now they're actually really doing a lot to move the needle. So the downside of webinars that we all know are all those different challenges we might face when we're trying to figure out the exact right webinar or right vendor. So whether that's a webinar vendor or something else, we end up with these conflicts.
+
+00:33:47:20 - 00:34:05:15
+不明
+So, Matt, if you want to talk a little bit about some of the things that we ran into, actually, you don't need this. I'll say, if you don't mind. Yeah. What's up y'all? Thank you Kelly, and thank you, Adobe for hosting us. This has been really great time all together. So I'm going to talk about some of the challenges we had with our previous webinar vendors.
+
+00:34:05:20 - 00:34:21:41
+不明
+Any time a technical issue with the platform or the integration came up. There was a lot of finger pointing. Best way to describe it is like the Spider-Man meme where they're all pointing at each other and no one's going to own up to it. And essentially we followed all the documentation. We even set it up with a vendor together.
+
+00:34:21:41 - 00:34:42:59
+不明
+Yet we were still facing a lot of a lot of issues. The primary one was with the data. The data just wasn't making its way both to our map solution. And it wasn't even right within the webinar provider itself. And the real issue there is, in terms of follow up engagement as well as on demand, you're putting these people in the wrong sequences because they have the wrong status and such.
+
+00:34:43:11 - 00:35:04:27
+不明
+So now the people that did attend are getting treated as no shows and they're like, sorry we missed you. And when you're a software company selling to software companies or large enterprises, sorry. It's not a good look altogether. And ultimately, that led to increased time where we had to analyze each person within the program, the people we saw within the webinar, fixing their status.
+
+00:35:04:31 - 00:35:35:52
+不明
+And that's a big cost both to our business as well as our employees who are standing these up going on next slide. Yeah. Thank you. And ultimately that led to poor internal and customer experience. It was a huge lack of trust, both from our subject matter experts as well as our customers and partners. And that poor perception, ultimately, when you're a marketer trying to stand up these programs to do brand or lead generation, if they're not trusting you and participating in these programs, you're really stuck and you're not going to hit your goals.
+
+00:35:36:07 - 00:35:57:58
+不明
+Nobody wants to hear from a marketer within a webinar when they really want to hear from your subject matter experts, either by capability or industry. So with that lack of trust and poor perception and then not supporting you, ultimately your programs are going to struggle and you're going to be behind on goals and essentially driving the pipeline for your company.
+
+00:35:58:03 - 00:36:16:40
+不明
+All right. So who's been frustrated with a software purchase where you went through the, you know, the requirements you thought you had everything down. You got sold this product that you thought was going to work, and then you went and implemented. So. Show of hands. Who's run into that terrifying situation, you know, and it reflects on all of us.
+
+00:36:16:40 - 00:36:37:59
+不明
+Right. So we have this fear of messing up in the work environment. And we did our due diligence. Right. We we vetted it. We heard the yes, we can do that. And we ended up with something different. We've run into that in the time I've been with price effects, four times. So our very first one, this goes all the way back to the Covid days.
+
+00:36:38:04 - 00:36:59:58
+不明
+So we had the typical webinar software provider. I won't say the names, you might all know them, but in the world that we work in, we have a lot of customers who hadn't really transition to this place where they were comfortable with webinar and, you know, video conferencing and that sort of thing. So for those of us that sell to companies that maybe have a little bit more compliance or regulation behind them.
+
+00:37:00:03 - 00:37:16:07
+不明
+We had people that were like, well, that's great, I'd love to go, but I can't even download the software or I can't attend this because our, you know, my company's blocking that from my browser. So that was fun. They also didn't have an integration with the map we had at the time that was pre Marketo. So you know another lesson learned.
+
+00:37:16:12 - 00:37:41:53
+不明
+So we got past that. We found another vendor there, a little merging sweetheart. And we were like great we'll try this out. We'll see how that works. They're like, yeah, we've got an integration. We can integrate with your map. If you switch maps, we can integrate. Nope. So what did we find there? Similar to what Matt was mentioning before, we had the vendor saying it was our CRM or our map fault or CRM, and our map was saying no, no, no, it's the vendor.
+
+00:37:41:58 - 00:38:01:30
+不明
+So we went back and forth for that for a while. Matt got to deal with the joys of uploading csvs and double checking work. Then we went to vendor number three. Vendor number three. We said, all right, great. We're using them a lot already for video hosting. They've got a lot of experience under the belt. They should be able to do this.
+
+00:38:01:35 - 00:38:21:16
+不明
+We'd already learned some things, so we thought we went all the way through. All right. This is what we need. And lo and behold, same kind of problems again. So we were back to exporting and uploading csvs. Their idea of an API was one of us hitting upload. So that led us to as a 2023 I think.
+
+00:38:21:21 - 00:38:39:05
+不明
+And that's when we started looking again. So now what do we do. So we went back, we went through all our lessons learned and we started saying, okay what are the end user requirements. So I'm thinking about Matt. I'm thinking about Jeff on our team. What are they experiencing. What are our SMEs experiencing. We're thinking about the webinar hosts.
+
+00:38:39:19 - 00:38:57:39
+不明
+We're also thinking about those webinar participants, both the attendees and those SMEs that are speaking there, maybe coming from an external partner. How is this reflecting on us? They of course, had our standard technical requirements each time we learned a new lesson. So we're like, all right, we'll kick the tires even harder this time. And then of course, budget considerations.
+
+00:38:57:39 - 00:39:19:10
+不明
+Right. So you have to also think about how much can I afford to spend on this. So those were all the things that led to us saying, yes. We've we think that we can try out this interactive webinars and that we can do that with a low amount of risk to us. So as I mentioned before, we had those first three vendors, we moved over to interactive webinars.
+
+00:39:19:10 - 00:39:42:25
+不明
+And obviously since it's built already in Marketo, no problems. Since Marketo is natively integrated with our CRM, no issues with the data there. So we felt really, really good about that. So fully replace that and then present state. So this is very recent. We've gotten to test out those DNI features, which I was talking about earlier. And Matt, I don't know if you want to say a word about how much time it would have taken to do some of these things before.
+
+00:39:42:27 - 00:40:04:59
+不明
+Yeah. We wouldn't have been able to. We didn't have a video person or an HTML expert. So prior to it, it's you get the full webinar and that's that. And imagine when someone comes, you got to listen to the first few minutes of intros as well as a way. But now with it, it's just like, boom, they go to exactly where they want, and then they can also push their colleagues to the direct location of the video they want them to absorb.
+
+00:40:05:04 - 00:40:26:34
+不明
+So yeah, we just went in, been able to do it like we can now. I think the other big thing for us too is, you know, as I mentioned, we're a software provider. We've got gen AI in our old platform that we're pushing and selling to our prospects. Our partners are familiar with that with us. So if we're having them use a software that is clunky and dated, that doesn't really look too great, right?
+
+00:40:26:34 - 00:40:45:02
+不明
+So this is another feature that we're like, great. This just improves that overall experience for everyone who's participating in that journey with us. So if you want to talk a little bit about the implementation itself, yeah, it was literally as easy as flipping a light switch. And I know that's like hard to believe with software a lot of the times.
+
+00:40:45:07 - 00:41:02:15
+不明
+As Kelly mentioned, through all of the pain we had with our previous vendors, we were actually at an Adobe event late in 2023, completely unrelated to webinars, and one of the last sessions before we had left the event. I popped in and that's where I found out about interactive webinars. Sometimes it's just better to be lucky.
+
+00:41:02:20 - 00:41:22:55
+不明
+And immediately we went back to Kelly and brought the case to where in terms of, hey, here's a huge opportunity for us both to streamline how we do webinars, save costs, and so much more. So shortly after, about a few months after, I would say early 2024, in January, Marketo essentially provisioned, interactive webinars to our account.
+
+00:41:23:00 - 00:41:49:46
+不明
+We tested three that same week internally and felt so confident. By the second week, we actually stood up our first customer facing webinar, that we went live with. So really, in terms of risk and fear of messing up, it wasn't it wasn't really even considered in any of this. And then just as of January, just a month and a half ago, we started leveraging Gen I chapter videos, which has been a game changer for us in terms of on demand experience.
+
+00:41:49:51 - 00:42:13:28
+不明
+Since in the last six weeks we've had four webinars where we've, excuse me, leveraging, gen AI and all four of those on demand, and I'll show that in just a second. Let me get back to you, Kelly. Actually. All right. So, as far as the results that we've seen, so conservatively, we're saying that we're saving about two hours of our internal time per webinar.
+
+00:42:13:33 - 00:42:35:54
+不明
+Back to the budget thing. When did we cut? So we're seeing about a $26,000 reduction in spend for those, external webinar hosting platforms. I know for some of you, that's a really low cost point if you're using some of the big giant ones. But also that just driving more on demand engagement. So that was another thing that was a bit clunky before was how do we get these out and available on demand and make sure that we're getting them out in front of people at the right time.
+
+00:42:36:09 - 00:42:54:18
+不明
+So that experience has been drastically improved. And then the last one is just making sure that we're getting the, you know, the right connection between the people who are attending the event and, and our field teams. So the quicker we can get that information, the quicker they can follow up while it's still top of mind and relevant to our prospects and customers.
+
+00:42:54:23 - 00:43:16:00
+不明
+So as of right now, I would say this is probably the best choice we've made in a long time in terms of software, decisions. Matt, happy. That makes me happy. Super happy. And so is my team and our greater marketing team because it's democratized. So it's not like just me or one person on my team. But like, really, anyone can go in and feel confident to build and execute from there.
+
+00:43:16:04 - 00:43:34:53
+不明
+And the ramp up is super short, so highly recommend taking advantage of it. And I think that's it for me. So Matt, this is yes, the best part. You when we click, if you don't mind, just one second. Before we get started, I'm gonna walk us through a basic demo. Super basic. We're just going to go through it quick in about eight minutes.
+
+00:43:34:53 - 00:43:56:18
+不明
+And this is live within our Marketo instance. Just want to make sure. And today I'm going to walk you through a recording that I put together on Friday. So you ready. Yeah. If you don't mind. Awesome. So on the left hand side or. Yeah, left hand side for you all, you'll see all of our foundational programs.
+
+00:43:56:19 - 00:44:18:45
+不明
+These are all of our Marketo programs templates. So our greater marketing team can execute independently with all the guardrails to ensure brand consistency without having to go through many hoops of approval. So within this demo, I'm going to do a quick clone of the webinar program itself. Give it a name.
+
+00:44:18:50 - 00:44:23:12
+不明
+Select the destination.
+
+00:44:23:16 - 00:44:27:42
+不明
+And then from there.
+
+00:44:27:46 - 00:44:51:09
+不明
+Now that it's, here, you can see that what Joe covered in terms of interactive webinars is now being available. And then from there you can build your audience size, your duration, and your start time all within the setup. It's all pretty quickly. I went just a little bit slow just to pace myself.
+
+00:44:51:14 - 00:45:13:30
+不明
+And now that it's clone, we'll go to the actual program flow there and we'll walk through the set up tokens, assets and campaign steps real quickly. So you'll see our standard naming convention for webinar programs. On the left hand side, you'll see all the assets that are baked into our webinar, template, including emails, forms, landing pages and list builds all in one location.
+
+00:45:13:30 - 00:45:33:07
+不明
+Imagine having to jump over to your other webinar solution and come back to it. A lot of copy and paste seeing, a lot of checking. Similarly, we also have all of our campaign steps there from acquisition registration all the way to post webinar in terms of attendee and on demand all in one place. It is so nice.
+
+00:45:33:12 - 00:45:51:49
+不明
+And then we'll look at the summary view on the right hand side where you can see all of your details, your title, your time and day if you need to adjust also to design your webinar, which we'll sell in just a second. And then if you don't have the landing page and email templates already pre-built, from there, you can do it within the summary view as well.
+
+00:45:51:54 - 00:45:58:05
+不明
+It's really nice. It's just like one focus point.
+
+00:45:58:10 - 00:46:17:53
+不明
+In the setup tab, this is super key for us. This is where we get the channel attribution, all of the tags to ensure we're tracking, as well as our period cost. And then towards the bottom, which you'll see in one second is how we sync to our CRM. This is super critical because Marketo is just for our marketing and operations team, for all of our sales, BDS and BDS.
+
+00:46:17:58 - 00:46:33:49
+不明
+It's really important for us to have everything we see within Marketo sync over to our CRM seamlessly. Here you can build all your tokens. It would have took a lot longer in this demo to do, so I'm just giving you a quick view of it for us. The calendar file is super important as well as a webinar URL.
+
+00:46:33:54 - 00:46:41:46
+不明
+You build it here and then within your email and landing page, it's present right in there that you can drop down and add.
+
+00:46:41:51 - 00:47:04:30
+不明
+Now back to the overview. I'm going to show us how we can design a quick webinar template. Either using the template you created beforehand or using Adobe's templates itself. The cool part about this is you can pre-built the webinar room way before you even get started to your subject matter liking, your subject matter experts liking or based on function or industry.
+
+00:47:04:30 - 00:47:26:27
+不明
+However you want to see that to leverage the best set up for what you're trying to accomplish. Us personally, we're big fans of Adobe's templates. We're not doing anything super complex in terms of our webinars, so we primarily use a product showcase and thought leadership templates, that Adobe provides us. You'll see there's four options. There's also workshop session and the starter template for this.
+
+00:47:26:27 - 00:47:36:34
+不明
+We're going to go with the leadership thought leadership template. Just to give you a quick look and how easy it is to configure within the design room itself.
+
+00:47:36:39 - 00:47:55:18
+不明
+Maybe that pause was a little too long. Sorry about that. Yet. All right, now that we're in here, you can toggle between several layout options, which is really cool because each template has its own layout options as well that you can scroll through, as well as use a variety of that throughout the webinar itself to structure the flow.
+
+00:47:55:22 - 00:48:06:07
+不明
+In this one I'm going to use the lobby layout. For example, and then we can refine our webinar from there.
+
+00:48:06:12 - 00:48:10:50
+不明
+Oh, there's my face.
+
+00:48:10:55 - 00:48:20:15
+不明
+Please don't take that off and into the room.
+
+00:48:20:20 - 00:48:31:19
+不明
+And the load speed is actually pretty great. This is probably the longest pause I've seen in it, but in terms of when we're actually setting it up, it's very immediate.
+
+00:48:31:24 - 00:48:47:58
+不明
+And now we'll enter the room. So for example with the layout this is what we saw when we select it. I'm going to go ahead and hide some of the parts just to show you how easy it is to hide. And then you can drag and configure from there. So for example you can easily three dots click hide.
+
+00:48:47:58 - 00:49:10:36
+不明
+You can remove all of the extra elements in terms of what you might not be using. And then just drag. And that's for any of the ability that you see on the left in terms of what's available to you to leverage within the room itself. That's files, that's quiz quizzes, polls and so much more.
+
+00:49:10:40 - 00:49:26:04
+不明
+Just make sure you don't forget to record. Otherwise you won't be able to use agenda AI feature itself. I know that's going to be streamlined here soon on the roadmap, so that'll make it a lot easier for yourself as well.
+
+00:49:26:09 - 00:49:34:45
+不明
+And that's what I was just covering. Yep. Recorded right there.
+
+00:49:34:49 - 00:49:51:42
+不明
+Now that you've seen that, we're going to exit the room altogether from the program view. And that's just for example, how quickly we can stand up a template and start to build from there. And it only takes a few hours to for us to do the full setup, where it took more than 4 to 5 hours with our previous webinar providers.
+
+00:49:51:46 - 00:50:04:41
+不明
+And now that's in terms of how you set up for Go Live. Now we're going to flip to the on demand section, just so you can get a quick look at how we're using the AI features that Joe had covered.
+
+00:50:04:46 - 00:50:19:34
+不明
+You'll see this this overview page of it changed quite significantly from how we were building towards the go live versus the actual on demand version of the. I just gave you a quick look there again.
+
+00:50:19:39 - 00:50:43:26
+不明
+And then from there, you have all of your options in terms of engagement dashboard recording week itself. And now you click the generate button. This is where you get to the gen AI function. And here's a quick look at what the summary and chapters look like. You can edit the summary text with ease. The chapter titles merge, the videos together and then set the right time placements.
+
+00:50:43:26 - 00:51:03:43
+不明
+If they seem a little bit off. AI is really great and it's such an accelerator for you, but obviously make sure you take a quick second to gut check everything that's present there. You can't just rely entirely on gen AI, but in terms of how it's set up, it almost does everything for us. So we're really making very minor edits, if any at all.
+
+00:51:03:48 - 00:51:27:06
+不明
+And then we're going to click the section for the chapter videos and go to a landing page. So after if everything looks right, you copy the HTML. You go to either your, you go to your landing page, you find where you want to place it. For example, we'll put this in the body, double click, go to the HTML, and all you have to do is paste in it formats right into your instance and then hit save.
+
+00:51:27:10 - 00:51:40:25
+不明
+It's literally that easy. And if you do have a little bit of an HTML background, you can get really crazy with it. But for those that don't, it's fully trusted in places we really well within it.
+
+00:51:40:30 - 00:52:01:24
+不明
+And then you can see the summary as well that's placed there, and then how it looks in terms of the video itself as well as the video chapters right there. And then once all of that is completed, we're not going to show our engagement dashboard because we don't want to show any sensitive data. But that's so nice after and I know you saw a little bit in terms of what Joe showed as well as you can look online posts after this.
+
+00:52:01:24 - 00:52:27:42
+不明
+But, the engagement dashboard is so good for us because, after the go live as well as all the on demand, that's what us marketers leveraged with our account executives, our business development reps, as well as our CSM to show where the prize, if you will, in terms of direct follow up after that. So if we know people really spent time on this one chapter and it was a customer, we'll connect with the CSM and say, hey, this customer was in this part heavily.
+
+00:52:27:46 - 00:52:48:24
+不明
+There's probably a cross-sell upsell here that you should consider. Here's the information for that. Everything I just spoke about is also represented within our C.r.a., CRM for the insight section. So if it's taking us a little bit long to get to them, they'll already have that information available, to take advantage of. But that's a quick, basic demo of how we're using it.
+
+00:52:48:28 - 00:53:10:22
+不明
+It's an absolute game changer for us. And to all of you marketing Marketo users, there's really no risk or anything stopping you from testing it yourself. So highly recommend taking advantage of it. And that's it for me. All right. Thanks, Matt. And thanks, Kelly. Yeah. Great demo. Love seeing that. Thank you. Yeah. And like Matt's saying there's there's no risk.
+
+00:53:10:24 - 00:53:38:10
+不明
+You don't have to replace your webinar platform right away. You can run a webinar using interactive webinar, you know, first try with an internal meeting or to run a webinar, you know, and then over time, they could, replace your existing webinar provider. So, yeah, there's a lot of free resources for you to get started. There's experience documentation.
+
+00:53:38:15 - 00:54:01:42
+不明
+There's video to tutorials. There's there's how there's a how to guide as well with like step by step instructions. We also have customer office hours. So this is the QR code for the customer office hours. There's one next week and we have two product specialists within Adobe that just focus on interactive webinars. They are in the back of the room.
+
+00:54:01:42 - 00:54:27:54
+不明
+Ali and Nick, if you want to stand up they're great. You can, you know, talk with them if you're interested in interactive webinars. They will be hosting the office hours as well. So you can you can come during the office hours, ask questions and see what other people are asking. There's also, you know, you can just use the Marketo Engage support portal if you need to, submit a ticket that way.
+
+00:54:27:59 - 00:54:53:28
+不明
+There's also a lot on Marketing Nation, community about interactive webinars. And like I said, I would flash this one more time if you're interested in some of the betas. This actually is, the same QR code for like the email content approval and collaboration beta and some of the other betas. But if you are interested in being part of the Gen I, interactive webinars beta, you can fill out that form.
+
+00:54:53:33 - 00:55:29:04
+不明
+And yeah. Key takeaways. Interactive webinars is going to, reduce your time to market. It's going to make you faster since all the workflows are in one place, it's more, efficient set up management, and reporting compared to other providers. You're going to get, you can get a higher engagement lift, higher customizations with layouts and all the in, webinar features, are going to help you drive more engagement.
+
+00:55:29:09 - 00:55:58:33
+不明
+You'll get better internal alignment with your team, with the events team, with the sales team having all that data in one place. Democratize, like Matt was saying. And then, yeah, you can expect a conversion uplift with the reduction in data latency, getting the data quicker. You know, more activity data is going to allow you to personalize better, and to have better follow up and nurturing and increase your, ROI.
+
+00:55:58:35 - 00:56:21:51
+不明
+So trout interactive webinars, and then. Oh, yeah, the survey, fill out the survey for this session for a chance to win a prize. And, yeah, that's it. I think we have a couple minutes for questions, but before that. Yeah, I just want to thank Kelly and Matt again for coming and and sharing this. So,
+
+00:56:21:55 - 00:56:27:31
+不明
+Yeah. Thank you. Kelly and Matt.
+
+00:56:27:36 - 00:56:28:11
+不明
+For.
+

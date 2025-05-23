@@ -1,0 +1,356 @@
+00:00:00:01 - 00:00:25:03
+不明
+One. Thank you so much for coming. Did you all enjoy the elevator music? Yea yea yea and I will say it's very relaxing isn't it? If I was in charge of music it probably wouldn't be appropriate for this session. But thank you everyone so much for coming. I know it's after lunchtime and usually after lunch. Everyone's exhausted, but thank you for coming.
+
+00:00:25:08 - 00:00:55:23
+不明
+Today we are going to be talking about how to utilize your enterprise data warehouse with a CDP. And so I would like to introduce myself. I'm Alyssa Espirit, who I'm a senior product marketing manager for Adobe Real Time CDP. Hi, I'm Stephen Mathis. I'm the face of our consumer marketing technology team at AT&T. I own our capabilities and roadmap and lead the operations teams that are hands on the keyboard every day using these tools.
+
+00:00:55:28 - 00:01:21:45
+不明
+Awesome. And thank you so much, Stephen, for joining us. And I know we have a ton of friends in the crowd, so thank you for joining us as well. To get started, what I want to do is just talk about some things that you can expect from this session. First, you're going to hear from Stephen first hand on how AT&T evaluated and then selected their CDP based on their marketing use cases and data strategy needs.
+
+00:01:21:50 - 00:01:50:06
+不明
+You'll also see how real time CDP can connect seamless seamlessly with your data warehouse, so that you can action on enterprise data. And then lastly, we're going to, of course, highlight the importance of delivering real time customer experiences in the moment. So first let's start with some market challenges and market forces that you know, we're all seeing today.
+
+00:01:50:11 - 00:02:25:04
+不明
+So first we all know especially as consumers that consumer behavior is constantly changing and shifting. Right. There's increased amount of consumer interactions on web, on applications, on brand and partner site connected TV even. And you know, the list really goes on. And, you know, even though there is this ton of information out there and that companies actually need to aid in marketing and business decisions, there's this opportunity to utilize all this information.
+
+00:02:25:04 - 00:02:50:58
+不明
+But there's also a paradox, right? There's a ton of information more than ever before. But marketers and organizations are still finding difficulties getting to the right data points, the right insights, and the right, data that actually is relevant and matter for your consumers. And so this is probably what brought you all here today. I know, as the title said, we're talking about data warehouses and CDP.
+
+00:02:51:00 - 00:03:27:48
+不明
+So some of you may have a data warehouse today. You're probably evaluating a data warehouse as well. You know, and that's great. I will say an enterprise data warehouse is an amazing solution for long term storage, historical data points, analytical workflows as well for, you know, at it and data scientist teams. But in order to provide the right experiences for your consumers, organizations and marketing teams still need a customer data platform.
+
+00:03:27:53 - 00:03:50:33
+不明
+And a customer data platform is so important in order to unify relevant customer data sets. Right? And this is specifically where marketers have to work in, and they have to work in this tool every day. So raise your hand if you know some of you are a little bit on the IT side, and you're probably working with an enterprise data warehouse or have one today.
+
+00:03:50:38 - 00:04:13:18
+不明
+Great. You're in the right room. You're in the right session. And then on the other side, let's say you're a marketer and you want to work in a CDP or you're already working in a CDP today. Make one. Awesome. Great. That's exactly what we want. The room is split, right? That that poses a great opportunity because there's synergies between these two teams and there's synergies between these two solutions.
+
+00:04:13:23 - 00:04:40:51
+不明
+And the value here is that you need a CDP that provides connectivity with your data warehouse, so that marketers can get to the data that they need that lives in their enterprise, warehouse, so that you can actually action, actually action, action on that enterprise data. And so with that, you know, some of you here today might be hearing some of these challenges.
+
+00:04:40:53 - 00:05:06:26
+不明
+These are definitely common quotes that we hear all the time from our customers. So what you see here is definitely common. You're not alone right. We have some customers today that, they don't want to make copies of their data that live in their that lives in their enterprise data warehouse. They need to action on that data. And they also need to do that with a minimal data movement.
+
+00:05:06:31 - 00:05:34:13
+不明
+And of course, especially nowadays companies, I'm sure you all are also experiencing need to be aware of costs. So how can you utilize your existing investments today and extend the value of your tech systems? Right. And what's even more important from the marketer standpoint, they need to be able to get access to that amazing data that you already probably have.
+
+00:05:34:18 - 00:06:02:57
+不明
+And now, in order to combat some of these challenges, you really need a CDP that can both do that. Can do both federation capabilities as well as streaming and ingestion capabilities as well. And so that's what real time CDP provides. We're extending the value of the data warehouse that you may have today. And we're extending the value of the data that you may have so that you can make it actionable.
+
+00:06:03:02 - 00:06:34:04
+不明
+And so, for example, with our federation capabilities, marketers can get direct access to enterprise data sets without having to move that data or duplicate that data into the CDP. Another value that we've been seeing, for marketers, is that they can utilize both federated data sets and ingested data sets in one place in one unified platform with an experienced platform.
+
+00:06:34:08 - 00:07:02:52
+不明
+And then lastly, what's really important for marketers and to provide great customer experiences is this whole notion of providing in the moment experiences. So let's double click into that a little bit. Providing in the moment experiences, especially today, is crucial, right? Consumers now can make decisions on whether or not they want to interact with your brand in just milliseconds.
+
+00:07:02:56 - 00:07:24:01
+不明
+And nowadays, even us as consumers, we get thousands and thousands of messages a day from brands. And I don't know about you guys, but for me, I can read a message, a text, an email, something on Instagram for two seconds. I'll read the first two words and I'll know whether or not I want to interact with it or just move on.
+
+00:07:24:06 - 00:07:58:11
+不明
+Right. So it's very important for brands to engage with their customers with these contextualized and personalized experiences that are based on their preferences. So you want to provide experiences that are based on when and where your customer wants to interact with your brand. And so in addition to all of this, not only do you want to provide in the moment experiences, but you also want to do so that adheres to data quality and privacy standards.
+
+00:07:58:16 - 00:08:05:58
+不明
+And that's also important, to utilize federation capabilities as well to do that.
+
+00:08:06:03 - 00:08:32:26
+不明
+And so all of this is exactly why we're excited to welcome Stephen at AT&T to talk about, you know, AT&T, his journey to evaluate a CDP. But before we do so let's watch this, pretty cool video. At AT&T we know enough in life isn't guaranteed. Like having the perfect wedding night. Super. You know what AT&T guarantees? Connectivity.
+
+00:08:32:26 - 00:08:56:01
+不明
+You depend on the deals you want and the service you deserve, or we'll make it right. I'm sorry. I love that video too, because I'm actually getting married later this year, so I hope that doesn't happen to me. Anyway, everyone welcome Stephen back on this stage. Round of applause.
+
+00:08:56:06 - 00:09:17:08
+不明
+Yay! You're so popular already. Lovely. So I'm sure all a lot of us here knows what AT&T is. And a lot of us are customers. You know ourselves. I've been a customer for many years, so I should get a discount. Personally, for everyone. Yeah. But let's just give a little bit of context on where AT&T is.
+
+00:09:17:08 - 00:09:48:41
+不明
+Can you give us the background of the company? Absolutely. Yeah. So AT&T goal is to be the best converged connectivity provider, through both 5G wireless services and fiber. To that end, Ookla as recently named as the most reliable and fastest provider of both 5G and fiber. And this year we launched, as you saw, on that wonderful video, the AT&T guarantee, which provides, guarantee to our customers that they'll get the, connectivity and deals and service that they both depend on and deserve.
+
+00:09:48:45 - 00:10:12:30
+不明
+That ethos carries through to our marketing. The expectation is that we are providing, personalized, relevant and timely, valuable experiences to customers every time they give us their attention. And so to do all that, AT&T has to operate at a pretty big scale. We have, we serve the entire country. Obviously, we have well over 100 million customers that depend on us every day.
+
+00:10:12:35 - 00:10:35:20
+不明
+We have the largest fiber network in the US, and we have a ton of data that we use to do our job. And so it's important to ensure that every piece of technology we choose to use can scale, can support the size and complexity, and, it can grow with us as we grow. Yeah. That's awesome. And I actually like what you said about your purpose as a company.
+
+00:10:35:34 - 00:10:56:21
+不明
+And like what we saw in the video, it's all about connectivity, right? And so what's really cool, too, is that you want to be able to, show that in your marketing, you want to be able to connect all your customer experiences. So from a marketing standpoint, and let's say a higher overarching business standpoint, what are your goals that you guys are working on?
+
+00:10:56:26 - 00:11:23:44
+不明
+Yeah, well, like many of you and some people who I work with, we have the normal business goals you would expect. We are looking to attract prospective customers, get them to our sales channels, convert them more effectively and retain the customers that we already have. In the context of this conversation, the expectation is that we're maximizing every single customer interaction, every email, every SMS, the content on the website, the content in the app, and even the prompts and offers.
+
+00:11:23:44 - 00:11:51:49
+不明
+We should we show to our own experts when they're serving customers in retail and call centers. Awesome. Yeah, and I know we're really here to talk about like, the evaluation of a CDP. And a lot of companies are actually curious about this process. I know every company does it differently. So from your guys's standpoint, walk us through your experience, you know, through all these steps on how you evaluated, CDP that fit your, data strategy?
+
+00:11:51:54 - 00:12:20:35
+不明
+Yeah. We started with a, very honest outside, sometimes painful, self evaluation of our current state. People process tech. Lots of people in process. Yeah. We then use that to go and get organizational alignment, to go tell the story of where we are and what we need. And get the alignment. You need to do a project like implementing a CDP, across an enterprise as big as AT&T.
+
+00:12:20:40 - 00:12:40:44
+不明
+And then we use that as we got an engagement across the enterprise. We use that to build out our use cases and finalize kind of all the requirements we need and are looking for one, and for us, a big part of the story was how we store, access, consume and activate data, how we use that in marketing, and both our operational and security concerns about doing it.
+
+00:12:40:48 - 00:13:03:33
+不明
+Yeah, I feel like a lot of people can definitely relate to that today. So let's unpack each of these steps. And throughout our presentation we'll go through, how Stephen and his team went through this evaluation process. So first, let's actually talk about, evaluating your current data state. What were some things that you were able to unpack during this stage?
+
+00:13:03:33 - 00:13:21:23
+不明
+Yeah. So as I say, we did this evaluation in the first step, which at the time should have been obvious. We actually defined our target state, our North star. What is it that we believe is best in class. And then we went through the evaluation. We compared all of our capabilities, our tools, our process to what we believed is best in class.
+
+00:13:21:23 - 00:13:45:11
+不明
+And then we believed our target state should be the output of that ends up with like a 30,000ft view of all the things we do, how it all works, and we we were able to distill that down to some areas where there is some duplication. We could probably simplify process, maybe save some money, but more importantly, kind of three big priority areas where we had capability gaps that we believed we needed to urgently go and attack.
+
+00:13:45:16 - 00:14:08:30
+不明
+One of those was the CDP. So first and foremost, in my own defense, I knew we needed a CDP. That wasn't news to me. In 2023, but, this evaluation helped us tell that story in a way that resonated with our senior leadership. Better than me just banging on the wall saying I needed a CDP.
+
+00:14:08:35 - 00:14:30:05
+不明
+And so specifically in our evaluation, some of the things we discovered, discovered, was that we had, you know, this decentralization of teams, teams working in silos, specific processes and tools that were unique to each channel so that even in the best of times, if we were, say, supporting an iPhone launch, we all went and orchestrated our marketing.
+
+00:14:30:10 - 00:14:49:26
+不明
+The best case was we did the same thing three, 4 or 5 times to support the entire business and all the channels we support the worst case was we were much, much more inconsistent because we weren't showing up as one company. We weren't centralized in how we're defining audiences and personalization. Yeah, that's definitely common. How many of you guys in the room today kind of, you know, experienced that?
+
+00:14:49:26 - 00:15:15:00
+不明
+But disparate tech systems, teams in different places don't lie. Oh yeah. It's everybody. Almost everybody. Right. Yeah. So there's a lot of, commonalities here that we're seeing, among a lot of organizations out there. So with that, I know there's a lot of teams involved. There's your data science teams, IT teams marketing, you know, data security list goes on.
+
+00:15:15:00 - 00:15:39:38
+不明
+So what team for your organization is that, like, needed and realized they needed a CDP? It came from us in martech. We are, you know, at AT&T. I know everyone does martech a little differently to an extent. We sit inside of the marketing organization, but we aren't the marketers that you think of. We we partner with marketers, we partner with our tech dev orgs and kind of sit between them.
+
+00:15:39:43 - 00:16:07:49
+不明
+But I actually give you a bit of background up through 2022, for the few years prior to that, we were on a massive sort of data transformation journey. We had historically grown up every org in the business had created their own data mart, their own business rules, and we went through and did this massive data consolidation to get everything that's used for marketing, analytics, reporting, modeling, forecasting or targeting, personalization, standardize and built one way, then centralized place that everyone could use.
+
+00:16:07:53 - 00:16:27:59
+不明
+So when we got into 2023, my peers and I kind of have that project in our rearview mirror, started thinking about how do we use that data, how does that data, you know, interact with the rest of our tech stack and our capabilities? At the time, our highest priority was actually decisioning. It was not a CDP we looked at.
+
+00:16:28:03 - 00:16:52:42
+不明
+We knew there was decentralization. We knew we were inconsistent at times, but we thought the bigger issue we had was we needed to expand our capabilities and decisioning to places that it wasn't impacting today, and also get better at real time machine learning. Then we were on this journey and we talked to someone at a conference for a decisioning platform who was in the very similar place to start a telecom provider in Europe.
+
+00:16:52:42 - 00:17:11:26
+不明
+And he had the same strategy. He was going and fixing his decision and capabilities, and then went back to do a CDP. And what he had learned is that he had to redo all of his decisioning work when he built the CDP, because he wanted it all sync up. And so then at that point in the summer of 23, we turned, we're like, oh, we need a CDP.
+
+00:17:11:31 - 00:17:44:31
+不明
+And we're making no progress until we were very fortunate to have this executive sponsor and martech evaluation that enabled us to go and really tell that story more accurately. Yeah. I feel like especially you said it started in 2023 when this happened. Yeah, yeah, yeah. I feel like after a couple of years and going through this very in-depth evaluation process, it's really important to actually take this output and provide it to the rest of the organization to align internally on your next steps in your strategy.
+
+00:17:44:36 - 00:18:00:47
+不明
+I've heard a lot of customers ask about, well, how do I get organizational alignment, right? It's different for everybody. But for you guys at least, can you give us an example of how you were able to get there? Yeah. So a year ago, I was here not having a CDP, in a lot of sessions like this.
+
+00:18:00:52 - 00:18:33:29
+不明
+And every single session told me you need top down alignment. You need your CEO, your officers saying that this is a priority and pushing that mandate down. I believed them, I didn't probably fully appreciate it at the time. And as we've gone through this implementation process over the past few months with with our CDP, you know, we've had to work with marketing teams, martech teams, tech dev teams, agencies, agencies, martech teams, security, enterprise architecture, the list goes on and on.
+
+00:18:33:29 - 00:19:06:54
+不明
+And the fact that we had that we took our martech evaluation to the CEO, the fact that we had his stamp on a deck that we could go and do this was really important, and we wouldn't have gotten here otherwise. But the other thing we learned, and this maybe is more true at AT&T than some places because of the size and complexity, is that we were most effective when that top down mandate kind of met a coalition of the willing working team, people in the middle where we had gone out and done the grassroots work to inspire and motivate working team members across the organization so that we had champions asking for it.
+
+00:19:06:59 - 00:19:26:06
+不明
+And that kind of met with the top down alignment, where we didn't have that. We struggled a lot more. We struggled to get alignment, struggled to get prioritization, and struggled to launch things that everyone knows we need to do. But there was not alignment and, that's sort of the bubble management group. Yeah, I like that perspective. That's an interesting take.
+
+00:19:26:06 - 00:19:46:56
+不明
+Right. Like to your point, everyone kept saying the same thing. Like this is exactly how you get organizational alignment. It's from the top down. But you know, it's different for everybody. It's different for every company. There's an enterprise like AT&T that is just massive, right? It's not a one size fits all. Every company is structured differently. Every company is a different size.
+
+00:19:47:01 - 00:20:20:14
+不明
+So I really like hearing that, that perspective. That's definitely a different perspective. And of course it takes a village, like you said, you just listed so many teams internally and externally. So it really takes a village to, to make, you know, your goals really come to fruition. And so with that, right after you've gotten this organizational alignment, after you discussed with multiple teams, what were your top priority years from a marketing perspective, and then what were your requirements that you guys uncovered for a CDP?
+
+00:20:20:19 - 00:20:42:15
+不明
+Yeah. So our top priorities were kind of straightforward, right? The first one was we need to centralize audience building. The problem was it was all decentralized. We needed one place that we could build our core audiences, define our core segments, and be the starting point for personalization. The second piece was we wanted real time personalization. We've been in this batch in the last world for a long time.
+
+00:20:42:15 - 00:21:01:14
+不明
+It was our first mode of operating. We do a very, very well, but even as we started going down this road we wanted, that was a big priority for us. Third, every tool we pick right now, while it today is martech, every platform, every martech tool we have, it's martech teams, hands on the keyboard is doing the work.
+
+00:21:01:19 - 00:21:20:33
+不明
+Our goal is to enable marketers in the long term. So every platform we pick needs to be usable, approachable, have a UI that we believe marketers might be able to adopt in the future, and not all CDPs do. And finally, as we mentioned, that kind of that data journey we had been on, composability was very important to us, the the for both operational and security reasons.
+
+00:21:20:33 - 00:21:37:24
+不明
+We didn't want to have data in as have data in as few places as possible. So having a CDP that could connect to our snowflake environment, where we've consolidated all of the data we need and leave most things there and just bring in to the CDP the things that need to be there in real time. That was a huge priority for us.
+
+00:21:37:29 - 00:21:57:50
+不明
+Yeah, I think we're seeing that more and more often. We're and that's also why everyone here is probably in the room today is like, how do I use my enterprise data sets versus how do I ingest, the data sets into a CDP. And I know that there's a little bit of a tug and pull and figuring out what is the right data to use and how to use it.
+
+00:21:57:50 - 00:22:27:07
+不明
+So from your perspective, right, how did you decide what to federate from snowflake versus, you know, using things in streaming or ingestion into experience platform? Yeah. So this is jumping ahead a little bit. We started off 100% federated. We have nothing streaming in and ingesting. But that's not the plan right. Long term we will have our sort of more static historical data sitting in in snowflake.
+
+00:22:27:07 - 00:23:01:40
+不明
+And we'll use that Composedly. So think past purchase behavior, customer lifetime value, things that don't change a whole lot. And then we'll have all of our event based data streaming in. So what you're looking at on the website changes to an account and CRM activities in a call center a retail store. Yeah. That's great. I also want to reiterate that point too, because early on the presentation, we were talking about what data sets in the warehouse versus what data sets, like which type of data sets in the CDP, and depending on what type of type of data that you have in each will help you understand how to utilize that data for your specific use
+
+00:23:01:40 - 00:23:31:22
+不明
+cases. Right. We have like that long term long living, data in a enterprise data warehouse. That probably won't change that often. So it should fit where it currently resides, right. And then so what brought you, you know, to Adobe and, you know, how did Adobe really fit, your requirements that you talked about here? And I'm sure there's way more requirements than just these four, right?
+
+00:23:31:22 - 00:23:55:06
+不明
+When you would evaluate a platform like this, you're going to have more than four requirements. Let's be real. But but what about Adobe? Did you think was this fitting? Yeah. Well, anyone who replied to our RFP knows that it was a lot longer. Yeah, yeah. Hundreds. Adobe did a few things for us that. The first is they gave us a path to kind of the best of both worlds.
+
+00:23:55:06 - 00:24:14:52
+不明
+It got, a composable capability that was so important to our data and IT partners. So they weren't having to do the work every hour, every day, every night to push data into another platform and then monitor another production process. But in addition to that, we were able to work with Adobe and get, yes, the federated composition, right, one of the first ones to get access to it.
+
+00:24:14:56 - 00:24:34:10
+不明
+And, you know, and combine that with the real time capabilities have been building for the last five, six years, and that meant that we would have options as we move forward to use the right, you know, data ingestion process and the right data access process for each use case as needed. And not pick one side or the other.
+
+00:24:34:14 - 00:24:55:17
+不明
+Second was benefit realization. So we did a pilot, you know, the the pertinent one is in August. That was the week they were actually training their internal teams on, the FRC capabilities and Adobe CDP. They were on site at AT&T and, and showed it to us as well. I think I have the timing right for all this.
+
+00:24:55:17 - 00:25:11:26
+不明
+And on Monday, they provisioned the instance Monday afternoon, the AT&T data teams went through and did the data model. And then Tuesday morning we were all in a room going through how to use it, how does it work. And you know, before they had finished the training, my team and I had built audiences that were ready to use.
+
+00:25:11:26 - 00:25:33:45
+不明
+I could have used them that night if destinations were configured. It was so easy and we were able to move so quickly doing, you know, that that core piece of getting data into the CDP, targeting and segmenting and creating audiences that we could use anywhere in our marketing environment. The last piece I'll hit on this slide is, the platform strategy of ADP.
+
+00:25:33:45 - 00:25:59:40
+不明
+We're not an Adobe shop. We don't have all Adobe software. We do have some critical pieces of Adobe. And I, I personally am a big believer in where they're headed with ADP, the platform that where everything connects to the same thing. Your reusing capabilities and not rebuilding things every time for every use case. And you know, the ability to then also integrate what we do in CDP with work front and other tools that we have that we believe there's a roadmap there for us.
+
+00:25:59:44 - 00:26:35:59
+不明
+Yeah. I mean, it's great to hear that a customer validates our strategy. And so, you know, we've embarked on this, journey. It was a very quick, like you said, journey. And we're excited to continue in this momentum of our partnership. And honestly, I think we've seen tremendous value since just implementing in December. Right. We've just from implementation, we've seen tremendous time to value where, you know, as Stephen said, marketers can get their hands on the CDP and start actioning on the data right away.
+
+00:26:36:04 - 00:27:03:15
+不明
+We've also seen a lot of value in terms of performance and scale, especially for an enterprise as big as you guys. Right. Like earlier on the slide, you said you had over 200 million customers. That's huge. So scalability. And honestly having a performant platform is so important. And lastly, we've seen some operational efficiencies already. So can you tell us a little bit about each of those.
+
+00:27:03:20 - 00:27:31:43
+不明
+Yeah, absolutely. Absolutely. So the overall like time to value and implementation. We had the pilot in late August I think we officially selected in late September. And you know, then getting into mid-October. So we started actually trying to ramp up this platform and then including holidays and everything. We had production instance live and provisioned and early December use cases built in December and ready to launch.
+
+00:27:31:48 - 00:27:55:05
+不明
+We didn't launch them in December for a handful of reasons. We had, operational concerns. We had, you know, orchestrated media buys with agencies. And it was better off starting in January. And then off in the long haul. And the tent was actually that cross-functional organizational alignment and prioritization of really tactical, like destination configuration. And, custom integrations with home built applications.
+
+00:27:55:05 - 00:28:15:25
+不明
+And so but we were able to get in under two months end to end from signing a contract to having use cases that we could launch. And we're ready to go. And then we did ultimately launch our first use cases, in January and February. So we've done a really well. Good job there. On the, operational efficiencies.
+
+00:28:15:30 - 00:28:18:37
+不明
+
+
+00:28:18:42 - 00:28:42:14
+不明
+We have, sorry. No worries. So we've got the operational efficiencies. That's been great. We've got several use cases we've built in the past few weeks where we would have historically had to go and build audiences, and multiple times and multiple platforms were able to build it once and go from there. But in addition to that, what we found is the, performance and scale has been really good.
+
+00:28:42:14 - 00:29:03:11
+不明
+So one of our big priorities, as we said of the first slide, was how can this scale? And, we we've done some well done, some testing, and we were able to generate repeatedly audiences, 50 million and more. And you all at from end to end in eight minutes. That's mining all of our data, creating the audiences, writing their profiles and saving it to export.
+
+00:29:03:16 - 00:29:20:47
+不明
+And that's, you know, it's faster than we were doing in our old process. Yeah. It's been really, really, powerful. Yeah, definitely. And I think that's also the power of federation capabilities. Right. When you have your data that's already structured in your enterprise data warehouse, and you just want to get time to value quick, and you just want to start actioning on that data.
+
+00:29:20:52 - 00:29:54:17
+不明
+When you federate your data sets from your warehouse, into or over to CDP, your marketers can start using that data right away, just like how AT&T did to start Actioning on that data that they otherwise probably didn't have access to before. And so, you know, with that, we are definitely preparing for the future. We're going to continue this momentum, Adobe at least as we're definitely making investments into our platform and our products capabilities.
+
+00:29:54:22 - 00:30:19:13
+不明
+A couple of things I'm excited to share for what's next for us. Specifically from an Adobe standpoint, you know, right now we have federation capabilities from a data warehouse into our CDP. But what we're really excited about is this bi directional aspect of then getting that data from CDP and then federating it and sharing it with snowflake, right.
+
+00:30:19:13 - 00:30:45:51
+不明
+So what we're seeing more and more often is that IT, folks, technical teams, you know, data engineers, what they want to do is the ability to do some data modeling and data analytics on, audience data or consumer data that's coming from your CDP and into snowflake. But you don't want to do that by moving the data. So you want to minimize the data movement and duplication as much as possible.
+
+00:30:45:51 - 00:31:12:14
+不明
+So we're really excited to, launch that capability very soon. And we're in the middle of testing with you guys right now, which is great. Another thing that we're also working on, as it relates to Federation capabilities, is currently what we can do today is federate audiences and have attributes, audience attributes live in audiences within CDP.
+
+00:31:12:19 - 00:31:45:41
+不明
+Now, what you're able to do soon is federate specific attributes from the warehouse and have them live in person profiles within the CDP. And so that's going to be called profile Enrichment, and that's coming very soon as well. And we're really excited about that because you can actually get even further deeper into segmentation, deeper into targeting and personalization as well, when you can bring enterprise attributes into the profile level.
+
+00:31:45:45 - 00:32:04:59
+不明
+And then select a little bit from the product side from, you know, AT&T use point of view and your use cases. What are you looking to build on in the future? Yeah, I would break our kind of forward looking roadmap into a two buckets. We have what we're doing from a platform point of view, which is we started out 100% federated.
+
+00:32:05:00 - 00:32:30:36
+不明
+So now we're going through an enabling real time personalization, setting up the the connections to stream data in and ingest it in real time for those use cases. We also have a long roadmap of integrations to work on that will keep us busy for, I think, another year or two, probably, from setting up, you know, ingesting other, data sources, configuring all of the media partners and publishers we work with, which is dozens and dozens.
+
+00:32:30:41 - 00:32:56:33
+不明
+And then also, like we talked about, integrate into other martech platforms in the stack so that we're actually creating this more integrated, martech experience and enabling marketers to work more easily. The other piece we're working on is as you'd expect, actually building things in CDP, enabling new use cases. So we've stood up a Tiger team of cross-functional people to really hammer in on our retargeting strategy, expand what we're in, areas we're not doing things today.
+
+00:32:56:33 - 00:33:21:51
+不明
+And then also, you know, go and make things more consistent and improve them where they had been siloed efforts in the past. Yeah, that's all really exciting. And I feel like it really just takes, multiple teams to really work together. Right? In order to be success successful, you need, you know, your marketing teams who are hands on keyboard in the CDP, with your technical teams actually analyzing and setting up that data to work in tandem.
+
+00:33:21:56 - 00:33:48:24
+不明
+So that's really exciting in terms of the use cases that you're going to, execute soon. And so, you know, with that, to wrap up the session a little bit, what are some key takeaways or recommendations that you would like the audience to think about when they get back to their desk? Yeah. So if you've taken the time to be here, you probably already agree that, you know, creating contextually relevant, personalized experiences is important as how you're going to stand out.
+
+00:33:48:29 - 00:34:04:58
+不明
+To do that, we found that you really need the right technology paired with the right people and process. So I would like I said, start with that really honest self-evaluation of where are you today? What are you good at today, and where do you have gaps between what you're doing and what you would call best in class?
+
+00:34:05:03 - 00:34:24:58
+不明
+We found that CDPs are not one size fits all. They all grew up differently. They all have different capabilities and different strengths. For us, the one of the driving factors in our evaluation was data. Where is your data? How are we storing data? How do we access data with the CDP? And how do we make that process both secure and operationally sustainable?
+
+00:34:25:02 - 00:34:46:29
+不明
+And finally, you know, the CDP should, in the long term, make your life easier and better. Probably not in the short term, but we're very excited for the road ahead. And so I hope it was helpful. Awesome. Well, thank you so much. Can everyone give Stephen a round of applause for joining us? That's awesome.
+
+00:34:46:34 - 00:35:12:53
+不明
+Well, thank you for joining us today. And you know, like I said, definitely think about some of these steps a little bit more. See how it can apply to your organization. Because it really isn't a one size fits all. But this was a framework that worked for AT&T and worked for Stephen and his teams. So when you go back to your desk, just get a sense of where your data lives, get a sense of what data you want to utilize, and what your marketing use cases are.
+
+00:35:12:58 - 00:35:33:37
+不明
+Before you guys go, I do want to say there are another awesome sessions to check out if you're not too tired. We have another federated audience composition session later this afternoon that talks about this in a little bit more detail, a little bit more technical on how we confederate from Microsoft Fabric. We also have a lab.
+
+00:35:33:37 - 00:35:56:38
+不明
+So any technical folks out here who want to get their hands on keyboard and see this, federate these federation capabilities, work in real life. Check out the lab tomorrow. My colleague Abhijeet will be there, and he's awesome. Thank you guys so much for coming. I really appreciate the time.
+
+00:35:56:43 - 00:35:56:57
+不明
+You.
+

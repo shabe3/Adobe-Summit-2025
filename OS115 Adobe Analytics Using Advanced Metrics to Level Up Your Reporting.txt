@@ -1,0 +1,224 @@
+00:00:04:26 - 00:00:30:47
+不明
+Hello and welcome to this session using advanced metrics to level up your analytics. My name is Mandy George and I'm a senior e-commerce analyst at staples Canada. Before we start, I'll give you a quick summary of what we're going to cover today. We'll start at the beginning with what calculated metrics are and why you should use them. Then we'll go over some of the different components in the Metric Builder.
+
+00:00:30:52 - 00:00:57:40
+不明
+We'll talk about the difference between grand total and standard metrics. I'll show you how to use Non-Default attribution models, and we'll talk about how to use advanced functions in your metric. And finally, we'll cover some best practices to keep in mind. So I'll share a little bit more about myself. I'm a three time Adobe Analytics champion, a user group leader for the Analytics Champions.
+
+00:00:57:41 - 00:01:21:02
+不明
+Office hours. And I'm a community advisor on the Experience League forum. I live in Saint John's, Newfoundland, and I'm also doing a PhD in mathematical cognition, which essentially means that I study how people learn math and think about numbers. And yes, I know this makes me a huge nerd, but this is why I love working with calculated metrics so much.
+
+00:01:21:07 - 00:01:57:15
+不明
+And you can feel free to reach out to me on LinkedIn, especially if you have any questions about today's session. So what is a calculated metric? Well, it's a custom metric that's created by you or others at your organization. And it's made by combining other metrics, events, segments, functions and static numbers to create a new metric. The ability to create custom metrics like this is one of the features that makes Adobe Analytics and customer journey analytics so incredibly powerful.
+
+00:01:57:19 - 00:02:23:03
+不明
+These metrics are useful for reporting on events that are not directly captured on your website, and they let you dig deeper into your data. Say, for example, you have a number of different customer groups that visit your website, but you only want to report on one of them. Well, you can drag a segment that represents that customer group into your metric builder and turn two components into one.
+
+00:02:23:07 - 00:02:50:49
+不明
+You can create custom metrics that are a whole or decimal number, but also metrics that are currencies, time based metrics or percentages. These calculated metrics can be used in Workspace and Report Builder. You can also use them as a part of anomaly detection or contribution analyzer. So this makes them quite versatile and very useful. So why should you use a calculated metric?
+
+00:02:50:54 - 00:03:15:47
+不明
+Well remember our example of having different customer types, but only wanting to report on one of them? We could technically drag a segment or dimension representing that customer type into our free form table and filter our visits metric. But if we add that segment to the metric builder instead, now we're only dragging in one component instead of two.
+
+00:03:15:52 - 00:03:41:13
+不明
+And not only does this make it easier to build our table, especially if we have a lot of metrics to use, but it also makes the table cleaner and easier for our business partners to read. And this can help improve their understanding of your reports. Calculated metrics will also let you create custom KPIs that are directly related to your business needs.
+
+00:03:41:18 - 00:04:11:24
+不明
+Say for example, you have a form on your website and you want to understand the completion rate for the form. Well, you can take your event for form completed and divide that by your event. For form. Start and change your metric type to a percent to get your completion rate as a percent. You can use some of the other options as well, such as changing the decimal points or even using an advanced function to change how the data is appearing.
+
+00:04:11:29 - 00:04:39:02
+不明
+If you have a revenue metric and you want it to be whole dollars, you can change the decimal places to zero. Or if you want it always rounding up or down, you could apply one of the advanced functions, floor or ceiling to change how the data is appearing in your table. I know these changes seem small, but when you're looking at dozens of dozens of reports a day, it can make a big difference.
+
+00:04:39:07 - 00:05:03:33
+不明
+There are a number of different features in the metric builder that you can take advantage of to make your metrics more useful. The first is keeping in mind the different types of components that you can add to your metric. Of course, you can add other standard metrics and events, as well as mathematical operators like plus or minus to do a calculation, but you can also add segments to your metric.
+
+00:05:03:37 - 00:05:35:57
+不明
+You can do this by clicking one of the segments that's already been created in your left hand navigation. Or you can click the plus icon to make a new segment. Your other option is to add an ad hoc segment. AD hoc segments are ones that are only available in the project or metric where they were created. To do this, you drag in a dimension item, and once you put a dimension item into your calculated metric, it will automatically turn it into an ad hoc segment.
+
+00:05:36:01 - 00:05:59:37
+不明
+But again, unlike the other segments that are listed in your components menu, this one is only available in the current metric that you're building. However, you can edit that ad hoc segment as needed. For example, you can change the level of it from hit to be a visit or visitor, and you can also add other components to that segment.
+
+00:05:59:42 - 00:06:22:52
+不明
+You also have the option to save the segment and make it available in your other projects and metrics. This will then add the segment to your components list, and it will no longer be an ad hoc segment. In addition to the operators from the left hand Nav, there are other options that you can use for your metrics, such as containers.
+
+00:06:22:57 - 00:06:49:00
+不明
+Can add in containers is like having brackets that can help you determine the order of operations for the calculations in your metric. You can use more than one container, and you can even nest containers inside of each other, allowing you to replicate some pretty advanced formulas. The other option that you have is to add static numbers. Static numbers are constant ones that don't change.
+
+00:06:49:04 - 00:07:19:03
+不明
+For example, if you want to take a metric that's a percentage and turn it into basis points, you can put your percentage calculation inside of a container. And below that container, you can add a static number to turn a percentage into basis points. You multiply the percent by 10,000. And when you do this, don't forget to change your metric type from percent back to decimal the and change the decimal places to zero.
+
+00:07:19:17 - 00:07:50:01
+不明
+That way looks like a regular basis points metric and won't be confusing to anyone that's reading your report. Now, my personal favorite aspect of building metrics is the ability to use advanced functions. Adobe has over 80 different functions that are available for you to use. And these range from basic descriptors like mean or median to logical comparisons like greater than or less than all the way to advanced statistical tests like t tests or regressions.
+
+00:07:50:06 - 00:08:15:49
+不明
+If you're interested in learning more about these advanced functions, a few months ago, I actually wrote an advanced function playbook that's a one stop shop guide for everything you need to know about them, and this guide is available on experienced league. One of the great things is that you can use these components and other features in an infinite number of combinations, by mixing and remixing them.
+
+00:08:15:50 - 00:08:38:11
+不明
+You can create new new metrics to help drive insights for your organization. Now that we know why we should use calculated metrics and how to build them, let's look at some of the other options that we have available to us. If you click on the gear icon in one of your metrics in the Metric Builder, you'll see two options appear.
+
+00:08:38:25 - 00:09:12:15
+不明
+Metric type and attribution. So let's talk about metric type first. When you build out a metric by default it's considered a standard metric. This is just a normal calculated metric that shows you each individual rose amount and a duplicated grand total at the top of your column. Your other option is to change this to a grand total. What this will do is it will change all of the row values to be the same as that duplicated grand total at the top of the column.
+
+00:09:12:19 - 00:09:38:10
+不明
+So every row will have the same number. If you look at our example here, you can see that we have online orders for each day. And in our left hand column we have a standard standard metric. So it's showing each of the daily values. If you look at the column on the right this is the same online orders metric, but with the type changed from standard to grand total.
+
+00:09:38:15 - 00:10:03:54
+不明
+Now we have the grand total for the column appearing on every row. There are some specific use cases where you would want to do something like this. You could use grand total if you want to calculate individual rows as a percentage of the total. Or another use case would be. If you want to calculate a total without each individual row to get a remainder amount.
+
+00:10:03:59 - 00:10:26:57
+不明
+But the most common is going to be when you're doing statistical tests. There are some tests that require using grand total as a part of the calculation. Now, this isn't an exhaustive list of the ways that you can use Grand total. There are many others. If you want, feel free to share some of your use cases with us on LinkedIn or on Experience League.
+
+00:10:27:01 - 00:10:52:28
+不明
+I've had other users reach out in the past and share how they've used these features, and how it's changed their reporting. I love hearing about other's use cases, so feel free to reach out. Now the other option from that settings box is the attribution. When you set up your vars, you pick them attribution for them and this determine what value gets credit for the specific metrics.
+
+00:10:52:33 - 00:11:21:00
+不明
+But there might be times when you want to change this around. And you can do this by changing the default attribution to having a different type and look back window. The model type is going to be how the values are attributed, and the most common are typically first touch or last touch. But other attribution models, such as linear or participacion, are a great way to give value or give credit to all of the values in the customer journey.
+
+00:11:21:05 - 00:11:46:37
+不明
+Then there are also some more advanced models like j curve or inverse j curve, and these can produce very different results. The settings setting for the attribution model is the look back window. This is the amount of time the metric will look back at the data. The default here is set to 30 days, but you can change this to be a different time period, such as a visit level.
+
+00:11:46:42 - 00:12:11:55
+不明
+There are custom options available for your look back window, so you can pick a time that makes sense for your use case. Now there are three ways that you can use Non-Default attribution models. The first, of course, is with the settings in the metric builder. You just click the gear icon on the metric that you want to modify, just like we saw on the previous slide.
+
+00:12:12:00 - 00:12:40:26
+不明
+The second is using the settings for the metric after it's already in the table. So if you hover over the metric in your table and click the gear icon there. The difference between doing this and save and using it in the metric builder and saving it is that when you do it in the metric builder, saving it means it will always have that attribution, whereas doing it directly in the table will only apply to that specific column.
+
+00:12:40:28 - 00:13:08:10
+不明
+It won't impact the overall metric. So if you drag that metric again from your components list into another table or another project, it will still have the default attribution. The changes that you made in the free form table only apply to that column. The third option is also in the free form table, and it's by right clicking on a metric and selecting Compare Attribution models.
+
+00:13:08:15 - 00:13:30:25
+不明
+This will actually create a comparison between your two selected models, so you'll be able to see the data for each model, as well as a comparison, so you can see the difference between them. And this will help you understand which model you should be using for your data. So let's look at how the different models impact our data.
+
+00:13:30:30 - 00:14:00:16
+不明
+Again, we're using online orders as our metric. And by default this has a last touch attribution. So in this first column with last touch we can see that the page is getting credit for the order are all purchase pages. And this makes sense because the purchase page is where the order actually happens. But if we change this to be a first touch attribution, like in our middle column, we can see that these purchase pages are no longer getting credit for the order.
+
+00:14:00:21 - 00:14:27:20
+不明
+Instead, it's the first page of the visit that gets credit. And in the right hand column we have a J curve model. So the J curve gives most of the credit to the last pages. But it does also give some credit to the first and middle values. So the result of each of these is very different. So exploring how they impact your data will help you uncover new and interesting insights.
+
+00:14:27:25 - 00:14:51:45
+不明
+And depending on what you're trying to do, will determine which model that you want to use. If you want to see where customers placed the order, then you would probably stick with the last touch attribution. If you want to see where customers started their visit and expand on that to see their conversion rate based on these starts. A first touch attribution might be more useful.
+
+00:14:51:50 - 00:15:21:13
+不明
+Or if your use case involves looking at the entire customer journey, something like a J curve can help you understand the relative impact of each page on the likelihood to place an order. So make sure you think through your use case and use the one that best fits your business needs. Finally, let's talk about functions. As I mentioned earlier, there are over 80 functions that are available to use and the calculated metric builder.
+
+00:15:21:18 - 00:15:52:50
+不明
+These advanced functions can help you perform actions that would normally be far too complex to attempt to build manually. For example, functions like percentile or quartile allow you to indicate a specified level and then will return the value associated with that percentile dynamically. So as your data updates, so does the metric value. Trying to build a percentile manually without the advanced functions and the metric builder isn't really possible.
+
+00:15:52:55 - 00:16:18:27
+不明
+So these advanced functions open up new avenues for analysis. One thing to keep in mind is that most of the functions will look at all of the available data for a given time period. And the only way to limit this is with segments. So say for example our panel is set to last month. And in that month we had 100 different products that were ordered.
+
+00:16:18:32 - 00:16:52:05
+不明
+If we were to use a function that's looking at the entire dimension, it'll consider all 100 products. If we were to select only five of those rows and right click and use the option display only selected rows. The function is still going to use all 100 products, but instead if we use a segment and limit it to only five products with that segment, it will impact the calculation and only use the dimensions that were included.
+
+00:16:52:10 - 00:17:22:00
+不明
+So there are some functions that are specifically referred to as column functions, and some that are referred to as row functions. If we use one of the column functions, it's going to look down the column at all of the rows and return a result based on that information. So say for example something like a column maximum. This is going to look at every row in a particular column, which will be indicated by the metric that you've added in the metric builder.
+
+00:17:22:04 - 00:17:48:07
+不明
+And it will return the greatest value across all of the rows. And this will be the same value for every row. On the other hand, there are some functions that have the name row in them. These essentially look across a row and return a value based on the specific row. For example, if you're using a row maximum in your metric builder, you'll need to add multiple metrics.
+
+00:17:48:12 - 00:18:16:41
+不明
+Essentially, what would be considered columns if you were putting them in your free form table. And this function will then look across all of the columns. And if you're using row maximum, return the greatest value for each row. So a function like this will return a different value on every row. And one of my favorite things that we can actually do with functions is nest them by putting functions inside of each other.
+
+00:18:16:42 - 00:18:46:36
+不明
+You can combine their features. So I recently helped another analyst with a nested function that had three levels. We started with an f function and then inside the comparison we put an and a function. And then inside the end we put two greater than functions. So this gave us a metric that would return a specific value if both greater than functions were met, and a different value if they were not met.
+
+00:18:46:40 - 00:19:19:52
+不明
+So I encourage you to try experimenting with functions and learn what all they can do. Now there is an unlimited number of ways that you can use the functions in your metrics. But I'm going to go over a couple specific use cases here. One of them is for using it for conducting statistical tests. Now if you have target as well as analytics, you've probably used the A40 panel and Analysis workspace or the Experimentation panel and Customer Journey analytics.
+
+00:19:19:57 - 00:19:46:43
+不明
+And while both of these are great, they do have some limitations. For example, you have to have a test run through target to be able to use their calculations. And you can't put any calculated metrics in them. But by using the statistical test functions, including the confidence and lift functions, you can do your own calculate actions without being limited to tests that were run through target.
+
+00:19:46:48 - 00:20:16:50
+不明
+So this can let you do tests between any two items on your site. So maybe you want to compare different pages, different customer types, or even the performance of different campaigns. The sky is really the limit. And you can also use regressions to estimate missing data. There are a number of different regression formulas that you can use to look at the relation between two variables, and use one to predict the other.
+
+00:20:16:55 - 00:20:41:48
+不明
+This can be useful if you lose tracking for one of the variables on your website. Or maybe you have a site outage and you need to estimate some of the missing data. Now there are some nuances to doing this, but once you do a bit of testing to figure out which variables best predict the others and what type of relation they have, you'll be able to do some pretty cool analyzes.
+
+00:20:41:52 - 00:21:18:22
+不明
+Another use case is tracking campaign performance against a specified goal. The cumulative function works with time based dimensions, such as days or weeks, to cumulatively add values as time passes. And you can also create a separate metric with only a static number in it to represent a specific campaign goal. And then you can graph your cumulative function against this static number to see how long it takes to reach your goal, or to see if you're falling short.
+
+00:21:18:27 - 00:21:44:06
+不明
+Now remember, these use cases are specific and may not apply to your business or your industry. The thing to keep in mind is that these functions are very versatile and can be applied to many different situations and use cases. Now that we've been through a number of different ways that you can use calculated metrics and all of the features within them, let's talk about some best practices.
+
+00:21:44:11 - 00:22:08:58
+不明
+While these are my recommendations, the most important thing to keep in mind is consistency across your organization. Whatever you decide is best for your business. Make sure that all of your analysts and business partners are aware of the standards, and that they adhere to them. Some of the standards that I try to enforce in my organization are things like standardizing decimal places.
+
+00:22:09:03 - 00:22:46:17
+不明
+If you have some revenue metrics that you zero decimal places and others that use two, the rounding can cause the full numbers to be slightly different. So trying to look at revenue across multiple reports can get a little bit more difficult. So try and keep it consistent. Another thing to standardize is your naming convention. If everyone in your organization names metrics the same way, then it will be easier for other users to find them, and it will make them less likely to end up creating duplicates of the same metric and essentially polluting your components.
+
+00:22:46:17 - 00:23:11:42
+不明
+List. Now, when building out metrics, a good tip is to look at the containers that you're using and only use as many as necessary. While yes, you can technically nest as many containers inside of each other as you want. The more that you use, the more complicated it'll be to read and understand your metric, especially if you have a lot of calculations.
+
+00:23:11:47 - 00:23:42:49
+不明
+And this can also make it harder to debug any issues with the metric. Finally, and I know this takes extra time and we're all always in a hurry when we're building calculated metrics. But make sure you take the time to add a description and tags to your metrics. This description will help other users be sure that they're using the right metric for their needs, and the tags will help you find the right metric in your list of components.
+
+00:23:42:54 - 00:24:15:40
+不明
+So these best practices may be different than what you're using at your organization. But again, the most important thing is consistency. If you already have best practices implemented and everyone is already adhering to them, don't try and reinvent the wheel. Just stick with what's working for your organization. So let's recap. Calculated metrics are a great way to up your analytics game and look at new KPIs and find insights that are directly related to your business.
+
+00:24:15:45 - 00:24:43:10
+不明
+You can make and remake as many metrics as you need to accurately display your data. There are a lot of options available for your metrics, from using grant totals to non-default attributions, to adding different advanced functions. Make sure you use these different options, and if you still aren't sure what exactly they do, take some time to experiment because that's really the best way to learn.
+
+00:24:43:15 - 00:25:06:43
+不明
+And finally, create some standards in your organization and make sure that everyone adheres to them. The standards can be pretty much anything that you want, as long as the end result aligns with your business needs and that everyone is able to adhere to them. So thank you for attending this session. I really hope that you found it useful and informative.
+
+00:25:06:48 - 00:25:18:47
+不明
+If you have any questions, you can feel free to reach out to me on LinkedIn or I'm also available on Experience League and I'm always happy to chat.
+
+00:25:18:52 - 00:25:19:13
+不明
+With.
+

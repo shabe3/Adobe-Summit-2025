@@ -1,0 +1,456 @@
+00:00:00:07 - 00:00:22:27
+不明
+Thank you for coming. We are here to talk about how we worked with Kate, with Kaiser Permanente, and I'm Katie Thompson from SHD. Qualified digital. I am the chief experience officer, and this has been a labor of love for all of us. And we really want to expose not only what we did, but how we did it.
+
+00:00:22:31 - 00:00:48:34
+不明
+Because we think there's a lot of value and learnings in that. So let's get started. All right. I'm Allison Crooks, I'm the senior vice president with Qda, of the marketing automation practice. So I lead that practice and I have over ten years of experience in the marketing automation space. And I've been working with Joe and KP for going on four years now, for Marketo and a couple other different pieces of martech that we're going to talk about today.
+
+00:00:48:39 - 00:01:22:14
+不明
+Great. Thanks, Alison. And I'm Jill Bennett, and this is very loud. Let me do this. Okay. Hopefully that's better. And I lead the KP experience platform for, Kaiser Permanente. The lead, the strategy and execution. Also serving as a co product manager for the platform portfolio. I was I've been with KP Kaiser Permanente for six years now and was brought in to help with, transformation in marketing.
+
+00:01:22:19 - 00:01:59:35
+不明
+People process data, through technology. I've have I spent 20 years working for, Siemens and Atos managed services providers like that. And and now I'm here on the other side and in, in, in healthcare. So I'm excited to be here with, with Katie and Alison. Like they said, they've been on a long journey with us in that transformation, especially Alison here from the beginning, starting with Marketo and really excited to talk today and being asked to talk today about the work that we did.
+
+00:01:59:40 - 00:02:36:04
+不明
+Through the Capa experience platform. And actually our first transformational objective, our first transformational program enabled by the platform. So we, you know, picked up. All right. So, how does 100%, retention of your first year member sound feasible? Feasible? Out of the gate? Yeah. I'll come back to what the 100%, really means. But let me take a few minutes and talk about the,
+
+00:02:36:09 - 00:03:01:21
+不明
+Why, why did we choose the new member experience? Over other, other opportunities? And so it has, it has a few there's a few things around it. One is we have, outsized attrition rate for, year one members, and trending in the wrong direction. Which we, we need to really, bring down.
+
+00:03:01:21 - 00:03:24:47
+不明
+It's not sustainable. And it's very much out, out of whack from, once we start engaging with our members, we have we have very strong, very high loyalty. So we that was one one area in our, our NPS scores and our surveys are not showing, our NPS is not where we where we want it to be.
+
+00:03:24:52 - 00:04:00:31
+不明
+And our surveys are showing that, we, our, our new members are not able to get what they need when they need it. It's not relevant. And our engagement and a lot of it's, technology limited. So our engagement is, is very, many to many people. The as well as, the time based and our as we bring our new members through their, their welcome period, which is, 90 to 180 day period.
+
+00:04:00:32 - 00:04:21:52
+不明
+It's very, task oriented. So unless we fundamentally change how we engage and how we approach our new members, we're going to, you know, it's the insanity loop, right? No matter what we do, we're going to get the same result. And but the good news is our members have already told us, you know, what they need.
+
+00:04:21:57 - 00:04:51:25
+不明
+And it's. And it was interesting going through surveys and in some of the, the group, the group meetings with former new members. They said, just ask. It's really that simple. So ask, give what they need in the moments they need it and then ask again. So in other words, we we really set out to engage in a dialog in a conversation.
+
+00:04:51:30 - 00:05:22:46
+不明
+And how do we do that? They really wanted to make sure that their experiences were relevant. And our messaging was relevant. How many people here are familiar with Kaiser Permanente? Well, a good number. So for for the smaller number than I expected, it Kaiser Permanente is an integrated care delivery model. So essentially, we we, it's a it's a nonprofit organization.
+
+00:05:22:51 - 00:05:48:36
+不明
+Consists of both the parent provider aspects, of health care. It's a closed network. We have our own hospitals, we have our own doctors, we have our own nurses, clinicians, etc., our own care facilities, pharmacies, labs and we and as part of the national health plan, we, we, provide memberships for people to access our, our network in our markets.
+
+00:05:48:41 - 00:06:15:24
+不明
+So essentially a one stop shop. And we also have, I think one of the things that makes Kaiser Permanente a little bit different is, we focus on proactive health and wellness. So it's preventative primary care relationship. How do we avoid costly, interactions? We and we don't have that model that encourages, doctor visits and so forth.
+
+00:06:15:28 - 00:06:47:24
+不明
+So it also means two things. We have both the opportunity and the technology needed to optimize, every aspect of the member experience. And that's across, you know, care and coverage. And it's not just optimize but also transform. And, and one of our biggest advantages is along that continuum. We have all the data we need. So that's a huge advantage that we have not as an organization, exploited for our member benefit.
+
+00:06:47:29 - 00:07:13:52
+不明
+As well as we should. So we knew we could do better. And we turned to a strategic partner to help us bring the outside in, get a fresh perspective. You know, help say the things that, you know, sometimes we already know to be true, but we need somebody else to tell us, right? And also be able to reflect, the voices of the member back to us.
+
+00:07:13:57 - 00:07:43:00
+不明
+So we, asked them to help us with what a Northstar vision would be. Help us with what is strategy around achieving that vision would be, and how would we start? So as we socialized, that was our leaders and people within our organization. We, then, got a lot of excitement around how we could use a platform, how we could, start to make a difference in how we're engaging with our new numbers.
+
+00:07:43:04 - 00:08:08:34
+不明
+And then that led to a mandate to go and, create an exceptional, member experience. So no small fee. But I will here. I now hand it over to key, who is going to start a service on the journey of where, of how we went about doing it. Thanks to you for. All right.
+
+00:08:08:34 - 00:08:30:16
+不明
+So I think it's important to mention that this all started really as an email ask. Right. Email communications. That's where the relationship began. Really around the first 90 days of new members coming on to the organization. And so when I came in, KP had a lot of research. They had research that had been done from third parties.
+
+00:08:30:16 - 00:09:00:35
+不明
+They have their own research organization and had done market level, looks at what people needed. They do regular member surveys. So they had feedback from there. They also had research that other programs were privy to, but the new member group was not. And luckily, qualified. Digital is part of several different programs. And so we happened to know that that segmentation research that they conducted from a different team existed and that we could leverage it in this program as well.
+
+00:09:00:36 - 00:09:29:39
+不明
+And so as we started to look through all of this research, all of the data, all the information that they had, it became very clear to us that email was not going to be enough, that it had to be a multi channel solution that we were looking at. And, and so, you know what really drove us, to the solutions that we're going to talk about were these pain points on the left.
+
+00:09:29:43 - 00:09:49:40
+不明
+And really approaching it from a new perspective. So 46% of members at KP do not register, or at least prior to this program being implemented, did not register for an account within their first 90 days, which meant that a lot of a lot of them remained anonymous to us. We had no way of engaging them. We didn't have their their email.
+
+00:09:49:40 - 00:10:14:31
+不明
+We didn't have their phone number. We could not reach out to them and ensure that they understood their benefits and that they were leveraging them in a way that made sense to them. You know, it also meant that, the past way of doing things, of just sending the same messages to everyone, assigning the same tasks to everyone was no longer going to work.
+
+00:10:14:36 - 00:10:43:59
+不明
+Right. We saw this in the data. We saw this in the research. We knew that we had to get closer to a 1 to 1 experience with members to really be successful. And the past experience was really reliant on people knowing and agreeing that they needed to make an appointment with a PCP right away. And it's just not the case for the majority of members.
+
+00:10:44:04 - 00:11:06:10
+不明
+Sorry. So we also, Jo mentioned that there was a lot of 1 to 1 or, a lot of one way communication happening too. So again, time based communications, everyone was getting the same email all month one. Everyone's getting to see me more months to and we were not having a dialog. We were putting out surveys, but then we weren't actually reacting to the data that we were seeing coming back.
+
+00:11:06:11 - 00:11:28:52
+不明
+We weren't actually doing anything about what members were asking of us. Right. And so a big part of this new program was to try to to implement two way communication. And we'll talk about some of the tools. But the survey tools that were already in motion were one of the ways that we went about doing that and integrating it with these other technologies that we had access to.
+
+00:11:28:57 - 00:11:52:22
+不明
+So knowing, knowing that we were also not being compared against our direct competitors. Right. And everyone talks about this, the Amazon effect, like, you know, health care isn't keeping up with everyone else, right? But a lot of people that a lot of the organizations that I work with in the health care industry continue to measure themselves against the best in their industry rather than the best across all industries.
+
+00:11:52:22 - 00:12:11:26
+不明
+And I will say I give KP a lot of credit because that wasn't good enough for them, and their goal was very much to be the best exceptional experience among all experiences, not just within Oscar. And I think that that really raised the bar and allowed to do us to do more exceptional things in a very short period of time.
+
+00:12:11:31 - 00:12:33:01
+不明
+Talked about personalization. We're going to go into CDP and the idea of a unified consumer profile. But I think you all know this is no longer like an option. Really. People are expecting this in the lead if they don't get it. Especially an organization like KP where they know, you know, literally everything about them, they know that, you know, that they went to see their PCP.
+
+00:12:33:03 - 00:12:49:50
+不明
+They know that you know where they are against their plan metrics. Right? They know that. You know, that, they went and picked up a prescription. And the fact that you're not reacting to that is a disappointment. And so we knew we needed to get closer to being able to leverage that data in a really smart, intuitive way for our members.
+
+00:12:49:55 - 00:13:08:34
+不明
+And I already talked about the multichannel piece, but really, I think a big part of this and we'll talk a bit about change management throughout the course of this presentation. But the way that things were being done were in silos. They're being done well and they were being done by really smart people. The problem was that they weren't being connected to one another.
+
+00:13:08:49 - 00:13:26:19
+不明
+And so the experience in the nurture was different. We're not connected to the sales and then the enrollment and then actually becoming a member. And our goal, it's a tie all those things together because we should know you from day one, and we should carry that information throughout.
+
+00:13:26:24 - 00:13:47:29
+不明
+That there we go. So as I said, this was a lot of change in a very short period of time. And in an organization the size of Kaiser Permanente, it was important that we were bringing people along. And not only bringing along, but really setting a framework against which we could constantly be measuring together and then we could constantly be pointing to.
+
+00:13:47:30 - 00:14:08:22
+不明
+So this was a framework that we created very early on, and one that we would bring up in every workshop, every meeting, every call, every conversation, to sort of bring everyone back to a central point and refocus. This is what we're trying to accomplish. And this is why.
+
+00:14:08:27 - 00:14:32:33
+不明
+Here we go. Okay. So now we'll get to the health. Many of you have probably implemented journey mapping. Have you done customer journey mapping? Okay. Here. So a lot of value in customer journey mapping. You know, the I think the, the most obvious one is that it's framing around the consumer experience. Right. And so I don't want to discount the value there.
+
+00:14:32:38 - 00:14:55:59
+不明
+But when we got into this, we realized that again, there were going to be a lot of moving pieces here. It wasn't just about the ideal customer experience. It was about making sure that we had the data to support that, that we had the internal resources and processes to support that, that we had the right technology to support that and that we were leveraging all to their best capabilities.
+
+00:14:56:04 - 00:15:19:05
+不明
+So we decided to go about this in a little bit of a different way, and that was to use a service design methodology, which is, if you're not familiar, is anyone familiar with service design for weight loss? Okay. So for those of you who are not, this is my favorite graphic to explain. The concept and this is by Nielsen Norman Group.
+
+00:15:19:10 - 00:15:44:17
+不明
+So imagine that your consumers are audience members in a theatrical production, okay? And they sit down and the music swells, the lights dim, the curtain goes back, right? And all of the sudden they're immersed in this magical world, and really enjoying themselves, completely unaware of who's around them or what they're doing, just completely focused on the show.
+
+00:15:44:22 - 00:16:03:33
+不明
+And then all of a sudden, someone misses a cue, or the spotlight doesn't follow the right person, or someone drops something in the background and makes a loud noise. What? Someone forgets to remove a prop, and all of a sudden that magic just instantly disintegrates and you lost them. It takes a lot to recover from that experience, right?
+
+00:16:03:37 - 00:16:33:58
+不明
+And so the idea of service design is to not just focus on what's in the front of the stage that the, audience is actually aware of. But to actually also highly choreograph what's happening behind the stage to make sure that if we can, we avoid people missing their cues or not moving the prop. Right. But more importantly, that we plan for when those things happen and have a quick and easy recovery around it.
+
+00:16:34:03 - 00:16:54:52
+不明
+So here's an example of just a tiny piece of one of the service design blueprints that we did. And you'll see in the background, it's sort of a bird's eye view of a small piece of it. And here we've zeroed in on a tiny fraction. This part is actually around the registration process for kp.org, which is their, their member portal.
+
+00:16:54:57 - 00:17:30:46
+不明
+And so we saw when we first came in was that there were a lot of people not registering. And when we ask the question, okay, well how many people are starting and then not finishing. The answer was we don't know. It wasn't being tracked. And so what we surmised, based off of all of the data and the member surveys that we were seeing, was that there were a lot of people actually going, starting and not being able to complete, whether it was because they were having technical difficulties or because they were worried about their private information and sharing that online or whatever it was, we knew that there were issues and we knew what that
+
+00:17:30:46 - 00:17:53:15
+不明
+list of things were, those obstacles. And so what we decided to do was first start tracking who was abandoning, and then actually use the technology to reach out to them and ask them why. Calling back to what Joe was talking about earlier, giving them a set of reasons and then responding in real time with content that directly addresses that concern.
+
+00:17:53:20 - 00:18:15:58
+不明
+And if that content couldn't solve their problem, following up again and connecting them with their live person so that they could work it out, obviously that's a great experience for consumers. Also, great business impact brings down cost, avoids having a human have to intervene in most circumstances. And it's all real time and automated.
+
+00:18:16:03 - 00:18:39:28
+不明
+The second one for anyone who's in the health care space, will be pretty familiar. The idea of a proxy. Right. And so what again, had not existed in the data prior to this was this relationship between a caregiver and the cared for, whether that be someone who couldn't care for themselves or someone like a spouse who was making occasional appointments on behalf of their significant other.
+
+00:18:39:28 - 00:19:01:37
+不明
+Right. So part of what we wanted to do was start building that relationship in the CDP so that we could track who was who, but then also from that, make sure that everyone was looped in. Right. So if my husband makes an appointment for me, I want to know that that happened because he's not super reliable. Letting me know those things.
+
+00:19:01:42 - 00:19:21:06
+不明
+But also, you know, he needs to know that I know. Right? And then down the line, he goes to the appointment. I want to know that that actually happened right. So the relationship can shift. You don't have to be the caregiver the entire time. And we wanted to make sure we are planning for an accounting for that in the journey.
+
+00:19:21:10 - 00:19:48:49
+不明
+So all of this you know, there are three of us up on this stage. I think in making this happen, there were probably upwards of 100 or more people involved in this whole experience, like not just from the KP side, but also from the CVS side. There was a giant contingent of people who made this happen. And collaboration was a key part of making it work and bringing people along, because not everyone can be in every possible conversation, every meeting, every review.
+
+00:19:48:54 - 00:20:09:09
+不明
+And so we had a lot of workshops we had on sites. And, Joe called across Walking Right, to make sure that everyone was still on board and aware of what we were doing and how we were progressing. So this is a visual doesn't do it justice. Imagine in each side of these circles there's at least 3 to 5 people.
+
+00:20:09:09 - 00:20:20:13
+不明
+In some cases 20, 30, 40 people inside of that circle, which was our village to get it done.
+
+00:20:20:18 - 00:20:44:53
+不明
+Sorry. And all that to say, when you have 100 plus people, it's not just about collaboration. It's about making decisions. We were going fast and we were doing a lot, and we were doing really hard things. We needed people to make the call. Right? And so while everyone had a voice, not everyone had a vote. Not everyone got to decide whether the course was going to change, right?
+
+00:20:44:58 - 00:21:09:49
+不明
+There was a core group of people that were ultimately responsible for making that call and making that decision and owning it. Joe was one of those people. Thank you Joe. Yeah. All right. So where we are, so we launched the first iteration of this program in December. This is a very high level, sanitized version of what we launched.
+
+00:21:09:54 - 00:21:31:40
+不明
+And you'll see a couple things here. One, those green, yellow and pink blocks are really focused on behaviors. So is someone actively engaged with us? Are they maybe stalling and stopping or if they just completely stopped responding or engaging at all? And we want to talk to them differently, and we want to track that throughout the experience.
+
+00:21:31:40 - 00:21:55:37
+不明
+It's not a first day. Second day type of thing. It's constantly we're constantly checking for that and making sure, sorry, I just got close to something. It's making me sound weird. And making sure that we can react to it in the appropriate way. You'll also see all of the channels underneath, some of the high level data that we're constantly tracking about the member.
+
+00:21:55:42 - 00:22:17:16
+不明
+And then you'll also notice that those black circles in the beginning and this number for retention at the end, we started at a very small piece of that and the whole journey and what our goal is, is to expand in both directions. Right? So move further to the left, so to speak, and start incorporating what we're learning during nurture tracking.
+
+00:22:17:16 - 00:22:33:47
+不明
+When we're first starting to talk to someone all the way through, and then moving beyond those first 90 days of being a member through the first year, and then beyond that to improve retention and the experience overall.
+
+00:22:33:52 - 00:22:55:28
+不明
+So our solution, the one that we we launched in December, had a three pronged approach. The first one was around this idea of a magic link. And some of you might have experienced this on the direct to consumer side of things. You're shopping and you can't get into your account. And they say, do you want us to recover your password, or do you want us to send you a magic link?
+
+00:22:55:33 - 00:23:15:06
+不明
+I always pick that one because it's easier. And that's what we were opting for, is a one click way to automatically create your account as a new member. We have all of this data you've been through enrollment. We know who lives with you. We know who else is on your plan. We know what your phone number is in some not all circumstances, but most circumstances.
+
+00:23:15:10 - 00:23:37:22
+不明
+So we know a lot about you. To ask you for all of that again was a really bad experience. So what we did is we worked with the IT team to actually leverage all of the information that we had, make sure it was highly secure, send it, and just with a click, set up their account for them. Personalized onboarding.
+
+00:23:37:37 - 00:24:01:16
+不明
+This was this idea of leveraging those segments that I mentioned earlier, which we weren't doing. We know that there are certain pieces of the experience that are more important than others to certain people. And so we built an onboarding program that asks for questions and starts segmenting people into the behavioral, groups that we know are relevant within Cape.
+
+00:24:01:21 - 00:24:34:14
+不明
+Were then able to customize the communications and everything that comes thereafter. And then, of course, behaviorally based communication. So we talked about how it was very time bound and the same communication to everyone. We've built a program that really pays attention to every move you're making. Again, start, start stop stalled. And reacting to that not only with communications but with content that's helpful and relevant to where you are in the journey.
+
+00:24:34:19 - 00:24:56:06
+不明
+So I talked about the magic link. I think it's important. It's not just a consumer thing, and none of this is just relevant to consumers. It's also very relevant and helpful to the business of KPI. So if you look at this, this is what we had planned to build. If we couldn't do the magic link to help with what was broken about the current registration process, we were able to cut all of this out.
+
+00:24:56:06 - 00:25:14:47
+不明
+We were able to not build it. We were able to not create additional tech debt. We were able to not have to ask for additional resources to make this work, because we were able to execute on something like the magic link. And then this is a quick snapshot of, some of the steps in the onboarding program. Right?
+
+00:25:14:47 - 00:25:37:46
+不明
+So again, keeping it very simple, user friendly, easy to click doesn't feel overwhelming. And this allows us to figure out who you are, what's important to you, how you define care. And then help you understand what benefits you're already paying for. That can then help you leverage them.
+
+00:25:37:51 - 00:26:08:15
+不明
+Thanks. All right, let's get into the technical weeds. Not really. But, so at this point, we're we're at the point in the program where we need to start actually building the thing and configuring and developing. Obviously, Katie and Joe had done a lot of the heavy lifting around the change management piece. But the way that she approached this in partnership with our experience team is we did decide to go ahead and have a marketing automation person working directly with Katie's team in that initial discovery and definition phase and getting to, you know, what we were proposing.
+
+00:26:08:15 - 00:26:25:13
+不明
+And the reason we did that was because we wanted people to be informed about not only what it is we're doing with strategy and with KP. But we wanted them to be able to see the pain points so that could inform sort of their process as we then moved into the development phase. So these steps, I'm sure they look pretty typical to all of you.
+
+00:26:25:13 - 00:26:47:40
+不明
+But when we're talking about over 100 people who all have opinions, who all own different elements of the technology, who all are maybe used to things happening in a certain way, or having a hard time, maybe grasping or agreeing on how we want to change that still carried through even into the development phase of the work. So we need an extremely structured and methodical approach to this.
+
+00:26:47:45 - 00:27:04:05
+不明
+So we were working with carpet, the digital teams, the third party channel vendors. Like I said, we had our work cut out for us. But we managed to move through and get things launched on time.
+
+00:27:04:10 - 00:27:27:07
+不明
+So one thing I want to call out to, I don't know how many of you in the room work with Marketo or work at a company. Obviously. Okay, I've been doing Marketo implementations for over ten years now. CP's the first company that's making Marketo work for them. And I don't mean it's working. I mean, like, Marketo was sweating every day doing what it's doing for this program.
+
+00:27:27:12 - 00:27:48:23
+不明
+It is a bit of a nonstandard approach that we've taken here, but we had to make sure the solution was still scalable. So a couple of the different things around the technology, we wanted to make sure we learned and responded as we went. And we needed that to happen in very, very close. If not real time. So one of the common themes throughout this that Katie mentioned is show me, you know, me at every single step.
+
+00:27:48:23 - 00:28:12:47
+不明
+We're looking for feedback, not just, you know, at the end or after something bad happens, where maybe somebody's sentiment is not great, we're going collecting this throughout the entire engagement and the entire journey with these people. And so by integrating all of these solutions and making sure that data and we had the infrastructure in place to pass that data in near real time, we were able to automate all of those next best action decisions.
+
+00:28:12:52 - 00:28:32:33
+不明
+We also leveraged best in class designs. We wanted to make sure that not only the entire experience was pretty seamless and easy for the end user, but even just what they were seeing was concise. It was to the point they were getting it when they needed it, and making sure that it was actionable for them in a way that just again, made it easy to get what they needed out of this.
+
+00:28:32:38 - 00:28:53:33
+不明
+And then lastly, one of the things I want to emphasize is, again, how personalized this was, personalization for the people in the room who have used Marketo or other tools. It has its limits working in these platforms. We knew we could not use the out of the box Marketo personalization module. So I want to give a massive shout out to Jay right here in the front row.
+
+00:28:53:38 - 00:29:20:09
+不明
+Because he designed this solution using velocity scripting to pull together over 100 different variations and versions of these emails using only four templates. That people were receiving. Again, we just needed to make sure that people were getting their needs met. And in some ways, even we were anticipating what their needs were. So yeah, I mentioned that we've been on this journey building out the experience platform.
+
+00:29:20:09 - 00:29:52:28
+不明
+And I think one of the, there's there's a lot of, understanding and misunderstanding or differences and understanding of what a consumer data platform is, you know, in terms of the different capabilities, sets that make it up. But regardless of what all those permutations may be, I think one thing that's consistent at its core, the most important thing to it is the unified profile and getting your data structured from the business perspective with the logic of how the business needs to use that data in order to activate the data in journeys and experiences.
+
+00:29:52:33 - 00:30:11:56
+不明
+One of the things around where we been, Kaiser Permanente has been is we have we have massive amounts of data. It's to the point where it's it's been so hard to get your head around. How do you what do you do with it? Right. The, the other part of that is we also do we have a lot of models.
+
+00:30:11:56 - 00:30:35:22
+不明
+We have a lot of analytics. What we're really lacking is the ability to start to activate against that. Right. So the the what differentiated the work that we were doing from a lot of the data work that was already being, going on in the organization, leveraging some of that data work was really about how do we structure it to create that 360 view true, 360 view for all of our audiences.
+
+00:30:35:27 - 00:31:12:15
+不明
+So we started out several years ago, focused on one use case for our Medicare agent group. Right. But we it was and we were going to build separate and distinct. Conforming to what we what we usually do. Right. So we partnered with our digital organization, and we started to build off the profile that they had started creating for KPI to work with the intention that as we as we bring this together over time, we now have a profile that will be able to activate against all channels rather than continue to keep our channels, separate and distinct.
+
+00:31:12:19 - 00:31:36:43
+不明
+But have that single profile. And also what it meant is we were building a profile and we did this, and we went through some strategic changes as we did the initial use case to set up the platform. We, we then, made sure that we were, making the, the, the data attributes in the profile extensible. So we weren't building a member agent platform.
+
+00:31:36:50 - 00:32:01:27
+不明
+We were building, an experience platform for all of our audiences, for all of our channels. And yeah, so we integrated with a lot of different solutions in order to make this whole thing a reality. Obviously, there's a few Adobe products in here. Usher was another great partner that we worked with that really expedited this entire project and allowed us to, again, work against a very aggressive timeline.
+
+00:32:01:31 - 00:32:24:43
+不明
+But essentially this was crucial that all of these platforms were integrated, and we were getting that two way feedback from the third party channel vendors back into the CDP. So we had action against it again, it's not real time. Very close to real time is how frequently a lot of this data is actually moving back and forth so we can automate those next best actions and respond timely for what people actually needed.
+
+00:32:24:48 - 00:32:42:51
+不明
+And on top of that, we just needed to make sure that we were making informed optimization decisions when we get to that point. And so having all of this data in one place and that unified profile in that CDP is how we're going to get to that point soon. So, yeah, asking why is what's keeping us ahead?
+
+00:32:42:55 - 00:33:01:41
+不明
+Again, we're looking at the entire member experience as far as continuing to get that feedback. We're using Qualtrics as the tool that we're we're getting that feedback. We're just going throughout the entire journey and gathering it again instead of just at the end. Or if there was some sort of an escalation where somebody needed assistance or attention.
+
+00:33:01:46 - 00:33:21:18
+不明
+And so things like experience testing, surveys, ab experimentations, all of that went into this so we could make sure that we were not only collecting data directly from the person, but also inferring what we could about the experience and if it's being successful or not.
+
+00:33:21:23 - 00:33:47:24
+不明
+And then if we just take a second to talk about what this meant to the teams, right? I mean, prior to this, these teams at KP could not automate even a single part of what the experience looked like before we got into this project. So even just executing a single touchpoint like an email or an SMS message, required many different teams pulling lists from many different systems, aggregating that data to create audiences and segments.
+
+00:33:47:24 - 00:34:13:55
+不明
+And now they can actually just do all of this because of a unified profile. And the fact that we have a CDP integrated to Marketo, we can automate people getting added in based on, you know, their audience criteria. Essentially. And, you know, there was no integration between the platforms either. So touchpoints, even though they were going out in a sequence, there was no decisioning between touchpoint one, touchpoint two, touchpoint three, based on how somebody reacted or if somebody's even engaged.
+
+00:34:13:56 - 00:34:44:53
+不明
+It was just sending out very one way these messages, and then even just viewing the data across the platforms was extremely manual, too. So when it came time to actually like look at something, to see how is something performing or who seems to be the most engaged, that was also very labor intensive process. And again, now that we have this unified profile, it's really like easing the lift for a lot of different teams within Kaiser Permanente so they can do their jobs more effectively.
+
+00:34:44:58 - 00:35:03:21
+不明
+And even just trying to understand again how things were performing. So from an analytics perspective, the fact that we have all of this data in one place and we can send that out to tools like power BI, we're able to create dashboards that, you know, there's different versions of it depending on what team needs to see what depending on what part of this engagement they own with a single click.
+
+00:35:03:21 - 00:35:23:56
+不明
+And this was something that used to take days, if not weeks before, to understand again how something is performing, who's engaging, where do we need to make decisions around future investments and things like that? And now it's all in one place. And then lastly, that feedback loop. Again, we just need to make sure we're listening. We're being empathetic.
+
+00:35:23:56 - 00:35:32:48
+不明
+We understand what people need in some cases anticipating their needs and responding in the best way we can.
+
+00:35:32:52 - 00:36:05:49
+不明
+So the, so I said before that we had a, a mandate to make the experience, exceptional. We also were asked to accelerate the all of this and do so under four months. And the rationale for why why we wanted to, target getting these multiple components automated together. Solution was to was we were moving the first part of the engagement into the pre effective period, which means we're targeting January 1st effective.
+
+00:36:05:51 - 00:36:47:03
+不明
+So the majority of most people's objectives right. And in order to actually do the part of the experience and start at the beginning, that meant we needed to be ready in December when people start enroll and get enrollment confirmation. So, that was no, no small feat given everything that, you know, we've talked about so far, the number of people, that were involved, and the complexity in a lot of different areas with, with or with groups that, have not worked together in, in the way that we, launch a lot of our products.
+
+00:36:47:07 - 00:37:04:45
+不明
+So, you know, obviously that became a big you know, one aspect of it is a big aspect of it is around the change management. So, you know, one one easy way of thinking about it is perfect is, is the enemy of good, right? We hear that all the time. You know, and the intent is right.
+
+00:37:04:49 - 00:37:26:28
+不明
+Perfect is the enemy of good. Also sometimes turns in to just do what you need to do and get it done. And, you know, you didn't ask for perfect. So you got something else, right? We also. But we wanted to, as we were doing this, we also wanted to keep in mind something different, which, you know, this is a Lombardi quote.
+
+00:37:26:33 - 00:37:57:57
+不明
+You know, if we chase perfection, we catch excellence. So the challenge, I think sometimes with perfect being the enemy of good or, is you, you end up going for good, which means you're probably, you know, you're going to miss good, so you don't even get too good. If we think about the way we, you know, we do our OKRs or we do our goals, our targets, you know, you know, would you rather have, what's the what's the example that we used?
+
+00:37:57:57 - 00:38:25:52
+不明
+Would you, would you would you rather it's a choice between more failures in one case, but you get more output on the other as a result. Or do you want something more predictable and you want less failures, but you're going to get less output, right. So, you know, that was a that's a balance that we tried to, to strike in terms of going through, putting all these components together and getting the teams to work in, in some very, very different ways.
+
+00:38:25:57 - 00:38:52:54
+不明
+So, a number of the ways we're able to move so quickly in, in doing this is we had really strong executive support. So and that translated into, they were they, they never wavered from, you know, reaching a target. So we didn't have a deadline. We had a target. And it was not a committed it was not a committed target.
+
+00:38:52:58 - 00:39:16:22
+不明
+And the our leadership gave the team the space. They got out of the way. And they let the teams get into the rooms and figure it out. And it's pretty amazing what happens when when, when when you allow teams to do that. But then you give them the you know, we gave them a lot of structure and we, you know, and you know, Katie called out the decision making.
+
+00:39:16:22 - 00:39:38:19
+不明
+There was a hand we the handful of us were willing to take, you know, take that on and, and enable it to happen. So we had a target date, when we first did it, the target date was actually, like, next June or July when we put all these plans together and over overlaid them. We launched on December 19th.
+
+00:39:38:24 - 00:40:02:49
+不明
+So it's, pretty pretty. It was a pretty fun kind of, when you step away from it, pretty fun process to observe. It was a fun four months. It was a fun four months. Thank you. I think the other a couple of the other things that really allowed us to move quickly is the, the team in that, Katie and Allison referred to getting people in the rooms, accelerating knowledge, share.
+
+00:40:02:54 - 00:40:31:03
+不明
+It's it can be it can be tricky, right. When you get some engineers in a room listening to requirements, the first they are wired to solution. Right. So you, you you run a risk but you don't. There's no way we could have serially done this. And and what it did though also is the the tech teams. The engineers really appreciated being tight with the business to hear the problems that were really solving.
+
+00:40:31:08 - 00:41:01:34
+不明
+So, I would say, lastly, you know, the, the fact that we had well, two more points, the fact that we've already done so much work around structuring the data in anticipation of doing, this kind of work really allowed the focus to be on what's the flow, what's the process, what's the what are all these permutations in, in the personalization messaging?
+
+00:41:01:39 - 00:41:39:06
+不明
+The initial assumptions were that the data was going to the data, and the data platform was going to be the the longest pull. It was actually the easiest. So, yeah. And oops, wrong way. So where are we going? The Katie brought this up for. But, you know, wanted to just bring it back really quickly. On a couple things I mentioned before, about 100%, as a, as a, as our target or why it's 100% really reflects our uncompromised goal.
+
+00:41:39:10 - 00:42:00:00
+不明
+Meaning do what do we think that we're really going to achieve 100%? Well, we won't if we don't try. If we don't set that as what we're pursuing, we definitely won't get it. Nobody will. Right? But it's okay if we don't make it. The idea is we are figuring out how we get closer, how we close the gap and do so.
+
+00:42:00:00 - 00:42:24:24
+不明
+Not incrementally, but significantly. That's how. And that's how to help drive the transformation. We also built the framework to be essentially a balanced scorecard. So, you know, we often think of, you know, we on a day to day basis, we get our objectives, we get our results, we get our goals, we get our targets, things that we can achieve within the year, within a time period.
+
+00:42:24:28 - 00:42:59:02
+不明
+That's not these two numbers right now. It's not getting going from, you know, 20 or 30 in your NPS to 70 world class, which only, you know, handful of major global organizations actually achieve. But, so, so the but those OKRs and the work that to associated with them need to roll up to those two things. That's really going to be the indication of success is ultimately do they do they renew and or do they recommend KP.
+
+00:42:59:07 - 00:43:37:36
+不明
+It's it's sounds simple right. We know it's not. And then from an early indicator yeah. So it was not you know, it was not without its war to it's not it's, you know starts and stops. I would, I would say that gives a lot of credit to Jay Allison, our, our data platform. Everybody in that we were we were able to continue to move even if we had to pause for a couple of days on those first enrollment confirmations, and catch up.
+
+00:43:37:40 - 00:44:03:42
+不明
+And it's really the power of the platform things, things that would have that happened if these had happened in the past. Would it kill it? Would you spend it? Right. But what we have seen is, for registration, which is one of the two key objectives, 59% increase over the year prior. So this is December, January, a 59% increase in registrations.
+
+00:44:03:46 - 00:44:36:09
+不明
+A lot of that has to do with the December, but it also has to do with a lot more engagement and and being able to combine enrollment confirmation texts that used to come out from one group over here and then days later, weeks later, messaging around follow up, messaging around keyboard registration. So bringing those together, being able to combine those do that early has has is indicating, that we're going to continue to be able to be successful in increasing those key if you talk registrations.
+
+00:44:36:14 - 00:45:06:54
+不明
+Secondly, it's all about engagement right. So we're seeing that it's well 12 times increase in the engagement. Now I'm not going to say sit here and say it's 1 to 1 in terms of we're not doing, you know, this is an Abby. This isn't do this marginally change it and see if there's an incremental benefit. This is largely based upon the usher component, the interest survey, asking them what's most important to them in delivering it.
+
+00:45:06:54 - 00:45:35:42
+不明
+It's, it's increasing engagement. People are opening those messages. We're having much greater click through. So we're looking forward to how that, how we continue to build upon that. And as Emerson said, transformation, he had a lot of foresight is a journey, not a destination. So we have a lot of work. I mean, this is just the beginning is a handful of components that we did, up front in a very short amount of time.
+
+00:45:35:47 - 00:46:23:47
+不明
+Our objective is, you know, make it, ridiculously simple. Not just simple, but ridiculously simple. Thank you. Katie. Love that. Chuck. Love that. The town hall. And it's across Karen Covert. So how do we make sure that there's a consistent experience? Consistent engagement? Across both both sides of of the equation, you know, and then, you know, in parallel, we have a lot of things to do in terms of, you know, continuing to build out omni channel and, and, evolving those our capabilities in order to be able to do that and the operational models, we really want to be able to take what we've done and be able to continually
+
+00:46:23:47 - 00:46:52:21
+不明
+apply that for flow velocity, speed. And then lastly, how do we how do we bring it into order to continue to bring it into the organization, test of change. But, you know, not not incremental, but be able to test changes throughout the organization and pick what skills and then scale it. So, with that, I think, again, thank you, Allison.
+
+00:46:52:21 - 00:47:07:10
+不明
+Thank you. Thank you for helping us, transform and show us the way forward and leave it to questions.
+
+00:47:07:15 - 00:47:11:52
+不明
+Thank you. Thank you. Jay.
+

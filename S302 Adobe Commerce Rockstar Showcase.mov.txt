@@ -1,0 +1,408 @@
+00:00:00:08 - 00:00:21:35
+不明
+And welcome to Adobe Commerce. Rockstar. Woo! Hey. Before we get started, All right. And thank you for showing up on a Thursday morning, right after bash where you were actually rocking. But thank you for coming here early morning and being with us. I'm sorry. That's Shannon. There's a QR code up there. Please scan that and it'll get you a, Spotify playlist.
+
+00:00:21:35 - 00:00:36:41
+不明
+Once you get that playlist. Add your favorite song. Doesn't matter. Matter. The language, the genre, whatever it is, add your favorite song. I promise you, I listen to that playlist once a month at least, so please add your song in there. There are also t shirts at the back over there, so please pick one if you'd like. And with that, let's get started.
+
+00:00:36:41 - 00:00:59:03
+不明
+So this is not about Shannon or me. This session is about our Adobe Commerce Rockstars. And if you are wondering what that means. Well, rockstars is a program that we started three years ago, and it's to recognize technical innovation from our developer community. So each year we, we solicit submissions from developers, from our partners, from our customers, and we bring them up here.
+
+00:00:59:08 - 00:01:18:49
+不明
+And it's a chance for peer to peer learning from for you. So you learn from your own peers at the same time. You, you know, it's a it's a stage for our developers from our community to shine. So please, as you see each participant come up, I appreciate what they're doing here. Give them a huge round of applause when they start, when they finish and at the end have a good time.
+
+00:01:18:50 - 00:01:40:34
+不明
+So with that, Shannon, can you get clear for me? So first off, I want to thank everyone who submitted, an entry for Rock Star Challenge. We had so many. It was a really hard decision, but we had, folks who are, you know, providing us with apps across the board, everything from back office integrations to data driven personalization to shopper experience.
+
+00:01:40:39 - 00:02:00:08
+不明
+So thank you, thank you, thank you for the broader community who participated. And if you weren't picked for this year, we hope you submit next year and come back for more because this is one of our most favorite sessions. We have an esteemed panel here today to help us, judge, our three finalists. And let me just quickly introduce them to you.
+
+00:02:00:17 - 00:02:23:44
+不明
+We have, Chandra Donny, who's our senior director of product, product marketing and technical documentation, new member to the team this year. And her first rockstar appearance. We also have a customer who's here today who is a proud user of Adobe Commerce, Dean Bursik. He's director of product e-commerce at Wesco. So thank you, Dean, for joining us today.
+
+00:02:23:49 - 00:02:50:32
+不明
+And our final panel member is Nicole Cornelissen, who's VP of software development for Adobe Commerce for, our team here, she's coming back for, I think the second, maybe third year on the panel. Thank you very much for joining us, Nicole. All right. So I'd like to get us started with our very first, finalist. This is Yarrow, and he comes to us from at Wix, and he has, a passion for, creating exceptional experiences.
+
+00:02:50:32 - 00:03:00:39
+不明
+And his favorite artists is highly young. Please welcome Yahoo! Woo!
+
+00:03:00:43 - 00:03:16:05
+不明
+So my name is Yaron. I'm serving currently as a CTO at Atomics at daytime. I'm a technician at my time, unusual musician. And I'm proud of to my passions.
+
+00:03:16:10 - 00:03:53:06
+不明
+Best in class store performance. No, not after the party tonight. I see interest in your eyes. And it makes sense to me because I would name this topic as most evergreen for every store owner from the beginning of e-commerce days. And this topic is on readers not only with merchants or community or, developers, but even Adobe. And even if we talk about our favorite e-commerce platform, Adobe Commerce.
+
+00:03:53:11 - 00:04:22:12
+不明
+So we saw attempt, from Adobe to like, introduce best in class storefront performance with BWR. And it was good. It was good, but but we had some boards there. And finally, last year we saw Ed's or Franklin or Commerce storefront name as you Like it. And we see finally green corporate vitals. We see everything green. We can see this performance.
+
+00:04:22:17 - 00:04:32:31
+不明
+We can feel this performance. And does it mean that everything is good now and we want to do this topic anymore?
+
+00:04:32:36 - 00:05:04:25
+不明
+I use, so basically with every good solution comes some price. And in this case I want to talk about price. That means, SEO and SEO can be a problem with modern implementations that target the best performance and I will explain why. So I want to talk about two different methods of delivering visual part of your website to customer to customers device.
+
+00:05:04:30 - 00:05:33:51
+不明
+The first one is server side rendering or SSR. It's like traditional way which is which was used like from the beginning. So it means you have server. And on this server the visual part is generated, then sent over to device and display on the device. Then like we had after this method, we had another one that called client side rendering.
+
+00:05:33:56 - 00:06:07:32
+不明
+And it appears because of the major problem of this method. So the page is generated on the server. The server is one customers many. And sure, you can scale your server, but you cannot do it indefinitely. And the idea was let's generate all the content on the client's devices. So basically on mobile phone, on tablet or on laptop and your other device and it become possible because, because of technical capabilities of the devices, they are powerful.
+
+00:06:07:32 - 00:06:32:22
+不明
+Basically, the phone currently is as powerful as PC like ten years ago. So it's possible for all the devices to render this content. But to make it happen, we need to make sure the device is device or browser or like the the software that client used to render to see like the web page, it's capable of rendering the content because it's not like both examples.
+
+00:06:32:22 - 00:06:59:19
+不明
+One it's not. For example, the device is outdated, it's old or there is some error or it doesn't know how to work with modern JavaScript. And in this case, also in this group of problematic cases, we may say about Google bots or crawlers. So basically Google or crawlers, they are like clients that visits your website, tries to render the content, and in that way you read what you have there.
+
+00:06:59:24 - 00:07:30:34
+不明
+But if we have a case when Google bot or like search board or any crawler cannot retrieve, cannot like process all the instruction to render the page, what we got in this case. Yeah. Right. So that's not the wrong slide. We got nothing. So attempt to index the page of your happens like the emptiness will be indexed. And that's a major problem because like you have no super performance.
+
+00:07:30:34 - 00:07:57:34
+不明
+But another problem crawlers cannot scan your website sometimes. And here I want to present quantum. It's our system of server side rendering content. So basically I was talking about two different ways client side and rendering and server side rendering. And this system brings top of to worlds. So it provides it like first of all, it ensures that the device is capable of rendering the content.
+
+00:07:57:39 - 00:08:25:12
+不明
+Then if it is, it sends the content like in modern format. If not if like the browser cannot, it's old or its search crawler, then the content will be generated on server. Put in cast and send over to the client. I want to show you a short demo, how it works. And what is the difference between quantum and standard IDs implementation?
+
+00:08:25:17 - 00:08:49:45
+不明
+So basically you have IDs store. It's an example from it'll be documentation. It's not the competitor. And if you go to some product detail page and for example, try to disable JavaScript here using some magic and we'll show them.
+
+00:08:49:50 - 00:09:20:04
+不明
+So we have JavaScript disabled. And now let's reload the page and see what we see. Not like but wait. But nothing. Still nothing. And that's the problem. Let's try to check it the same with quantum. So what you will see on the screen now it's quantum. It's its own theme. So basically it's EDS but with server side rendering capabilities for unsupported browsers.
+
+00:09:20:08 - 00:09:32:26
+不明
+And if you go to some PDP and perform the same operation. So disable the JavaScript.
+
+00:09:32:31 - 00:10:05:17
+不明
+I wasn't that fast. But at that time, and we reload the page and see all the content is there and all the manuals, all the links, everything. So once Google scans your page and guys this content, it can like index it and follow the links that all right. So after implementing this solution on our websites like we saw decrease from 15 to 6% of these blank pages.
+
+00:10:05:30 - 00:10:38:13
+不明
+It still happens. But it happens like we are working on that. Sometimes it's not like very it's not possible very accurately detect which user agent is used at the moment. So maybe in the future we want to incorporate AI for detecting the browsers and detecting the capabilities and eliminate this 6%. And also I mentioned the cache. So if the page is generated on the server it will be put on CAS to not regenerate it over and over again all the time and save several resources in that way.
+
+00:10:38:17 - 00:11:23:23
+不明
+And we created, it gets warmer solution that is stored completely in a builder. So this, gas warmer has its own configuration, and you can configure that and it will visit your website from time to time and generate server side rendering content and, I have a small demo of this, gas warmer as well. So as you can see, you have, visuals of indexed or cached and cache page, you can invalidate the cache, you can remove page from the cache, and also you can configure, the time or how often you want to have your website or scan.
+
+00:11:23:28 - 00:11:36:18
+不明
+So that's probably it from my end. And maybe you have questions. Sorry.
+
+00:11:36:23 - 00:12:06:11
+不明
+Thank you. What a in-depth presentation. That was awesome I appreciate it. I am curious, when in the EDS journey, did you get the opportunity to detect this becoming a problem? Like, sites were already live or you found it in your testing or. How did you discover this? Yeah, that's a good question. Thanks. So basically, this issue was present not only for EDS, but for any, single page application.
+
+00:12:06:22 - 00:12:27:30
+不明
+So and we saw this issue for like all the websites we tried to implement, we use as a single page application. And we always used server side rendering method for it to solve this issue. But this quantum was developed specifically for EDS because we had one for a year. We had for I've used our phone, but this one is for EDS.
+
+00:12:27:30 - 00:12:41:36
+不明
+And we are going to use this method for the thank you. All right. Thank you, I was love can we get a big round of applause for Yaroslav?
+
+00:12:41:41 - 00:13:07:39
+不明
+All right. So our next participant, Florian from tech Division. Hello, everybody. Nice to be here today. I want to tell you a little success story, which we had in the last couple of weeks where we created a connector for SAP, S for Hana and Adobe Commerce in just three days while using modern technology, which Adobe gives us and I want to show you today how we did it, actually.
+
+00:13:07:44 - 00:13:32:50
+不明
+So the other big challenge was that we had two, complex big platforms who are highly individually, each, doing their own business operations independently. And of course, everybody knows Adobe Commerce, how it works and so on. And SAP itself is, a very big ERP landscape actually, mostly operating in finance, automotive, manufacturing, health care and so on.
+
+00:13:32:54 - 00:13:58:03
+不明
+And the big challenge was actually that both systems had to communicate to each other. Right? So they need to exchange product data, crucial sales order data, customer profiles. And it has to be really scalable and fast. And everybody who has done similar efforts in the past knows what kind of problems actually arise from this. So our pain points or in general pain points while integrating those systems are definitely that.
+
+00:13:58:03 - 00:14:31:08
+不明
+You always struggle with slow data exports. Processes are transparent or even faulty and nobody knows what's going on. So you have to pick developers who manually debug those, processes and in general it's not really stable. Right? So because data transformation is actually difficult, and this leads to a really big couple of business problems because if you have inconsistent data in some system, you certainly will use, loss of revenue because customers are frustrated and so on.
+
+00:14:31:13 - 00:15:05:42
+不明
+You will certainly do poor decision making because you cannot rely on the data and of course, if you have so much developers debugging, bugs and so on, this is certainly a budget problem in the end. Right. And, all in all, this is not really, it harms the business, actually. So this is compared to what the potential market potential is, because SAP is currently in that migration phase from the old R3 backend, and they migrate everything to S for Hana into the cloud.
+
+00:15:05:46 - 00:15:30:48
+不明
+And there's not much time left because until the end of 27, that's almost two and a half years from now on, they have to be migrated, actually. And so that's a migration process takes time. It takes two, three, four years. Right. So, this complexity added to this short of time is not much room that you can spend a lot of time to integrate other systems, for example, Adobe Commerce.
+
+00:15:30:59 - 00:15:55:08
+不明
+Right. So you have to be fast and it has to be stable. So here I want to tell you actually how we did it, Adobe, Barcelona invited us to the office. They, they are a couple of guys over there. Maybe. Daniel, is Daniel here? Daniel, is Daniel here as well? No, but he's the guy who introduced us to Commerce integration starter kit.
+
+00:15:55:12 - 00:16:16:19
+不明
+And this is a very powerful tool. So our connectors built on this integration starter kit, which is running on the Adobe Developer App Builder. And with this whole setting you have an API first approach, meaning we only take API's from the systems official APIs. We are running in a serverless architecture, so we don't even have to care about deployment infrastructure.
+
+00:16:16:19 - 00:16:42:18
+不明
+And so on. So we can directly focus on our implementation, which they call the last mile implementation. And of course this whole process has a real time data synchronization because we can directly send events to each other and process them. So in general, the benefits of using commercial Integration starter kit gives you the ability to onboard third party systems much faster than in a traditional way.
+
+00:16:42:32 - 00:17:03:21
+不明
+You are using a serverless architecture, so you don't even have to care about it. You can directly start with the CLI tools to implement your 50 lines of code and deploy it into the cloud, right? So it's running immediately you can kick off a project in one minute actually, and you can extend the systems, via API from the outside.
+
+00:17:03:26 - 00:17:33:07
+不明
+This all in all gives you accelerated development because you're much faster only focusing on implementation. And of course you are running in a cloud native, environment. So scalability, scalability is not a problem at all. So here's our approach. How we did it. As I said, this is a three day sprint. So on day one, we discussed several business requirements and we made sure that we have a common understanding of it.
+
+00:17:33:12 - 00:17:54:20
+不明
+And once we've done this, we chose the special APIs from both systems, SAP and Adobe Commerce, because we are using them to fulfill the requirements. And once we have chosen the APIs, the task was to actually map the data, because an SKU in Adobe Commerce is a material number in SAP. So we have to map those data so they can communicate.
+
+00:17:54:20 - 00:18:20:38
+不明
+Actually, on day two, we started development, directly. We set up SAP so it can send out events. And it's actually quite easy. It's just a few clicks and you can then, receive events from SAP. The same for Adobe Commerce. The Integration Starter kit brings, onboarding scripts. And with these onboarding scripts, everything gets set up automatically and you can directly consume events and data from Adobe Commerce.
+
+00:18:20:43 - 00:18:42:23
+不明
+So what our main task was there is, data validation, transformation and transportation. So this is the main task you have to focus on. And on day three we finalized our, product and customer data sync. We started end to end testing. We so we did go into Adobe Commerce. We did our first orders, created customers the same on SAP side.
+
+00:18:42:23 - 00:19:07:42
+不明
+We created customers there. And then we tested how they synchronize. And it was really fast and also stable. In the end, we also did a couple of fine tuning of performance metrics. So let's have a little more detailed view on the architecture, how it works. Actually, we see our three systems and in the middle our connector here and the whole metric actually.
+
+00:19:07:47 - 00:19:29:13
+不明
+And in my opinion, this is a real no brainer. Relies on the eventing, functionality as well as the webhook functionality, meaning that you can consume any data out of Adobe Commerce. So everyone who has not tried it before. I highly recommend that you try this because it's really flexible. You do not have to program any PHP line at all.
+
+00:19:29:18 - 00:19:49:48
+不明
+It's highly configurable and you can get any data you want. So we exchange those data almost really time actually. And then on top of that there are webhooks which were for example, a headless front end can actually, request data to drop hook, like for example, in a B2B case or a history, customer in a virtual prices and so on.
+
+00:19:49:48 - 00:20:14:13
+不明
+And they need to be there on point. So in real time. And this is achievable with webhooks actually. So we request the data out of ESP and deliver it to the front of. This whole connector is actually publicly available. We uploaded it to the Adobe Exchange as well to the commerce marketplace. So everyone who wants to try it out, feel free to download it.
+
+00:20:14:18 - 00:20:34:50
+不明
+There will be a QR code at the last slide so you can, get a direct link to it. We include the documentation. We included onboarding scripts. Everything actually works automatically. You have to directly set it up your own, upload a project, and then you can immediately start with it. This connector was awarded with the episode and patch as well.
+
+00:20:35:02 - 00:21:02:17
+不明
+Meaning that we have scalability and performance during implementation in mind. It was created with excellence. So I is data integration process. Sometimes difficult to explain. I actually made a little demonstration video for you so you can see how it works. Here we are in a typical ecommerce store. Where we do a little order and directly jump into episode.
+
+00:21:02:17 - 00:21:19:12
+不明
+And we see here the events, the commerce order sync, and there we see that it's attached to a runtime, and this runtime is consuming the event because we got the order data and you see it here in the journal. And here's the Json data which you got from Commerce. So it's highly flexible. Whatever data we want there we can consume.
+
+00:21:19:17 - 00:21:47:42
+不明
+We process it and export it to SAP. We get directly in it back. Once we switch to SAP, we can make sure that it is here. Don't worry, the system. Yeah. So this is how it works. And it's actually quite fast. A little conclusion at the end. So like you saw in the last couple of days here from the Adobe presentation slides, there's a really modern approach.
+
+00:21:47:42 - 00:22:08:47
+不明
+Adobe gave us really powerful tools, the App Builder Integration Starter Kit, so we can extend commerce from the outset via API first approach. This is really very, very easy. We are running on a serverless infrastructure, so that means we can just focus on development, right? We don't have to care about anything else. We write our 50 lines of code and deploy it in the cloud.
+
+00:22:08:47 - 00:22:13:58
+不明
+It's running immediately and it works fine.
+
+00:22:14:03 - 00:22:34:50
+不明
+And then I brought a little, success story here with you, with our one of our latest customer, Deutz Engine company. So they are, building engines for not only farming industry, but also construction, construction sector, industry and so on. And they came to us and said, hey, we need a, B2B platform for spare parts. We have worldwide customer base.
+
+00:22:35:02 - 00:22:56:04
+不明
+We need to connect it to our SAP, and they are currently in the migration phase from our three to support for Hana and meaning that we have to implement this connector actually for both systems. Right. And they have the requirement that they need custom individual prices. We needed sales orders, they needed customer documents exchange to Adobe Commerce and so on.
+
+00:22:56:09 - 00:23:20:38
+不明
+And then we approached them, said, hey, look, Adobe has this really nice approach to a modern, implementation. Would you be open to actually that you begin this project with it? And they totally agreed. They are happy. We are happy because it's actually ridiculously easy to implement this. So, that's it actually, if you have any questions, feel free to ask me.
+
+00:23:20:38 - 00:23:44:39
+不明
+I will be around to you in the hot, after the talk as well. Just approach me QR code to download the connector if you want. Try it out. And independently from this connector, you should actually try out a commercial integration circuit. It really works. Perfect. Thank you very much.
+
+00:23:44:44 - 00:24:03:47
+不明
+So thank you so much. That was really impressive. Three days of implementation. That is really good. What makes me curious is if someone has to adopt this. Like you said, it's 50 lines of code. If they want to make any changes, like, what are some of the things someone has to be cautious about when they adopt it?
+
+00:24:03:52 - 00:24:29:01
+不明
+And tell us a little bit more about the you said it's very fast, but it's performance and testing that you did. And what are the numbers like how fast? Yes. So, this connector, when you install it, it actually already syncs orders, products, customers and by the bidirectional both systems. Right. You can also request order history data and so on.
+
+00:24:29:06 - 00:24:58:12
+不明
+And we tried out, delta imports, full imports and of course full imports take longer. But what I mean with almost every time you can request data via webhooks. So for example, if you need custom individual prices in the front end, they get from outside of SAP directly to the front end. Once you installed this connector, the only thing left you have to do in your own individual project is actually that you have to map the data, because every Adobe commerce individually, every SAP is individually.
+
+00:24:58:27 - 00:25:17:40
+不明
+So, this is common data like common SKU, common attributes like image description and so on. But of course your own next project has individual data. Yeah. Right. All right. Thank you so much. Yeah. Thank you as well.
+
+00:25:17:45 - 00:25:34:29
+不明
+All right. So thank you. Those are two excellent presentations. We're up to our final finalist here. And let me introduce you to Uri. He's a leader from actually. And let me move this forward. He's a leader leader from Nomi Core.
+
+00:25:34:34 - 00:25:51:38
+不明
+Let's go. There we go. Hey. So let's welcome Uri. He's a leader from Nomi Core and he's passionate about e-commerce and AI. And his latest release is AI shopping Companion. Let's welcome him to the floor here.
+
+00:25:51:43 - 00:26:19:27
+不明
+Thank you. Good morning. I hope that you're all feeling refreshed and ready for the last day of Adobe Summit. And, I think that for me, this is one of definitely the biggest events I've ever seen. 15,000 people. That's incredible. Thank you guys, this is. That's great.
+
+00:26:19:32 - 00:26:47:09
+不明
+Sorry. So I want to start my presentation with a little story on my life. So once in a while, my wife has asked me to buy the school bags for our kids, so. Sounds easy, right? So, I jumped out just immediately online. I bought the best possible, school bags for my kids or everything. So it just was perfect.
+
+00:26:47:09 - 00:27:21:21
+不明
+Perfect. I was I felt almost like a hero. But when I came home and presented my purchases to my wife, she just said, that's all. So, appears it's. She was expecting that meaning by, buying school bags for kids means buying pencils, notebooks, lunchboxes and etc. while for me, that was just, another item in the list.
+
+00:27:21:26 - 00:28:01:37
+不明
+So now she doesn't ask me to buy anything. So, this story is really funny, right? But, it really starts to question real estate. A serious question in e-commerce. And, to understand this problem, that appears, I want us to go through the five whys. Well, we will we will. Sorry. We will dig a little bit deeper and understand what actually, stays behind that.
+
+00:28:01:42 - 00:28:43:46
+不明
+So why researching is painful, right? Because it takes time. It's almost like a waste of time. Right? So. Sorry. This. I need to stay close. So. But why? Why? It's, time consuming. Because the process in the office is inefficient. And why is there an inefficiency? Because there are so many choices and merchants, they just fail to propose the right things to to the client.
+
+00:28:43:51 - 00:29:20:29
+不明
+And why merchants cannot propose the right things to the client because, they don't know their true intent. And why intent is not clear because no one merchant has ever asked this question. So, merchants, they, suppose that, when I am buying the backpack, I should already have pencils, notebooks and etc. and of course, PhD in Back-To-School logistics.
+
+00:29:20:34 - 00:29:47:21
+不明
+So I want I want to repeat that one. But once again, no one merchant has ever asked this question. It's even it's even more, complicated. Have you ever tried to, fix the problem? Something like, what? Do I need to replace the broken tile in my bathroom? Or, what? What do I need to fix that leaking toilet?
+
+00:29:47:26 - 00:30:07:01
+不明
+Did you try? I tried, but. So, let's let's look at this products right. I want you to guess for three seconds. What is the true intent? Ready?
+
+00:30:07:05 - 00:30:36:17
+不明
+Yeah. For me, this just looks like a set of different products. For serial killer. Right? But, but, actually, this is the DIY, made the costume for a kid's, party. So don't run to those who don't have kids. Don't run to the exit. Kids, this is, brightening and sunshine. I can tell you.
+
+00:30:36:17 - 00:31:17:53
+不明
+I can say this to myself, every and every night. So we know the problem. Researching is painful. But what if shopping was effortless? Let's, go to the chapter two and look for the opportunities. So we. What do we have at the moment? We all have the personal, personalized, recommendation search. Right. It's been already with us for a while.
+
+00:31:17:57 - 00:31:58:04
+不明
+So if one person buys, x, it also will buy Y based on the history of the purchases and, the intent of this, and based on the history of, this or what the person was buying previously. Right. But but the truth is that this is not enough anymore. So we want to buy, things that are more, that will fix our intent, that will, but also the problem.
+
+00:31:58:09 - 00:32:43:44
+不明
+So the that's why it leads us to the cognitive e-commerce ecosystem, where something will expect us to buy and close our, our intents. So, but to understand our intents and have the shopping, effortless. We we have to do something right. And the next step is intent driven assistance. So this is your personal shopping companion? That will help you to fix your problem.
+
+00:32:43:49 - 00:33:23:29
+不明
+So intent driven assistance stays on the four pillars. First. First pillar is intent recognition. And this is already where it starts shining. So, now when when you would, search. I want to cook. Cook the dinner you will just get based on the keywords you would get just maybe recipes. Right. But if, if but you want to search when you cook the dinner, not only just the recipes, you want to have ingredients, recipes, and sometimes maybe even the wine pairings.
+
+00:33:23:34 - 00:34:00:53
+不明
+Right? So when when person when person is searching for a plant, right. And right now it's getting the plant. But when the person would be searching, start the Belk in the garden, it will, it will. This person will get the set of different products. So solve the the problem. Then next one is really important. It's, contextual contextual clarification.
+
+00:34:00:58 - 00:34:40:40
+不明
+So we. We want contextual clarification to ask, proactively ask questions to understand what is our real true intent. And finally, this is not only about, physical. It's not only about online. It's about physical world as well. And it will work for pretty much all industries that we have. So let me introduce you. I shopping companion.
+
+00:34:40:45 - 00:35:11:26
+不明
+This is this shopping companion will help you to. Find your true intent. It will proactively ask you questions what actually you need and will, find you this solution so you don't have to spend and your time. How it works. So you you type your, request in the search bar.
+
+00:35:11:30 - 00:35:29:59
+不明
+It will give you automatically products. Products will be, separated on the different categories. And it will proactively ask the questions to understand what is your goal.
+
+00:35:30:04 - 00:35:58:18
+不明
+So how it works from the architectural point of perspective, use user made the query that is that sends it to e-commerce. From e-commerce it goes to AI shopping, companion AI shopping, companion, try store and understand the real intent is so is split in this intent on the lots of smaller requests and sending this to search engine from the search engine.
+
+00:35:58:18 - 00:36:35:50
+不明
+Results are coming back to shopping companion and it happens some let's call it magic and user gets the proper result. So catalog data from Adobe Commerce is indexed in the search engine. But Adobe a builder generates the meta metadata. And this metadata goes to, travels to our shopping companion.
+
+00:36:35:55 - 00:37:00:50
+不明
+So I want us to look how actually it really works. So this this is the search bar. And you are you have your type in the different request. You get different products from the totally different, cat categories.
+
+00:37:00:55 - 00:37:33:29
+不明
+That are even not, connected to each other. Then it asks you proactive questions if the weather will be raining or or what's your hiking, where are you going? And etc. you can add even your request. And finally you said that it will be raining. So that's why it offers you right product and it's so easy. Now you can just pick your products and add them to cart.
+
+00:37:33:34 - 00:37:36:58
+不明
+That's all magic.
+
+00:37:37:03 - 00:38:24:56
+不明
+So remember the the problem that researching is painful and the merchant doesn't know the true intent, right? So and your shopping companion and anticipate this and is unlocking, new opportunities. First is uncovered hidden customer the one demand. So finally merchant understands what people are shopping and why people are shopping on his website. Here. Understand, what kind of products are needed.
+
+00:38:25:00 - 00:38:58:37
+不明
+So second, remember we we are splitting, query on small, requests and then sending them to the, search engine so we definitely can find what user actually didn't find in, in the, in the database. So now not only what was out of stock, but also products that could be fit to fix the problems of users that are coming to the web shop.
+
+00:38:58:42 - 00:39:02:22
+不明
+Third.
+
+00:39:02:27 - 00:39:50:27
+不明
+The merchant will be the first one who understands the trends, because users will come and proactively tell about the trends and the pain points. So feedback will be almost immediate. And the that that that's all will help to every merchant refine his product strategy and build it really solid on the really solid level. So I want to finish my presentation with a, phrase that basically say the CEO of the Coca-Cola, he he said that don't offer don't sell to, users something you think they need.
+
+00:39:50:32 - 00:40:20:03
+不明
+Now. He said, don't sell to users. What you want. Sell them what they want. So, shopping companion, this is something that will help you to to build this bridge between you and users. And I hope that, everybody will be the rock stars with their companies. So thank you so much. Thank you. Yuri. That is our. All right.
+
+00:40:20:03 - 00:40:43:52
+不明
+I just hold on for a minute. We, will take some questions. Yes. Some questions. Yes. Hi. Great job. Fantastic. I mean, I think definitely hitting on a lot of the industry trends at this point. My question is you you talked a bit about, kind of the benefits side of stuff. Do you have kind of like case study and like what that uplift, comes from the, this type of technology.
+
+00:40:43:57 - 00:41:17:36
+不明
+So, I was I was just finishing my, my presentation, with, something that will really bring the benefits not only for the user that will, spend, definitely less, less time on the, the shopping experience, but also to the, to the merchants. So I believe that this is a really win win solution for everybody. So if you are asking about the real case study, we are in the mode where we are open for the case study to start with, one of you or every everybody.
+
+00:41:17:40 - 00:41:34:08
+不明
+Awesome. Thank you. All right. Thank you. Yuri, once again, let's hear it for, Yuri. At this point, I'd like to, ask the panel to take a five minutes, maybe for 5 to 6 minutes to determine your choice. And I'd like to ask all the three rock stars to come back on stage and take questions from the audience.
+
+00:41:34:08 - 00:41:45:32
+不明
+So if you have a question, please raise your hand. And while you do that, I'd like to thank Tatiana. Who's there? She's been playing the music. She's been keeping us on track. She's been timing us. So thank you. Tatiana.
+
+00:41:45:37 - 00:41:53:23
+不明
+All right. So welcome back. Panel, could you come up? And,
+
+00:41:53:28 - 00:42:17:14
+不明
+All right. Hey, guys. Really, really nice job today. That was fantastic. Really appreciate the energy. The preparation. That it's fantastic. It was hard. I mean, we debated and we got yelled at for the amount of time we were debating, so it was very close in the end. But it is the, the panels selection, to go with Yuri with the AI, solution based discovery approach.
+
+00:42:17:14 - 00:42:24:34
+不明
+So congratulations.
+
+00:42:24:39 - 00:42:30:39
+不明
+It's a great jumping.
+
+00:42:30:44 - 00:42:35:23
+不明
+Thank you so much.
+
+00:42:35:28 - 00:42:36:09
+不明
+For.
+

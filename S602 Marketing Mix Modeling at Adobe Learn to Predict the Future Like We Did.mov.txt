@@ -1,0 +1,456 @@
+00:00:01:17 - 00:00:27:54
+不明
+And thank you for joining us today. I'm Kimberly Lang, the group product manager of AI and ML at Adobe. And I'm excited to share how we approach marketing mix modeling. Here. So before we dive in, here's what you'll take away from today's session. So we're gonna talk about how we leveraged AI and machine learning to drive faster and more actionable marketing insights.
+
+00:00:27:59 - 00:00:51:58
+不明
+We will talk about our engineering challenges that we face and consolidating our measurement into a single, unified solution for all our teams. And then we'll also talk about the key pitfalls and breakthroughs that we encountered along the way. So then you can apply this to these lessons, to your own marketing strategy and how you want to build your measurement stack.
+
+00:00:52:03 - 00:01:23:48
+不明
+So let's jump in. So I think a lot of you can agree that measuring incremental marketing performance is a balancing act. Marketers need speed and flexibility to make quick decisions, but they also need accuracy and complexity to ensure those decisions are sound. And unfortunately, traditional measurement forces are trade off. Either we are meticulous, but we're super slow and rigid.
+
+00:01:23:52 - 00:01:50:21
+不明
+And we have models that struggle to keep up so that we can have quicker insights, and action upon them, or we get fast insights. But then we oversimplify reality in our results. And this challenge became even more and more complex for us at Adobe at the time, because we were also dealing with fragmented data sources, different methodologies, and a lot of different vendors.
+
+00:01:50:25 - 00:02:16:28
+不明
+We were piecing together multiple tools and publisher reports, and only to receive conflicting results most of the time. Beyond that, data wrangling was really, really slow for us. It was very resource intensive, and by the time we had insights, there are often way too late to act on. And even when we had results, turning them into decisions was another hurdle.
+
+00:02:16:33 - 00:02:54:43
+不明
+Static reports and unintuitive tools that we had at the time created a lot of organizational misalignment, and leading this would create a lot of churn and decision paralysis. So it was really clear to us at that time that we really needed a better approach internally. So what was frustrating also is as we were starting that journey to build our internal solution and our different measurement capabilities, another challenge emerged and that was data erosion.
+
+00:02:54:48 - 00:03:25:19
+不明
+Walled gardens, mobile device restrictions, evolving privacy laws and the shift towards that post cookie world all chipped away at the data we were able to capture. So at the time, we were developing a very advanced multi-touch attribution solution, and then we started to lose some of the data that we needed to be able to capture all our digital channels, and thus less data at that time meant that we had less precision, that we could make.
+
+00:03:25:24 - 00:04:01:55
+不明
+Decision making was getting even harder. So to stay ahead, we needed a measurement approach that wasn't just effective today, but was also future proofed against ongoing data deprecation. We also needed a solution that could also scale across all of Adobe's businesses. And at that time, we were growing very quickly. We were building, you know, new products, we were acquiring new businesses, and we needed our solution to grow and adapt to our unique needs across those different regions and industries as well.
+
+00:04:02:00 - 00:04:35:39
+不明
+And a one size fits all solution wouldn't work. So at the time we asked ourselves, how do we build measurement models that are both fast and rigorous? How do we deal with fragmented data and conflicting measurement approaches? And with the rapidly changing market and AI advancing at an unprecedented precedented pace, how do we futureproof our measurement strategies and harness AI's full potential?
+
+00:04:35:43 - 00:05:05:33
+不明
+So the answer was for us to rethink how we do measurement completely from the ground up, not just as a tool, but as a strategic capability that evolves alongside our technologies and our data landscapes. We embraced adaptive models that integrate diverse data sources and worked around walled gardens so we could get clearer, more actionable insights and a view of performance.
+
+00:05:05:38 - 00:05:36:59
+不明
+The goal was no longer just to measure what happened, but it was also to continuously refine our strategies with precision and foresight. And so what we built and what we needed was a flexible, AI driven system that could adjust to varying business factors, evolving regulations, and diverse marketing channels while still delivering on accurate, actionable insights. And this is how Dawn was built.
+
+00:05:37:08 - 00:06:09:20
+不明
+And this is our internal name for our data driven operating model. We started in 2014 when we started building this internal measurement platform, and it's our centralized hub for measurement, optimization and planning. Instead of fragmented reports, Dawn provided near real time insights in one place for all our business units, all our marketing teams, all our agencies and partners.
+
+00:06:09:25 - 00:06:37:09
+不明
+This eliminated a lot of efficiencies across our teams, so our teams are no longer trying to reconcile different publisher reports and the results from different measurement methodologies experiments. And we are now allowing the teams to just focus on answering the important key strategic questions, such as where should we invest our next dollar for maximum impact? Or how can we leverage our own channels for more growth?
+
+00:06:37:13 - 00:07:13:50
+不明
+At the time when we first started, Adobe was a $4 billion company and we were scaling rapidly as one of the first companies to adopt and transition to a SaaS model with Creative Cloud. And as we expanded into Experience Cloud, Document cloud and all these different global markets, our internal tool also evolved alongside us. We integrated sensei AI models and latest advancements to adapt to changing marketing landscapes along the way.
+
+00:07:13:55 - 00:07:50:12
+不明
+And so today, the insights from Dom has been instrumental in to Adobe's growth to a $20 billion business. And it has helped us to optimize marketing investments and staying ahead in an ever changing industry. And what's really, really cool is beyond marketing, what Dom has let our team do as well is strengthen our strategic relationship with our finance teams and ensuring that we deliver data driven, aligned investment decisions together.
+
+00:07:50:16 - 00:08:33:38
+不明
+And to highlight this impact, I want to, you know, kind of quote our VP of growth Marketing Performance at Adobe, Matt Scharf. And as what he mentioned is we have a much deeper relationship with our finance team now. Now we sit down with them and map out how our targets align with the broader business KPIs. It's gotten to a point where they trust our projections almost as gospel, and we can have sophisticated conversations on how marketing can expand or adjust to meet our financial goals.
+
+00:08:33:43 - 00:09:06:21
+不明
+So today, I just want to kind of summarize the impact that our internal tool had with Adobe. And our projections and recommendations from our models directly influence billions of dollars in our marketing spend across our 50 plus business units and 29 plus countries that we're across. And the results speak for themselves. We've been seeing an average of 19% year over year improvement in return.
+
+00:09:06:21 - 00:09:28:50
+不明
+On marketing spend and beyond the performance, the rigor and transparency of our models have really created a deeper alignment between us and our finance team and strategy teams, ensuring that every investment decision that we make, as Adobe as a whole is backed by our AI driven insights.
+
+00:09:28:55 - 00:10:04:55
+不明
+So with us, what we found is that AI and analytics isn't just, you know, clarity about understanding the past or predicting the future. It has helped us actively shape that future and helped us to build the future of measurement. So that's why in October 2023 330, we launched Adobe Mix Modeler and we brought over a decade of our innovation and our learnings from dead on to our key customers.
+
+00:10:05:00 - 00:10:40:59
+不明
+A mixed modeler is our product that helps us disrupt that traditional measurement, and combines AI powered measurement and planning in an intuitive, marketer friendly platform. Mix smaller developers on three key pillars that help Adobe internally, as well as our key customers. You know, in their marketing and measurement strategy. First, we bring in the rigor, using cutting edge AI to ensure accuracy and make sure insights are transparent and explainable.
+
+00:10:41:04 - 00:11:12:02
+不明
+We have speed where we have a self-service UI that enables faster data unification, and then scale tool that allows flexibility with the cloud based technology so that you can expand across different businesses, different products, different regions, and across the different data needs that you have. So that's like a quick preamble about what our technology is about, how it impacted Adobe.
+
+00:11:12:07 - 00:11:40:01
+不明
+Now I'm going to introduce Bo and Wang, our manager of machine learning engineering. He's played a key role in the measurement efforts in Don and was instrumental in building the modeler. Today he'll walk us through the technical considerations behind the tool, how we solve the specific business challenges, and then the key lessons he learned along the way. And then the fun fact is that Vaughn is also an amazing woodworker.
+
+00:11:40:03 - 00:11:52:05
+不明
+So let's welcome Rohan Vaughn over to you. Thank you.
+
+00:11:52:10 - 00:12:17:10
+不明
+So thank you. Hello. Yeah. Okay. All right. Thank you, Kevin. And thank you, everyone, for being here and not talking about woodworking today. But even though that would be easier for me. And so my name is Bob and I am a manager of machine learning yet Adobe. So my team I think my team develops the machine learning models that power and make smaller.
+
+00:12:17:15 - 00:12:23:46
+不明
+So today I'm really excited to take you under the hood of our modern methodology.
+
+00:12:23:51 - 00:12:45:38
+不明
+All right. So just now can cover all the measurement challenges we face here at Adobe. And the solution from Adobe is, ultimately led to mixed mother. So given our time, I won't be able to go into every aspect of mixed powder, but I select some of the key concepts I want to walk you through today. Those are covered in the middle black box.
+
+00:12:45:43 - 00:13:11:01
+不明
+So as Kim mentioned, mixed model leverages two different, measurement approaches under the hood the multi-touch attribution MGA marketing mix modeling. And then then. So I will start from there and talk about the machine learning models that goes into each one of them and how they handle real life marketing behaviors such as app stock diminishing return. And also, why do we make these modeling choices?
+
+00:13:11:06 - 00:13:37:18
+不明
+And then we know that by having to separate model is not enough. How do we unify them to and even beyond the two of them to provide a reliable and consistent insights for measurement and planning? That's where the where trust. Excuse me? That's the word transfer where transfer learning comes from. So in generic terms, it basically means you take learnings from a different task to help your current task.
+
+00:13:37:22 - 00:13:57:36
+不明
+And last but not least, at budget optimization in some other is how we, use them. Whatever we learn through MGA. And enable future, looking decision making for the marketers. And that's where yeah. The last concept I will cover.
+
+00:13:57:41 - 00:14:22:12
+不明
+All right. Let me start with MTA. Right. So we know that market, multi-touch attribution is built on event level data. So it's good to always start by visualizing the data. So now this diagram shows two customer a customer A and B and their online journey over time. And this x axis represent time. We see that customer A converted in the end.
+
+00:14:22:12 - 00:14:59:47
+不明
+But customer B didn't for us to build in marketing multi-touch attribution model. Both have a career path. It's are important both a non conversion and a conversion path because it's the contrast between the two that essentially let us learn if a particular type of marketing touch one is effective for the to drive conversion. For instance, if there is a one type of touchpoint that's just as likely to appear on a non conversion path down a conversion path, there is a much signal from the data to suggest, okay, it's impactful for the conversion, but but on the other side, if a marketing touch point is much more easy, do often appear on conversion paths,
+
+00:14:59:54 - 00:15:13:48
+不明
+then that's signal that is impacting conversion. So I take this Customer A's journey and use that as a running example. As I go through some of the intuitions of how we build up a multi-touch attribution model.
+
+00:15:13:53 - 00:15:39:45
+不明
+All right. So this diagram shows how the marketing touchpoints view from our MT model actually impacted customer's behavior. The intuition is that a customer comes in with some baseline level of interest level towards making a, content conversion. And that's on the Y axis. The cumulative interest level on x axis is time. So over time there are different marketing touchpoints on this customer's path.
+
+00:15:39:50 - 00:16:14:57
+不明
+For instance, at time t one, there's an email that occurred that increased interest level two to some point. But as time progresses, the increase in interest level slowly fades. And given enough time, eventually we assume it's going to come back to the baseline level, thus exhibiting the media as stock impact. Right? But for luckily for customer A, there are two subsequent touchpoints happening at time T two and time T3 bumping up the interest level each time, and then at time t see the conversion time, that's where he actually converted.
+
+00:16:15:01 - 00:16:36:20
+不明
+So if we take a snapshot at the time GC, that's where we can decompose this interest level and the from baseline and the interest level gains from each of the touchpoint. As a show and the theta's here on the, on the right. The use of letter theta suggests is something we learn from the model. It's a model parameter.
+
+00:16:36:25 - 00:17:00:03
+不明
+And for each of the touchpoint you notice that there's a second subscript. It's because the time lapsed from the exposure to the conversion time. It's also what's important. We need to take that into account. And more generally you can consider. Right. For, for something someone's conversion part, we can take this decomposition at the conversion time, but more generally you can take the decomposition any time.
+
+00:17:00:03 - 00:17:23:50
+不明
+Right. Why that matters is earlier I mentioned how why it is important to consider the non conversion path because unknown conversion path. You don't have a ATC here. Right. But then there's always a user specified conversion window as a reference. When you do a convert, decomposition, then you can also measure and you know, there will be touchpoint on the non conversion path as well.
+
+00:17:24:05 - 00:17:43:00
+不明
+So in general through model training what do we try to learn. Are these thetas. And what comes out of the model is generally systematically. If you evaluate the cumulative interest level on conversion path it will be higher. There are non conversion path.
+
+00:17:43:04 - 00:18:12:27
+不明
+So all this intuition behind interest level is clear and fun. You know interest level isn't something we readily observe. But in fact we observe just whether you converted or you didn't convert. So it A01 outcome. Many of you may be familiar with supervised machine learning and classification. Right. So so that's where you know, very naturally one way to map that doing the mapping between the cumulative interest level is to the probability of conversion, which is represented by this as shaped curve right here.
+
+00:18:12:32 - 00:18:38:15
+不明
+So in this graph the x axis represent the cumulative interest level. And on the y axis is the probability of the conversion. This for this graph we're focusing at that time t. See where we made that decomposition. As you can see the four thetas are on this graph in ordered a manner. So which each theta A corresponds to a probability of conversion on the blue as shaped curve.
+
+00:18:38:20 - 00:19:03:27
+不明
+And you notice that it's S-shaped. So it's a it's not a linear mapping and ordered didn't matter here. Why that's important. For instance if you take the last touchpoint on the journey Customer A's journey, that was the search and that increased the interest over quite a bit. Based on the last horizontal diagonal was theta sub s, but is bigger.
+
+00:19:03:27 - 00:19:29:21
+不明
+And the interest level increase is bigger than the second email touchpoint, which is represented in the second last horizontal. Arrow of the theta sub e does the, notice impact from the second email, but the increasing probability is actually smaller. If you compare those two red bars. And this view from the probabilities perspective is how we used to assign credit is of conversion back to each individual touchpoint.
+
+00:19:29:25 - 00:19:47:48
+不明
+And this concave shape naturally accounts for the diminishing return. So intuition is once the customer has reached a very high interest level, you keep bombarding him with the media touchpoint. It shouldn't increase the probability meaningfully. Basically.
+
+00:19:47:52 - 00:20:14:28
+不明
+So this type of modeling we use for MTA is known as a discrete time survival model in biomedical research. So in survival model the main interest of event is the the occurrence of death in our case the current of a conversion. So where does this discrete time comes in. So earlier I showed for showing at stock I use those continuous blue curve earlier.
+
+00:20:14:33 - 00:20:49:36
+不明
+But there it can also be shown. And there's another way to form to capture this dimension. The stock impact here, this diagram is email as an example. The x axis is time since exposure in in weeks the delta t and the y axis is the impact on the interest level. So if we capture the, email as long as the continuous function, then what we're really estimating usually continuous on here is something like an exponential decay as a one parameter, function to capture the the at stock.
+
+00:20:49:40 - 00:21:09:36
+不明
+Then what we're really estimating is that lambda. And then we plug in the delta t that's observed value to get add your time of decomposed of those. What are the actual impact from that media touch point. But when we make a discrete we make a discrete time window where each of the for each time window, we have a different parameter with sine to it.
+
+00:21:09:41 - 00:21:35:08
+不明
+We estimate that scalar parameters instead. And to make sure we enforce monotonicity. That's where the constraint comes from. If you're closer to the time of exposure then the impact from then media touchpoint is higher in general. And that's for a handle or through a numerical optimization with constraint basically. And there are a couple several benefits from making discrete time.
+
+00:21:35:13 - 00:22:06:04
+不明
+And intuitively we observe, we make observation usually in discrete times and also increase the flexibility of the model to capture the nuances of those exponential decay. And also it alleviates the, the, some of the more restrictive assumption we have to, use when we are using a continuous time. Basically. So some quick summary of other decision points, why we landed on this discrete time survival model for other MTA.
+
+00:22:06:05 - 00:22:25:39
+不明
+Right. The first of all, which I touched on earlier, is it's important to look at both the conversion non conversion path right now. The second is highly interpretable. It's very easy to do use the model to capture real life marketing behaviors such as app stock and dimension return. And both of these are, you know, a rule based method.
+
+00:22:25:39 - 00:22:47:03
+不明
+They cannot accommodate straight out of luxury. And also this method is a very easy use to scale. And it has a very intuitive scoring process with the incremental incremental probability interpretation. If you compare it with some other methods like in a market type model, number three and number four are where they generally fall short of compared to this model.
+
+00:22:47:07 - 00:23:07:00
+不明
+And lastly, it has a very high predictive accuracy in these, even if for now we ignore all the requirement of interpretability. And if we treat it just as a classification problem, looking at the predictive AUC and it's there error, right. The open store for many other classification algorithm. But still this model performed very well against other, algorithms.
+
+00:23:07:04 - 00:23:30:07
+不明
+That's why the main reasons why over the years we landed this method, even though even though we've tried so many right. So now switching gears a little bit separately, talking about modeling makes modeling for. And which is built on aggregate level data and also let's start with a visualization of what the data will look like.
+
+00:23:30:12 - 00:23:59:43
+不明
+So after all the data ingestions validation and cleaning and ultimately comes down into a tabular format, something like this. This is just a toy example, right? So each row corresponds to a time period, usually weekly, sometimes daily. And each column represent a variable. So the outcome of interest is the conversion column. And we have factors to help the seasonality or promotion, you know, every to for its control variables.
+
+00:23:59:43 - 00:24:31:55
+不明
+And then there are ten channels. And the goal of course is model, model relationship between the weekly sales or weekly conversions as a function of those factors and media input. Right. So just a quick example I highlight a week for is because when we try to model the predict the week for conversion and it will make use of the data factor data from the same week, and then media channel data from some week leading to that week because of ad stock.
+
+00:24:32:00 - 00:24:53:19
+不明
+So one key thing to call out is we use a multiplicative model. So basically what it means is a weekly conversion is modeled as a baseline demand and a product a baseline demand. And the multipliers from each of the media channel. And at a very high level in terms of notation, of course, ignoring a lot of details is is written in that form.
+
+00:24:53:19 - 00:25:16:54
+不明
+And so some a quick note on the notation again theta represent the model parameters. We try to learn in the training process x and y represent the data we actually observed for using the training and the subscript a corresponding to, you know, the two channels in the story. Example search and display. And if we relate back to the, to the week, for example, a from a previous page.
+
+00:25:16:58 - 00:25:39:25
+不明
+So basically week forward after conversion we observe is something like 730. And when the model predicts will be slightly different giving a residual. And but we can decompose the model prediction into the part from the baseline and the multipliers from each of the marketing channels. Basically.
+
+00:25:39:30 - 00:25:59:51
+不明
+And earlier in the the equation is very high level. But in the multiplier the function of the multiplier, that's where the add stock and diminishing return are all taken care of in that function. So how do we take care of them on the So for ad stock we use a exponential decay. It can be either one tail or two tail.
+
+00:25:59:56 - 00:26:21:09
+不明
+The difference is where does a peak impact occur after a good media investment as shown on this this plot, the two different types of, decay to take care of a diminishing return, we use some, power function applied at the right location. So basically, if you a power function x to the power of theta, you keep theta in the range of zero one.
+
+00:26:21:09 - 00:26:51:21
+不明
+Then this is the concave shape that's capturing the dimension return. And these are captured in the multiplier function. And my model. So why do we choose this modeling approach. Or more specifically very often people ask why didn't you use an ad of the model, which is, very common, in out there. So very quickly, also at a very high level, the difference is how do you model weekly sales or weekly conversion?
+
+00:26:51:21 - 00:27:13:34
+不明
+Right? You multiply out of the model the key is what highlighting the blue color is basically the plus operator instead of a multiple like the multiplication. Right. And then each of the terms course parallel quite parallel to to our model. So the decision is actually motivated by real world marketing behavior that we try to handle within the moment.
+
+00:27:13:42 - 00:27:37:39
+不明
+For instance, there's a believe that media there's a media synergy basically media working harder together, one plus one is greater than two. And for this one it's very easy. That is an additive. There's no room for you to, you know, be greater than one. One plus one has to equal to two. Right. Then there are also two other consideration and the expected, for example, the expectation that we should have a time varying impact from media channel.
+
+00:27:37:44 - 00:28:02:40
+不明
+For instance, if I have the same investment in, two different time periods in the year, I potentially can have different impact due to external factors, right? Another related concept, if we look forward looking into budget optimization is if for the future I foresee some economic change, a change of external factors or whatever that's going to increase, that's going to change the, the baseline for actuation.
+
+00:28:02:45 - 00:28:28:52
+不明
+How does that reflect into my budget recommendation? Because budget recommendation isn't just a cross channel. It can also be across times. So because the the second and third are so closely related, I use a simple example to illustrate the difference between additive and multiple multiple. Look at the models in this case why it can be readily addressed in multiple like the model, but not out of the model.
+
+00:28:28:57 - 00:28:54:15
+不明
+I apologize for this super pack slides, but the idea is actually pretty simple. I'll walk you through this. So we start with a very simple scenario. And so I meet online. I'm a sneaker company selling sticker sneakers online. So generally the demand for sneakers is higher in summer month or lower in winter month. Right. So which is captured on the bottom left.
+
+00:28:54:20 - 00:29:20:58
+不明
+Graph over the, over the, over the whole whole year. What's the demand basically baseline demand for for the sneakers. And for me, my default strategy for Panini is I spend a fixed amount of marketing budget across the whole year. Each month gets the same budget. And I made to simplify its simplifications for this, example. First I ignore s block, the second, treatment pain media as a unit.
+
+00:29:21:03 - 00:29:42:34
+不明
+And because these two are independent concepts to what we're trying to answer here, the comparison between additive and multiplicative. So without loss of generality, and I made these assumptions so that the example is is tractable and easy to follow. Right. So up then we move up there for the model I move down there for a multiple like the model.
+
+00:29:42:34 - 00:30:11:33
+不明
+So what does it mean by cost and spent in each month under this setup? Constant budget in additive model means constant contribution across each month, which is reflected on the top graph in the middle column on the for the ad of the model is same contribution over time, but on the multiplicative side, constant budget means constant multipliers each month and then multiply works with the baseline demand to give you a time varying impact for the same amount of money spent each month.
+
+00:30:11:38 - 00:30:38:25
+不明
+That's on the bottom graph in the middle column. It that's the shape of the baseline demand. Basically. Then the next question is now I. In this for example, I made this total contribution from the admin model and from the multiple look the model the same 840. Right. But is there any capacity to move away from the fixed budget shifting budget round, but keep the total budget and can we do better?
+
+00:30:38:31 - 00:31:08:58
+不明
+Right. In the other model, there isn't any incentive from the modeling perspective to motivate you to make that change, because it doesn't require it does has nothing to do with the baseline. There's no interaction. And also because assuming diminishing return has already kicked in, it's, having a flat spend, it's actually optimal. If you move $1 from November to May, the gain in May is smaller than the drop in November because diminishing return right.
+
+00:31:09:03 - 00:31:33:25
+不明
+But in a multiplicative model there's actually quite a bit of room to shift around. Basically, we know the direction of shift. We should shift from winter month to summer month, and the administrator also applied a, when it applies here, it means the average multiplier is smaller. It's going to drop across the year, but the gain in the summer month work more than more than able to compensate the job.
+
+00:31:33:25 - 00:31:53:13
+不明
+In the winter month. And then in this case brings up the total contribution from from marketing quite a bit. And how do we actually know the extent of the shift and where to shift? That's what's covered in the budget optimization algorithm, which I will talk about later. Yeah.
+
+00:31:53:18 - 00:32:22:01
+不明
+So we very briefly cover MTA and man. And now the next step is I like to borrow this Swiss cheese analogy from our internal stakeholder that we use a lot. So for those of you who haven't heard Swiss cheese, each slice represent one of the tools we have. And each of them have holes in it representing limitations, whether it's due to data, due to your assumptions or, and gaps in methodology.
+
+00:32:22:06 - 00:32:51:31
+不明
+But you use when you stack different slice of cheese up the right way. You can actually cover the whole area without holes. And that's also how Adobe is trying to approach the whole measurement planning problem. And we know that MTN. I intrinsic part of mixed modular experimentation is also another pillar. How we solve marketing measurement at Adobe, even though it's not implemented within the framework of mixed model there.
+
+00:32:51:36 - 00:33:14:51
+不明
+But for the model it does have to take into account whatever experimentation result you get. And we so that we can unify the inside to provide a consistent and reliable, insights for business decision. So how to do the unification because we just touch on and. I'll start there. How do we do the bidirectional transfer learning that team.
+
+00:33:14:56 - 00:33:37:05
+不明
+Kim alluded to earlier. Right. So at a very high level a workflow on the left side, the MTA on the right side at the. So when we have both event level data and aggregate level data, the first step, step one A and one B, we build that separate model by themselves. Kind of the purely data driven model with the data with a config you set up right.
+
+00:33:37:10 - 00:34:03:41
+不明
+Then MTA scores, they're given an event level in step two which feed that event level MTA score into step three together with the model built in step one, and these two together lead us to step number four through the transfer learning process, which I'll talk a little more. The next slide on how it exactly works. But but outcome from the transfer learning is that we take these two inputs and then we produce output.
+
+00:34:03:43 - 00:34:40:28
+不明
+The output is updated. And then the model is a new set of parameters compared to what we have in step one B. And that is used for generating any aggregate level inside the score and everything which you see in step number five. When we have this mass score updated, taking into account that's the second stage of transfer learning going from step five to step six and to get at this step, this event level MTA scores on step two also will act as an input so that we will consistent update MTA score also at the event level that spits out, at step seven.
+
+00:34:40:33 - 00:35:02:20
+不明
+Thus at a higher level, how it works. So there are a couple of things I'd like to highlight here. First of all, the MTA model and model, they can be built on different time window. Right. You know typically MTA the training window is shorter. Say in this example, it's half a year. And then typically at least two years by typically.
+
+00:35:02:20 - 00:35:31:41
+不明
+But in practice usually there should be MTA is there should be a big overlap in the training window because that's where the information is flowing, right. The second highlight is the first step. What what we're taking from MTA model into, the transfer learning into first stage of the by direct transfer learning, the error from step two to step three is actually the relative performance of the media channels that's covered by MTA.
+
+00:35:31:46 - 00:35:55:11
+不明
+The reason is that we do try to bring the best of all worlds in the sense, very exciting. Yeah. They try to bring the best of all worlds, right. But for MTA, we know the the limitation is the channel coverage, right? Especially with cookie less everything. But the advantage is the vast amount of data for you to know that those channel you have.
+
+00:35:55:11 - 00:36:15:31
+不明
+Right. So that's why the relative performance is the key. We really want to take off. And then and then use that together with the model which sees the whole more holistic picture. All the factors on like iPhone channels you have that that is why that's the the first step. Right. And also the third note, as the degree, you know, we do too can start in.
+
+00:36:15:32 - 00:36:37:10
+不明
+Some of you may have noticed the transfer learning actually is where for the Mem side we have to do that at the model level, meaning it will influence your training, influence how your parameters are selected because additional insights downstream, whether it's budget optimization or the response curve we try to plot. Right. Those will have to come from the model.
+
+00:36:37:10 - 00:36:57:18
+不明
+The multiplicative model. But on the MTA side, the due to we it's not a requirement. So because it has to do with the notion of sufficiency, what are the bits and problem you try to address. Right. Because MTA usually when you spit out event level score, that's kind of a sufficient, kind of a statistical cost efficient statistic.
+
+00:36:57:30 - 00:37:24:47
+不明
+You can basically ignore the model parameters. Every downstream insight can come from that score itself. That's why also a way to kind of also simplify the process. So we focus on the business problem we try to solve. So beyond MTA, I mean, just now I alluded to and experimentation. Right. And even beyond experiment experimentation, there's so many different sorts of prior knowledge we can leverage for measurement planning, problem.
+
+00:37:24:52 - 00:37:51:42
+不明
+Different company may have different source of a prior knowledge. MTA is one of their live test results. This, experimentation results. There could be very strong believe on the spend, share or in-house model you build before you know using a different approach or market is strong. I believe from past research and experience in the industry. Right. These can all be sources of information that be leveraged by the model building process through the same process called transfer learning.
+
+00:37:51:46 - 00:38:18:31
+不明
+So in the middle, the diagram updated a little bit to emphasize that all these prior knowledges are actually optional. You don't need to have any of them for the mempool work. If you don't have any of them. The default model will be used to generate score insights and then budget optimization. But if you do have then one or more we can we can accommodate everything so that they guide the model building process.
+
+00:38:18:36 - 00:38:40:23
+不明
+So I've been talking about this transfer learning for quite a bit. But what does it do actually. So basically is a numerical optimization algorithm at work. So if you think about measurement in model training what are we essentially doing is we set up the loss function. Right. And there's good goodness of fit metric. There's regularization everything. And we saw in numerical optimization then we get a thetas.
+
+00:38:40:28 - 00:39:04:52
+不明
+So what happens here as if there's one or more source source of the information. We augment that original optimization objective function with the another term, the term mesh is the distance between what you supply to me as prior knowledge and what the model would produce, to, to compare against the, what you supply. So basically a distance metric.
+
+00:39:04:57 - 00:39:28:15
+不明
+So a lot of the work with challenge or innovation is actually coming to how to set it up. Right. Because to solve the problem efficiently, you did. You need a right metric. You need a right representation. You need to if you want to use gradient descent to solve the problem efficiently, the gradient has to be tractable, right. So there's a lot of considered consideration, including when you have multiple sources of information.
+
+00:39:28:21 - 00:39:38:49
+不明
+How do you standardize those inputs. So you can leverage in a systematic way. And the balance all the information you have.
+
+00:39:38:54 - 00:40:01:26
+不明
+The last big concept I want to touch on is budget optimization, that you optimization is based on the model we or we built the basically the multiple data to help visualize what it looks like. I created this toy example. So we have only two channels and only one time period. The channels are search and display and we have a total budget.
+
+00:40:01:26 - 00:40:28:55
+不明
+We want to split between the two to maximize our conversion. In this case, right. So a math collective model optimization service looks something like this. And in terms of notation the the X you use the in model training we that's the input by here. Turn it around is the optimization parameter. These are question marks we try to solve for a halide and the equation in blue.
+
+00:40:28:57 - 00:40:52:03
+不明
+Basically we trying to maximize the revenue. Given those functions and over the parameters x sub s and x sub d and and this budget optimization algorithm. Yeah. Typically we solve it under constraint. But there's a lot of flexibility. How we offer to use this budget optimization. And this is the two here. First is very easily handle channel level constraints.
+
+00:40:52:08 - 00:41:14:57
+不明
+And within one period or across time periods. And then we can also plan across multiple conversions. This this surface is showing for this just one conversion. A later I'll show we can apply across multiple conversion to make it very flexible. So this constraint parts right following on from the example from previous page. So what does it look like.
+
+00:41:15:01 - 00:41:41:51
+不明
+So we have search and display. We know that now we give it some channel level constraint. Search only spend somewhere between 10,000 and 88,000 during this time window. Display you can spend between 5000 to 70,000. And then we have a total budget constraint. Between the two, you only have $130,000 to spend, which gives this, a gray area, which is the set of all possible budget allocation that's possible under the constraint.
+
+00:41:42:05 - 00:42:03:40
+不明
+And if you translate that into the optimization surface, you basically cut it off a little bit due to the constraint. And thus, basically the numerical optimization is solving for that points shown as the the junction of the three red dotted lines here.
+
+00:42:03:45 - 00:42:31:23
+不明
+And planning across multiple conversions. Right. So earlier we showed how we were planning across one. But there often comes up the use case. We have to cross multiple conversion. One example is I'm a retail retailer. I have online store versus in-store online store, online sales and in-store sales. I built two models for each with the same set of budget pools, because I expect those channels are affecting online sales and in-store sales differently.
+
+00:42:31:28 - 00:42:55:03
+不明
+But when I do planning, it's the same budget. But how? Where should I allocate money so I can maximize revenue across these two type of sales? Right. That's where the equation coming in. So earlier we only look at one function f. Now we are looking at two. Now we we put them together as a weighted sum so we can optimize towards a total right.
+
+00:42:55:08 - 00:43:17:33
+不明
+Another example. And so is when you have I would consider upper funnel lower funnel. That's where it's becomes really important because in the two models you build one model could be on the sales the lower funnel, but the other model is built the response variable, maybe some brand awareness KPI. And then when you do optimization then naturally they're not on the same unit.
+
+00:43:17:34 - 00:43:43:04
+不明
+Right. But depending on how you want to prioritize long term versus short term success, you can you will reflect that in as the as the weight so that, you know, the optimization actually takes both into account. And of course, the diagram on the right is basically you're showing there's a lot of flexibility in channel coverage as well. These two conversions or two different model you set up doesn't have to cover the exact same channel.
+
+00:43:43:13 - 00:44:09:34
+不明
+They can have their own, they can have overlap. But it doesn't matter the optimization because the problem is, is that basically, you know, we solve numerical, optimization to create improper propagation. It will work out together. So a quick recap of what I cover. I remove the word the phrase black box to start. So and I talk about MTA and.
+
+00:44:09:39 - 00:44:39:16
+不明
+By itself. How do they handle add stock dimension return and how do they talk to each other through the process called transfer learning. Right. And even beyond that if you have test experimental results through transfer learning, you can also incorporate that. And then how that can be used into budget optimization. I hope this has been this deep dive has been informative and interesting and not a reminder of your least favorite stats class from college.
+
+00:44:39:21 - 00:44:49:12
+不明
+So with this, I'd like to invite my partner, Kim stage for final remarks. Thank you.
+
+00:44:49:17 - 00:44:54:07
+不明
+Thanks for an.
+
+00:44:54:12 - 00:45:16:40
+不明
+So one thing I think kind of want to underscore, if you're going through, you know, bones, in depth detail on how we built Mixed Modeler. I think it's really important that we all keep staying ahead with our marketing innovation roadmap. We believe that it's important to not just stop where we are, but continue to develop, right?
+
+00:45:16:46 - 00:45:53:28
+不明
+New ways to solve further problems and solve for new use cases. As technology allows. And a well-maintained marketing innovation roadmap ensures that our brands remain relevant, resilient and capable of any market, opportunities that, you know, come across. And then also make sure that we evolve with the evolving market itself. So to that point, I kind of wanted to highlight some of our new innovations, and maybe these can be ideas for your marketing tech stack and what you're trying to develop on your side as well.
+
+00:45:53:33 - 00:46:14:52
+不明
+So, we're coming out with a feature that allows someone to build plans based off of their goals and targets. And so that instead of giving us a marketing budget, you give us a marketing goal and we'll be able to generate, an suggested budget and plan, that will hit that goal. We're also able to do portfolio planning.
+
+00:46:14:52 - 00:46:42:57
+不明
+So this is what Boland is talking about with multiple conversions. You know, figuring out the optimal, budgets for that. This will allow you to build plans across different business portfolios, different business goals, different products. We're also coming out with a granular incrementality insights, which allows you to get deeper into your marketing performance. So you no longer just look at touchpoints and channels.
+
+00:46:43:10 - 00:47:18:33
+不明
+You can also slice and dice those details by campaigns, publishers, segments, you know, and any way that you can kind of get deeper insights so that you can actually run those in your marketing campaigns. And then we're also building AI agents in our critical workflows so that we can help you scale and more effectively kind of collaborate with teams so that, you know, when there are like areas where you can have an agent that helps you maybe run several models at once, so you can compare and contrast them quickly.
+
+00:47:18:37 - 00:47:45:13
+不明
+That's something you can do here. So a few I guess, to just wrap up the keys to success, we believe, is to make sure there's a unified measurement approach across all your teams. One place that everyone gets their insights and gets your planning capabilities from, so that you kind of reduce the churn and work that you need to reconcile between teams and work together to just answer the important questions.
+
+00:47:45:18 - 00:48:14:42
+不明
+Also use AI to drive also like accuracy and speed, because that's the kind of tool that you have now to be able to kind of balance all the different, business requirements that your teams have. And then also always evolve for impacts, always evolve, and always watch out for what's out there, what's new, and kind of see what makes sense to integrate into your marketing stack.
+
+00:48:14:47 - 00:48:37:14
+不明
+Here are some resources, for your reference, that you can take a look at. Additional sessions for Mix Modeler, our website, as well as our Adobe on Adobe Story in more detail. And then also just a reminder, everyone, please take the survey at the end of the session. Thank you everyone. I think we're about at time anyway, so thanks.
+
+00:48:37:19 - 00:48:38:31
+不明
+Thanks for your time for all.
+

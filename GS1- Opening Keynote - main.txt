@@ -1,0 +1,680 @@
+00:00:01:28 - 00:00:39:12
+不明
+Morning. Good morning. Do you? Good morning. Welcome to Adobe Summit. It's so great to see so many of you here with us in Las Vegas. And also a welcome to the thousands who are tuning in online. Thank you all for joining us as we come together for our 23rd Adobe Summit. It's incredible to reflect on how creativity has evolved and the transformative role that it has played in creating and delivering digital experiences.
+
+00:00:39:15 - 00:01:07:13
+不明
+I really believe we're in the golden age of design, and enterprises all across the globe are investing in people and technology to elevate the look and feel of all of their communications. It's incredible to reflect on how much marketers drive in terms of the creative work, as brands look to stand out, as well as engage with customers more effectively across all channels.
+
+00:01:07:15 - 00:01:40:01
+不明
+And AI is accelerating and expanding the creative aperture for everyone even further. It's opening the content floodgates, tapping into everybody's imagination and massively expanding the number of creative assets that are being designed, edited and delivered. Since Adobe's founding, we have been passionate about helping people and enterprises unleash their creativity and share their stories and brand with the world.
+
+00:01:40:03 - 00:02:27:15
+不明
+And today, we're enabling everyone with a creative idea to bring it to life across all media types, whether through imaging, design, video, 3D, AR, VR, and across desktop, web and mobile. We're advancing creative expression with our amazing, amazing global community and reimagining how we deliver AI so that we can deliver even more magic. We continue to innovate in flagship products like Photoshop, illustrator, premiere, After Effects, and Express, as well as to infuse generative AI seamlessly across all of Creative Cloud so that we ensure that you can create with the power and precision of your imagination.
+
+00:02:27:18 - 00:03:07:09
+不明
+And our new Photoshop web and mobile app, for example, is just part of our strategy to put all of our innovation in the palm of your hand. Our new Firefly application is a comprehensive destination for ideation and creation, enabling you to generate stunning images, vectors, and now video and voice all in one place. In fact, the Firefly video model is now available in public beta and is the first generative AI video model that is IP friendly and commercially safe, so you can confidently use it for all of your production ready content.
+
+00:03:07:12 - 00:03:44:21
+不明
+And Firefly and support for third party models will also be available in conjunction with Creative Cloud. But it's not just creative pros. Every student, business, professional and small business is also looking for quick and easy AI first applications to help them stand out. We believe that creativity is the new productivity. As communications have become increasingly more expressive and visual, and so with every product launch, we're expanding the lens to make creativity accessible to more people.
+
+00:03:44:24 - 00:04:29:15
+不明
+What we call creativity for all. Adobe revolutionized how digital content is shared viewed as well as preserved with Adobe Acrobat, as well as PDF, and it's now become the de facto standard for document productivity. We recently released AI Assistant in Adobe Acrobat and Reader, unlocking an even greater value from the trillions of PDFs around the world because it empowers everyone to shift from reading documents to having an interactive conversation with a PDF, generating summaries, extracting insights, as well as using it to compose visual presentations and reports.
+
+00:04:29:18 - 00:05:01:15
+不明
+We reimagine creativity for a broader set of customers with Adobe Express. The quick and easy Create Anything app, and we're bringing the powerful technology of products like Photoshop, illustrator, and Premiere to express to deliver the best of Adobe to customers of every skill. And we believe that the combined power of Acrobat and Express will make the journey from document creation to consumption smoother than ever.
+
+00:05:01:17 - 00:05:37:09
+不明
+With all of this explosive growth of content, Adobe has focused even more on bringing creativity and marketing closer together. Our goal is to help you create and deliver personalized content at scale across channels, from mobile apps to social media, email, as well as advertising, because we want you to build emotional connections with your customers and delight them with even more connected experiences that deliver greater customer loyalty, as well as lifetime value.
+
+00:05:37:12 - 00:06:10:16
+不明
+Adobe Gen Studio is our overarching vision to bring together creating and production workflow, asset management, delivery and activation, as well as analytics and insight for the entire content lifecycle. And so everyone from small and medium businesses, digital agencies to marketing departments in the largest enterprises can achieve high velocity creative expression with instant activation.
+
+00:06:10:19 - 00:06:50:14
+不明
+In 2009, our insight was that no other software company was exclusively focused on marketing professionals. We had a vision and passion to serve marketers with a comprehensive technology stack and created the digital marketing category. We started with Adobe Analytics and Adobe Experience Manager, Web Content management and analytics to empower every business to have a digital presence. We've continued to expand on that vision and have been investing for over a decade to serve marketers, IT professionals, as well as business owners.
+
+00:06:50:16 - 00:07:30:28
+不明
+And that was the motivation for us to build the entire Adobe Experience platform and bring together content, data and journeys in the pursuit of extending digital marketing to customer experience management. And thanks to our partnership with every one of you today, Adobe is one of the largest providers of marketing technology in the world. But in the era of AI, were even more focused on enabling you to truly unify creativity, marketing and generative AI so you can deliver those personalized, conversational experiences at a global scale.
+
+00:07:31:00 - 00:08:00:04
+不明
+It starts with a customer data platform that helps you create and manage your audiences through a unified customer profile that we can hydrate with. Content created through Gen Studio. The Adobe real time CDP, which is built on the Adobe Experience platform, helps you curate audiences for what we are now calling intelligent orchestration so you can deliver the right content to the right customer at the right time.
+
+00:08:00:07 - 00:08:23:08
+不明
+And the AI innovations that we're delivering, we believe, can supercharge your decision making with real time insights. So you can course correct at any point in your campaign to maximize performance. We're incredibly excited to show you all of the innovations that we're working on later this morning.
+
+00:08:23:11 - 00:08:54:07
+不明
+Adobe's highly differentiated approach to AI is rooted in the belief that creativity is a uniquely human trait, but that AI has the power to assist and amplify human ingenuity to enhance productivity. We've innovated across all four layers of this AI stack, spanning data models, agents, and interfaces because we believe that's the only way to deliver AI in a way that enhances your work.
+
+00:08:54:10 - 00:09:35:08
+不明
+We train our category leading Firefly models on licensed, high quality data assets to offer commercially safe solutions, and we enable enterprises to create your own custom models that leverage your assets as well as understand your unique brand value. But we also partner with other third party models including Amazon, Google, Microsoft and others, and we're now augmenting this data and model strategy with creative document and customer experience agents to reason as well as perform tasks and help you achieve your business outcomes more quickly.
+
+00:09:35:10 - 00:10:09:22
+不明
+And together, these formed the foundation of the Adobe AI platform, powering the applications and interfaces you use every day across your creative and marketing workflows. For us, the impact of AI on the creative and business community is deeply personal. It guides our approach to ensuring that we deliver trustworthy and transparent generative AI, and we're advancing industry standards for creator attribution with what we call content credentials.
+
+00:10:09:24 - 00:10:21:18
+不明
+And are thrilled that over 4500 members have joined the Adobe led Content Authenticity Initiative to promote content provenance.
+
+00:10:21:20 - 00:10:55:18
+不明
+Our mission to change the world through personalized digital experiences is more critical than ever before. And we're focused on unleashing creativity across every facet of digital experiences. Starting with the ideation around a concept to the creation and development of all content, to personalization and orchestration across every channel, while understanding its impact and reach. It's an incredibly exciting time to stand at the intersection of creativity, productivity, and marketing.
+
+00:10:55:20 - 00:11:29:21
+不明
+The transformation that we drive together starts with creative ideation that will redefine customer experiences for billions of people across every industry around the world. Thank you so much for spending time with us, and even more critical for inspiring us to do our best work. I'll now turn it over to Aneel Chakravarty, who's president of the Digital Experience business, to share how we are bringing together creativity and marketing to help accelerate your success in the age of AI.
+
+00:11:29:23 - 00:11:33:25
+不明
+Thank you and have a great show.
+
+00:11:33:28 - 00:12:39:10
+不明
+You.
+
+00:12:39:13 - 00:13:08:13
+不明
+Morning, everybody. Thank you. Shantanu. And hello, everyone. I'm thrilled to be here with you at Adobe Summit. We're really excited to connect in person with our customers, our partners and our community. And for everyone participating online. Thank you for joining us. What an incredible global community. Thank you again. Your work inspires us to innovate. Look at these amazing businesses on screen and we're excited to hear from them.
+
+00:13:08:16 - 00:13:34:19
+不明
+These industry leaders during our keynote, as well as the strategy sessions that follow the keynotes every day. And they're inspiring stories of companies showing us what's possible in customer experience, using our products to serve and delight their customers. And this just touches the surface of the terrific work being done around the world and across industries today by all of you.
+
+00:13:34:22 - 00:13:55:19
+不明
+Truly impressive. Thank you for sharing your story, said summit. We hear from you each year that the opportunity to connect with your peers is incredibly valuable. The best of the best are here at summit, so please take the opportunity to network, to learn and to share your expertise.
+
+00:13:55:21 - 00:14:29:04
+不明
+Shantanu talked about the evolution of Adobe. We created the digital marketing category 15 years ago and brought together creativity and marketing. It started with Adobe Analytics through our acquisition of omnichannel, and many of you have been our customers since then. We really appreciate the trust in the partnership. We then expanded our portfolio significantly with Adobe Experience Manager for Web Content Management and Audience Manager for delivering audience segments based on customer data.
+
+00:14:29:06 - 00:14:56:23
+不明
+Then, to enable digital customer journeys, we added Adobe Campaign for email marketing and it will be targeted for content optimization. We established digital marketing leadership on the three key dimensions content, customer data, and customer journeys. And these apps continue to be the foundation of digital marketing today. Let me give you a proof point. The Super Bowl lets just last month.
+
+00:14:56:25 - 00:15:40:00
+不明
+Many of you rely on Adobe to create and deliver the experiences that make your brand stand out during the big game. In fact, I'm pleased that the National Football League has named Adobe as an official fan experience partner of theirs. Just a few stats about the Super Bowl. Adobe Analytics processed over 1.5 billion server hits. We delivered over 550 million emails, while Adobe Campaign, as well as 1.7 million concurrent media streams, and Am supported over 500 million multimedia experiences, including dynamic images and video.
+
+00:15:40:02 - 00:16:11:21
+不明
+We have seen strong adoption of AMD cloud service with edge delivery services after launching it a year ago, helping you achieve the fastest web performance, gain more organic traffic, and increase engagement with your customers. And just last month, our customers created over 1000 new sites with edge delivery and over 300 companies have already adopted Am site Generate variations, which we launched last year to help you create and experiment using AI.
+
+00:16:11:24 - 00:16:21:14
+不明
+Another great example of creativity and marketing coming together. And thank you for trusting us to power your digital marketing.
+
+00:16:21:16 - 00:16:50:24
+不明
+By the mid 20 tens, we saw that our products were critical beyond digital marketing. They were essential for the entire customer lifecycle from acquisition to engagement to retention to loyalty. So we created the category of customer experience management to help you address the convergence of digital marketing with the end to end customer experience. We introduce new best in class applications, including Adobe Commerce, and it will be Marketo Engage.
+
+00:16:50:26 - 00:17:02:17
+不明
+And a couple of years later, we added Wealthfront to our portfolio to help you organize marketing workflows and to serve as the foundation for your content supply chain.
+
+00:17:02:20 - 00:17:32:02
+不明
+Then in 2019, we launched the Adobe Experience Platform with unified customer profiles to deliver real time experience, which is critical to help you achieve the vision of customer experience management. We built new apps natively on ERP to help you enable this real time CDP customer journey analytics Adobe Journey Optimize your and mix modular. It has been an incredible success.
+
+00:17:32:04 - 00:18:10:19
+不明
+Thank you for working closely with us to continuously drive that innovation and industry leading performance today. ADP manages over 43 billion profiles. On your behalf, we activate at peak each day over 76 billion activations. Consistent real time performance with less than 100 milliseconds response time. Each day 14 billion engagement events on the edge and 1.2 trillion experiences activated every year across offers, push messages, emails.
+
+00:18:10:21 - 00:18:31:08
+不明
+We're now further expanding access to the Adobe Experience platform. AP runs on Azure today, and we're really excited that app is also coming soon to Amazon Web Services. You asked for multi-cloud support and we are delivering. This is really cloud scale that you can count on. Thank you.
+
+00:18:31:10 - 00:19:06:01
+不明
+And the goal is to be built from the ground up to be secure, trusted and extensible. And all of this was created with a singular focus to help you achieve the imperative of personalization at scale, real time personalization to hundreds of millions of consumers and thousands of businesses, something that is only possible by seamlessly integrating your content supply chain and stitching customer data and journeys into a unified customer experience.
+
+00:19:06:03 - 00:19:38:08
+不明
+Today, though, we're in the beginning, the early innings of a new era defined by generative AI and agent technology. It means that customers expect seamless, connected, real time, two way, personalized conversations with your brand across any touchpoint, across any channel, of course, while respecting their individual preferences and their privacy. To deliver on this, you need to actively orchestrate.
+
+00:19:38:10 - 00:20:10:27
+不明
+You have to orchestrate across your teams, your AI agents, your apps, your workflows, your partners. You got to bring all that together while keeping your business goals, your growth goals front and center. I wanted to mention this is now the era of customer experience orchestration, where your content, customer data, your journeys all work in harmony with the AI and so you anticipate what your customers want.
+
+00:20:10:29 - 00:20:52:10
+不明
+You engage in natural language conversations across any channel. You respond in real time and you continuously delight them. And this is the era where you pinpoint your marketing and your customer experience investments to the things that matter the most to your customers. You ensure that your tech stack and your processor, you know they're most efficient given the current environment, and ultimately you supercharge customer acquisition, engagement, retention, and growth by delivering personalization specific to every individual, whether they're a consumer or whether you're a B2B business.
+
+00:20:52:12 - 00:21:19:01
+不明
+To achieve this true 1 to 1 personalization at scale requires a perfect blend of creativity, marketing, and AI. I know this is a formula that we know firsthand at Adobe with our own digital business through adobe.com. In fact, it's critical to how we run our own digital business and we built the Adobe AI platform based on that. It informs our innovation agenda and our product strategy.
+
+00:21:19:08 - 00:21:43:12
+不明
+And we'll be sharing more of that throughout the course of summit. Now, in the meantime, there's no better way to bring what we have discussed to life than through a real world example, in this case with one of the most iconic brands in the world, Coca-Cola. The Coca-Cola company is rightly recognized as a leader in creativity and marketing.
+
+00:21:43:14 - 00:21:55:00
+不明
+So I am really excited to welcome Shantanu back to the stage with the chairman and CEO of the Coca-Cola company, James Quincey.
+
+00:21:55:02 - 00:22:23:23
+不明
+Thank you, James and Shantanu. It was outstanding, wasn't it? Really terrific insights for all of us from an industry powerhouse on leadership brands and bringing creativity and marketing and AI together to serve the bigger purpose. As James and Shantanu discussed, the opportunities for AI in marketing are significant. Generative AI and genetic technology have the potential to transform creativity and marketing.
+
+00:22:23:25 - 00:22:48:06
+不明
+And I drew Adobe. We have accelerated our innovation engine to help you gain the maximum value from these technologies. Shantanu talked about the Adobe AI platform. Our focus is squarely on the genetic offerings that are purpose built for customer experience, orchestration. And our approach removes bottlenecks and dramatically increases your capacity, enabling your teams to focus on their unique strengths.
+
+00:22:48:06 - 00:23:18:20
+不明
+The kind of strengths that James talked about creativity, marketing strategy, business insights and customer delight. So today I'm excited to announce the Adobe Experience Platform Agent Orchestrator. The Agent Orchestrator provides the foundation to enable you to unlock the full potential of agent capabilities and deliver through one on one personalized experiences at scale by building the Agent Orchestrator natively on ADP.
+
+00:23:18:22 - 00:23:53:06
+不明
+We are delivering the trust, the transparency, security, and the guardrails you need to incorporate gen AI with complete confidence across your customer experiences. Now, we believe that agents need to be open and extensible, so we are providing orchestration across both third party and your agents that you have built, as well as our own purpose built agents. And we are committed to interoperability to ensure that our agents are easily accessible in other orchestration environments.
+
+00:23:53:08 - 00:24:29:24
+不明
+So let me walk you through a couple of the critical elements of the app agent orchestrator. First, purpose built agents. Today, I'm excited to announce a set of ten new purpose built agents, with others coming soon. And together, they will supercharge your team's capacity to deliver personalized experiences at scale by an order of magnitude. Each customer experience agent addresses a specific area where marketing and KCS teams are overburdened, and where your current processes can become bottlenecks.
+
+00:24:29:26 - 00:24:42:24
+不明
+The agents help you deliver specific business outcomes and free your teams to focus on the work that matters most. So let's take a closer look at a couple of these agents.
+
+00:24:42:26 - 00:25:11:17
+不明
+The site optimization agent serves as a powerful ally for product owners, marketing managers who are responsible for the overall performance and business impact of their web experiences. The agent keeps the web experiences operating at peak performance, but finding opportunities to optimize the site and then executing on those optimizations across your web experiences, including page speed, traffic acquisition, engagement and conversion.
+
+00:25:11:19 - 00:25:45:12
+不明
+The site optimization agent is able to identify optimization opportunities, including current site implementation, your content, and your code repositories, traffic and engagement, and page speed performance, and then suggests prescriptive code and content enhancements to automatically capitalize on those optimization opportunities. And importantly, it can assist marketers in deploying these recommendations through an automated workflow. So every APM customer, we believe should really check out the site optimization agent.
+
+00:25:45:14 - 00:25:53:14
+不明
+It can have a significant impact on the performance of your web properties.
+
+00:25:53:16 - 00:26:24:11
+不明
+Let me take a look at the second one. The audience agent. It's a perfect partner to marketers and martech ops teams, streamlining the complexity of audience management and optimization, finding the right audience. We all know it's hard. The audience agent assists practitioners who manage hundreds or even thousands of audiences by curating and segmenting target audiences. Defining personas for campaigns and optimizing audience targeting.
+
+00:26:24:13 - 00:27:12:18
+不明
+So with capabilities like detecting audience anomalies, identifying overlapping or duplicate segments, and analyzing engagement behaviors and conversion signals, the audience agent aligns the best target audience to your business goals. And it simplifies audience creation and refinement based on audience sizes, identifying growth opportunities, and leveraging expansion in lookalike models. So by automating these critical tasks, the audience agent enables audience specialists, campaign managers, marketing operations teams to focus on more strategic aspects like growing and retaining your key audiences, ultimately driving more effective and impactful marketing initiatives.
+
+00:27:12:21 - 00:27:50:29
+不明
+Again, runs on ERP, and every real time CDP and Adobe Journey optimize. A customer should really check out the audience agent. So I gave you flavor of these two agents. So there are ten new agents. The second critical element of the agent orchestrator is multi-agent collaboration. The agent orchestrator uses adaptive decision making to coordinate across multiple agents. Again, agents in our family of agents, as well as ones that you have in your ecosystem to accomplish key goals while balancing computational efficiency, execution time, and resource utilization.
+
+00:27:51:02 - 00:28:28:12
+不明
+The third key aspect is the reasoning engine, which uses inference models, processes, context specific data constructs, predictive models, and builds orchestration plans to understand the consumer's intent and make decisions to continuously optimize towards a goal. And finally, the customer experience models. These are proprietary, fine tuned small language models within the agent orchestrator that are grounded in your data and use cases, while maintaining your privacy and your data governance.
+
+00:28:28:15 - 00:28:46:02
+不明
+And they are essential to maintaining precision and high quality in chain of thought, reasoning. So that's what makes it possible for them to understand intent, avoid hallucinations, and clearly explain their reasoning if required.
+
+00:28:46:04 - 00:29:00:03
+不明
+So, based on the agent orchestrator. Today I'm pleased to announce a brand new agent gap. The Adobe brand concierge.
+
+00:29:00:06 - 00:29:34:21
+不明
+Built on the agent Orchestrator brand, concierge will help you configure and manage AI agents that guide your consumers and your customers from exploration to purchase to loyalty. It enables real time, immersive and personalized experiences. It's multimodal, supporting interactions across text, voice, images and video. And because it's powered by content from AEM and insights from ADP, the Brand Concierge helps you personalize every engagement based on the customer's preferences and previous interactions.
+
+00:29:34:23 - 00:30:08:26
+不明
+It's all anchored in first party data to ensure reliability and brand compliance. So as you embrace AI to supercharge the daily work of your teams and drive business growth, the interoperability between the AI agents in different ecosystems will become critical. We are working with leading software companies, cloud platforms, SES agencies to deliver the interoperability you need for customer experience orchestration.
+
+00:30:08:28 - 00:30:38:24
+不明
+And with these partners, we will support agent use cases across the customer lifecycle, including marketing, customer service, ERP, HR, collaboration and productivity and data management. So let me highlight a couple of them. With Microsoft, we're developing the Adobe Marketing Agent for Microsoft. 365 Copilot. This will enable marketing practitioners to interact with content, journeys, data, and insights from Adobe apps using natural language prompts.
+
+00:30:38:27 - 00:30:58:17
+不明
+Why are the Copilot directly in the Microsoft 365 apps that they're using? Word, PowerPoint, and teams? So I encourage you to check out the video that Satya Nadella just posted on LinkedIn today about how he's excited about the Adobe marketing agent working with Microsoft Copilot.
+
+00:30:58:19 - 00:31:27:01
+不明
+With SAP. We're working to combine Adobe's experience, orchestration and AI technology with SAP's business suite. This will help you uncover new insights and create experiences through genetic interactions. For example, a marketing practitioner who's analyzing campaign all the way could be prompted by the Adobe Data Insights agent to incorporate cost data from SAP and get a better view into the ROI.
+
+00:31:27:03 - 00:31:57:22
+不明
+And with ServiceNow, Adobe and ServiceNow all working to bring together a genetic AI for connected service and marketing by integrating Adobe's expertise in customer experience with the Now Assist framework. You will be able to automate generic workflows and deliver personalized experiences at scale. Our collaboration with ServiceNow has the potential to help you drive significant productivity gains and unlock new insights.
+
+00:31:57:24 - 00:32:08:09
+不明
+We will actually have ServiceNow as Chief Marketing Officer Colin Fleming with us in tomorrow's keynote, talking about the great work that he and his team are doing.
+
+00:32:08:11 - 00:32:44:22
+不明
+So that's the overview of our comprehensive portfolio to support you with best in class apps, a real time cloud scale platform, and now agent orchestration. Purpose built agents designed specifically to support the high value cases, you need to deliver compelling customer experiences, all built on a strong agent ecosystem. These are the ingredients that you need to deliver on that promise of bringing creativity and marketing and AI together for personalization at scale.
+
+00:32:44:25 - 00:33:13:12
+不明
+To share how we can put this to work for you, and to share a little more about how where Adobe's headed in the future. Let me welcome our own Chief Marketing Officer, Laura Ballas. Laura and her team are customer zero for our products, and they are the heart of creativity and marketing and AI coming together. So Laura, over to you.
+
+00:33:13:14 - 00:33:38:01
+不明
+Thank you so much, Nell, and it is so awesome to be here on this summit stage. Before I came to Adobe, I was a customer of Adobe's for many years, and I spoke at summit. So you can imagine how excited I am to be here today. And to be running the global marketing organization that puts this event on with all the beautiful imagery.
+
+00:33:38:08 - 00:34:13:06
+不明
+So excited to be here. And part of summit. I am what you call a career marketer. I've had the privilege to work at terrific brands and products, lifestyle brands and fintech, B2B, B2C and no matter what industry, no matter what industry, what really works in marketing is the creative. It is today's innovation that's fueling creativity and marketing coming together to make an impact.
+
+00:34:13:09 - 00:34:55:14
+不明
+I believe. I truly believe that when creativity, marketing and innovation come together, it brings us together. It inspires us, and it transforms the world around us. It's that ability to tell amazing stories, compelling stories with breakthrough images, video, sound design that creates personal connection. And it's that at Adobe that fuels our teams to innovate, to push the envelope and to deliver people tools that not only delight them but expand their creativity.
+
+00:34:55:16 - 00:35:24:28
+不明
+And it's what we're building our AI platform and service to. Just look at this beautiful, creative. It's eye candy. As marketers, as creators, we love it. We're inspired by it. But importantly, when our consumers and customers see it, they're inspired and they take action. I've never loved my job more because of all of this, but I know that this job is not easy.
+
+00:35:24:28 - 00:35:51:28
+不明
+Being a marketer is not easy today. Trust me, marketing has been transformed at a velocity that we never thought possible. Generally driven by generative AI and a lot of technology that's been coming to the forefront. Along with this, we have social media apps, mobile apps, digital platforms beyond what we ever expected. And that's great for us as consumers.
+
+00:35:51:29 - 00:36:27:25
+不明
+We love it. We love to ingest all of this content, but breaking through is harder than ever before. So you have to find meaningful ways with creative that stands apart. It is a mandate. Personalization at scale is a mandate. Marketers know this. They don't get on board. They're going to be left behind. And we know that the companies that adapt, that adopt the technology, they will see cost savings and they will scale further and faster than they ever thought possible.
+
+00:36:27:27 - 00:36:57:08
+不明
+We know because we have experienced it firsthand. Just like you, we have in-house creatives working with marketers, working with agencies, working in teams, and we struggle to keep pace with the volume, the variety, the quality of content that is required to fill today's digital channels. We've gone through the long process to create that content where you brief idea, collaborate, review, you go back again.
+
+00:36:57:08 - 00:37:37:14
+不明
+It can take weeks, sometimes months to land. And we know that that is just not acceptable in today's environment. That's so fast moving. So we at Adobe, we said, okay, this is not good. We're going to take this as a challenge. We realized stepping back, the process really hasn't changed for about two decades. So we thought, let's take the power of our AI driven tools like Adobe Firefly to deliver new creativity, new agility, new fluidity, bringing teams together to create breakthrough work that is on brand, on brand importantly and commercially safe.
+
+00:37:37:16 - 00:38:02:13
+不明
+So we were inspired to embark on a new project. We call it Project Catalyze, a project with a vision to create a digital ideation space, a tool that can reinvent campaign ideation. We believe it could be a game changer for companies. So let's right now let's take a look at what this could look like. We're going to show you a workflow and a campaign.
+
+00:38:02:13 - 00:38:26:17
+不明
+We created a real campaign. It did take months. But you can see how now you could in the future. It could take just record speed. Sloan is a brand manager who needs to kickoff creative campaign ideation. She turns to a new AI driven tool by Adobe. Her goal to drive awareness of Photoshop's gen AI capabilities for creative professionals.
+
+00:38:26:20 - 00:38:57:11
+不明
+I suggest a simple and best practice structured to guide the ideation, and Sloan is ready to jump in. The tool surfaces high performing social posts with key performance data and insights in order of impact. The biggest takeaway? Helping people unlock imagination and fun ways that drive engagement. Sloan invites her colleagues into the campaign board to collaborate. Now the team is reviewing key insights, dropping in notes and refining the campaign around the theme.
+
+00:38:57:12 - 00:39:23:02
+不明
+Imagination unlocked. They're guided to the next step to better understand the target audience. Creative professionals. The tool next surfaces details on the target audience and based on the data they're seeing. Sloan and team discuss how to break through and social channels. The tool responds, finding opportunities that suggested focus on video formats based on past and predictive engagement from this audience.
+
+00:39:23:05 - 00:39:47:18
+不明
+The tool now generates suggestions for messaging and content options using past campaign language, audience insights, and previous high performing content. The team selects key elements. The tool generates a mood board to guide the brainstorm on the campaign's central ideas. Pulling in brand approved assets and generating new ones that align with the campaign direction, the team loves the concept.
+
+00:39:47:21 - 00:40:56:24
+不明
+Ready to engage the agency? Sloan generates this multimedia brief and video example asset with other reference content, all shared from this collaborative ideation space.
+
+00:40:56:27 - 00:41:23:25
+不明
+All right. So that's pretty cool, right? Well, like I said, that beautiful campaign, it did take months to create, but you can see how this would take days, maybe less than a day. So we're excited about the possibility of this tool. And what I really love about it is that we could take it here and show it for the first time, get your feedback, because you are really the best audience to give us that feedback.
+
+00:41:23:27 - 00:41:59:25
+不明
+So with that, I have to say I could not be prouder to be part of Adobe, that trusted partner who's always looking around the corner and understanding how things can be done for the better using creativity marketing. And I. And now I want to welcome my colleague from our digital media business to the stage, David Wood. Wante. And what David is going to do is he's going to show tools that we have today that help you manage this entire supply chain of content.
+
+00:41:59:28 - 00:42:13:02
+不明
+So you'll see it all come together. Thank you so much, David.
+
+00:42:13:04 - 00:42:19:18
+不明
+Thank you. Laura. How's everyone doing?
+
+00:42:19:20 - 00:42:58:12
+不明
+You guys want to see some product? No product for that. You guys want to see some product? Okay. Thank you. Thank you. Now, you've heard a lot from Shantanu and Nikhil and Laura about content today, how content is fueling your growth and the growth of the global economy, how digital content is absolutely exploding, and the best way to stand out is through personalization and how the world and social in particular, is increasingly dynamic, and how the speed to market can make all the difference for your companies.
+
+00:42:58:15 - 00:43:25:06
+不明
+But personalization and agility is really hard at scale. You need a lot more content. As everyone talked about, you need tons of variance because a single hero asset turns into thousands of variations when personalized across products and geographies and languages and demographics. You need to refresh that content very frequently because it's shelf life is getting shorter every single year.
+
+00:43:25:06 - 00:43:52:22
+不明
+In fact, studies now show that efficacy on social of your content drops after just a week, and you need it to be cost effective. Because unlike the demand for content, your budgets are not growing as fast and you have a lot of pressure to demand to deliver that content with less budget and more efficiency. But with all of that demand and all of that intensity that you all feel.
+
+00:43:52:25 - 00:44:30:01
+不明
+Studies are suggesting that creatives are spending 21 hours a week on repetitive design tasks that could be automated, and that 80% of large companies say that they don't have end to end visibility over the end to end campaign supply chain. And that's why we built Gen Studio and all of the solutions that wrap that Gen Studio is a solution that helps you control your content supply chain all the way from workflow and planning and ideation to creation and production to delivery and activation, to reporting and insights.
+
+00:44:30:03 - 00:45:05:01
+不明
+Gen studio gives you end to end visibility across all of your campaign activities. That's also why we built Firefly Services. And you heard me talk about this earlier. Firefly services is a solution that helps you produce content at scale. Firefly services lets you train on your own custom models for your own proprietary content, and it provides you with a broad array of generative capabilities through automation like image generation, video generation, voice vector translation, and a lot more.
+
+00:45:05:03 - 00:45:30:18
+不明
+Now, as Laura mentioned, I run the digital media business at Adobe. The digital media business is about 17 billion, and it includes all of our creative products. And we sell those creative products to a lot of audiences in a lot of different countries, through a lot of different channels. And our biggest conference is called Adobe Max. It's a lot like summit, but it's for creative professionals.
+
+00:45:30:18 - 00:45:53:08
+不明
+So fewer beards and more tattoos and Max London is just four weeks away. And I thought it would be interesting to show you how we're using Gen Studio to build our campaigns to promote Max London. Now, as you can imagine, we are customer zero for almost everything that we talk about at summit, including Gen Studio and Firefly Services.
+
+00:45:53:08 - 00:46:19:00
+不明
+So our teams right now are in the throes of prepping and deploying that campaign, and we're going to run through all of that process and where they are right now in the content of creation. We're going to start by talking about how we did planning and work front will then turn our attention to creation and production using our Creative Cloud applications like Photoshop, to deliver and develop the hero assets.
+
+00:46:19:02 - 00:46:44:09
+不明
+We'll talk also about Firefly services and how we use it to quickly scale production. We'll next talk about how we deliver and activate content using Express and Gen Studio for performance marketing. Before getting to the metrics and insights and now ultimately how we use that insight to actually improve future campaigns. Now, one thing I want to call out is that we deliver content in two ways.
+
+00:46:44:11 - 00:47:07:23
+不明
+The first is what we refer to internally as agile delivery. We create content to empower our employees and our partners to personalize and distribute more and more on brand content in their own voices, to their own audiences. And second, we follow a more structured process for performance media. And we're going to show you both of these in the demos ahead.
+
+00:47:07:24 - 00:47:28:20
+不明
+So let's get started. At the beginning, we now want to start with how we create a content brief ad that launches tasks and actually gets the process for developing the campaign. And motion. And for that, I want to welcome up an and is going to play the role right now of a marketing ops manager. And thanks, David.
+
+00:47:28:23 - 00:48:00:20
+不明
+I am so excited to walk you all through the Adobe Max London 2025 campaign, leveraging Adobe Gen Studio and the content supply chain solutions that enable content velocity, scale production and end to end campaign delivery. Now, as a marketing and operations leader, I typically spend every day chasing everyone and everything. With Adobe's recent innovations, I'm able to streamline mine and my collaborators work, and I do this by starting and work from planning.
+
+00:48:00:23 - 00:48:25:17
+不明
+Work from planning allows me to see the full and end campaign delivery. I can see what's in flight and what is still being planned. It shows me my plans, how I want to execute on those plans, and attaches marketing and metadata governance. And for today, we're going to spend our time in this Adobe Max London campaign. I've already done quite a bit of work, but there's still some left to do.
+
+00:48:25:19 - 00:48:50:09
+不明
+So jumping in, I have a full view of my campaign. I have the brief content projects and of course key collaborators. Now the brief is the foundation of every great campaign. It lets everyone know the expectations and how I want the goals to work. So right now I've added ingredients like objective purpose, persona, key messages and channels. This is looking really good.
+
+00:48:50:12 - 00:49:16:20
+不明
+Jumping to content I have everything, every asset connected to my campaign. And what I'm really excited to show you today is the AI powered content Advisor. There's already eight assets that have been found. And a little bit about how this works. It's taking my campaign metadata, historical performance and context to let me know what might work well in this campaign.
+
+00:49:16:22 - 00:49:47:07
+不明
+Let me take a look. These first four are looking really good. Let's select those and then add them to the campaign. Now, these are here for reference to let everyone know and align on creative delivery. Now one of the hardest things about running a successful campaign is streamlining and tracking the work. Luckily with Adobe Work Front, we have automated AI powered templates that I use to start this campaign.
+
+00:49:47:09 - 00:50:07:19
+不明
+And these templates pull from my organizational templates. Now I use the corporate event template right here. With a few tweaks, I now have a full project plan. When I'm ready to kick off the next piece of the project, I just select where I want to go. Asset production is where we're headed. And then I simply switch not started to ready.
+
+00:50:07:21 - 00:50:27:01
+不明
+And this sets off a whole bunch of automation including emailing. Was notifying all the other stakeholders that we are in the next phase and that creative has started. Back to you, David. Great. Thank you. So one of our you can give her.
+
+00:50:27:03 - 00:50:44:00
+不明
+But I will tell you, this has changed our lives. One of our, campaign managers at Adobe talked about kicking off a campaign is playing a game of duck, duck, goose. You go and you tag the creative person in, and they run away from you as fast as they can because they have so many other things to do.
+
+00:50:44:00 - 00:51:08:29
+不明
+So now, with the streamlined brief, we have the ability to, onboard, an entire campaign and assign tasks out based on what we know people are already working on. But we're not alone. We've seen an enormous benefit from this. But we're not alone. We have thousands of customers that are using work front for this very purpose. T-Mobile, as you see here, streamline and their task management and their review and approval process.
+
+00:51:09:01 - 00:51:26:13
+不明
+So it's been a huge shift for us and everyone using it in terms of the efficiency and the alignment we have across our company and across the supply chain. Now that the campaign has kicked off, the notification has gone out to the studio team, and the studio team is now going to go build the content that we need.
+
+00:51:26:13 - 00:51:48:24
+不明
+Now, before we demo that, I want to make sure everyone knows what Firefly is. We talked about it a little bit, but let me spend a little bit more time on it. Firefly is our family of generative AI models. Things like images and videos and vectors, voice and design and more. Everything that you produce in fireflies.
+
+00:51:48:24 - 00:52:14:26
+不明
+Commercially safe. So everything you see us demoing here is something that you can use, not just for ideation, but actually in production as well. And know that you're protected from IP issues. It's also highly customizable. As I talked about earlier, this idea that you can train Firefly on your own custom models and develop your own training models so that you can take content that is proprietary to you and make sure Firefly is able to generate that content.
+
+00:52:14:26 - 00:52:32:14
+不明
+So let's take a look at, how all of this happens. Please, invite Wes on stage. He's going to play the role of a creative professional in the studio team, and he's going to create and publish content to express and then and is going to change hats. And she's going to be a regional marketer in Europe.
+
+00:52:32:16 - 00:52:55:15
+不明
+And she's going to show how she can take the content that Wes creates and actually use it to run regional campaigns. Wes. Thanks, David. So as a creative on our on our studio team, I'm responsible now for updating the templates for Adobe Max London and have received a notification here in in in my email. Now I'll have an over to Photoshop where I have the original templates from Max Miami.
+
+00:52:55:17 - 00:53:15:25
+不明
+So the design is still good, but we want to switch out the artwork which you can see in the bottom right. Now let's go take a closer look. Now. It's a beautiful piece of course, but perhaps it's a little bit tropical for London. No problem. I can go and create a brand new image with Adobe Firefly. Let's head on over to firefly.com.
+
+00:53:15:28 - 00:53:37:28
+不明
+And the first thing I'm going to do is I'm going to select my Adobe Max backgrounds custom models. And so what this means is when I enter my prompt an abstract cityscape and hit generate, I'm now going to get a brand new image in the max style. All right. Looking pretty good. But now let's let's dial it in a little bit further.
+
+00:53:37:29 - 00:54:01:28
+不明
+How about this. Of landmarks from London, England and generate. So again in a few seconds I now have a brand new set of images commercially safe on brand and on demand. So I mean, we can keep going with this, but I'm going to pick this one here with the Tower Bridge in the bottom. Copy that. Over to my clipboard.
+
+00:54:02:01 - 00:54:23:13
+不明
+Head on back to Photoshop. Paste that in and then when I save it up. Bam! That new background rolls over across my entire design. We can even see we've got the Tower Bridge here in the background. So this is perfect. This is exactly the type of rebrand that I want to do, and I want to be able to take these designs and give wide access to it across the company.
+
+00:54:23:20 - 00:54:43:06
+不明
+For my colleagues in sales, marketing, communications, and so on, to be able to craft their own on brand messages with without losing control of the design. And I can do that effortlessly with Adobe Express. So I can head on over to Adobe Express. We're now going to upload my Photoshop document.
+
+00:54:43:09 - 00:54:59:08
+不明
+And once I've brought it in, I can now set the precise level of creative flexibility that I'd like to be able to offer my colleagues now. I don't want them changing the logo, for example. So I'm gonna lock this, but I do have a placeholder image when I want them to upload their own photograph of themselves and change that.
+
+00:54:59:11 - 00:55:20:16
+不明
+So we're going to lock that, but allow to replacement. Of course we're going to need a title. So let's keep it in place but allow them to change what it says. So with these creative guardrails in place, I have confidence that we're going to have on brand content. I can now share this design as part of my Adobe Max brand library, for my colleagues to be able to get access to to it.
+
+00:55:20:18 - 00:55:54:05
+不明
+And I can also put some additional creative controls here. So for example, stick to the Adobe colors, use Adobe fonts, don't add anything new to the composition, and don't take anything else away. And with those guardrails in place now, I have the complete confidence that I'm able to democratize this design across the entire company for teams everywhere, to be able to use it and colleagues like an teal to craft their own on brand messages with excellent.
+
+00:55:54:08 - 00:56:16:06
+不明
+Excellent. I have so many amazing templates from West. And as a marketer in Europe, I need to send specialized messages out across Europe to a bunch of different people. And with these designs and layouts, I can do just that. Picking the one I want. I can preview it and then use it. And now here I can easily see what I can't change and what I can.
+
+00:56:16:13 - 00:56:44:18
+不明
+The first thing I'm going to do is replace the image. I just go to replace image. And I have all of my assets attached to my project. I'm looking for Bart and it's right here. So I Adam. Now update the speaker name Art div and Will. Great. Now the speaker session discover new face okay and Photoshop, illustrator and InDesign.
+
+00:56:44:20 - 00:57:09:01
+不明
+Great. This is looking fantastic. Now from here, I need to send this out all over Europe, which means I need a bunch of different languages. And luckily I have the ability to translate right here. I go into translate and I simply select the languages I need. Now I'm going to start with French. German. Let's do Danish, Dutch and Finnish.
+
+00:57:09:04 - 00:57:34:23
+不明
+Excellent. I have my languages and then I translate. Fantastic. I have all of them here. Let's just spot check a few French and German. Looking good. Now I have this full set ready to go. Now from here, I could easily share for approval. Connected natively to work front or download and downloading would allow me just to post it and go.
+
+00:57:34:25 - 00:57:56:25
+不明
+Now this is an awesome single extension of express, but there are so many more. So going back to our designs, I can see all the different layouts and I'm going to show you a few ways my colleagues have used these. Starting first with a sales colleague that wanted to send out specialized agendas to all of their clients and customers, they can do that right here.
+
+00:57:56:28 - 00:58:25:20
+不明
+Next, a corporate communication friend looking to update the internal website and email banners for our employees. To learn more about the Adobe Max London. And last, a product marketing manager looking to send out on LinkedIn a specialized post about their session. All these different activations from super, super simple, easy to use designs and layouts that are ready on brand and within creative guardrails.
+
+00:58:25:23 - 00:58:30:27
+不明
+David. Thank you Wes. Thank you. M.
+
+00:58:30:29 - 00:58:54:14
+不明
+This agile production flow that we talked about is having huge benefits to us, because it frees up our studio team to do what's most important, and it empowers all of our employees and partners to be advocates for our brand and our activities. In fact, if you, Red hat, we have thousands of customers using this today. Red hat doubled their campaign capacity when they started using express.
+
+00:58:54:14 - 00:59:26:25
+不明
+So really encourage all of you to give this a shot too. All right. So now let's take a look at the more structured flows and how we create content at scale for those. As we mentioned Firefly services. And Mark, in fact, we launched Firefly services a year ago at summit. And it's been an amazing year. It's probably one of the fastest adoptions I've seen of a product in enterprises, but the top requests that we've had is that it's been great to use Firefly services to generate all kinds of variants that you can use in production at scale.
+
+00:59:26:28 - 00:59:45:29
+不明
+But the one missing piece that everyone seems to want is video production and reframing and resizing of video. So you can do video at scale because it is the most, cost, impactful change that we could do. And as we all know, video performs incredibly well. So with that West, let's show them what we're doing with video and Firefly services.
+
+00:59:46:01 - 01:00:05:04
+不明
+Sounds good. All right. So with the, with the templates out of the way, it's time to turn my attention to scaling video production for our international audiences. Now, here's the catch, though I only have one source video to work with from Max London. Finished already. I'm going to roll it for you to see what we're working with.
+
+01:00:05:07 - 01:00:18:27
+不明
+Adobe Max London get inspired by industry leading experts, learn practical techniques and explore the latest trends and tools. In-person attendance is limited, so first.
+
+01:00:19:00 - 01:00:38:17
+不明
+All right. So it's a it's an awesome video. It's 16 by nine. It's finished. And it's in English. And I've not only got to be able to take this message and put it in multiple different languages and different aspect ratios for different channels, which is an extremely time consuming process. Pan, track, zoom to say nothing of organizing the effort around translation.
+
+01:00:38:19 - 01:01:05:22
+不明
+But now, thanks to Firefly services, I've been able to greatly accelerate the workflow. So let's start on the left. You can see my inputs. The video we just watched, the aspect ratios that we're going to go into, the ten different languages that we're going to translate, as well as my campaign. And on the right these are the steps which are now Adobe Firefly, which I would normally have to do as a creative by hand, creating static titles, translating video reframing, and then sending the results for review.
+
+01:01:05:22 - 01:01:30:05
+不明
+But now Firefly services. Let's check it out. So behind the scenes, here's what's happening to the video. We're taking that audio and we're separate it into music and to dialog the dialog. We're translating it and then dubbing it into ten different languages, putting it back together. And with a video, we're going scene by scene, pan track zoom normally heavily manual now automatic now it's it's very fast and it's powerful, but it isn't instantaneous.
+
+01:01:30:05 - 01:01:46:24
+不明
+Video stills takes time to process. So I'm going to skip ahead and show you some of the results that I computed earlier. So here I am in Frame.io our collaboration surface for review. And you can see I've got my results. Different aspect ratios, the different languages are represented. And I want to show you here this one in French.
+
+01:01:46:27 - 01:02:10:15
+不明
+So you'll notice before I start it's now square. The action is front and center. The dialog is in French. And well let's take a look at the Max laundress. Let's dispute about this. Failed. And I just picked up the technique Fatigue Explorer participation person unity I love this. It'll be.
+
+01:02:10:18 - 01:02:16:19
+不明
+Now off. Yeah, yeah.
+
+01:02:16:21 - 01:02:33:18
+不明
+And I mean, I want to emphasize this isn't movie magic. This is the real deal. I made these outputs with the APIs, so it's amazing. Now let's take a look. One more. We're going to squeeze this a little bit more extreme with a nine by 16 vertical ratio for your for your tall phones. And the language is in German.
+
+01:02:33:18 - 01:03:02:20
+不明
+Let's take a look. Adobe Max London Lessons is infused in an expert in its even practitioner technique and can and other device contents and tools. The opportunity now is the guidance as accountancy. All right pretty cool. Yeah. So that's that's two languages down. There's only eight more to go south now okay. All right. But now since since we started from work front I still have all the context.
+
+01:03:02:20 - 01:03:25:02
+不明
+Right. So for all the campaign metadata that I can be able to attach for Findability and track ability as well as content authenticity credentials to to for provenance. Now that's just video. Firefly services is multimodal. We have digital imaging. We just saw audio and video. We can do print and coming soon in 3D. And so massive assembly work, multivariate content creation.
+
+01:03:25:02 - 01:03:45:00
+不明
+Firefly services Forte. So again another example here where we've created a bunch of different banners at scale, targeting different audiences with different messages across different time periods and different channels. ET cetera, et cetera. And we have, of course, the original layer documents, because it is, in our creative tool. So we can bring them back if we need to make any last mile edit.
+
+01:03:45:00 - 01:04:10:13
+不明
+So I still have complete creative control. So once I give my creative approval on my assets, they're now packed up and shipped off to the destination where they're needed. Am assets, content hub or any other platform where we need it. And now my team can go pick it up and run with it in their activations. And this is the power of Firefly Services helping me create content at extreme scale and still keeping me in complete creative control.
+
+01:04:10:15 - 01:04:14:13
+不明
+Right? Thank you Wes.
+
+01:04:14:16 - 01:04:44:06
+不明
+So Firefly Services has been an absolute game changer for us. Those kinds of processes in the past would take us months and frankly, be somewhat error prone. But now it happens in minutes or hours, and it's really made us much more agile in terms of what we can do. In fact, you see that it's actually made us, much more effective, not only in terms of the speed with which we generate things, but also it's giving us a 30% lift in open rates when we send these, because we're able to do more of them and personalize them, much more effectively than we were in the past.
+
+01:04:44:08 - 01:05:05:14
+不明
+And we're not alone. We have agencies, around the world picking up Firefly Services and Gen Studio to make sure that the content that they're working with you on is increasingly effective as well. Monks, as an example, use Firefly services and reported a speed up in content delivery and a 78% increase in click through rates for one of the campaigns they ran for for a client.
+
+01:05:05:14 - 01:05:24:15
+不明
+So, video support is now available. This really is a game changer and excited to see what you do with it. Now we have all this ability to create this content at scale now. So the question is how do we start to take that content and deliver it more effectively. So and is going through all of our personalities on stage now.
+
+01:05:24:15 - 01:05:53:02
+不明
+She's actually a performance marketer. And so Anne is going to show us how she uses Gen Studio for performance marketing to to take all this content and actually deliver and activate it and great. So as a performance marketer, I need a ton of variations to ensure the greatest return on performance, media spend, and with everything we create, I have that all right here, including the banners, scaled video, social everything is here.
+
+01:05:53:05 - 01:06:17:14
+不明
+But unfortunately what I want to test was didn't create. What I think would perform really, really well is this countdown to max content. But with video and I don't have that. Luckily, with Adobe Gen Studio for performance marketing, I can create and test that right here. I simply find the asset, go to Create Variations and then select the channel I want, in this case meta.
+
+01:06:17:16 - 01:06:45:05
+不明
+And now I'm taken directly into the creation canvas. And I have all of the aspect ratios for both Facebook and Instagram right here with marketing copy generated things to the fine tuned models for copy generation. This is fantastic, but I still don't have video. Luckily, I can go to the image select video, and now I'm taken directly in to Image to Video powered by Adobe Firefly.
+
+01:06:45:07 - 01:07:12:05
+不明
+I just need to enter my prompt, make it feel like London and generate. Now this is taking my reference image, my prompt, any other context and generating a video. Wow, this is incredible. It understood the abstract bridge made it a bridge with people walking the boat the river. I encourage you all to try it. This is awesome! Image to video.
+
+01:07:12:05 - 01:07:42:03
+不明
+Now I need to create new ads because I don't want to replace what I had. So I create new and I'm taken directly. And now I have static and video ad side by side. Now one thing about Gen Studio for performance marketing, as I know that I'm always on brand. You can see the brand check right here. Now though, it's not just brand I, we also have channel and compliance check with compliance being done by third parties integrating into the platform.
+
+01:07:42:03 - 01:08:09:17
+不明
+So we have brand, channel and compliance. I know that my content is on brand compliant, performant and customized. I am now ready to send for approval to West. Just request approval. Let's find where's great. There he is and send. Now while West is approving this approval, service is connected through work front, ensuring transparency and connection across my campaign.
+
+01:08:09:19 - 01:08:34:15
+不明
+And just like that, West has approved. Thank you. West. And now I'm ready to publish. So when I publish this content, I am taken into a modal to add metadata. Now everything listed and I generated, including the prompts, the brand, everything is here and this is saved with the content. And so when I publish I'm taken directly into content I have the full experiences.
+
+01:08:34:22 - 01:09:08:19
+不明
+This is connected to Adobe Experience Manager. So this is here and available across the organization. These experiences look fantastic. Now I'm ready to activate. And this is a newly released activation tab in Adobe Gen Studio for Performance Marketing, where I can activate directly to platform starting with Meta and Google. Google CM 360 today, with more coming soon. I simply go into meta and I have a few fields to fill out, but starting with my creative, I can go in, select them all and add them.
+
+01:09:08:21 - 01:09:34:29
+不明
+The creative has all of that amazing metadata so that is brought in automatically. So I have all the metadata here and this is looking really good. Now at the end I have a tracking ad name which allows me to tie this creative in this ad and understand the performance across campaigns, which is huge. And with that, I'm ready to send it to meta and we're ready to go.
+
+01:09:35:02 - 01:09:59:01
+不明
+Right. Thank you. M so Jen Studio for Performance marketing launched in October of last year, and it's great to see how fast partners are lining up to make the platform richer and richer. It's great to see, of course, meta and Google CM 360 available today. And with many more ad, ad platforms coming in the very near future.
+
+01:09:59:03 - 01:10:18:20
+不明
+But the other thing, when we spoke last year at summit around everything we're doing with Gen Studio that we got asked a lot in addition to the brand checker, which I think was, the hit of the show last year was around compliance. All of you have to work, especially those of you in highly regulated, regulated industries, have to work with a legal and compliance check.
+
+01:10:18:22 - 01:10:39:00
+不明
+And it's been great to see partners like DWC develop an AI solution, for medical, legal and regulatory reviews for the pharma industry as an example, and integrate that directly into the compliance checks that we do, and Gen Studio. So we're very excited about the partner ecosystem building around this. And Gen Studio again has been a huge difference for us.
+
+01:10:39:00 - 01:11:01:22
+不明
+We've been using it very, significantly for actually well before it launched. Dentsu is another agency and a partner that has a great example of how they've embraced this. They're delivering, assets 70% faster across 145 markets using Gen Studio and for performance marketing. So excited about what this means and really encourage all of you to learn more about it at the show.
+
+01:11:01:24 - 01:11:26:11
+不明
+Okay. Almost done. So we now have our campaigns in market. The big question then is how do you measure the campaigns and track true performance? Not just at the macro level, but get into the actual efficacy of the content itself? And now we're going to go back to N for her final debut. To talk a little bit about how she takes all of this work that's in-market and starts to analyze the benefits that it's having or ways to improve it.
+
+01:11:26:11 - 01:11:49:18
+不明
+And I am so excited to jump forward to running this campaign. Note the data you're going to see is fictitious, but the need is very real. So back in Adobe, Jen Studio for Performance marketing, I have a view of my campaign's performance assets and approvals. This gives me and my executive team a snapshot of everything going on, but we're here to see how the campaign is doing.
+
+01:11:49:18 - 01:12:10:17
+不明
+And for that, we're going to jump to insights now and insights. I can see how everything is performing with visual reporting right here, but I can understand not just what, but actually why this creative is doing well and why the ad is doing well. I could create variations, run optimization and new experiments all right here. And this is awesome.
+
+01:12:10:20 - 01:12:44:10
+不明
+But sometimes I need to have more data to do more in-depth analysis to understand across ad and audiences. And for that, I'm super excited to announce Adobe Content Analytics launching now. So what's amazing about Adobe Content Analytics is I have performance insights, and these AI powered insights are telling me so much information I can understand conversion trends, forecast, I could see anomalies, I can see high performing assets and potentially low performing assets with content fatigue.
+
+01:12:44:13 - 01:13:07:07
+不明
+These amazing attributes, I can see how the different colors are performing. I can see tone of voice. So much information here. But what's great is that this information isn't just here, it's connected across all of Adobe, so it's connected across the Adobe Experience platform. And the data you just saw in Gen Studio for performance marketing. This is incredible.
+
+01:13:07:10 - 01:13:34:17
+不明
+Now, from here, one of the most powerful things that I can do in Adobe Content Analytics is understand these performance insights by campaign and region, but also by audiences. This is awesome. And before today, I couldn't do this. To do it. I just find the audience I'm looking for, and then I simply drag it up to the filter, and then all of my information is filtered by that audience.
+
+01:13:34:17 - 01:13:58:06
+不明
+So now I have performance insights for the Adobe Max London campaign in the UK for students. And you can see I have a whole new set of AI generated insights, as well as updated assets and color palettes. So if I wanted to target students in the UK for Adobe Max, I know that I should be using more green than red now.
+
+01:13:58:06 - 01:14:32:05
+不明
+This is amazing, and connecting all of these insights allows me to have a new view of data, experiences and creative assets across Adobe. Back to you, David. Thank you and and thank you Wes. So I will tell you, this has fundamentally changed the way that we operate and the way we think about it. We used to look at campaigns and whether a campaign was working or not, but now do we able to track not just the effectiveness of the campaign, but the effectiveness of the content in the campaign?
+
+01:14:32:08 - 01:14:54:13
+不明
+Is it as a game changer for us and not just the content, but the attributes, the colors that are actually driving the most, activity in action? You know, the semantics of the images, you know, is dogs are dog images selling better or cat images are always dog images. But, you know, the question ultimately is how do you then start to take this and really leverage it in your organization?
+
+01:14:54:13 - 01:15:21:12
+不明
+Well, the best way to do that is to try it. I'm excited to say that content analytics is available this month, but not just that. We're also announcing today the introduction of Jim Studio Foundation, which is in beta now. It gives you a single view into the end to end experience across all of these products that we talked about, so that you can have a single cockpit to really drive the end to end experience of your campaigns and everything that goes into building a successful campaign.
+
+01:15:21:14 - 01:15:45:13
+不明
+All right. So we have covered a lot in the last 25 minutes. I'm going to give you a quick harbor cruise to just put it back in your head before I leave one. We did workflow and planning and work front to get things started and make sure that the campaign was effectively kicked off. We use obviously Creative Cloud in Photoshop to develop the hero assets, and then we use Firefly Services to take those hero assets and develop all these variations at scale.
+
+01:15:45:15 - 01:16:07:16
+不明
+We used express for agile delivery and activation to empower all of your partners and your employees to advocate on your behalf. We use Gene studio for performance marketing, for structured delivery across all of these different, networks and activation, and of course, all of this is built on the underpinning of, Adobe Experience Manager. So a lot to take in.
+
+01:16:07:21 - 01:16:23:03
+不明
+This has been a amazing evolution in terms of how we run our marketing activities and programs globally. I hope you give it a try if you're not already using it. So with that, I'm going to turn it back to Anil, who's going to have a fireside chat with Jennifer from Eli Lilly. Thank you for your time.
+

@@ -1,0 +1,404 @@
+00:00:00:10 - 00:00:25:59
+不明
+Welcome, everybody. Thank you for being here. Ralph Wiltshire, principal digital architect at Sydney. Fine. I'm responsible for the development of our digital marketing capabilities. And today, I want to take you along on a journey where we expanded the footprint of, Adobe Experience Cloud products in our landscape from two starting in 2016 to more than 15, today.
+
+00:00:26:00 - 00:00:52:55
+不明
+So almost complete suite. I want to share with you the reasoning behind why we made certain decisions. The challenges that we encountered and what we learned from it. Before we start on that journey, let's first share some context against which this is taking place. And let's start with the name signify. Most likely you have, never heard of that name before.
+
+00:00:52:56 - 00:01:15:19
+不明
+It's, it's a young company. We exist with that name for, just eight years, but still we have, for example, the, this lighting up the Eiffel Tower. And if you have seen the opening of the Olympic Games, you know, there's a lot of nice special effects in there. This is another example of what we do.
+
+00:01:15:24 - 00:01:52:23
+不明
+The iconic Ferris wheel in London, the London Eye. This is, lit up by our solutions. Something that's not so much related to big landmarks, but, important, for example, thinking about the future in 2015 when we have to feed 10 billion, people. Is indoor farming that our solutions enable? You can grow crops everywhere without the need to to transport and around the globe using pesticides or having the risk of, failed crops due to extreme weather conditions.
+
+00:01:52:28 - 00:01:56:44
+不明
+This can become very important.
+
+00:01:56:49 - 00:02:19:51
+不明
+Another example here in the US, the Empire State Building in New York. And this can take all kinds of appearances on special days. And yeah, I think, something that, it's a very important example of lighting solutions. And, not so long ago, right here in Vegas, in front of this venue on the strip. But we had the Formula One night race.
+
+00:02:19:51 - 00:02:45:00
+不明
+We ensured that it was letterpress, our arena vision, luminous. So these kinds of things, it's quite impressive for a company that's just 80 years old to achieve these results. We are the global leader in lighting. And people say that, after the show, we are a second source of light on Earth. We are also the proud sponsor of the Mercedes Petronas Formula One team.
+
+00:02:45:05 - 00:03:15:04
+不明
+But doing such a thing in just eight years. That's virtually impossible. There's a catch to it. And the catch is actually that we have a modern 100 of 30 years of history. Because what is currently known as signify used to be known as Philips Lighting Company, founded in 1891 or so by two guys, in the Netherlands, they started, producing light bulbs at an industry scale.
+
+00:03:15:04 - 00:03:37:51
+不明
+They were the first to do such a thing that company grew, started making radio sets, televisions, medical equipment, and became a well-known brand. But in 2016, it was decided that the thing that it all started with the lighting division, was to become an independent company, later known as signify.
+
+00:03:37:56 - 00:04:03:37
+不明
+Signify is the name of a company sometimes used as a brand. But actually, there's many brands that we use. We see, for example, that Philips is, well recognized. But you also have here in the US for the people that are in the business, Jen lights or Cooper lighting, these are, US companies, and all those landmarks that, end up, done by color kinetics.
+
+00:04:03:42 - 00:04:39:26
+不明
+It's the brand that we use for that. So this is signify. But beyond just splitting off from, from the model company, that's not a big factor that's influenced, the lighting industry. And that was the introduction of LED lighting technology. And if you just look around you today, you will hardly see any conventional, lights anymore. This changed in 20 years and, well, that's actually quite fast if you look at it from an industry level and everybody that can bake a silicon chip can also create an LED light source.
+
+00:04:39:26 - 00:05:03:11
+不明
+So that's new players popping up in the field and all the knowledge that was built up over more than 100 years, conventional lighting could basically be thrown down the drain because it's not applicable anymore. And the way we look at lighting today is, it's different than just, illuminating an object. It's, has to do with food availability.
+
+00:05:03:15 - 00:05:23:54
+不明
+It has to do with energy saving and taking care of our environment. And that's, offsetting that. You see, on the top right corner that could very well be in the basement of this building, because you see a nice skylight, you see the sun coming in, but it's all fake. It's a simulation. A very, realistic simulation.
+
+00:05:23:54 - 00:05:45:48
+不明
+The light follows the movement of the sun. But it could be a debasement. Can you imagine that? If you would really be working here and you had such a Lumina in your office, what it would do for you? Light is used for disinfection. Think of Covid, safety on the workflow. And also nowadays you can communicate, via beams of light.
+
+00:05:46:03 - 00:06:11:25
+不明
+We call it live fire instead of Wi-Fi. So the storytelling that we need to do around lighting has changed. And that's what we need, the marketing landscape, to help doing that. So let's start with this journey. And it starts in 2016 when the company, becomes independent. We don't know at that moment in time yet what the company name would be.
+
+00:06:11:25 - 00:06:42:30
+不明
+The only thing that we know is we have to build a website, that will be, used in more than 50 countries, in 30 languages, sharing the message. We are a new, young, yet old company. And the products that we are selling, they they are basically the same as what we were doing when we were part of Philips and the tools that we had to build such a website, the only thing that we could do is reuse the landscape that was built up together.
+
+00:06:42:35 - 00:07:11:05
+不明
+And the years before that. So we cloned our Adobe, experience manager instance, had asked Adobe spin up some new instances in Adobe managed services. We copied our code on them. And for the products that were not Adobe, we asked the vendors to create, a separate contract and make it available for us. So with that landscape, we had to start building those websites.
+
+00:07:11:10 - 00:07:38:54
+不明
+And we ran into, some challenges already from the start, and that was that. You can easily clone systems and codes, but you cannot clone people. And many of the people we made, at Philips. So we had to, backfill, that was a lot of new people. And they, we discovered that actually, we have been different, depending too much on a few local heroes that made everything work.
+
+00:07:38:54 - 00:08:11:43
+不明
+But there were no clearly defined processes, and the documentation of the landscape, was lacking behind. But we also saw that as an opportunity, because those new people, they had a fresh outside and look. And we ask them, while you are on boring, try to define more efficient processes for onboarding. When you go through the codes and try to understand, how it works, update the documentation so that the next one in line can benefit from it.
+
+00:08:11:48 - 00:08:39:31
+不明
+And for example, they also developed, things like an image. So that a new developer could quickly set up its whole, development environments, things that were not done before. And that's helped to, reduce the onboarding time of a new developer, quite rapidly. So in those two years, we, we, we found out the new company name and we presented ourselves to the world.
+
+00:08:39:31 - 00:09:06:08
+不明
+So that are here we are a fresh new company full of ambitions. It's a new start. But we also realized that the state of our digital marketing landscape was not in line with those ambitions. It was a landscape that had already a more than ten years history, and already, while building that new website, we discovered that there's a lot to improve.
+
+00:09:06:13 - 00:09:34:56
+不明
+And what we did, we started an of AI and asked the main vendors of, marketing ecosystems, what they would recommend for signify. So we asked, Adobe, we asked Oracle, we asked Salesforce. And well, to our not so great surprise, Oracle recommends Oracle, Adobe recommends Adobe and Salesforce recommends Salesforce. But we also asked about their vision.
+
+00:09:35:00 - 00:10:03:19
+不明
+How do you think this domain is developing? And that's where we were already, appeals, by the way, that Adobe, brought the message about, experience, selling next to those vendors. We also ask system integrators, what would you recommend? Because I already realized at that moment in time that's, when you have a digital marketing ecosystem, there are integrations between the components.
+
+00:10:03:19 - 00:10:27:29
+不明
+That's actually the biggest pain points that you could have. If that's not working. And if a single link in the chain is not working, the whole system is not working. And we want it to be a lighting solution company, not a system integrator. We already learned back in Philips that that was not various strengths of the company. So we asked the system integrators, how do how do you look at this?
+
+00:10:27:33 - 00:10:50:56
+不明
+And they said, well, we agree with that. It makes a lot of sense to try to stick to a single vendor and have the responsibility for all the integrations with that vendor, and we don't care, we will have work enough, even if it comes from a single vendor. And all of those solutions, all those vendors, they have, a good proposition.
+
+00:10:51:01 - 00:11:09:49
+不明
+But the one that appealed most for us was Adobe. We already had an existing footprint for Adobe, so that's where we decided to go for, as a strategic choice to go for a single vendor ecosystem for all the customer facing, activities with Adobe.
+
+00:11:09:54 - 00:11:34:07
+不明
+But then we knew where we needed to be. But basically the end state solution should be. But just making that transition for the transition itself, that's a difficult story to sell. It costs a lot of resources, time and money to do such a thing. So we had to wait for the business pool that we could use as a lever to, drive this transition, basically waiting for the perfect storm.
+
+00:11:34:11 - 00:12:02:00
+不明
+And that storm arrived with the new 3.0 program. And you. That's a home lighting, a smart home lighting solution where you can control your lights, fire on an app, and do all kinds of automations and instantly change the settings in your room with nice colors and, and, and the nice ambiance. We were the first to introduce such a solution, and it was very successful.
+
+00:12:02:00 - 00:12:25:31
+不明
+It started, because it was promoted a lot by Apple. They sold it exclusively via the Apple Stores. It got a lot of traction later on, we made it globally available. Yeah. And it was a big hit. But the competition also noticed. So they started coming up with their own solutions. So we needed to, in order to stay ahead of the pack.
+
+00:12:25:31 - 00:12:54:37
+不明
+We needed to step up a few levels. And that's what the you 3.0 program intended. There were four goals defined. And let's go through each one of them and see how that's how to create that. The lever to drive a transition in the landscape. Well, the first goal was basically delivering the optical UX experience. It should have the premium, experience that also the product is offering.
+
+00:12:54:42 - 00:13:31:48
+不明
+We were already on Adobe Experience Manager, so that was from the strategy perspective. Good to be. But the quote on there was really it uses, classic UI, Java server pages, all kinds of things that Adobe didn't recommend anymore at that moment in time. So we decided to start building a complete new code base, a complete new component library, in such a way that we implemented all the the modern future proof principles that Adobe recommends, and also that it could be used in such a way that we could use it, wider than just for you.
+
+00:13:31:53 - 00:14:08:50
+不明
+It should become a multiple brand, a component library we adopted. Of course, I went to touch UI, templates with policies on there, applied language copies to easier rollout to, to multiple countries. And that resulted in a 400% faster, page authoring time and much more easy localization. Around the globe. So we didn't really introduce a new component, in the landscape, but and with the new code was like, you basically.
+
+00:14:08:55 - 00:14:32:47
+不明
+Then we had another goal, and that was being relevant and timely. And every interaction moment with a customer, that means you need to have a customer data platform capability in your landscape. And in line with the policy, we, chose, to introduce the real time CDP Adobe Experience platform. At that moment in time. We did that in combination with journey orchestration.
+
+00:14:32:47 - 00:15:04:53
+不明
+Well, like the name says, to orchestrate the journey and, Adobe Journey Analytics at the email campaign in capability at that moment in time was provided by Oracle Eloqua. And that didn't fit in this strategy. So we had two instances. We had a consumer instance and a professional instance. And with this project, we decided to replace the Oracle Consumer instance with, Adobe Campaign standards.
+
+00:15:04:58 - 00:15:28:33
+不明
+Then there was a call about, being, leading in the consumer care. Well, if you look at Adobe Experience Cloud, you don't see a product that's, targeted at an agent desktop or knowledge base. Things like that. So for that call, we had to also look at auto alternatives. But there's one main ingredient from Adobe that is used in here.
+
+00:15:28:47 - 00:16:01:16
+不明
+And that's the real time CDP, because that provides your single view on the customer. And we use it not yet for you, but for some other brands. We already have it, in use where the, the agent, can already see in their own software, all the data that we have from a, a customer and also that interaction by itself is sent back into app as an, an event that can be used to orchestrate other, contact moments with that customer.
+
+00:16:01:21 - 00:16:41:44
+不明
+And then the first goal was to be leading in the dito si, offering. At that moment in time, we had an online product catalog, but you could only get product information. You couldn't buy it. On our site, there was a link leading to an external site provided by an external, supplier where you could really buy the product, but we were not a seller of records in that case, and we decided that we wanted to in source this the external vendor was using, Magento Community Edition, and we decided, bring this in-house, use, the enterprise edition.
+
+00:16:41:44 - 00:17:07:26
+不明
+So Adobe Commerce, and we implemented it in such a way that we are using it headless. So the whole UI on top of it is still provided by Adobe Experience Manager to provide a seamless experience, but transaction itself is taken care of by Adobe Commerce. And we use the Commerce Integration framework from Adobe to tie both systems together.
+
+00:17:07:30 - 00:17:25:07
+不明
+This was very successful. The DTC growth was double digit year on year because of these changes that we implemented. But let me introduce you to West.
+
+00:17:25:12 - 00:17:38:35
+不明
+Already in the recovery. So ready to launch on the start of a new race, a new reached its run to the first.
+
+00:17:38:40 - 00:17:49:12
+不明
+We didn't see this coming, but this was sitting in a very comfortable place for everyone to do. And for this reason.
+
+00:17:49:16 - 00:18:25:05
+不明
+So. So for the audio bit, this is an oral, consumer brand also bringing home lighting, solutions you is the premium high end site with also acquiring prices that are accordingly, wish is more affordable. But they wanted the same as what we created for you. And that's where we, saw that the, the principle was working because very easily we could also onboard with in the same landscape it says copy paste here, but it wasn't a duplicate of the landscape.
+
+00:18:25:05 - 00:18:53:46
+不明
+No, it was an integration of this in the same landscape as what you was using. But one big difference, and that's that we didn't choose for, Adobe Campaign Standard anymore. It wasn't considered and state solution. I will get back to that later. But instead of that, we introduced Adobe. But Journey Optimizer, sort of the replacement of Adobe Campaign standards.
+
+00:18:53:50 - 00:19:22:35
+不明
+Well, this those two examples were consumer brands. But the professional brands also noticed that new capabilities were built that they also could benefit from. So they wanted the same and we actually did it in that way. So for Am sites, we use a single same, components code base and extend that with new components to, support professional use cases.
+
+00:19:22:40 - 00:20:07:37
+不明
+And they all went over also. So to the new touch touch UI code base, we also added the real time CDP in there in a separate sandbox. We didn't want to mix the consumer profiles with the professional profiles. But also that capability became available for the professionals. We didn't implement, it as a unified accounts. The professionals also just consider like a person, so the B2C variants of real time CDP, but we didn't introduce, ago in this case or Adobe Campaign standard for the professional use case.
+
+00:20:07:42 - 00:20:30:34
+不明
+We also lead it, if needed, a lead management capabilities. And from that perspective, it made more sense to introduce Marketo, engage in the landscape. So the Oracle, Eloqua B2B instance that was still existed was phased out and replaced by market to engage.
+
+00:20:30:39 - 00:20:56:52
+不明
+Then we also had a don't that was silence. It was a product from a company called Adam. Small Belgium company. And we got notice that the company called acquired by a primo, and, Primo told us we are stopping this product. It was an on premise, version of the dumb, and they would simply discontinue it.
+
+00:20:56:53 - 00:21:22:49
+不明
+The only thing that we could do was transition to their cloud solution. So we had an unsupported dumb. And nowadays, there is a legal risk tied to this because if you, publish product content, nowadays you often have to also publish things like energy labels, compliance documents, and if the Dom would fall over, we wouldn't be able to do that.
+
+00:21:22:54 - 00:21:45:17
+不明
+So we basically played that card to trigger the change of the, the Dom, but we didn't go to a primo Dom, as a Primo would suggest. But in line with our strategy, if we were moving, we could just as well go to AMS. It's and that's what we did.
+
+00:21:45:22 - 00:22:10:39
+不明
+So I didn't touch all the products that we have introduced there, but many of them. So we have now already this CDP, we have introduced Adobe Commerce Market to engage, campaign standards. Ajio. Customer journey analytics already a lot of them. And let's see what type of challenges we engaged during those introductions.
+
+00:22:10:52 - 00:22:21:56
+不明
+It doesn't mean that you would be facing the same challenges if you would go through a similar flow, but I think this is a bit of what you can expect in such a journey.
+
+00:22:22:01 - 00:22:56:52
+不明
+And I think the, the first challenges that we, that we encountered were with the introduction of campaign capabilities and that started with the new projects where we introduced Adobe Experience Platform and Adobe Campaign Standard to do the the email path. And they didn't have an out of the box integration between those systems. That was a bit of a bummer, because the whole reason to go for a single vendor ecosystem is that you would benefit from those out of the box integrations, but in here, there was not such a thing.
+
+00:22:56:57 - 00:23:29:56
+不明
+Of course, you could send out audiences and profiles from, yep. And you can ingest the same in, AKS, but the speed at which AEP was spitting out that data was way too fast for a campaign to absorb it, so data fell off the track, and the only way to solve this was to put a custom throttling solution in between that ensured that it's, was sent through to ACS at a slower pace.
+
+00:23:30:01 - 00:23:56:38
+不明
+So we had homebuilt integration, certainly in the landscape. That's not what we wanted. I think Adobe already knew at that moment in time, maybe the reason why, this interface was not getting that much attention is because there was a solution in the making, in the form of a geo Adobe Journey optimizer. And journey optimizer doesn't have this problem because it looks directly on the data in app.
+
+00:23:56:52 - 00:24:23:16
+不明
+So no need anymore to synchronize and replicate data to another system. So from an architectural perspective, this is a great, solution for this issue. But it would have been nice if we knew this earlier and back then. Yeah, it was a surprise. I think nowadays this wouldn't happen anymore to it because of the collaboration that we currently have with Adobe.
+
+00:24:23:21 - 00:24:50:59
+不明
+I will get back to that also later. But back then, yeah, that was a, a disappointment. But then when we chose to go for a geo, as the replacement of ax, we had to make another choice and normally, the combination of Adobe Campaign Standard, where you need to develop your, email templates and of course, the email itself, we used to do that in Adobe Experience Manager.
+
+00:24:51:11 - 00:25:20:15
+不明
+So we used also, specially designed components in there to create the email and fire out of the box integration that became available in Adobe campaign standards. But with, you know, that integration was a roadmap item so not available yet. The alternative was the native, email authoring capabilities from a geo. And we need to decide which path are we going to take.
+
+00:25:20:15 - 00:25:44:57
+不明
+We wanted to stay, in the old way of working, but it's a roadmap item. And so we, sort of worked our way around it. And when finally the first parts of that became available, we learned that this is only working on an Azure cloud instance, and not for I am in managed services at that moment in time, at least.
+
+00:25:45:02 - 00:26:13:19
+不明
+At the same time we saw the native capabilities evolve very rapidly. Every release there was new functionality being added, for translation, for example, is very important. And in the end, we decided it looks like this is the main track, from, Adobe product management perspective. We will also then start using it. It means that our content authors need to understand two different systems.
+
+00:26:13:24 - 00:26:40:26
+不明
+That's a downside from the other hand, the reuse of that content, across email and for example, web pages, it was not that big. So we, we decided for that. And actually, yesterday I heard that, at this summit, the, the full API to integrate, am with HBO, will go live now.
+
+00:26:40:31 - 00:27:06:19
+不明
+So, yeah, but we made our choice, and, and we cannot switch continuously. And only recently, we we got the confirmation that Adobe Campaign Standard is really stopping. So while we needed to renew the contract, the message to us, well, this product is not for sale anymore. We can only extend it for a year. And we have to, within that year, migrate to HBO.
+
+00:27:06:22 - 00:27:40:52
+不明
+That was our target system. But then we heard or you can go to V8. So the, successor of Campaign classic and by itself, that's. Well, it's just a choice. And our choice was made. We wanted to go for Adobe Journey Optimizer, but it still makes you wonder. At least I got a bit uncertain. What is now the the future track, the way, basically, that we need to take in order to benefit as much as possible from the way that Adobe is developing their capabilities.
+
+00:27:40:57 - 00:28:10:14
+不明
+And you need product management to share a bit, on, on what their plans are for the future. We got reassured that really there is a future for HBO, both for, also for V8, but there are two separate healthy tracks and it's, no issue for us to, to batch on HBO. That was the message.
+
+00:28:10:18 - 00:28:35:06
+不明
+Looking at the asset management part, the challenge that we encountered was more on our side, but that also don't solution. It was living siloed. And that also means that the processes around it were built based upon a siloed implementation. But when you look at Adobe AMS, it's there are a lot of out of the box integrations that you can benefit from.
+
+00:28:35:11 - 00:29:10:24
+不明
+And we are not using them because our process is we basically lifted and shifted the complete system, including the processes targeted at a silo. And that's what we need to change. Adobe is helping us in there, in the form of a field study. I will get back to that also later. But basically, it's a consultancy path where they are guiding us on how do we need to make changes in our landscape and processes so that we are unlocking all of those, out of the box integration, sir, in the most optimal way?
+
+00:29:10:29 - 00:29:36:47
+不明
+And another challenge we have around the term, and that's on Adobe's site to help us with the solution is about brand portal versus content hub. When you use AMS and when we implemented it, we had the choice to either use assets, share, and build our own custom UI on top of it, or go for brand portal, which is an out of the box UI.
+
+00:29:36:52 - 00:30:02:26
+不明
+But you get it as it is. The best thing that you can do is change the logo or background color, but and by itself, it's a bit of an edge product, I think. And that's why Adobe has now introduced Content Hub. And by the way, one thing that's also an issue with Brand Portal, it's replicates all the assets from Am assets to brand portal itself.
+
+00:30:02:31 - 00:30:24:16
+不明
+And it's a big stream of data, so big in our case that it fails from time to time. And then the whole system blocks with content. Hope you don't have that issue. It works directly on the data in AMS. It's, a bit like HBO works directly on the profiles in app you see that also appear in here.
+
+00:30:24:21 - 00:30:54:46
+不明
+No need anymore to move around. Assets between two systems. So that's a big pro and a reason why I want to adopt this. But there's one thing that's not supported in here, and that's the concept of folders. And for our, creators, those folders are very intuitive. You just create a folder Easter campaign and in there maybe a sub folder social and your own, email and then a few countries beneath it.
+
+00:30:54:51 - 00:31:21:59
+不明
+It's so intuitive to structure your, your content in AMS. It's in that way. But content sees everything like one flat repository and relies on very powerful search capability to slice and dice so that you can still find the correct assets. But it relies on the metadata for that. So you need to be, very disciplined in maintaining your metadata to make sure that your solution work.
+
+00:31:22:04 - 00:31:55:23
+不明
+And that's, I think, often, a problem in many companies to have that metadata in order. So what I would like is that Adobe, AI to find some way of having a similar capability, like folders in content to maybe, automatically converting those, folders into collections, things like that, or help the people make the mental shift, looking differently at assets and how to organize and find them.
+
+00:31:55:28 - 00:32:11:54
+不明
+But that's not something that we are facing as a single customer. I think many customers are facing this, this challenge. So it would be great if Adobe can also help us with, yeah, whatever they can think of.
+
+00:32:11:58 - 00:32:45:13
+不明
+Looking at the introduction of Marketo engage, we had a challenge with the lack of bidirectional synchronization of data. You can create a profile in Marketo, engage and send that to app. You can create a profile, an app and send that back to market to engage. But what you cannot do is create a profile in engage, send it to an artist, CDP, and Richard, with events that are happening and bringing that data back again to the same profile and market to engage.
+
+00:32:45:17 - 00:33:13:24
+不明
+And that's something that that's missing. And hopefully at this summit, we will get announcements that this is arriving soon. Actually, our ideal situation would be that Marketo engage also looks directly at the the data set in the CDP. So also not duplicating, content in the app, but just having one single place where you store it.
+
+00:33:13:29 - 00:33:40:35
+不明
+And then when you look at the the flavors of products that you can purchase, you have an app. Nowadays, the B2B versions, when we started with app that there was not a choice. It was only B2C. And but now you have B2B and then the hybrid situation, the B2B version. Right now we are not ready yet to implement, B2B solutions.
+
+00:33:40:40 - 00:34:04:11
+不明
+First, we want to get everything organized within Marketo Engage. And once we see that, the dust settles down in there and if that becomes stable and when there's a real time, of a bidirectional synchronization, then we will have to look at, does it add value for us to add, the B2B version of artist CDP in the landscape?
+
+00:34:04:16 - 00:34:10:13
+不明
+That's future Musica.
+
+00:34:10:17 - 00:34:50:11
+不明
+Then looking at, how things went along, with Adobe during this journey, The most important part in this journey is when the use 3.0 program started, because that's where we introduced, Commerce artist, CDP and Adobe campaign capabilities. At that moment in time, app was not yet available, it was announced, but, it wasn't GA and the partner that's helped us in implementing this whole project, they suggested to use a customer data platform that they built as a custom solution.
+
+00:34:50:16 - 00:35:17:01
+不明
+I was, fiercely against this because if you look at the strategy where we wanted to rely on the Out-Of-Box integrations within a single vendor ecosystem, if there's one system that depends on integrations, it's your CDP. It needs to integrate with just about everything. So having a homebrew, product in place for that. But it didn't make sense to me.
+
+00:35:17:06 - 00:35:49:03
+不明
+And luckily, Adobe back me up and there and product management, really convince all the stakeholders in that program that it would be, globally available in time for this, the launch of this program and that it was a central pillar for the future development of the whole Adobe strategy. So really, the product to have, both at that moment in time and this basically helped us, put that in place.
+
+00:35:49:08 - 00:35:59:09
+不明
+And yeah, looking back at that, now that, that has brought a big result for us.
+
+00:35:59:14 - 00:36:30:31
+不明
+From that moment on, the collaboration, only became better. We have, collaboration from all kinds of levels, whether it's operational, tactical or strategical. There's weekly meetings, some quarterly, some yearly. But the important thing in that is that the team from Adobe remained relatively stable. So those persons really started to learn. The stakeholders in the company knew about the the politics that could play.
+
+00:36:30:36 - 00:37:02:04
+不明
+It's like our man insight within Adobe. And for example, what happened to us with, ATO, being introduced while we just onboarded? Yes. I don't think that can happen today anymore. They would see already, upfront that this is, would become a problem for us. So proactively, they would already, help to prevent this even if they couldn't, expose already a product roadmap.
+
+00:37:02:09 - 00:37:17:33
+不明
+Adobe people have a better view on that roadmap, of course. And then they would find some way to nurture us in the right direction, so that we wouldn't go into some sort of collision course.
+
+00:37:17:38 - 00:37:48:36
+不明
+Well, this actually results in the last contract renewal that we, also onboarded, ultimate success. And yeah, that's the most premium, support solution that Adobe provides. It also has a price accordingly, to be honest. So that's, why it was a bit difficult for us to, to make that step. But given the, the history and the relationship that we built up, we saw, this is still something that we need.
+
+00:37:48:41 - 00:38:31:52
+不明
+Ultimate support provides, support for all of the Adobe products that you have. And we rapidly expanded that landscape. And there's also new ones introduced, nowadays, like for example, AMD guides and then it that all automatically comes along with it and you have unlimited field studies and a field study. You you should see it as sort of a short consultancy project where experts from Adobe are looking at it at an issue or challenge that you describe and, provide help in their they will not touch code or things like that, but they will just do a system scan or ask, or a specialist on how to approach a certain solution.
+
+00:38:31:56 - 00:38:53:03
+不明
+And that's, for example, what we are currently using for, getting that dump system better integrated in the rest of the landscape. So I think overall, this relationship is, is thriving. Right now.
+
+00:38:53:07 - 00:39:21:44
+不明
+There's also something, about volumes and metrics. And you see that, the contracts nowadays often have a dynamic pricing components. It can be profiles, it can be data volumes. It can be, compute hours. And when we started with Adobe Experience Platform, for example, well, the the license metric was number of profiles, but there was no way to control it.
+
+00:39:21:44 - 00:39:42:22
+不明
+We could add profiles into the platform, but there was no way to remove a profile that was not not such a thing as time to live on data or diet data hygiene. GDPR requests, we could only make it bigger and bigger. There were also dashboards that showed consumption, but they had funny numbers. They didn't make sense at all.
+
+00:39:42:26 - 00:40:14:11
+不明
+So Adobe was also not, holding us against those limits. There was nothing that we could do about it. But when you look at it today, you see that's the mechanisms to control your consumption. They they are now there. And also the dashboards show, numbers that make sense. So I expect that Adobe will start, having more discussions on consumption if you at least have over consumption, in a structured way.
+
+00:40:14:15 - 00:40:37:44
+不明
+I think it's fair if that's the way that you build your price. And it's also very transparent to your own business. If someone comes up with a new business case and they can tell you what it will do to consumption, you can tell them, well, this is the TCO increase that you are generating. Do the math and see if you have a positive business case.
+
+00:40:37:48 - 00:41:07:00
+不明
+But I think you should start preparing your business, to work with, dynamic pricing. And if you, negotiate negotiating new contracts, you may just as well have price auction there. We do that, and I think it helps to avoid, new negotiations in the future, if you know that it may, rise, but you don't know it yet, why not add some price locks in there?
+
+00:41:07:05 - 00:41:13:50
+不明
+So that you can avoid that whole thing?
+
+00:41:13:55 - 00:41:51:24
+不明
+So overall, if we look at this strategy and see what does this bring to us, the question is, does it strangle a single vendor strategy, deliver. And some people may say, well, this is a big vendor log in. And actually that is true. You can also say this is a big vote of confidence that you rely on the fact that a vendor has a clear view on how a domain is evolving and that they are prepared to, to, have the roadmap developing the right capabilities in time in that landscape.
+
+00:41:51:29 - 00:42:19:55
+不明
+And right now, Adobergb, is showing, I think, that type of behavior and being a leader in seeing how marketing technology evolves. And also, if you are doing things at a enterprise scale, suppose you would, follow a best of breed. Strategy, and you have a customer data platform from one vendor. You have a web content management solution from another vendor.
+
+00:42:20:00 - 00:42:52:51
+不明
+How easy would you replace with an implementation? It's not something that you just do overnight. You cannot just replace a customer data platform with not alone, the next months. So those will always be difficult changes. So you may just as well go for a single vendor, because it doesn't bring you anything except that it's, brings your cost reduction and not a hassle of being, responsible for all the integrations yourself.
+
+00:42:52:56 - 00:43:18:19
+不明
+And also take into mind that this is not a silver bullet. There will be duplication of, of capabilities in the landscape. Adobe, acquires products, and then it takes a lot of time before they get really integrated. So the things that you could share, for example, user management, are those kinds of things that you, normally see popping up in the admin console.
+
+00:43:18:29 - 00:43:43:16
+不明
+It takes a few years before it gets there and some of the other capabilities, for example, like the email, creation capabilities, they intentionally, sometimes duplicated, across systems because you need to be able to use a product in a standalone way. Otherwise you would always need to buy the full package in order to make it work.
+
+00:43:43:16 - 00:43:49:14
+不明
+And that's also, of course, not possible.
+
+00:43:49:19 - 00:44:20:54
+不明
+Timing and patience, I think are very, important factors. If you go through journeys like this. Implementing a technology change is not that difficult by itself, but having the organization adapt to it and basically using the potential, it takes a lot of time and effort. I think in years, more than in months. And it helps if you have a pull from the organization to make certain changes.
+
+00:44:20:59 - 00:44:36:56
+不明
+So having patience to wait for the occasion, to make changes in the landscape, is something that can be very beneficial. And I would like to thank you for your attendance and have a good summit.
+

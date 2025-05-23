@@ -1,0 +1,332 @@
+00:00:00:00 - 00:00:16:26
+不明
+I want to thank you guys for joining us on Thursday. I know it's been a long week for everyone, and we really appreciate you guys coming to spend time with us today. So raise of hands, who had a great time at bash last night. Okay good. And now who's watching a basketball game on their phone right now. Okay.
+
+00:00:16:31 - 00:00:38:11
+不明
+Awesome. Well, I'm excited to be joined on the stage today with sadly, the digital content platform lead from Pfizer and Jason Stoll, the director of product from Pfizer. These are the guys you're going to want to hear from today. But I, Lauren Cisneros, a senior product manager for Adobe Work Front. I'm going to kick things off and give you guys an overview of the current landscape around content.
+
+00:00:38:13 - 00:00:58:01
+不明
+Before I hand it off to them, and they're going to discuss why they're doing what they're doing with metadata for Pfizer. So the current landscape, as you guys have seen, is all around content. We've heard a lot about content this week. We've talked about content. All of the keynotes sessions, and it comes up a lot. And we've been talking about content for a few years now.
+
+00:00:58:06 - 00:01:16:47
+不明
+And that's because it's really still a hot topic for everyone. Content is the way that we represent our brands when we talk to our customers. Us as individuals, you know, the strongest tool we have is communication. We talk to each other. We talk to people through email, through text, all these things. But brands don't have a physical voice.
+
+00:01:16:56 - 00:01:48:50
+不明
+So the way we represent brands is through the content that we deliver into the market. Oh, I wonder what's going on in that session. They're talking about content to them. And this content is showing no sign of increasing in growth. Since 2021, we've seen content for enterprises increased by three x. But it's so interesting to hear that because I don't think any of us have three times the budget we had in 2021 or 3 times the staff to deliver all of that content.
+
+00:01:49:04 - 00:02:11:03
+不明
+So it becomes really challenging to keep up with all of these content needs across the board. So what you guys are hearing, you know, this week is the word a content crisis. And the content crisis is actually twofold. It's one because the increase in content demand overall. So delivering more content for more brands and more channels and more quickly.
+
+00:02:11:09 - 00:02:42:39
+不明
+But it's also because content's getting really difficult to deliver when it comes to personalization and all the things that we need to do to deliver compelling experiences to our customers. When I was saying earlier that, you know, content is a way a brand represents itself, I think Adobe Summit is a really good example of that. This is how we as a brand talk to the world about what our primary objectives are, where our innovation areas are, and it takes a lot of work and effort to bring all the content to Adobe Summit every year.
+
+00:02:42:41 - 00:03:08:35
+不明
+We've got all the breakout sessions, we've got the keynotes, so there's lots of time spent coordinating across various teams globally to deliver one single event that's a few days. And creating content. As I said earlier, it's just becoming more and more difficult. For many years we've talked about people, process and technology being one of the primary drivers. But I would say that's still very, very true today.
+
+00:03:08:39 - 00:03:28:06
+不明
+And I think a good example of that was the Marriott session. Did you guys see the Marriott keynote raise of hands? Awesome. I thought that was so amazing because she talks so much about their process and how they had to streamline the process and get smarter with the way that they were creating content to deliver more compelling experiences to their customers.
+
+00:03:28:11 - 00:03:52:26
+不明
+And so these guys are going to talk to you about how they're solving some of those challenges. But first off, we wanted to touch on the fact that organizations don't want to create more content just to have more content. It's not about creating more content. It's about creating better content for our customers. And to do that, customers and you guys, and we need to optimize our content supply chains.
+
+00:03:52:31 - 00:04:23:11
+不明
+We need to look at where we can have efficiencies in the process so that we can develop better content. But optimization requires insights. We talk about content velocity. And it's not our primary talk track anymore these days. But I still really like the concept of content velocity because velocity implies direction and speed. It's not just again, creating more content, it's creating it towards a strategy or towards a goal of personalization or communication.
+
+00:04:23:16 - 00:04:41:25
+不明
+And to have optimization you first need insights. And you need data. So to get insights you have to have data. I was talking to a peer the other day and he said, if you can't measure something, you can't report on it. And if you can't report on something, you can't improve it. And that really, really resonated with me.
+
+00:04:41:30 - 00:05:03:52
+不明
+And I stole his content, but I got approval from him. Data is such a big thing. I think on one of the keynote sessions they said taxonomy is sexy, which I absolutely love. I've got my metadata sticker up here for you guys to share that today. But one thing I do want to call out, too, is that it's not just about delivery insights.
+
+00:05:03:53 - 00:05:30:39
+不明
+It's not just about how many clicks something got or how many people engage with it. It's about the entire marketing lifecycle. Everything from what was the original idea, what was the strategy, what was the brief? How did we execute that? All of the data along the marketing lifecycle matters because when it comes to content performance, we need to know how much an asset costs us to produce either an actual dollars or human capital.
+
+00:05:30:44 - 00:05:50:41
+不明
+And we need to really think about that process, because maybe our best performing content was so expensive that we can't repeat it on a frequent basis. And with that, I'm going to hand it off to Jason to talk to you about tracking content for optimization. All right. Thank you. Oh, I'm miked up too. All right, we're ready. Thank you.
+
+00:05:50:41 - 00:06:20:55
+不明
+Lauren. All right. How's everybody doing? Okay. Need some water? No kidding. So I channeled my inner Neil Patrick Harris today, and I suited up. Sorry that we scheduled this during March Madness. My apologies. Wasn't my intention. I hope your bracket started out strong. But before we get into it, brief introduction. So I am Jason Stoll, product director at Pfizer.
+
+00:06:20:55 - 00:06:47:11
+不明
+I've been here just under a year. So why am I speaking to you? What do I know? Well, I've been in media streaming and sports essentially for the past ten years in a product capacity. Been at Yahoo sports, Warner Brothers, discovery, launching Discovery Plus, domestically and then scaling international. Golf Digest, NBC sports, New York Roadrunners.
+
+00:06:47:16 - 00:07:13:56
+不明
+And I was an analyst for about five years before that. So I've done a few things. Pharma is very new to me, and the way pharma does marketing is even newer to me. But even though it's a beast, I feel like I'm well positioned to make a difference. And I also wanted to start out by telling you I like dark mode.
+
+00:07:14:01 - 00:07:40:35
+不明
+It's my preference. I prefer to also start out with quotes. So, I mean, very simply, any damn fool can make something complex. It takes a genius to make something simple. And you know, it's important in my head. For simplicity and ease of use in any product and user experience, especially content supply chain. It's super complex, right?
+
+00:07:40:40 - 00:08:08:04
+不明
+And two data beats opinions. I don't know who said it, but I really like it. And the point there is data driven decision making, leads to hitting goals and success metrics. Right? People's opinions, whether it's leadership, stakeholders, they pale in comparison to data. Data can't be argued with. So I think that's kind of the key here.
+
+00:08:08:08 - 00:08:35:35
+不明
+And that kind of leads me into, what I would consider content and data and the high level of it. Right. There are a ton of examples. So we'll be discussing it a lot, the nuances of it. So I wanted to kick off with some examples. Content and data being complicated. And they're getting more complicated with innovation. So you know you have presentations, websites, video, ton of content types, right?
+
+00:08:35:35 - 00:09:02:18
+不明
+You have brands, media types, channels, campaign details, so many data types and all of these have unique metadata items captured measurement goals, nuances, subcategories, regulatory and legal considerations. Right. So what's important is to have a focus that ties them into your goals, that can be measured.
+
+00:09:02:23 - 00:09:36:17
+不明
+So, you'll notice that I don't really just like to read off slides. You're smart enough to see what is up there. I don't have to say it to you. So with that said, let's get into some goals and objectives. I can't tell you all of our metadata insights and specifics and strategies, but what I can tell you is the questions that we ask ourselves to set ourselves up for success, and what outcomes or business objectives would you like to achieve?
+
+00:09:36:18 - 00:10:06:41
+不明
+Is one right like start with the user personas as simply as you can. Lay them out. The questions, rate them, score them in terms of importance. Link them back to your goals. Start filling in how you can get that data and help drive your strategy. So some use case examples, right? As a marketer, how might I know where to allocate my dollars by brand or product, by country or area?
+
+00:10:06:45 - 00:10:39:21
+不明
+Channel segment against CPM conversions. Right. So that's kind of the first example. The second one, as a marketer, how might I know whether channel A or channel B or, sorry, creative A or creative B is performing better? Whether that's by channel segment, whether that's against CPM conversion rates. And then the third one is kind of, I guess I would say as a media buyer would be an example.
+
+00:10:39:26 - 00:11:06:39
+不明
+How might I know if message one or message two under apparent creative is performing better against CPMs and conversions? So with that said, let's throw a little bit deeper into the metrics that need to funnel into our goals and objectives. So there are a ton of business metrics to track, right? These are just a few that I picked out.
+
+00:11:06:43 - 00:11:45:12
+不明
+Many of them play together. So I'll just speed through a few like identify the right targeting approach. Compare performance. Understand that performance. Track your spend and impressions and clicks. Compare conversion rate of brands or products, unique visits and tactics that drove them. So there's so much that you need to do to optimize your media budget. Understand where they are, to land your customers and essentially slice and dice customer preferences and drive the customer journey.
+
+00:11:45:16 - 00:12:14:30
+不明
+So alone you think, why am I tracking this right? And together, I think that they paint a picture, or at least most of a picture to drive your strategy and leadership direction so that you can use your own analysis and say, oh yeah, this is sort of the direction that we should go. And this is why. So companies like Pfizer and more specifically business stakeholders need to track these items and many more.
+
+00:12:14:35 - 00:12:37:54
+不明
+And across the, bottom of this slide, you'll see taxonomy, governance and tech implementation. So that's because all of what I've presented so far, none of this is possible without the right taxonomy, the right metadata structure, and the right solution.
+
+00:12:37:59 - 00:13:09:20
+不明
+So metadata taxonomy governance, which we just talked about in the last slide. Standardized approach of how data is essentially categorized organized with a framework for updates. Right. Whether that's adding editing removing over time. It's really important for the reasons you see on the slide. But some business outcomes that we track are higher ROI and optimize content and messaging.
+
+00:13:09:25 - 00:13:39:46
+不明
+So to try and fit some of these pieces together for you, governance can enable business outcomes with higher speed to gain insights. It can also align business goals. It can enforce best practices, consistency for analytics quality as well as granularity for customization. Or as I like to call it, targeting the right customers with the right content and message.
+
+00:13:39:50 - 00:13:55:22
+不明
+And with that in mind, I'll hand over to Siad to take a closer look at the technical implementation. Thank you.
+
+00:13:55:26 - 00:14:17:41
+不明
+All right. Thank you Jason. Thank you Lauren. And mostly thank you all for being here. On the last day of summit, in the very last session, to hear about our exciting metadata story. My name is. Say it. Ali and I lead the digital content platforms at Pfizer. I want to know about you guys as well, though.
+
+00:14:17:46 - 00:14:41:37
+不明
+So just scream out what industry or what company you're from. Where? Oh, Coca-Cola. Okay. Fintech. Okay. Great. Well, we have an exciting story to tell you. Jason went through some of the business insights and what the business looks for and I'm going to talk to you about how we solved and are starting to solve those problems through technology.
+
+00:14:41:42 - 00:14:59:44
+不明
+Before I do that, though, continue on the theme of getting to know you all want to know where you are all in your metadata journey. So starting with the first box you see here, we don't know where to start. We're just getting started thinking about this. And this is overwhelming. Show me some hands. Who's in this area here.
+
+00:14:59:49 - 00:15:09:58
+不明
+Don't be shy. All right. What about the second one? Just getting started. Okay.
+
+00:15:10:03 - 00:15:14:18
+不明
+We're getting the hang of it.
+
+00:15:14:23 - 00:15:52:52
+不明
+Right. We are experts. Anybody? Okay? As you can see, I shared where I believe we are from a Pfizer perspective. And I think we made some pretty incredible progress over the last, I would say 6 to 9 months. And I'm going to talk to you about that. A little bit here. So as you can see, my business partner here is very demanding, and he's got a lot of insights that he's looking to achieve and better wants to better understand, you know, the effectiveness of marketing.
+
+00:15:52:57 - 00:16:13:23
+不明
+A lot of challenges comes, you know, to solving that, right. Number one is what I just went over. Right. The evolving business needs for better measurement and effectiveness. And for that one, think about how the landscape continues to change and how there continues to be, you know, new channels and new stakeholders. New brands being launched, new products.
+
+00:16:13:37 - 00:16:41:44
+不明
+Right. Which continues to make the ecosystem pretty complex. With that comes the metadata taxonomy not being standardized, right. Which requires a lot of alignment with various stakeholders, making sure that we're having a single conversation and partnering with key folks, to make sure that we're coming up with one consistent standardized metadata metadata processes, not standardized across the martech stack.
+
+00:16:41:49 - 00:17:04:35
+不明
+Right? So we have different taxonomy in different tools. Not all the tools are speaking the same language. And then last but not least, too much manual intervention and redundant data input. We have marketers. We have end users going into each of these tools and continuing to enter the same metadata over and over, which should be the same rather.
+
+00:17:04:35 - 00:17:17:37
+不明
+But it's different, right? And that's, that's resulting in inconsistent reporting and inability to effective, effectively measure campaign performance.
+
+00:17:17:42 - 00:17:42:09
+不明
+Here's just a quick example of our Pfizer's metadata. Right. We have our taxonomy which is at the highest level right. You want to make sure that that standardize across the enterprise. Under that you have your attributes. And you can see on the right hand side of that slide there, some examples of attributes. And then last but not least, you have your list of values, right.
+
+00:17:42:14 - 00:17:56:42
+不明
+It's not one or the other that need to be standardized. All of this needs to be standardized across the enterprise, across the process and across the technology stack.
+
+00:17:56:47 - 00:18:22:45
+不明
+Just some additional complexities here, right? I talked about this a little earlier. Taxonomy continues to change. Right. We need to continue to manage those changes. Business needs continue to evolve, their systems coming in and systems coming out. Additional considerations like budget and compliance. All the different stakeholders that sit across all of these different areas that are impacted by the new request or the changes.
+
+00:18:22:49 - 00:18:37:14
+不明
+And then of course, you can see just some subcategories there that are specific to Pfizer around brands, business units, medical and other.
+
+00:18:37:19 - 00:19:04:03
+不明
+So here's our approach, right? I talked to you a little bit about our challenges, what challenges we were facing. We talked about what the expectations are from the business. And here was our approach to begin to make progress on our metadata journey. So number one is really understanding the business objective and needs. So gone are the days where digital or IT organizations are just simply taking orders.
+
+00:19:04:17 - 00:19:19:47
+不明
+Right. But having a seat at the table and really bringing in, bringing it in early so they understand what outcomes the business is looking to achieve. So that way can help them downstream from a solution perspective.
+
+00:19:19:52 - 00:19:40:05
+不明
+Or to standardize the metadata taxonomy. Right. You have to gain alignment from the from the stakeholders across the enterprise. And you want to make sure that the taxonomy is standardized before you start to implement any changes in the process or technology.
+
+00:19:40:10 - 00:20:13:21
+不明
+Next one is a source of truth. So now that you have your taxonomy standardized taxonomy, that taxonomy needs to live somewhere, right? So whether it's a homegrown solution, whether you're using work front or another tool, you need to make sure that the standard taxonomy is all stored somewhere where it's easily accessible, easily manageable, and easily, accessible to also not just folks on the digital side, but also in the business.
+
+00:20:13:26 - 00:20:34:33
+不明
+And then we have number four brings us to design and data flows and integration. Right. You want to make sure that you understand all the taxonomy needs. Take a look at your stack. You've now identified a source of truth. You need to make sure that that source of truth can be integrated with the rest of your martech stack, where applicable.
+
+00:20:34:35 - 00:20:55:32
+不明
+So that way everything is being funneled from that source of truth and coming back around. And then last but not least, build the solutions, right? So integrate solutions with the source of truth. Ensure that taxonomies standardize across the technology ecosystem.
+
+00:20:55:37 - 00:21:28:15
+不明
+So here's a picture of what our metadata ecosystem looks like. We have our taxonomy source of truth. Right. Once we gain alignment with our business partners, we made sure that everything was up to date in this source of truth. All of that is being funneled into our work front environment across key capabilities planning, workflow, automation, integration. We're also ensuring that the same metadata is flowing into up.
+
+00:21:28:20 - 00:22:03:47
+不明
+If you see up from there are Am assets library. Right. So again all that same metadata is flowing there as well to ensure there's consistency. It's also being sent to our channel partners. And I'll talk a little bit more about how we do that on the next slide. But it's flowing into our channel partners into Adobe Analytics and back around, and everything is ultimately going into our data warehouse, which is where our business partners will go to leverage the data to run their marketing and performance effectiveness reporting.
+
+00:22:03:51 - 00:22:27:48
+不明
+Right. And you can use different types of dashboarding tools to do that. You know, Tableau, you can use Tableau. There is Adobe Analytics there as well. But the key is it's all funneling into a single data warehouse where the business has access to data. And all of those reports and that data is there, which is then made available for those campaign performance reports.
+
+00:22:27:53 - 00:22:38:15
+不明
+And then ultimately, that reporting is going to be funneled into the next strategies. Right? So if you think of that closed loop.
+
+00:22:38:20 - 00:22:59:15
+不明
+So here's a double click on that Adobe box. I had it in the middle. Because Adobe plays a very key role in ensuring that we can make this all happen. So number one, and keep in mind that the source of truth is integrated here with our Adobe solutions. So number one, the marketer inputs metadata into work front when requesting new work.
+
+00:22:59:20 - 00:23:30:03
+不明
+Any time a new project is created, we have fusion capturing key metadata attributes and sending it to work front planning that. That piece is very important for us at Pfizer because work front has a very complex data set, right, that could be used for many different reasons, right. What we wanted to do was we wanted to identify what are the key metadata values, the key data points that we want to capture to enable our metadata for marketing effectiveness reporting.
+
+00:23:30:08 - 00:23:53:40
+不明
+And we have all of that going into work front planning where it's organized and normalized. Then we use more automation and integration through fusion to package the metadata and send to our internal and external channel. Channel partners as well as into our data warehouse.
+
+00:23:53:45 - 00:24:23:36
+不明
+I'm going to pass it back over to my business partner here, Jason Stall, who's going to talk about some best practices, tips and tricks. Thank you. All right. Thank you. Yeah. I hope this is the most helpful slide to you all. Because this is kind of what gets me through everything. It's kind of a laundry list of some of my general best practices that have helped me across industries roles, but especially on work front.
+
+00:24:23:41 - 00:24:49:35
+不明
+And I'll try to take you through them so you kind of understand my perspective. And if you're watching the games on your phone, I, I understand, one outcomes that you need to achieve give clarity and really set realistic expectations. So a scoring system can help. I usually have a score associated with all features, that take into account our goals.
+
+00:24:49:40 - 00:25:18:21
+不明
+So like whether it's revenue, whether it's user experience, whether it's let's call it engagement, retention speed, cost, whatever happens to be keep it in mind throughout your journey. To use the flow of data, to drive your strategies and that will funnel into your goals and ultimately help you understand your roadmap and essentially drive value.
+
+00:25:18:35 - 00:25:59:14
+不明
+Right. So that could be the flow of data internally. Externally, partnerships across Adobe products, across other products. There's so many layers. That's why the flow is so important. So three is kind of defining the metadata to capture, will allow you to the opportunity, I would say, to take that step back on how to structure it. So levels like what you need to link each thing to each other and then be a step above or below, like across tools, across products.
+
+00:25:59:19 - 00:26:23:41
+不明
+I mean, I usually stand up like a matrix, I would say, as my approach to understand how the pieces fit together better and if that's helpful to you, I hope it is. That's just been my approach and my critical thinking on it. Number four is thinking about how to build to scale is important, and I like to embrace the I would say just in case model.
+
+00:26:23:50 - 00:26:49:31
+不明
+So like just in case this happens, like keep in mind these are the things you might want to do in the future. So like plan for phase ten and work backwards. And that I feel will give you the ability to architect a flexible solution. And it'll enable you to take advantage of the things that maybe you haven't thought of yet, or technologies that haven't arrived yet, or partnerships that you don't know are going to be there in the future.
+
+00:26:49:32 - 00:27:16:58
+不明
+So remember that you won't be able to think of anything or everything. Sorry, but be comfortable or as comfortable as you can be with uncertainty. Five I would say prioritize progress over perfection. Meaning you want to ensure that you're making an impact and moving the needle, as they say. But like be comfortable releasing something that isn't perfect.
+
+00:27:17:03 - 00:27:42:52
+不明
+And I think that could get the job done. And you can always clean it up later, with your next prioritized list. Right, depending on where it falls. But remember that sometimes you just need to get it out there and understand if it's working, if it's doing what it's supposed to do, and focus on like low hanging fruit, low level of effort, items that can add up to be a big difference maker as well.
+
+00:27:42:56 - 00:28:11:57
+不明
+And I feel like that will help you move faster and set yourself up for success. Six. Automation is a word people use a lot. I would say in this case, it could be as simple as a field that has a perceived selection with auto population. Right? How do you cut down the steps to do what you want to do or an input that can funnel in from another location where additional data is stored?
+
+00:28:12:02 - 00:28:36:23
+不明
+That kind of makes users lives easier. So it could be as complex as also an AI driven solution. But in my mind, like, keep it simple, it's all about the user journeys and the potential opportunity for reuse, if that makes sense. Seven consolidation of metadata, which is really tough thing to do, right? Especially at big companies with so many user personas.
+
+00:28:36:27 - 00:29:03:28
+不明
+But what I've learned is, that it is difficult, but when done right, you can align users, you can align stakeholders, you can make it everybody's lives easier, not just yours or theirs. Right? It can lead to less maintenance. It can increase speed. It can enable scalability. So like if you are hitting the check mark on those things, it's going to be really helpful.
+
+00:29:03:33 - 00:29:31:06
+不明
+Now I'm kind of getting into that was more I would say more my product piece and metadata piece. But like this kind of content is king, right? Like, everyone knows that good content. You're good to go, right? Self-explanatory. And the thing to remember from Lauren's conversation is that content needs are accelerating. So the key here is to enable the creation of good content that is scalable and measurable.
+
+00:29:31:11 - 00:30:00:13
+不明
+And we have so many nuances like localization or legal regulation that needs to be accounted for and then be able to understand the performance and link it back to whatever version of the content is out there. Right. And in order to kind of measure that success. So that's kind of another piece that I would keep in mind. And then nine funnels into, in addition to the content, establishing the optimal user experience is key.
+
+00:30:00:18 - 00:30:20:59
+不明
+So without it your data is going to suffer. You can have the best metadata structure in the entire world, but if no one's using the experience the way it's intended or expected, then your data is going to suffer and it won't be usable in the way that you want it to be, right? So I feel like that's what's also very important to keep in mind.
+
+00:30:21:04 - 00:30:44:45
+不明
+And ten I, I would be you know, I wouldn't be doing my job if I didn't mention it. Right. I, I an innovation you could you probably question what I'm doing up here if I didn't mention it, but, another quote, something an old boss used to say to me. Innovator. Die. I know it's a bit dramatic, but it's also true, right?
+
+00:30:44:46 - 00:31:11:41
+不明
+Like, if you embrace technology, you experiment anything that makes your job easier and others jobs easier. AI is only as good, though, as the business and the design and the product and the tech individuals that are partnered. Defining the right parameters and the right way to use it. But if done right, it can save you a ton of time and a ton of resourcing.
+
+00:31:11:46 - 00:31:35:55
+不明
+Something that's not on this slide that I also want to mention quickly, is really, I would say stakeholder management and teamwork. And I know that that's cheesy, but what I mean by this is collaboration is key. And by bringing your team, your stakeholders, your users, along for the ride and not just, you know, doing what you think is right.
+
+00:31:36:00 - 00:32:10:45
+不明
+Align them on the goals. Align them on the data to drive your reasoning. Present them often. Hey, here's what's next, right? And this will create less friction ambiguity. And I feel like it'll really help your partnership no matter what you're doing. So with that, I'll hand back for one last slide to say to take us through what's next for Pfizer.
+
+00:32:10:50 - 00:32:33:40
+不明
+All right. Thank you again, Jason. So just to kind of close it out, right. Like what's next at Pfizer? The journey doesn't end there. Right? And you're you're really never going to be done with metadata. It's going to be, a continuous, you know, management. And you really have to nurture it, just to make sure that you're getting the insights and the outcomes that you're looking for.
+
+00:32:33:45 - 00:32:59:43
+不明
+So number one, streamline, right. Continue to streamline metadata. Right. Make sure the flows make sense. And make sure all that data is flowing downstream where you need to get it to in order to be able to run those, reports for the business, optimize, leverage, previous learnings and best practices, many of which Jason just went over, and make sure that you're continuously applying those good habits.
+
+00:32:59:47 - 00:33:26:13
+不明
+Number three, enhance, right. Optimize for performance. I think, you know, early on your journey, you're going to find places where you have you have to kind of put some some duct tape and chewing gum or some manual processes. Right. Continue to make enhancements, right to build data automation and integrations, to make your life easier downstream. And then last but not least, and I think, Jason, you covered this as well.
+
+00:33:26:13 - 00:33:59:32
+不明
+It's continue to innovate, right. Really understand what are the results that you're looking for. Right. What are what is going to help you from a business perspective? Create a better, you know, brand strategy or understand like which channels to invest your dollars in, right. Continue to innovate to make sure that you can get there. Because ultimately, what you want to do is leverage those data and insights to feed into, your next, you know, emerging strategies.
+
+00:33:59:37 - 00:34:08:30
+不明
+And with that, I want to thank you all for your time. But thank you so much.
+
+00:34:08:35 - 00:34:08:48
+不明
+For.
+

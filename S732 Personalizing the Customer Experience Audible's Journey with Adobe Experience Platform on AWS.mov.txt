@@ -1,0 +1,348 @@
+00:00:00:18 - 00:00:16:03
+不明
+All right. I think we're going to go ahead and get started. I'm sure folks will join us along the way. But welcome everyone. Thank you for taking the time to be here. I know it was quite a trek to make it up all five floors and come to this room, so I'm glad you all were on time.
+
+00:00:16:08 - 00:00:49:59
+不明
+Hopefully we'll get a few more folks in as well. But thank you for joining us for this discussion on Audible's journey of implementing Adobe Experience Platform on AWS, specifically in order to personalize its customer experiences. I'm Maggie Weber. I, focus on marketing, analytics and personalization for Deloitte Digital. And I also helped lead this ERP implementation, along with a very talented team across Deloitte, Adobe and Amazon, some of whom I am joined by today.
+
+00:00:50:04 - 00:01:15:09
+不明
+So with me here we have Kevin Matthews, who is our lead client partner from audible and also senior director of data capture and digital analytics. We also have Kenneth Marcin, who leads our global app practice for Deloitte Digital. And tomorrow, Chaganty, who leads the Adobe Alliance for AWS. So very excited to have the three of them here with us today.
+
+00:01:15:14 - 00:01:44:46
+不明
+I know they have a lot of unique experiences and perspectives when it comes to this topic. We should also have some time at the end for open Q&A, so please start thinking of that as we go through the next 45 minutes or so. So what you can expect today is we'll spend a little bit of time talking through the audible journey of implementing ERP on AWS, some of the key learnings and the use cases that we actually prioritized for this, implementation.
+
+00:01:44:51 - 00:02:13:18
+不明
+And then also what it means to really harness the power of AP to personalize the customer experience and some of the business value that you can unlock with the app. One thing that I'll just note is, we started this journey about, a year ago. It's actually been, over 12 months. We kicked off in January of 2024 with, a great discovery session around use cases and outlining the roadmap.
+
+00:02:13:22 - 00:02:35:22
+不明
+And then, you know, just went live, with the first set of use cases this past January. So, it's been quite a journey. At least 12 months. It doesn't typically take 12 months to implement AP, but this was a unique situation, with audible being the first customer to actually do app on AWS. As you know, that wasn't available before.
+
+00:02:35:27 - 00:03:00:57
+不明
+So there were a lot of intentional pauses in this 12 month journey that you see up here. In order to support some of the product development and the readiness from the Adobe side. One example is when we define the use cases during discovery, we actually shared that with Adobe, and they were able to use that to inform and prioritize the capabilities and features that were then available to us to start our build activities.
+
+00:03:00:57 - 00:03:20:51
+不明
+So this was truly a partnership across Deloitte, Adobe and AWS working hand-in-hand for the last year at least. More so. And Kenneth is going to go through that, to bring all of this to life, and exciting. I hope you all heard this yesterday, but this will also be available in GA for all of you, to use in the next few weeks.
+
+00:03:20:51 - 00:03:42:25
+不明
+So I hope you hear something exciting here, that you could take back to your businesses, or definitely ask questions about how we implemented this for the first time for audible. Okay, so with that said, this was a preview into the last 12 months. I do want to hand it off to Kenneth to tell us a little bit more about how this journey even got started.
+
+00:03:42:30 - 00:04:04:09
+不明
+Yeah. Thanks, Maggie. So, as you all know, and thank you all for joining, by the way, right after launch, I appreciate that. You may, may still be digesting, but excited to be here. And, as you all know, AP has been, on available from Adobe since to roughly 2019. So it's been a few years.
+
+00:04:04:13 - 00:04:38:15
+不明
+And Deloitte alongside Adobe were part of implementing it for the first clients. In the early days. And one of the things that we've uncovered pretty quickly is that there's a big, ask for mostly CIOs, but also some of the marketing, teams on having the ability to have multi-cloud, like having the ability to have a choice in the cloud that they are, using some of their SaaS platform for, in order to ensure that they get more, benefits from using really one and being in one cloud.
+
+00:04:38:20 - 00:05:04:01
+不明
+And of course, you know, Adobe had released app on Azure, and so it was not yet available on, it was not available on, on AWS. And so we got to discussing with Adobe as well with, AWS, we started this discussion back in 2022. So that was it's taking a minute to get there. But great discussions around like what we need to be true in order for us to get app on AWS.
+
+00:05:04:06 - 00:05:26:40
+不明
+And one of the first thing that, you know, we, and covered was we needed to have a customer. Zero. We needed to have somebody who would be the first customer to get on the platform on AWS. And then in parallel, we were also having discussions with audible who were very interested in the platform. And they had some key use cases that they were not able to, implements.
+
+00:05:26:45 - 00:05:52:46
+不明
+And Kevin will talk more about those, in a minute, on their existing stack. And so we kind of worked with them to figure out what are some of the key use cases that, they could that could be available for them once the platform was on AWS. And that was a catalyst for the, the kind of negotiations between Adobe and AWS to finally, a deal to put APM on AWS.
+
+00:05:52:51 - 00:06:20:26
+不明
+So that finally got inked in September 2023. And then that's when we started planning for the implementation for audible. And the rest of the journey, got started. So, you know, super excited that it's finally there. You know, fast forward a few years and that now it's almost, you know, as you heard from Aneel during the keynotes, on, Tuesday morning that it's, going to be available for GA in April.
+
+00:06:20:31 - 00:06:38:27
+不明
+And for all of us, there are other clients that are very interested in staying on the AWS stack, to implement, AP on AWS as well. Yeah. Thank you, Kenneth. And I think there's just so much that went into all of the foundational components of setting up this journey. And I know it was quite an investment.
+
+00:06:38:38 - 00:07:10:03
+不明
+You know, across all the teams that were involved. Kevin, I'm curious, I know Amazon to be more of a build first culture. And I think you all have a lot of, first party tools. What made you choose to implement ERP and partner with Deloitte? Yeah. Thanks, Maggie. Thanks. Kind of thanks. Tomo. I know you know, Audible's journey has been about 12 months with a ERP, but, you know, hearing how many years of development went behind that behind the scenes is, you know, it does a lot of the work for us.
+
+00:07:10:03 - 00:07:31:58
+不明
+So and so thank you all. For me, my ERP journey I would say is about six years old. You know, I was here in Vegas in 2019 when Shantanu and and L were announcing ATP on Azure. And I just remember thinking, you know, this is an amazing step change from that traditional, you know, cookie based web analytics into a true omnichannel customer profile based analytics.
+
+00:07:31:58 - 00:07:53:31
+不明
+And so, you know, we've been looking forward to this for for a very long time. But to your question about build versus buy, you know, it is certainly true that Amazon, with our scale, with our unique requirements, with our security requirements, you know, we do often have to build things out of necessity because there aren't tools off the shelf that can meet all of our unique requirements.
+
+00:07:53:36 - 00:08:13:54
+不明
+You know, I think Adobe is one of those examples of where it is an off the shelf solution, but it's also open enough to where we can customize it to fit within our own architecture. And so, you know, we were essentially just, waiting for freight to become available on AWS, you know, speaking to some of the limitations of our stack.
+
+00:08:13:58 - 00:08:42:34
+不明
+I'll start by saying that we've had the architecture appearing in reference. So we've actually had Adobe, at audible for over ten years. So we've been heavy users of Adobe Analytics target for personalization as well as audience manager. But one of the key limitations for us is that our customers engage with us across multiple touchpoints. We have experiences on Amazon, we have audible web, audible apps, we engage on third party platforms.
+
+00:08:42:39 - 00:09:02:42
+不明
+And, you know, again, one of the limitations of traditional web analytics is that those are all treated differently. And it's really complicated for us to stitch all those together. So we end up doing a bunch of post-processing from an analytics standpoint to look at that end to end customer journey. So ERP is a miracle in a sense, because it solves for that.
+
+00:09:02:49 - 00:09:25:28
+不明
+You know, it takes all of those touchpoints, stitches them together, creates that unified customer profile, and enables us to, you know, to see our customers along the journey and personalize it, along along the same journeys. So you might be wondering, you know, why did we wait six years if I was here in 2019 wanting. Yep. Well, you know, we are a part of Amazon.
+
+00:09:25:28 - 00:09:45:00
+不明
+We're deeply embedded within the AWS ecosystem. And so we wanted to wait for that opportunity to build up on AWS. And so when our friends here came to audible and said, hey, do you want to join us on this journey? We were super excited and, and, you know, definitely couldn't wait to be the customer zero on the B2C side.
+
+00:09:45:05 - 00:10:05:57
+不明
+So, so, yeah, you also spoke to some of the advantages of being customer zero. And and I don't take that lightly. You know, we spent a lot of time about a year ago really curating that list of initial use cases that covered the breadth of the tools and capabilities, but also covered many of the the surfaces that you see up here.
+
+00:10:06:01 - 00:10:34:48
+不明
+And, and so we took that set of use cases, handed it off to the AWS and Adobe engineering team. And as they were building the platform, we were the Guideposts. So that really ensured that when the product was ready, all of the tools and capabilities that we needed for our use cases were ready to go. And then second, you know, I have to shout out to to Deloitte, you know, as you mentioned, you were some of the the early adopters in implementing it up with some of the biggest clients for Appian, Azure.
+
+00:10:34:48 - 00:10:59:09
+不明
+So, you know, between having that distinct advantage is customer zero plus a really strong implementation partner. There was no question that we were going to, you know, partner with you guys as customers. Zero. So it's awesome. And the feeling is neutral. I think we set this goalpost of a January 31st go live a year ago before really knowing the details of what it would take to implement this for the first time.
+
+00:10:59:09 - 00:11:17:45
+不明
+And the product became available to us in September. And then we started really a lot of the build activities between September, to get us to January. And so I just want to, you know, echo that in terms of the partnership that it took to get there and to do this for the first time and to figure out this architecture, but also figure out how to incorporate into audible as a customer.
+
+00:11:17:45 - 00:11:41:42
+不明
+Zero. So thank you for that. Yeah. Toma. I do want to hear from you as well. So AP on Azure has been around for some time. What is really unique about AP on AWS and what can companies expect? Sure. Yeah. Thanks, Maggie, for that question. Know, I think the first thing to call out here is because audible, our friends or family at, at within Amazon, was the first customer.
+
+00:11:41:42 - 00:12:05:09
+不明
+We were able to have a seat at the table, working very closely from a partnership perspective, AWS and Adobe, to ensure that, you know, best practices were being used for application development, the right architectures. So ultimately audible as well as all businesses will have, you know, highly, you know, high performance, resilient and secure, platform to be able to to drive, you know, personalize experiences.
+
+00:12:05:09 - 00:12:25:33
+不明
+So I think that's one of the unique things here is we know with, you know, confidence that is certainly scaling to audible's business. And there, you know, over, you know, billions of customer touchpoints. So that's a great testbed that, you know, folks in the audience can have that additional level of security to know that, you know, what was scaled scaling to audible's business and secure enough for for audible's business.
+
+00:12:25:33 - 00:12:45:07
+不明
+Then, you know, it's going to be, a good option for you, for your business as well. I think the other thing to call out here is a AWS. There's going to be a lot of interoperability advantages. So I think the first thing to call out here is I see customers, many customers building their customer data lakes on AWS.
+
+00:12:45:12 - 00:13:05:03
+不明
+And as you can imagine, you know, working within an AWS environment with AEP on AWS presents a lot of advantages in terms of, you know, better performance, lower cost in terms of managing that data as well as security, because that data is never exposed to the internet from as you're moving it from one AWS environment to another.
+
+00:13:05:07 - 00:13:32:45
+不明
+And then I think the last thing to call out here for the time being is, you know, much of Adobe Digital Experience technologies run on AWS. So the interoperability with other products like, Adobe Experience Manager, managed Services, Adobe Commerce, target, Adobe Campaign, Marketo, all of these other DCS products, run on AWS as well. So the interoperability amongst your your Adobe stack on AWS is going to be very good.
+
+00:13:32:58 - 00:13:54:55
+不明
+So I think those are kind of the main things right now. And I think there's going to be more enhancements and benefits coming forward. As you know the platform matures. Yeah, absolutely. And personally I know a lot of our clients are just AWS shops and have really been waiting for this to fit into their tool stack. So I'm excited now that we've done this with audible and AWS marketing as well as customer zero to take this a bit broadly.
+
+00:13:54:55 - 00:14:18:06
+不明
+So thank you for for that. Kind of I know we talked a little bit about our journey at a high level, but can you tell us a little bit more about, how Deloitte has been able to partner with Amazon and Adobe and what's next for this partnership? Yeah. So as I mentioned, once we we inked the deal between Amazon and Adobe to put finally the platform app on AWS.
+
+00:14:18:10 - 00:14:37:10
+不明
+Then we got to planning that customer zero implementation and how we're going to enable that for audible. So you see here kind of the very high level timeline on how we did that, you know, starting with really a discovery of what were the pain points. Obviously, we knew at a high level the pain points. And Kevin described some of them.
+
+00:14:37:15 - 00:15:09:16
+不明
+But we need to gain on to like what are some of the, challenges and what are some of the use cases and KPIs associated with, use cases in order to, really, use EAP to add value for audible? You see here, you know, obviously creating a unified profile was super important to, you know, to especially to bring kind of the unknown data with the known data and, and really have a better view of how a customer, you know, moves through the lifecycle, for audible.
+
+00:15:09:16 - 00:15:28:46
+不明
+And that was kind of a key pain point that they had. They could not really like tie in some of the unknown behaviors to, you know, people after they sign in and what they were browsing, etc.. And so that also led to the next kind of big set of use cases, which was personalization, right? Like being able to personalize the experience.
+
+00:15:28:51 - 00:16:08:36
+不明
+Even if the customer is not signed in, being able to tie in that customer data or integrate that customer data with target in order to enable that personalization on, on the web, was definitely one of the, big use cases unlock that we could do. And then, as I mentioned, the customer journey analytics. So a big piece of this was really fully understanding the journey as the customer was going through not only the web, but also all the other channels which, I think was something that was not really available before, but being able to, you know, figure out the behaviors on the different surfaces and stitch them together.
+
+00:16:08:36 - 00:16:43:21
+不明
+So that you can see, okay, if a customer came on this surface and they started a title, listen to a title on the surface, you know, how are they going to, what's the next step like, you know, when they're listening in the car and then maybe, like, going and, listening at home? What is some of that experience where we're actually, ingested a lot of the listening data into the platform, to the point of, like, you know, when they're pausing, resuming, and then, you know, obviously the, the devices that they're using, they call it surfaces, at any point.
+
+00:16:43:21 - 00:17:15:34
+不明
+So that really helps upscale. The understanding of audible on the full journey, end to end, which then will be able to allow them to create new audiences and segments that they can activate. So, in terms of the design, we looked at those use cases and figured, okay, how do we implement those? And we, you know, we figured out, obviously we need AEP, we need our CDP in order to have those, segments and integrate them with target.
+
+00:17:15:39 - 00:17:41:56
+不明
+And then we need for that customer journey and analytics piece, and then the ability to send audiences from CGA based on the insights that were gathering back to us at CDP, so that then you can be sent back to target for personalization on, on the web. So we spent some time on design. I think Maggie mentioned a little bit, you know, you see this, this we started in January and then went live in January.
+
+00:17:41:56 - 00:18:06:33
+不明
+Took 12 months, but we did had to pause in between because as much planning as we could do, we had to wait for Adobe to actually build the product on AWS. And so there was a bit of a gap between, some of the design work and the implementation work to let Adobe catch up. Once the product was available, back in September, we were able to resume and sell the implementation.
+
+00:18:06:37 - 00:18:29:02
+不明
+And that actually was really fast. I think, it just took, you know, three, four months to do the implementation. The main kind of pain point here is that, I think two big ones, and two lessons learned, if you will. One was production data. And make sure that that's ready as soon as possible. And you know that would took a while.
+
+00:18:29:02 - 00:18:57:55
+不明
+And obviously, Amazon being a very, I would say conservative company for good reasons around privacy and security and, you know, ensuring that customer data is handled with extreme care. We had some additional activities that we need to do in order to, to get there. From a production data standpoint. And then, you know, obviously, Adobe was building the product or had, you know, we're still in the process of, you know, building and fixing the product as we were went along.
+
+00:18:57:55 - 00:19:29:13
+不明
+So one of the big things we were working on very closely with the product team is, any issues we found, make sure that we worked hand-in-hand with them to troubleshoot and resolve. As you know, the product was still, I would say, you know, not completely stable at that point as we were going through development. So, but I think, you know, pretty amazing, actually, at the fact that we still managed to launch on time, we did have some buffer in the timeline because we were expecting some of those things to happen.
+
+00:19:29:18 - 00:20:01:54
+不明
+But I think we, we were able to take that into account and work with Adobe to move as fast as possible to, to do it. And finally, you know, do do the go live. So, launched at the end of January and then there's some stability that is still being worked on, as we speak, there's, you know, obviously some things because we didn't get the production data on time, there's some findings that happens quite late that we're going to need to, update now, so that some of that is in process.
+
+00:20:01:58 - 00:20:19:54
+不明
+One other big thing that I'll mention is that, kind of late in the process, we found out that we really needed web SDK in order to, plug in some of the data collection and make sure that we get that, data out, you know, for some of the behaviors on the web, into the platform.
+
+00:20:19:58 - 00:20:44:02
+不明
+And that kind of, you know, that could have happened earlier in the process. And, you know, one of the lessons learned is making sure that data collection is apps. That's, being really, looked at during discovery and figure out, do we have the right data collection? Do we need more? Do we need web STK, which allows you to stream data faster, into AP depending on the use case.
+
+00:20:44:02 - 00:21:07:30
+不明
+You know, if you have real time, requirements from a frequency standpoint of the data, do you need, you know, that that's some of the considerations for a data collection mechanism and whether you need web SDK. So that happened kind of later in the process. And so we we kind of learned that, and yeah, that's, that's the journey that, we had over the last year.
+
+00:21:07:35 - 00:21:28:30
+不明
+Yeah. And maybe there's more to the what's next piece of it. But I also just wanted to, it kind of point out that these use cases that you have here, those were very foundational use cases that I think are a great starting point for anybody looking to implement this for the first time, right around the unified, customer profile, some of the CGA insights and analytics capabilities.
+
+00:21:28:30 - 00:21:50:49
+不明
+So a lot of these around listening and measurement for audible specifically, and then how those downstream activate personalization. So we actually also walked away with quite a big backlog of additional use cases that we could do in the future as well. Yes. Is there anything else you wanna talk about? Step one on the journey. And then we'll cover some of the next steps later on.
+
+00:21:50:54 - 00:22:15:18
+不明
+Yep. That's awesome. Well, on that note of use cases, and for anyone who is an audible fan out there, Kevin, I'm wondering if you can bring this to life a little bit, around, you know, how will app help you deliver more personalized customer experiences and why you chose these use cases? Maybe one that sticks out to you and how that comes to life in terms of using API.
+
+00:22:15:23 - 00:22:35:08
+不明
+Yeah. Yeah, sure. And Kenneth, you provided so much context on the use cases already, so maybe I'll offer just a, a slightly different framing of it. So during discovery, you know, we landed with a whole laundry list of use cases, and boiling the ocean is definitely not the right approach. And in a, you know, a P0 implementation.
+
+00:22:35:13 - 00:22:55:09
+不明
+So, you know, as I mentioned before, how did we narrow that down to ensure that we're covering the right breadth, but also bringing enough data into the platform for our P0 that we can, you know, quickly turn on P1, p2 use cases. So we really thought about use cases in terms of three buckets. The first being the data foundation itself.
+
+00:22:55:13 - 00:23:36:30
+不明
+So bringing data in from multiple channels both online and offline. Stitching together that data into customer profiles, adding attribution into the CDP, enabling, you know, those profiles for, for downstream activation, etc.. So the foundation itself is, is step one. Step two is, analytics and insights. So taking that data within the foundation using these new customer profiles and starting to visualize and measure customer journeys in a, ultimately with the goal of, you know, gaining insight in, so that you can either improve your marketing performance or, you know, we have a lot of product managers who actually use Adobe data.
+
+00:23:36:30 - 00:24:13:36
+不明
+So, you know, when they implement a new feature, we add a bunch of instrumentation so that they can visualize how customers engage with that. That's another use case for for CX. For us. And then the last bucket is all about, you know, segmentation and activation. So whether you want to use the data within the profile itself to, to add segments and activate or I think what we're really excited about with CJA is the ability to create journeys, visualize them, measure them, and then, you know, find either cohorts of customers who are doing something or in many cases, not doing something, falling out of a funnel, creating a segment live in CJA, pushing that into
+
+00:24:13:41 - 00:24:32:49
+不明
+CDP so that you can now activate that through target or one of your own downstream activation systems. So to sort of bring that all to life, I'll maybe give an example of, let's say a, a customer comes to our site for the first time. So there are prospects. We don't know anything about them. They're not logged in.
+
+00:24:32:49 - 00:24:59:42
+不明
+They don't have a customer ID, and they start sort of browsing around. And, you know, maybe they have a particular affinity towards sci fi. So they come to a sci fi category page and maybe they start clicking into some sci fi titles. But then they, you know, they get distracted, and they bounce off the site, thankfully, along the, you know, that first journey, which with every step of the way, we created a profile in our CDP.
+
+00:24:59:47 - 00:25:20:04
+不明
+We started adding attribution. So now we know they have some affinity toward, sci fi in this case, so that when they come back in a couple days, we're not just landing them on a blank home page again. You know, there's a lot of ways that we can personalize this to reduce some of that friction. You know, could be as simple as adding a carousel with some sci fi titles to the home page.
+
+00:25:20:09 - 00:25:43:45
+不明
+We could land them directly on to a sci fi category page. Or, you know, I think one of our initial use cases is just keeping that last page that that they were on so that we can land on directly on the last product, and really try to reduce that friction. So, you know, again, the ultimate goal here is to, you know, reduce the journey, get customers listening as quickly as possible.
+
+00:25:43:49 - 00:26:08:07
+不明
+And so that's just one of many use cases that we're, we're hoping to go live with, with other, you know, our zero implementation. Absolutely. And I and I love that because that's something you weren't able to do before. And now you will. And we've been talking about measuring the value of being able to do that. Right. And like what does that mean in terms of some of your KPIs as audible and how that, you know, will deliver value to you?
+
+00:26:08:07 - 00:26:31:55
+不明
+So I think that's one of the things that we look forward to with, AP as well, in terms of the value realization. Yeah. On that note, I did. So we talked a lot about what the journey has been like so far and that this was a first of its kind implementation. So if we could just go around maybe and hear from each of you, what are some of the key learnings or key takeaways for you when it comes to doing this type of work?
+
+00:26:31:55 - 00:27:00:22
+不明
+And maybe we'll start with you. Tomo. So I can give Kevin a chance to catch his breath and then come back to him. Well, I was more involved than partnership side, so I think the key thing here is just staying close to the entire build process. Making sure that, you know, I'm working closely with the, the account teams that support Adobe to make sure everything is on track and then we're kind of gearing up our, our respective teams to start to coalesce around the additional customers.
+
+00:27:00:27 - 00:27:27:59
+不明
+That may want to start evaluating, on AWS. So I think that was a unique situation for us. Right. Because it's in advance of our product that's that's to be released. So, I think that's for now. The big the biggest takeaway. Okay. What about for you, what's the biggest key learning from this journey. Yeah I mean I think I covered some of that as I was going through the, the process and what we went through.
+
+00:27:27:59 - 00:27:55:25
+不明
+It's I think, obviously there's always, you know, kind of roadblocks when you're a customer. Zero. So seeing as, as someone mentioned, staying close to the product, team, in order to do that. But what I'll say is maybe, you know, for additional clients. Right. You this should not take 12 months, right? Like when you're going to implement, app on AWS, and, and maybe you're looking at agile.
+
+00:27:55:30 - 00:28:18:13
+不明
+This will be a lot faster because, you know, obviously the product now is there and now it's going to be available on, I mean, on AWS. So that should not last that long. There might still be you know, over the next year or so, some product stability, you know, I will say, hiccups. But, by not, I think that should be resolved within the next few months.
+
+00:28:18:18 - 00:28:52:49
+不明
+So that should be fine. I don't know that that will be a huge challenge. And then, you know, ensuring. So so back to kind of some of the points I was making, ensuring you understand that I collection, you know, early on in the process, ensuring you have a good set of use cases, but not boiling the ocean, as we mentioned before, you know, not having, you know, starting with a small, set of use cases that you can then use to test and learn and then slowly scanning up to additional use cases, and then a few other things that I would mention that, you know, audible has been an
+
+00:28:52:53 - 00:29:29:00
+不明
+awesome partner to work with on that front. But I've seen some of the clients where, you know, when you treat this type of projects as a very technology centric project, it's, you can miss sometimes the operational model, change management and process that you be to, do in parallel of the tech implementation to ensure that once you go live, you can really, use the full value of the platform, because if it's just, you know, a piece of technology that you have in your tool stack and nobody's using it or the adoption is in there, it's, you know, wasted money and effort.
+
+00:29:29:00 - 00:29:56:17
+不明
+So making sure that your partner very closely with the marketing team and the business that are going to be the users of the platform, they should be involved from the beginning, from the discovery phase, from use cases. They should be heavily input it into the use cases. And then having them involved through the process, having them do kind of operating model work in order to make sure they understand, you know, what's the new operating model once this platform is live for them?
+
+00:29:56:22 - 00:30:16:22
+不明
+And then what's the change management in order to encourage adoption, ensure that their marketing team and business teams are ready to use the platform once the platform is live? It's probably not going to happen overnight. I'd go live there. Might there's probably going to be a period of time where you slowly ramp up and there's different models depending on our clients.
+
+00:30:16:31 - 00:30:43:10
+不明
+You know, some model want to go, you know, full we want to launch it to everyone at once, although that's pretty rare. Most of our clients choose to do kind of a CEO type model where you have a centralized kind of journey, or an analytics and dashboarding team that's going to really touch the platform. And then slowly, move to kind of a hub and spoke model model where other teams are plugging in with specific resources that are going to be touching the platform.
+
+00:30:43:10 - 00:31:03:31
+不明
+So lots of different options. And it's, you know, obviously this depending on clients, I think from audible, it was more of a CEO standpoint with Kevin's team really focusing on the journey analytics and, working with a different audible team to bring them the insights that they're gathering from, the United Access, a model that worked really well for them.
+
+00:31:03:36 - 00:31:38:57
+不明
+And then, yeah, once you have like the people process and technology figured out, then then you're good to go. Then it's about, you know, what's next and the roadmap and, and how do you evolve the platform to continue to add more value to it. That's great. Thank you. How about you, Kevin? Yeah, I mean, I think there's a lot of overlap with, with what you said, you know, as again, as a company that had Adobe Analytics for a long time, I think initially we were thinking about this probably in an oversimplified way of CJA being sort of the next generation of Adobe Analytics.
+
+00:31:39:01 - 00:31:58:14
+不明
+And, you know, Adobe, even in some cases market. It markets it that way in the sense that like workspace looks the same, you know, but that really couldn't be further from the truth. You know, the way you collect data is very different, the way it comes into the platform and it gets manipulated. The way you set up customer profiles and set up the identifiers you're going to use to stitch things together.
+
+00:31:58:19 - 00:32:19:48
+不明
+The way you create data, views and CJA, the way you know everything, essentially end to end is different with CJA. So, you know, to to your point, I think ensuring that you have that change management and operational components baked in is critical. Because it's not just the folks working on the project itself that are going to be impacted once it goes live.
+
+00:32:19:48 - 00:32:47:27
+不明
+It's like every user of these tools, whether they're, you know, replacing or migrating existing functionality or whether they're being trained on that new functionality, like with the CDP. You know, just don't, don't underestimate, you know, that level of effort on the back end of the implementation. Yeah, absolutely. So to round us out here and hopefully that's a little bit of a prompt for all of you to think of.
+
+00:32:47:27 - 00:33:04:57
+不明
+Any questions that you may have. And if you want to start lining up here, we'll take Q&A soon. But just want to hear from each of you one more time and we'll start back with you. Tomo, we've talked a lot about AP, and, you know, for us, that was real time CDP. That was customer journey analytics.
+
+00:33:05:02 - 00:33:22:52
+不明
+I don't know everybody's extent of knowledge on the tools and how to use them, but hopefully this just gave you a little bit of an idea of what it takes to implement that. But from an API perspective, what is really the biggest value of AP and what does the future of AP on AWS look like? Sure.
+
+00:33:22:57 - 00:33:48:27
+不明
+So me right. Yes. We'll start with you. You want to click yes. So there's a call because the situation was unique and we were involved with Adobe during the build this product. We also had a head start and some of these really cool integrations and offerings that we're going to bring to market together. So this was just announced yesterday, publicly, really two core offerings between the Amazon AWS and Adobe partnership.
+
+00:33:48:32 - 00:34:08:47
+不明
+The first one is Amazon Connect. So for those of you who don't know what Amazon Connect is, it's our, omnichannel, call center, system. And there's a customer profile in it, right? You're capturing all of that customer, interaction when you when you feel the call, you feel that customer chat that customer profile data is being integrated with the customer profile.
+
+00:34:08:47 - 00:34:38:25
+不明
+And yep, to give ultimately businesses a more complete view of the end to end customer journey. So that you can drive a better personalized experience on digital as well as, you know, customer service channels. With this unified data now, it opens up the opportunity to create, AI powered agents, right? Using Amazon Q connect in connect as well as, EPS, agents, to drive an even more, personalized experience with these agents.
+
+00:34:38:25 - 00:34:58:44
+不明
+So that's one of the first releases, and then the second one's really cool. If you want to click over to this next one. I think everyone's familiar with Amazon ads. So Amazon as an Adobe is integrated in, in several areas. So you're an advertiser. What do you want to do. You want to create you want to run an ad campaign on Amazon ads.
+
+00:34:58:58 - 00:35:23:41
+不明
+What do you need? You need content so you can go into either Photoshop or, Adobe Express and create content directly for Amazon ads with that content, what else do you need? You need an audience. Segment ideas segments from app can be activated with that content directly into Amazon ads. The performance insights feedback into EPA via Amazon Marketing cloud.
+
+00:35:23:41 - 00:35:50:35
+不明
+So that ultimately, advertisers will get, you know, can manage better return on their ad spend. So these are the two really cool things that are available now. And we anticipate additional, joint offerings to come. So really excited. This is really something with the broader Amazon partnership with Adobe that, some of the unique things that we're able to bring to bear to ultimately drive more value for customers, using AP.
+
+00:35:50:40 - 00:35:52:58
+不明
+Awesome. So if anybody has questions for.
+

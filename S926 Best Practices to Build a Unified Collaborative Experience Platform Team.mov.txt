@@ -1,0 +1,420 @@
+00:00:00:45 - 00:00:33:25
+不明
+Hi folks. We're going to go ahead and get started. Welcome to Best Practices to build a unified collaborative Experience platform team, which is a mouthful, but we really are here to talk to you about how you create really good teams to implement, deploy and run your Adobe Experience platform. Really quick introduction. Katy Brady I'm an enterprise architect with Adobe, with Adobe for nine years as an enterprise architect, and as it says, I like to really build cool things, with tech.
+
+00:00:33:30 - 00:00:51:59
+不明
+And one of the really, things that I've learned over the years is that it's not enough just to build. You also want to have really great teams to help you build. Yeah. And good morning. Good afternoon, Adobe Summit. I'm my name is Graham Sensing. I'm a principal program manager. It's super cool to be in a room where I can say my title.
+
+00:00:52:12 - 00:01:15:20
+不明
+And you guys, at least contextually, know what that means. Versus, like, I'm sure our dinner tables and campfires, like, what do you do? What does that mean? So, yeah, I'm a I'm a delivery lead for AP projects specifically. I live in Abilene, Texas. When I'm not, on zoom calls or slacking coworkers, I'm usually trying to to coach my son's little league teams.
+
+00:01:15:25 - 00:01:30:27
+不明
+I've tried to do this with my daughter. But instead, she just asked me to be on stage with her in ballet. So this is not the biggest crowd I've been in front of recently. I was a flier for her in The Nutcracker, this past Christmas. Thankfully, it was also not recorded. But. Yeah.
+
+00:01:30:27 - 00:01:48:54
+不明
+So team and again, I share that with you to show. But the passion that I have for teams and working as a team, and I try to do that with my son. Music playing like. Okay, totally like a party going on in the room behind us. I thought session with my session just got lit. All right, all right.
+
+00:01:48:59 - 00:02:10:36
+不明
+I was like, that's not me, is it? But so team is really, really important to me, and therefore I love even being around the sporting events, like with my kids and kind of share that team leadership and coaching mentality. And we share that across and to and to work to you. That's one thing I love about being a project manager, is that you really get to spend time coaching and mentoring and teaching leadership skills.
+
+00:02:10:40 - 00:02:31:03
+不明
+And growing our teams. And that's what we're here to talk about today. Really with with Adobe Experience platform. Or you'll hear us say app because acronyms are fun. It is a very, very complex ecosystem as I'm sure you know. No matter where you are in your journey. And, and it's hard to be honest.
+
+00:02:31:04 - 00:02:52:05
+不明
+Like, the technology is great. It's super, super cool, but the but but customer experience marketing at scale across enterprise organizations is tough. And and that's okay. Right? It's it's we're here trying to solve problems, trying to figure it out. And so Katie and I have done a lot of projects, some together, some apart. For very large enterprise organizations.
+
+00:02:52:10 - 00:03:22:43
+不明
+And we've tried lots of different types of methodologies to deliver projects. We've tried, traditional waterfall start to finish, we've tried agile, we've tried all the funny agile falls and things you can mix up. And really where we've landed across lots of years, of different enterprise AP projects together. Is that landing on the model? A Tiger team model has been really, really successful for us, and we've seen a lot more value recognized by our costs by customers using Adobe Streams platform.
+
+00:03:22:48 - 00:03:41:14
+不明
+And so, you know, today, we hope that you walk away not necessarily understanding the technology better. Although, when Katie talks, listen, because she's an amazing enterprise architect, I could go very deep on how the technology in the tool works. We we want you to walk away kind of understanding and be thoughtful of what can I take away to apply to my AP organization?
+
+00:03:41:15 - 00:04:09:11
+不明
+Where am I at in the lifecycle and the maturity curve of, my, my team's app adoption? And what fits my organization best? So why Tiger teams? I'm glad you asked. So marketing as we see it, is really staff and organizing columns. We have, you know, you have your outbound marketing channels, you have your now AIML marketing teams.
+
+00:04:09:16 - 00:04:41:37
+不明
+You have web content, app content. And all these teams, typically in an enterprise organization, is very siloed and organized. You have different VPCs, different budgets, different agendas. And so naturally, human organization, we organize in these in these column structures. Now martech is also in these columns. Right. So we follow what works before. And, you know, traditional marketing organizations hasn't really changed over time.
+
+00:04:41:42 - 00:05:02:54
+不明
+And so we have development teams and QA teams, architectural teams, engineering teams. And so, that's the natural evolution. And that's not a bad thing. Right? That's how these enterprises have scale. That's why they're big. We've made acquisitions. Our company has your company may have multiple different dispersed, you know, marketing teams coming together through acquisitions and things of that nature.
+
+00:05:02:54 - 00:05:22:54
+不明
+And that's normal. However, our customers as we know, experience us in rows. They experience us on the app. They experience us, from the push application that we receive. They experience us and they call on the call center. They experience us when they are driving down the highway and see our billboard, or watching the Superbowl and seeing your commercial.
+
+00:05:22:58 - 00:05:53:27
+不明
+And so our customers experience us left or right. And these rows, obviously that the Adobe Screens platform is built with that in mind, trying to also expand across said rows. Right. And we see the technology honestly being ahead of people and processes and organizations. The technology can have that unified profile. And I, I said this yesterday, too, I get royalties every time I see a unified profile.
+
+00:05:53:27 - 00:06:16:13
+不明
+So I'm gonna say that a lot over here. But that unified profile, it brings people together. We have a central view of the customer. We can, you know, activate and reach out to our customer across all these channels, whether you're integrating with VA or you're pushing out and creating segments and CDP and trying to push out on experiences on target or an edge or decisioning, what have you, the technology's there.
+
+00:06:16:13 - 00:06:48:54
+不明
+But people, we're still in these in these columns. Our organizations are still very column centric and siloed. So we want to talk about how we can meet our customers and their experiences in rows. So that's the biggest takeaway, right, is how are we as team leaders, project leaders, AP practitioners, how are we supposed to think and execute and build teams that can meet our customers, to experience our brands and these rows in not in columns.
+
+00:06:48:59 - 00:07:12:27
+不明
+So I'm gonna turn over to Katie for a second, talk about kind of who's who's included in Tiger teams and how that that initial baseline staffing model. Sure thing. So when we think about teams and what it takes to deploy experiences at scale, especially with a platform like ERP, it's marketing teams and it's your technology teams, and their teams that need to integrate together now and not work in separate silos or columns.
+
+00:07:12:32 - 00:07:37:46
+不明
+But you're looking at enterprise architects, data architects, product owners, things like that, that own the tech and have the typical technology, responsibilities around sla's and uptime and creating capabilities for people to use, and then marketing teams that want to use those capabilities and creating messages and experiences and creating those really compelling customer events that bring them to your brand.
+
+00:07:37:51 - 00:08:00:15
+不明
+But we're we're asking people to start thinking about is looking at it across as an experience and looking at experience owners across both of these types of organizations, and really thinking through the entire start to finish customer experience as they experience the different parts of these channels. And that includes an experienced champion we'll talk about in a second.
+
+00:08:00:19 - 00:08:25:55
+不明
+Enterprise architects, project managers, people that are able to look across and drive that from a leadership and a vision perspective. So I'm super passionate about this. I think this is an emerging role is this concept of an experienced champion. And this is the person that will own almost like a product and experience. So that could be I own new customer experience.
+
+00:08:26:00 - 00:08:45:50
+不明
+I own loyalty, customer experience in the sense of I understand how I acquire and talk to that person outside of my channel. I understand what the conversations I am having with that person when they are in our channel, whether digitally, digitally or physically. And I understand how to help them get the things done that they need to do so that they can enjoy our product and grow with us.
+
+00:08:45:57 - 00:09:09:11
+不明
+Right. That is an experience champion that somebody is passionate about, that experience that person's having and understands how they interact with email, how they interact with SMS, how they interact with all of the different ways that you can touch with them. That's a champion. That role doesn't really exist. We might have I'm a champion of homepage experience column.
+
+00:09:09:16 - 00:09:33:31
+不明
+I'm a champion of email marketing column. I'm a champion of AB testing column. So we need to talk all the way through that and understand the tech and the customer experience to really understand how to drive that to a really great outcome. Yeah. So, how do we structure these Tiger teams. And we talked about the experience champion be a key component there.
+
+00:09:33:36 - 00:09:57:58
+不明
+There's also all parts of the ecosystem. Really to start talking a bit more on, the technical talent. We'll go to the maturity curve here in a minute and keep us through. But I wanted to emphasize as well that, the experience champion, as Katie mentioned, the columns, it's it's a role that is, you know, we're used to like, product owners and product backlogs and, and we use the word owner and a lot in that APL role.
+
+00:09:57:59 - 00:10:16:00
+不明
+Maybe it's a scrum team. So it is a very different it's a similar skill set, but it's it's a unique skill set that understands the marketing, and the outcome that the business wants to have the marketing, but needs to understand the technology too. So it does require a bit of homework to to have that skill set come to life.
+
+00:10:16:04 - 00:10:32:48
+不明
+Yeah. And so to get there you're going to go through a bit of a maturity curve. And so for those of you that have been with our products for a very long time, pre AP, you probably had, you know, put a piece of JavaScript on a page and then you could go do what you wanted to do with target.
+
+00:10:32:52 - 00:10:51:20
+不明
+It's more JavaScript on the page. You could do what you want to do with analytics, you know, that sort of thing. And then you might have some connections between the two. But are products actually also organized you into columns intentionally or not? But that was the outcome. But over the years we got asked, hey, I need these products to talk to each other.
+
+00:10:51:25 - 00:11:25:19
+不明
+I don't want to replicate things through them. We've had these conversations, as you know, in the pre days. And that's became the evolution of experience platform. So now we have organized across channels and across data across experiences. And it's time to move people into that next phase of how you organize with that to initially when you start to build with AP, it may make sense to kind of stay in what we call the squad mode, because you're trying to translate what you have been doing into a new piece of technology and stand up some very foundational capabilities.
+
+00:11:25:24 - 00:11:57:07
+不明
+But when it comes time to actually deploy at scale, that's when you come up the curve and you start working across those, columns as a team. So you might see in squads, as you start to deploy a data squad, a messaging squad, something maybe some technical folks in your SDK, analytics decisioning your audiences are real time CDP, and those are the folks that are going to go in there and turn those things on, move from existing platforms that you have into the new platform.
+
+00:11:57:12 - 00:12:14:06
+不明
+They're the folks that are going to really think about how they take what you're doing today into the technology stack. Yeah. And I would say real feature capability focused. Not a lot of use case driven or maybe use case foundations of what is a central North star for you have your MVP use case building out the architecture.
+
+00:12:14:06 - 00:12:32:52
+不明
+It's important to know you know we're doing our our first use case for an MVP use case. Maybe an abandoned abandoned cart experience. And so that helps you have a unified profile, that helps you think through some of that MVP use cases. But really your this team when you're at inception is really product and capability focused. If we're being honest with ourselves.
+
+00:12:32:56 - 00:12:55:45
+不明
+Yeah. All right. But then we go into a place we're trying to run and operate that right. Should have a full catalog of capabilities like kind of choice of people coming in and being like, this is the thing I need to do, and this is what it maps to from a capability perspective. And that's where you'll see individuals from these different squads that fit into these teams to go solve a activation use case.
+
+00:12:55:49 - 00:13:19:37
+不明
+And then you'll have your leaders of program managers, enterprise architects, experience champions as part of that overall umbrella looking across everything. And this is really important because that helps you also scale. If you have somebody that's in a squad all day and they're waiting for that JIRA ticket to come in and they're going to answer that thing and it's their ticket and they're going to pop it over the fence and they're going to answer that next year ticket, and they're going to pop it over the fence.
+
+00:13:19:42 - 00:13:38:37
+不明
+They're not thinking holistically about the whole thing that they're trying to build. But when you have five people that are just really trying to get into there and build an experience together and they're interacting and talking, they're going to get ahead of those problems. They're going to understand the experience and they're going to build faster, iterate faster, and get to production faster.
+
+00:13:38:42 - 00:14:01:10
+不明
+That's right, that's right. So we're going to play a little game here. With Katy, and we're going to talk through some example experiences that we might have, you might could implement within your AP stack and kind of talk through some of the, some of the, staffing that may be included. So you can kind of think through who's, who's needed for what, what type of skill sets you need for these use cases.
+
+00:14:01:15 - 00:14:29:25
+不明
+So, we know we have the product squads. And I talked about the foundational capabilities. And so you still have those product owners. You still have to be a lead data architect. You know, a lead campaign or agile, consult or sorry, practitioner. But you also then have the design lead. And this is where actually Katy and I have sat in most of the programs we've led and a partnership from, a leader and a lead program manager that's kind of working through the staffing of each of these components to make sure that we're all on Northstar architecture.
+
+00:14:29:31 - 00:14:54:36
+不明
+We know who's doing what. There is a leadership vision there. But yeah, we have these three experiences that we can talk about. So from an AB test experience, Katie, we see here that we have IT staff with the various headcount for these various skill sets, who you see stats and experience and why. So when you think about AB experiences, if you're trying to say, hey, as part of this customer's journey, we're trying to really understand what the right path for them to be on.
+
+00:14:54:43 - 00:15:19:21
+不明
+We're trying to learn things, or we're trying to understand what the type of content that they're responding to across that experience they want to do. So you're looking at people, hey, I need to pull data in either from data to qualified people for that experience or data to collect and understand how what the performance is going to work from that SDK to make sure that, you know, you can actually do the testing on those pages or in the app screens and go make sure that that's working.
+
+00:15:19:26 - 00:15:41:40
+不明
+Customer journey analytics to make sure that you can do performance reporting. You can deploy experimentation panel. You can really get in there and do some really neat attribution, decisioning squad to make sure that you are creating whatever AI models that you need to do for optimization. Auto target depending on the tool set that you're using. And then real time CDP to really understand the audiences overall that you're going to work with.
+
+00:15:41:45 - 00:16:04:46
+不明
+And so this you know, those are and I want to be really clear about this too. Those aren't necessarily individual people. Those are skill sets. So be really clear about that too, because I don't want you to think that you have to go hire 100 people to staff all of your, all of your different teams. It's really about who do you have that has a skill set to go and deploy on that experience with those capabilities?
+
+00:16:04:51 - 00:16:28:24
+不明
+That's right. Okay. Next one real time triggered push notification journey. So again, it's really similar. But this shows how we can swap people in and out based off of what we're trying to do. And so what you're really taking in is real time pushing with your messaging. Right. It's how do I message people with the right experience at the right time based off of what they're doing and the qualification of it?
+
+00:16:28:24 - 00:16:50:49
+不明
+So you're still looking at data fire. You're probably always going to have somebody from data. It's super, super important. It's a really great skill to invest in. Your messaging squad, to think out not only does this message from a creative standpoint meet the objective of what you're trying to communicate, but also looking at things like your overall metrics and messaging, deliverability, things like that, and making sure that that's working really well.
+
+00:16:50:54 - 00:17:21:10
+不明
+And then you have analysis. You should always, always, always think about how you're measuring performance and building that into whatever you're doing. And then your real time CDP again, for audiences. Okay. So this one is, I'm gonna ask you actually define cross-channel experience. What is a cross-channel experience to you? Because when I hear cross-channel experiences, you know, we see it on keynotes like that is kind of the the end end goal, right.
+
+00:17:21:10 - 00:17:42:07
+不明
+What is a cross-channel experience and how is that team different or what's the goal there. So it's everybody that's what we're all trying to get to. Right? This has been the vision and we've all achieved it. And pockets with varying levels of success, either on channels or across certain customer groups and in different, combinations of that.
+
+00:17:42:12 - 00:18:04:36
+不明
+But it's really of meeting the customer where they are when we're supposed to meet them with the right message. Right? Whether that is first they come to us on an app, and then they come to us in a store, or they call into a care center, or they come on through digital channels and come back around. That's cross-channel, right, with the right message, orchestration, getting them through a journey.
+
+00:18:04:40 - 00:18:26:04
+不明
+That's how you do it with cross-Channel. That's probably going to take roles across every one of these products to go do that very, very well. This is where your experience champion shines, because this is the person that's really going to come in there and drive that experience and those interactions and give you what you want. As far as that overall cross-channel experience.
+
+00:18:26:04 - 00:18:47:02
+不明
+And they are also going to understand all the places of fallout, all the places of re acquisition, bring them in and talk to those teams and talk through all those scenarios. But you're going to see that every one of these roles becomes very important as part of that. Yep. And you'll notice here we added actually the experience champion and a project manager to each of these Tiger teams, because that's how these teams are going to move across.
+
+00:18:47:02 - 00:19:11:15
+不明
+Yes, you can have stories and years and epics that systematically move things across, but we'll get to the communication strategy here in a minute. But it really is that at kickoff, at inception of this Tiger team, I don't think my data architect is a data person, and they just want requirement and they can be a really expensive keyboard to build the data schema like I want it.
+
+00:19:11:20 - 00:19:31:15
+不明
+I'm picking a data architecture, an example that that that skill set should be at the kickoff and at the inception of discovery. You need that voice in the room because they're going to ask different questions than maybe your business requirement. You know, your ba may may capture, same for the person who's building the audiences. They need to understand what's the business use case.
+
+00:19:31:15 - 00:19:55:28
+不明
+They can probably provide some insights and practitioner consulting to your to your discovery session or your kickoff session, and it needs to be done. As you know, sharing is caring, right? It needs to be done together. So this is the kind of the team staffing model that I think you want to have actually at inception and kickoff of the of the Tiger team meeting, because you're going to need to have that continuity as you move left to right throughout the project.
+
+00:19:55:33 - 00:20:12:39
+不明
+So how do we operate and communicate effectively as Tiger teams? We're in these big organizations. Again, we're structured in columns. We're trying to talk through rows. So let me ask you a question. If you were to pull out your phone right now, you had your phone out, but if you're plug your phone right now, is this is this your calendar?
+
+00:20:12:50 - 00:20:34:34
+不明
+And is it, does it give you hives? You'd have to, like, take some Benadryl on Sunday night because Monday just looks like it's going to be miserable. Because as a project manager, nothing gives me more anxiety than seeing this on Sunday. You're double booked. You don't really have a rhyme or reason. Your your priorities are driven by your calendar.
+
+00:20:34:39 - 00:20:59:36
+不明
+So if you think through a Tiger team structure, if you're if you're having your team being driven by experiences and not working just in our silos, you can you can have a bit more sanity. I have worked in project teams or we've had months of high velocity output in success being structured in a very rhythmic and drumbeat cadence because we knew who was meeting on Mondays, who was meeting on Tuesdays.
+
+00:20:59:36 - 00:21:15:57
+不明
+And it's a very operational and rhythmic of, hey, I don't even have to go schedule this ad hoc meeting with that person, because the thing's on fire. Because I know every Tuesday and every Wednesday I meet with this skill set or this team. We have this session, I can get the update there. We can have we can have our priorities drive our calendars.
+
+00:21:16:10 - 00:21:35:33
+不明
+And better than that, we can have our customer experiences and our brand priorities, drive our calendars. Then our calendar is kind of driving our focus and responding to fires. And I just want to that first calendar was like, I'm pretty sure he screenshotted my calendar to like bring that up. It's and I'm an architect. Like that's ridiculous right.
+
+00:21:35:38 - 00:21:52:28
+不明
+Most of my time is supposed to be around thought leadership and design and thinking through how to solve really big problems. But it was meeting, meeting, meeting, meeting, meeting, meeting, meeting. And we have seen this too with our other customers, as they go through the different industries, this this comes up again and again and again. It's too much.
+
+00:21:52:37 - 00:22:13:37
+不明
+We don't know how to manage it. There's too many and pulled into too many places. And when we start helping them organize around these, Tiger teams, it starts getting more meaningful. They have better prioritization. They know how to think about things. They know how to address when problems are going to come up. And they're also using offline communication communication channels a little more effectively as well.
+
+00:22:13:42 - 00:22:34:30
+不明
+So we see people like being able to breathe again, which is just super important because you're going to come up with better solutions and better experiences. And if you're in meetings eight hours a day, nine hours a day, ten hours a day, when does the work get done? When does that experience actually get built and deployed? So this also frees up your teams to be able to know that this is when I report in.
+
+00:22:34:30 - 00:22:53:51
+不明
+This is when we collaborate so that I can go do the work that I need to do. Yep. And if you're in the room and you're more in the director level or executive level and leading the entire martech stack, it also lets you know how to prioritize where and when you can lean in, right? You can know, hey, I can I know on Tuesdays.
+
+00:22:53:56 - 00:23:10:37
+不明
+I know you can base your priorities around the agenda that's already set. You know where to go to when. So so how do you do that? Right. This is just a screenshot of a fake calendar. It's not really super helpful. And so there's an expectations framework for each of the, the parts of your the Tiger team ecosystem.
+
+00:23:10:42 - 00:23:29:49
+不明
+So again, I'll pull up the org chart there just for reference because I'm sure you memorized it. So from the experience platform team, kind of the holistic all in the entire box, we do want to have community together. Sharing is caring. Tiger team a needs to know what Tiger Team be needs. No Tiger team is doing.
+
+00:23:29:54 - 00:23:47:01
+不明
+There may be a common common risk, common issues, common needs for capabilities and features that are backlogged. And so there is a scrum of scrums. What are we working on. Who's doing what. That brings the whole team together. And so, you know, I found a cadence of two times per month was successful for products we've worked on together at that level.
+
+00:23:47:06 - 00:24:13:46
+不明
+Right. There's also that can give you a chance as team leaders to push information down to the team at whole kind of a minion hands if you all hands if you will. And you can manage risk and you can also also manage program reporting. And so from that perspective, maybe as the, martech director or the experience, you know, if you're the marketing director unit of the roll up, of all the things that are going on in the ecosystem.
+
+00:24:13:58 - 00:24:39:58
+不明
+And so that's going to be reported on at the experience level. So, when we talk about status reporting, I don't longer have statuses that are going out into the organizational leadership of, hey, here's all my Adobe Journey Optimizer backlogs and status and risk and issues. I no longer have the data ingestion team reporting off a project status of where in yellow.
+
+00:24:39:59 - 00:25:05:17
+不明
+Because these data elements we can't get and these, you know, here's blockers in the ecosystem preventing us from loading this data at the velocity we want. We're no longer reporting projects based off the capability in these columns. We're reporting projects based off the experiences. So experience A is your project so a risk there may be the data that's unavailable right.
+
+00:25:05:22 - 00:25:25:12
+不明
+Or the staffing that may be limited or a requirement you may be missing. But you're reporting your projects at the Tiger team level. And that's rolling up to your program. Right? From the design teams. So again, that's kind of the chair that, that Kelly and I sat on. We're meeting, we're a bit more agile because we're team leadership.
+
+00:25:25:21 - 00:25:46:40
+不明
+So we need to know the Northstar architecture. We're kind of governing all the priorities of the entire ecosystem. And so some expectations that we have, right, are, if you feel the word r-mo like resource management office, but there's some staffing that we need be involved in, kind of like the exercise that, we pre-built a few slides back where, okay, this, this new experience is coming in.
+
+00:25:46:51 - 00:26:04:42
+不明
+Who do I need on that project at the kickoff? Do I need a data architect? Do I need maybe a few that architects or data engineer because we need to integrate something new? Or do I need, some, somebody who can build V8 campaigns because it's going to be something. So we go out and batch to end users.
+
+00:26:04:42 - 00:26:24:05
+不明
+Right. So to think through what what is an architect's perspective, understand the requirements in the experience champion you kind of are defining together what's the staffing model. And for each of the Tiger teams. And that also allows you to know what's your capacity. How many experiences can I do at one time. Right. You can look at it from a whole program view.
+
+00:26:24:07 - 00:27:01:24
+不明
+And I just want to add this to like it. It really does scale. Really lovely. Because at one point I think you and I had over 90 people that were deployed across different teams that we knew what was happening at any point in time. And we deploy this into another place. And at one point, I hired over 100 architects across multiple Tiger teams that I had to know when I could go in there and help and when I did need to help in this structure from a leadership perspective, really helps you understand what's happening and set expectations instead of having to go and read all these individual reports and figure out how they all
+
+00:27:01:24 - 00:27:22:30
+不明
+tie together and connect together. So it was very nice. From the platform teams, sorry. From the experienced Tiger team perspective, you're going to manage that more as a traditional waterfall project. To be honest. And that's because again, we're reporting our projects based off the Tiger team, based off the experience. And so you are going to have standard kick offs.
+
+00:27:22:30 - 00:27:43:01
+不明
+And we'll get to that in a minute of kind of like what's the ground zero expectation framework you should have for a project. Right. When I say SDLC software development lifecycle, and so or CDC here is that type of company points out. So you're really thinking through, you're thinking through more of a traditional waterfall project.
+
+00:27:43:01 - 00:28:05:06
+不明
+And so you do have your project manager and your experience champion, and that assigned resources that your design leads have pointed towards you to walk through that project from kickoff through build testing and launch, something else that we found really fruitful. Again, working with global teams. And it's maybe it's slack, maybe it's Microsoft Teams, whatever your, your messaging medium may be.
+
+00:28:05:11 - 00:28:27:00
+不明
+We defined for each experience, a singular channel. Yes. Your developers may break off and want to talk something, you know, very code friendly. Or the markers maybe give an objective talk over here about KPIs, but holistically we have one channel because there is messaging fatigue, just like our calendars may be everywhere. Your notifications are probably also going bananas, right?
+
+00:28:27:05 - 00:28:55:55
+不明
+My my mom does not understand why I don't always answer her text all the time. And it's like, well, because you're one of probably 200 notifications. I may have gotten the business day right. Like that's it's overwhelming. And so by having one channel, it does a few things for your project leaders and your your team leaders. I know that I can go look on one channel and kind of catch up on the coffee conversation or the issues that may be happening, but also reduces the need for, follow up conversations about follow up conversations or, again, meetings about meetings and having a meetings.
+
+00:28:55:55 - 00:29:19:28
+不明
+I wasn't in a meeting. And so, honestly, the discipline of one channel and you may see a channel breakout. No no no no, no, that that's had this conversation. This is interesting. Let's move it to the project channel. It sounds so simple and elementary, but it reduces communication cycles. And so it's an expectation that you can set for your team that we've seen have a lot of value on, on communication.
+
+00:29:19:33 - 00:29:45:37
+不明
+And so, your, your product squads here in the far right don't go away per se. Right. You still have practitioners who are very good at, that learning their products and, you know, going deep on, on data architecture or audiences and taxonomy or campaign building and that's okay. And that's kind of how you have to staff our teams, because we do have to respect the, the columns from which, from which we came.
+
+00:29:45:46 - 00:30:06:05
+不明
+Right. So we're not going to change the whole organization, but we're changing how we think and work together. So I won't dive into this chart here, but here's a little artifact you can take away with view of kind of a traditional project communication, communication plan that has been very effective. And so here we do mention things like the Tiger teams.
+
+00:30:06:14 - 00:30:33:20
+不明
+We do talk about offline messaging channels. Would you talk about how the tiger teams are working as standard projects? But then we also talk about how that rolls up to the design level and the program leadership and the overall experience view, that you get with AP. So going further into kind of the expectations framework and how your Tiger teams and your experience projects should think and work together.
+
+00:30:33:25 - 00:30:57:09
+不明
+And so again, I mentioned the software lifecycle. So you do have traditional project management gates here. And there's nothing more boring than to talk about project management gates. But being one, I couldn't help but resist, not to do it. So there are initiate and design phases, our build phases, test and build phases. And so when you the initiation phase, you have to have the use case, defined.
+
+00:30:57:16 - 00:31:14:43
+不明
+Right. You can there are some capabilities and features you may know that you need that are ground zero, but don't have that experience to kick off until you have an experienced champion identified and the requirements centralized. And so you do not come to that initiate phase until you have that set up. If you're trying to kick off, oh, we want to do this AB test here.
+
+00:31:14:43 - 00:31:31:52
+不明
+And so we start building something together. But we don't have that experience. Champion who understands the value, the business value and the KPIs and also the requirements of how that experience, what it looks like that only on this channel, but across all the channels then your your you'll never receive the return on investment that you're hoping to get.
+
+00:31:31:57 - 00:31:51:21
+不明
+And then also in the project manager said the communication plan and the expectations that we do walk through, in the defined design phase, you know, similarly, you can double click on that. So again, at your at your kickoff and through your discovery sessions, you have the data archetypes. There. You have the audience management team. There you have your, your your campaign builders there.
+
+00:31:51:21 - 00:32:09:05
+不明
+And so they're all there at the defined design, session to double click on the experience that that experience owner once. So the experience under isn't a, isn't a, technical assignee. They don't know how to do all, all the tricks of the trade, but they know what they want to see on screen at the end of the day.
+
+00:32:09:18 - 00:32:29:39
+不明
+And so the, the broad, is a lot level deeper that allows your team to know what they're building, how it's building, and can be blessed by an enterprise architect to know how it's gonna work together. I'm going to kind of just get through these very quickly. Everybody knows of building and testing and deploying as rate of getting to the place where you can actually go into production.
+
+00:32:29:43 - 00:32:52:24
+不明
+What I want to say is these are not separate things the way that a lot of people handle them. I don't want somebody to initiate and write some requirements and then put it in an email that another team comes together. I want the same people across everything. I want them to all be very clear on what success is and isn't in.
+
+00:32:52:24 - 00:33:18:36
+不明
+Everything gets filtered through that criteria of what we decide to design and what we build. Because when you build, things come up right and you have to make decisions. Is it something that's going to prevent us from shipping or not? Can we still get to what we're trying to do and and objective or not? When you go into testing and deploying, can, you know, is this a critical thing that breaks an experience or is it just we can get there and then two weeks later we can follow up and get to where we want it to be, right?
+
+00:33:18:43 - 00:33:42:14
+不明
+So if you understand from the start what the goal was and you really get it, and you have that champion that's jumping in all the way through, you can speed through those because you spent so much time really understanding upfront how you get to success at the end, and the selfish goal of reducing meetings about follow up meetings and right, there's just, you know, and I have, you know, people will sit in meetings with me all the time.
+
+00:33:42:14 - 00:34:03:40
+不明
+And I was like, what is the success and everything else? I don't care about? What are we trying to get to? And then we'll figure everything out. But if that's really clearly defined of what that looks like, then we can get there very fast. But you have to have a champion that really understands that and hold on to that all the way through these stages.
+
+00:34:03:45 - 00:34:26:51
+不明
+Okay. So that's how you run. That is an example of how Katie and I have had success running Tiger teams and building AP programs at different states, and maturity curve and getting value back to our not only our internal stakeholders, but also to our customers who have a better opportunity to, you know, to experience our brands. But there's there's something else too we wanted to cover here and that it's, a huge key to success.
+
+00:34:26:51 - 00:34:50:08
+不明
+And if I can say something about the team that I've had the opportunity to work with, or who I'm sharing the stage with today, like, there there is something to be said about, knowing your neighbor. So again, our human nature is to be very column centric. I'm a messaging person. I build emails all day. I can build campaigns, until, you know, the cows come home.
+
+00:34:50:13 - 00:35:06:38
+不明
+I don't have any cows, but, the point is, if you actually know your neighbor, if you can look over the fence. Okay, I'm a messaging person. I build campaigns. But how did the how did the segments, how the audience is built that I'm ingesting? What if I understood that a little bit better? What risk could I mitigate?
+
+00:35:06:43 - 00:35:29:24
+不明
+Or how does how is the push application that I'm triggering? How is it integrated with the app? If what if I knew that a little bit better and could understand the architecture a little bit better? I don't have to be a deep practitioner in that skill set, but I understand how my neighbors receiving, the campaign that I'm sending their way or, you know, if I'm the data architect, how do I understand how to understand the how the campaign's gonna be activated?
+
+00:35:29:25 - 00:35:50:22
+不明
+Does this need to be a real time? Well, well, why does it need to be, you know, is it going to be activated through? How is it going to be activated through a target campaign? Like, if I understand those intricacies and understand how target works a little bit or, hey, Joe works a little bit as a data architect, I can be more effective on how I am thoughtful of what questions I ask, the schema I build, etc..
+
+00:35:50:27 - 00:36:07:50
+不明
+And so I, I've worked with a lot of, so being part of a professional services, obviously we have a lot of people who are very close to the product, and our clients always ask of like, hey, when we have an issue, your team can debug the issue and get to the root cause the problem really, really fast.
+
+00:36:07:55 - 00:36:30:55
+不明
+But then when I have my team, I'm trying to train my team to do that. You know, they make and build campaigns all day long, but how are they understanding the issue? It's like, well, because we're training our team members to to know your neighbor and to understand well that that campaign consultant, you know, working with professional services, they're looking across and understanding how the audience is built or how the data is impacting that.
+
+00:36:31:10 - 00:36:52:39
+不明
+And so there's a velocity that that work that you may be experiencing with your partners, but you're having trouble getting that adoption within your own organization. And because you really need to spend time as, as department leaders encouraging your team to cross-train, I'm a huge basketball fan. It's my favorite sport, my favorite hobby. I love everything about basketball.
+
+00:36:52:53 - 00:37:12:31
+不明
+And, I was reading this book, called, How Basketball Can Save the World by by David Hollander. And in there he talks about something that really resonated with me, with this, with this takeaway here, which is now in the modern NBA and Asian youth sports metaphors. But I'm going to throw the Hail Mary, go for the green here.
+
+00:37:12:36 - 00:37:35:54
+不明
+So I don't want to isolate anybody. But in the modern NBA. Right. Where note the the best players LeBron James Nikola Jokic Giannis Antetokounmpo, which that was the biggest risk I took on stage was saying his name. These guys are position list players. They're no longer just playing center playing power forward playing the shooting guard I'm just a shooter.
+
+00:37:35:54 - 00:37:52:37
+不明
+Just a shooter. It's all I do. The best players with the best teams, they're all position lists. They're all rotating. There's no longer five positions on the floor. They're playing the whole playing all five positions. And these are the teams that you're seeing. Rise to the top and players are seeing rise to the top. And that could not be more true.
+
+00:37:52:42 - 00:38:12:41
+不明
+As is with Adobe Experience Club. Oh, I'm going to add on to that. So I lead a small team of enterprise architects. And one of my requirements is you should be able to build something in every one of the products and platform. Any one of the people that report to me can build an audience, can build a campaign, can load data, understand we're not going to build great content.
+
+00:38:12:41 - 00:38:41:24
+不明
+Sorry, we're architects, but we understand how to go build that within the the solutions and deploy it. We can hands on keyboard get there. And there's really important because then we understand the implications of the decisions that we're making as part of that. You know? So, to wrap things up, right, the important part that, you know, the things we want you to walk away with, to take away from here is we know our organizations, these big enterprise level organizations are organizing columns.
+
+00:38:41:29 - 00:39:15:00
+不明
+We must work in rows. We must think through, experiences and not just capabilities. So therefore, we have experienced champions. We know that we are going to organize our technology groups and tiger teams that support these experienced champions that are based off rows and not columns. And then again, knowing your neighbor being position lists, as department leaders, if you can encourage your team and invest your time and money, you'll see a huge ROI and velocity of output from your team by understanding, the entire stack there.
+
+00:39:15:05 - 00:39:36:22
+不明
+So, you know, by doing these things, we've seen customers we've participated in and we've watched customers go to maturity and they've actually received, the value, for themselves, their stakeholders in their customers. Thank you. All right. With that, we do have time for questions. Yep. And thank you for.
+

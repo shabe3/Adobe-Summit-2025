@@ -1,0 +1,280 @@
+00:00:00:01 - 00:00:42:59
+不明
+This is session S 108 KE B2B edition, so hopefully you're in the right room. This is not too hot. It's too hot for too hot. All right. We're going to get started. For us, the biggest problem is, you know, data being scattered across multiple platforms. So, for our campaign execution, assessing performance of the campaigns, we have to stitch the data together from multiple platforms, which kind of is, you know, difficult job for me to go ahead and consolidate, reports from multiple platforms and then hand over those to sales in terms of, like, hot leads, you know, which ones they need to focus on.
+
+00:00:43:09 - 00:01:15:58
+不明
+Challenges, right. We deploy a lot of features and new capabilities in our product. And so that is really hard to measure. Whether those things that we're doing are having a measurable business impact. That's because the impact that we measure can't be just at the individual person level. It has to be at the entire company level. You know, we have a relationship with a whole bunch of people that we work with, and we want to make sure that the things that we're doing are giving our customers measurable business impact in multiple areas and in multiple organizations that they're dealing with.
+
+00:01:16:03 - 00:01:41:29
+不明
+So oftentimes, it can be quite challenging for us to think about the right data and how that data relates to potentially other people in the same company or the same organization, and how that actually is influencing sales and the sales process down the road. So, yeah, one of the biggest challenges that we have are disparate sources of data.
+
+00:01:41:29 - 00:02:06:43
+不明
+So when we're tracking any of our opportunities, we put them in our CRM system. We log a lot of information in there, but we also have other tools where we're doing forecasting. So we're trying to do regular updates on deal progression where we think those deals are at, what our pipeline looks like, that type of data. And it's not always married together really well.
+
+00:02:06:43 - 00:02:34:28
+不明
+And so when you're looking at a dashboard or a spreadsheet, they might not always be aligned. The numbers could be off, the sales stage might not even be correct. So we have a lot of discrepancies there when we're trying to kind of collate all this information into one space. As we just heard, marketing, product sales teams are all struggling with B2B data.
+
+00:02:34:33 - 00:02:42:52
+不明
+It's scattered across many different sources, and it's hard to bring it all together at the account level.
+
+00:02:42:57 - 00:03:13:50
+不明
+As we've heard not only from our Adobe colleagues, but from many of you in the room, over the last two years, B2B customer journeys are long and complicated. There's many decision makers, multiple different channels, and lots and lots of interactions, and these sales cycles can last a year or more than a year, with thousands of touchpoints and hundreds of tools.
+
+00:03:13:55 - 00:03:38:24
+不明
+What we've heard is that the barriers to delivering go to market performance data for B2B companies include a disconnection between sales and marketing teams, incomplete or inconsistent data, operational silos or outdated systems, and quality gaps that lead to wasteful spending.
+
+00:03:38:29 - 00:04:13:08
+不明
+So I'm so excited today to introduce you to a B2B edition. A B2B edition brings together the account journey into a single view. So we're going to take all of those touchpoints all of that time and bring it into a single account view with all of the buying groups attached and the opportunities. You can look at that on a single timeline with, with fallout attribution padding applied to those to that account.
+
+00:04:13:08 - 00:04:17:03
+不明
+Journey.
+
+00:04:17:07 - 00:04:42:54
+不明
+Our vision for a B2B edition is to align marketing, sales, and product teams at B2B companies through actionable account insights to drive revenue growth. This is been our vision statement as we built out this product for the past two years, and we're so excited today to share with you more details. I'm Erica Angle, I'm a principal product manager for CGA B2B edition.
+
+00:04:42:59 - 00:05:05:46
+不明
+I share about 18 p.m. today, a B2B edition, and these are our fireflies selfies. We got to bring AI in a little bit and AI makes our selves better, I guess. I don't know. So today we're going to come back and listen a little bit more to each of our personas marketing, product and sales. Talk about some more of their pain points.
+
+00:05:05:51 - 00:05:16:52
+不明
+And then we'll look at how CX, a B2B edition, brings insights to those teams and some of the data that powers that.
+
+00:05:16:57 - 00:05:43:27
+不明
+Hey. Hi everyone. I'm Yoshi. I'm senior manager, marketing technology, at Adobe. Been with Adobe for over 11 years and prior to that have around, 20 years of industry work experience. For us. It is very important for sales and marketing to be aligned. When we are reaching out to account based marketing, specifically, and define the marketing KPIs and measure the marketing effectiveness.
+
+00:05:43:31 - 00:06:14:06
+不明
+So for us, with data being scattered across multiple, you know, automation platforms, it becomes extremely difficult to consolidate that data together with CG. You know, not starting the vision is that we would be able to consolidate all of this, and have a single view, for, for a full funnel, approach starting from, planning to execution, do measurement of, the campaigns which we drive.
+
+00:06:14:11 - 00:06:38:57
+不明
+So the problem that that SS just described data being scattered across a million different sources and the need for marketing and sales to rely on a unified view of their touchpoints that is something we see across the board. Marketers struggle to get to a single account centric view of every one of their touchpoints, right from initial awareness to you know, opportunity loss.
+
+00:06:39:01 - 00:07:04:39
+不明
+What they want to be able to do is unify and visualize these touchpoints in an account journey, analyze engagement across every one of their B2B entities like accounts, opportunities, buying groups and people and get to work. Yes, it's referred to as their Northstar, right? Which is to activate the right experience for the right audience at the right stage of the funnel.
+
+00:07:04:44 - 00:07:31:03
+不明
+And that is exactly what the B2B edition of CTA has been designed to accomplish with a data model that is based on a brand new account hierarchy that Malaka is going to unveil in just a bit. The B2B edition is essentially category defining. You can combine top of funnel digital experience engagement, mid funnel account orchestration and automation insights, and bot.
+
+00:07:31:08 - 00:08:00:34
+不明
+Bottom of the funnel sales milestones, all in a single data and analytics platform. And what that does for somebody like SS and team is it eliminates and alleviates the need to maintain a cobweb of different data sources. Instead, they can stand up a single source of truth that their marketing and sales teams can align on to improve, enhance, and optimize their account orchestration.
+
+00:08:00:39 - 00:08:27:35
+不明
+And once they get this data into the platform and into CTA, they can choose from an array of incredibly powerful journey analysis capabilities like Flow fallout, and Journey Canvas. For those of you unfamiliar with what the Journey Canvas is, it is one of the best things to have happened to workspace in recent times. What it lets you do is translate the mental model you have of your account.
+
+00:08:27:36 - 00:08:58:10
+不明
+Journey into an endlessly interactive and expansive visualization. You just heard Marika say how a typical B2B account journey could be composed of upwards of a thousand touchpoints, right? Journey analysis in the B2B edition will help you demystify every one of those touchpoints into meaningful journeys. That's how your marketing and sales teams can understand what's working and more importantly, improve what isn't.
+
+00:08:58:15 - 00:09:25:10
+不明
+Activation. All that analysis is irrelevant if not acted upon, right? So all analysis and no activation, and you'd end up with a lot of reports and no results because you could have an airtight set of data. You could be working with a rockstar analytics team. Part improvement, enhancement and optimization. And they are a function of precision targeting and engagement.
+
+00:09:25:15 - 00:09:43:30
+不明
+The B2B edition will let you create account centric audiences composed of accounts and people, and publish them back to the platform or external systems for further analysis and activation.
+
+00:09:43:35 - 00:09:49:18
+不明
+So how do we bring this all together with your data?
+
+00:09:49:22 - 00:10:26:53
+不明
+From Omnia to Adobe Analytics to CJA. We've always talked about a person and their journey from that first touch to the purchase. It's always been at the person level, but that just doesn't work for B2B companies. And so what we've done for, for a B2B is to bring together all of those people, all of those touchpoints, including touchpoints such as the sales team creating that opportunity, that in-person demo that's going to close the deal, and then finally that closed revenue.
+
+00:10:26:58 - 00:11:00:36
+不明
+So in a it's an event based data system. The event includes a timestamp and a person ID, and from that timestamp and person ID we build a set of containers, a person container, a session container, and the event container. Containers define the scope of the data and the IDs that are contained within it. With a B2B edition, we're fundamentally changing the structure of the data, so it's still at its core.
+
+00:11:00:36 - 00:11:33:06
+不明
+Event data. But now the event data is timestamps and account IDs. And from that event data we build all of these potential containers, global account and account to give you an account hierarchy opportunity buying group. We're keeping person in there to and session as well. And so each of these containers now becomes something you can pass on, something you can do fallout something that you can look at a journey within that container.
+
+00:11:33:10 - 00:11:54:38
+不明
+So let's take a look at what it looks. How you get started with a B2B edition. You're going to come in and build a connection, but this time you're going to be given a choice. Do you want that primary ID to be an account or a person? So we're going to go with account. And then you're given additional options to add those additional containers.
+
+00:11:54:43 - 00:12:32:51
+不明
+Is your data model going to have a global account opportunity and buying group. Once you've selected that and chosen your event data set, you'll come in and define which field contains the ID for each container. Now, a given event data set does not need to contain all of the IDs, but it does need to contain that primary account ID, so you can have multiple event data sets that have different ID parameters with them within them, which is allows you to bring in many different types of data.
+
+00:12:32:56 - 00:13:01:37
+不明
+Hey, I'm Trevor Paulson, director of product management. My team's in charge of customer journey analytics. And so when we think about how we use data to help our customers and how that relates to kind of the renewal process and the sales process, oftentimes, you know, we keep close track on how our users or our customers are adopting the various things that we're deploying.
+
+00:13:01:42 - 00:13:24:52
+不明
+Without measuring, you know, the deployment and the the adoption of the features that we're delivering, it's very hard for us to know if one we're working on the right stuff, if we're making the difference. And so those metrics provide some guidance for us to let us know. Like is an account going to be at risk because they haven't even deployed our software or they're not even using it?
+
+00:13:24:57 - 00:14:02:38
+不明
+Or are they getting a lot of value out of it? Sometimes, you know, sales folks will come to me and say, hey, we're trying to renew with a customer. And we had no idea whether they were even using the product. And so analytics and measurement at this account level helps us understand whether the things that we're doing are being used and that puts us in a position of strength when we go into a renewal, because we can say, hey, you know, you have a thousand users using our product and they're using XYZ features and we can look at that by the top accounts to make sure that we're not missing, you know, the big
+
+00:14:02:38 - 00:14:52:53
+不明
+dollar opportunities. And so it becomes super critical for us to kind of tie those metrics into our sales and renewal motion. As a product manager myself, I can totally relate to what we just said, right? Product managers need but often lack an account and opportunity granted in their usage data. And what they typically struggle with is to correlate their user acquisition, engagement and retention insights they have with an opportunity and, you know, account level context like, I don't know, renewal renewal dates or deal milestones or customer satisfaction scores and what they ideally would want to be able to do is, is pinpoint the impact their product is having right on high value accounts and
+
+00:14:52:53 - 00:15:36:43
+不明
+prioritize roadmap decisions just so they can have a demonstrable impact on renewals and expansions. And how does the B2B addition help somebody like Trevor and Team? By making analysis as easy as having and asking a question. So we recently launched a set of incredibly powerful, but almost paradoxically simple analysis types in workspace called Guided Analysis. Personas like Trevor, who don't typically find themselves, I don't know, wading in and, knee deep data on a daily basis can come in here and use guided workflows to derive insights around user acquisition, engagement and retention.
+
+00:15:36:48 - 00:16:08:48
+不明
+But at the account level, every one of these analysis types that you see up on the screen, they'll be enabled for decidedly B2B entities like accounts, opportunity buying groups, and people as part of B2B addition. Take, for example, active growth. Trevor can come in here and use the active growth analysis type to derive insights around and engagement across accounts, as well as people within those accounts.
+
+00:16:08:52 - 00:16:46:30
+不明
+He can spot dormant accounts as in accounts that have been, I don't know, dormant recently. He can then filter those accounts to only those accounts with a fast approaching renewal rate. With these insights, Trevor is now empowered to do something, whereas earlier attrition would have been a lagging indicator of issues, you know, within the product. Trevor can maybe collaborate with the sales and marketing counterparts to approach these accounts and offer them, I don't know, additional consulting or personalized training in an effort to re engage them.
+
+00:16:46:35 - 00:17:10:19
+不明
+He can actually go one step further. He can use one of those other additional analysis types to investigate the root cause for the lack of engagement among these accounts. He might narrow it down to say, an a complex onboarding workflow that is hampering engagement, right. And then go back and prioritize efforts to improve onboarding as part of the roadmap.
+
+00:17:10:24 - 00:17:46:48
+不明
+And guided analysis is just one of many ways the B2B addition will help somebody like Trevor, right? For instance, he can correlate, you know, usage data with account level satisfaction stats to ensure he's not missing the forest for the trees. Right. He can collaborate with his marketing and sales counterparts because all three entities that trinity that is marketing, sales and product, they'll be relying on the same source of, you know, account account level to and across every single one of his experiences in the B2B edition.
+
+00:17:46:53 - 00:18:03:40
+不明
+He can always pivot between the macro account level and the micro user level, so his team accounts for both user level requirements as well as account level requirements.
+
+00:18:03:45 - 00:18:33:02
+不明
+So continuing how that data plays into this, we're changing up the types of the data types that are part of a B2B edition. So we've got that time series data that I talked about before time stamp account ID. That could be your digital analytics data. It could be your CRM events in person, events like today or call center data or other types of timestamped data that you may have.
+
+00:18:33:07 - 00:19:03:45
+不明
+In addition to that, we're we're adding a new concept called a container record. Container records are like profile data sets, but for other types of entities accounts opportunity. It could be CRM records, B2B records, CDP records. They need to contain the account ID and the container ID of the container you're linking it to. These then can be by having this container level.
+
+00:19:03:50 - 00:19:34:23
+不明
+These add into the container and support padding, attribution, fallout, things like that. In beyond a standard field record which is a classification. And so that might be your campaign records, marketing list records, things like that. They can match to any matching key, whether that's add a container record or a time series. So you can add that classification anywhere in the stack.
+
+00:19:34:28 - 00:20:00:18
+不明
+So let's take a quick look at how you add that both a can a container record. Here you're going to select your key. Select match by container and then select your container and your account ID field. This will help specify that this record set is a container record set. Or if you're doing a field record connection you'll come in.
+
+00:20:00:18 - 00:20:09:40
+不明
+Select your key and your matching key, much like you do today. When you're setting up a.
+
+00:20:09:45 - 00:20:36:58
+不明
+We're adding a new visualization within the connection. One of the things we found is B2B data sets are diverse. There's a lot of different data sets that you want to link together. And so having a visual map of how all of your data sets fit together, that's built as you're building your connection, became vital. And so we're adding that to the product.
+
+00:20:37:03 - 00:21:03:43
+不明
+Hi, I'm Tara Wall, and I'm an account executive for our high tech vertical. I focus on data and insights solutions. So anything encompassing of customer journey analytics, Adobe Analytics and mixed modeler. Yeah I think the ultimate goal for us as sellers is we're always trying to identify a few different things. So the first being what is the current state of my business?
+
+00:21:03:45 - 00:21:26:09
+不明
+All of us have quotas, but it's good to have an overall picture to see if I know all of the accounts that I'm managing where they're currently at today. How much money do they spend with us? Where is there potential opportunity for us to upsell or cross-sell them? What sales stage are they in? Are they at the early phases of a sales cycle?
+
+00:21:26:09 - 00:21:47:15
+不明
+Are they at the later phases of the sales cycle? All that information is really important for us as sellers to understand, so that we know the right time to communicate with our customers and how to utilize our ecosystem, such as our our marketing team, our product team, and where to bring them into those conversations to keep the deal progression moving forward.
+
+00:21:47:20 - 00:22:12:43
+不明
+So far, you've seen how, CA B2B Edison will help marketing teams optimize their account orchestration, and how it might help teams like clever amplify the value they bring to the table. But sales will still need to bring it home, right, but still is still hampered by some of the same problems that plague the marketing and product.
+
+00:22:12:43 - 00:22:41:22
+不明
+Teams like data are being scattered across a million different sources, right? Or I don't know, lack of visibility into top and mid funnel insight or. Having to rely on their gut when all they needed was a quick dash of data. Right. And the CJA B2B edition will address every one of these problems. First up is freeform flat view.
+
+00:22:41:27 - 00:23:19:37
+不明
+To coincide with the launch of the B2B edition of, we will be adding a brand new data table layout in workspace called Freeform Flat View. Freeform Flat View lets you add dimensions, which are qualitative aspects of your data as columns within workspace. For a more spreadsheet like view, right? Although it is probably absurd to call workspace or compare workspace with a spreadsheet, it's like calling summit a business meeting so sales can come into workspace and get to a spreadsheet like experience that they might be familiar with.
+
+00:23:19:42 - 00:23:54:51
+不明
+And we have two reasons we will be doing that. One, the primary goal is obviously to support the kind of data that we think you will bring into the B2B edition, right. You know, we recognize and acknowledge how B2B data tends to be way more qualitative than, B2C data. But the secondary goal is to make workspace as familiar as a spreadsheet is for salespeople, because we do not want them to treat workspace and B2B edition as yet another tool they need to log into.
+
+00:23:54:55 - 00:24:29:24
+不明
+We want them to treat workspace and TJ B2B edition as the only tool they need to log into for like to report it for an understanding of the current state of their business. And then there is cross team collaboration and alerts. We've heard from a lot of customers. It's been a chronic refrain, honestly, that sales and marketing collaboration between sales and marketing is important, but unfortunately is exceedingly rare, and the B2B edition will seek to address that as well.
+
+00:24:29:29 - 00:25:08:58
+不明
+Sales and marketing teams. In fact, any team within that uses these B2B edits and can use share with anyone to create and share projects, reports, and insights to anyone else within the ARG without having to deal with pesky prerequisites like, you know, authentication and permissions. And then there is Intelligent alerts. Sales teams can configure important critical milestones like deal buyer buying, group completion, opportunity stage progression, or lead qualification just so they are alerted in real time and can act on that.
+
+00:25:09:00 - 00:25:39:04
+不明
+You know, intelligence. And finally we'll be adding something in calling workspace commenting. And that is something I'm personally very excited about. Workspace commenting will let again the Trinity that is marketing, sales and product. It will let them have a conversation within workspace. They can share recommendations. They can have a dialog. They can share insights all within workspace without having to switch or lose context.
+
+00:25:39:09 - 00:26:23:06
+不明
+And then finally, the mobile app, the B2B Edison mobile app. Imagine Tara walking into a crucial, I don't know, negotiation meeting with with the decision maker. Right. And I imagine Tara needed an important nugget of, you know, top or permit funnel context, all she needs to do. I'm sorry that I'm picking on you. All she needs to do is whip the mobile app out, and within a few swipes of her thumb, she'll be that much more closer to having a richer, more informed conversation with this decision maker and that much closer to closing the deal.
+
+00:26:23:11 - 00:26:50:49
+不明
+All right. Oh, this, once you've created your containers and set up your your connection and data views, when you come into workspace, you can see these containers in action. So if you build a filter based on a selection in workspace, now you'll see that you can change the scope of the filter to be at a at the account opportunity buying group level.
+
+00:26:50:54 - 00:27:32:01
+不明
+And the data preview on the right hand rail is now represents each of those containers, and how the population of those containers is impacted by that filter. Once you've saved the filter and you come back into workspace, we've also changed the information about filters found in the left rail. So when you click on that info button now you'll see the container that applies to that filter and what the population impact is of that filter for that container.
+
+00:27:32:06 - 00:28:01:28
+不明
+TWG is that full funnel view. For us, starting off from how do we reach the customers and what is the performance of campaigns at like, you know, beginning with the marketing and helping us nurture these accounts, measure these accounts based on engagement? Let us know with regards to account engagement scores, which was which is extremely important for sales to look at, you know, accounts and, and help us drive to, you know, conversion.
+
+00:28:01:39 - 00:28:25:37
+不明
+So I think one of the views I'm most excited about with AD is to be able to have account level containers and reporting that helps me understand. And specifically, what does that mean? It means I want to be able to see by accounts who are our top kind of revenue customers and when I look at the different features, I want to see how much revenue is that influencing?
+
+00:28:25:37 - 00:28:51:43
+不明
+You know, is it just our top customers that are using it or not? And oftentimes the way that we think about things is like the features that are used by our highest dollar are our customers, our user, the things that we probably should focus on the most. And that's very hard to do. And you can't see by feature or by company which of these are kind of driving the highest IRR.
+
+00:28:51:43 - 00:29:31:08
+不明
+So I think that's one of the things that I'm most excited about. I'm also super excited about seeing account level flows. You know, being able to look at the stages that people move through and the different people that are involved during the sales and usage and implementation process. That that's just insight that we don't have. We can't really tell, you know, where those handoffs are happening, how long between the steps that takes and those are critical pieces of information for us in the product side in order to make specific steps easier or learn about the personas that we're getting stuck with or need to improve things for.
+
+00:29:31:08 - 00:29:57:20
+不明
+So those are really the two biggest things I'm most excited about. One thing I'm super excited about with B2B that none of our other tools could do, and I'm, I mean, any of our tools within Adobe, is the ability to not only see where our customers are moving through the accounts in the sales stage they're in, but also actually seeing who's a part of the buying groups.
+
+00:29:57:25 - 00:30:18:19
+不明
+That's a huge gap for us. I think a lot of times sellers, when our big focus is to try to build relationships with customers, we end up spending a lot of time trying to sleuth around LinkedIn to do prospecting. Figure out are, is this even the right person that we're talking to? Do they have buying power? Are they somebody that's higher up?
+
+00:30:18:20 - 00:30:49:18
+不明
+Are they from finance? Like, it's really hard for us to pull all those pieces together. And with a B2B, it's going to be amazing because we'll be able to have that granularity and breakdown of seeing who's within the account, where are they at, what's their, you know, purchasing power, what sales stage are they. And we'll have that all in one holistic view versus having to go out to all these disparate tools and have to perform all of these different functions to be able to get the answers that we need.
+
+00:30:49:22 - 00:31:28:27
+不明
+And it could probably reduce our time. Buy it. On my opinion from a week to week basis. It would probably reduce my time spent, just sleuthing and trying to collate information by for hours. I'm so excited about B2B edition as well. It's not an evolution of CJA or our analytics platform, but a revolution. It is fundamentally digging into the capabilities that CDJ has to provide new types of analysis to answer business questions that have not ever been able to be answered before.
+
+00:31:28:31 - 00:31:55:39
+不明
+Awesome. Yeah. So we're in we're going to be starting a beta for this in April. So if you want to check it out, join us in the beta. We would love to have you. That's the first QR code. If you and for this beta I'll just call out you do not need to have HD. You can be on AA or or neither.
+
+00:31:55:39 - 00:32:20:24
+不明
+So, you reach out, we'll, you'll get to talk with the show. Can I, and it'll be fun. And then we have a readiness checklist with more details about, B2B edition. What? The types of data, what the format of the data is, and some of the types of analysis that we covered today.
+
+00:32:20:29 - 00:32:45:13
+不明
+So awesome. Thank you guys so much. We're we're thrilled to launch. Oh, this launches in June. And we can't wait. So, we're happy to address answer questions. And thank you for your time.
+
+00:32:45:18 - 00:32:45:49
+不明
+To.
+

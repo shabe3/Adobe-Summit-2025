@@ -1,0 +1,476 @@
+00:00:00:39 - 00:00:29:49
+不明
+All right, everyone, welcome to our session with our amazing client. Do it best. And one of our best partners Publicis Sapient. I'm Sean McCarthy with Adobe. I run our solutions consulting group for retail and consumer goods. It's my pleasure to help tell this amazing story with our folks here. So do it best. If you don't know, their journey lately has been to bring about 3000 independent member businesses under one platform.
+
+00:00:29:49 - 00:00:52:30
+不明
+So if you think about the undertaking of that is to bring 3000 different, separate member businesses together on one platform to drive growth and create efficiencies, it's not trivial, right? So we're going to hear about that journey, all along the way. So with me today are, Allison, Ganesh and Corbin, who do it best. So if you folks could just give a little intro to everybody.
+
+00:00:52:35 - 00:01:08:27
+不明
+Sure. Yeah. My name is Corbin Prowse, and I'm the divisional manager in e-commerce. I'm over the platform development. I've been in the business about 12 years. It's been a great industry to be a part of. And I was in wireless for 18 years prior to that. So I've been able to use a lot of those retail experiences.
+
+00:01:08:27 - 00:01:30:43
+不明
+And with what I do now, I'm Allison flattered. I'm the VP of marketing in e-commerce, and I actually started at Do It Best. The day that we put together RFP is for new, solutions provider. So it was definitely a hot start, if you will. I worked in retail for my whole career in e-commerce and in marketing.
+
+00:01:30:48 - 00:01:52:41
+不明
+Great. And thanks to both Corbin and Allison for being here. My name is Ganesh Rangarajan. I'm a client partner at Busa Sapient. What? I thought I would do is talk a little bit about sapient, a couple of slides, and this is really the best story, but I'm really excited about having you all talk about the journey that we went through, whether, a little bit about sapient.
+
+00:01:52:46 - 00:02:11:08
+不明
+If I sort of move, I'll cover the agenda a little bit. Right. So we'll go through introductions and then we'll talk a little bit about do it best as a company, what they do. And then the case for change and Corbin will go through, the case for change in the partner selection process, how they picked Adobe, how they pick pools at sapient.
+
+00:02:11:13 - 00:02:40:49
+不明
+Talk about the launch and, and the site. You'll get to see, some aspects of the site and then what's ahead and we'll go through, for Q&A. So this should take a good 45 to 55 minutes and you'll have hopefully time to ask questions as well. A little bit about sapient. We I was just reminiscing with the number of people here at sapient that have been we've been Adobe partners for 15 years, in the early days of Adobe, when Omnicare and what was known as Omnicare back then.
+
+00:02:40:54 - 00:03:00:12
+不明
+And so we've been a partner of Adobe, a diamond sponsor here. We've been partner for 15 plus years. Actually, some of the biggest challenges in, the Adobe in terms of making the platform work for some of the larger clients. We've been part of that and excited about our partnership. And you'll see some of that.
+
+00:03:00:26 - 00:03:35:55
+不明
+We are, Adobe Partnership is one of the largest partnerships for sapient with the hyperscalers. We work with a number of others, but Adobe is very important partnerships. Seven plus years with the experience platform. Partner of the year for, for, Adobe. And we're excited about that. And, a little bit about, sapient in terms of, you know, one of the things I like having clients up here and talking with us because we have a very strong partnership and relationship with our clients, many of them have been clients for five, six, seven years and, and, and on our average ten years over ten plus years and many of our cases.
+
+00:03:35:59 - 00:03:59:04
+不明
+So you're excited about that a little bit about who process is sapient, as we mentioned, is a digital transformation arm of process policies, is one of the top three advertising agencies in the world. Right. So we are the digital transformation arm. We do all of the engineering work and platform set up and all of that. But in, you'll see the pop media calm.
+
+00:03:59:09 - 00:04:24:41
+不明
+And then Epsilon, we have identity information for about 90% of the consumers worldwide. So we know exactly what they buy. We have data points for them. So if you think about the entire orchestration of a journey, we are going to acquire customers. Who do you target? How do you target and get them? In fact, even for do it Best, we've started to use some of that to run services as part of our end to end, strategy.
+
+00:04:24:55 - 00:04:43:36
+不明
+And you'll hear about some of our launch in, one one other thing. We have a number of people from the community. I'm just a client partner. We have Makena, we have Vishal, we have giant. We have a team. Arthur and others, and Japan and India. So we are part of a larger group of people that have been working with do invest for the last couple of years.
+
+00:04:43:47 - 00:05:07:17
+不明
+So we would not be here without their help and their support. So thank you to all of okay. Very quickly we'll go through. Yeah. Doing this background. Yeah. So, Allison, maybe if you could tell us a little bit more about the business model, how that works, the history of do it best. Yeah. So do it best is probably one of the biggest companies that you've never heard of.
+
+00:05:07:22 - 00:05:35:29
+不明
+But we are the largest privately held company in the state of Indiana. And we are a supplier of hardware, lumber and building materials to independent hardware dealers. So in your community, if you have a local hardware store and it's not an ace, it's probably supplied by do at best. I also think we're really unique in our business model and just our overall strategy.
+
+00:05:35:43 - 00:06:06:10
+不明
+We are a co-op, which means our customers are our owners as well. So we call them member owners. And our board is made up entirely of member owners. And at the end of each fiscal year, we return all of our profits to member owners. So we really exist to make our independent retailers successful. You know, there's an interesting phrase that I think you folks use called, champion of the independence based on your model.
+
+00:06:06:10 - 00:06:31:54
+不明
+Could you tell us a little bit more about that? Yeah. So Champion of independence is kind of our brand statement, and it really does encompass everything that we're trying to do. And, that we are here to do and that is really to serve independent businesses. So again, local hardware stores, local lumber yards, the people that they're competing against are big box retailers.
+
+00:06:31:54 - 00:07:00:30
+不明
+So they'll never outspend a Best Buy. They'll never outspend a Lowe's. And for us, it's really important that they still have a place in the hardware industry. And so we do everything we can from, you know, collating, purchase is and getting discounts on product to offering services. E-commerce is one of them to make our members successful. And so we really think of ourselves as the champion of independent.
+
+00:07:00:35 - 00:07:18:50
+不明
+So if you think about what you folks are doing with true value, you know, how does that play into the strategy and tell us about the future of do it best and true value coming together? Yeah. So true value is exciting for us because probably most of you have heard of true value, so do our best. Doesn't have to be, the largest company that no one's ever heard of.
+
+00:07:18:55 - 00:07:48:01
+不明
+Back in November, True Value was going through bankruptcy and do it best really stepped up again. Our mission of serving independent hardware stores and bought the company out of bankruptcy. And that allowed us to bring on 4000 more retail locations. So we have 4000 now. We doubled it in November. And also kept that spirit alive of helping independent businesses kind of fight off the bigger box competition.
+
+00:07:48:01 - 00:08:18:45
+不明
+So for us, it's been a game changer and is really exciting to have a well-known brand like True Value. Yeah. And now the largest, independent, provider of of home care, right? Yeah. So we're now the largest, provider. We're the largest hardware supplier in the world. We we serve about 8000 plus locations. So, we're we're now the big dogs, and it's fun to be in that position.
+
+00:08:18:49 - 00:08:38:48
+不明
+So with all these great, exciting changes comes lots of new questions, technology, things to figure out. So, you know, Corbin, let's turn it to you for a little bit. You know, you think about this journey that do it best was on and, you know, increase the complexity now with the merger. Right. Lots of things to figure out. So your journey started about a decade ago with the e-commerce.
+
+00:08:38:48 - 00:09:01:51
+不明
+It sounds like, what prompted you to think about, you know, going to a new e-commerce platform and bringing all the member sites together? Sure. So we've actually been in e-commerce since about, I think, around 99. And for our industry, that's a long time. We actually were in fairly early, but the approach over all those years was really about enablement.
+
+00:09:01:51 - 00:09:26:18
+不明
+How do we enable our members to be involved in e-commerce and so there was a do it best.com, but there was also a Connelly's hardware.com and Frank's hardware.com and so on and so forth. And for years we focused on how do we enable them, how do we maybe teach them some of the best practices and how do we give them tools, and how do we try to make the thing a little bit better?
+
+00:09:26:23 - 00:09:42:59
+不明
+But over time, it had just grown bigger and bigger. But yet our piece of the pie and I'm referring when I say our our members piece of the pie had not really grown to the size it should have been. And so there came this decision just a couple of years ago, right before Allison came in this whole discussion.
+
+00:09:43:13 - 00:10:10:02
+不明
+We need to do things differently. And so part of that idea was how do we take 700 separate sites and a single do it best.com and move away from just enabling our members, but to more helping them drive sales through a site into their stores and bring it all into one place. One thing that not only did commerce, but actually allowed for true marketing efforts, to go along with it.
+
+00:10:10:16 - 00:10:30:26
+不明
+And so that was kind of the that was the premise for why we need to make a change. Awesome. So, you know, it's it's a big journey. It's a big lift. You need help, right. Can't do it alone. Right. So you have a lot of different technology vendors and partners to evaluate, you know, Allison and Corbin, you know, in your mind, like what are some of the decision criterias?
+
+00:10:30:26 - 00:10:51:28
+不明
+What are some of the things that were important to you when thinking about, you know, who are the right partners for us? Yeah. So first and foremost, we are a complex business. We will not be able to describe all that today, but just, publicists, I mean, that you can ask them about the crying that went on at times.
+
+00:10:51:33 - 00:11:19:11
+不明
+There's just a level of complexity, there. So to match complexity, you got to make sure the right level of capability, is there. So for us, it was really about identifying what those capabilities needed to be. Both from a sizing perspective, but also then from a again, we didn't want to just do commerce, but how do we bring in things like loyalty and how do we start understanding the customer better and how do we create analytics for each one of those stores?
+
+00:11:19:11 - 00:11:37:45
+不明
+Because they want to know how well they're doing. And by the way, when you have a single one site, Google only gives you Google Analytics. It's like, how do we actually create analytics for all these places? So it really became about capabilities and putting those things first. And I think that was kind of part one. And I think a culture I mean, know your thoughts are there.
+
+00:11:37:58 - 00:12:08:16
+不明
+Yeah. So the other the other things for, for do it based this investment in e-commerce was a very big one for them. As Corbin mentioned, you know, before we had kind of outsourced e-commerce and had relied on all of our retailers to run their own sites. This was a conscious choice to really invest in a platform that would allow us to do a lot of the, back end work on e-commerce and let our members sell.
+
+00:12:08:21 - 00:12:32:25
+不明
+And since this was such a big investment, we created a separate division. We also wanted to make sure that we were looking for a partner that could grow with us. And so one of the most important things for me in the selection was making sure that, whichever provider we went with had a very strong roadmap, do at best was just scratching the surface of e-commerce.
+
+00:12:32:30 - 00:12:53:41
+不明
+We weren't ready to replatform in two years, so we needed something that we were in it with for the long haul. I would say kind of the same thing with a partner. You know, do It Best is not heavily staffed. We don't have a giant e-commerce team. So from a partner perspective, we also needed somebody that could do a lot of the heavy lifting for us.
+
+00:12:53:41 - 00:13:12:23
+不明
+And so those were a few of the things that we were looking for at the very beginning of our search. Yeah, I think what was interesting was and we were given some advice, was because of the size of what we were doing, we actually had to make one key decision, and that was that we needed a tier one provider.
+
+00:13:12:28 - 00:13:29:57
+不明
+And so, you know, you go in there and you look at the, Gartner where they had and we got to make sure everybody's in top right quadrant. But that also was true. Is it related to our integrator. And it was it was good advice. It was advice like the complexity of what you're doing and the fact that you need flexibility and scale.
+
+00:13:30:04 - 00:13:55:26
+不明
+You need to not look at how do you build up from something. You need to make sure you have the right horsepower to, to start with. And I think that turned out to be a good key point for us. Excellent. Yeah. You mentioned several different things as to why Adobe and Sapient were a good fit eventually. But is there one thing that stands out for, you know, maybe for each of you on Adobe and Sapient that really like kind of shown through above and beyond everyone else you were looking at.
+
+00:13:55:31 - 00:14:21:05
+不明
+Yeah. I mean, for me, I would say this is for really both groups that both do it, but are both sapient and Adobe were able to answer our questions very specifically and with a very good knowledge of our business. So, you know, obviously we hadn't spent a lot of time together going through the RFP process. There were maybe 4 or 5 meetings.
+
+00:14:21:10 - 00:14:51:37
+不明
+But I was really impressed with both teams ability to quickly understand. They didn't pretend to understand the entire business, but they understood what was important to us and what the key parts of our business were. And they were able to answer tech specific questions at a very detailed level that so that they understood our business. So I was really impressed that I felt like both teams went beyond kind of the initial selling process.
+
+00:14:51:42 - 00:15:21:02
+不明
+Yeah, we went through a it was an impressive two weeks. We did three providers and back to back to back days for three hour meetings of RFP presentations for the provider. And then the following we we did the integrators. And so there was a real easy ability to compare, where things were at. And so as we looked at, Adobe and we really understood, how that was going to fit for us, because one of the decisions we also made was, where are we going to go best in class.
+
+00:15:21:02 - 00:15:46:58
+不明
+Meaning we're going to go pick all these different elements of different systems and try to peel them together and see if they would fit or we were going to or we going to go best and sweet. And so we made that early decision best in sweet. And so why that played a part is when Adobe came in, they did a great job of really showing how from the RFP perspective, they were going to be able to fit each one of those things and make each one of these parts work for what we were doing.
+
+00:15:46:58 - 00:16:12:03
+不明
+And then from that, they showed us both the flexibility and the scalability, which for us is very important because, again, we just merged with true value. The first question on our minds was, do we have an e-commerce platform that will be able to scale? It's like, no, we already know that we have a suite of products that can scale because of those decisions and how we made them, and that was really the comfort that Adobe brought to us in those meetings.
+
+00:16:12:08 - 00:16:29:46
+不明
+Yeah, great. And, Shawn, I'll just add, you know, any of these are complex partnerships and relationships. The key is you need to know whether it will stand the test on the hard parts on this. Right? Because it's never always going to be a bed of roses. Right? There's going to be times when you do hit the challenge.
+
+00:16:30:00 - 00:16:50:57
+不明
+Right? And can you very clearly with the same purpose, with the same goal, have that conversation? It's it could be a hard conversation, but can you have it and can you come out of the other end of it smiling. Right. And I think that's, you know, we've and we'll talk a little bit about the journey. We've implemented every single Adobe product that's in their skill set.
+
+00:16:51:02 - 00:17:13:17
+不明
+Right. And we did all of that within a year. Right. So from RTC, ADP to Agco to ADP to Am to, you know, CG, the entire stack was implemented in the. Yeah. And you folks have learned to have the hard conversations that walk away coming together with an agreement. That's great. That's right. Yeah. So it's a partnership. So for anyone in the services industry.
+
+00:17:13:21 - 00:17:35:12
+不明
+No, that's equally important for you to have that partnership for the client. Yep. Yeah. Good point. So we've been talking a lot about the journey. Why don't we show you a little bit of it? So, Allison Corbin, I think we have a little video. I don't know if you want to tee it up. Yeah. So one of the big parts of, do a bus kind of moving into e-commerce was we had to get our membership or our retailers excited about it.
+
+00:17:35:12 - 00:18:13:49
+不明
+So we had sapience help on putting together this video that we showed at one of our sales conferences. A few years ago. So. Your customers, they're dreaming. They're planning, they're making, and do it best is empowering you to meet their needs. Even better with an all new e-commerce platform, a best in class digital experience that will drive traffic to your store, power up your sales, and deepen the loyalty of your customers.
+
+00:18:13:54 - 00:18:43:49
+不明
+It gives your customers simplified pathways to purchase. Intuitive navigation increases the speed and ease of browsing in search is faster and smarter. It's an experience that helps your customers make more informed purchase decisions by providing the inspiration, the information and the shopping tools to assess which products best meet their needs. It's an experience that helps them get what they need quicker.
+
+00:18:43:54 - 00:18:50:21
+不明
+By directly shopping your in-stock inventory for same day pickup.
+
+00:18:50:26 - 00:19:25:15
+不明
+And providing helpful recommendations along the way. It's an experience with a streamlined checkout process that reduces steps and minimizes friction. But most of all, it's an experience that drives greater loyalty from the customers who serve each day and provides seamless integration between online and your store so your customers get a best in class digital experience and the personal attention and community support of your local independent business.
+
+00:19:25:20 - 00:19:31:49
+不明
+Coming this summer, powered by do It Best.
+
+00:19:31:54 - 00:19:54:13
+不明
+So once we said coming this summer, sapient was on the hook. So it was. We have to make sure that, yeah, that was that was interesting. Yeah. So that's, I see a great story coming to life that we've all seen, but it has to start somewhere. Right. And I'm sure there's a million places that you can start and figuring out what are all the things we need to solve.
+
+00:19:54:18 - 00:20:18:09
+不明
+So, Ganesh, how did you and the sapient team, like, figure out what the do it best team? Like, where do we start? Like, how do we start on this journey? What are the first things that we do? Yeah. No, that's that's, you know, once the MSAs were in place, which always again, we went very, very quickly through all of that, we landed a very small discovery team we brought in at sapient.
+
+00:20:18:09 - 00:20:43:51
+不明
+We call it speed. So we have strategy, product experience, and then data that, part of that, that tribe five capability disciplines. And we sat in workshop exercises over a eight week period with the do it best team. We needed quite a bit of, if you will, understanding of do it in the products and technology and what existed.
+
+00:20:43:55 - 00:21:07:41
+不明
+And we'll talk a little bit about the complexity, but, imagine 8000, I'm sorry, 4000 plus, stores, but we are actually bringing in customer data. Each of these members had their own inventory. So it's a fairly massive exercise. And then you're bringing in content. How do you actually plan for all of that. So during that eight week discovery and then that wrapped up in right about October 2022.
+
+00:21:07:43 - 00:21:24:13
+不明
+So this goes back a couple of years. And then we had the implementation team, you know, get going on it. And so it's a global team. We had people from Romania, we had people from India, we had people in the North America, region. We had experience folks. We had data folks too. How do you bring all of that data together?
+
+00:21:24:24 - 00:21:46:48
+不明
+How do you interact with the PIM? How do you bring all of that into the same place? So, and we launched in summer of 2023. So excellent. So let's talk about how you were able to sell this and internally. Alison. Right. So, I mean, I kind of look at you as like the customer advocate, the member advocate, right, to bring all this goodness to them.
+
+00:21:46:48 - 00:22:05:32
+不明
+Right. But you have to convince people. Right. And how do you get it up the priority list and get budget and get all these groups talking between it and marketing and digital and then legal finance, everybody under the sun. It's almost a full time job, I'm sure. So tell us a little bit about your journey. You know, bringing this to life inside to it best.
+
+00:22:05:37 - 00:22:33:33
+不明
+Yeah. So, a lot of credit to our CEO and our executive team. Our CEO spent a lot of time, building, excitement and enthusiasm for the idea of getting serious about e-commerce. So without his support, it would have been an even more difficult road. I think after that, we had really three groups that we had to get on board.
+
+00:22:33:38 - 00:23:00:44
+不明
+The first one was our internal team. So, a little bit about do it best. It's been around for 80 years, and a lot of the things that do have us was doing have also been around for 80 years. So, there weren't a lot of people necessarily that were like, yay, change. Let's do it. And so with employees, it was really painting a picture of the vision and kind of the necessity to move online.
+
+00:23:00:49 - 00:23:31:25
+不明
+Then with our retailers and members, they actually were we're pretty excited about e-commerce. With them, it was really getting them off of a specific feature conversations. Oh, I'd like it to do this. Less than that and more again, showing what e-commerce could unlock for their business. And then I would say, you know, there was, a fair amount of, time that I spent with our CFO on the investment and how quickly it would turn in ROI.
+
+00:23:31:25 - 00:23:58:59
+不明
+And that was another, big constituent that a lot of it was just, you know, painting the picture for him, sharing the vision. And it did not hurt that we had great partners that were keeping the project on track. So that made a lot of my conversations much easier. But overall, I think it was, you know, that consistent, painting of the picture of where we're going and then delivering results as we went that really helped us.
+
+00:23:59:04 - 00:24:23:06
+不明
+Great. All right, Corbin, let's talk a little bit about the Adobe platform that you're leveraging for a large variety of things. Right. But are there some specific examples that you have that are, you know, come to mind when you think about they're bringing the most values and most impact to your members? Sure. And that's a tough question because we are using the entire suite at this point.
+
+00:24:23:06 - 00:24:47:35
+不明
+But, just to paint the picture, back when we started the project, we had about 700 sites and there were, I don't know, 1900 stores participating. So even though we have 3 to 4000 stores and all that, not everybody participates because they are independent. They get to make choices. So with rolling all this out and through the vision that was cast and all this excitement that was created, we have started to watch as our membership has bought in more and more.
+
+00:24:47:44 - 00:25:10:47
+不明
+So today we sit more around the idea of 1400 micro sites on a single platform. And you got to think about that for a minute. An easy number to spit out, but I'm talking 1400 types of websites, people with their stores, data and information, who they are. So the whole nine yards built into it. I don't even when think about rebuild it all.
+
+00:25:10:52 - 00:25:39:59
+不明
+I know for about 1400 of those we have over we've increased our store count by over 20% in that time period. And at the same time we have had 750 of our locations start actually bringing their data into the site, which means product data, inventory data, retail prices, each one of them being different promotional data, all in a way to help show who they are and their uniqueness.
+
+00:25:39:59 - 00:26:01:47
+不明
+So that does take a combination of both commerce. From Adobe, but also a lot of work from Am and there's actually, we were talking about just earlier about Am we can actually spin up a microsite with dynamic media media that changes on a regular basis for our member. We can actually create a site in 15 minutes.
+
+00:26:01:52 - 00:26:26:10
+不明
+If you provide me with some store information and a logo, I can actually have it built and in place. Now that's the beginning. By all means, I can continue to add, more and more information to the site and more and more SEO things of that sort. But that doesn't happen on its own. That is truly a combination of Adobe, along with some creative thinking from publisher sapient, and helping us really accomplish in what we're doing.
+
+00:26:26:15 - 00:26:44:53
+不明
+Great. Thank you. So whenever you look at a transformation of this size and you, you know, we talked about how many members that you have to work with, right? Besides selecting the right technology that's going to work for everyone. Then you have to get everybody on board to adopt it and use it and leverage it to the best that it can be.
+
+00:26:44:53 - 00:27:01:18
+不明
+So, you know, what are some of the strategies that you put in place to make sure that, you know, you were working with your members to make sure that they were adopting the technologies they felt in power. They felt that it was they were going to get value out of doing some of this change and changing the way that they historically worked.
+
+00:27:01:23 - 00:27:23:40
+不明
+Yeah. So there's there's a couple different things. One, for us is, is creating, imagery and examples and things of that sort, independent hardware. These folks, they're amazing. They're great retailers. Some of them are fourth and fifth generation. You think about that. I mean, this this is a I, I've always wanted to work with helping people do their business better.
+
+00:27:23:40 - 00:27:43:04
+不明
+And that's that's what we doing doing here. But they're not e-commerce website gurus. And so they understand how to do retail and do it well. And it was really our job. And Allison kind of alluded to it. How do we take that off their plate. So creating these great examples and helping communicate those things I think was kind of that, that first step.
+
+00:27:43:08 - 00:28:08:40
+不明
+And then there has been a whole lot of testing since then, and I'm now talking about testing of offers and testing of different ways of reaching customers and working with those individual members to come up with ideas that they also have, and working with our ideas on finding the things that work, because there's nobody that tells a story better in our industry than one independent retailer telling another one, we can do it all day long.
+
+00:28:08:40 - 00:28:39:53
+不明
+But when they hear one of their other folks say, this is how I'm being successful, that's when we get our best, increase. Yeah. And I would also say we spent, about a year before launch just talking about e-commerce, kind of making sure we were mentioning at it, at meetings, etc., etc. to get everybody excited. But we also knew that once everyone was excited, we needed to have some fast action so we couldn't onboard one retailer a month.
+
+00:28:39:57 - 00:29:04:12
+不明
+People would be really tired really fast. And so, sapient actually helped us with migration services as well. So we put together a plan that said we're going to do all of these things to get everybody all excited. But when we do that, we need to be able to mass onboard our retailers. And that was a service that we didn't even know at the time that the publicist sapient offered.
+
+00:29:04:12 - 00:29:28:42
+不明
+But that was key in making sure we were maintaining momentum and that we were growing the people that were interested, with every month so that was a big deal for us as well. Excellent. All right. Let's talk a little bit about some key takeaways, some learnings and what's ahead. So you know, any time you implement set of technologies this size I'm sure it's totally going to go smoothly at all times.
+
+00:29:28:42 - 00:29:42:48
+不明
+Oh yeah. Perfect. Thank Corbin. Stop sleeping for a couple of minutes there. So yeah. You know, for the folks in the audience, I think this is one of the most valuable things that they can take away. Or, you know, what did you learn during that time? Like was there any missteps? Was there things that you would have done differently?
+
+00:29:42:48 - 00:30:00:09
+不明
+Is there are there things that you could share with the folks here that would maybe make their journey smoother? Well, first off, if you're going to live in a conference room for three months, bring your desk chair, not the one that's in the conference room. I don't know why it took us two months before we figured that one out.
+
+00:30:00:14 - 00:30:27:14
+不明
+But no, it in in all seriousness, we knew this was complex. We knew it going in, and with complexity means that there are things that you run into kind of as you go. And our biggest problem was just our huge amounts of data. And, and so we had to get really creative in it to a combination of both purposes and Adobe rethinking, things at times and help us truly think outside the box.
+
+00:30:27:14 - 00:30:44:20
+不明
+And I talk about the box because I always was told, you know, it's like, hey, you know, you're buying this thing and try not to do any customization. And it's like, you know, just use what's out of the box. And then we got there and it's like, that's not going to quite work. But our out of the box wasn't necessarily going and doing something that didn't make sense.
+
+00:30:44:20 - 00:31:03:41
+不明
+It was actually working with Adobe engineers and the folks from publishers on coming up with something that made sense and was sustainable. As we move forward. So we weren't in a situation of suddenly now we're kind of off on or off on our own, which is something we were highly against. Yeah, I would say, as far as the kind of things that we learned.
+
+00:31:03:41 - 00:31:30:06
+不明
+So we woefully underestimated how, bad our data was. We had a database that, you know, had 50 years of people manually entering product data. And we knew that, we didn't spend as much time on cleaning it up as we should of at the beginning. So that was a big learning, a mistake I know I will never make again.
+
+00:31:30:11 - 00:31:55:04
+不明
+I would say the other piece is, I underestimated, kind of the level of understanding across the organization of what it takes to implement a platform of this size. And so a lot of times, you know, we had the, the old red, yellow, green. I don't know how many of you use that, but as far as initiative tracking, if it's red bad.
+
+00:31:55:04 - 00:32:28:08
+不明
+Yellow. Okay. Green. Good. Any time our initiative veered into yellow, I would get about 15 calls, like, what's happening, what's going on? And so, I spent a lot of time explaining that most tech projects are always in yellow. You're never 100% sure what could happen. And I would say the fact that we had sapient as a partner and Adobe there as resources when we needed to fix problems, when we needed to explain things, to our teams, that was really valuable.
+
+00:32:28:10 - 00:32:50:40
+不明
+And again, that was something that I had underestimated. I really should have talked up how difficult what we were doing was. So I missed that opportunity. But, those were some big things that, that we learned. Yeah, I learned with Allison. Do not wear a red shirt to the office. She thought that. Yeah. So I had, like, more green shirts, and you never know.
+
+00:32:50:40 - 00:33:07:30
+不明
+It didn't matter if we were in yellow. I was only wearing green. But I think I think for us, you know, from them lessons learned, it's a very practical thing. It's one of those this is a hindsight comment because of, there's some times where you make a, you make mistakes and you look back. No, that was a mistake.
+
+00:33:07:30 - 00:33:29:12
+不明
+But there's other things are like, now knowing what I know now, what would I have done differently? And for us, for me, it would have been let's choose our integrator first, because we actually chose our platform first because we knew all the integrators could cover everything. And the reason why that was important is just more so. We had a little bit better understanding amongst ourselves of how we were looking to go about things.
+
+00:33:29:16 - 00:33:51:18
+不明
+Going into it now, we would be at the exact same spot we are now. We just got there little, little bit smoother. And then the other part of it is we have this whole suite where, like, we want all of it. And so we said, build it all and build it now. Well, our team, as Allison mentioned, we run very lean and mean.
+
+00:33:51:32 - 00:34:09:21
+不明
+And so I think I think again, we could have probably rolled that out a little bit more in stages, not significantly longer timelines of at least a little bit more in stages and probably had a little bit smoother, rollout. Just as we were learning internally, I don't know if the external people would have noticed the difference, but we sure would have, internally.
+
+00:34:09:21 - 00:34:31:17
+不明
+But that's that's again, a couple learnings. Yeah. Great insights. Connection. Anything. Yeah. No. And I was looking at some of what, what we implemented. And sometimes I scratch my how did we do this. Right. So, you know, within a year and I think I've emphasized that already, we talked about member microsites being built and we got essentially 800 plus members as we are.
+
+00:34:31:17 - 00:34:54:27
+不明
+1300 is the last number we saw. Now, 1300 independent sites that are all rolled into a single Adobe platform. Right. So, which means within minutes you're onboarding some of the simpler members with promos category, global content across. And you don't have to do that for each site's already built in and the platform supports it. Adobe Target for personalization.
+
+00:34:54:27 - 00:35:18:45
+不明
+Right. So all of the personalization at scale conversations you're having, we have that built into the platform and supported from from from the get go. Magento. I don't know how many people are actually implementing commerce with Magento, but when we started, a number of those pieces had to be tied together. Right? So to have Magento platform works at work with a, so the sites can deliver that content pretty scale.
+
+00:35:18:45 - 00:35:39:45
+不明
+And then, you talked about some of the members. What we haven't talked about is the member data. Each member has their own inventory. So there's a big data rationalization project on how do you that bring all of that together. So think about, you know, each member having what would you say, 50,000, 60,000 SKUs very typical for a store, very typical for a store.
+
+00:35:39:50 - 00:35:59:19
+不明
+And then they have store the rest skills that are provided by do it best. And then they have independent inventory outside. You're trying to bring all of that together. So now you multiply the scale. Then you start to see how big their inventory model is and how much data needed to support. And frankly, I don't think the any other platform outside of Adobe could have done it right.
+
+00:35:59:23 - 00:36:24:40
+不明
+And if you think about the marketplace strategy, essentially what we've built is a marketplace where you have multiple member stores running their platforms within the single. I mean, the skills are just amazing, right? It's hard to your point. I don't think we should have taken it all on on day one. We could have sequenced it, but we would probably be at the same exact place, but with maybe a little less gray hair.
+
+00:36:24:44 - 00:36:41:32
+不明
+But and then, you know, and I'm just looking through some of the others. Right, AJ or sending marketing emails to everybody. Right. Hey, you left your cart behind. So all of that had to come together pretty quickly. Although we sequenced it a little bit, they didn't post launches when we got the emails going and so on, so forth.
+
+00:36:41:32 - 00:37:05:01
+不明
+There's a lot of challenges, right? And yeah, we were able to do it. Yeah. It seems like smiling. Yes. It seems like the members have quite a lot of ways that they're now getting value from do it Best. And that's been increasing. Yeah. That's great. So as we talk about the future and scale and what's next now that you're over this mountain true value talk to us about it.
+
+00:37:05:05 - 00:37:29:14
+不明
+Yeah. So I think true value brings a huge opportunity for e-commerce for us. Right now, even though they're such a well-known brand, they actually don't have a site that, customers can shop from. So, right now it's really kind of a vanity site. And so there's a lot of potential, their vanity site gets a lot of traffic.
+
+00:37:29:14 - 00:37:57:23
+不明
+And so for us, we're just thankful that we have great partners that can help us with, how we move forward and that we have a robust enough solution that, again, we're not thinking, oh gosh, now we have to replatform because we're doubling the number of stores we're bringing on. So, I think we feel like we're in a really good place with the true value acquisition, and we're happy to buy more hardware retailers and, bring those on as well.
+
+00:37:57:28 - 00:38:17:59
+不明
+Not this week. Not this week. Yeah. So, thinking about some of the latest and greatest technologies out there. There's a lot of new things. You know, we've been hearing a lot about agenda. I, you know, everything's about automation and scale. You know, what are some of the ways that you folks are approaching that in your business?
+
+00:38:17:59 - 00:38:40:01
+不明
+Just, you know, from a high level. Yeah. So I think I think there's two sides of that for us. First off, there's this practical side of the the last two years of everything that's been done. And so on one side is not answering your question totally, but it's really it's the year of activation for us, meaning we have to get our members continue to buy in more.
+
+00:38:40:08 - 00:38:59:56
+不明
+And it's not just by an insane yes, but actually doing more things that they can do and how they can work with us to really drive business through the site. And so there's that part, and then there's this theme that we have going on in my office in my group called E-commerce for all, because remember, we only have 2200 or 20, 100 of those stores doing something.
+
+00:38:59:56 - 00:39:23:23
+不明
+So we have a lot more stores, especially now with true value that can come on board with it. So we got that going on. So while that's going on, we're also then working with how do we advance this technology to do more for us. So again our suite of products allows for it. So we need more personalization. So we got to build more of that in and then there's more focus on our loyalty program.
+
+00:39:23:23 - 00:39:43:17
+不明
+So we didn't really touch on it, but we have a loyalty program that was in all of our stores. Well, we've never had that integrated online. So now that exists. So how do we actually build off of that more? And so how do we start getting personalization as part of that. But actually getting that just a standard loyalty aspect of things.
+
+00:39:43:22 - 00:40:01:30
+不明
+And then you start to layer in the AI and those types of pieces. And how do we start to bring that in. So for us activation, how do we create more personalization. How do we use more out of the platform. And then we'll start continuing to bring in more and more of these pieces to do some of the fun things that we've been looking forward to.
+
+00:40:01:35 - 00:40:30:41
+不明
+Yeah. And I would say a big area we've used AI is John Janai. So we have 1,000,007 products and our Pim, and we have five people on our content team. So obviously we're not out and able to do a lot of photo shoots. We're not able to write, you know, millions of descriptions at a time. And so, John, AI has really been, a help for my team in getting a lot of content push through quickly.
+
+00:40:30:46 - 00:40:51:17
+不明
+That's been great. Yeah. And we have a pretty robust roadmap that we are going to work on, which, again, Adobe has amazing tools. And, you know, in addition to that, we will we're working on a number of other things. Great. So you'll see all of that. Actually, I would like all of you, if you have a neighborhood hardware store, please go in there.
+
+00:40:51:17 - 00:41:12:30
+不明
+You're helping the local business and you're helping do it best succeed as well. So please do go in because these are folks. In fact, when we first started working with Do It Best, that's what excited us. They were on a mission and we were like, this is an amazing mission, right? So you're basically going to the mom and pop hardware store that has been around in your local town for 50, 60, 70 years.
+
+00:41:12:30 - 00:41:39:02
+不明
+It's gone through 2 or 3 generations, and now they're trying to compete against the big box in the bigger stores. Right? How do you take that small business and and, you know, it's been in the family and some of them are larger, actually Connolly's and others are 17 stores plus. Right. But how do you take that basic ethos of a local neighborhood store and have them compete in the same footing as a Lowe's and a Home Depot and make that journey successful?
+
+00:41:39:06 - 00:41:57:44
+不明
+And they needed to make sure that, you know, people have mobile like everyone, the younger the next generation is all going to be on mobile shopping. And if you don't have that capability or the ability to pick up something online, ordered in the store, bopis right, then you're not going to attract that customer. They'll go to they'll continue to go to Lowe's and Home Depot.
+
+00:41:57:44 - 00:42:15:21
+不明
+Then nothing wrong with those amazing guys. But the point is, how do you make the the. And so it was it became a mission for us. It is a mission for us every day. How do we make those folks succeed? Totally. So we'll do, one more question for the folks here up on stage, but then we'd love to hear from you folks.
+
+00:42:15:26 - 00:42:38:52
+不明
+After we get through that question, if you have a question from the audience, please go use the mic and center here. So for everybody up here, if you could, you know, talk to the folks in the audience, people embarking on this journey. Is there any words of wisdom that you would provide to them? Any advice? For me, the just the idea of partnerships.
+
+00:42:38:52 - 00:42:56:54
+不明
+I mean, this is basic element. We can say or talk about all of the complexity of the things that we've done and the nightmares we ran into that we worked through and got through and how we accomplished certain things. But at the end of the day, I have to say it is truly about partnership that gets you through.
+
+00:42:56:59 - 00:43:27:03
+不明
+But if you're trying to do something simple, just go hire a vendor, get it done, just move on. And I look at vendors as somebody who have a transactional relationship with and, it is what it is. You hold them accountable. You get as much out of as fast as you can, and that's done. But when it if you really want to accomplish something big, the choice of those partners, whether you're talking about an integrator such as publisher sapient or you're talking about the suite of products and platforms like Adobe, I will tell you, we would not have accomplished, what we did if it weren't for that.
+
+00:43:27:03 - 00:43:51:15
+不明
+And their success and our success are directly, tied together. I would also say definitely use an integrator. So I had done, web replatform and did not use an integrator. And, probably the worst year of mine in my company's life. But I think that was prior to do it best. Prior to do it. Yeah, yeah.
+
+00:43:51:15 - 00:44:19:16
+不明
+Prior to do it best. But, even in coming to do it best, there were a lot of questions like, oh, can you just do this with Adobe? We have it here. Why can't they implement it? And I think one of the best decisions we made, you know, along with choosing Adobe as a partner, is having a very solid integrator that had excellent project management skills, and was able to complement, the staff that we had at do at best.
+
+00:44:19:16 - 00:44:42:43
+不明
+So, you know, even though, the cost may seem daunting, it's worth every penny. Take it from somebody who was, up for 24 hours a day, several months in a row. I'm trying to do it on our own. Great. Good. Nationally. Yeah. No, this is hard stuff. Some of it's very wrote, some. It's pretty straightforward, but it's generally hard and.
+
+00:44:42:48 - 00:44:58:09
+不明
+And you're building a business. That's the way to look at it, right? All of you who are about to go off and do this on your own. You're building a business. You're building you have to support a pal. You have to support a growth plan. And which which means that you have to actually make some of the right calls.
+
+00:44:58:09 - 00:45:12:53
+不明
+And then, you know, that's our job, right? To make sure you guys are successful and to make sure that's a successful. That's really what. Yeah. We don't look at when and that's been in our history. We don't look at how much, you know, how we are doing as a company. If you guys do well we will do well.
+
+00:45:12:53 - 00:45:32:40
+不明
+And that's always been our mantra. Thank you so much for being here. Thank you for supporting us. Thanks to Corbin and Ellison for being here. And, do enjoy the rest of the show. Please. This is, this is an amazing product set and it's an amazing conference, so I hope you have a very good conference after this as well.
+
+00:45:32:45 - 00:45:35:37
+不明
+Thanks, everyone, for.
+

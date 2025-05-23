@@ -1,0 +1,412 @@
+00:00:00:34 - 00:00:22:26
+不明
+Welcome to day one of Adobe Summit. We're going to start with a little audience participation. So we got a couple of questions for you to start with. All you have to do is raise your hand. Who here. This is their first summit. All right. Not bad, not bad. Welcome. Welcome. Who here has a slight knowledge of IDs? Meaning?
+
+00:00:22:26 - 00:00:47:19
+不明
+You've heard about it. Maybe you've seen some demos. All right. All right. Who? Here are IDs experts who played with the tool. Maybe we've done an implementation. All right, Chris, we got to watch them for questions. Okay. All right. Cool. Take it easy, please. Thank you. Final question. Who here has played a Bungie video game at some point?
+
+00:00:47:24 - 00:01:17:05
+不明
+Thank you. Very nice. So today we're going to talk about the bungee store's journey with EADS. That's edge delivery services. Edge delivery services for those of you who are maybe new to the technology, is Adobe's latest front end technology. It delivers speed to market as well as speed for your customer. The main draw to EADS is that it runs on the edge, so there's no server that's sitting in the back end.
+
+00:01:17:09 - 00:01:43:21
+不明
+All of the code is running on the edge to get to give you lightning fast speed for you. We paired that with Adobe Commerce, which is their transactional e-commerce platform, handles all of our cart checkout those sorts of items for authoring. We utilize the Universal Editor. So that's Adobe's new in-context editing that can be used for various number of different sources.
+
+00:01:43:26 - 00:02:11:06
+不明
+Our source was Adobe Experience Manager, so authoring was done in Adobe Experience Manager using the Universal Editor published to EDS and EDS was the delivery mechanism for the entire site. So we're going to talk to you today about the journey we took to go from a bungee store that was just on Commerce, to a bungee store that was using the latest suite of Adobe products.
+
+00:02:11:11 - 00:02:40:38
+不明
+So my name is Matt Miller. I'm the VR solutions at right point. Right point is a platinum solution partner of Adobe. I've been utilizing the Adobe suite of products for over a decade now. I've specialized in Am with Commerce solutions. So this particular topic is super exciting for me. I remember back in, you know, ten years ago when we used to import products into Am and have to run blueprints, and now we're integrating real time on the edge.
+
+00:02:40:39 - 00:03:06:47
+不明
+So bringing that full circle has been, a real joy and pleasure to be able to do. Also working with an iconic brand like bungee. We saw the number of hands who've played a bunch of video games. I very fondly recall, when Halo came out. Second semester of of college. All of the sudden, the entire floor of the dorm turned into one giant land party multiple days a week.
+
+00:03:06:52 - 00:03:25:55
+不明
+And it was great to get the the lovely messages from the university saying the life or the the land is only for your desktop computers, not any other devices. So, with that, I'll turn it over to Chris, and he's going to talk a little bit about himself and get us started. Cool. Yeah. So. Hi, everyone. My name is Chris Caskey.
+
+00:03:25:55 - 00:03:54:24
+不明
+I'm the principal web operations manager at Bungie. I've held various positions in the e-commerce industry since the Magento one era, about 2008. So handling B2C, B2B operations for a handful of different organizations. So today, I'm really thrilled to be here to share with you all of the exciting work that the teams up on Right Point and Bungie have accomplished recently.
+
+00:03:54:28 - 00:04:21:29
+不明
+So today, we're going to be taking you through Bungie's journey to improve our store experience. The lessons we learned about IDs, and the outcomes achieved for the store. We hope to have about ten minutes at the end for any questions, so if you have any questions during the presentation, feel free to, let us know during our, Q&A slide.
+
+00:04:21:34 - 00:04:48:09
+不明
+So from this session, we hope you take away how you can plan and execute a new site design with edge delivery services, some recommendations and best practices we learned for future implementations, and the results you can expect after upgrading your experience with EDS, you will see the speed it not only provides the site, but how quickly a site can be implemented with EDS.
+
+00:04:48:14 - 00:05:20:06
+不明
+So who is Bungie? For those unfamiliar with Bungie, we are a prominent video game developer behind successful titles such as myth, marathon, Halo, and most recently, Destiny and Destiny two. What sets Bungie apart in the consumer products and commerce sector is our dedicated in-house team. The team collaborates closely with various groups within the studio to create physical merchandise and sell it to millions of fans globally through our storefront@store.com.
+
+00:05:20:11 - 00:05:50:21
+不明
+In 2020, we adopted Adobe Commerce to enhance the functionality of Bungie's store. By transitioning to Adobe Commerce, we ensured that the platform could support our expanding store programs such as Bungie Rewards. The Bounty Rewards program is really cool. It integrates our in-game player data with customer accounts, all within the commerce platform, to drive personalization and allow customers to purchase specific products that they've unlocked in the game.
+
+00:05:50:25 - 00:06:07:57
+不明
+The adoption of commerce also enabled us to handle high volume sales events, sometimes processing up to 23,000 orders within minutes. And we usually see these when we're selling collectors or editions for our new, expansions or games.
+
+00:06:08:02 - 00:06:38:19
+不明
+Cool. So after five years without significant UX and UI updates or infrastructure improvements, it was time for a refresh to meet the needs of our growing community. Our first priority was to improve Bungie rewards and the overall customer experience, ensuring a seamless and enjoyable shopping experience that resonates with our fans. We also concentrated on conversion rate optimization by refining UX UI features to increase the number of visitors who complete purchases.
+
+00:06:38:24 - 00:07:16:54
+不明
+Scalability was another crucial aspect. We needed an infrastructure that could grow with us supporting an increasing number of users and transactions without compromising performance. Additionally, we focused on effective management of the cost of ownership. By investing in more efficient technology and processes, we aim to reduce ongoing operational expenses and fully leverage Bungees and tech stack. So these business drivers form the foundation of our redesign project, helping us shape the next iteration of the Bungie store.
+
+00:07:16:58 - 00:07:45:51
+不明
+So when you came to us with this idea for a redesign, we wanted to not only help them with the creative aspects of it, but also enhance their technology footprint. Chris mentioned you know, they invested in Am after Commerce, but they weren't using the two together. There were some other improvements that we wanted to make from an author ability standpoint, as well as give them the speed and the scale of a modern platform.
+
+00:07:45:55 - 00:08:08:13
+不明
+So we came to them and said, we think EDS is the right solution for your platform. It's going to give your customers top notch speed and experience. You're already going through the redesign, so this is a good time to make that investment, make that jump. And then with the scalability that they wanted to achieve, they wanted to start offering more products.
+
+00:08:08:24 - 00:08:36:58
+不明
+They want to start branching out beyond the Destiny brand, as they continue to move forward. EDF would provide the foundation for that growth and ensure that they're able to continue to grow not only this year, but five years from now, with the Am edition utilizing the Universal Editor. We thought we could provide them a premium authoring experience as well as the capabilities of a digital asset manager.
+
+00:08:37:02 - 00:09:09:07
+不明
+So their merchandizers their content authors can go in and be able to more quickly update the site, get those published out, and then be able to have assets that were reused across the ecosystem. And then finally the customer experience. So not only do we implement ads, but we also implemented some upgrades to their current experience that were more intuitive to customers, that streamlined some of the processes that will lead to the conversion rate optimization that that we're looking for.
+
+00:09:09:21 - 00:09:30:20
+不明
+So we felt like EDS was the right solution for them. Utilizing the universal editor and their investment in and maximize the return on what they were already paying for. And then being able to bring in the features and functionality of a content management system.
+
+00:09:30:25 - 00:10:00:52
+不明
+So this is the timeline for our EDS implementation. So for those of you who've seen EDS elements, they talk a lot about the 90 day Go life cycle. And we were able to achieve that here with bungee. We started in mid-December. We focused on the core technical elements that we needed to enable Eds within their platform. The first being ecommerce upgrade and enablement of catalog services and live search.
+
+00:10:00:57 - 00:10:26:38
+不明
+This is going to become the foundation for the APIs needed for EDS. Parallel to that, our EDS team was setting up EDS and was enabling the commerce drop ins to be universal editor, author able. So today, commerce is enabled for document based editing. We took it and enhanced it to be able to be edited with the universal editor.
+
+00:10:26:49 - 00:10:56:17
+不明
+So all of the product details, mini cart, things like that that were native for document based were now available in the in the universal editor. We came back from the holidays and that's when we kicked off the design initiative. So our design team came in, met with Bungie, and started to outline what the new visual experience was and customer experience was going to be for for the Bungie game, players in parallel to that.
+
+00:10:56:22 - 00:11:33:51
+不明
+We were also continuing our development efforts. We were enhancing the EDS blocks that we knew we were going to need to create, such as the rewards product carousel, the related products block, and various other, content only enhancements that we needed to make for heroes and carousels and and those sorts of things. Our commerce team focused on the back end log in flow enhancements that we needed to make, as well as leveraging the EDS bridge code that would allow us to share sessions between EDS and commerce, because we were only doing Eds on the browse and search pages.
+
+00:11:33:55 - 00:12:01:14
+不明
+So we do a handoff to commerce for login, and account pages. The final month was really focused on fine tuning. So we were fine tuning the customer experience. We were fine tuning some of the areas of the design that we needed to flesh out, as well as we were focusing on the handoff pieces, making sure that session management was handled properly, making sure that log out was handling properly.
+
+00:12:01:19 - 00:12:21:06
+不明
+And then the final step was the rewards testing. We had a number of people across Wright Point and Bungie who were helping us with that because we were integrating with the actual Game play API, and it was very it's very difficult to spoof the rewards and elements that you needed. So we needed real game players to come in and help us test.
+
+00:12:21:10 - 00:12:41:14
+不明
+So we were able to get a number of people across the organizations to come in, help us test, see what rewards they were offered, and making sure that we had all of our use cases covered. So I want to give a special thanks to Chris and his sons. You know, we spent a lot of time, testing, and, his sons actually provided pretty good feedback as well.
+
+00:12:41:15 - 00:12:58:10
+不明
+So, which was which was kind of fun. And then we shipped Chris off for, for a cruise on Europe for Go Live. So we wanted to make sure he was as far away and safe as possible when when we decided to go live, here in mid-March. So the site's been live for a little over a week.
+
+00:12:58:15 - 00:13:26:22
+不明
+It's been performing, really well. So with that, this is our high level architecture of what we put together. So edge delivery manages what we call kind of a split glass. Right. So edge Delivery is going to manage our content pages, our header, our footer, our mini cart search product list and product details. Am is the backbone of the content management stack.
+
+00:13:26:27 - 00:13:54:06
+不明
+So it manages all of those pages that are content driven in, that browse and search flow that's delivered by EDS. It's also our digital asset repository. So all of the marketing assets and things that we need are housed within an We enabled catalog services. Catalog services drives the product search the product list and the product detail elements of the website.
+
+00:13:54:10 - 00:14:21:51
+不明
+For those of you unfamiliar with catalog services, it also includes Adobe Live Search, which is the AI search platform. So it's personalized results based on the products you're looking at, based on, you know, your personal interaction with the website. Catalog services is backed by Adobe Commerce for catalog and product list data. For our transactional pages. So our log in my account cart and checkout.
+
+00:14:21:55 - 00:14:43:10
+不明
+Those are all still hosted on Commerce. So this was really about that speed element. We wanted to ensure that we hit our three month timeline. We wanted to ensure we could provide the biggest customer impact, and that was on the browse and search experience. So leaving the transactional elements within commerce was very beneficial to us. And then we have the bungee net platform.
+
+00:14:43:10 - 00:15:19:34
+不明
+So this is the actual gameplay platform that you're able to log into. And we can extract and return their rewards information. So the gameplay, the things that they do, what they unlock in the game, we're able to get returned to us via their API to unlock products on the actual website. So this is where Chris and team can do exclusive content, exclusive items that are just for people who are game players, and for people who are skilled game players that are able to unlock more achievements.
+
+00:15:19:39 - 00:15:41:56
+不明
+And then all of that, is fronted by a CDN which handles all of our routing. So EDS is a Adobe recommends is a bring your own CDN. So we brought our our CDN and that's what handles all of our routing between EDS and covers. All right. So now we're gonna talk a little bit about the visual design.
+
+00:15:42:05 - 00:16:05:39
+不明
+So you've seen it throughout our slides. And we'll show a short video of the of the demo site after this. But the one thing you notice is we've changed the theme to a very dark theme. It's a theme that mimics what game players expect. Any developers in the room probably have your ID you set on dark mode. You're very familiar with this kind of interface.
+
+00:16:05:43 - 00:16:31:41
+不明
+Few of the other elements that we've added. We enhanced the size of the site in general. So you see bigger target areas, you see, text and things that are a little bit larger than they were in the past, clearer call outs for our rewards, gameplay elements. So the achievements what do you have to do to unlock this product became more transparent and, more identifiable to to gameplay users.
+
+00:16:31:46 - 00:16:55:32
+不明
+And then we streamlined the purchase process. So little things like moving up the Add to cart button on the PDP, making, add to cart sticky on mobile, all of those little enhancements to really encourage that path to purchase. And then finally streamlining the login flow because we this site runs on the need for integration with the gameplay.
+
+00:16:55:37 - 00:17:23:35
+不明
+We really focused on the login process, looking and ensuring that the person is logging into their gameplay account, not just their store account. So we do a look up, help guide the customer through that login process so that they can maximize the value and the experience on the site. So with that, we're going to show a little a little demo of, the site itself and walk you through some of the things that are happening.
+
+00:17:23:40 - 00:17:42:33
+不明
+So this video is it real time. So you can see how fast the site is. You notice some of the enhancements we've made to the Hero carousel. This is our product rewards carousel that we, we custom developed. And then you can scroll down and you can start seeing where we get some product listing and other information.
+
+00:17:42:37 - 00:18:08:31
+不明
+So all of these blocks were developed either custom or as enhancements to the existing drop ins. So this is a product list drop in that we've enhanced with just visual elements. And some additional information as well as added infinite scroll. Here's some hero elements. You can see the different styles that we have applied to them. Overlays being able to display text left and right.
+
+00:18:08:36 - 00:18:32:26
+不明
+And then we have an image carousel there at the bottom. And then the final is the custom footer. So we're scroll up and we're going to look at a product list page. So we're going to click on the ten years of Destiny banner here. And it's going to take us to a product list page. So we've got the ability to, to sort and filter on this page.
+
+00:18:32:31 - 00:18:52:45
+不明
+Filters are coming soon. Anybody from Adobe Live Search that can help us with the filter problem, let us know. Let me go into the product detail page. See, we move the add to cart up. And added a related product carousel there at the bottom. We're going to go ahead and we're going to add this product to cart.
+
+00:18:52:49 - 00:19:25:28
+不明
+Once we add it to cart, we're actually making another API call to Commerce to see if there's any gift with purchase products. So now we've got two products in our cart because we've got a gift with purchase. And then we're able to go to a landing page. So this is again a customized landing page. All of these blocks are available to the merchandizers and content authors to mix and match and create the experience that they need to continue to to drive customer engagement.
+
+00:19:25:33 - 00:19:48:04
+不明
+And then we're going to go look at the search experience. So the search experience has is most of the out of the box functionality for commerce. So you see a full page takeover. You see the ability to see a preview of products and then the ability to go to a search result page. Here we're going to pick a product with a promotional price.
+
+00:19:48:09 - 00:20:09:09
+不明
+And we're going to go ahead and add that product to cart. And in this case we noticed we've already got the gift with purchase. So we're not going to add another one to the cart. Going to the login page. This is where we streamlined the login experience. So you see we've made the login to bungee net more prominent and higher on the page.
+
+00:20:09:14 - 00:20:27:27
+不明
+We've only given them an ability to enter their email. This will do a lookup to see if they have a linked account. If they have a link to count will prompt them to to log in with bungee net. Once they log in with bungee net, they can now see a different rewards experience. So you can see this user has ready for purchase.
+
+00:20:27:32 - 00:20:50:07
+不明
+The product there on the left. Another one here on the left. And then yet another one that we're going to click on. Here is the pin set. So they can clearly see what they what they can purchase, what they can't with very clear indicators. And then the same thing on the PDP. So you see that big ready for purchase button.
+
+00:20:50:22 - 00:20:58:10
+不明
+They know that they've unlocked it. It tells them what reward they need to unlock and how to achieve it.
+
+00:20:58:15 - 00:21:06:45
+不明
+And this product also had a gift with purchase. So once we've added this product, they actually get another free promotional gift.
+
+00:21:06:50 - 00:21:18:40
+不明
+So that's a summary of what we've what we did for the for the bungee site. And some of the enhancements we made utilizing areas.
+
+00:21:18:45 - 00:21:48:43
+不明
+Which. I guess. So we now want to take a little bit of time and reflect on what we learned a little bit about. So, over this section, it's going to be a little bit more technical, but we'll tie it back to business outcomes. And some of the things that you can look for within your project to know that the team is implementing and utilizing AEDs in the best possible way.
+
+00:21:48:48 - 00:22:14:51
+不明
+So the first thing coming from years of Am development. It took us a little while to kind of break away from the from the common paradigms, common things we used to do in and development. Not just calling things blocks from components that still trips us up, but also some of the ideas and some of the ways that, you know, M integrates with EDS.
+
+00:22:14:56 - 00:22:39:02
+不明
+So utilizing the universal editor in Am doesn't mean that it uses some of the common M elements. You're not going to see service development. You're not going to see servlet development. You're not going to be creating components and dialogs. You're going to be doing things in operating in a slightly different manner. I've heard a common misconception that EDS is the new publish instance.
+
+00:22:39:07 - 00:23:03:16
+不明
+It's not EDS is its own standalone product. It integrates with Am, but it's not replacing a publishing instance. It's not the same thing and the same functionality. So our first recommendation is get to know David's model. Second take it's an article out on, the the Adobe documentation. For those of you who don't know who David is, it's David Newsela.
+
+00:23:03:21 - 00:23:28:05
+不明
+He is one of the the creators of Am. And he was also part of the creation team for EDS. So he has two different, takes one for when he created em and this one for for eds. But there are a couple of call outs in there that I want to bring to your attention. The first one, no nested box EDS, was created for a document based editing platform.
+
+00:23:28:10 - 00:23:51:51
+不明
+When you're using a document, there's no hierarchy, right? It's tables. It's all within one flat structure. That's how EDS is created. So there's no nesting of elements. So the idea of like I have a carousel that I can drop different components in and it renders doesn't exist within EDS. The second is how they limit column and row spans.
+
+00:23:51:55 - 00:24:11:06
+不明
+And this will come into play a lot more when you start looking at your lighthouse scores. And making sure you're not doing things that will adversely affect your layout shift on page load, but they very much limit the idea of columns and being able to do some of the things you're used to in the editable templates, right.
+
+00:24:11:07 - 00:24:34:32
+不明
+You're able to grab a component, move it around, do all of that that doesn't exist within EDS in the same fashion. You can mimic some of that behavior. And as you saw, we had blocks side by side. We we were able to do some of that. But it's not the same paradigm. So just understanding and making sure you understand those guiding principles will really help you in your in your delivery.
+
+00:24:34:37 - 00:25:02:55
+不明
+Finally, EDS is new and it's constantly evolving. I think a week after we started the project, they released a whole new version of Commerce drop ins. Since then, there's been a number of minor updates to some of the commerce drop ins. So staying on top, staying in communication with Adobe is very key. We were able to get the commerce drop ins a week early when we kicked off our project, because we were in communication with them.
+
+00:25:03:00 - 00:25:27:41
+不明
+There are a number of things they're doing to make the universal editor more like em. So if you go out, you can find their work in progress elements. They're doing things like having template editors, multi-site manager enhancements. All of those things are currently in the works. And in some phase of a work in progress that you can implement or help Adobe test or be or go through.
+
+00:25:27:50 - 00:25:46:05
+不明
+So keeping up to date on what's happening in the ecosystem is really important because it's moving very, very fast. And you don't want to have to custom implement something that's halfway done for you by Adobe. So just stay up to date on all of those items.
+
+00:25:46:10 - 00:26:06:30
+不明
+When planning for universal editor and custom blocks. So again, I've said it's not like Am in some cases, but it feels like it. So you can see the universal editor, you highlight blocks, you're able to edit them. It feels very much like an Am infrastructure. The big thing is, is you don't have control over the Dom output.
+
+00:26:06:34 - 00:26:32:19
+不明
+Editors does all of that for you. But there are some attributes. There's some custom things that are built into EDS that if you understand their content modeling, again, it's all part of the Adobe documentation. But there's a lot out there. So pulling the couple things that you need to look at, the content modeling is one. For example, you want to mimic the style editor from an there's a classes attribute in EDS.
+
+00:26:32:24 - 00:26:54:50
+不明
+If you implement that attribute it'll put a class on the outside of the block. So you can very quickly and easily implement a style like authoring for your EDS blocks without any custom development. All you have to do is write the CSS. You're able to group Dom elements within EDS. So just by naming convention, you can group things rather than having a flat structure.
+
+00:26:54:57 - 00:27:17:35
+不明
+You can have a hierarchical structure, things like that. That banner that we show where you put the text. And once one element, you can then group all those elements in an outer div make it so much easier to style. So understanding the models and utilizing the out-of-the-box EDS features will really limit your customization. Just like components, planning for your blocks is important.
+
+00:27:17:40 - 00:27:43:57
+不明
+So this is where non-technical people is a big, big part for you, right? Making sure you help your implementation teams with their block definition. How do you want to author it? What do you want it to look like? What things do you want grouped together and have to be just style options? Those are all key things to both limit the number of blocks you have and enable the ease of authoring for your users.
+
+00:27:44:02 - 00:28:04:45
+不明
+So you don't want to have too many options where they've got a dropdown of, you know, 10 or 15 style options, but you also, you know, want to give them the blocks that they need and the options that they have. And finally, plan for code reusability. So it again kind of ties back to that new nesting. We had three different carousels on that homepage.
+
+00:28:04:49 - 00:28:29:00
+不明
+All of those carousels used the same slide creation logic, use the same, indicator logic. All of that was things that we had to plan out. We had to pull out, put in a JavaScript utility, and then share them with the blocks that they have. So making sure that you plan for that reusability when you're doing out your dev responsibilities.
+
+00:28:29:11 - 00:28:56:28
+不明
+So you don't want to have developer A and developer be working on blocks that share the same code without knowing and communicating to them, hey, pull this code out. You work on this shared piece, you work on that share piece. So that way you're not running into where all of your blocks are completely independent, and you're using similar code in 5 or 6 different places.
+
+00:28:56:33 - 00:29:20:22
+不明
+Continuing monitoring lighthouse. So just like any other implementation, performance has to be something that you consciously think about. This is the biggest value prop deeds. So anytime you see Adobe come up and talk about EDS, you'll see a slide similar to this where you see all the green and all the 90 plus lighthouse scores. That doesn't happen by accident.
+
+00:29:20:22 - 00:29:42:22
+不明
+That doesn't happen just by turning on EDS. You still have to do development. You still have to plan for it. You still have the monitored monitoring. And the tools within EDS help you do that. So there's a GitHub action on all of your peers that will give you the lighthouse scores for that branch. Utilize it. Don't ignore it.
+
+00:29:42:27 - 00:30:07:13
+不明
+Fix those issues right away because they start to compound one branch that, you know, maybe drops your lighthouse score for performance by five points, or drops your accessibility score by five points, combined with another branch that also drops your score by five points together, can drop it by 20. So then it becomes harder to figure out, well, what caused the issue, why did it drop so much?
+
+00:30:07:13 - 00:30:33:22
+不明
+And you're scrambling and you're trying to you're in recovery mode. Fix them on the branch. The information's there for you. Spend the time in the effort to do it and don't overlook it. For us, the last point was super critical. We were in a split glass situation. Our CDN was doing a lot of heavy lifting for routing and for making sure customers were seeing the right pages, but it also helps you with those lighthouse scores, right?
+
+00:30:33:23 - 00:30:54:36
+不明
+So the the lighthouse scores you see within your GitHub action. Those are run, you know, core web vitals check on specific branches. They don't have the benefits of a CD. So you'll get a better understanding of the translation between what you're seeing in your peers and your actions to what your customers are actually going to experience on your site.
+
+00:30:54:46 - 00:31:12:07
+不明
+If you get your CDN set up. And then for us, like I said, it was it was really important for the for the routing and being able to test end to end. So we couldn't test add to cart without a lot of a lot of hoops to jump through without the CDM.
+
+00:31:12:12 - 00:31:46:12
+不明
+So the final piece of recommendations is really doing a deep dive and understanding of the EDS rendering. So this comes down to understanding how and when things are flowing and happening. So we started implementing commerce I believe in like sprint to we started adding our product list pages. We started working on our rewards pages. And Chris quickly turned and said, hey, I'm noticing that the headers seems like it's loading rather late by default.
+
+00:31:46:12 - 00:32:04:28
+不明
+Needs the header loads after all of the body content. So it wasn't noticeable when we just had content on the page. Everything was rendering rather quickly, but once we were starting making API calls, all of the sudden the body of the page was loading and then all of a sudden your header was popping in. It felt like a very disjointed element.
+
+00:32:04:33 - 00:32:35:07
+不明
+So understanding what's there and how those little things can affect the customer experience is very important. This will also help you in your lighthouse elements. You're going to make modifications that are going to cause layout shift. It's going to happen, right. Understanding what levers you can pull and where that code is being executed is super important. So for example, sections is within the heading Script.js.
+
+00:32:35:13 - 00:32:57:29
+不明
+That's where it's rendered. If you do anything with layout, you want to do it within a section because it's going to load quickly. If you load something in a block, it's going to load at the time that block renders on the page. So at that point it's going to load the CSS and the JavaScript for that block. So if you do any sort of layout within within a block it's going to affect your layout shift score.
+
+00:32:57:34 - 00:33:25:18
+不明
+So those little things are going to be able to help you decode and be able to to provide the best experience. And then finally the difference in drop ins. So commerce is implemented different than content. The drop ins utilize preact. So it's a lightweight version of react. They also have the ability to interact directly with the Json. Whereas content you get a Dom object back.
+
+00:33:25:22 - 00:33:48:11
+不明
+So you have different paradigms when you're working with content and when you're working with commerce. So understanding what you can do within the drop in drop ins also have eventing. So you can do things like when is my product data ready. When is my cart ready? When is my cart refreshed? All of those are events are things that you can tap into that you can't tap into on the commerce side.
+
+00:33:48:16 - 00:34:14:57
+不明
+So or on the content side. So understanding the difference between content and the commerce and how they interact within with each other is important to maintaining this. So for non-technical folks, if you start to see your performance consistently drop, if you start to see weird rendering order, right. Those are all things that you can flag and start to to address early.
+
+00:34:15:01 - 00:34:21:47
+不明
+And you can help your, your implementation teams stay on top of those items.
+
+00:34:21:52 - 00:34:43:04
+不明
+So with that, I'll turn it over to Chris to talk a little bit about our project outcomes. Yeah. So thank you, Matt, that you're brilliant. And the team at right Place really brilliant. This is amazing work that, we saw some huge performance gains. So, yeah, as we looked at the timeline, we saw, we kicked off a redesign project in December, and, our timeline was very aggressive.
+
+00:34:43:04 - 00:35:09:47
+不明
+So we just launched our site last Monday. Already we're noticing several immediate benefits. Our merchandizers now have a more efficient way to create and merchandise pages across the site, including homepages in landing pages. Scheduling content updates has become easier to set up and configure. Although we're still learning, we're already seeing some significant improvements in content authoring. These outcomes highlight the positive impact of our redesign project from the start.
+
+00:35:09:52 - 00:35:40:37
+不明
+So let's review some of the metrics. So as we compare these to our business drivers and how they've translated into real world improvements with our recent release, we look at improving our customer experience. Customers will notice a significant increase in speed with the enhanced experience. Design performance has increased by 37 points, a 62% improvement. Accessibility has improved by 30 points and SEO by 17 points.
+
+00:35:40:42 - 00:36:13:16
+不明
+Both mobile performance saw a remarkable boost of 60 points. The hand speed has increased the product listing page views by 65%, as customers are browsing more projects and viewing 20% more product detail pages. This enhanced browsing experience aligns with our business driver to significantly improve the customer experience and bungee rewards. Conversion rate optimization overall, traffic is up 27% with a 17% increase in pages viewed.
+
+00:36:13:21 - 00:36:38:15
+不明
+The increased speed and improved UX UI design have resulted in customers staying on the site 33% longer and adding 29% more items to their cart, increasing their engagement by 13%. These metrics reflect our aim to optimize the conversion rate effectively. One of the things that surprised me on the outcomes so far has actually been that people have increased their time on the site.
+
+00:36:38:15 - 00:36:53:46
+不明
+I thought with the faster pages and with the the customer base that they would like come get what they want. And, you know, but the fact that they're browsing more products and staying on the site longer, I thought was in, and it was very surprising that I thought they would balance right off other things load. And I think, yeah, yeah.
+
+00:36:53:51 - 00:37:22:37
+不明
+So scalability. We conducted load tests at 15, 30 and 45 times the current peak load. Impressively, the error rate remained at zero until 45 times the peak load, resulting in an error rate of just 0.01%. We maintain subsecond load times through 15 times peak load. This initial test demonstrates that the new EDS powered site will scale with Bungie's continued growth, aligning with our scalability objective.
+
+00:37:22:42 - 00:37:56:48
+不明
+And lastly is the effective cost management. So although we just launched, last Monday, we're we are seeing improved operational efficiencies for our store operators. And additionally, leveraging Bungees a m tech stack has further streamlined our operations and reduce cost. So these outcomes clearly show that our business drivers are not just theoretical goals, but are being, translated into tangible improvement, for our platform and our user experience.
+
+00:37:56:52 - 00:38:35:31
+不明
+So what's next for us on Budget Store and our Eds work after we get home from summit? We already have an additional release planned. Our release releases planned as fast follows to our MVP launch last week. Upgrading our our regional EU site to utilize Eds to browse and search to ensure, site parity between the two store fronts, evaluating our transaction pages for EDS integration based on the latest drop ins, and identifying other areas within the organization where we can incorporate and expand our EDS footprint.
+
+00:38:35:36 - 00:38:59:29
+不明
+So in summary, you know, I've mentioned I've been in the Adobe ecosystem for for over ten years. And I can say I was shocked at Ed's ability to deliver. I was definitely a skeptic, being an am, person. And I'm like, you know, all right, we'll give it a shot. But it completely delivered on the performance side.
+
+00:38:59:43 - 00:39:20:09
+不明
+Yes. We had to maintain it. We had to manage it. It was something we had to actively work at, but we were able to achieve it. And the site feels fast. It feels good to a customer as well as it's accessible and part of that was the design team, you know, enlarging some of the targets on buttons and carousel indicators.
+
+00:39:20:22 - 00:39:45:18
+不明
+But a lot of that was, you know, the Dom structure and things that that EDS provides. As Chris just went through, it resulted in real world of results. Right. We're seeing customers spend more time there. We're seeing them interact. We're seeing them add to cart. We're seeing them purchase at a higher rate than they were before. Before the EDS, implementation, the authoring enhancements, have been nice.
+
+00:39:45:23 - 00:40:08:18
+不明
+The universal editor has some quirks, has some things that it's still working out, but, you know, one of the main, content authors of the other site, she was pleasantly surprised with how easy it was. Bungee net was actually down this morning, and she quickly, updated the header banner at the top of the page to let all the customers know while we were sitting here right at summit.
+
+00:40:08:18 - 00:40:31:25
+不明
+So we were able to author the site and and as Chris said, you know, streamline some of the the performance impacts. They have other sites on their platform now. Everything's managed within, within one place. And we're looking forward to getting the EU site out here shortly. And then finally the 90 day go life. This took a lot of dedicated effort.
+
+00:40:31:30 - 00:40:58:27
+不明
+So we had to manage dependencies between the design team, the EDS team, the commerce team, to ensure that we could hit it. But we had some great partners in Bungie. They were flexible and understood when we're like, hey, we really can't get that in there. We can't guarantee that. But I think we got most of the things we were we were unsure about in, and we were able to timely get design approvals.
+
+00:40:58:31 - 00:41:23:31
+不明
+We worked in very close collaboration with the team, making sure that they saw prototypes. They saw our all of our work in progress stuff to ensure that we were able to to hit that 90 day, 90 day deadline. The other thing was, you know, and I mentioned the dedicated testers on the reward side, but, the commitment across the board of both organizations to, to get it done.
+
+00:41:23:36 - 00:41:39:18
+不明
+So with that, we're going to open it up to questions. But I want to I want to thank the the team that worked on on this project. So Chris and I are lucky enough to, to be standing up here. But, there was a whole team of people both at Right Point and Bungie who were dedicated to getting this done on time.
+
+00:41:39:23 - 00:41:57:31
+不明
+You know, go live week in the preparation for that. I know it's a it was a long week. So I really appreciate the team and, and all the, the hard work that went into this from, from both sides of the house. So with that, we'll we'll open it up to any questions that people have. So thank you all for coming.
+
+00:41:57:36 - 00:41:57:55
+不明
+Thank you.
+

@@ -1,0 +1,572 @@
+00:00:00:09 - 00:00:17:19
+不明
+Okay, so we're here to talk about scaling content with some of our preeminent solutions at Adobe Gen Studio for Performance Marketing, Firefly Services, and express. You've probably heard about those over the last couple days and maybe even before. And so we're going to go a little deeper today.
+
+00:00:17:24 - 00:00:36:17
+不明
+So if you attended yesterday's keynote, we packed a lot into that. Okay. We talked about the entire content supply chain. We did a demo where we said we had several products firing at the same time, talking about how we can streamline end to end workflows. Okay. And we talked about three, products in particular that were going to go deeper in today.
+
+00:00:36:18 - 00:00:53:49
+不明
+And those are the ones I mentioned. What we want to do with you today is three things. Number one, we want you to walk away with an understanding of what these products do. Because a lot of times in these demos, there's all sorts of information coming at you, all different products that are firing. We want to basically take out a part for you and help you understand what these products do.
+
+00:00:54:03 - 00:01:18:01
+不明
+Secondly, we want to help you understand what types of problems these products solve for you. And most importantly, which is why I hope you came today, is that we're going to help you understand the unique value that bringing all three of these products together will help you in terms of scaling content. I will be your guide on the journey today along with my colleague Vic, this one often, who is the product marketing manager for Jen's Studio for Performance Marketing.
+
+00:01:18:01 - 00:01:35:31
+不明
+I dare you to try to say that five times quickly. It's very challenging. And then Ben Vanderburg, who's our platform evangelist, and he knows more about every single Adobe product than I can even imagine. So that's what we're going to do today. There's plenty of room up here if you want, in the front. So let's get started.
+
+00:01:35:36 - 00:01:54:00
+不明
+Okay. First, a quick show of hands. Number one, we've got a lot of marketers in the room here. So how many of you felt like your marketing efforts have been limited because you do not have enough content? Anyone have that challenge before? You wanted to personalize for more segments. You want to do more localization. Okay, good show of hands.
+
+00:01:54:05 - 00:02:12:19
+不明
+Secondly, how many wish you had deeper insights into all of your campaign content analytics about what's performing well? Okay, good. So a lot of people would love to see a little bit more in terms of their ROI. Okay. Finally, how many of you marketers have ever had that point where you look at some sort of content that's out there in the ether?
+
+00:02:12:19 - 00:02:41:01
+不明
+It could be in public facing communications, it could be in some sort of internal content or brochures. And you look at the brand representative, you say, oh my God, dear God, I want to cry and never see the brand represented poorly. Okay. So we see that to you as product marketers. And it definitely makes us shudder. We want to address each of those three things today as we talk about these solutions that we have for the content supply chain and Gen Studio for performance marketing, Firefly Services and Express.
+
+00:02:41:06 - 00:03:01:23
+不明
+First, a little context. This will come as no surprise to anyone in this room, but over 80% of customers say they prefer brands that give you a personalized experience. But that's not enough. You have to meet those customers in the channels and platforms where they're doing business with you, and then expect all of those experiences to be personalized and all of those different channels.
+
+00:03:01:28 - 00:03:26:15
+不明
+But doing that is a huge challenge, right? If you think about all the products that you have and then how you have to create different versions and renditions for different channels such as TikTok, such as YouTube, such as Facebook, such as your email, such as your website. And then you have to think about all the localization for different geographies and I don't just mean translation, but I mean the actual images too, because a street scene here in Las Vegas is going to look a lot different than a street scene in Prague.
+
+00:03:26:29 - 00:03:47:17
+不明
+When you want to connect with your customers, you want to make sure the entire recipe of what you're sharing with them is localized for their particular geography, so that you can connect and engage with them. And then you need to create different variants for segments, right? You have a number of audience segments that you're targeting today. You've heard a lot about Adobe different solutions and how we can give you data and analytics about your customers.
+
+00:03:47:22 - 00:04:03:42
+不明
+So you can, you can personalize for ever more number of segments in ways that you couldn't before. And then finally, you have to do refreshes like these things don't just happen once a year. It's not just like you launched the brand and then it's over. You've got seasonal campaigns, you've got refreshes going on for new product launches.
+
+00:04:03:46 - 00:04:30:04
+不明
+And you've got different types of promotions that you're running. So these refreshes happen all the time. And then this whole tableau of content, it needs to be on brand. If it's not on brand then you have some sort of reputational risk. And this is one of the biggest challenges that our customers face is making sure that each of these pieces of content across all of these different stages stays on brand, so they prevent any type of reputational risk.
+
+00:04:30:08 - 00:04:45:25
+不明
+What happens inside of the organization? It'd be great to see if this resonates with you, because this is what a lot of our customers are telling us. The marketers, they're running much fewer campaigns than they'd like to. They just don't have the content to be able to do it in the personalized way and the experiences that they want.
+
+00:04:45:30 - 00:05:04:32
+不明
+That's the marketing team. And then you've got the creative operations and the marketing ops teams. They're the ones who are trying to broker all that content as it moves back and forth between the studio teams and the marketing teams. They're expressing higher costs, and they're facing a lot of challenges in terms of delivering that content at at velocity and then the creative teams.
+
+00:05:04:37 - 00:05:26:40
+不明
+Some of you may work directly with them. Some of you may actually oversee some of these teams, but they are stuck doing all sorts of very tedious type of work. This is not why they joined the marketing or or the creative team. They're doing a lot of cut outs. They're doing a lot of clipping paths. They're doing a lot of returning what they really want to be doing, and what you want them to be doing is investing in your brand.
+
+00:05:26:45 - 00:05:46:18
+不明
+You want them to be doing innovation strategy, things that are really going to help you grow, but they're stuck doing cut outs and it takes a lot of time. And then let's not forget, we've all seen when we see our brand portrait portrayed in the market in some way or within our company in some way, that is just completely off brand, then it creates problems for all of us.
+
+00:05:46:22 - 00:06:05:32
+不明
+Everyone is a steward for the brand inside the company, and I'm thinking about teams like sales. They are doing all sorts of presentations to customers. You're talking about sales enablement teams who are putting content in front of their internal teams. You can think about HR, and you can also think about teams like field marketing, where your teams, if you're in a global brand type of situation, you're actually giving content to some of those teams.
+
+00:06:05:33 - 00:06:23:12
+不明
+They'll often modify it in ways that maybe you don't want to have it. So these are the different teams that are affected by this challenge of scaling content. And what we want to talk about as we go deeper is how are we going to solve this? So those of you who have seen and been with Adobe for a while will recognize this.
+
+00:06:23:13 - 00:06:40:18
+不明
+This is our framework for the content supply chain. We hope it is a warm fuzzy blanket for you at this point that will help you understand how to really optimize this supply chain kind of end to end. Today, we want to go deeper into what we call the creation and production. Part of these building blocks with, a scenario.
+
+00:06:40:22 - 00:06:59:06
+不明
+This is a very basic workflow that I think everyone's probably familiar with, right? When you're starting a campaign, you have a campaign kickoff. It's a brief. Hopefully it's come out through work front, and then that will trigger someone in the creative team to actually start creating content. These are all the hero assets that you're creating that are going to be then version through all different channels.
+
+00:06:59:06 - 00:07:19:40
+不明
+But before they get there, they have to go through reviews. Right. And you've seen this probably before. A lot of these reviews happen over email, sometimes over slack. It's very cumbersome as you go through the review approval process, then you need to take those hero assets and you to scale them. Five assets quickly become 5000 just for one campaign for all those different channels, all those different geos, all of those different segments.
+
+00:07:19:40 - 00:07:39:59
+不明
+And finally it moves downstream to publishing and delivery. What we're going to do today, when we think about the applications and solutions that we're talking about, is we're going to focus on the content production stage, right? A few hero assets get scaled up very quickly to thousands and then deployed. There's really three different solutions. And let's go over the, over them one by one.
+
+00:07:40:01 - 00:08:06:24
+不明
+So Firefly Services, this is our collection of generative and creative APIs. Right. Headless services that organizations can use to scale content production. The second one is Jen Studio for performance marketing. This is a workflow application, right? It helps you go through that entire workflow where you bring creatives and marketers together to activate, create, to create, activate and optimize content for any digital campaign.
+
+00:08:06:28 - 00:08:26:49
+不明
+And then finally, we talked about the rest of the organization. That's where express comes in. Express is the quick and easy app that allows anyone in the company to create on brand content. So how can we pull these things together in a way that's going to make it in a real life type of scenario? We have created through our weekend, which is a retail lifestyle brand, a fictitious retail lifestyle brand.
+
+00:08:26:54 - 00:08:41:16
+不明
+We're going to talk to you about how you're going to launch something called the Trail Bag, and it's going to be a campaign, and we're going to take you through each one of those different solutions to do that. And that's where friend Ben is going to join us and take us through the entire, entire flow. All right.
+
+00:08:41:18 - 00:09:05:06
+不明
+So good morning, everyone. And what I'm going to do is I'm going to first walk through a little bit of how Firefly Services works. And so to start off here, I'm a creative. And as I'm looking at some of these different bags that we have in our offerings here, I am looking at this and realizing that there's a lot of cool bags, but they're a little bit inconsistent.
+
+00:09:05:06 - 00:09:26:40
+不明
+So some of them we see in different sizes and dimensions. Some of them have white background, some of them are in scenes. Some of them, are going to need a little bit of work. And the challenge is, is that, as a creative team, in order for us to get it up onto our different storefront, it's up to our different websites, up to our different promotional materials.
+
+00:09:26:45 - 00:09:47:00
+不明
+I need to take these and kind of normalize them, remove the backgrounds or, adjust them, put them in the right sizes and dimensions. And a lot of times this is a one by one. Now I'm looking at about like what, 17 different items here. But a lot of times we're talking about hundreds of thousands different ones that we need to do.
+
+00:09:47:00 - 00:10:13:01
+不明
+We need to put them in different settings, we need to put them in different backgrounds and so forth. And that's all takes a lot of time. And that's a one by one time of a person sitting there and going through these. So the dream is for me to be able to take that and be able to run it through some magical automated process, to be able to do what I do over and over and over again automatically.
+
+00:10:13:06 - 00:10:35:53
+不明
+And that's what Firefly Services can help me with. So to start off here, I can go into work front and I am going to start a, a request, that is essentially for a, an item here that we have, which is, trail bag ads. And I'm going to go here and I'm going to upload my items that I have, which is my, my images.
+
+00:10:35:58 - 00:11:07:46
+不明
+And as I upload them into here, what it's going to do is I'm going to then be able to take these and it's going to use these as a basis to trigger an automated workflow. Now, this automated workflow is going to utilize a low-code platform called Work Front Fusion. And what work from fusion is, is it allows you to be able to take your different, your different connectors to your different applications like Firefly services, Photoshop APIs.
+
+00:11:07:51 - 00:11:41:42
+不明
+Firefly APIs work front, Adobe Experience, manage your assets, frame.io, and connect those all together into a, into a workflow. But as I look at these different images, what I also want to do is I want to take them and I want to put them into some specific sort of lifestyle settings and areas. So here we can see we have a number of different images for for kind of a little bit more of like the Red rock sort of area, a little bit of climbing, maybe up in the, in the mountains, maybe a little bit further up in the mountains, in the snow.
+
+00:11:41:42 - 00:12:07:17
+不明
+So, like, all these different images are the ones that I want to be used to be able to create these in different landscapes so I can appeal to a broader audience for my different products. So we're going to kick off our workflow process here. Again, this is work front fusion. That's that low-code platform that's going to run and take each of those different images that were uploaded into work front and run that through, our, process.
+
+00:12:07:17 - 00:12:35:18
+不明
+And as that is running, let me just explain a little bit of what that's doing. So it's taking our different, images. It's uploading that to our Firefly services, which are those, headless APIs to then take that, remove the backgrounds on those images, upload those reference images that we saw there before, and then it's going to generate those images in the scenes of the, in the styles of those different scenes.
+
+00:12:35:31 - 00:12:59:21
+不明
+And that is using Firefly, our generative AI, models, to be able to generate and merge those different images together. Then what it's going to do is then it can take those and export those out into the different formats, sizes and dimensions that I need, whether that's Jpeg or PNG or the number one thing that creatives think about on this is whoa whoa whoa whoa whoa.
+
+00:12:59:24 - 00:13:19:48
+不明
+You're going through an automated process. We want to make sure that we can go back and make some last mile edits and changes because, you know, things happen in automation. You do need to still review things. So being able to still have that in things like Photoshop files that are editable files for them to be able to make those last mile edits is awesome.
+
+00:13:19:48 - 00:13:43:23
+不明
+And huge. So as it runs that, then that can then push those into, frame.io for review and approval, into, Adobe Experience Manager assets or any other storage system or application. Because these are headless API's, they can integrate seamlessly into the Adobe ecosystem, but also into the ecosystem of other applications that are part of your tech stack.
+
+00:13:43:28 - 00:14:05:51
+不明
+So what that then looks like is here I am inside of frame IO, we see a number of the different images that are rolling in, and it's not just generating one, it's generating a number of different variations in sizes and dimensions. So as I look at this one, you know, this one, it's generated. Okay. So now let's look at some of the other ones that are inside of here.
+
+00:14:05:56 - 00:14:37:58
+不明
+We will see, you know, this one again. Like if you're looking at the review of this, you might say that this isn't quite exactly right. The shadow isn't particularly great. So maybe I want to communicate back to my creative team to do some adjustments on that. So what I can do is I can go in here and I can, add a comment in frame IO here, and say, for example, this is going to be, no shadow, and then I can go up and I can change the status this to be needs review.
+
+00:14:37:58 - 00:14:59:58
+不明
+Because while I might like this image, we need to make some, a little bit of adjustments, on this. But now if I go back into here and we have a look at a different image, like the one right here, that one's looking pretty good. It generate the shadows, generate the lighting and pretty good. So we can go ahead and we can approve this now through that automated process.
+
+00:14:59:58 - 00:15:20:16
+不明
+What we can also do is integrate it so that when I approve that, then that's going to push that to my dam so that it's ready to be used on my website, ready to be used. In, in other contexts, in that case. Now, if I go back, we can see a number of the other images that were, generated within here.
+
+00:15:20:18 - 00:15:46:31
+不明
+So we can go ahead here and take those different images, and we can actually go and approve all of these and push those into Adobe Experience Manager assets. And so then what we'll see inside of here is inside of, a, a that those start rolling in through an automated process to be able to push those because those are the approved ones that we like, and that's Firefly services.
+
+00:15:46:31 - 00:16:20:01
+不明
+And being able to take, the ability to take, manual repetitive processes and turn them into automated workflows to be able to, easily create that fresh new content, different variations, using generative AI to be able to, to merge and blend things into different areas. And even you can, extend that beyond to different channels, whether that is to, print, digital, or other channels to create different variations on that content at scale.
+
+00:16:20:06 - 00:16:43:37
+不明
+Thank you. Ben. What we saw Ben do there as a creative was to create these variations of some primary assets. You saw that we started with those bags and added backgrounds, and that's awesome. Now you have a great collection of assets which can be used for your campaigns. But as a marketer, creating marketing assets is more than just the visual assets, right?
+
+00:16:43:39 - 00:17:24:37
+不明
+You want to be able to create, you know, you might want web banners when want social media ads, and you might want to send emails and being able to put all those together. That's where Gen Studio for performance Marketing comes in. Gen studio for performance marketing is, as you heard Joe describe it. It's a workflow application. And really what we're trying to do is how do you take all of these great visual variations, add copy to it, be able to put it in the right template for different types of marketing assets, whether it's an email, it's a meta ad, it's a LinkedIn ad, and be able to activate it directly from the application and
+
+00:17:24:37 - 00:17:48:27
+不明
+also see the insights on how they're performing. So at the end of the day, you're trying to create, activate and optimize in one workflow within the application. And then I think, what better way to see it than actually bring it to life with the same example that Ben was showing. So Ben. Awesome. All right. Thank you. So now I have switched roles taking one hat off.
+
+00:17:48:27 - 00:18:18:34
+不明
+Now I am the, a, a marketer. And one of the biggest things that I want to do is be able to take some of that content that was created and be able to then turn that into, content that is going to be maybe content that's owned media, like emails and banners, whether or paid media that's going on to like social, like, say like the meta platforms or other platforms, LinkedIn and so forth, so that I can, deliver that out, quickly and easily.
+
+00:18:18:39 - 00:18:38:42
+不明
+So I'm in Gen Studio right here. And first off, one of the great things about this is that I have all of my different campaigns available in here for me to be able to to see. This also, ties into work front for me to be able to see exactly what it is that are different. The campaigns that I'm working on.
+
+00:18:38:47 - 00:18:56:06
+不明
+And for me to create content, it's simple and easy for me to be able to do this. And here you can see that I have the ability to create stuff for my own. My owned media, like the emails and banners and then the paid media here. So in this example, we're going to create, a, some meta ads.
+
+00:18:56:06 - 00:19:15:28
+不明
+So if we go open this up here, the first thing that we see is that we have a number of different templates that have been created. My creative team, will have already created these templates for me so that I don't, have to, create new, fresh templates. These are available for me to have as a menu to choose from.
+
+00:19:15:28 - 00:19:40:30
+不明
+So I can select the one that I want to utilize. And then at this point in time, this now can then help me create, a new set of ads for my campaign. So we're going to call this trail back ads. And as I am creating this content, you'll see that it gives me a few different parameters in here.
+
+00:19:40:30 - 00:20:02:37
+不明
+First off, I can choose my brand. So I might have many different brands. And each one of those brands has a slightly different voice, a slightly different, aspect to it. So I can choose specifically my brand that I want for that. I can choose my persona that I'm wanting to target for, this content. In this case, it's going to be my weekend adventure.
+
+00:20:02:42 - 00:20:41:33
+不明
+And I can also choose, my specific product. Now, each one of these different items are then things that help train, our, models on specifically, our own brand voice that is associated with that so that it's helping create that fresh, new content rather than, and then something that it's just, doing it without any sort of context and that can then help, us then create an optimize fine tune model for specific, areas, in this case, for the America's, paid media that we have here.
+
+00:20:41:38 - 00:21:01:57
+不明
+What I can then do is then I can upload my assets that I have. So here we can see all of our different assets that I can access, and, access also from, Adobe Experience Manager assets. So I'm going to choose some of my different ones here. You know, I like that one. That one. And we'll choose.
+
+00:21:02:02 - 00:21:28:44
+不明
+That one's pretty too. So let's select that one now we're doing retail bags here and so forth. But if you're in more regulated sort of industries like financial services, health care, life sciences, there's a lot more additional regulation that you might have, in how you communicate some checks that you need to make sure that the content that's going out, is, is, proper.
+
+00:21:28:53 - 00:22:08:37
+不明
+So what we also have is the ability for you to have add ons that are, that, our partners can offer that, can be fine tuned specifically for those sort of industries to help you create that content, and have those checks in there. So now, at this point in time, now it's just a simple prop, so I can say ads for, trail back for trail bikes that, promote active outdoor activities like hiking and walking.
+
+00:22:08:42 - 00:22:39:47
+不明
+So now when we click on generate, it's taking a combination of the brand. It's taking a combination of that product, the persona and our brand voice, bringing those together to then generate new content variations that then, I'll be able to use. So here we can see in real time it's generating, the, the the post, it's going to be generating the content and we'll see in a quick second as that comes together on that.
+
+00:22:39:52 - 00:23:01:12
+不明
+And the one thing, one thing I would add here is, the point about these compliance checks. So what you will see is that we check in the application for three things. We check on the brand score to see. You will see a brand score up there which talks about how much on brand you are. We also check for, the channel.
+
+00:23:01:12 - 00:23:19:09
+不明
+You are activating the content to make sure that it's a meta ad. Does it meet the guidelines for meta ads so that you, as a marketer, can be confident that it's not going to get rejected for some reason? And a third one, we also do a native accessibility check for the content being generated. And what Ben alluded to earlier.
+
+00:23:19:13 - 00:23:45:22
+不明
+We have ten partners who have actually already created add ons for Gen Studio for different industries. So, the MLR review, if you're in the health care industry or if you're, a, you know, financial institution, you have additional regulation checks for anything your company puts out in terms of ads need to be regulated. So, what typically happens is the companies have internal processes, systems for how they do their checks.
+
+00:23:45:27 - 00:24:14:39
+不明
+What we allow you to do is work with the partner or use some of these add ons to bring in those checks into this process. So you don't need to spend additional cycles in getting these, this content, approved before it go goes out and gets published. Yeah. So here we can see the content that was generated. So it generated the, the body here, it generated the actual visual imagery in here based on our, assets that we chose in here.
+
+00:24:14:43 - 00:24:38:52
+不明
+Now, now, the great thing about generative AI is it took all of my different elements to be able to help create this, but we still want to make sure that this is on brand and a lot of times, what would happen in kind of this internal review process before Gen Studio is I might take that, send that around to be able to get some approvals, emails back and forth, blah, blah, blah, blah, blah, blah.
+
+00:24:39:01 - 00:25:04:26
+不明
+That slows down a lot of the process. And what this can do is, as Vic was mentioning, we actually have our content check right here. That is checking on how does that align to my brand voice? How does align to meta and what is, appropriate for that, platform, and how does that align to accessibility. So as I look at, say, this one, each one of these have those scores.
+
+00:25:04:26 - 00:25:27:10
+不明
+So I can help judge that. On there. And then it also tells me what are some of the things that it sees as issues that need, to, be reviewed. So as I look at this, it says that, for this one, the content does not adhere to the guideline because trail back is capitalized at the beginning, and violates the sentence, requirement.
+
+00:25:27:10 - 00:25:52:49
+不明
+Okay. So what we can do is we can go ahead and change this. Now, one of the nice things is that I can actually use rephrase because it is, after all, early in the morning, and I haven't quite turned on my, like, writing brain for this. So I can actually use rephrase that, help create new, content for me and, and help, remix that a little bit.
+
+00:25:52:49 - 00:26:14:18
+不明
+So then when I do that, then I can say recheck score. It's going to then, see how that looks. All right. That looks great. So it helps me be able to quickly check and be and help guide me towards, creating on brand content. Now, you get the idea for that. We don't have to go through all the other ones here.
+
+00:26:14:18 - 00:26:35:06
+不明
+But you can see that process of being able to check and validate that. The next step that I might have before I push this out is I might want to go through a review, or, sorry, an approval process. And that might be something where I want some different teammates, to review that so I can say request, approval here.
+
+00:26:35:20 - 00:27:01:30
+不明
+And, I can then allow people to be able to review this. Now, we have this review available in, in Jen Studio. If you are also a user of Work Front, it also integrates with work front. So you so you can, also tie that into, reviews, within a work front. And what that's going to do is that's going to send notifications for people to review and directly within here.
+
+00:27:01:42 - 00:27:28:52
+不明
+Then that allows people to be able to comment and provide feedback. They'll get notifications as we see, like this here. And we can say, this looks great. I can't wait to get this out to market. Obviously, somebody else would have more, more feedback for that. But then once we're ready for that, we can click on review and approve.
+
+00:27:28:57 - 00:27:50:53
+不明
+And push it back if we need to, or we can say approved. And that is then going to, kick it off to the, to the next step, which is to publish those assets quick. Second, getting a little bit of a posture of this stuff. We've at summit, we've launched is, you can now do LinkedIn ads.
+
+00:27:50:58 - 00:28:12:02
+不明
+Jen Studio is an app launched in October at max with, meta ads and emails. And now we've added LinkedIn as well. And, you will soon be able so you can now publish directly to LinkedIn, and soon you'll be able to do that. Same for Google Ads as well as, Microsoft and a couple of other platforms, TikTok and snap as well.
+
+00:28:12:07 - 00:28:31:54
+不明
+Right. And the other the other thing is, is that, also for some of your own media, like being able to create emails or banners, it's the same sort of idea. You can tie it to your brand, you can tie it to those different elements. It'll help you create that content much faster. So the next stage of this is you want to be able to activate this content.
+
+00:28:31:58 - 00:28:58:32
+不明
+So, conveniently within the, navigation here. Now we can go to activate and we're going to activate with meta. Now meta is the first partner that we have that has created, an integration in Gen Studio to be able to tie that directly to activation. But we also have coming soon additional, activation partners, including Google, Microsoft, Snap and TikTok, as we see within here.
+
+00:28:58:37 - 00:29:23:53
+不明
+So now we can create a new activation. I'm going to call this my, trail backs, ads. And we can choose our media from here. We can upload it from our computer or get once again from our content. And then this allows me to be able to choose my different size and dimensions here. We're going to use those.
+
+00:29:23:58 - 00:29:50:47
+不明
+And that can then be used for the different dimensions. So for square, vertical, horizontal, etc.. We can give now we can choose this for different previews that we want to use for the meta platform, whether that's for the feed profile, Instagram messenger, etc. this gives me an easy way to be able to help create content for the, for the different, so sorts of areas in, in meta.
+
+00:29:50:47 - 00:30:09:20
+不明
+So we're going to say as an example, this is going to be explorer the wilderness with trail back.
+
+00:30:09:25 - 00:30:22:46
+不明
+We could choose our, our, call to action. Give our website here.
+
+00:30:22:51 - 00:30:47:22
+不明
+And we can then also because it is important to then tie this back to your metadata, you have all the details here that you can tie it to your metadata. Whether it is your brand, your products, time frame, region, etc., so that you can better track and manage and understand these different activations, you can then tie it directly, once again, because it's integrated with meta.
+
+00:30:47:22 - 00:30:59:26
+不明
+You can then, tie it to your accounts here. You can then deliver it to the specific assets that you want to be able to put it in the queue. There.
+
+00:30:59:31 - 00:31:24:02
+不明
+And then when once you then publish this, this is then going to, push it over into the queue over in, in meta, where then as part of your, ad manager, you can then, have those queued up, to, to deploy there. But it's that simple. So you can go from, creating your content, you can activate that content inside of, meta here.
+
+00:31:24:07 - 00:31:48:06
+不明
+And it, makes it simple and easy for you to be able to do that. Now, the final step is great. So I send it out into the wild. I want to know how it actually performed and how many people have sent stuff out. And you tell quite always know how well that actually performed, especially the how. Well that comes back to actually creating content again.
+
+00:31:48:10 - 00:32:10:48
+不明
+Or does it sometimes go into just one direction of we get the content out there, we see that it performs, but, you know, it doesn't communicate back to creating better, more informed content. So inside of insights here, this then gives me that information that I'm looking for. So as I go in here, I can see all of my different channels and ads and and inside of here.
+
+00:32:10:48 - 00:32:34:26
+不明
+This will give me my details that I'm looking for. What is the click through rate? What is the, cost per action of what is the spend? And not only that, it also will give me the additional information of what, text tags were, were related to that. What was the emotional appeal, what images and what were the aspect of that imagery.
+
+00:32:34:33 - 00:32:58:39
+不明
+So it gives me even more telemetry to understand that the, and better understand how to create new content and then really dive down to go, oh, this is the content that performs better. So maybe I need to create more content similar to this to help better, create better performance, better click through rates, that deliver as part of that.
+
+00:32:58:53 - 00:33:23:58
+不明
+And that's really where Gen Studio helps make that happen from being able to help easily create the content, help easily be able to activate that content and deliver that, and then, be able to get the insights to measure and understand that content so you can do it all over again and create new content that is, the most performance, the most performant content that you can have out on the market.
+
+00:33:24:03 - 00:33:51:59
+不明
+Thanks again. I think the one thing I'll add to that is what you saw Ben show in terms of how the content is performing and the attributes on the left. What I'd like to if you want to keep that on for a second. Let's scroll down some of the attributes. Yeah. So a lot of this data like if you have content on meta, LinkedIn, all of these platforms, you will get your like the click through rates, the CPCs, the, you know, spend data.
+
+00:33:51:59 - 00:34:11:40
+不明
+All of that is available on your, you know, if you have on your meta account. We are pulling that in. Right. Great. So you get visibility and it's visual. But what we do and what Ben pointed out on the left side with the attributes, that's something else we do on top. So we run our AI models on the piece of asset to understand what's in the asset.
+
+00:34:11:40 - 00:34:34:25
+不明
+It's the same models we used to, in our generation. With Firefly, we use those, flip them around and try to understand what is in the image. And what that lets you do is pull out attributes which are associated with that piece of content. And now actually, if you look at what you can do with that analysis, I saw a lot of hands go up on you want more insights?
+
+00:34:34:30 - 00:34:59:31
+不明
+You can run analysis on the attributes across channels to understand which attribute was most correlated with performance. So think about you could say the red backgrounds worked or you know, in the fall campaign, you know, orange worked with mountains or you were able to do, certain kinds of musical genres or like moods and the emotional appeal.
+
+00:34:59:36 - 00:35:24:12
+不明
+You just now have a richness to the data, which will help you explain why a piece of content performed. And that's where we we are in that promise of being able to create, activate and optimize content that rich insight is then taken back in to say in your creation process in the app, we can give you additional information on can I create more like this particular piece of content which performed really well.
+
+00:35:24:12 - 00:35:54:49
+不明
+So just to connect the dots on that whole create, activate and optimize content. Excellent. That's awesome. So we saw how a marketer, is able to use Gen Studio for performance marketing to be able to create the, marketing assets. You assemble copy visual content and you're able to like, see the insights. Now, beyond that, you have the rest of your organization who also need to be creating on brand content.
+
+00:35:54:54 - 00:36:15:37
+不明
+For those of you who attended the keynote yesterday, you saw David talk about the two ways in which you can get content out in your organization for marketing, right? The first was the structured way, which we just saw Ben walk us through with Gen Studio for performance marketing, where you want to make sure that you go through the reviews, the approvals, the brand checks, the compliance checks.
+
+00:36:15:37 - 00:36:44:33
+不明
+Are there insights like all of that to make sure? Because it's a machine for, the money you spend in terms of ad dollars and marketing dollars to make sure that your entire is working and getting the return that you want. But there is an another process that David talked about, which is the agile marketing approach, which is letting anybody be able to take an asset which is available and be able to make edits to it and quickly push it out.
+
+00:36:44:38 - 00:37:04:53
+不明
+So this could be, a field team. It could be your sales team, it could be your comms team or HR who wants to take an asset and quickly create a variation of it. You don't need to go through the entire performance marketing workflow for that. All you need is access to your brand assets. And like the power of Adobe's creative tools, simplified for you.
+
+00:37:04:53 - 00:37:26:03
+不明
+So you're able to use that. And that's where Adobe Express comes in. It's the quick and easy app to create on brand content for anyone in your organization. So this includes teams which are outside of, you know, even the creative or the marketing organization, but they still want to be creating on brand content. And, Ben is going to walk us through an example there.
+
+00:37:26:07 - 00:38:00:34
+不明
+Right. So, here I am in, Adobe Express. And, what you're seeing right now is what we call, our brands in Adobe Express, which is a central place that gives us all of our content to help drive our brand, whether it's logos, colors, fonts, some of the different assets, as well as templates. Now I'm going to walk through three different personas that are the ad that are across, our, supply chain of, people who need to create content, but they're not creative pros.
+
+00:38:00:34 - 00:38:21:27
+不明
+They just need to be able to quickly create content and make sure that they're on brand here. These brands are also the same ones that are also shared with things like Gen Studio and things like Creative Cloud, so that that content can be used across, and all of those different things can help create that on brand content.
+
+00:38:21:32 - 00:38:40:10
+不明
+So first roll that I'm going to talk about is a store manager for weekend here. So a store manager again their responsibility is to make sure that the store is going off without a hitch. And they want to create, content for, for the store that they might do that do locally here. And I've created a couple examples here.
+
+00:38:40:10 - 00:39:01:17
+不明
+One might be the manager discount one time only this weekend, which is and so, that might be a sign that he might need to create locally. But once again, we don't want it to be something that he just went into. Word put a little bit of Comic Sans on a white piece of paper and threw it up on the wall.
+
+00:39:01:17 - 00:39:28:17
+不明
+No, we want it to be on brand. So here, this, the the templates in here. Give my store manager here a set of, a menu of templates that he can use that has guardrails to help them. So we're going to choose this, manager discount. We can start that new file in here. And then what that's going to allow him to be able to do is instead of being able to change anything in here.
+
+00:39:28:24 - 00:39:55:50
+不明
+Now, this is giving me guardrails to say, you know what things like the logo here, you can't change that because in fact that is a locked template. So my designers can easily import this into here as a lock template. And you can import it as Photoshop files, illustrator files, InDesign files, PDF files, PowerPoint files. You can import them in and you can create a lock template in here.
+
+00:39:55:55 - 00:40:17:24
+不明
+And so then what you could do is then even up here above, I don't want them to be able to change that part. But I do want them to be able to change things like the image here so we can, allow them to be able to change the image from my brand. And maybe I have a specific set of approved images for them to be able to access here.
+
+00:40:17:34 - 00:40:48:07
+不明
+Where then? You know, we want to then change it out to be, you know, for our, sorry, one second here. We want to change it out to be for our, our biking helmet so that we can change that out there. Now, it has a white background on that, but it can be a quick one click to be able to remove that, which, again, as a store manager, I might not know how to usually do that, but it's one click to be able to do that.
+
+00:40:48:12 - 00:41:20:44
+不明
+Then I can go and change this. And because I am a very gracious manager, I can say manager discounts 20% off and I can then, download that, if I need, if I need to or what I can also do is if I need to also save that to some of the other cloud platforms that I might utilize like Google Drive, OneDrive, Dropbox, or a, I have all those different connectors there to be able to get it to where I need, but it makes it easy for me to be able to that I create that, content there.
+
+00:41:20:49 - 00:41:41:09
+不明
+Another example here might be, you know, some of those different, tags that you might show up, in like a boutique, where, again, I want to make sure that it is on brand so I can easily go ahead and, create a new one and it is locked so that I can just change the things that I need to change out the images that I need.
+
+00:41:41:18 - 00:42:08:48
+不明
+So as a store manager, it's easy. It's a menu of items as, as a brand. I'm deploying out those templates for people to be able to choose from and quickly use. Let's go through another example, my sales team going to the, to, to different things for as part of my resellers. I need them to be able to stay on brand and have the latest stuff that's going to look good and impress.
+
+00:42:08:52 - 00:42:36:25
+不明
+So the other thing that you can also do in express is you can also create presentations and create stand out presentations that utilize any of that brand content as well. And, helps them also stay on brand with guardrails. So it makes sure that keep the same the right colors, the right fonts, etc. to be able to help deliver that.
+
+00:42:36:30 - 00:42:43:45
+不明
+Let's give this a quick second.
+
+00:42:43:49 - 00:43:09:05
+不明
+Apparently Adobe, express was also out last night in Vegas. Having fun. So we're going to go to the one other demo, here. We'll wait for it to catch up, which is the, which is the example of my, regional marketing team that might need to create some fliers, that, do you need to do to help promote maybe the actual use of our, our back in here.
+
+00:43:09:05 - 00:43:39:06
+不明
+So we want them to be able to go in and, let's say they have activities for, you know, hikes, on the weekend here so they can go in and say, hiking in, Zion National Park this weekend or something like that. We can have, the text that would go in there. Any of these elements are editable, but, they are, ones that I can't change.
+
+00:43:39:10 - 00:44:05:54
+不明
+Some of the other elements that I, that I locked down. Now, again, to access any of sort of the images that I might want to use, I can have images that I have available in my brand, or if I'm using Adobe Experience or Experience Manager assets, I can also find any of my, I can access, am directly from in here so I can find the images that I'm looking for within this.
+
+00:44:06:05 - 00:44:14:04
+不明
+And once again, use that to be able to, drag my content, into here.
+
+00:44:14:09 - 00:44:31:48
+不明
+So let's go ahead and we're going to take, read my image, go. We're going to take well, we're not into surfing on this one, so we'll take there we go. This one.
+
+00:44:31:53 - 00:44:57:42
+不明
+All right. So that one's looking, pretty good. Maybe we'll change that to biking. Now, the other thing about this is I might also be, utilizing this, and I want to create this in different languages because I want to take something and I want to reuse this in different contexts, or especially in tourism. You have a lot of different people that are going to be visiting at the same time that have different languages.
+
+00:44:57:46 - 00:45:38:54
+不明
+So let's let's add a little bit of more text here. Come enjoy an amazing hike in Zion National Park. And enjoy epic views. And, it's fun for the whole family. All right, so as part of this, I might want to be able to go in and translate this now instead of going and going around the office finding, someone who speaks all those different languages, I can go up to translate here, and I can then choose from over 40 different languages that will use AI to translate this into.
+
+00:45:39:07 - 00:46:10:37
+不明
+So how many people here speak German? Any German speakers? A little ambition. Okay, so I've got, any French? All right. We got some French, any Hindi? Good. Awesome. All right. We'll do some Hungarian, Italian, Japanese. I could keep going, keep going, keep going. Now, what this is going to do is when I translate this, this is using AI to translate all the different elements inside of here.
+
+00:46:10:42 - 00:46:28:17
+不明
+And we will see that. And I'm going to use all of you to test, make sure that things are looking good in that language. So let's have a quick look. Once this finished. Translating here. But this applies to any sort of content, whether it's print based content, digital content, that you, produce in here, here we can then see.
+
+00:46:28:17 - 00:46:55:39
+不明
+All right, let's just zoom in here. Biking in national park in English. Okay. And German got fun in, Zion National Park. This is walking in the, Let's see now, this one is. French. Thank you. How's French look? Okay.
+
+00:46:55:44 - 00:46:59:21
+不明
+How's the Hindi?
+
+00:46:59:25 - 00:47:21:05
+不明
+All right, so here we can see that it gives us all those different languages. And it allows me to be able to create those different variations quickly and easily. And so as a regional marketer, even. Yeah, it even allows the benefit of, like, sometimes you have that bias of your own marketing team that might generally create stuff within one language and then push that out to their local teams.
+
+00:47:21:05 - 00:47:53:26
+不明
+It helps them be able to, to translate quickly into their regional markets. Now, going back to that salesperson as we look at the different things as part of this presentation, we can see that it creates a beautiful presentation that we can, utilize. Again, just like we saw in things like Jen Studio, if we want to take some of our things like this and we need to rewrite this, we can simply just use things like our rewrite tools to be able to edit inside of here quickly and easily to create our presentation that we're looking for.
+
+00:47:53:31 - 00:48:15:32
+不明
+And, we can also go in here and let's say I have a picture of my team that I also want to drop inside of here. Now, once again, like this is something that might be a little bit difficult for me to be able to, create myself, to remove, the, the, the background, before expressed.
+
+00:48:15:32 - 00:48:41:22
+不明
+But again, it's a simple one click. So I can just say remove background and it's, simple and easy to do that. Now, one other thing that I might want to do is as part of this presentation, there might sometimes there are things in a presentation that are not necessarily on brand, but you still want to get a little bit of that opening, a little bit of that kind of like relaxed thing to just open, open the conversation.
+
+00:48:41:22 - 00:49:12:57
+不明
+Maybe as part of this, you know, the start of my presentation is I want to talk about my weekend and why I, you know, use weekend bags all the time. And it is because I love going and finding the most amazing places to get honey. All right. Well, what's the right image for that? Well, what I could do is I can go in and I can, add an image here, and I can choose from a bunch of stock premium images, or I can also generate using Firefly in here.
+
+00:49:13:03 - 00:49:42:46
+不明
+So I can go in and say, I am looking for, cupped hands with, with honey, in them and snow covered mountains in. The background. Now, I'm definitely not going to have a stock image. And my creative team does not have time to, create something like that for me. But with Firefly, it can then generate that image for me.
+
+00:49:42:54 - 00:49:59:53
+不明
+So then give it a quick second here. We will see our results. I might want to change this to be maybe more, photorealistic so we can change that.
+
+00:49:59:58 - 00:50:18:45
+不明
+And there we go. Looks pretty good if I want to, crop this very easy to do. And if I even want to animate it, it's simple to be able to animate this, to make this, look good. So.
+
+00:50:18:50 - 00:50:41:56
+不明
+You know, I did add another animation just to add a little bit of, wait for it. You're going to. There we go. And then, then we can present that things look good, we can create that great first impression. And the other nice thing is, is that all of those assets, like the images as I drop those in, especially if I'm talking about, like, product images, like the ones we see here, those are linked.
+
+00:50:41:56 - 00:51:03:01
+不明
+So if it's as, as I drop images into here, if my brand team then goes and says, hey, there's a new image, or there was an issue with that that can automatically update inside of my presentation. So those presentations are not, oh, my sales team is using the template that we have, we use two years ago and they're still using the same slides.
+
+00:51:03:01 - 00:51:26:16
+不明
+And oh no, that's not on brand that can be linked to our assets. So that it is the latest and greatest content. And they it helps them stay on brand. So we saw an example of how we can create decks, how we can create regional content for our regional, marketers and how we can even deploy this to other teams like store managers who just need quick, easy ways to create content.
+
+00:51:26:29 - 00:51:50:29
+不明
+Express makes it easy for anyone to be able to create that content while helping them stay on brand with those guardrails. Thank you Ben. So that was express, the quick and easy app to create on brand content by anyone in your organization. Now, very quickly I just want to run through what you saw, Ben walk us through where you had the creative team set up variation in Firefly services, the Gen Studio team.
+
+00:51:50:36 - 00:52:12:25
+不明
+The users be able to create marketing content with it for activation. And then you had other teams, the store managers and the sales presentations all be able to be built in, express. The same approach can be applied to other use cases. For example, weekend as an international brand. So you might have regional teams who want to take this content and be able to leverage it.
+
+00:52:12:30 - 00:52:40:03
+不明
+Right. So you can see us, the workflow where creatives are able to create localized variations of these images we saw. So maybe in the media they want to have more, locally relevant images that they can generate with Firefly services and use them along with these bags. And then the Gen studio for performance marketing, users can take those assets.
+
+00:52:40:08 - 00:53:04:07
+不明
+And just like you saw with express, you can translate in the content in, Gen Studio as well. So you'll be able to create these, meta ads or LinkedIn ads or emails, assembling copy and images together where you have the locally relevant content images, but also you can create it in the languages that you need it to so that you can push it for the local regions.
+
+00:53:04:12 - 00:53:28:57
+不明
+And thirdly, you could have store managers in these regions, regions as well be able to use a similar workflow of using express to make those kind of last mile edits, which they need, without actually going through a structured workflow. So those were just like another example of how you can use these three products together in order to drive, campaigns in the regions.
+
+00:53:29:02 - 00:53:50:46
+不明
+So what we saw today, just to kind of wrap it all up for you, we, we saw we heard about Firefly services, the headless services. It's a collection of our creative and generative AI APIs which allow you to, create scale production, where the creative team can create a ton of variations of the, visual content.
+
+00:53:50:51 - 00:54:21:56
+不明
+We saw how Gen Studio for Performance Marketing is able to let you take those variations, combine them with copy, and be able to create, activate, and optimize that content for your marketing workflows. And then we saw how Adobe Express, the quick and easy app to create on brand content, allows anybody else in your organization to be able to grab that asset and make changes and use it, for their for their needs.
+
+00:54:22:01 - 00:54:50:43
+不明
+So hopefully you got a good sense of how these products all work together. We've had some very, very exciting announcements for all of them. At summit, this week. I don't want to walk through each one of them, but what you'll see is that Firefly Services, we launched, Firefly Creative production. We added a whole bunch of new APIs, and now you have the custom model API, which allows you to, leverage the custom model, the organizations creating, Gene studio for performance marketing.
+
+00:54:50:54 - 00:55:16:05
+不明
+It was our biggest release ever. You might say it's just your second release, but, you know, it's it's bigger than the first one. And we had a ton of new, features which we launched in terms of event channels insides. And we have a lot more coming. And then, Adobe Express, we announced the ability to actually do review and approval workflows in Adobe Express and also, the work from integrations coming soon.
+
+00:55:16:10 - 00:55:36:40
+不明
+So what I would encourage you is to, you know, there's Joel, Ben and myself. Come find us. If you have any questions about any of these products, please go check out our booth. There's a ton of, folks out there who will be. It will help you, walk you through some of these demos again and, like, learn more about the product.
+
+00:55:36:45 - 00:55:57:16
+不明
+And I'll say that for, Gen Studio for performance marketing. Just a plug. I am doing a fireside chat with Lenovo's, CMO for online, and, they were one of our early customers. We're going to walk through a bunch of use cases of how they saw value. Well, thank you so much for coming at 8 a.m. in the morning.
+
+00:55:57:21 - 00:55:59:31
+不明
+Have a wonderful summit and I'll see you all soon.
+

@@ -1,0 +1,348 @@
+00:00:00:01 - 00:00:29:07
+不明
+Everyone. Welcome to our session, Marketo Engage data hygiene strategies today. I am Milo. I am a senior marketing operations manager at Qualcomm. And as mayor, just like to what my role is, I'm responsible from one and only Marketo. Alex Gregor solution architect to proficient supporting Qualcomm in all their marketing operations strategy and execution. So who are we?
+
+00:00:29:12 - 00:00:56:00
+不明
+You're looking at, between the two of us. Five time champion class. Both of us. User group leaders. Both of us have renewed our architecture, master, within, Marketo engage architecture. And, once was. And, about 20 years of experience in Marketo. Engage. So, between the two of us, we've seen quite a few instances.
+
+00:00:56:05 - 00:01:29:37
+不明
+We've done a lot of cleaning of houses within Marketo. Instances. Okay. Let's start. What if we tell you that we a process change? Or just like implementing a new process, you potentially can see up to 95% error decrease and you may save two hours for manual work. It's amazing. Right? Well, I don't know all, but if someone tells me this picture showed me this picture two years ago, I probably going to stop doing whatever I'm doing and tell me, what's your secret sauce?
+
+00:01:29:41 - 00:01:48:48
+不明
+Because I was losing a sleep about the sync error, and we were really dealing with two big issues that how are we going to fix it? What were we going to do? So today we're going to talk about a lot of data hygiene data cleaning our like the what still our challenges and how we actually find a solution.
+
+00:01:48:53 - 00:02:14:23
+不明
+We definitely going to show you this picture one more time. But first let's start about data. Data is important, but data integrity is everything. Why? Data integrity is very, very crucial for especially marketing. When you have a clean, optimized data. You can start to building a great foundation for your marketing. This foundation being still like to each for your campaigns.
+
+00:02:14:23 - 00:02:40:19
+不明
+For example, if you are using to targeted or personalized strategies for your campaign and you know that you have a clean data to start with, you are one step ahead. But if you don't have that clean data and you need to step back, work with your maybe several teams, make sure that your data is clean and then you can put your strategies together, which it's more time or money, more effort.
+
+00:02:40:19 - 00:03:08:03
+不明
+Like it's kind of a domino like effect. And then you also give option to your marketer to give their decision by supported data. Then you have the clean data strategies. Another effect is the compliance and legal consideration. The compliance is getting more strict every day. And we need to like especially are working with the global companies. We know that it's very important is not only just the market or anymore.
+
+00:03:08:03 - 00:03:39:39
+不明
+It's like the most of the martech stacks needs to apply those compliance rules. I have a good news, some bad news. So the good news is compliance is same. Similar for every companies, every industry. As we know, the GDPR company countries is not changed by a company. By a company. Right. But if you have a bad data in your system, even though you apply those compliance process in your data database, you cannot really see the result because you started with the bad data.
+
+00:03:39:48 - 00:04:04:45
+不明
+But if you have the clean, optimized data, you are again one step of the game. You set up your compliance and you forget that you done with this part. You know that you don't need to be faced with any legal issues, and with all these effects going to be have to improve your ROI and eventually revenue. Let's look at how we can achieve that data integrity in general.
+
+00:04:04:50 - 00:04:31:44
+不明
+I usually bring the science in my presentation. I have a science background, but my heart is live with marketing. So I don't like to take the approach for three step approach. First of all, methodology we need to build systematic and repeatable process in order to achieve that. Data integrity standardizes data entry from beginning till the end. Automated workflows like this is a process.
+
+00:04:31:45 - 00:04:52:27
+不明
+It's going to keep running, and then we need to regularly check our system if it's working or not. It's with the audits. The second part is the validation. We put a process together. It's great. But are we doing the right writing like the VR in the right part? So that comes to validation. We can definitely build some data validation rules.
+
+00:04:52:27 - 00:05:24:37
+不明
+We can use some reporting function. But to me is the best part, is the getting to real time feedback from our stakeholders, like the are they see the any effects for the like the whole data cleaning process. And the last part is the optimization. Optimization is very important because data cleaning process is not easy to put together. But you need to like you really don't want to keep redoing it when you need to change one part of that optimization, part of that data hygiene process.
+
+00:05:24:42 - 00:05:48:59
+不明
+So we need to give our sample room to improve our process based on the business needs. Because whatever we put two years ago, I guarantee is not going to work two years later. Let's look at the whole market or ecosystem, how the market a database starts. I like to call this a the art of person creation because market or everything is tied to person object.
+
+00:05:49:00 - 00:06:11:11
+不明
+So we see all the data, all the on the person. So there is a way that you can create a person. I believe that there's 14 or 16 of them, but I really put here the the most important ones, like the most common use one that least import form feel web API, CRM, sync, event partners. These are the way that you can create the person in Marketo.
+
+00:06:11:16 - 00:06:30:30
+不明
+Same way you can update the person after. It's like the created. So if you don't have any data hygiene process in your Marketo system, you're going to end it off. This world of data. If you guys have a kid, you probably heard it a million times. How they grow up so fast. It's like closing your eyes and open your eyes.
+
+00:06:30:30 - 00:06:55:28
+不明
+They grow. Same thing if you don't have the data hygiene process in your system, it's to your data problem grow so fast you cannot even imagine like the how fast is going to be. So how we can actually like to work around it and make sure that we have clean data strategies. Same thing. Like did that three step approach that I want to build it.
+
+00:06:55:29 - 00:07:24:07
+不明
+This one in Marketo. This is very like the high view of the data hygiene cleaning system. First of all that we want to put the data hygiene campaign as a centralized location. Centralized data hygiene campaign process. I see some people, some companies going to decentralized version, which to me it's just pandering to issues. You cannot really, keep up with the demand when you are using to 1 or 2 campaigns.
+
+00:07:24:12 - 00:07:52:32
+不明
+But when you centralize, you have an option to actually control anything. And it's like to make it to process easier. And your centralization campaign is going to contest the normalization of the values. And if you have any data enrichment, you can also edit that data enrichment under these campaigns. The second part is important. We we are going to run our data hygiene campaign process periodically.
+
+00:07:52:37 - 00:08:18:42
+不明
+Not once person create the person. Creation is definitely the first point, but we need to also understand that this is a whole process. Then person go through the like to update it to field or like any value that we are looking for, they need to rerun of our data hygiene campaigns. And the last part is the optimization validation of the data quality.
+
+00:08:18:57 - 00:08:45:09
+不明
+Definitely important. Like to for our cases, we really work closely with our sales operation team to understand if we are in the correct part. And also, again, we give our software room to expand our data hygiene campaign based on the business needs, instead of recreating every time. Now I want to start talking about, Qualcomm data hygiene challenges.
+
+00:08:45:14 - 00:09:12:01
+不明
+So in Qualcomm we have two really main issue bring up to like the data whole data hygiene challenge. The first one is the market of Salesforce. Sick. So you probably hear a lot of time Marketo and Salesforce 1 to 1 sync which is true. But in our cases this is not really true because we are very selective. The who is going to sing from market or the Salesforce.
+
+00:09:12:06 - 00:09:37:38
+不明
+It's not only the hand raiser, but we have additional rules and filters on those hand raisers as well. So if it's going to give you some idea, it's the we used to sing less than or 1% of our market or database to Salesforce. We this one it like we were excluding BDC communities like we are like great communities we support like developer or Snapdragon insiders.
+
+00:09:37:49 - 00:10:06:10
+不明
+So this people, we market pretty much every day and but we don't want them to be in Salesforce. And then we are we don't want the employees to be in the Salesforce. We also exclude the free email providers, not just Gmail or Yahoo. We actually determine up to like a little bit over 6000 free email providers. We were excluding those email domains as like from Salesforce thing as well.
+
+00:10:06:14 - 00:10:31:19
+不明
+So this is the first part. The second part is extension data normalization field. What that means if you have the data hygiene campaign running, you usually see that like the country state is very common practices lead source maybe couple of other field. But in Qualcomm we require more process happen before the thing happen. Like for example one of them do not sync Salesforce.
+
+00:10:31:24 - 00:11:08:36
+不明
+That's how the excluding those people that I talked before like the community is free email providers and another one is marketing qualification source. This is not a lead source. This is totally different and it's based on the person activities. We determine the certain values. And this also needs to happen before this thing happen. Top of that we have data enrichment tool that it's not sits in the market about to be integrated with Marketo which we are sending to qualify people through the web hook to our data enrichment tool, the tool do the magic, send it back through the web API.
+
+00:11:08:50 - 00:11:31:39
+不明
+In our experiences, it's take 8 to 10 minutes and this also needs to happen before this thing happens. So here we go. We have so many like the data hygiene, challenges. And I'm going to put this one in a timeline, like when we actually start to seeing issues. Because don't get me wrong, we had a great data hygiene process before.
+
+00:11:31:39 - 00:12:09:11
+不明
+I was very proud of it. Okay. We done. We don't really need to worry about our data cleaning, but I was wrong. So first we implemented to market in 2016. We really didn't have any CRM testing until 2019, which that point we start to sink very selective sync sending from market of the Salesforce. Because of the like the sync start to happening, we build our version one 2020 lead lead source country state normalization, which perfect the work for us between 2000 and 2020 and 2024.
+
+00:12:09:11 - 00:12:40:42
+不明
+As you see, we optimize our process, which we included the duplication management, the added to that do not sync Salesforce process. We added the marketing qualification source field update. These are great and 2023 we decided to use the CRM campaign object. We had object but we never truly using it. First we work on the campaign naming convention. If you guys at the keynote yesterday, I really like to saying that taxonomy is so sexy.
+
+00:12:40:42 - 00:13:09:54
+不明
+I like to it's like we work very hard to make our campaign naming taxonomy, apply different business units so we can actually use it and get the great data. We build a hierarchy, we build our hierarchy by like the tree layer, because our plan was using to market a measure for the feature. So we tried selecting and rebuilding everything we tried to look for the feature to make sure that we are capturing a lot of stuff.
+
+00:13:09:59 - 00:13:37:54
+不明
+So for 2023, once everything settled for the campaign, CRM campaign object, we just started sinking 1 or 2 campaign like to if there's a webinar like important webinar happening or it's the event happening, then we sync them. You can start to send some sync issues, but it wasn't really high degree. And 2024 one of the is is neither one of them actually tried to push.
+
+00:13:37:54 - 00:14:01:28
+不明
+We need to showcase our marketing efforts. We need to show like the how important to campaign object because not only like to show the marketing, but also sales are going to take a lot of advantage from the campaign campaign data. So we decided to sync pretty much 1 to 1 campaign, like whatever we created, market or start to create it in Salesforce except operational once.
+
+00:14:01:33 - 00:14:29:44
+不明
+It was beautiful, right? But this be the come with the base. So we did not think about this is going to be big issue for the sync ones until the executable campaigns which Alex going to talk about a lot like the our strategy how we build it like the what was our solution is. But before that I want to also show this picture to like the how much lead sync happen that 2024 is.
+
+00:14:29:44 - 00:14:53:37
+不明
+You see we started very little 2022 and 2023. You see little bit slight increase. But 2024 that's jump up I don't know three four times already. So it's some of you might going to think that. So what's wrong with that. Like it's good you are thinking more leads. You might going to create more opportunity but that's more thinking more.
+
+00:14:53:37 - 00:15:15:34
+不明
+Let's commit to data quality decline increased manual efforts, reduce effectiveness and create confusion. And it's not only my team like the already, I already losing so many sleepless night. Like what's going to happen? How are we going to fix this one? But our sales operation team the same way because the fields that create issues actually tied to our lead routing.
+
+00:15:15:36 - 00:15:49:42
+不明
+So the sales get the wrong leading there. It is like it's definitely a big mess. And we find ourselves here like we never try to finding a losing game. And our next. Awesome. So Qualcomm was having this exponential issue of really trying to show the increase in the marketing efforts, which was leading to an increase in lead intake, which was then leading to an increase in these sync issues and errors.
+
+00:15:49:47 - 00:16:21:10
+不明
+So, where did we start? We really like everything started with what's the root cause, taking not looking deep in and saying where are these errors coming from? How are the errors occurring? What fields are affecting this? And looking at those key insights and understanding very quickly that we had a race condition happening, people were trying to sync and try to be updated or normalized simultaneously, but some were getting through successfully.
+
+00:16:21:10 - 00:16:50:56
+不明
+Others were not. That's where executable campaigns really came into play. With executable campaigns, you can really control that order of operations on when things occur, especially when you have downstream dependencies. So, that's where our nirvana kind of came in. But before we get into how we designed that strategy, we wanted to take a step back, one to ask you with a raise of hands, how many of you actually utilize executable campaigns today?
+
+00:16:50:56 - 00:17:30:31
+不明
+Can you show me at the raise a hand? Awesome. About 25, maybe 30% of the room. Very cool. So we're going to take a quick step back and show the, what is a executable, why we chose an executable campaign solution for this. So, if you've used to request campaigns, Marketo executable is really an evolution on that, same idea within a smart campaign, you have the audience or smart lists that you're designing, who you want to go through, that flow you have, then the flow steps that take you through what actions you really want them to take.
+
+00:17:30:36 - 00:17:55:10
+不明
+One of the big, changes with an executable campaign is it's immediately live and ready to be called upon when you create it. There's no scheduling, there's no activation like you would for a batch or a trigger smart campaign. The next aspect is it really acts as a child campaign of whoever or whatever workflow is calling it.
+
+00:17:55:14 - 00:18:21:14
+不明
+And so, I will get into that a little bit later, but there's a lot of advantages of how you can kind of utilize that parent child relationship. And then finally, how are executable campaigns really leveraged there in those common operational tasks? Today, our use case highlights the data hygiene aspects. They can be used for life cycle modeling, scoring, interesting moments.
+
+00:18:21:14 - 00:18:55:02
+不明
+Any really, operational task where you have key dependencies, where you need something updated, changed prior to another task or another element, taking place. That's where the big advantage of it in running in series or sequential processing comes into play. Really making sure that the first step completes before the next step continues on. Very different than the request campaign type of smart campaign that we'll get into in a minute.
+
+00:18:55:07 - 00:19:23:12
+不明
+So how do you create an executable campaign? Just like any other smart campaign? You would go, you'd name it, you'd provide a exam, a description, and then there's a little checkbox down at the bottom. It's as simple as that to create your executable. And then you can see that and define that in your Marketo tree by the little light bulb with a gear icon in front of it, differentiating it from a request campaign that has the little arrow, trigger campaign.
+
+00:19:23:12 - 00:19:56:44
+不明
+That's the lightning bolt or any batch. So back to why we chose executable campaigns for this process. The key difference there between request and executable is that in parallel versus in series processing. So on the left there what work. Cool. It's working. With the request campaign you go through a flow step with step one. Step two, and then you have a call of a request campaign.
+
+00:19:56:48 - 00:20:23:34
+不明
+This runs in parallel. Let's use country normalization as an example. You're processing records. You want them to go out and maybe you have U.S, U.S. state or something like that and you want it to normalize. So you call out to that normalization process and then simultaneously it's going to continue on to that next step in the process.
+
+00:20:23:38 - 00:20:47:31
+不明
+The issue there again is you may have dependencies there. So the advantage to the executable is going through step one. Step two processes that could be add to list. Send an email. And then your step three of that normalization or data hygiene process that you want to call out. It goes out to normalize that country value.
+
+00:20:47:36 - 00:21:12:35
+不明
+It may have a dependency to then look at your state value and say, okay, based in X country, us, for example, I now want to update the state or ensure the state is normalized. So it's going to do that. Then it's going to come back to your parent workflow and continue on to that process. So the advantage there is highlighted here.
+
+00:21:12:39 - 00:21:33:28
+不明
+So on the top right you can see the request campaign. You can see within the red box we have a request campaign out for data standardization. We then immediately see it try to sync to a Salesforce campaign. And you can see highlighted there. There's an error that the country is, airing out because it's not a normalized country.
+
+00:21:33:33 - 00:22:05:40
+不明
+So you see highlighted on the bottom left the executable campaign process. The bottom green arrow shows the start of that executable process as it goes through. Then between the two green arrows is all the key data hygiene workflows that we want it to hit. You can see country being updated, state updated, and then once it's complete, we then move into the top green arrow there that starts to sync that record to the Salesforce campaign and successfully syncs them.
+
+00:22:05:45 - 00:22:35:33
+不明
+So this is really allowing us to really control that order of operations. So let's get back to Qualcomm and the, kind of, exponential increase in these errors and how we kind of, resolved our marketing operations headaches through daily updates and changes that we making. The first thing we started with is, an audit. That's where everybody starts to look at something and understand what's happening.
+
+00:22:35:44 - 00:23:14:03
+不明
+We, looked at data value changes, person's created and requests campaign, workflows. Then we started to categorize those. Are they, priority one issues? Are they priority two? Where do they kind of fall in dependency order to getting somebody sync, or the usage down stream that is needed from an audience or a workflow perspective? Then, once we had those kind of organized by importance and understood that, we also made notes to memorize node earlier to the, existing hygiene process.
+
+00:23:14:08 - 00:23:59:00
+不明
+I was running very smoothly until it didn't. And so it was a two year kind of extent. The business had updated, transformed over time. So there were notes there of operational updates that we can make optimizations changes as we kind of rebuild this process. Next. We didn't want to boil the ocean. We had this issue on a day to day basis, and we wanted to get something out the door that alleviated some of our time, as well as ensure that our sales and sales enablement team, we're getting the data and, speed to lead, for routing and records and in front of our sales team as soon as possible.
+
+00:23:59:04 - 00:24:27:10
+不明
+So with that, we really defined those key orders of operations that were essential for the routing and getting somebody into that Salesforce process. And then something, that we learned kind of in our research process from that, a separate mode that was related to execution campaigns was really providing, kind of operational notes for yourself. This has been a great advantage for us.
+
+00:24:27:15 - 00:24:52:50
+不明
+The instance is, got a, a very large instance with many records flowing through it, lots of activity happening. And so what this allows you to do is quickly see where those, data normalization processes are happening. It also helped us, see from a metrics perspective, the velocity in which somebody was moving through this process.
+
+00:24:52:50 - 00:25:17:43
+不明
+We didn't want to slow down the speed to lead. We didn't want to bottleneck that process in any way. So this allowed us to really analyze that and make sure that we weren't causing major issues in getting those records in front of sales in a, in a slower process. Next was really designating our kind of, organizational tiered process.
+
+00:25:17:43 - 00:25:46:44
+不明
+With executable campaigns, you have that ability to nest them, parent child again type of relationships. So really designing and understanding, where our central calls will be, what are our orchestrators versus what are our task or units or kind of workhorses that are actually update the key fields that we need, aligning with our stakeholders and sales ops.
+
+00:25:46:49 - 00:26:09:55
+不明
+And really drawing this out really allowed us to understand from a high level view, all the different dependencies, all the different fields we were working with. One thing we did want to call out is, with executable campaigns, you cannot use webhooks or wait steps. As Marie noted at the beginning, data enrichment was part of our process.
+
+00:26:10:00 - 00:26:40:55
+不明
+And so we needed a webhook to go out to third party match to record and pull in additional data points. We couldn't do that through a single executable. So we kind of daisy chained the process together with an executable and a request campaign, so we could still control the order of operations. There, without, losing that that aspect, but still maintain the request and the enrichment needs.
+
+00:26:41:00 - 00:27:10:59
+不明
+The next thing we wanted to note was sandbox testing. So if, you're all familiar with a marketo sandbox, it's very different than an Em sandbox or a CDP or a Salesforce sandbox. It is not an exact replica of your production instance that sometimes can cause issues when you're designing something that's a little more complex and as critical as a lead processing or lead management type of, workflow.
+
+00:27:11:04 - 00:27:38:27
+不明
+So, we wanted to call that out here in our design process. So you're aware and share that knowledge that, we weren't able to really replicate the volume or the scale that we were seeing in production. Just because of the the difference in instances. The other aspect was the Marketo sandbox runtime is not as, optimized as a production runtime.
+
+00:27:38:31 - 00:28:03:23
+不明
+And so what we were when we were going through our regression testing and, kind of different use cases and processing them, there were some assumptions that we had to make when it came to the, speed in which somebody was moving through that process. We actually brought in Marketo support at one point. And, had them kind of validate for us that it wasn't an issue with the processing.
+
+00:28:03:23 - 00:28:31:45
+不明
+It was more of a sandbox versus production, element and then moving all of this into production. So from design to actual, slow rollout, this took about a quarter, three months. And, really, we, had it fully designed and built in our sandbox. If you aren't aware, you can connect your same or two different instances together.
+
+00:28:31:50 - 00:29:02:07
+不明
+So something complex like this that has many different smart campaigns, many different flows, when you're dealing with country standardization, you got several hundred country, so you got several hundred choices. Bringing that on one screen and trying to build it or replicate it in the other. We're all human. We make errors. So it's much easier to connect those instances together and just import that program so Marketo support can connect to your instances and allow you to kind of import that process.
+
+00:29:02:12 - 00:29:29:24
+不明
+Then we did a slow rollout. We really started with where people were created and where the hand raisers were immediately happening. Mql stage, contact sales stage, really ensuring that, you know, those processes are tightly, updated. And we had, really good insight and view on them before moving it across the rest of the instance.
+
+00:29:29:29 - 00:29:57:55
+不明
+Then we updated our program templates. So as our team kind of, cloned new programs, a webinar or a guided asset, the executable hygiene process was kind of built into that, and it slowly then expanded across the instance. So that's our kind of last step is, again, we really started with an MVP of those key fields that help validate a record before they get into Salesforce.
+
+00:29:57:59 - 00:30:30:57
+不明
+With the ability, within executable campaign features and functions and how we built the program in a modular fashion, it was easy for us to kind of bolt on processes as we, kind of got, new use cases or as the, the business expanded. And so, one of the, fast follows was a, sales prioritized lead process, allowing somebody to, indicate a record that should be immediately sent to sales.
+
+00:30:31:02 - 00:31:02:58
+不明
+And we needed that kind of inserted into our process. The next was, the, unqualified guide records understanding feedback and suppression from this data hygiene process and adding that on so they wouldn't continue through the process, and be fed back to sales. And then some simple lead, scoring qualification processes. Marie will touch on some of the iterations and optimizations we've made over time as well as we get into it.
+
+00:31:03:03 - 00:31:37:51
+不明
+The future slides. So, back to the outcomes that we saw. They really speak for themselves. We saw 95% decrease in those errors that were occurring on a day to day and campaign by campaign process and the headaches that we were seeing on a day to day basis, about two hours of re sinking records, ads for campaign, updating, standardizing that data and then processing them again, was kind of set up more of like, edge case two hours a month that we were spending.
+
+00:31:37:51 - 00:32:08:34
+不明
+So, saved the team, a lot of time and headaches. So I reached out to all of you and kind of, understanding, if you're seeing similar issues, I highly recommend looking at executable campaigns. If you're on a regular day to day basis, updating records, resync records for your campaigns, or if your team is doing this and spending a lot of manual effort there or running into similar race conditions that we were seeing.
+
+00:32:08:39 - 00:32:36:20
+不明
+Highly recommend. And looking at executable campaigns for your data hygiene process. So we wanted to touch on a few lessons learned along the way. The first one being, not everyone had to go through the process every time. We had a lot of standardization from picklist values and forms, for example, that people were coming in with standard values already and we didn't need them to go through.
+
+00:32:36:20 - 00:33:03:58
+不明
+It just slowed down their process. So adding filters and choices to the executable process allowed them to skip over when they already met the needs of the standard data values and allowing them to more quickly, get through that process, get sync, and get in front of sales. A couple other lessons learned along the way were there are specific use cases we didn't want to feed through this process.
+
+00:33:04:03 - 00:33:32:21
+不明
+Executable campaigns are great, but depending on how you architect them and the volume you're sending through them because they work in a sequential manner, they can really slow down your instance or bring your instance to a halt if you're not careful. So operational list imports, for example, hundreds of thousands of records that you may be cleaning up or migrating from one instance or an acquisition or something to your central instance.
+
+00:33:32:28 - 00:33:58:32
+不明
+You want to suppress those from going through a process like this to really ensure that they, don't bog down your instance or cause a big backlog of some sort. The other one we touched on earlier was the sandbox versus production. So with executable campaigns, we really saw a difference in our testing and our processes that we didn't really, know or understand when going into the process.
+
+00:33:58:36 - 00:34:28:39
+不明
+And then finally, really the limited use cases and the architecture of kind of designing this out with our stakeholders, ensuring we knew what exact fields were being implicated. There are many other fields that are in play, but they're, less important. They can be, managed by batches or, other requests that don't have dependencies on getting these records synced in a timely manner.
+
+00:34:28:44 - 00:34:55:03
+不明
+So Mary's going to touch on how we plan to use executables in the future. Thank you. Alex. Yes. What is the feature of the executable campaigns for Qualcomm? As Alex mentioned, we didn't want to boil the ocean first we started small. We put our data hygiene strategies in the executable campaign and it works wonders. And for the near future we want to expand that data hygiene.
+
+00:34:55:12 - 00:35:20:07
+不明
+Definitely for adding several more fields. We might want to remove some fields for the later, depending on what business needs. But this is the our near future use cases. And then we definitely want to bring life cycle and scoring and interesting moment operational campaigns on the executable campaign. You might going to ask like why especially offer. That's too because they are using.
+
+00:35:20:11 - 00:35:48:50
+不明
+How will they like when you create interesting moment or scoring campaign. They how will they use the token strategies. And with executable campaign you can actually carry over the token from parent campaign to your child's campaign. So your child campaign is like using the trigger token and trigger web page under the executable. And there is no tokens, but again because of the parents is actually have the older token values.
+
+00:35:48:50 - 00:36:12:03
+不明
+You can see on the description we built this one in our sandbox. Again, it's our very near term. We want to put them in the executable campaign to eliminate that racing condition and put that inform important information in front of the sales without the like back and forth, and also scalable using the Scalable Alerts option.
+
+00:36:12:08 - 00:36:51:03
+不明
+What are some key takeaways? As I mentioned before, data is important, but data, strategies, everything. To build your strategy first on the paper, you might not need to use actual paper. Paper you might want to use the built like whiteboard or any like tool that on your computer. But don't start to build it on sandbox or production because the process is itself a very large joint process, and it's easy to miss one step when you build some, like in front of you and see whole process, you can easily pointed out all this needs to be changed before you start to building and testing it.
+
+00:36:51:08 - 00:37:21:39
+不明
+And the second one is make decision on the best solution. I am a very fan of the executable campaign I mentioned several times. It's literally say my days and sleeps so. But just because executable campaign works for me, it doesn't mean that it's going to work for you. You might don't need it. That very high level of like very complicated data hygiene strategies request campaign my going to be answer your needs or you might have a more complicated issue than my issue.
+
+00:37:21:47 - 00:37:48:29
+不明
+So executable campaign it might be a part of your solution. But you might need to added additional like the solution to your your issues. So it's very important to know what is best for you and for your environment. And the last one is testing. Well, you guys probably here probably every like the, every presentation. The testing is almost like the testing is going to give you great insight.
+
+00:37:48:34 - 00:38:14:44
+不明
+And actually testing is going to continue in the process itself. It's not just going to end for the one testing and just with it. Yeah. And then a couple key takeaways specifically for our team was, really those, operational efficiencies are headaches on a daily basis of manual efforts being reduced. Really seeing that, clean data being synced on a regular basis.
+
+00:38:14:49 - 00:38:59:15
+不明
+Reducing those errors by 95%, the way it was built in a modular manner and allowed us to scale with the, business complexities that were, changing. Qualcomm is still in this digital transformation that we're going through. And so, they are businesses, changing, every day, just like your business. And so the modular aspect allowed us to make updates and changes, without needing to update hundreds of campaigns, that were related to, data updates, data normalizations or calls to a different central place.
+
+00:38:59:20 - 00:39:26:40
+不明
+And then finally, the ensuring that that data stays, normalize throughout its life cycle. This shouldn't be I think where I touched on this earlier, this shouldn't be a one time process that you push somebody through. Data changes throughout its life cycle, and it's constantly needed, not just from a sync to Salesforce perspective, but also from an audience management perspective of, you know, integration.
+
+00:39:26:48 - 00:39:56:32
+不明
+I, Qualcomm has CDP. So, that drives a lot of the audiences in their CDP as well. So ensuring that that data is maintained within your Marketo instance allows it then to be federated out to those other platforms cleanly. And ensuring that integrity. So, that's our presentation for today. If you aren't aware by now, there's a survey, please take that survey.
+
+00:39:56:32 - 00:40:17:21
+不明
+You might have, Starbucks or a headphones. The last thing we wanted to touch on is, the champion program and user groups within Marketo. Both of us are major advocates of both programs. We've been a part of it. It's helped us both in our, knowledge, in peer to peer sharing as well as our career.
+
+00:40:17:26 - 00:40:39:30
+不明
+The one on the right is the champion program. If you want to learn more about it, the one on the left is joining your local user group. Or there's several virtual user groups out there as well. Any questions? And we have some T-shirts to give away, guys, for the questions.
+
+00:40:39:35 - 00:40:40:13
+不明
+You.
+

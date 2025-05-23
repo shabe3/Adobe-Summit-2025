@@ -1,0 +1,428 @@
+00:00:00:01 - 00:00:29:04
+不明
+My name is Lily Chee Watson. Thank you for coming to our session. I have a very important question first. So who here likes to garden? Anybody? Yes. All right. So this is around the time of year. Every year, when I start thinking about what I want to do for my garden plan. And part of this entails going back, into my spreadsheet of what I've done previous years to look at, you know, when did I plant my seeds?
+
+00:00:29:04 - 00:00:52:44
+不明
+When did I pot them up? When did I put them in the garden? This is proof. I actually have a spreadsheet with pictures. And I say this because there are so many elements that go into planning your garden every season. So there are things that are in my control, like, you know, what kind of potting soil when I'm going to start my seeds, when I'm going to apply fertilizer.
+
+00:00:52:49 - 00:01:15:47
+不明
+And then there are other things that are outside of my control, right? Like the weather, for example. And all of this is in pursuit of a tomato yield that looks like this. Even though sadly, right now mine's looks more like that. But the reason I bring this up is because I think that marketing measurement and planning is actually not very different.
+
+00:01:15:52 - 00:01:44:56
+不明
+In both, gardening and marketing measurement, I'm trying to find signals, right. That help me understand what are the tactics that actually are contributing to my goal, which is to have, better and more tomatoes. And as our title says, we're going to talk about moving off of last touch attribution to Incrementality. Right. And if I think about what last Touch would look like in my gardening journey.
+
+00:01:45:01 - 00:02:14:28
+不明
+Typically the stage that happens before you harvest is that you're often applying fertilizer. So if I applied Last Touch to understand what is what matters most, right. In me trying to grow as many tomatoes as possible, I'd probably focus on just dousing my plants in fertilizer instead of thinking about other factors, like soil health or my watering method, or responding right to other factors that are happening, like garden pests or weather.
+
+00:02:14:32 - 00:02:47:24
+不明
+And so, you know, Matt and I are going to talk today about how your marketing measurement, should always be in support of helping you make the best decisions to achieve your business outcomes, right? Whether that's tomatoes or revenue. So, I'm Lily, I lead product marketing for Adobe Mix Modeler, which is our unified marketing measurement solution. But what a lot of people don't know about Mix Modeler is that it originally grew as a in-house solution that was custom built for Adobe marketing.
+
+00:02:47:29 - 00:03:12:47
+不明
+And so Matt here, was critical to the, you know, idea, the design, the development and the execution of this solution that grew to be Adobe Mix Modeler. And I think that when I'm talking to brands right about, transforming their measurement, I think that organizational alignment, change management is as much an obstacle as, you know, maybe the underlying technology itself.
+
+00:03:12:52 - 00:03:34:29
+不明
+And so that's why I'm super excited to have Matt here, because he was on this journey right over the last eight years. And he can really dive into the nitty gritty of, you know, how they executed and then also, you know, some of the missteps and gotchas along the way. So, Matt, I would love for you to just share a little bit more about what your role is and then what a day in the life looks like.
+
+00:03:34:38 - 00:04:02:52
+不明
+Yeah, sure. Thank you, Lily and hi, everybody. I'm Matt. I run a, growth marketing performance organization with, with a nested global media center of excellence inside of that, which basically means two things. One, we're on we're on the hook for marketing effectiveness measurement at Adobe. And the other is that we do that on a global scale through a unified measurement framework and operations framework that we partner with our agencies on, as well as our media partners on a global scale.
+
+00:04:02:56 - 00:04:27:38
+不明
+That's what we do in in really quick colloquial terms. But, in terms of a day in the life of, I think probably the best way to answer that is, is to point to three different organizations that we work with internally. I'd start with finance. And so you might imagine that's like understanding the overall business targets, understanding and recommending how much marketing budget and the media mix and a going in plan we would need to support those targets and any remaining gaps.
+
+00:04:27:43 - 00:04:48:14
+不明
+The other is a go to market organization, which may or may not exist in your organizations, or they're called something else, but basically they influence all organization internally at Adobe to just build a path and hit the number. And so we work with them really tightly in the quarter and largely in the form of understanding and developing a path to the targets.
+
+00:04:48:14 - 00:05:12:29
+不明
+And what are the areas of strength and weakness in the business, and how do we build contingency plans to club back to our targets and ultimately work together to attain it? Lastly, of course, marketing teams. And so we have Adobe Mix Modeler, applied internally at Adobe, and we hold the marketing teams accountable on a global scale to hit a target that is commensurately stretched according to the business targets.
+
+00:05:12:34 - 00:05:33:37
+不明
+And we also partner with them to build a path to the number through empirical evidence, through applied analytics and insights. And so, Lily teed this up. But the reason why I'm up here with Lily is customer zero. So and I think if you saw the keynotes this morning and David Wadhwani talk about customer zero, basically, I'm in the marketing organization, if that wasn't clear yet inside of Adobe.
+
+00:05:33:37 - 00:05:54:00
+不明
+And we need to be the best user of our experience. Cloud solutions, period. And we hold ourselves to that accountability. And so that is it means two things. It's a bidirectional kind of thing. So on on one hand we are the end beneficiary of these tools. And they power all of our customer experience across adobe.com and marketing channels.
+
+00:05:54:05 - 00:06:14:17
+不明
+But the other side of it increasingly so is we just like everybody in the room have this basically the same challenges and oftentimes will develop our own solutions to those problems that end up being products that we sell. And so a great example is Adobe Max Moeller. The other is Gen Studio that you heard all about probably this morning and leading up to summit.
+
+00:06:14:22 - 00:06:29:18
+不明
+This is a long winded intro, but the I just I feel compelled to share a goal and then my hope for everybody, like I'm just going to lay it all out there. Like our measurement journey over the last ten years, 8 to 10 years. As Lily said, I'll tell you what we learned. Some of it's hindsight in 2020.
+
+00:06:29:18 - 00:06:45:41
+不明
+Some of it was premeditated and it worked and it didn't. I'm gonna share as much as I can on that, and my hope is that you either learn something you wanna apply internally from a change management perspective, or you learn something you definitely don't want to do because we we did it wrong so that that's the goal. Awesome.
+
+00:06:45:46 - 00:07:08:30
+不明
+So maybe we can start by talking about like technology people process. Like, I feel like this is something that I have a lot of conversations with customers about where they really want to understand, again, sort of like, how did we think about this holistically? Yeah. And I'll, I'll bang through this pretty quick. But technology, people and processes, we see this as basically three recipes into this formula that allow us to do two things.
+
+00:07:08:32 - 00:07:28:17
+不明
+One, it empowers our our data driven operating model internally. And I'll just flag that for the time being. I'll talk about that in just a moment. The other is it's the variables that we play with to navigate change. And we're doing that a lot lately as a marketing organization. So the first starts with technology. Technology is basically the foundational footing of everything we do.
+
+00:07:28:17 - 00:07:50:24
+不明
+And again, it's the experience cloud solutions that power all of our customer experience. For us as a marketing organization. And then we get to the people in process. So the people in process, this is a conceptual way we think about things. The people in process surround the technology and the process is the highest ideal organizational outcome we have in mind, whatever that may be.
+
+00:07:50:29 - 00:08:22:33
+不明
+And then the people is, where we hire for behavior. So what is the behavior that is in service of the overall internal process that we want to achieve organizationally? And so this whole concept is going to show up throughout the course of the conversation, because it's such an integral part to how we think about doing things. And lastly, going back to data, so data, a lot of this session is about how we've navigated change and how we've, how we've built relationships internally and externally with our agency partners over time.
+
+00:08:22:38 - 00:08:47:25
+不明
+And, day to day. The data driven operating model that we're referred to internally as de dom, and it's basically the way we run the business now. The catalyst for it becoming a thing was, I would point to when we cut over to the cloud subscription model, and that accelerated the need for us at Adobe to, have our finger on the pulse of what's happening all the time on a day to day, week to week basis.
+
+00:08:47:25 - 00:09:14:41
+不明
+We went from arm's length to 24 over seven relationship with our customers. And that was one of the catalyst for us to think differently as a marketing organization to to evolve the way we approach marketing and marketing measurement. And so that's kind of the the foundational underpinning. I would do want to take just a quick moment to tell a story where I think it illustrates how all these constituent pieces are working together, and, what I would say is like, the sum of their parts is greater than their whole.
+
+00:09:14:41 - 00:09:41:45
+不明
+And, and it goes back about two years where our CEO actually asked us to, start sharing a perspective to the executive team on business performance. And, and so if that seems weird as an asset to a marketing or analytics organization, I think it's a reflection of of how these things are coming together. So marketing is increasingly so a huge strategic partner nowadays in this data driven market, operating model.
+
+00:09:41:50 - 00:10:07:50
+不明
+And the modern marketer, we think about a lot is evolving to be this like connective tissue between what's happening out in the landscape, whether it's AI or other developments and the implications into all of our internal organizations. And so that's putting us more front and center into these these conversations with the executive team and so forth. So it's been about two years, almost, of us writing a written word weekly summary of business performance.
+
+00:10:07:54 - 00:10:28:40
+不明
+And I think it's because if you if you, if you anchor on the technology side of things really quick internally at Adobe, because of our application of Adobe Mix Modeler, there's a ubiquitous this is my POV and I'm a little bit biased, but there's a ubiquitous, belief that marketing has a firm grip on performance and understanding marketing performance of the business.
+
+00:10:28:40 - 00:10:50:31
+不明
+And so if you go to the process and people and click out on that concentric circle a couple times, it's not too far of a stretch to ask the marketing organization to also have a perspective on the business performance. And so in a few weeks, it will be now like about two years of us writing this email up in the team, coming from the marketing organization, which I think is reflective of this, this technology that we've adopted.
+
+00:10:50:36 - 00:11:11:36
+不明
+Okay, so it sounds like things are in a good place now, can you kind of go back in time and tell us how things were at the start of this journey? Yeah, let's get into that because it wasn't all great. And so I think, going way back, we, we had last touch, but we had last patch reported independently across three different marketing channels.
+
+00:11:11:41 - 00:11:33:28
+不明
+And so the implication to that from a people and process perspective was that we had a one plus one equals three problem. Can you sorry. Can you describe what that means. One plus one equals. Yeah. Yeah. So just imagine sitting in front of finance and saying, hey, we drove on just for simplistic purposes. We drove 100 conversions last week and they say, well, the business only saw eight, eight, 80 conversions.
+
+00:11:33:28 - 00:11:53:20
+不明
+So what's going on here. Right. And so there's a total disjointed arm's length relationship with finance. We weren't really speaking the same language at the time, and that was largely the catalyst for us to think differently. In addition to the catalyst I mentioned earlier, of us shifting to a far more accelerate cadence of reading performance in the business.
+
+00:11:53:25 - 00:12:15:46
+不明
+So then what did you guys want move on to next? Like what was identified as that solution? Yeah, it was back in the day. Of course, some cookies were still highly, highly valuable to us. Like we immediately cut over to a multi-touch attribution model. But we took a crawl walk run approach. And this was a crawl approach where we we kept the same channels we moved over to like what?
+
+00:12:15:48 - 00:12:40:18
+不明
+As a deterministically stitched fact based of like timestamp time and type of attribution model. So okay, so I've talked to a lot of brands where they're making decisions based on last such attribution. I won't do raise of hands, but I suspect it would be a large part of this room. Yeah. But when you move to multi-touch, right, or any other attribution method actually, or measurement, some channels go up and some channels go down.
+
+00:12:40:18 - 00:13:08:11
+不明
+Right. And I think like when we think about last Touch, we think about like paid search looks really, really good. Yeah. How do you manage that change. Yeah. That's that's we should spend a little time on this one because the, the navigating of change management here was, was everything at that. Because we'll just lead to where we ended, which was a quantum leap forward in our sophistication and our relationship with finance and our relationship with other organizations internally.
+
+00:13:08:16 - 00:13:28:09
+不明
+It was amazing. But how we got there was, was, was was more difficult. And so I think I would point to, and again, this is one of those examples where it's hindsight in 2020, but, there was a managing up, a managing down and a managing out component. And each one of those were different personas that that warranted a different conversation.
+
+00:13:28:18 - 00:13:53:22
+不明
+And so if we define that the managing up was connecting with executives and saying, listen, the nature of the conversation was, you're used to seeing these numbers, you're going to see these numbers and they're going to be a far lower. But here's what that means. And it was a conversation on Incrementality, a conversation on ROI, a conversation around when you give us budget, you and we tell you what is going to drive, you will see that in the business.
+
+00:13:53:27 - 00:14:15:21
+不明
+And so that component was far easier from a change management perspective, at least for us internally, where the executive team was like, well, we just want something more sophisticated. And those use cases sound fantastic. And so this I want to avoid the, the, the, the, the, the word recommendation or of my opinion on what you shouldn't, shouldn't do.
+
+00:14:15:21 - 00:14:35:38
+不明
+But for us, we there was a little bit of trepidation on whether or not we were going to indict what we were doing before. And my only recommendation would be, don't worry about that, especially with the executive team. They just want something more sophisticated. And so that was the managing up piece, the managing down piece that we can maybe define that as practitioners, media, media practitioners.
+
+00:14:35:43 - 00:14:59:27
+不明
+I can't underestimate how important this component was. And going in, we didn't know how much time of change management this would require. And I would say spend disproportionate amount of time with paid search and at risk of preaching to the choir, the, you know, their last touch paid search is the hero, right. And and through a multi-touch or any other sort of degree away from last touch, they're not going to be as much of the hero.
+
+00:14:59:27 - 00:15:20:52
+不明
+And so, there was there was some concern about, optics and budgetary decisions going forward and stuff like that. So one thing that we did that seemed to work, to manage to navigate that change was we we took, the new measurement capability and restored history, whether we want to go back a quarter or 2 or 3 or a whole year.
+
+00:15:20:57 - 00:15:42:37
+不明
+And we showed, well, this, this is getting into what we did with the media teams. Just real quick and I'll insert this other piece is we used a bit of a crutch. Or a long on ramp, if you will. And, and there was two outcomes of this, this new model. One was, read on incrementally like an incremental read, and the other was a fractional read.
+
+00:15:42:42 - 00:16:02:22
+不明
+And of course, the fractional read, is, you know, spread across the whole path. So it's still the conversion but spread across all path. And it was a little bit of a baby step forward into Incrementality. And we agreed with everybody. Listen, we have to run the business on Incrementality because you're not going to give a marketing budget just to get inside of a path that's going to exist anyway.
+
+00:16:02:27 - 00:16:23:47
+不明
+We have to drive incremental conversions beyond what would happen. And so we had this period of time where we read out on both outcomes, and over time we were interpreting the business, and we started to all get more familiar and comfortable with the lower number that was reflective of Incrementality. That was an easier transition for us, but it was a little bit of an onramp or crutch, if you will.
+
+00:16:23:52 - 00:16:50:40
+不明
+Lastly, managing out so with media partners and agencies, at this time, I was I remember this very vividly because I was on the display team, display analytics and operations team. And so we had long engagements with all of our media partners. And what we did is we showed a juxtaposed view of how you're performing through Last Touch and how you're performing through this new measurement solution that we're about to launch.
+
+00:16:50:45 - 00:17:08:45
+不明
+And we obfuscated everybody else except for the person we were talking to at the time. And the best example I can give is that through Last Touch, we had a partner that was Head and shoulders number one on Return on Investment, and they were dead last by a long shot in the new multi-touch attribution model. And these examples are probably not too common.
+
+00:17:08:45 - 00:17:27:27
+不明
+But this is this. This happened. So the nature of that conversation was if you don't do anything different, then you're going to be at risk of not being a part of the media mix. And so that's just we tried to educate along the way with a long runway before the actual launch of this new measurement capability. Got it.
+
+00:17:27:31 - 00:17:45:25
+不明
+And then I know, like we've talked about then the channel expansion, I don't know if you want to talk a little bit about that strategy. Yeah. So again this is this is the nitty gritty of our evolution. But we we moved over to multi-touch. And we we developed a really great relationships internally. And we had a seat at the table strategically.
+
+00:17:45:30 - 00:18:07:07
+不明
+And then we started actually having such high fidelity on what the budget would do for us that we started turning down, a budget with finance, and that had a short term positive impact because they're like, wow, awesome. Thanks for the fiscal responsibility. But then but then quickly we realized we were we were doing that too often.
+
+00:18:07:07 - 00:18:25:27
+不明
+And it was because we didn't have enough investment points in our media mix. And so we we stood up a channel expansion strategy. So we had Snapchat, TikTok, YouTube, you name it. And and for a short period of time, things got even better. And we had even a longer runway where we were investing in the things that we needed to.
+
+00:18:25:27 - 00:18:53:16
+不明
+And the model wasn't a restrictor to to investing in things we knew we needed to invest in. And so but that was a very, very short lived, frankly. Because what happened and this is not novel information, and we all remember this between 2018 and 2024. And this is not even including all of the announcements, but, cookie deprecation, and consumer privacy laws just started rolling out very fast.
+
+00:18:53:16 - 00:19:17:28
+不明
+And so this had two impacts on us. One was all the channels we just expanded into. We started losing fidelity. And and that kept us from having a really firm, justification to continue investing in them. So that became a problem very fast. And then the other thing is it was we were looking out on the horizon a little bit here, where this is a little bit more of a premeditated, strategy.
+
+00:19:17:28 - 00:19:36:49
+不明
+And it's not really too eye opening. But we we knew that this pendulum was not going to swing back in our favor in terms of cookie dependency. It was it was just that those days are long gone. And so we reassess fork in the road. And and for us, we kind of sat back with this. And there was the kind of three three possible solutions.
+
+00:19:36:49 - 00:19:59:02
+不明
+One was revert back to last touch. And we immediately divorced ourselves from that because while it would have been easier, it would rip out all the foundational pillars that we're standing upon to have these better relationships and a seat at the table strategically, and how to run the business with internally at Adobe. The other was, to keep playing Whac-A-Mole.
+
+00:19:59:07 - 00:20:21:03
+不明
+And what I mean by that is like we went through a pretty long period of time, a couple of years, where we were trying probabilistic stitching fancy solutions, getting data that that kind of propped up everything. And then every time we did that, that got ripped out from underneath us. And so the the last solution that we ended up going with is just build something for the future.
+
+00:20:21:03 - 00:20:45:15
+不明
+And so something that was a little bit more future proof and, and that was a pretty seminal change for us in the journey. I mean, it sounds like a no brainer, but I guess, you know, how did you know that a solution that was future proof existed? How did you actually get it to go from like, an idea to like an executed success?
+
+00:20:45:15 - 00:20:59:19
+不明
+Right. Like I the Adobe, we're big company. We have a lot of ideas. Not all of them make it through it. So I'm curious, like, can you walk us through a little bit of, like, the pieces of that process? Yeah, I have the benefit of being the mouthpiece of this whole journey, but there's a lot of people involved.
+
+00:20:59:19 - 00:21:23:34
+不明
+But, I would give my boss a ton of credit here. He's a very prophetic thinker, and he also is able to point in the direction that we need to go and provide air cover for the team. And so the one thing we leaned on first is, is, at Adobe, like, we've gone through all these digital transformation changes over time and changes over time, and we've developed a culture that basically throughout the playbook every single time and start new.
+
+00:21:23:39 - 00:21:46:06
+不明
+And we kind of did that this time as well. But the way we did this is, leadership pointed in the right direction of what we need something else. And the only guidance that was provided was three things we can't lose, three things we can't lose. Incrementality out of this new measurement solution, we can't lose a weekly read of it.
+
+00:21:46:11 - 00:22:08:45
+不明
+And we can't lose that level of granularity of of understanding of performance that the media teams actually conduct optimizations at. And so those were the only guardrails. And, then practitioners went off for three day off site and they, they were like, you have the time to do the thing you need to do. And they went off the talent profiles or on the screen.
+
+00:22:08:46 - 00:22:36:17
+不明
+It was like data engineering, media strategy, ops and data science and all sorts of talent profiles. And they got together for three days. And then what came out was a a proposal and a roadmap to get there. And and what it was is it was, a very stark, departure from a single measurement solution and three different solutions.
+
+00:22:36:22 - 00:23:04:02
+不明
+Supporting each other and somewhat of a kind of three legged stool approach. And so why is there a picture of Swiss cheese? Yeah. So the Swiss cheese, this is a good this is a good. And hopefully this analogy lands like the solution was part mixed modeling, part attribution modeling and part experimentation. And so the Swiss cheese analogy is that, which is why we felt good about moving away from a single solution, because each solution is going to have holes in it, just like Swiss cheese.
+
+00:23:04:02 - 00:23:21:37
+不明
+And then you layer another methodology on top of that, you're going to block some of those prior holes, and then you and then you layer on experimentation. On top of that is the third layer of cheese. And by the time you get to that point, you've blocked most of the holes. And so we're relying on all three in concert with each other.
+
+00:23:21:37 - 00:23:43:49
+不明
+And so what I would say here is and oftentimes you may hear me say model, but this is more of a measurement ecosystem now than it is a dedicated single model necessarily. It it is a single model. And the form is it spits out a solution, at least spits out the KPI that we're looking for, but we use the whole thing that three fold the kind of three legged stool, three slices, the cheeses, the whole ecosystem.
+
+00:23:43:54 - 00:24:10:06
+不明
+So I mean, that's a pretty big change on the technology side. And so how did the organization change as a result or not? I mean, did you already have all the right people. Yeah. And this is where I and Lily and I talk with customers a lot. And this is as I look back, I didn't realize this at the time, but what was crazy is that during the period of time of us building that new measurement solution, we were also engaging in an almost a year long agency RFP.
+
+00:24:10:11 - 00:24:27:59
+不明
+Did you want to do both things at the same time? No, and I would. That's one thing I would not recommend. Okay. But but but we lo and behold, we launched the new model live in market. At the same time, we kicked off with our agency. It's just like the timing just happened to fall in place like that and it worked out.
+
+00:24:28:04 - 00:24:47:12
+不明
+So I think as I, as, as I was reflecting on this, there's there's a number of things that I think I would point to as is, components of, of, of that success. And the agency RFP was, was going from 15 agencies down to two on a global scale. And, and so was a pretty big, big transition.
+
+00:24:47:12 - 00:25:08:48
+不明
+But on the technology side, there is such like if we if we define technology here as our measurement solution for, for for measuring media, there was there's such, adoption internally within the walls of Adobe and such trust in that model, that we did something really unique in the agency RFP. Which brings us to the people.
+
+00:25:08:48 - 00:25:35:17
+不明
+And so, are two things we did here is we we made it really clear at the beginning in the RFP, but also during the the staffing stage, once we selected the agencies that we didn't want any media analytics resources on the agency side, which I think is pretty unique. You guys can tell me, but I and the reason is because we we have the technology internally and we have the analysts internally that surround that from a people and process perspective.
+
+00:25:35:17 - 00:25:59:32
+不明
+And the operating model we wanted to establish is the same one we have internally with our own internal employees, which is the analysts tell the media teams how they're performing against the target, and they hold them accountable to to to meet that target. And they also help them meet that target. And so with the money saved on what we would have staffed on the, the media analyst side, we hired a bunch of media strategists and we obsessed over operations.
+
+00:25:59:37 - 00:26:17:31
+不明
+I came from the agency side running an operations team. And so I'm again, a little biased on that. But we obsessed on operations. And so we loaded up on those, those talent profiles instead. The other thing we did on the people side is going back to hiring for behavior and service of the organizational behavior. We want to strike.
+
+00:26:17:35 - 00:26:48:35
+不明
+We, we conducted, chemistry meetings with the agencies, and, and just kind of did a vibe check to make sure that we were mind meld it on on behavior and organize it and like, really articulated what our ideal organizational behavior is and, and discussed how we can do that together. And that was really super fruitful. On the process side, this this is interesting too, in that we, we embedded the agencies directly into our preexisting motions.
+
+00:26:48:35 - 00:27:05:45
+不明
+And so what that means is we get together on a weekly basis, multiple times with the media teams, and we sit down. And the nature of the conversations are we read, are we green are and what are we going to do about it? And it's a conversation around what they're doing out in market and how that's reflected in the results.
+
+00:27:05:50 - 00:27:38:34
+不明
+And then how we can lean into some of those tailwinds or optimize away from some of those those headwinds. And we bring the agencies into that conversation. And that's packaged with basically opening every little detail of the model to our media teams, which I'm not entirely sure how unique that is, but for us, it's predicated on this. I subscribe to this belief that if you have, confidence in your measurement solution, you should allow the media teams to game the outcomes.
+
+00:27:38:39 - 00:28:05:30
+不明
+And so we, we share all the variables that are at play, how things get scored, the coefficients like and what I think just a little quick story on that. Just to bring this to life and with a real life example is we oftentimes if we get into a little bit of debates where the media seems like a model is not given me credit for this thing that I think actually get more credit for, and then we're like, well, okay, like we need to either do 1 or 2 things.
+
+00:28:05:30 - 00:28:45:42
+不明
+If we agree, then we just get it in the roadmap and we fix that. If we don't agree, then we surround that with experimentation to confirm or refute this hypothesis. And so, in this particular instance, we just two weeks ago, launched a new version of this, this, measurement capability internally that ripped out a variable that was actually, under crediting, more of the upper funnel media that and after some empirical evidence and testing, it proved out that actually it was a it was an old variable in the model that used to be relevant that no longer is relevant because of the shifts in how people are, converting on adobe.com, which
+
+00:28:45:42 - 00:29:01:52
+不明
+is ultimately going to allow the media teams to invest more upper funnel tactics to to kind of be more in line with the strategy that we said at the beginning of the year, just as an example of what we're doing on the process side. I mean, in that example, it's really important your technology can actually support that kind of response, right?
+
+00:29:01:52 - 00:29:23:19
+不明
+Because I think that a lot of times people are doing planning or running a model or rebuilding a model once or twice a year. And in that case then, I mean, you couldn't really do that. No, no. And I yeah, it's a it's a pretty like it kind of gets into the, the to use case of the planning and the in quarter optimization component that this, this particular measurement solution allows us to get into.
+
+00:29:23:19 - 00:29:57:36
+不明
+And we can totally talk more about that one for sure. Yeah. I mean, maybe so you've talked about sort of operational efficiency, the efficiency improvements in like relationships within Adobe with our partners. And so maybe we can have you talk a little bit about actual metrics and revenue. Yeah, in there a lot. But I think, I mean, in the spirit of the, the nature of this session and navigating change and developing relationships internally and like, I'll put my finance hat on as I speak about this one because, you know, they, they, we have a great relationship with them, but that doesn't preclude them from interrogating us on how we're performing either.
+
+00:29:57:36 - 00:30:26:34
+不明
+But like, and so, over the course of the last five years, we've, we've more than, increased our budget by two and a half times. And if that's not an indication of kind of internal, adoption and understanding and advocacy of the model, then I know, I know it is, but it during the course of time, too, we have, increased our share of contribution to adobe.com current reoccurring revenue by 75%.
+
+00:30:26:39 - 00:30:50:03
+不明
+So marketing share over that same period of time has gone up disproportionately. Which is a huge number that we track. Every time we get into a marketing effectiveness review, we, we, we revisit that number. The, the thing that is not reflected here that is probably most valuable is the standard economics, as we all know, with media is like the more you spend, the lower your ROI is going to go.
+
+00:30:50:03 - 00:31:22:20
+不明
+And you just try to make sure it doesn't go below. Right. And but during the same period of time, we've actually increased our return on investment. And I think what I point to is two things. One is, the planning motions. So a responsible allocation of the proper budget to support the targets without going negative to start the quarter and then in quarter, the the ongoing weekly optimizations that we're conducting, is is the other component that allowed us to increase the contribution while also increasing ROI at the same time.
+
+00:31:22:25 - 00:31:46:23
+不明
+So maybe we can like stay on that because I think, a lot of brands. Right. Most brands are doing that pre core. They're planning, but I'm not certain that the metrics that are driving the planning are driving in core their optimization. Yeah. So like what does that look like tactically. Yeah. That's a so that's a there may be a bit of a differentiator in how we're operating I agree.
+
+00:31:46:24 - 00:32:15:29
+不明
+So I think I'll spend less time on the planning and more time on the optimization side, because I think the planet, most most brands, most companies are probably familiar with in this room. But I would in this excuse me, in the simplest terms, I would say the precursor quarter planning is, the outcome of that is like an actual going in plan, which is inclusive of the budget, the media mix, the lighting, the, the percent of the target that is covered by marketing and so forth.
+
+00:32:15:29 - 00:32:37:52
+不明
+So we have a really firm documented going in plan. And then there's this baton handoff, the relationship between these two, it's the same. It's the same ecosystem guiding both these things. So we can predict what we we can guide on marketing budget to predict what's going to happen and then actually monitor that and optimize that to hold true to that throughout the quarter in the in quarter optimization.
+
+00:32:37:52 - 00:33:03:48
+不明
+So if the left side is the going in plan, the right side is like, a plan to diverge from the plan basically. And my favorite quote from Mike Tyson is like, everybody's got a plan. So you get punched in the face. And so, you know, that analogy kind of serves here. So what this looks like on the quarter side is we've got the targets, we've got the budget, we've got the media mix, we got the tactics in place.
+
+00:33:03:53 - 00:33:28:11
+不明
+And then there's there's these two types of interlocks at different cadences. And the interlock one is a weekly interlock with the businesses going back to the top of the conversation about, that operating model. Internally, it's all organizations getting together on a weekly basis to, to understand, the strength, the pockets of strength in the business and weakness, the attainment to target.
+
+00:33:28:11 - 00:33:49:33
+不明
+What are we going to do about it, that kind of motion every single week. And there's a subset version of that that talked about what the agencies and the media teams as well. So that's what I would call interlock one. It's basically business performance interpretation. And that also is one of the mechanisms that derives this weekly team, summary of business performance as well.
+
+00:33:49:38 - 00:34:11:01
+不明
+The other interlock is, is more of a more of a episodic cadence, but pretty frequent still. So it's a week three a week six and a week nine dedicated premeditated conversation with go to market and finance another organization. And it's a conversation where we where it's part tell and part ask. So the tell is, okay, we're in week six.
+
+00:34:11:01 - 00:34:29:53
+不明
+We have done seven base budget shifts across channels and regions and product portfolios. And, we are we are increasing our targets and holding the marketing teams on a global scale accountable to a stretch target that you can take to the bank in terms of an outlook. That's the tell part. And we don't ask for permission on that.
+
+00:34:29:53 - 00:34:47:49
+不明
+We just do that. The ask part is more of a like we put it on the table, so to speak, as a, a, optionality for the business, depending on the risk profile we're looking at in the quarter, how we're performing. It could be in the form of like, small, medium and large type of funding.
+
+00:34:47:49 - 00:35:07:45
+不明
+Ask where we say it, and I'm just making this up. You can give us $2 million. The return three. You can give us $6 million to return six or or, you know, and and then we kind of and that is a function of this same model, giving us a sense of where our marginal returns hit the hit a breakeven.
+
+00:35:07:50 - 00:35:29:48
+不明
+When does that next dollar go negative. And so and then the conversation there is you know if things get funded we say listen, okay, we're going to put this in the market in week seven. By week 13 you will see this money that we're that this, this reoccurring revenue is show up in this region against this product and so on and so forth against this route to market.
+
+00:35:29:48 - 00:35:49:05
+不明
+And it's, it's that kind of conversation. And so that's kind of the relationship between the two motions. Okay. So I feel like we went through a lot. I want to leave time for questions. So maybe you can like recap the key takeaways from what we just talked about. And then we can open it up to people.
+
+00:35:49:05 - 00:36:13:18
+不明
+Yep. Sure. And sticking with this technology people and process framework. On the technologies, on the measurement side, what we've learned is just to evolve measurement continuously and, and do a crawl, walk, run approach, if that makes sense. And, and don't be afraid to use multiple methods like the Swiss cheese analogy. That's what we've learned. And it seemed to have worked for us.
+
+00:36:13:23 - 00:36:41:08
+不明
+I know our problems manifest differently in different organizations, so but again, that's what that's what worked for us. And then incorporate other variables. And this is this common is more, more applicable through this planning motion where whether it's an explicit input into the model like economic data that you're plugging in to them, motions to, to, to, to guide budgetary allocations, that's been huge or even implicit observation of data behind search volume changes over time.
+
+00:36:41:08 - 00:37:05:53
+不明
+Competitive, pressure is happening. Bring those into the conversation around planning and in the quarter optimizations. And it enriches kind of the understanding like the the the the premise as to why we need more budget or it kind of enriches that conversation. Lastly, and technology, understand content effectiveness. And we've heard a lot about Gen Studio. So like we're sinking our teeth into this one heavily.
+
+00:37:05:53 - 00:37:26:40
+不明
+So the way I think about it is you can measure a touch point, but going deeper into that, you're measuring the creative asset behind the touch point. And then increasingly so we're trying to penetrate even further deep into that to understand the the components within the creative asset. And Gen studio is a big, big asset for us there to understand.
+
+00:37:26:53 - 00:37:49:15
+不明
+For whatever reason on TikTok, I'm making this up. But a black background is better than a red background. But on face on a yellow background is better for the same exact creative asset. And so we're learning these these insights and the proliferation of of creative, of what a marketer needs to get out in the wild is just an unbelievable, you know, preaching to the choir.
+
+00:37:49:19 - 00:38:13:00
+不明
+Unbelievable hockey stick in the can. Consumer expectation for that is huge. So anyway, we're investing a lot in that the content effectiveness on the the people in process side. This is this is framed for both. I've tried to collapse learnings for both like an agency RFP. If you're going through that exercise or, evolving your measurement solution.
+
+00:38:13:00 - 00:38:34:34
+不明
+So, I would say focus on the initial scope. I mean, excuse me, focus, the, the initial scope to something that is gettable and something that teams can sprint to a crawl, walk line, approach something to that, effect. And just so everybody has a really clear understanding of what a 30 day, a 60 day, 90 day one would be.
+
+00:38:34:39 - 00:38:58:06
+不明
+And then the manage up, down and out again, this is executives, practitioners, media partners and agencies. And each one of those for us justified a very different conversation. And then the organizes the teams ahead of the change. That's one big thing we did with this agency transition. We had a lot of new people that joined to help rally around this agency transition, and we brought them in far ahead of the actual change.
+
+00:38:58:10 - 00:39:20:08
+不明
+Same applies to a measurement change that that you may be going underway with. And as they invest in operations. These are the unsung heroes in my opinion. Like they if you don't hear from them, that means they're doing an amazing job because like there's if there's no data problems, they avoid the garbage in, garbage out. We have as a part of this global operating model with our agencies.
+
+00:39:20:08 - 00:39:51:25
+不明
+We have an in-house team that defines the standards by which we do naming conventions, trafficking processes, data flows, and all of that just so that across the globe we allow for some divergence in strategy and execution. But the operational execution is is on rails, and then higher for ideal behavior again. So whether it's an internal full time employee or an agency, we're really looking for hiring for the behavior that is in service of the ultimate organizational behavior.
+
+00:39:51:25 - 00:40:14:21
+不明
+We're going after. And lastly, bacon transition time. I'll just say really quickly on this one. We have every time we do this, we have like a one quarter do no harm concept where agency comes on board, don't do anything fancy immediately. Just do the just carry through this existing strategy for one quarter and let's get through this. We can't have ebbs and flows in the business.
+
+00:40:14:21 - 00:40:34:07
+不明
+The whole point of this thing is to actually increase our contribution over time as opposed to have some hiccups. So that's that's the last one I think I would point to. Again, a reflection, looking back in hindsight, 2020, these are the things that seem to work for us. Awesome. So we talked a lot about like operations, change management, organizational alignment.
+
+00:40:34:07 - 00:40:54:00
+不明
+Today, we have a lot more sessions to go at Adobe Summit around marketing measurement. And one of them I wanted to call out is that if you want to actually go now more deeply into the technology itself and the modeling decisions that were made, we actually have a session tomorrow directly with our data science team as they talk through that development process.
+
+00:40:54:00 - 00:41:11:30
+不明
+So that's tomorrow at 230. It's called marketing mix modeling at Adobe. Learn to predict the future like we did. And then we also have a session with H&R block, one of our customers, tomorrow morning at 8 a.m.. So we'd love for you all to attend, you know, other sessions to learn more about the technology itself.
+
+00:41:11:35 - 00:41:15:51
+不明
+All right. Well, thank you, Matt, and thank you so much for attending our session. Really appreciate it.
+

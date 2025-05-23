@@ -1,0 +1,216 @@
+00:00:01:57 - 00:00:28:05
+不明
+Hi there everyone. I'm Joe, who's part of E-waste Clean Technology organization. Specifically, I'm the deputy technical officer for the assurance part of Clean Technology within this organization and lead architecture design and product delivery. The product I'm focusing on here today is our global assurance knowledge product called Atlas and its newest edition E-bike Assurance Knowledge, powered by the latest Genii technology.
+
+00:00:28:10 - 00:00:46:46
+不明
+So here's our agenda for today. We'll be covering some key custom features of our Adobe Aim Guides Insights implementation. It's architecture a key. And on we call Diffe merge. And how did a really helps towards the end of our talk will leave you with our thoughts and for now, the future vision of knowledge management and where we think it's headed.
+
+00:00:46:51 - 00:01:15:40
+不明
+But first, we'd like to review a short clip for some background on UI Atlas to help set the stage and give you some context in a complex and demanding regulatory environment. Adhering to accounting standards is vital. You need reliable sources of up to date information on the changes that may affect your business. You need trusted intelligence.
+
+00:01:15:45 - 00:01:45:04
+不明
+UI Atlas Client Edition is a leading edge global research platform for accessing accounting and financial reporting content. It provides the most relevant and up to date information, including external standards, UI interpretations, and thought leadership. Easily find content that's relevant to you. Explore by accounting, topic or industry through an intuitive interface, allowing you to search and navigate faster and better.
+
+00:01:45:09 - 00:02:12:34
+不明
+Get on demand access on any device and tablets at any time of the day, whether in the office or on the move. Enhance your understanding of regulatory implications on your business. Staying up to date in a dynamic regulatory environment doesn't need to be hard. Simplify the research process by accessing the information you trust anytime, anywhere with e y at this client edition.
+
+00:02:12:39 - 00:02:25:55
+不明
+Perform financial reporting with confidence and help build a better working world.
+
+00:02:26:00 - 00:02:55:16
+不明
+So as we've talked about and you see in the video UI Atlas, our knowledge management platform is a cloud based platform for accessing and searching accounting and financial reporting content, including external standards like Sasb, audit methodology, thought leadership, international GAAP and other standards. It's actually part of a suite of assurance story tools used daily by practitioners for delivery methodology, enablers, guidance and work papers that we call me on.
+
+00:02:55:21 - 00:03:24:40
+不明
+The system Foundation. Of all the UI knowledge displayed at Ebi Atlas is the Content Management System. Adobe AMS Item Guides. Atlas user base is more than just auditors that you can see here. There are also 26,000 client users using it and the number continues to grow. Our professional practice has over 580 users, which includes content owners, content managers and publishers globally from over 42 countries.
+
+00:03:24:45 - 00:03:52:06
+不明
+This is the group that produces the majority of the content that resides in Atlas. There are also 110,000 users from other service lines, like our tax group or risk group. And finally, there are 210 regulators and 40 legal professionals. A relatively small number by comparison, but an extremely important group from a regulatory perspective. And this all max out to over 1 million unique visitors in every month.
+
+00:03:52:17 - 00:04:00:34
+不明
+And it's one of the most used applications within UI.
+
+00:04:00:39 - 00:04:20:35
+不明
+So in this section we're going to talk a little bit about the knowledge management system and then its architecture. So if we look at our ecosystem from left to right we have a global content organization of almost 600 people that are creating and editing and publishing global knowledge for consumption, all of which is under regulatory review. Remember I mentioned how important regulators were.
+
+00:04:20:40 - 00:04:51:45
+不明
+Meaning we need audit trails and compliance at every step, given the quality and security standards we need to have for our knowledge. Documentation. We've implemented UI Atlas as a robust, scalable platform powered by Adobe, which enables AI and integration into our other client technology, tools and assurance in neon like, key, canvas and UI helps. This technology platform enables our business to turn on a dime with an ability to publish knowledge globally 24 by seven, in order to meet client demands.
+
+00:04:51:50 - 00:05:09:02
+不明
+For example, crisis event guidance available via Atlas is pivotal to providing timely information on the evolving situation in Ukraine at the start of the war, helping to keep all of 100,000 practitioners updated on evolving sanctions.
+
+00:05:09:07 - 00:05:38:12
+不明
+We have multiple data sources for knowledge, as shown over here, and we have on the left UI methodology, forms and templates, enablement materials on how to use our various products and tools, other UI guides as well, such as accounting and financial reporting, content, UI, AI interpretations and thought leadership of regulations relating to US GAAP, international other standards and other service line content like example, risk and tax.
+
+00:05:38:16 - 00:06:05:51
+不明
+We also have third party content and sorry for all the acronyms, but charged financial accounting standards for IFRS, the International Financial Reporting Standards are very important globally. Thomson Reuters AICPA, PCAOB, the Public County Accounting Oversight Board also very important, and other global and regional external content such as CPA Canada. So how do we manage all of this? How do we bring all of this together?
+
+00:06:05:52 - 00:06:12:54
+不明
+We're going to talk a lot about that today. And so in this diagram starts to tee it up.
+
+00:06:12:59 - 00:06:46:57
+不明
+So am does the heavy lifting for our content operations. And also maintains a lot of the metadata that goes downstream to power our search experience. This also then feeds into large language models. So search experience large language model all fed from Adobe. To facilitate this we use Darwin Information Typing Architecture for data for short data. Dinner provides an intelligent representation of our content in our editing tools, enabling all the publishing features we need to maintain our knowledge with version control, audit trails and security built that.
+
+00:06:47:02 - 00:07:13:59
+不明
+Adobe has the largest CMS that supports data. Data also provides US intelligence embedded in our content, so the downstream apps can easily query and filter for relevant content to make our information retrieval more efficient and semantically smarter. And this gets really important when we talk about Owl. And so we're going to talk about a lot today. Oh I'm steeped in data where data is not just a component of AI, but instead data and AI are intermixed.
+
+00:07:14:04 - 00:07:31:55
+不明
+But generally it's advantage to understand all the connections between the data you have and the problem you're trying to solve. Data provides annotation for AI. In fact, out of the box, and we'll have more details on how that helps later. One of the key processes here is called deep merge, which we have built to handle a key part of thinking.
+
+00:07:31:55 - 00:07:41:04
+不明
+All this content, which we're going to talk about next.
+
+00:07:41:09 - 00:08:05:55
+不明
+So what is this merge do exactly. Diff merge allows us to import externally authored contents as new versions within existing data content. We then convert all 20 plus data sources previously mentioned on the other slide in the datum XML format, from which we can apply to our diff merge tool. As you may have noticed in the video that this provides a Wikipedia like experience of dynamic content.
+
+00:08:05:56 - 00:08:36:07
+不明
+It's not just static documents, it's not just documents to download and read offline content Atlas is heavily interlinked with cross-references, with thousands, if not hundreds of thousands of individual links that link to both documents and elements within documents links to digital assets, images, PDF, word, Excel, others and hypertext. So due to all this extensive linking in our Living Wikipedia application, we simply cannot import and do a replace of the content that works.
+
+00:08:36:07 - 00:08:53:55
+不明
+If we did, links would break require extensive revisions, manual revisions both within this content and to other content that links to this content. So the diff merge process was this specifically built in deployed in order to maintain these extensive links?
+
+00:08:54:00 - 00:09:17:13
+不明
+So over here on the left of the slide, I mean it's a little it's definitely hard to read because it's, you know, it's a screen capture but but it gives you an idea of a side by side interface, that has the existing content in and on the other side, the content that is updated. This is a little easier to follow, which are the seven steps we take to do a different differential merge.
+
+00:09:17:18 - 00:09:39:58
+不明
+So first we do a structural comparison, which is a run of the folders and objects from the import package to the existing collection structure. This tells us what documents to compare. Then we do content differencing. A detailed comparison is run of XML and XML tags within a document, and it reviews for the differences within it. Only the change content tags and ID are updated in the XML.
+
+00:09:40:03 - 00:10:07:10
+不明
+Then we look at the changes, from the import package for existing documents with third parties. The purpose being identify only the changes. Then we do the migration step. During the process, the IDs used for linking or migrated from the Am content to the imported content so that link integrity is maintained. Once the import is, applied. Once the differencing is complete, the headings, objects and digital assets are merged into a collection.
+
+00:10:07:15 - 00:10:30:51
+不明
+Next, we automatically do the merge. Do the assignment of works in process and versions, and place the content into an edit project. And then finally we publish all the workflows and contents in digital assets, saving a ton of time. So, I mean, I know this was a lot to absorb, but but the benefit of the video is you can watch it again and again.
+
+00:10:30:52 - 00:10:55:25
+不明
+Ha ha. But seriously though, we'd love to hear about how other the wrestling with similar issues and tips and tricks. Whatever we can share with the Am guides community. We'd love to talk about more. And who knows, maybe I cannot be applied here to. So again, this is a technical, content presentation. And so we're going to get even more technical here.
+
+00:10:55:30 - 00:11:04:12
+不明
+So how does GitHub benefit? How does Darwin Information technology, typing architecture help us?
+
+00:11:04:17 - 00:11:32:58
+不明
+So as mentioned in Aei's press release, we are introducing a wide introducing gen AI technology, an atlas, which we call EIC Q assurance knowledge. And this provides our E wide practice with new capabilities around knowledge search and the ability to summarize, technical auditing and accounting content. We're developing mission critical time saving capabilities to help, especially our young professionals, find guidance and auditing and accounting.
+
+00:11:33:03 - 00:11:56:08
+不明
+The guidance in UI Atlas where Atlas varies between countries. We mentioned we've got authors in 42 countries and also on the type of client that is being audited. For example, a publicly traded income traded company versus conducting an audit. This means specific questions posed to a generic question and type answer type experience need to be answered precisely in accuracy.
+
+00:11:56:13 - 00:12:15:07
+不明
+And the best way to do this with our Atlas content is through leveraging the rich metadata and semantic structure that comes along with do not. And and as well as the context of the user and the Atlas channel for the content to the user. What are they doing when they're on their way to Atlas? What channel are they working in?
+
+00:12:15:12 - 00:12:53:30
+不明
+Which channel which country? In addition to, you know, what do we know about the metadata and the semantic structure of this document? And this leads us into the use of the retrieval, augmented generation pattern. And we're going to talk more about that as well. But you know, it does it it helps you requires splitting up chunks of content in the sub structured documents, which is essential to making our AI function the way we needed to to allow users to quickly grasp critical information, such as letter reporting requirements and specific examples.
+
+00:12:53:34 - 00:13:19:52
+不明
+So again, to expand on our Rag approach, we use XML section based chunking because we're already working in XML. So annotations come out of the box. So we use XML layer filtering prompt engineering where we instruct the LM to pay more attention to the types of tag comment content depending on the query in the question. Then we're asking like requirements for examples.
+
+00:13:19:55 - 00:13:39:38
+不明
+And maybe we're paying attention to examples. Maybe we're not. It depends on the user context and specific questions being asked, but we don't have to guess what those examples are. We don't have to guess what a topic is. We know what it is because it's already tagged. So we also personalize the user experience where the engagement context is passed into the land for our methodology.
+
+00:13:39:43 - 00:14:02:24
+不明
+So again we're going to we we will filter for content relative to the type of what are being conducted such as complex or non complex objects. What specifics in the LM generated answer should be highlighted? Given the size of the client being ordered, it? And lastly, we have industry and other metadata fields on the content to help the inform the LM and make decisions on the fly.
+
+00:14:02:29 - 00:14:35:40
+不明
+What content is relevant to show or hide? We can do this intelligent filtering globally with all our content because we have a very granular custom data scheme already. The key takeaway here is we've done a lot of work on our content originally to improve search, originally improve maintenance, originally to give them, meta Wikipedia like experience. But now we have this huge bonus, to have it tagged and highly structured in a way that is paying off multifold in our ability to use AI technology.
+
+00:14:35:45 - 00:14:59:12
+不明
+So here's a simplified view of the IQ assurance knowledge. High level architecture. Again, we've mentioned a couple times, but AI aficionados will recognize the rag pattern right away. This Rag pattern being the industry standard approach to building applications that use our LMS, or in our case, LMS to, to process specific or proprietor data that the model doesn't already know.
+
+00:14:59:16 - 00:15:29:33
+不明
+Like in this case, our UI methodology, it doesn't know any specific terms as examples in UI. Our projects are called engagements. So we need the LLM to understand that we don't mean impending nuptials or other kinds of events. Engagement equals project for us. So on the other one hand, you can see our Adobe Guide CMS connected to our vector database and then interacts with the language models okay.
+
+00:15:29:45 - 00:15:51:27
+不明
+But you'll also see keyword search still in the architecture here, so that our users can see our original search to compare with the general AI results. And finally, did it's needed. That's important at this stage in AI where our accuracy is going up every day. But it's still required to compare to conventional results and on the language models and sides.
+
+00:15:51:32 - 00:16:17:51
+不明
+We originally started with full chat GTP lm, but we found that GTP for Omni gave us tighter accuracy and a lower token cost. We're also evaluating the Pi three small language model with promising results. And this gets really interesting because then we'll be comparing token costs versus CPU cost. So far we're seeing great results with over 83% summarization and search accuracy.
+
+00:16:17:56 - 00:16:25:48
+不明
+We're also using micro front ends and we're using a content fragments.
+
+00:16:25:53 - 00:16:54:51
+不明
+So this is a sample screen. This is not an actual screen but a sample screen that shows the user interface elements in the Ebisu queue assurance knowledge, micro UI. This is you know, because it's a micro UI, we can put it in any one of our own applications. It's first home is an atlas, though as you can see, there's a question followed by an answer summarization, but also reminder to apply professional judgment and adapt to specific situations.
+
+00:16:54:55 - 00:17:20:22
+不明
+You can ask refinement questions, and ask for references to the original content, which, if clicks, takes you back to the original atlas. Wikipedia source experience. We showed earlier a simple industry standard UI, but hides all the complexity underneath that was discussed in the previous slides to make it happen.
+
+00:17:20:27 - 00:17:45:29
+不明
+So we're going to end this talk with some of our future vision for knowledge management. I will continue to dominate our daily lives when we hear about new AI capabilities, new, ways of AI, generating information, predicting a pattern, suggesting meaningful alternatives for us all to consider. As we've shown already, we're ready to change to whichever limb performs the best or small language model.
+
+00:17:45:34 - 00:18:13:46
+不明
+We've got a modular architecture. We're ready to go and we can adapt as the industry adapts and whenever new comes out. And when we think about how this applies to knowledge management, we really see how things that we've been focused on historically, machine learning search better metadata taxonomies, improving our content linking, gathering appropriate user context data, enabling smarter language understanding really have come together for us to create that, that foundation.
+
+00:18:13:51 - 00:18:37:52
+不明
+That's absolutely critical going forward. We think the future's really bright in the knowledge management space. You're going to see a resurgence in this space. Adobe is great at this space. We're very excited to see what unfolds next with content aware suggestions, automated cost cross-references, and better translations. Adobe continues to help us evolve the speed which our business demands to help us build a better working world.
+
+00:18:37:57 - 00:18:57:27
+不明
+So this is a live presentation we would have for questions along the way, as well as a key session at the end. Since we're not though, please feel free to reach out to me at Joe Hughes at our com or a reach out to your, Adobe representative, and they'll find a way to our Adobe sales team and then happy to share information.
+
+00:18:57:39 - 00:19:15:47
+不明
+And like I said, we're also eager to hear from all of you with tips and tricks in how to manage, and progress in this world. And so with that, we're going to close with a little vignette about Y. And thanks for watching.
+
+00:19:15:52 - 00:19:25:34
+不明
+In a world of seismic change, will your business shape the future or be shaped by it?
+
+00:19:25:39 - 00:19:37:25
+不明
+How will we capture the imagination of tomorrow's consumers?
+
+00:19:37:30 - 00:19:46:23
+不明
+And overcome operational constraints to focus on future growth.
+
+00:19:46:28 - 00:19:54:25
+不明
+I will be harness technology and AI to shape the way we live our lives.
+
+00:19:54:30 - 00:20:08:33
+不明
+And how will we balance environmental responsibility with economic prosperity? With the wise, full spectrum of services across sectors, we're all in to shape the future with confidence.
+

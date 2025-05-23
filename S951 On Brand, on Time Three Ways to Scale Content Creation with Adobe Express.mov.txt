@@ -1,0 +1,596 @@
+00:00:00:01 - 00:00:20:01
+不明
+Everyone waiting for somebody to jump through other doors are closing. That's it. Thank you all so much for joining this morning. You are the intrepid crew who are doing the Post bash morning session. So this is a 9:00. There is an 8:00, so. Oh, there we are. Okay. Wow. That would still credit rough. But yeah, big credit to you all.
+
+00:00:20:03 - 00:00:43:34
+不明
+Incredible to see you all here. We are thrilled to talk to you today about on Brand on Time three ways to scale content creation with Adobe Express. If you want to scan this QR code, we have a few polls along the way, and it's also where we'll be capturing the Q&A, so we'll have a lot of time at the end to answer your questions about our roadmap, what's coming and how we use Adobe Express.
+
+00:00:43:38 - 00:00:48:10
+不明
+So all right, let's jump in.
+
+00:00:48:15 - 00:01:21:14
+不明
+So my name is Chloe McConnell. I'm a director of product on Adobe Express. I've been working at Adobe for almost eight years now in this problem space at Adobe Express as solving, which is around bringing creativity to everyone and ensuring that anyone has the capabilities to create on brand. Before Adobe, I worked in the publishing industry at the New Yorker magazine, where I manage all the New Yorker's digital editions, and I'm originally from Toronto, up in Canada, but now I'm based in Berkeley, California, and I'm thrilled to be joined today by Matt.
+
+00:01:21:18 - 00:01:44:18
+不明
+Hi, I'm Matt. Everyone can see you. I'm, the head of design for Paramount Streaming, which includes Paramount Plus and Pluto TV. And, I've been in this kind of entertainment design industry for about 22 years. Just kind of crazy. I've been with my company for the exact same amount of time, which is kind of crazy, but yes.
+
+00:01:44:23 - 00:02:06:04
+不明
+Thanks for joining us. I'm I'm originally born and raised in Los Angeles, but now I was lucky enough to live in bend, Oregon, in the northwest. But I am in LA in New York a lot. So. Yeah, thanks for coming. Super excited to walk you guys through some things. And since this session is on brand is completely coincidental that we are dressed exactly the same.
+
+00:02:06:09 - 00:02:24:57
+不明
+But we walked in the room this morning and we were like, this is really, really good juju. We are on break. This is the speaker uniform. This is like the very monochromatic. So completely unplanned. But but I love it. We are just living up to the name of this session. So again scan this QR code in the corner and we'll learn a little bit about your familiarity with Adobe Express.
+
+00:02:25:02 - 00:02:47:02
+不明
+As you fill that out, I'm going to jump into set Expectations about today. So you're going to learn all about how you can leverage Adobe Express to ensure on brand creation across your organization. We're going to start with a quick intro. So Matt, sharing a little bit about brand consistency, I can share a bit around brand struggles and then we're going to jump into these three main pillars.
+
+00:02:47:16 - 00:03:19:05
+不明
+The first one around consistency. We're honored to have Matt here, who's going to share case studies on Paramount streaming and how they ensure brand consistency across multiple teams, multiple brands. And then I'm going to jump into the product with express and do a complete demo to you to share how you can use lock templates to enable control across your organization, and then how you can use our innovative AI powered technology to create variations and campaign at scale to help yourself with velocity on the brand consistency front.
+
+00:03:19:09 - 00:03:25:35
+不明
+So with that, let's hop over to the poll.
+
+00:03:25:40 - 00:03:43:15
+不明
+And see all your familiarity with Adobe Express. Ooh, who are the experts? Who wants to come up here and help? Yeah, let me run the session. Or is this just my team at the back? Who's fill that out? So great. Great. Across the board. Love that. There's some people that have used it regularly. Some people haven't tried it yet.
+
+00:03:43:15 - 00:03:57:38
+不明
+So excited to introduce this pretty new product to you all. And the power of it and what it can accomplish. And that makes sense that most of you are in this sort of in between phase where you're just getting started, you're just learning. And so I hope there's going to be a lot of content here today for you to learn.
+
+00:03:57:38 - 00:04:07:40
+不明
+And we're looking forward to taking some tools and tips and bringing them back to your teams and implementing them.
+
+00:04:07:45 - 00:04:29:34
+不明
+So with that, I'll hand it over to Matt. Okay. To big slide about me and my team. Again, I kind of told you I run a team at Paramount Streaming. It's a group of static designers. Motion designers. We have card artists, digital display, designers. So a lot of different parts of design that are touching our brand.
+
+00:04:29:34 - 00:04:47:29
+不明
+And not only that, we're working with a lot of other agencies and vendors. So my team is based in New York and LA. Again, I'm in the northwest, but I see with them tons. So that's a lot of the work that we do, and it's a lot of different touch points from all different parts of the line.
+
+00:04:47:29 - 00:05:04:25
+不明
+I'm I'm a designer at heart. That's my background. So I know there's a lot of different people in here from strategy and engineering and a lot of executives. And I, I'm, I'm going to focus a little bit more on like how that works for design. But, not to downplay. There's so many other things when this word comes up.
+
+00:05:04:25 - 00:05:31:26
+不明
+Branding. I know it's kind of this ambiguous big word and what that means. And I think to one of the big things that we always talk about is like, there's so many parts of branding beyond the design. I think the design is a great vehicle to kind of work it through. But I think the biggest thing and not to like, downplay, there's so much other parts of it with testing and your brand voice and your brand tone and all these other parts with your value proposition and how you get that out there.
+
+00:05:31:31 - 00:05:52:16
+不明
+And again, I'm on the design side, so I'm trying to look at through those things and see how we put that out in the market visually. And how does that kind of come through. And we talk about branding. I think branding is a big task because I'm going to show a quick thing here is, is that's about how long you have for us to get a message across from you.
+
+00:05:52:21 - 00:06:12:35
+不明
+It's a little weird. Like literally that is it like, what did you take away from that image that you just saw looking at your window, seeing a billboard? If you're walking in a subway, if you see something at the corner, your eye. My job is to make sure you saw something and you get some kind of feeling. I think the hard thing is sometimes is did I even recall anything?
+
+00:06:12:35 - 00:06:30:03
+不明
+And I think the difference right now is there's so much things in the market that are grabbing for your attention, even from you guys, to not look up at you're look down at your phone right now. That's like we're winning right now with some of you. I see some in the back that are on their phone. But but that is that is our that's what we're working towards.
+
+00:06:30:03 - 00:06:53:10
+不明
+We're trying to grab your attention. And there's only a couple ways to do it. It's either through a thought or a feeling when you see something color, typography, font choice, motion, all these things are vying for your attention. So when I'm working through different things in the brand that we're looking through out in the marketplace, my biggest thing is like, how do we disrupt that flow?
+
+00:06:53:15 - 00:07:08:59
+不明
+If you're going somewhere, I don't want you to be late on the subway. But like, if you can stop for 10s and watch my thing, like I'm doing a decent job with that, which doesn't happen. But if you are, I appreciate you doing that. But that is a challenge. Is, is is what can we get your guys eyeballs on?
+
+00:07:08:59 - 00:07:25:41
+不明
+What can you retain from it? And also that there is a thing with feeling like certain colors spark emotion or some connection. And that's what we're trying to find those avenues through, like strategy and our research of like what's working and what's not working.
+
+00:07:25:46 - 00:07:58:54
+不明
+So I was going to talk about three different pillars. And these are more when it says like pillars of brand design. This is just my opinion of of how I approach it. These and it's so weird that they're all C's I don't know. And I hadn't planned that. But these are the three things that I've really kind of focused on is, is consistency of making sure that you you're always, you know, seeing the same thing across the board, contrast of things that are popping out, that it's not always the same creative, that we have some variation and then clarity of clarity of message, of making sure when you see that thing in two seconds,
+
+00:07:58:59 - 00:08:15:44
+不明
+that you come away with a handful of things that we would like you to is like either our brand presence, a CTA of like, what? Where am I going to find this? What time are we going to check this out? And then just talent like imagery, like what kind of thought or feeling I'm trying to evoke with with the message.
+
+00:08:15:44 - 00:08:36:47
+不明
+So those are the three things that I really focus on when I'm looking at our design and our brand. And if these don't check some of those boxes, these are the first kind of things I kind of go through. So to talk a little bit more about that. So I'm going to go to consistency. This is going to be an issue guys I'm going to try to pass it back to Chloe.
+
+00:08:36:52 - 00:09:02:32
+不明
+But this is a couple examples. Consistency. So just making sure. And you guys probably seen this with Paramount. If you see blue and you see this blue frame, even though you know a lot of people like blue and they like frames, we were the first to say sorry competitors here. But, we really try to drive this home of like our holding device of any visuals that always push us back to either Paramount Plus in the destination.
+
+00:09:02:37 - 00:09:27:44
+不明
+The second thing is contrast of making sure that you have some vibrant imagery, specifically when we talk about, you know, busy transit areas, busy areas where people are walking through and people are busy, we need to be a little bit bolder with our color, bolder with our messaging. Animation comes through way more sometimes when static. So we find opportunities where we can push this narrative as much as we can across in these heavy trafficked areas.
+
+00:09:27:44 - 00:09:51:50
+不明
+And, we kind of felt that it be, you know, if you want to catch some of these eyes, something moving always, always works way better. But in clarity. We really worked with our team specifically in digital, making sure that our messaging is clean. The hierarchy makes sense a lot of times there's a lot of information to convey in a small space.
+
+00:09:51:55 - 00:10:12:29
+不明
+If it's from a small digital unit all the way to a large billboard, we want to at least make sure there's a flow of hierarchy of clarity. I think when you have everything, sometimes the same size, it all kind of disappears. So having a hierarchy in typography and some of those things are important, and trying to organize as a material, because you'll get a lot of different content with a lot of different genres.
+
+00:10:12:30 - 00:10:36:58
+不明
+They have to kind of put together. And how do you make it feel cohesive? And usually that is a branding in the hierarchy that kind of does that. So talk a little bit more about brand integrity. I'm going after Chloe. Yeah. Thanks, Matt. So Matt built this up in terms of the importance of branding. And I'm going to be the downer in the room to speak about the difficulties that we're all encountering in terms of making that a reality, right.
+
+00:10:36:58 - 00:10:59:07
+不明
+And making that that consistency a reality. So over the past few days at summit, I've been in meeting and leading and meeting with key enterprise leaders and also as a product manager. We're talking with users all the time, and it is very, very clear that organizations struggle with brand integrity at scale. And it's across these three ways, right?
+
+00:10:59:07 - 00:11:24:05
+不明
+First of all, 70% of marketers and business teams are producing more content. Our jobs are highly visual. When we're telling stories. Everything is visual and everything is content based. But 63% of us are saying that we have less time to produce that content. Our jobs are expanding. We have more and more to do. And so what happens is that this results in 85% of users within organizations using DIY or unsanctioned tools.
+
+00:11:24:05 - 00:11:48:29
+不明
+So they're just sort of going off and creating things on their own without recognizing the brand guidelines. And this problem adds pressure to all functions. And so it's not just a problem in terms of the brand itself. We feel it. And I hope that you empathize with some of these. So I'm going to ask you to sort of raise your hands as I go through, if you know these user or if you work closely with these rules or maybe or some of these rules yourselves.
+
+00:11:48:34 - 00:12:18:45
+不明
+So first of all, there's the designers and you're under increased pressure from the scale and velocity, the amount of content that has to be created. You can't create content for everyone in your organization, but you also can't moderate all the content that's put out there. We are in a meeting, the other day where the design lead said I was on LinkedIn and there was all this stuff posted on brand on LinkedIn, and it's so frustrating, but I just don't have the time to moderate that content or create that content for everyone within the organization.
+
+00:12:18:50 - 00:12:37:07
+不明
+And so they want a way to efficiently offload design tasks that are low risk to the rest of the organization. So hands up for designers in the room, people who feel stress a little. Woo hoo! Wow, a lot of you. Okay, all right, I've hit a chord. I've hit a chord. I see some nods here. The second one is the marketing role, right?
+
+00:12:37:07 - 00:13:08:35
+不明
+There's the expectation. As master spoke to, that everything needs to be personalized and in the moment, right on time, on brand, in the moment. And that is so much pressure to customize whether you're thinking about global campaigns in the thousands of variations across media and across geos, whether you're thinking about localized franchise sizes, localized teams who need to create their campaigns, their print material more in the tens, you have to do it on brand and on time.
+
+00:13:08:35 - 00:13:33:48
+不明
+And this is incredibly difficult. So marketers need a way to use templates and then quickly customized for their local needs. So anyone feel that pain a little bit less. All right. More more more designer pain in the room. And then finally we have the rest of Oregon partners. So rest of Oregon, if you think about H.R. Sales business strategy, people have to create pitch decks reports newsletters in the moment.
+
+00:13:33:48 - 00:13:55:14
+不明
+They have to be incredibly professional, right. But the turnaround time is very quickly. They're working across multiple disconnected apps, don't know where all the assets are and they need a way. Also, that's template ties to create that content in the moment for internal communication or external communication. If you're thinking about sales and communicating with partners and then the last piece is around partners, right?
+
+00:13:55:14 - 00:14:10:40
+不明
+Those people that you're working with, if you're whether you're doing co-branding with partners, whether it's your customers, your clients or fans that also need to be able to create that content on brand. So what about this third one? Is anyone in this bucket feel it less and less? Well, really design heavy room, I love it. I mean, that makes sense because Matt's here.
+
+00:14:10:40 - 00:14:35:34
+不明
+So he's drawn drawn you all like after. So the risk of all of this obviously there is the emotional risk of the pressure that that puts on all of us. But there's also a real brand reputation risk, right? When there's rogue creation out there, your brand is showing up in sloppy ways across multiple channels. If they're sidestepping your brand governance, there's a serious IP vulnerability risk.
+
+00:14:35:34 - 00:14:56:06
+不明
+If people within your organization are using generative AI on with non commercially safe generative AI tools. And then there's a brand reputation risk. Right. It's like a it's like as I said I worked in magazines. It's like a typo in a magazine. All it takes is one typo. All it takes is one breach of road content out there that can destroy years of brand equity.
+
+00:14:56:06 - 00:15:15:24
+不明
+And that's why this is why branding is so important. But why brand risk is an incredibly, important problem to solve and to avoid. And so that is where Adobe Express comes in. We are the quick and easy app to create on brand content across your whole organization. We don't want you to have to compromise on brand integrity.
+
+00:15:15:31 - 00:15:45:53
+不明
+We want to ensure that everyone within your organization, across your partners, and across your entire ecosystem can create on brand. So I'm going to switch over to the express sizzle reel so that we can wake you back up again, with a little bit about Adobe Express for enterprise. Market I, I.
+
+00:15:45:58 - 00:16:02:10
+不明
+I I feel I have.
+
+00:16:02:14 - 00:16:08:14
+不明
+I, I think.
+
+00:16:08:18 - 00:16:13:34
+不明
+I.
+
+00:16:13:39 - 00:16:17:15
+不明
+Should.
+
+00:16:17:20 - 00:16:40:57
+不明
+I'm going to.
+
+00:16:41:02 - 00:16:47:08
+不明
+Be.
+
+00:16:47:13 - 00:16:52:01
+不明
+Like.
+
+00:16:52:06 - 00:16:57:35
+不明
+This.
+
+00:16:57:40 - 00:17:11:28
+不明
+I'm.
+
+00:17:11:33 - 00:17:32:14
+不明
+All right. Woo woo! Tony. Express. All right. That's all our our sizzle really in for the day, but but hopefully you're woken up. I love that video. Jazzes me up every time I see it. My team is at the back who built a bunch of those workflows. And it's just so exciting for us to see this out in the wild and to be able to share all these incredible new value with you.
+
+00:17:32:28 - 00:17:48:09
+不明
+So I want to go back and share a little bit about Adobe Express, especially for those of you who said that you're new to it. So Adobe Express is a platform for content creation at scale, and that means that we are, web apps. So you can access us on the web, on your desktop, but we're also a mobile app.
+
+00:17:48:09 - 00:18:08:49
+不明
+So you can is on the go from the conference room floor or whether you're commuting. We also work hard to meet you where you're at. So we have an embedded SDK. We have a number of partnerships which you saw up in the video. For example, express is embedded into Miro, but you can also embed express into your workflows as an organization and use our SDK so we can meet you where you are.
+
+00:18:09:02 - 00:18:35:17
+不明
+And we also have a whole ecosystem of enterprise add ons, which means that you can connect to all your third party workflows, and you can even build your own custom add ons and add to this ecosystem. So that express works exactly for you right now in terms of what is important for express and how we're solving user needs across functions and how we're doing it in an incredibly unique way that only Adobe can do.
+
+00:18:35:31 - 00:19:01:20
+不明
+It's across these five vectors. First of all, is enabling you to create standout content. And that's because express has the power of Photoshop, illustrator, InDesign, premiere all under the hood. We have all that expertise and technology from Adobe, but we're making it incredibly easy for anyone to use. So if you don't have any knowledge or expertise in those tools, express is there to be incredibly simple.
+
+00:19:01:25 - 00:19:31:24
+不明
+But if you do have the knowledge and expertise in those tools, it has all the power to support your needs. Second is control and creating on brand control. Control. Control is the name of the game we want to ensure. From the moment that the user logs in and drops on home all the way through the export. Within enterprises, you have the capability to completely control everything that your users see in terms of the content they see, the actions that they see, so that you can ensure that they have maintain that brand governance in the content that they're creating.
+
+00:19:31:29 - 00:19:58:55
+不明
+Next is that we're integrated with our creative and marketing workflows within Adobe. So we have complete integrations and import workflows, which I'll demo in a bit from InDesign, Photoshop, illustrator. With Acrobat, you can access all your Creative Cloud libraries, and we also have our workflows integrated with Am and coming soon with work front end Gen Studio. So we're creating this end to end marketing system and laddering into the overall content supply chain narrative.
+
+00:19:59:00 - 00:20:31:03
+不明
+Next element is that our AI is complete, commercially safe. I'm sure that you've heard this many times throughout this conference, right? But your team can be you can be 100% confident when your team is using generative AI within Adobe Express, and that is an identifiable and then finally, easy enterprise grade company wide access in terms of licensing, in terms of deployment, in terms of provisioning, and then also all the real time collaboration, coordinating commenting workflows that you expect.
+
+00:20:31:08 - 00:20:55:30
+不明
+So with Adobe Express, we're trying to build a scalable on brand system so that your team can create on brand. If you want to scan this QR code in the corner, we have our next poll for you. That's going to ask you about the who you're trying to ensure that creates on brand. But the system that we want to be able to unlock is that marketers can collaborate with designers to establish that brand.
+
+00:20:55:30 - 00:21:29:47
+不明
+Right. What is the brand definition? What is the brand guidelines? What are those brand rules? And then the designers can create lock template style guides all the collections of assets and then distribute that system to back to the marketing team so that they can create their content back to the internal organization so they can create all their business content, and then even externally to partners, to clients, to franchises, so that they can also create on brand with all of that content and so let's hop over to the poll to see a little bit around how you guys are thinking, oh, love an active word cloud.
+
+00:21:29:47 - 00:21:53:48
+不明
+Who does not love a word cloud? So who are you trying to ensure creates on brand? With Adobe Express I see just general team. Great. Let's let's just do everyone right. Everyone should be creating on brand. The marketing team designers are production students, I love that. Yeah. Express has a huge use case now in k-through-12 and higher education.
+
+00:21:53:53 - 00:22:11:54
+不明
+Awesome partners, managers, regional organizations, the incredible, incredible things in here. There are so many people that we can put Adobe Express in the hands of to help them create on brand.
+
+00:22:11:59 - 00:22:31:50
+不明
+So next I'm going to hand it back to Matt, who's going to speak to brand consistency and some of the case studies of how they're using express and piloting express today at Paramount Streaming. So just talking about the building of brands across teams, we're at at Paramount, we have a lot of different parts and pieces under our umbrella.
+
+00:22:31:55 - 00:22:56:55
+不明
+So not only with Paramount Plus and Pluto TV, we have a lot of other studios and other channels that we are trying to have a consistent brand across all of it. And when you go across just a small team, even with just ten people, sometimes even that is challenging. But to make sure your brand works across all these units that have their own design teams, their own marketing teams, that's where the challenge does definitely come in place.
+
+00:22:56:55 - 00:23:23:07
+不明
+And that's why some of these rules are super important. Oh yeah. Well, it. Thanks. Thanks, Damien. He's making it happen. There you go. Everyone give him a hand and see why. He's worked very hard to make sure citizen. So with that said, without many groups of people touching your brand to try to keep it consistent and intact is challenging.
+
+00:23:23:07 - 00:23:42:27
+不明
+And one of the biggest things for us is having this efficiency in and asset management of making sure people know where to go, where people know where to get the correct logos. We've done a lot of different things with, with the libraries in our guides and our brand, and that's, that's been kind of a game changer for us.
+
+00:23:42:27 - 00:23:58:45
+不明
+And right now it's just, you know, we worked with Adobe, a lot of our team members to look at Adobe Creative Cloud libraries and how do we take our brand and put it all within that library. And what's amazing about it is in the past, you know, there was know, I'm going to be really honest with designers here.
+
+00:23:58:45 - 00:24:19:19
+不明
+If you're in the room, we have stuff on drives, we have stuff on our desktop, we have stuff in weird places. It's not the most efficient, but we're artists and this is what we do, and you guys have to accept it. But the best way to do it, the best way to do it, and this has been a game changer for us, is really having a bank of libraries within your application.
+
+00:24:19:19 - 00:24:42:02
+不明
+If you're jumping into Photoshop, After Effects premiere, and it's a consistency library that is there that you can reference the logo, the colors, the typography, and you never have to leave the application. To me, that is like the biggest win. I think once you kind of have to exit out the experience, not only you're kind of like breaking your concentration of like switching gears to, to to find something, to have it within.
+
+00:24:42:02 - 00:25:02:20
+不明
+There is is kind of the game changer for us. So that's something that we work through and I'll show you, you know, just with Paramount Plus, with our, our global libraries, we make it a super easy place to grab what you need, whatever application you're in. If there's an issue with, like, where do I find the logo? I say, go to the libraries.
+
+00:25:02:25 - 00:25:22:04
+不明
+Where's the color? Go to the libraries. It's all there at your at your fingers touch to grab it without having to hunt and look for what's the appropriate one. Also, what's great about it too is once we have a global chain, say we want to adjustment off a font or a logo, it will auto update within libraries, which is great.
+
+00:25:22:04 - 00:25:49:59
+不明
+So keeping that consistency again I keep saying I'm going to say that just like so we're going to say consistency a lot is kind of the main point of like trying to keep the brand intact. Here's a couple of other ways. And also too, when you get to these different size breakdowns, when you're getting into billboards and then you're going down to like a 320 by 240 digital ad to try to keep them familiar, keep that feeling that these are the same destination brands.
+
+00:25:50:04 - 00:26:20:26
+不明
+Is is one of our goals here. The second thing I was going to talking about is, is for our non designers in the room. We're with you as well. I think the hardest thing is like to get a deck and start from scratch. And if we can do our job as designers and get some templates built, get some deck builds together that keep the keep the decks visually esthetic looking great, give you guys the flexibility to jump in, change typography, change some some visuals.
+
+00:26:20:31 - 00:26:55:46
+不明
+That's what we've kind of been working on with Pluto TV, of building these decks and express, which was super easy, super fast, and having access to our brand within it has been great. So I think it's a good opportunity if you guys are messing around with different kind of deck builds, like definitely Open Up Express, it's pretty, it's really intuitive to jump in, and if you have your brands in there to be able to build it quickly and then lock certain parts of your decks for the designers, if you don't want any messing with your colors, if you want to mess with a certain architecture design, you can lock that stuff down and give them
+
+00:26:55:46 - 00:27:17:00
+不明
+access to go and change everything that that you want them to change. So that's been great to kind of hold consistency. The one thing you don't want to see is decks out in the wild that have nothing related to your brand. And if you keep it within here, it works really, really well. The third thing is exploring new ways to tackle social media content.
+
+00:27:17:05 - 00:27:51:39
+不明
+I know through locking some design templates, this is something we're kind of exploring. It's definitely like something we've been we've been messing around with specifically people that and so I'm going to throw example if you're having to build some content super fast, if you need to swap and make a post, if you're on the red carpet and need to take a photo and get something quickly to have some of these templates that are already locked down and give people flexibility to, again, like update, and they're already vetted and approved to have those, we've been really kind of working through like what would that look like?
+
+00:27:51:43 - 00:28:09:59
+不明
+Then I'm going to get it to this is, this is this is a total sidebar, but it's still relevant. I'm I'm a designer by trade. My wife, she she asked me for a lot of things all the time. And a lot of friends do, too. I think as a designer, there are like, can you, can you design this birthday card?
+
+00:28:09:59 - 00:28:32:44
+不明
+Can you go do this thing? I get more requests from my wife, who's my super agent, on things that I need to do for people and, to be honest, I bring work kind of right into there. So I got propositioned. My daughters play volleyball there in a club volleyball team. I was complaining about the swag and the logo, which was not smart.
+
+00:28:32:44 - 00:28:55:38
+不明
+And then at the next step, I had a call. My wife set up a meeting and we're having a meeting about redesigning our brand back for our club volleyball team, which was it was actually more notes I get than at work, and this was a challenge, but I opened up expressive the first time I was ever using express, and I said, okay, I'm going to do this, I'm just going to go for it.
+
+00:28:55:43 - 00:29:22:31
+不明
+And to be honest, it was the most fun I've had. Just having complete autonomy, which is amazing to have on on a brand and totally just doing something new. So in the night and like one night I just started putting stuff together, had some photos, started redesigning a logo there in Photoshop, brought it and built a brand and express, work some language typography, then some color palette thing of like what is our brand colors?
+
+00:29:22:36 - 00:29:45:10
+不明
+Put some swag in that I would be okay wearing. That was that was amazing. I got one free hat. She almost made me pay for the hat. And I was like, really? I literally just the next day built this whole book. And then I went to staples, printed it out. The color wasn't right. So I told the staple, guys, can we just chat like do a couple more times, put it all together?
+
+00:29:45:10 - 00:30:15:43
+不明
+And I presented this book in a day using Adobe Express and like probably the fastest kind of cycle I've ever done design and which was invigorating and exciting. And I'm actually really proud of my brand book. I literally have it in my office and it's right there. So not to say, like if you have a big organization that you're doing tons of things with consistency, like everyday life or everyday users, if my wife's going to ask you to do something like, then you kind of just take the same principles in here.
+
+00:30:15:43 - 00:30:47:44
+不明
+And it was super fun. So that was a very unique use case to me. By the Swag online. Yes. Yes we will by the time I open it to sell it online for sure. So that is that's kind of the overarching of the brands that I touch, including Central Oregon Volleyball Club. There you go. Great. You.
+
+00:30:47:49 - 00:30:56:36
+不明
+Did you break? Can you still hear me? All right. Great, great. Sorry. I shouldn't have doubted you.
+
+00:30:56:41 - 00:31:16:17
+不明
+So now we're going to jump over to, demo of Adobe Express and jumping into the product itself and what it can do. I have the QR code is still here. I see some of you are already in there. Now it's collecting Q&A. So you can put in your questions, you can upvote questions, and then we'll make sure to leave time at the end to address those.
+
+00:31:16:17 - 00:31:44:46
+不明
+But we can also take live questions as well. And for this demo I'm going to use a fictitious brand called Live Well Eatery. Live well is a global health food chain. It's where there's sort of a centralized design team that owns the brand, and then they're sharing that brand with their distributed franchises, local, local offices, where they can then use that content to create on brand, but then customize it to the local needs of all the industries.
+
+00:31:44:51 - 00:32:10:11
+不明
+And the first thing that I'm going to speak through is control. So how you can take and create those templates starting in Creative Cloud, lock them down with the brand guidelines and then share them with the rest of the team to reuse. And then I'll go into scale, speaking through all the eye innovations that we have for variation, for creating in bulk, but ensuring that it all maintains and stays completely on brand.
+
+00:32:10:16 - 00:32:32:48
+不明
+So let's jump over to the demo screen. How do we sound, Damian? Okay. All right. Good. So I'm going to start actually not in Adobe Express but in illustrator in the role of a designer at Live Well Eatery. And so as a designer, I spend most of my time in Photoshop, illustrator and InDesign, and I should keep spending most of my time there.
+
+00:32:33:03 - 00:32:54:31
+不明
+So in illustrator, this is where I have my brand sheet, I have my colors, my logos, my fonts, these vector graphics that I've created. I can just drag and drop these vector graphics into my brand library here on the side where I have all my assets and that's there and ready to go. So I can then reuse that brand library later with and express and then share with my team.
+
+00:32:54:36 - 00:33:14:19
+不明
+I'm also working in Photoshop where you can see I've started creating this Instagram reel. I prefer starting in Photoshop. I prefer the pixel perfection of it all. It's what I know. So I can do all the composition and all the layers here, but then I can save this out because I'm going to then reuse it in Adobe Express to lock it down and share it with my team.
+
+00:33:14:24 - 00:33:48:51
+不明
+So let me then hop over to Adobe Express here. So on the home screen, what I want to do, the first thing is import that Photoshop file element that I created. So I have it here on my desktop, and I can drag and drop it in. And I have two options. When I import it I can place it as a linked image, or I can convert it and I'll show the linked image workflow a little later, but I'm going to pick to convert it, because what I want to do is take this campaign, lock it down, and then share it with all the local stores and franchises so that they can customize it for themselves.
+
+00:33:48:56 - 00:34:11:42
+不明
+And what express was doing there. And it was so fast, I didn't even have the time to talk through it. It was converting that Photoshop file using custom Adobe APIs to ensure that all the layers are still there. Like, look at that. All the same layers that were in Photoshop show up in express. I can edit all the content and is completely, completely converted from an express file to a Photoshop file.
+
+00:34:11:46 - 00:34:27:07
+不明
+And so now I want to make this move a little bit. This juicy morning campaign is because we're starting to open earlier than we used to. We're opening at 630 to try to get more traffic into the stores. So we're going to do half of juice to get people in early Vegas, I don't know, 630 early or late.
+
+00:34:27:07 - 00:34:46:25
+不明
+It's probably more late, especially for the one of you who stayed up all night. I still appreciate you. And so I want I want to make this move. I know how to use premiere. I know how to use after Effects, but it's just so much faster to do this in express. And I'm more of an expert in, composition and graphic design than I am animation.
+
+00:34:46:36 - 00:35:09:26
+不明
+So I'm going to select this content at the bottom here. Hit animation rise so that it rises like the beautiful sun rising in Las Vegas over the mountains. I'm going to pick this text here. Let's loop it in a nice sort of breathing so it like like you're breathing in the morning, waking up. Love it. And you can see as I was doing this, this timeline appeared.
+
+00:35:09:41 - 00:35:35:22
+不明
+And so this turned from a static asset now into a video all within the same editor. And I can even add another scene. So if I go to scene and I want to add, let's say some videos, let's say a woman drinking a smoothie. So I can really sort of make this move, I'll pick her and just easy drag and drop tools to, have this sort of outro.
+
+00:35:35:33 - 00:35:56:37
+不明
+But I want this outro to be on brand, and right now it's just not doesn't have my brand colors, it doesn't have my brand esthetics. And this is where our branding come in. So I click over to brands over here and all my brands that I've created as brand libraries across Creative Cloud. And now all the brand libraries that you create within Gen Studio also all show up within Adobe Express.
+
+00:35:56:39 - 00:36:16:45
+不明
+You say the same logos, the same colors, the same fonts, the same assets across the entire Adobe system. No matter where you are in your content supply chain. So I'm going to come down here, I'm going to pick this nice comingsoon graphic that I created in illustrator. Let's also add a nice sort of looping animation to make it wiggle.
+
+00:36:16:47 - 00:36:36:03
+不明
+Very fun. And the other thing is that I want this video to be on brand as well. So I can click on the video, go to effects, pick this green duotone effect. But this green isn't exactly my the green of my brand. So if I go to customize, I see all my brand colors here. So instead of the black shadow, I can hit my dark green shadow.
+
+00:36:36:03 - 00:37:00:23
+不明
+Instead of this neon green highlight, I can hit my brand highlight. And just like that, I've created a nice little on brand outro and we can play it beginning through end. So we can post this up on our on our reels. And as a nice little brand esthetic and then a call to action at the end. So now that I've made this move within Adobe Express, as someone who has always been uncomfortable with animations, I'm quite proud with myself.
+
+00:37:00:27 - 00:37:15:45
+不明
+I want to lock it down so I can share it with the rest of my team. This is a very, very satisfying part. So I can first of all, multiple select all the things that I don't want them to touch at all. So I don't want that to be touching anyway, so I can just go and lock those down.
+
+00:37:15:50 - 00:37:36:56
+不明
+But there's elements that I do want them to be able to swap in their own content for, for example, this image. So I can click it and then hit lock and allow replace image. And that will enable the ability to just replace the image but then not move it around. And same thing with some of the text. So I want them to be able to customize the text to the local juice that's the most popular.
+
+00:37:36:56 - 00:37:54:32
+不明
+And I also want them to be able to customize the location down here. So I can also go lock in a root or replace lock in a root, allow replace. And then in the second scene I'm just going to lock this entirely. I don't want them touching that. And so we've created this lock template again very satisfying. And like no one is going to be moving that.
+
+00:37:54:37 - 00:38:17:53
+不明
+So I go to share make a template I can give it a name. I'll call it the juicy campaign just for fun, pick the brand that you want to save it to. We can add a note. So some guidance, please. Swap the juice and location. Oh, yeah. Can't type on stage.
+
+00:38:17:58 - 00:38:37:09
+不明
+Save the note. And then this is my favorite part. And the most satisfying part is that you can lock down the restrictions for all the styles. So do you want users to pick brand colors that aren't on brand? No. Yes or no? Can I here you know okay. Do you want users to pick fonts that are not your brand?
+
+00:38:37:09 - 00:39:00:45
+不明
+Fonts? Do you want users to have access to media that's not your approved brand? Media? Louder. Do you want users to be able to add layers on top of the lock template? All right. Do you want users to be able to unlock the template? Is there anyone you want to give a password to that may want them to unlock it?
+
+00:39:00:49 - 00:39:23:51
+不明
+Maybe okay. What should the password be? Jesse it's Jesse promo. All right. And then you have a preview on the side of all the things you're locking. So let's save those restrictions and save that template. Well, that template saving we want to share this brand. So to ensure that anyone can access it and reuse it, you can add people's emails directly.
+
+00:39:23:51 - 00:39:44:43
+不明
+So I could put in the live well Toronto branch. Or you could also add it to a project. So project is a shared folder so that if it's added to the project, anyone who has access to the project is going to get access to the templates. So we like to use like a project by department, for example. Or you could use a project for different campaigns like we have here.
+
+00:39:44:48 - 00:40:07:31
+不明
+And so that's all saved. Let me move over to the designer view or sorry, to the store, worker view. And so here I am logged into a different Adobe Express account. And here's a brand page. So there's a brand that was shared with me. I can see the brand style guides here know the logos, colors, fonts. And then I have all those templates, including the template that I just created.
+
+00:40:07:45 - 00:40:25:21
+不明
+Actually, I realized I, should have put a typo in here because then you would have known that it was a live demo. I'll remember that next time. But you do see that I created this today so I can start a new file from this template. And so as a local store owner, this is great for me because I don't have time to get started from scratch.
+
+00:40:25:32 - 00:40:45:58
+不明
+But there's this new promo and I want to put it out on social media. So the first thing you should notice when I land here in the editor is it's much simpler. I don't actually have any choices. On the left hand side you can see this a template. I can see that it's locked down. And so I'm just going to do what I'm allowed to do, which is replace this image because I did that setting that I'm not allowed to access media.
+
+00:40:45:58 - 00:41:09:36
+不明
+That's not brand media. When I go to replace image, the only options that I see are the brands. And so I can just clip on the brand and swap that in, this is our, in Toronto, our favorite juice, the Berry bliss. Change the text there and then finally swap in the location. We're no longer in Vegas, moving to Toronto and then swapping the address.
+
+00:41:09:40 - 00:41:29:38
+不明
+The very real address. Don't look it up. I don't know where it is. So. And then with that, just a few clicks. I am not a designer, but I customize this great animation and then I can put it out on social media for us. The other thing that I want to show that I often reuse as a store manager two is our, quarterly report.
+
+00:41:29:53 - 00:41:52:32
+不明
+So every quarter we have to create a report. So if I go into my templates I can see a template here. Oh here's a quarterly report template, just like Matt was saying for the Pluto TV presentation. So I can create from that and jump into this template and customize it. So all these I've already started customizing it. Some elements are locked down, but I can put in the city name Toronto.
+
+00:41:52:32 - 00:42:12:57
+不明
+Oh my name. What slide my quarterly report starts on. We have complete charts, graphs and table support. So I can click on here. And as you can see my colleagues are already in here. Live code editing with me. We support live coding from the ground up so we can all create these presentations together. I'm going to say January was like an epic month.
+
+00:42:13:02 - 00:42:30:02
+不明
+I'm going to make that huge because everyone is trying to be healthy in January. I can also adjust the colors again when I go to color. When this template was created, they picked only brand color. So in the color palette I only see my brand approved colors, nothing else. And so I have to choose from there. Awesome.
+
+00:42:30:02 - 00:42:54:57
+不明
+And then I can continue to customize it from there. If I want to add comments, I can as well. So we can comment back and forth to each other. Pinning those comments, having the conversation. It's a completely collaborative place, but we are collaborating amongst our store managers, but still within the confines of the brand and the template that were created with us only using branding fonts, only using brand colors, only using brand assets.
+
+00:42:55:02 - 00:43:20:10
+不明
+So that was a quick summary of the control aspect of how you can ensure that the whole team stays on brand through social media assets that are locked, but then also pitch decks and reports that are locked. But you can also apply this to presentations. What I want to show you quickly is our, scale workflows. So how we're using variations and our AI innovations to help you scale and create on brand.
+
+00:43:20:10 - 00:43:39:47
+不明
+So the first thing here I am back in the designer account. But I could be the designer, but I could also be to someone within the organization, a marketer who has to scale content, ensure it creates all on brand. We have this new, mango magic flavor. It's an Instagram post, but this is a campaign. It's not just one platform.
+
+00:43:39:47 - 00:44:02:35
+不明
+And so I want to hit resize and change this into a landscape mode and duplicate and resize it. And what is happening here is we are using our commercially safe gen AI to expand the image, so that not only are we just resizing the shape, we are creating a new image and filling that shape. Ooh. All right, look at all the options.
+
+00:44:02:35 - 00:44:20:36
+不明
+There's a lot of different shapes of mangoes. I had no idea. But let's take this one. It's great. I'm glad there's so many. And as you can see here, right now, we have our two are two different sizes, completely and smartly resized. Now, the next thing I want to do is I actually want this to be across multiple different languages.
+
+00:44:20:41 - 00:44:43:50
+不明
+So I can go to translate. I can select a few languages. French. Does anyone want to call any out? Any favorite languages? Portuguese. Portuguese. Love it. Perfect. I can add up to there's up to 50 in 50 different languages in here. Hit translate and it's going to take those two pages and then translate them across all those different languages.
+
+00:44:43:50 - 00:45:02:46
+不明
+So you can build out that campaign. And as you can see here we have all those all those different pages. Now I've created all those different pages. And I have a linked asset in here, this coming soon graphic. And I've realized there's just a lot of green. I actually want that to be orange. But there it's on across like ten different slides.
+
+00:45:02:46 - 00:45:31:55
+不明
+What do I do. I can actually go back to illustrator, open up that asset, hit edit, select the background. Let's do this pick. And that orangy brown color. Save that out and then head back to Adobe Express. And already there's a warning that says hey your linked assets are there. Updated it I clicked it almost instantaneous. It's reading that it's going to send it through all the different pages.
+
+00:45:32:00 - 00:45:53:06
+不明
+Let's see, the artwork was selected and then there it is that turned orange. And not only did it turn orange on that page, if I go to my seven pages, it turned orange everywhere you can imagine. If you are creating, how can I hear? I think I heard a client who is. And so as a design team, the rest of your team, your marketers can can be creating content, can be creating those variations.
+
+00:45:53:20 - 00:46:13:06
+不明
+You can update your asset on your end, and they'll always get the latest and it'll always be on brand. I want to show you some more bulk variation workflows that we're working on. And so before I do, I'm going to create a generative image for this new delivery, Instagram post. And we want to ab test and run a bunch of different variations.
+
+00:46:13:10 - 00:46:35:22
+不明
+So let me go to media and generate image, generate a square. Again all commercially safe. I'm going to do green smoothie on table, with palm trees in the background. It's good when you're generating a prompt to have a lot of specificity. I want this to be a photo, see how it looks. It's always a little bit risky.
+
+00:46:35:27 - 00:46:52:45
+不明
+And then I'm going to put it sort of down here in the corner. And this is connecting to Firefly. If you have custom models within your organization this is where your custom model will show up as a drop down to ensure that it meets the needs, that even when you're generating images, it shows up on brand. So there's a few nice different options.
+
+00:46:52:50 - 00:47:12:48
+不明
+I'm going to go with that one. And then now I want to do a test of this post. I'm going to post it across a bunch of different things. So I want to try different headlines. And that's where Bulk Create comes in. I can hit on ball, create, I can upload a CSV. And then with that CSV I can sort of map elements to the CSV.
+
+00:47:12:53 - 00:47:37:58
+不明
+So I'm going to make that the headline. I'm going to make this element an image. And in that CSV I have sort of six different headlines. And just like that, it pulled the headlines from the CSV and then created those six variations in just one click. And then I can click on the image and I can upload and edit those images as well directly from my brand, so I can go over to my brand and pull in the different images.
+
+00:47:37:58 - 00:47:59:54
+不明
+If this was a true test right, I'd want to make sure that there's a control and multiple versions of all of these, but this way you can really quickly create app at scale using these bulk workflows. The last quick wow factor on the, AI innovations that I want to show you is that we have this weekly Instagram post that we put out.
+
+00:48:00:09 - 00:48:18:15
+不明
+It's a template so that design teams can quickly, or marketers can just swap in the content that's relevant to them. Personally, I'm not great at writing copy and so on. This I just wrote try our delicious and healthy lentil burgers, but I can hit rewrite, which creates a magic workflow where you can determine I want to lengthen it.
+
+00:48:18:15 - 00:48:37:02
+不明
+I want it to fill up a few lines. I can pick, you know, the brand voice. What's coming soon is we were actually integrating the same brand voice that's in Gen Studio into this workflow. So you can say, tell us exactly the rules of your brand, the, the voice of your brand. And we are going to leverage that voice here as well.
+
+00:48:37:13 - 00:48:46:15
+不明
+So right now you can pick the personality. And there's a lot of different results in here. Why don't you guys shout out do you want a, B or C.
+
+00:48:46:20 - 00:49:09:20
+不明
+C c indulge in our mouthwatering lentil burgers that are also healthy. Wonderful. And then and then something that's actually very subtle in brand and for that matter, where with this is that a lot of times brands should come through in your photography, right? It's not just what's in the background. And so with this this photo is great, but it's not actually on brand.
+
+00:49:09:25 - 00:49:29:09
+不明
+So if I go over to brand, open up my live wall eatery brand and under apply brand, I can hit Recolor Graphics and apply the brand. And what it's actually going to do is take my brand colors and apply it to this photo. And this is something that's usually very subtle. Wait, can I hear it again? Yeah. Wow.
+
+00:49:29:13 - 00:49:48:27
+不明
+So this is actually very subtle right. But when someone's thumbing through Instagram you're it doesn't have to be your big logo there something it's just a subtle as someone's clothing a cup of coffee that your brand colors just pop up. I could cycle through this and see a lot of different versions, but this is actually pretty neat. The last thing is that there's this like ketchup and mustard.
+
+00:49:48:31 - 00:50:14:25
+不明
+We don't have a relationship with Heinz. I don't really want to put them there. And so I can hit remove object just quickly select hit remove and then that'll that'll go away. And so it's just a few quick tweaks that are incredibly easy. But to ensure that your images look on brand and not just your content. So we're thinking about not only on brand colors, on brand fonts, and then you have a few different options here to click between.
+
+00:50:14:25 - 00:50:33:16
+不明
+I like that one's pretty good. But on brand imagery and that your logos and then coming soon on brand voice. So there's so much there. And we want to actually we can move into questions. But that was a rapid walk through on how Adobe Express can ensure that you do not have to compromise brand integrity across your organization.
+
+00:50:33:16 - 00:50:58:52
+不明
+How it can help ensure that you are on brand, on time through controlled templates. Let's go back to the presentation. Yeah, through controlled templates, through the branding workflows, and then through our generative workflows for scale. I'm sure you always want to know what's coming next. This team talks to users every single day. And we are working so incredibly hard to improve this product.
+
+00:50:58:59 - 00:51:20:10
+不明
+We actually improve the product and make updates every single day. And so some of the big things to call out Customize Home is coming soon, which means that you are going to be able to determine the color of what's on home, the your logo on home, turn off Adobe templates and stock on home and only show your company content and templates very excited about that one.
+
+00:51:20:14 - 00:51:38:06
+不明
+Oh yay clap clap clap. Rapid brand set up is coming in, which means that you can just upload your brand guidelines and we're going to create your brand like that instantaneously. And then finally I'm going to call out our review and approval workflows. So we have native review and approval. But complete work front integration coming soon.
+
+00:51:38:21 - 00:51:58:01
+不明
+So yeah you can do your whole multi-step. Yeah I heard another yay, your whole multi-step approval through through work front. And so much more. There. I know that in other words, right at time I did do a demo of motion graphics, but there's even way more incredible stuff there on the animations front that I didn't get into.
+
+00:51:58:06 - 00:52:15:56
+不明
+So really encourage you to play around with the tool. I hope that you all learned a little bit of day. Maybe you can, you know, move from the I don't know what express is into. I'm interested in learning more about express, but please play around with it. Think about adopting it with your team. And we're always eager to help with trainings and to answer questions.
+
+00:52:15:56 - 00:52:28:24
+不明
+So really appreciate it and enjoy the last day of summit. Safe travels ever. Yeah.
+
+00:52:28:29 - 00:52:29:04
+不明
+You.
+

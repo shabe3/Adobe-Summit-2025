@@ -1,0 +1,204 @@
+00:00:00:37 - 00:00:18:34
+不明
+Thanks, everyone, for taking your busy time out and attending this session. Myself today and Director of Technology from publish recipient. Hi, guys. I'm Sara Narula, senior director, engineering at Marriott International.
+
+00:00:18:39 - 00:00:56:48
+不明
+Today we will take you guys through the journey of Marriott Digital Commerce platform using the Adobe Tool Suite. So what we learned we will we'll talk about the different solution pattern integration pattern, which Marriott has leveraged to successfully build the web commerce platform. Which is which is which is providing cross enablement, enabling the cross platform teams, providing, faster time to market and high performance web application.
+
+00:00:56:52 - 00:01:34:10
+不明
+In today's. And in, in today's travel and hospitality user user journeys are universals. So user starts from like looking for the dream vacation or rooms and then further goes into the booking. And not only up to then when they are staying in the hotel that time, they are touching different touchpoints digitally to make their experience better. But it does not only stop there.
+
+00:01:34:15 - 00:02:13:36
+不明
+It goes beyond post as well. So they share their experiences over the social channels and everything which influence other users, and they go through the same journey. So if you see the journey is a in a loop and what we are seeing, customer expectations are high. So our digital platform need to meet this expectation. As as customer expectations are high.
+
+00:02:13:40 - 00:02:42:09
+不明
+So they are looking for seamless personalized experience and business are getting influenced. And they wanted to capitalize this growth. And they wanted to do in a agile fashion end to end. But so enterprise some their current state of the platform or their current state of the tools, it may not be able to, may not be meeting that expectation.
+
+00:02:42:14 - 00:03:10:18
+不明
+So that's why the enterprises need to do it little differently. They have to take a different approach. And Marriott has done exactly the same. And so that will take you guys through that journey. Thanks for the before before we start and I do a deep dive, I want to just make sure I want to level set, the scale that Marriott has, how many transactions we support.
+
+00:03:10:22 - 00:03:37:46
+不明
+We have huge content repository, around 200 gigs, ten plus million assets that we have in our repository. So as you can see, the the size is huge. We have to support this. We have to continue supporting this and even grow from here. And that's where we started building this new digital platform, to, to enable us to operate at scale and meet the customer demands.
+
+00:03:37:51 - 00:04:09:43
+不明
+So a little bit of history, though, few years ago, we were on, Monolith Architecture, which was good at the time when it was implemented, but does not meet modern customer demands. And the kind of performance that modern customer is looking for. That's where Marriott started looking for options. And we started exploring and that whether EMI can give us that leverage and a faster time to market for content deployment and other, scalability aspects.
+
+00:04:09:48 - 00:04:35:01
+不明
+So we started small, we built it around 85,000 pages, which is we did for our 8500 properties across, and there were ten pages. So we built static pages for all those properties. And that was just English. So we we scaled across all the global languages. That where we started along with that, we did integration with our monolith architecture.
+
+00:04:35:02 - 00:04:59:55
+不明
+We connected em to our old monolith architecture to see how can we gain efficiencies or what can we do with Em and the monolith architecture, what we had, we gained gain from that. We learned how we can deploy faster content faster. We learned how do we how do we use Adobe's cloud manager, to deploy our code in our multi-tenant way where I don't have to deploy everything in one go?
+
+00:05:00:00 - 00:05:31:32
+不明
+I can do product by product deployments. So. So we learned all of that. Now, along with the along with that, we also saw some of the shortcomings. And we started exploring that. We realized that even though we did that, we are still we still haven't unlocked a full potential. We are still trying to put bandages on our monolith architecture with em, which was not giving us the scale that we wanted to operate and, and the agility in which we wanted to deploy.
+
+00:05:31:37 - 00:05:56:35
+不明
+That way we had an option either you continue doing the bandage work and try to make it work with our existing architecture and em, or take a step back, do an overhaul of the design and and do it right from the start so that we can be ready for the future. And we we are able to meet customer demands that that's where we, again, did a whole, all of our, architecture.
+
+00:05:56:40 - 00:06:23:21
+不明
+So again, we took bold step. We didn't want to go back. We wanted to move forward. That's why we did a whole architecture redesign. So if you want to take this so. So as I mentioned, there is there is a point of time when Marriott decided to re-architect it. So I'm definitely it needs a sound engineering pattern.
+
+00:06:23:25 - 00:06:56:07
+不明
+And when we talk about the engineering in the space world, the International Space Station is the pioneer of the engineering. What made what is the key enabler for this international space Station? How it is got built? Anybody? So the space shuttle was the enabler for this space station. So Space shuttle carried all the equipment and astronauts to the space.
+
+00:06:56:20 - 00:07:27:09
+不明
+And they assembled and slowly, progressively built it the similar way our software engineering platform also same just like you build a digital platform, it's need to be seen. So there is three three things you need to notice normally in the engineering world. What what are they the not built that holds international Space Station, the space station into the space rather than they progressively build it.
+
+00:07:27:14 - 00:07:55:12
+不明
+And that is a change in the operation model. And obviously even before building the space station, they built this space spaceship, which is the key enabler for the the. So that is the way we also followed. So in the engineering world, that's why engineering need to influence the operating model. So which can make all the team collaboratively work together.
+
+00:07:55:13 - 00:08:40:05
+不明
+It is not only your and not only your marketers, but also all your partners like a target and analytics including your developers. Also, you need to build a foundation which makes them. It makes it easy for the developers to adopt it. And as we have seen, that International Space Station has built progressively. So the similar way we need to take a progressive approach, you need to build the platform first, then enable your marketers to control the experience, not only the marketing, but also that your commerce experience then followed by you build your commerce journey.
+
+00:08:40:10 - 00:09:10:46
+不明
+Now, once your platform is ready, you can do a rapid innovation just like today. The scientist. Now scientists are going into the space station doing their innovation, and that is coming to our heart and benefiting it. So now if we talk about the foundation which is the enabler. So for building the foundation enterprise need to follow a few key principles.
+
+00:09:10:51 - 00:09:36:47
+不明
+So one of the principle obviously today we want our marketers to enable the, control the experience. So you need to have a right toolset, which is like here. In this case Adobe is the perfect toolset for it. You might be having a toolset and there is a different patterns available. You need to adopt the right pattern for your solution.
+
+00:09:36:52 - 00:10:10:46
+不明
+Like if you want your marketer to control both the experiences static, static and dynamic, which a framework you should choose on if you want it to integrate your Adobe platform, which framework you should choose on, there is a different framework, is there? So your integration pattern need to be seamless, which is decouple and easy to collaborate. The third important thing.
+
+00:10:10:51 - 00:10:39:18
+不明
+We know about we are talking about both marketing experience as well as commerce experience. In the marketing experience, we want our page more eco friendly and that's why server side rendering works better. But whereas in your commerce experience where it's a data getting pulled from the different system, so client side rendering works better, but we know both of the pattern has some pros and cons.
+
+00:10:39:23 - 00:11:09:36
+不明
+Now think about if we can use best of both. And that is what the unified platform it is. And this unified platform can be supported with the isomorphic architecture. Third thing is the scale. The scale. We know digital platform is going and we need to scale it. And scaling it does not mean take your application and deploy it into the cloud.
+
+00:11:09:41 - 00:11:44:24
+不明
+You need to build your application, build your framework which is cloud enabled, like stateless. You need to make your stateless so you can scale your application. Different products or I generally that's another principle and it is nothing new that today your organization follows the platform and product model. But the challenge is how you making it enable making the product team enable to work effectively.
+
+00:11:44:34 - 00:12:09:16
+不明
+How they can collaborate, how they can parallelly develop and provide the faster time to market. That is where the engineering pattern like micro front comes into the picture. So these are the few patterns which Marriott adopted and built their platform. And that is why Saurabh, we are going to take you guys to deep dive. Thanks for the to provide so deep set.
+
+00:12:09:16 - 00:12:31:01
+不明
+Right. So we have we followed few architecture patterns and few principles in order for us to build the whole digital engineering or the digital platform that we wanted, that we wanted to build. We broke it down into different layers, isomorphic. We wanted to enable client side as well as server side rendering for our pages based on the use cases.
+
+00:12:31:06 - 00:12:56:22
+不明
+So we followed isomorphic pattern for that using Nexus. We, we have we we've created micro for intents and considered every product. And for product it's booking journeys, a product, your profile is a product. So we consider those as micro front end. So and we build those micro fronted so that they can independently deploy, without waiting for others to be ready.
+
+00:12:56:27 - 00:13:27:54
+不明
+Performance is a very big factor. And my boss always say if a page is performant or not. So performance is a very big factor. We wanted to make our pages stateless and, and we wanted to cache as well. So we tried adopting cloud native principle rather than doing custom coding. For all of those. Now, in all of this, if we wanted to ensure, our marketeers have the right toolset to enable experiences faster, they can do a B testing and they can do segment segmentation faster.
+
+00:13:28:08 - 00:14:11:25
+不明
+So we worked around that and used event driven data layer model, to, to build those, to build those segmentation, practices. Sorry. So again going deep dive deep dive into cloud native. Right. We broke it down at our web. The whole web platform into different layers. One big piece is and we used, Adobe's Am remote spot, single page application, feature where we are able to dynamically, we are able to do a preview of not even just static pages, but dynamic pages as well, by connecting to back end, where, an author and a marketer gets the real time feedback on how the page looks, and they can work based
+
+00:14:11:25 - 00:14:32:15
+不明
+on that. So we use that. Then comes the presentation framework. We purposefully made sure we, to go to the headless pattern, where our page guide is broken down into smaller components, react components, and we are able to use those as container service and able to ship it or distribute it to other to other platforms as well.
+
+00:14:32:20 - 00:14:52:19
+不明
+So we went on to headless pattern, and in order to enable isomorphic pattern with the headless we, we created a presentation framework which is, which was built on next years, and we were able to do client side as well as server side rendering with next is the third, third important piece which I mentioned micro frontends.
+
+00:14:52:19 - 00:15:13:49
+不明
+Right. So every product we considered as micro for intents and every product, they will have their own template. They will have their own components. And those components can independently render render by using the current but current words browser power. You have components. You you deploy it and then they can render whether it's a static content or dynamic content.
+
+00:15:13:57 - 00:15:29:12
+不明
+Those every react component is responsible for its own rendering. So we we strictly followed this pattern to build our whole web digital presentation. Framework.
+
+00:15:29:16 - 00:15:54:31
+不明
+Another next thing, as I said, performance is is always there. We always keep focusing on performance because in current world a user span or attention span is very, very less. So we want to make sure that when somebody is coming on a page, that person is not losing interest. So performance is a very big consideration for everything that we do in order to, in order to achieve better performance.
+
+00:15:54:36 - 00:16:16:03
+不明
+We wanted to cache our pages at the edge so that it can be rendered faster. And since we are on micro frontend and react headless pattern, all react components can render on their themself, in a stateless fashion. So two things we we we focused on one, how can we make our pages stateless. And second, how do we how do we cache it at the edge.
+
+00:16:16:08 - 00:16:42:55
+不明
+And and we worked on those principles. One important thing that we realized that the current traditional data layer, that you put it on a page, it always blocks the page to render. And that's why we are not able to cache it properly. To overcome that, we use the event driven data layer model, which again comes with SDL Adobe Client Data Layer, where we can attach events to the react component or to the components.
+
+00:16:42:55 - 00:17:07:45
+不明
+And then then those events can be pushed to the data layer. That helped us in May making the page stateless. And we are able to cache it, at the edge, so that when the page loads, every react component gets the data and is always is also ready to push the data at the event, to the data layer that helped us in caching the whole page.
+
+00:17:07:49 - 00:17:34:27
+不明
+Moving, moving to the next word. Right. Marketing. It's very important that we enable marketers to do experience segmentation, to do more experiments on the page so that they can get the right experience for the right consumer, that we keep learning based on the trends, and they have to push experiences, faster without waiting for longer development cycles, before they can deploy anything.
+
+00:17:34:31 - 00:18:05:04
+不明
+So we, we realized that, and we recognize that we need to we need to work on this, and, and one person cannot do everything. So we we broke the broken down into three different parts of organization profile one, marketers who will just define the experiences. Second, merchandizers who will define the rules for those experiences and segments. Third, the data team or the IT team who will collect the data from data layer and analytics and create the right segments so that those can be pushed.
+
+00:18:05:09 - 00:18:32:26
+不明
+With all these three, we were able to push, our marketers are able to push, push the experiences faster. On on a web page, we use a CDL, data layer to push push the data. Then we use target to create rules and segment action. And we are able to push it on on page through target as well. That is what we did to enable our marketers to have that flexibility and agility to push experiences faster.
+
+00:18:32:31 - 00:19:00:56
+不明
+Along with that, we are all we also realized that everything cannot be done at client side, because sometimes the orchestrations are super complex and it takes time to do it. So we also worked on doing segmentation and doing that orchestration at the server side as well. Again, one size does not fit all. So we, we we applied both pattern based on the based on the based on the page or what kind of experience we want to enable.
+
+00:19:01:01 - 00:19:21:46
+不明
+Now we did all of this, and we obviously have to evaluate whatever we are doing, either meeting our benchmarks or what is the what are the benefits that we are getting out of all the work that we have done by built by using a search bar, by using HDL, by by moving over from traditional data layer to HDL event driven.
+
+00:19:21:57 - 00:19:45:55
+不明
+So what what are we getting out of it? So if you can see there, these are the numbers, right? We have onboarded the entire m.com matter.com on this new architecture. We are seeing better performance. From what? From where we were one year ago. Our performance numbers have increased, will become better. Our deployment cycles have grown, have become shorter.
+
+00:19:45:55 - 00:20:11:22
+不明
+We don't. We no longer wait for too long to deploy anything. We have given flexibility to our marketeers as well. Along with this. With this pattern, we are able to enable more channels, not just we are able to enable mobile app as well, to use the same content fragments that we have built for web. Because again, that's why we had GA, we have used container service model for from a collect.
+
+00:20:11:27 - 00:20:41:02
+不明
+Now this is all what that we have achieved and we are continuously working on it. But again technology always is evolving and we keep, keep. We have to keep track with the technology. So we are not stopping. We are doing more work. Since we have enabled our framework now we are focusing on hyper personalization by giving the right experience to the right consumer, by understanding the intent, we are focusing on on that everybody is working on Genio these days.
+
+00:20:41:07 - 00:21:04:44
+不明
+So Marriott is also doing some work. We are focusing on JNI in different fields. We are trying to we are getting content. We are generating more content using JNI. And we are able to build components also using JNI so that we achieve developer efficiency. We also now realize that once our design is created, innovate UX visualizer tool.
+
+00:21:04:55 - 00:21:24:52
+不明
+How do we move that into AMP components faster without having too many developers touching touching it? So that's why migrate has started adopting to a design to code mindset where we, something is created. So let's suppose in Figma and we are able to take it as is, a break it down into tokens and then push it into components.
+
+00:21:24:57 - 00:21:45:43
+不明
+We constantly are looking at ATM upgrades, whether it's service pack upgrades or whether a cloud migration. Does that fit us or not? So we are constantly looking at those upgrades and when whatever is applicable, we are applying those, whether it's through JNI or through to regular updates, so that that's all we are. That's what we are doing.
+
+00:21:45:43 - 00:22:23:25
+不明
+And we did not stop there. And yeah, thanks a lot for giving insightful overview of how Marriott is, how Marriott has built the web commerce platform, powering both the marketing and commerce solution. Now can if you have seen this journey, this journey is not easy. Correct. There is there is some point of time where the enterprise need to take a step back, rather than reinventing or re reworking on the old pattern.
+
+00:22:23:25 - 00:22:48:32
+不明
+You need to come up with the bold decision. Take a bold leap to keep building shifting towards building a more strategic. It's to take a strategic approach to build that digital platform, and this journey will not be easy. It was not sure was easy for showed up. There would be challenges on prioritization. There would be challenges on skills.
+
+00:22:48:32 - 00:23:30:06
+不明
+There would be challenges with the mindset shift because there is a changing the operation model. But if the enterprise need to be stay invested into it and continue to build their digital transformation, continue to work towards their digital transformation journey, because transformation is not one time, it's a continuous process. Thank you. That's all we have any question we should be able to take it.
+
+00:23:30:10 - 00:23:30:46
+不明
+To.
+

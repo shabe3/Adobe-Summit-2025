@@ -1,0 +1,456 @@
+00:00:00:01 - 00:00:20:44
+不明
+Morning. You all survived the bash and you got up early. So like, kudos to all of you. All right. We're going to spend some time this morning talking about, events and meetings and how they can come together, with their larger martech and customer experience journey. I'm Brian Gates, I'm the SVP of industry strategy at Rain Focus.
+
+00:00:20:49 - 00:00:40:57
+不明
+I've been working at our company here, coming up on ten years, which is like an eternity in tech year. I feel like, but it's, awesome company. Awesome opportunity to be spending some time with you. And with that, I'll pass it over to Hannah. Yeah. Hello, everyone. I'm Hannah mackin. I lead the digital architecture team at Red hat and we sit in digital experience.
+
+00:00:41:02 - 00:01:00:46
+不明
+So we're the product owners of Adobe Analytics CJA and Adobe Target. And then we're end users of customer data platform CDP and also Marketo. And I'm so happy to be here. Thank you to my Rain Focus partner for allowing us to share our Red hat story. And we're thrilled to have you, Hannah. My name is Mary Smelt.
+
+00:01:00:46 - 00:01:21:47
+不明
+Sure. I'm one of the group product managers at Rain Focus. I've been with Rain Focus for about three years now. My previous background is in digital analytics. I've been working, as an Adobe partner for, gosh, since about 2016 now. So really delighted to see all of you here today and to share some of the wonderful insights that Red hat I've been able to gain over the last year from their event.
+
+00:01:21:52 - 00:01:41:58
+不明
+Perfect. All right. So we're going to have a little bit of a panel style, conversation here just around kind of Red hat's experience and journey, around using events and using event data in their larger strategy. But I wanted to take a few minutes here and really give a sales pitch around why events to be part of your core marketing strategy.
+
+00:01:42:03 - 00:02:05:31
+不明
+So when we all think of events, I think everybody has a different definition of an event. Is it this event here? Is it summit? Is it a conference? Is it a webinar? Is it a local meeting? Is it a field marketing event? Is it a roundtable? And the short answer is yes. Those are all events. And when you think about organization, especially enterprises, they run thousands and thousands of events throughout the year.
+
+00:02:05:36 - 00:02:26:51
+不明
+And this is just a sample. When you look at enterprise clients, how those events are decomposed and spread across the entire business unit. So some units will understand kind of the events they run in their little, market. You'll have groups that run events on behalf of the other partners, and then you have folks that are also participating in other folks events like you see on the show floor here.
+
+00:02:26:56 - 00:02:51:56
+不明
+All of those are composed of what we call the event marketing channel. And there's a huge opportunity when you tap into this channel and make it part of your customer experience journey. CMAs will spend up to 50% of their entire revenue on events, which is a phenomenal chunk of money going towards event spend. And when you think about what comes from events is the wealth of intentional and engagement you have at home.
+
+00:02:52:01 - 00:03:22:12
+不明
+So we've all been here for a number of days engaging with Adobe, engaging with partners of Adobe, learning about the products and offerings. And you're a captive audience. You're entirely engaged with the Adobe branded Adobe team throughout the entire experience. And when you think about the amount of engagement that is derived, I want to say, and partner that they talked about, folks will spend about eight hours a day consuming content while you've spent the majority of the last 3 or 4 days basically partaking in Adobe's content.
+
+00:03:22:17 - 00:03:44:26
+不明
+So events have a lot of value there when it comes to the data signals and intent signals that you can procure from them. So if you think about this session in general, we all understand who's here. How you participated, the content of this session, which is extremely valuable when you come back to understanding your customers. Events are also unique in terms of how they bring different departments together.
+
+00:03:44:31 - 00:04:09:50
+不明
+The sales team is a heavy, contributor as well as a receiver. Value from events and driver events and events are unique in such a way that they require sales and a lot of ways to be a part of that and marketing tactic. And that's what you need to think about events and bringing marketing and sales together to departments which struggle to communicate, really participate very well in an event, as well as kind of working around their customer.
+
+00:04:09:55 - 00:04:28:44
+不明
+So our premise here and our pitch to you is make sure events are part of your marketing strategy, especially in live or in-person events. They can be tracked with the same precision, as a digital campaign. And there's even more value to be coming from those. So our pitch to you is make sure they're part of your larger customer experience strategy.
+
+00:04:28:49 - 00:04:51:40
+不明
+And when you do that, there is a tremendous amount of impact that can happen to your to your organization as a whole, driving better results through sales, driving better conversion rates, accelerating the sales journey quite considerably. So this is, again, I think, the output of when you incorporate events together. So with that, let's start talking about a little bit about Red hat.
+
+00:04:51:44 - 00:05:21:30
+不明
+And Hana. Red Hat Summit is your marquee event. Maybe we can start with a little introduction around that. Yeah. Of course. So Red Hat Summit is Red hat flagship event. And here are some stats on the slide from our event from 2024. We had 6500 attendees. We had over 500 sessions and over 170 exhibitors. So the foundation for our digital experience for Red Hat Summit has a lot of history, and it really was established in 2020.
+
+00:05:21:44 - 00:05:47:34
+不明
+You all probably remember five years ago, we were forced to take our in-person events and move them to the digital world. And so digital experience had to be a major component of that shift. Five years ago, from in-person to virtual and digital in Red hat was no different. We established the foundation for our post-show digital experience in 2020, and ever since then, over the past five years, we've been iterating on the experience.
+
+00:05:47:45 - 00:06:08:31
+不明
+We've been optimizing it, expanding it across the entire event journey, and most importantly, and why we're all here. We've been evolving as technology evolves. So as you've kind of gone through that journey, you know, we're just what was kind of the first things you went through to help kind of make their transition? Yeah. That's a really great question.
+
+00:06:08:31 - 00:06:34:49
+不明
+And there's a lot on this slide here. So let me kind of walk through our digital experience and where we are today. So in the upper left hand corner you'll see this is our Red Hat Summit event site. This is our primary driver for the preshow activities that we are doing. Really encouraging our registrants to drive to the registration site, which is powered by rain focus to capture that data and register for the event.
+
+00:06:35:04 - 00:06:56:43
+不明
+The tactics we're using right here on the left hand side email promotion, we're using on site personalization plays. We're using paid media. And we'll be talking a lot about how these three and two of them specifically really work together when it comes to each each stage of the journey when it comes to the events journey. So let's start with pre-event, pre-event.
+
+00:06:56:43 - 00:07:22:53
+不明
+Our desired actions is we want them to register for the event and while they're registering for the event, this is similar for Adobe Summit as well. They are self selecting product of interest. They're self-selecting their persona. Are they an end user? Are they a system administrator? Are they decision maker and influencer? We're leveraging this data. This is probably the most important data we're capturing because they're telling us who they are, and we're capturing all of that via rain focus.
+
+00:07:22:58 - 00:07:44:31
+不明
+Then they go to the event and they turn into it. An attendee. They go to sessions like we are at today. They get their badge scanned in the community pavilion. They go to our partner booths. All of that data that we're capturing at the show is also captured via rain focus. And then after the event, we don't want the experience to just stop at Red Hat Summit.
+
+00:07:44:45 - 00:08:07:12
+不明
+We're going to continue this experience. We're going to have a post event nurture experience across multiple different platforms. Our desired actions are we want them to contact sales. We want them to do a product trial. We want them to do product led growth. We want them to do a user start within our products. And we also have red hat TV, which is a primary driver post show.
+
+00:08:07:13 - 00:08:27:38
+不明
+We want them to consume more content, content and then organically find themselves within our overall buyer's journey. And it doesn't stop there. As Brian said, sales is a huge component. We've done all this work together with multiple different teams and the digital experience side, so we need to make sure we're connected with sales. We need to make sure we have sales enablement.
+
+00:08:27:39 - 00:08:50:44
+不明
+We have account prioritization. We have targeted countless. We need to make sure we're taking those into consideration. We have intent and interest tracking. And then of course we have sales for sales. So we really need to make sure that we're connected. When it comes to the marketing side of the house. Within digital experience and at several different teams that are contributing to that experience, and then also sales as well.
+
+00:08:50:49 - 00:09:11:31
+不明
+So, Hannah, listen, there's a lot there. How did you. Obviously a lot of different groups involved. How do you break down some of the silos or where did you start with that? Yeah, that's a good question. So in 2020, we had no choice. It was all hands on deck situation. When we were pulling from the in-person event to the virtual space.
+
+00:09:11:36 - 00:09:36:04
+不明
+So we needed to make sure that the UX had a spot at the table. The events team did marketing technology, and we were all working so quickly as a lot of us in the room, probably where we were kind of making up our own little bubble in our own little area. We didn't have those connections, but over the past five years, we've expanded the people that are at the table, the teams that are at the table, sales is at the table, ABM is at the table.
+
+00:09:36:08 - 00:10:02:37
+不明
+And now we're talking on behalf of other teams. Digital experience can represent marketing, technology, marketing technology is tightly coordinated with events. Events can represent sales and represent lead routing. And seller's sales is tightly connected to ABM. It's not perfect. You know, like we're a large enterprise, we're still going to have silos. But Red hat is an open source company, and a lot of our culture is also open.
+
+00:10:02:38 - 00:10:28:56
+不明
+We're transparent. So when there when there are silos, when there's territories, we talk about them and we address them and we continue to push them. That's great advice as we think through, some of the tips and learnings, maybe early on. Anything you can highlight there? Yeah. So when it comes to learnings, it's collaboration. Internal partners, external partners.
+
+00:10:28:56 - 00:10:55:25
+不明
+We don't do this alone. We have focus as a partner. We have data partners that are here in the room that we work really closely with. So it's really leaning into the partnerships and knowing that you can't do this alone. And then another learning is don't be afraid to fail. Like if you're not going to take the risks needed to move the needle, then you're not going to innovate and you're not going to progress within the digital space.
+
+00:10:55:29 - 00:11:18:25
+不明
+That's now that we've got kind of some tips around the human side of working together. Can you walk through the technology stack kind of what's at play with Brennan? Yeah, of course. So when it comes to our marketing technology, we have a lot more than what's on the screen here. But when it comes to our digital experiences and Red Hat Summit and what we're going to talk about today, we're going to really, you know, narrow in on these five tools that are at the bottom.
+
+00:11:18:30 - 00:11:40:29
+不明
+So first Marketo next week. Next Tuesday is a really big day at Red hat. It is our third and final release for our migration to Marketo. This has been a huge project, a huge program over the past 12 months. We are very excited. We are migrating from a platform that was is a big player in the marketing automation space.
+
+00:11:40:33 - 00:12:02:22
+不明
+We've had it for over a decade, huge project, and we are migrating to Marketo. We have Adobe Target, we've had Adobe Target for years. We have a very, you know, robust implementation for Adobe Target. We have a customer data platform. We have the customer data platform, B2C. And then also B2B. B2C is very robust, mature. B2B is a little bit newer.
+
+00:12:02:27 - 00:12:24:00
+不明
+And then we have Adobe Analytics of course, and that is very mature implementation. We've had it for a while and then CJA, we've had CJA for about 2 to 3 years, and we have really adopted it over the past year when it comes to our omnichannel efforts. And then when it comes to rain focused data, we have rain focused data connectors into CDP.
+
+00:12:24:05 - 00:12:48:09
+不明
+And then we're also working through our Marketo migration. We're working together with Brian and Maria to have the rain focus, connection and integration into Marketo as well. So we can leverage this data to send emails via marketo. We can leverage the data from CDP and other channels like on site personalization through Adobe Target Media. And then of course pipe it into then Adobe Analytics.
+
+00:12:48:14 - 00:13:10:42
+不明
+So then we're able to report out on the performance. There's a lot there. There's a lot. And there's more than just what's on there now. And maybe stepping back from your implementation maybe pass over to Myers, bring you into the conversation here in the lab. What's the ideal architecture, that we would propose there? Yeah. No, that's a great, great question, Brian.
+
+00:13:10:42 - 00:13:44:29
+不明
+So we have a number of integration points with with the Adobe ecosystem. And as Hanna mentioned, a lot of our customers have, you know, traditionally integrated with Marketo. You know, just in the first instance. And I think now building for that future with the Adobe Experience platform and CDP over the last two years, we've also now released our streaming source connector, as well as our data destination connectors to really allow for that bidirectional communication and real time streaming of data, as Hanna mentioned, you know, at the event, this week, you've probably encountered a number of bad scans as you visited booths.
+
+00:13:44:29 - 00:14:08:01
+不明
+Have you attended sessions? Even as you've registered and checked in and picked up your badges? These are all what we call kind of attendee journey moments that can be streamed in real time as experience events in CDP and that really opens up a whole host of use cases downstream within products such as CJA, where you can do analysis of that attendee journey as part of a broader customer journey analysis.
+
+00:14:08:05 - 00:14:26:02
+不明
+You know, effort, in addition to real time activation of that attendee experience with products like how as well as Marketo, on the email marketing front, in addition to the kind of marketing, integrations, we also have, a couple of other integrations with Adobe, specifically Adobe Sign that we released in the last six months.
+
+00:14:26:07 - 00:14:52:30
+不明
+And that's really helpful for more of the kind of administrative functions around an event. Think of, for example, exhibitor contracts, speaker contracts, where within, you know, the attendee portal, we have, speaker portals, exhibitor portals where those can come up effectively as, as, tasks that need to be fulfilled. And so that can also now be really, streamlined and integrated with that, exhibitor experience and, speaker experience as well.
+
+00:14:52:35 - 00:15:19:57
+不明
+So beyond that then as well, once that data is in CDP, I mentioned that has that downstream, application within the Adobe ecosystem, but also beyond through other destinations and other systems outside that data can now be taken advantage of. And really what it's about is kind of, you know, allowing for these in-person, offline experiences to be measured in a similar way to digital online experiences.
+
+00:15:20:02 - 00:15:36:28
+不明
+And that's really what what we're looking to achieve here. So now that we've got kind of the highway built, data is flowing. Why what do I use it for or what what can I do with this data now that I have customer data coming out of the event channel and I'm feeding into the larger ecosystem, what do I do with it?
+
+00:15:36:32 - 00:15:59:43
+不明
+Absolutely. So you know, here we're looking at kind of some of the data flows and really the connection points. But to your point, Brian, let's talk a little bit more about really some real world use cases. So I think it's important to kind of consider the different stages of an event, pre event obviously with registration, you know, driving, you know, registration for that event during event and post event as well.
+
+00:15:59:50 - 00:16:27:32
+不明
+There's a number of use cases that can be explored within those different phases. Pre event. There's the opportunity with the kind of integration landscape that we looked at for, you know, thinking of, you know, in the digital world, we've got things like cart abandonment. We can do something similar within events in terms of registration, abandonment, where maybe you've partially completed your registration and we want to retarget those folks, bring them back in to help close those registrations in addition to campaign acceleration.
+
+00:16:27:32 - 00:16:51:23
+不明
+Maybe you're driving people to certain booths or certain sessions, and you've got a variety of campaigns around that in terms of during event. Then I mentioned, for example, you know, the attendee activations that can be, explored as well as on the operational side, from a sales perspective, lead routing. So as people are visiting booths, exhibitors, you know, you've probably seen those devices that they're holding as they're chatting to you.
+
+00:16:51:28 - 00:17:20:23
+不明
+You know, that information can be streamed back in real time. And then sla's can be built around that in order to take action on those, on those booth visits as well. And then post event, of course, there's nature campaigns that can be explored, as well as more advanced opportunities now with buying groups that we'll be talking a little bit about today as well as and measuring campaign effectiveness, which I think was a a big part of that Red hat's implementation initially as well, bringing this back to, execution of reality.
+
+00:17:20:23 - 00:17:41:58
+不明
+And I would have you take it some of these use cases. And what have you done with Red hat? Yeah, that's a really good question. So as Marcus went over, we have a lot of data at our fingertips. Like too much data. And it's really hard to make sense of it. So the very first thing that we do is we need to make sure we're aligning two business objectives for the use case that we were talking about.
+
+00:17:41:58 - 00:18:07:41
+不明
+And for today it's Red Hat Summit. So we align to the similar event buyer's journey that Morris went over for pre-show. We really want to increase the number of registrants and attendees. And not only do we want to increase the number of registrants, but we want to take a look at how they are registering and look at the performance of our tactics to better inform our efforts for the for future events like Red Hat Summit 2025, which is in two months.
+
+00:18:07:46 - 00:18:30:07
+不明
+And then we have during the show. During the show, we want to understand image sessions like we are today, which sessions our attendees are going to, which boots are going to. We have metadata that is tied to our sessions, tied to our booth, so we're able to then slice and dice a little bit further. Once that data is captured, and then once again use that data to help inform planning for summit 2025.
+
+00:18:30:12 - 00:18:51:26
+不明
+And then post-show, we really want to drive to product trials. We want to increase the number of trials user starts within the product. We want to evaluate the performance of trials. When are they getting to the product trial center? Is it immediately after summit? Is it from our post-show nurture experience? And then what are they doing? After product trials?
+
+00:18:51:26 - 00:19:13:09
+不明
+They start a trial. They activate it. Let's say they successfully finish the trial. And then what happens? We really want to identify that. And then using the data, stitching it together to identify upsell and cross-sell opportunities following the match. So I think we have you are now a year into this. We've already done this for summit 23.
+
+00:19:13:09 - 00:19:37:02
+不明
+You've done some analysis and incorporated some of that into this year's learning. Can you walk us through an example? Yeah. So this is a really exciting example where we are stitching together data from two parts of the journey pre-show and then during the show. So this is an example. Outputs of findings I'll talk a little bit, in in a little bit about our overall process for CJA.
+
+00:19:37:17 - 00:20:05:29
+不明
+But this is the last step of the process, is developing a stakeholder facing document that really makes sense of all the data that we have within CGA. So this chart right here shows which sessions are attended by those that selected self-selected during registration. The product of interest of row rallies is our flagship product, Red Hat Enterprise Linux, and 63% of those that self-selected Rhel we're attending Ansible sessions.
+
+00:20:05:29 - 00:20:30:59
+不明
+Ansible is a completely different product around automation, and then almost another 63% of those that chose RL as a product of interest were attending OpenShift sessions. OpenShift is an application development platform, a completely different platform from Rhel in Ansible. So as an action, we want to continue our expansion plays and target these attendees and also continue to layer on other data that we have in our database.
+
+00:20:30:59 - 00:20:55:05
+不明
+Like are they a customer of Ansible? Do we need to show relationships between rolling and small? Are they not a customer of Ansible or OpenShift? And it's a cross-sell opportunity for Rhel into those other products. And so we're really using the data from pre-show that we're gathering via registration with what they're doing at the show, and then combining that with data we already have at our fingertips in our database.
+
+00:20:55:10 - 00:21:11:29
+不明
+I love this line. I think it's, you know, human nature. How many sessions did we sign up for where we're trying to expand kind of our knowledge? And this is, I think, a great example, what happens when folks come to events and they're presented with a lot of opportunities to learn about new products, new offerings, the take advantage of it.
+
+00:21:11:34 - 00:21:29:37
+不明
+And that's, fantastic. Mine is there. My it's me switching over to you here. You there's a lot going on. Where where do I start? Where what's kind of the crawl walk run version is? I love the other day they added some of that added fly to the end of that, and I need to incorporate this crawl, walk run fly.
+
+00:21:29:41 - 00:21:51:19
+不明
+Yes. Or know can you walk us through kind of where you start. Yeah, absolutely. And I you know, I think, you know, Hannah touched on it there really with the broad set of data points that are available. And I think the way that Red hat approached it was, was really great in terms of identifying, you know, a key set of use cases initially to target and then start to kind of wrap the data points around that within the event space.
+
+00:21:51:19 - 00:22:12:28
+不明
+You know, there's a number of different, activation points in terms of, you know, the web pages that you're visiting, registration attendee catalogs. But in addition to that, those attendee journey moments that I mentioned, you know, we have about 30 or different, signals that can be pushed out and they can then also be furnished with, you know, a multitude of metadata or attributes and range focus.
+
+00:22:12:28 - 00:22:41:17
+不明
+So that could be, you know, campaign codes or session titles, room numbers, product taxonomies, really anything that can be helped to kind of stitch that data together downstream. So I think as you, you know, approach this initially, what we often do with customers is really kind of zero in initially on some key use cases or potentially even some smaller scale events, what we call kind of tier two or tier three events, you know, where maybe there's you know, a more kind of, smaller set of users or more identifiable set of data points.
+
+00:22:41:22 - 00:22:57:55
+不明
+Or also we have customers who kind of in their tier one flagship event, kind of zero in on, on a few smaller use cases and then taking an iterative approach as you work through your event portfolio and start to scale that up. One of the great things, with us is that we have a global attendee profile.
+
+00:22:57:55 - 00:23:15:34
+不明
+So, you know, as folks are attending different events, that's all kind of streaming into a single profile. So we're not, you know, dealing with different data points. We can furnish that customer data profile in Adobe with all those different touch points at different events. So you're not, you know, having to do this, one event at a time.
+
+00:23:15:43 - 00:23:37:24
+不明
+You can start to kind of multiplex that as well as you scale up your events. A lot that can I maybe going back to you I would we've started big we've kind of talked about the larger picture outward dapper summit. I think you have kind of a framework that you've employed there to help kind of capture some of the business objectives and maybe walk through this slide for us.
+
+00:23:37:24 - 00:23:58:10
+不明
+And you know how this helps. Yeah. Of course. So we have our digital experiences. We're capturing all this data. Now what where do we go from here when it comes to measuring performance. So for customer journey analytics we developed now that we have a few use cases, we've developed a four step process to really formalize what we're doing in this space.
+
+00:23:58:15 - 00:24:23:01
+不明
+The very first step of the process is identifying the business objectives. We want to make sure that we are aligning our performance to business objectives, so then we can action on it. So we work cross-functionally internally, and with our partners to identify what our business objectives are aligning to our digital strategy, aligning to events in this situation, aligning to all of those people that had a seat at the table.
+
+00:24:23:05 - 00:25:06:14
+不明
+The outcome is a project brief. And then we've begin a sheet for our data story. We begin documenting the business objectives, and then we begin identifying data points that are aligned to those business objectives. The second part of the overall process is operationalizing and validating the data in a. Yep. We work with our data partner. They're here in the room, and we work also with internal partners to be able really working cross-functionally to be able to, ingest this data into seed, into CJA and then be able to start stitching together the data and then leading us to the next step of the process, which is the workspace creation, using that data that we
+
+00:25:06:14 - 00:25:29:31
+不明
+ingested, using the data that we stitched together. And then start creating the visualizations within CJA and aligning all of this that we're doing in CJA to the business objectives that we define in the first step of the process. Lastly, it doesn't stop there. We don't distribute widely our CJ workspace because there's a lot of data in there, and it's really hard to make sense of it.
+
+00:25:29:36 - 00:25:51:59
+不明
+So we create a stakeholder facing document and it's usually a deck. And it's broken out by the business requirements that we gathered in the first step of the process. And that is where we create slides like the one you saw previously. And then we'll go through a couple other examples so that we can identify concrete actions to use the data that we are seeing when we're sitting together in this situation.
+
+00:25:51:59 - 00:26:12:03
+不明
+The data from the event buyer's journey, I think that's there's a great tip in there of not necessarily providing the entire dashboard, but decomposing that into the actionable slide of what you should focus on. And I love that as a tip. But stepping back, I think we have some examples of what that dashboard looked like. And you can walk us through those.
+
+00:26:12:03 - 00:26:31:06
+不明
+Yeah. Let's just see if I can get the video to player. Yeah, we have a fancy video here. So, just a lay of the land. This is our CGA workspace for Red Hat Summit 2024. It's it aligns the way that we've outlined it in CGA aligns to our business objectives. So we have a pre-show section with all of the data and graphs.
+
+00:26:31:06 - 00:26:50:20
+不明
+For the pre-show data we're bringing in, we have a during the show section. So what sessions are they attending? Todd Sessions, who's attending them? How are they tagged in our metadata? And then we have a post-event section as well. And then I think we've got a couple more as well. So really narrowing in on a couple of these visualizations.
+
+00:26:50:20 - 00:27:13:21
+不明
+This one right here is for pre show. And it's for on site personalization place. We have four different audiences for on site personalization plays. And this right here is a timeline of when registrants registered via those specific on site personalization plays. The teal line at the top is our default audience. And you'll see we had our biggest spike five weeks before Red hat Summit last week.
+
+00:27:13:26 - 00:27:37:01
+不明
+So we know to use this data to help inform summit 2025 experiences and preshow on site personalization promotions. And then yeah, and the next time at a point on that some we see it as well, from our benchmarking data, looking at our customers, that six week mark is now kind of the peak in registrations for, for conferences.
+
+00:27:37:06 - 00:27:53:39
+不明
+So those of that are looking at your event data and say Hannah falls right in line with that with Red Hat Summit, but other major events and you think kind of the long tail registration there, that 5 to 6 week mark is where that peak of registrations happens. Yeah, I love that. So this right here is an example.
+
+00:27:53:39 - 00:28:13:30
+不明
+Another example from pre-show. And this is where we're stitching together data from on site personalization promotions and email nurture promotions. We created this Venn diagram on the left hand side. The bigger bubble is going to be our on site personalization plays on the right hand side. This is our email promotions. And right in the middle you can see what the overlap is.
+
+00:28:13:35 - 00:28:36:34
+不明
+This was this slide. Right here is our money slide from our CJ's case. Last year we found out from this data that registrants that fit in the middle, they received both on site personalization promotion and an email promotion. We're eight times more likely to register for Red Hat Summit. Last year at the omnichannel, right? Yeah, I love that.
+
+00:28:36:39 - 00:28:53:00
+不明
+So there's a lot of work obviously went into getting these dashboards together and maybe again, stepping back a little bit, what are some of the key learnings things to watch out for maybe as we embark on this journey. And I'll kind of we'll start with Hannah on this, and then we go to Marcus as well. Yeah. Sorry.
+
+00:28:53:05 - 00:29:12:24
+不明
+No. Good. Before we get into that, I have one more example for our findings. So this is an example that we we include in that stakeholder facing documentation that we put together. This is a similar example to the last one for pre show. But it's for post show. On the left hand side of the screen you see those that were included in our post show email nurture efforts.
+
+00:29:12:39 - 00:29:38:57
+不明
+On the right hand side. You see those that were included in our post event on site personalization. Place those that fit in the middle that received both. They were 40. The unique open rates for email nurture. The average rate was 40% compared to 21% if they just received email nurture post show. Following up with that Red hat TV is a huge CTA within our post show experience.
+
+00:29:38:57 - 00:30:02:47
+不明
+To continue that Red Hat Summit experience completion rates were almost 13% higher for those that received both experiences and then product trials. We've been talking a lot about product trials. That is a desired action for the post show. Experian product trial success rate was at 53% for those that experience, both compared to a 30% product trial completion rate.
+
+00:30:02:47 - 00:30:24:01
+不明
+If you received just a standalone experience. So we want to action on that. That's a lot of data. How do we use it? Well, we evolve with our technology and now that we are on Marketo, we're able to share audiences from CDP into Marketo. So we have more parity between email and on site personalization, and we're able to do more now.
+
+00:30:24:02 - 00:30:49:02
+不明
+Love that. Round two on my question were some of the key challenges ahead or we'll try. Yeah, yeah. So yeah, there's definitely been challenges. The first one is, a challenge that we experienced for summit 2023 data validation. So we have a lot of data that is coming in CJA, and we're piecing it together. We're excluding certain things like Red hat employees.
+
+00:30:49:02 - 00:31:07:35
+不明
+And, one of the biggest challenges is taking a look at what we derive in CJA and then comparing it to native platforms. It's going to be different. But what is that margin of error and how do you make sense of it? This is something that, we really had challenged for Red Hat Summit 2023, and it was really a blocker for us.
+
+00:31:07:35 - 00:31:30:28
+不明
+So we're able to overcome that for our use case last year for 2024, and we were able to bring in other people and had them have a seat at the table and they can look in our native platforms, they can validate the data that we're seeing. They can make sense of it. Like if we're excluding Red hat employees from the data, that's coming in to CJA or from the native platform, the next one is data ingestion.
+
+00:31:30:28 - 00:32:02:54
+不明
+This is, a newer, challenge that we're overcoming. And we have a solution together with our data partner is data ingestion for Marketo is going into our B2B sandbox. We then just gestion for web is going into our B2C sandbox. So we needed our data partner has come up with a solution to be able to create a data lake, to have those data sets be stitched together and then ingested into CJA to overcome the challenge of the two different sandboxes.
+
+00:32:02:59 - 00:32:29:45
+不明
+And then lastly, actionable insights, lots of data we've been talking about. We want to make sure that we are using this data. And that's something over the past two years, it's been an evolution. We've been learning through the two other challenges. And now, we're really starting to connect more with digital strategy to be able to identify actions and opportunities to use the data in the events team, to use the data to help inform future events.
+
+00:32:29:50 - 00:32:55:12
+不明
+Perfect. And then last, maybe from an event technology, viewpoint, what are some of the key challenges to look out for? Yeah, absolutely. So I think, you know, upstream of the really, you know, the the realization of that data in CJA at the implementation level, it's really critical to align on those data schemas, identify those attributes in the events platform and ensure that the schemas are in place in AP to accommodate those data points.
+
+00:32:55:17 - 00:33:24:30
+不明
+And oftentimes there'll be data changes. Right. As we get closer to an event, there may be attributes or data points that need to be added to that. So being able to have a good strategy in place to be able to implement those changes and deploy those changes is really critical to, to the success of this. And in addition to that, when you have those data changes, do you have the mechanisms in place to be able to backfill and stream that data, to be able to ensure that that data integrity is there in AP?
+
+00:33:24:30 - 00:33:54:42
+不明
+So having the tools available to kind of see that data initially, as well as kind of retransmit those data is really critical, to the, to the success. And I think one thing to call out as well, in addition to this, that I wanted to mention a little earlier, is really that alignment of the different teams. I think that's a thing that we're touching on is kind of really making sure, you know, the different partners within the organization as well as outside of the organization are really kind of coming together and aligning, in order to kind of achieve, all of these outcomes, I think, is critical to the success of all of
+
+00:33:54:42 - 00:34:14:05
+不明
+these points that we're highlighting here. Absolutely. And and I think it's been a and the Red hat team have been a great example of that. You know, looking ahead at some of the again, further learnings you've had and maybe kind of summarize what happened in 24 and some of the impacts there. Yeah. So of course we have challenges.
+
+00:34:14:05 - 00:34:36:38
+不明
+Not everything is perfect like we just talked about. But we do want to celebrate our success that we've seen from summit 2024 last year. So first is just precision marketing through the connector from Brain Focus in the CDP, we're able to have more precise audiences and be able to really segment down further based on the data that's coming in via green focus.
+
+00:34:36:42 - 00:35:04:04
+不明
+And with that, our omni channel efforts have increased engagement over 20% year over year. We've also created over 200 segmentation building blocks in CDP, and this is enabling us to deliver more precise audiences and experiences via on site personalization. And now that we have that connector into Marketo, we're able to mimic that for what we're doing for email as well, and delivering personalized, journeys.
+
+00:35:04:04 - 00:35:42:14
+不明
+This has saved us 12 to 24 hours to deliver a personalized journey. Now that we have that data coming in from Brain Focus into CDP, we're able to activate the Adobe Target a lot quicker and because of that, 34% of our registrations came from those on site. Personalization plays the Adobe target. Lastly, I already mentioned this one because it's our moment, but we realized through, our CJA use case for Red Hat Summit that registrants that received both that onsite personalized personalization play and email promotion were eight times more likely to register for Red Hat Summit.
+
+00:35:42:19 - 00:36:01:30
+不明
+These are fantastic results, but I love the time. More likely, I love the 20% increase in engagement, just the amount of time and effort getting folks to the right content, the right experience. That's phenomenal. Yeah. As we step back, maybe from just the use case around a user conference and Maurice, maybe kick this over to you a little bit.
+
+00:36:01:35 - 00:36:22:24
+不明
+There's plenty more events out there. We started with the conversation around how events are broadly used across the organization to engage audiences and drive attendance at these things. Can we can we talk a little bit more about some other smaller use cases that are more prevalent across organizations? Yeah, absolutely. You know, obviously kind of Adobe Summit, Red hat Summit, tier one flagpole events.
+
+00:36:22:24 - 00:36:49:35
+不明
+But there are, you know, a whole host of, different events and shapes and sizes to consider. So wanted to kind of talk a little bit about two in particular here, a webinar on a field event, and specifically the different types of intent signals that may be present within those events that should be considered for ingestion. As we think about that move towards kind of buying groups and that kind of move towards journeys as well, how can we think about, those different events and the different touchpoints that exist?
+
+00:36:49:40 - 00:37:11:45
+不明
+So here, for example, with the webinar, you know, it's kind of early stage folks might be, you know, interested in learning more about your product, registering for that webinar, attending the webinar, potentially submitting some survey results as well, are all great indicators of intent that can be, leveraged within the Adobe platform, either in terms of, you know, just, customer journey measurement.
+
+00:37:11:54 - 00:37:47:02
+不明
+But also now as we think about buying groups, actually layering in those intent signals to start to furnish that, buying group intelligence as well. So with webinars, obviously there's very few touchpoints. And as we scale up towards kind of an Adobe Summit, this kind of chart starts to get ever bigger. So this is kind of a great way of starting to identify, based on the events that you're running, what type of intent signals may exist, what type of signals there are that you'll want to kind of capture and really help with that kind of planning and strategy strategy ization that Hannah was sharing earlier, that they've been able to do a Red hat in
+
+00:37:47:02 - 00:38:04:26
+不明
+the field event has a little broader in terms of opportunities there as well. Yeah, exactly. And I think what's great about this example is now, you know, with a field event, one of the one of the other crucial aspects of an event is not just the sessions and turning up to the show and visiting exhibitors, but also the meetings, right.
+
+00:38:04:26 - 00:38:27:01
+不明
+Meeting experts, meeting with executives. In a B2B context, there's a lot of business that gets done effectively within those events. And so as we're thinking about how to measure the ROI effectiveness of your events, understanding those key kind of conversion points within the event is really critical to kind of looping that back in and being able to measure that effectiveness of the event.
+
+00:38:27:15 - 00:38:54:32
+不明
+So as we think about meetings, that kind of starts to take us further down that journey towards consideration and potentially purchase as well as maybe, you know, opportunities are getting closed. There's, you know, significant pipeline impact there. And that's really critical to measure that as well, to be able to demonstrate not just from an event perspective, but also from a, you know, pipeline impacts and, you know, deals that are deals that are getting closed effectively here may be throwing it back to you.
+
+00:38:54:32 - 00:39:12:48
+不明
+I know you're planning to scale out, I think what you've done for summit. So maybe share some of the plans. Yeah. Yeah of course. So as the technology event technology and Adobe expands we want to expand with it. So first scaling the events with Rain Focus. We've had a lot of success with Red Hat Summit. Over the years.
+
+00:39:12:48 - 00:39:41:22
+不明
+And we really want to scale our events to more regional, our smaller Summit Connect events. It's really important that we support our regional partners and this is an opportunity for us to do what's working well at a larger scale and really break it down more at a smaller scale within region. Second, talked about this a lot. Omni channel capabilities, really making sure that we continue to expand and use Adobe technology so that we continue to have more parity in the experiences that we're doing.
+
+00:39:41:27 - 00:40:14:39
+不明
+And then lastly, evolve as our technology evolves, we want to continue to expand, continue, and continue to adopt the technology that we talked about today. But then there's also newer technology that we want to explore, like agile. So how can we continue to expand the technology that we talked about today, but then also start to incorporate the new technology and continue to evolve as, Adobe and Rain focus should, evolve I that and Mars maybe kicking it back to you speaking more on agile and what to expect there.
+
+00:40:14:39 - 00:40:36:15
+不明
+What's next. Yeah, absolutely. Thanks, Brian. So I think, you know we've touched on a few really key themes here. I think in today's session around, you know, thinking about attendee journeys, thinking about customer journeys. And, you know, we've touched on buying groups as well. One of the, one of the exciting developments, we spoke a little bit about the intent signals, that rain focus is able to capture.
+
+00:40:36:15 - 00:41:01:04
+不明
+And when we think about buying groups within, how in order to kind of seed, the understanding of buying group engagement, it's really critical to have a number of intent signals, both online and offline. So as we think about those events, signals coming in, there is now an opportunity to really kind of automate that event outreach. So as we think about B2B events driving audience acquisition and, you know, traditionally that's been kind of a manual process.
+
+00:41:01:04 - 00:41:24:30
+不明
+You'll have kind of the field identify that customers and accounts drive those nominations for that event. Some of that may be data informed, but thinking towards a future where we can really kind of drive that intelligence and really inform the field with understanding how the buying group to that currently engaged with, is, looking at their events in terms of registrations, etc..
+
+00:41:24:35 - 00:41:53:13
+不明
+So from this now we can start to kind of, really kind of more intelligently help inform the sales team what buying group members, what accounts need to be invited based on pipeline stage, as well as interest and intent. So let's consider an executive event. And marketers are reviewing, you know, the buying group engagement summaries from how we've got that data from, previous events as well as the pre-event data coming in, we can start to identify, hey, who hasn't been registered?
+
+00:41:53:18 - 00:42:19:53
+不明
+What sessions do we want to drive those folks to? So there's also functionality beyond just driving registration, such as providing personalized agendas, providing personalized outreach, and even special interest activities. I'm sure some of you have potentially, attended some happy hours or events, kind of ancillary events outside of summit as well. And these are all great opportunities to help kind of, drive, you know, that that pipeline impact.
+
+00:42:20:07 - 00:42:45:53
+不明
+And ultimately, that's what, you know, all of this is really around is, is driving driving that business impact. You know, that additional technology, adoption, as well. So as we think further down that kind of journey, then, of those buying group members, you know, automatically, being able to identify those individuals, provide those nominations, those personalized messages, but also considering that kind of human in the loop interaction as well.
+
+00:42:45:53 - 00:43:19:36
+不明
+We don't want to fully automate this. We, you know, sales teams will want to have that really personal touch as well. They want to add their messaging to that as well. And be able to, you know, help drive those folks to the event. So really, what what we're getting at here is an opportunity to, you know, based on those event interactions, really help kind of, you know, drive that pipeline impact, through more intelligent kind of data gathering and then really kind of closing that loop, not just getting the data from events and feeding that into understand the impacts of the event itself, but also then using that data to help
+
+00:43:19:36 - 00:43:45:50
+不明
+drive and inform future field marketing events, that folks can be, routed to based on again, pipeline stage and opportunities, present as well. Pretty exciting future, I think getting to the point where events are being orchestrated as part of the overall customer journey, you know, as we kind of close out, the end of our session here, I do want to take a second, maybe to sum up, hopefully, some of the key learnings that Marius and Hanna have shared today.
+
+00:43:45:50 - 00:44:16:57
+不明
+And then we'll, gladly open this up to questions as well. I think the thing we want to try to help communicate here is events are a critical stop in the customer journey, and there's multiple stops at events throughout that journey. So ensuring that that part of the journey is part of the overall journey, that happens across the customer experience where you're working through your, email marketing or social marketing and various other touchpoints and including the sales organization events are that bridge to bring sales and marketing together around your customer.
+
+00:44:17:02 - 00:44:34:54
+不明
+Thank you again, Hanna, for sharing all the wonderful insights for, from Red hat and the tremendous success you've had. And Marios were also, being the practitioner side of things here and showing us how the world can be evolved. But if you have any questions, feel free to step up to the microphones, or yell out and I'll do my best to repeat them and we'll see how we can answer.
+
+00:44:34:54 - 00:44:41:38
+不明
+Yes, yes, thank you.
+
+00:44:41:43 - 00:44:42:18
+不明
+For.
+

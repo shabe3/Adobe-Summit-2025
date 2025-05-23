@@ -1,0 +1,176 @@
+00:00:01:24 - 00:00:36:00
+不明
+Hello and welcome to this virtual session hosted by Adobe Commerce and Meta. Thank you for joining us for Adobe Summit 2025. My name is Streeter Jayakumar. I'm a principal product manager here at totally focused on our partner ecosystems. I'm here with Paul Kang, technical lead manager. That meta, an important partner in our Adobe commerce ecosystem. Today we will cover a few topics related to our joint solution, as well as industry trends that are driving the need for what Adobe Commerce and Meta can provide.
+
+00:00:36:05 - 00:01:12:38
+不明
+As the commerce landscape evolves, we see the future of digital commerce lies in dynamically personalized experiences that feel highly relevant to your shoppers. Personalization not only makes your customers happier, but consumers spend more. When brands deliver on personalized commerce. Fundamentally, personalization has become the default standard for engagement, and we want to help you achieve that vision. And at the end of the day, creating personalized commerce experiences can create massive positive impacts for your business.
+
+00:01:12:43 - 00:01:42:47
+不明
+A study led by Enciso shows up to ten times improvements in conversion rates, eight times improvements in revenue per visitor, and nine times improvements in average order value when moving from either static experiences or very basic personalization to advanced one on one personalization capabilities. At the same time, we understand the pain to get to great digital commerce experiences.
+
+00:01:42:52 - 00:02:17:46
+不明
+Complex legacy tech environments span multiple platforms, and they block innovation. Teams are operating with limited resources and manual processes. Data is doubling, but the quality doesn't always match quantity. And on top of all that, customers are looking for better and better experiences. So what does that mean for you? It means that you need a more agile, flexible, adaptable platform that also empowers your team to move fast, make decisions, and keep driving business results.
+
+00:02:17:51 - 00:02:46:36
+不明
+The joint solution from Adobe Commerce and Meta can help you address these challenges and deliver the personal experience your customers want. Adobe Commerce offers a flexible and scalable solution for uniquely personalized experiences. Let's take a look at this part of the joint solution. First. So our autonomy, commerce, our platform capabilities are highly coupled with our messaging. Firstly, we are experience led.
+
+00:02:46:40 - 00:03:22:16
+不明
+This means that we empower marketers and merchandizers to create exceptional commerce experiences. And we do that by providing AI powered tools and built in personalization out-of-the-box. Second, as a technology enabled platform, we combine high levels of flexibility and customizability with simplicity rather than just providing a bunch of APIs. We provide API orchestration that allows for a simpler, unified developer experience.
+
+00:03:22:21 - 00:03:57:43
+不明
+We also provide low code serverless extensibility so developers can build integrations and customization and swap out services without modifying the core code. And lastly, we are data power. We automatically capture all of the valuable, high intent, first party commerce data, and without a whole bunch of manual work, save that data for activation across our customers. MarTech stacks. Adobe Commerce uniquely allows you to create exceptional commerce experiences.
+
+00:03:57:48 - 00:04:31:14
+不明
+And here's how we have developed built in AI powered merchandizing tools, including live search, product recommendations and intelligent category merchandizing, all powered by Adobe Sensei. That means that when customers come to your site, they can quickly and easily find the products that are most relevant to them. And our customers see a 25% lift in ROI from product recommendations and 15% lift in conversion rates from Live search.
+
+00:04:31:19 - 00:05:03:09
+不明
+We also enable you to create and manage segments either within Adobe Commerce or through our native integration to Adobe Real Time CDP. You can then launch segment specific dynamic content blocks or promotions across your site. We allow for easy regionalization of payments, languages, fulfillment options so that you can grow your business easily and expand across channels with limited work involved.
+
+00:05:03:14 - 00:05:39:04
+不明
+And of course, we empower selling across B2B and B2C, B2B to see subscriptions, marketplaces and more. All from a single platform, meaning that you don't experience a whole lot of added complexity of having more a new modules or add ons to handle those capabilities. Adobe Commerce also allows you to seamlessly share data across your martech stack, which means you can eliminate data silos and actually put all that great customer data to work.
+
+00:05:39:09 - 00:06:18:45
+不明
+Here we start with our approach to data collection. Adobe Commerce automatically tags your site to collect storefront events and retrieve back office events like order History data. You can activate your data across Adobe Experience Cloud products with real time data sharing via Adobe Experience Platform, and you can share over 700 back office events with rich order detail to third party solutions such as ERP, CRM, bins and others using Adobe Developer App Builder.
+
+00:06:18:50 - 00:06:52:54
+不明
+With our unique real time data sharing capabilities, we have seen customers reducing their integrations cost by 98%. By eliminating all of those individual point to point integrations. And this is all done through a one time UI only setup that requires no coding to get data flowing. And with that, I would hand it over to Paul to cover the meta solutions and more about what a joint solution offers.
+
+00:06:52:58 - 00:07:19:18
+不明
+Thanks, Shridhar. Let me start by briefly going over some of the products that meta has that help our advertisers optimize their return on ad spend. As we all know, the landscape for performance marketing is constantly changing. Household income is shrinking, inflation is growing, and the ad ecosystem is evolving with new government policies, new target cohorts, and new platforms as well as new technologies that are shaking up the field.
+
+00:07:19:22 - 00:07:36:15
+不明
+We view this as a competitive opportunity for nimble advertisers to adopt new technologies to increase their focus on true value, optimizing their return on ad spend. As marketing budgets are coming more and more under the microscope.
+
+00:07:36:19 - 00:08:07:59
+不明
+As a result, we're continuing to invest in and build AI powered ad products and tools that address your performance needs. Meta is uniquely suited for this role because people are discovering products and purchasing across meta technologies more than they are on other platforms. So in a recent study conducted by Kantar, Meta Technologies played a leading role in discovery about 61% more than for other platforms.
+
+00:08:08:04 - 00:08:27:09
+不明
+Meta isn't just creating demand via product discovery, either. We're helping convert it. In the same study, 49% of buyers saw product on meta, which they purchased, while 56% said they saw an ad on meta that later drove consideration for that product. On a different surface.
+
+00:08:27:14 - 00:08:42:22
+不明
+As you can see, Meadow's in the business of growing business. A study conducted by UC Berkeley found that every dollar spent on ads with meta drives on average $3.31 in revenue, which is pretty significant.
+
+00:08:42:27 - 00:09:19:39
+不明
+To help facilitate this process of turning ad spend into ad revenue. We've announced Meta Advantage, which is our AI powered suite of automation ad products. The goal is to help sellers and advertisers to automate their entire campaign setup across audience selection, creative selection, destination automation, placement automation, and budget optimization. Although we allow your marketing teams to manage any of these levers manually as needed, the goal is to help connect businesses with the right audience, at the right time, in the right place.
+
+00:09:19:44 - 00:09:46:14
+不明
+So let's start by exploring Advantage Plus shopping campaigns. These are an end to end automated portfolio solution for performance marketers. They allow you to create a single campaign for all performance objectives, and allows meta to automate the process across audience. Creative budget optimization, and destination to effectively deliver the right ads to the right people.
+
+00:09:46:19 - 00:10:12:58
+不明
+Some of the advantages here are. Better performance. On average, we see a 17% reduction in cost per action and a 32% increase in return on ad spend. It's also more efficient by relying on our machine learning models, which optimize creative for the right people, delivering relevant and high performing variations on your creative that will appear, that will appeal to our users unique interests.
+
+00:10:13:03 - 00:10:52:35
+不明
+It also allows you greater scale advantage. Plus, shopping campaigns cast a wider net so you can connect your brand with more people who are likely to be interested in your goods and services. Second, we have Advantage Plus catalog ads, so these are personalized ads that are automatically customized with the right products for the right users. You can think of them as simply an uploaded catalog to meta with high quality media information, text and copy that are then transformed using our machine learning models to relevant ads to interested shoppers in our ecosystem.
+
+00:10:52:35 - 00:10:57:45
+不明
+With no further effort from your teams.
+
+00:10:57:50 - 00:11:20:37
+不明
+So some of the advantages here are that they allow you to promote your entire catalog to interested shoppers with fairly low effort. We can improve performance because we are now using our machine learning models to serve your products to the most high performing cohort of customers, and we can also provide a level of personalization to the ads that your team might not have been able to.
+
+00:11:20:38 - 00:11:44:26
+不明
+Because we know where our users are spending the most of their time and which products are most aligned with their interests. Finally, the efficiencies of this product allow your sales teams to focus on higher level strategy as they no longer need to be engaged in the process of trying to figure out which SKUs are most suitable for which target cohorts.
+
+00:11:44:31 - 00:12:11:53
+不明
+Finally, we have shops ads. Shops ads are a feature that can help you maximize your business outcomes. Machine learning will send customers to the destination where we think they're most likely to convert, which is either your website or your Instagram or Facebook shop. On average, this product leads to a 20% improvement in CPA and a 20% improvement in Roas.
+
+00:12:11:58 - 00:12:35:58
+不明
+So shops Ads has several advantages. It can drive sales and improve ad performance by reducing friction and personalizing the end to end shopping experience across our family of apps. This means that buyers who are more likely to check out on Instagram will be shown a checkout experience facilitated by Instagram. Buyers more likely to check out on a website will be taken directly to your website to check out their instead.
+
+00:12:36:03 - 00:12:51:15
+不明
+This is a simple solution, and it's built on some tried and true solutions in meta website ads, which have been around for some time, and our Instagram and Facebook shops organic product, which has been around at this point for 3 or 4 years.
+
+00:12:51:19 - 00:13:21:47
+不明
+Finally, we have the conversions API, which is the foundation or the bedrock of all of these features. This is a meta business tool that creates a direct connection between your marketing data and meta. Think of this as a way to allow meta insight into which ads behaviors, which creative copy have actually driven conversions on your website. Which in turn allows us to drive even better recommendations and customizations for your buyers.
+
+00:13:21:52 - 00:13:51:48
+不明
+So to recap. Meta and Adobe have been partnering on products that help deliver high performing, personalized marketing campaigns across all of our technologies. With a suite of integrated tools from Adobe that help you increase Roas and accelerate GMV. Probably the most powerful of these tools is the meta extension that is jointly offered by both of our companies to allow your businesses to create shops, upload products, and connect to our conversions API seamlessly.
+
+00:13:51:55 - 00:13:56:31
+不明
+With no engineering effort on your end.
+
+00:13:56:36 - 00:14:21:54
+不明
+Now the metaphor Adobe extension has been around since 2024, but we're coming out with some great enhancements in 2025. We've streamlined the onboarding flow. We're no longer asking for information like your business registration information, tax info, or bank info. We've simplified the order flow so that orders no longer need to route through Meta's platform, but instead will all be processed completely through your website.
+
+00:14:21:59 - 00:14:38:57
+不明
+And we're also adding support for new data formats, so things like ratings and reviews, enhanced promotions and site navigation categories will now seamlessly migrate from your Adobe Commerce website to your meta shop.
+
+00:14:39:01 - 00:14:59:17
+不明
+Now, this is just a high level overview of the process of installing our extension. It looks a little complex, but it really translates to a process that takes anywhere from less than a day to less than a week, depending on how long it takes your business to test new packages and software. The technical portion of this takes less than an hour.
+
+00:14:59:22 - 00:15:08:10
+不明
+The manual portion of this takes less than two hours, and testing can take anywhere from a day to a week.
+
+00:15:08:15 - 00:15:32:49
+不明
+Let's start with step one of this process, which requires a website developer or a technical engineer. You'll need to download our software and install it as a new package on your Adobe commerce environment. This can be done using composer, which is the standard package installation service on most Adobe commerce machines. You can tell your technical stakeholder to run the following command, which is composer.
+
+00:15:32:49 - 00:15:52:14
+不明
+Require a meta for Magento two and the software will be delivered to your server. From there, they can run the standard commands to update your website after they've installed the new package. Typically these are Magento setup, upgrade, static content, deploy, decompile and cache. Clean.
+
+00:15:52:19 - 00:16:18:56
+不明
+After the software has been installed and deployed, your admin can navigate to your admin page and they'll see a new icon on the left hand side, which will indicate Facebook and Instagram. By clicking on this icon. They can now onboard to our system via the Get Started button. They'll be asked to create a shop, either a test shop or a production shop, and connect assets to that shop via our meta business extension flow.
+
+00:16:19:01 - 00:16:48:01
+不明
+Now this process has to be completed by an admin of your meta Business Manager account with admin access to the page IG handle pixel add account commerce account, etc.. After they've completed the onboarding flow, there are a few follow up steps that they'll be advised to complete in our Commerce Manager homepage. We'll provide a link to do so, and once you're there, you only need to provide some information about your shipping as well as confirming your shop domain.
+
+00:16:48:03 - 00:16:54:43
+不明
+Essentially, the URL that you'd like us to present to buyers when they checkout.
+
+00:16:54:48 - 00:17:22:18
+不明
+Once you've completed these steps, all you have to do is test the integration. We have a test plan, which we're releasing as part of the resources available with this session, but it really just boils down to ensuring the products in your Adobe Commerce catalog map seamlessly over to meta, and that the checkout flow from your IG shop or your FB shop results in well formatted orders on your Adobe Commerce Order Management dashboard.
+
+00:17:22:22 - 00:17:38:51
+不明
+Once you've completed the steps one through four in your production environment with your live meta assets, you are live with our product. And that concludes our guide for how to install and get started with the extension.
+
+00:17:38:56 - 00:18:09:42
+不明
+So let's recap some of the advantages here. We're invested in getting our advertisers the most out of their investments in both Adobe Commerce and Meta. To do this, we've released the meta for Adobe Commerce extension, which is a seamless connection between your commerce data and meta taking care of things like uploading and publishing catalogs, delivering content, handling orders to really take the technical effort of connecting these systems away from our advertisers.
+
+00:18:09:46 - 00:18:37:35
+不明
+Once you've completed the process of installing our software and onboarding to our system, you'll be eligible for our shop's feature, as well as a suite of enhanced ads formats, which will increase your advertising return on investment and improve your efficiency overall, giving your customers the optimal shopping experience for them. Thank you very much for your time. If you'd like to learn more, please just contact us at the email which is provided as part of the session.
+
+00:18:37:35 - 00:18:45:14
+不明
+Resources or visit Unlock Marketing Datacom. Thank you very much for.
+

@@ -1,0 +1,324 @@
+00:00:01:44 - 00:00:21:31
+不明
+All right. Good afternoon everyone. Hope everyone had a good lunch. I know it's a massive basement down there to try to figure out lunch logistics, but hopefully you guys all have something interesting. Welcome. We're just going to start with some intros and things are still people struggling in. They've told us pretty much every session has started late.
+
+00:00:21:32 - 00:00:41:16
+不明
+Hopefully one minute late is acceptable. And in our case as a as a good stat, we love stats. My name is Pierce Patel. I, of course work for Algolia. I'm the chief ecosystem officer, meaning I manage, what we do with our partners, both technology and service partners, in order to bring a combined value to our customers.
+
+00:00:41:16 - 00:01:05:15
+不明
+So, joining with me today is Sajjad Moment. He's senior director of partner integrations. It's him and his team that build everything we do. With the Adobe ecosystem and all of our technology partners. So best person to be able to demonstrate what we're going to talk about today. Just as a side thought, the reason the two of us are presenting is we've been actually working in the Adobe ecosystem.
+
+00:01:05:16 - 00:01:31:30
+不明
+This is my, I think, 14th summit. So we've been working across different partnerships with, Adobe for almost 12 years now in, in, either some capacity, at an organization or another. So lots of history that will become relevant and to kind of where we've made investments and what we've been doing. As you go dig into the story with us a little bit about Algolia.
+
+00:01:31:35 - 00:01:51:27
+不明
+How many of you show of hands, how many know who we are? Okay. Many more of you use our platform, but probably don't know it. As I was greeting some folks asking what organization you're from? Many of you are customers of ours, I'm sure. Maybe. Probably not in the group you work in. But you will see here.
+
+00:01:51:41 - 00:02:15:51
+不明
+Why is that? It's because we have 18,000 customers today. And our customer base is pretty broad ranging in terms of the industries that we support. Retail, of course, is an easy one to understand. If you can't find a product, you can't buy it. So search is a very important element for retail. But travel, financial services, healthcare and even high tech software firms.
+
+00:02:15:55 - 00:02:37:30
+不明
+Some of them was a big red as a logo. Our customers of our so, we've got a lot of different customers that we support. What our product does is deliver search on your digital properties. So unlike Google, which is a public web search, we're powering almost 2 trillion searches a year across websites for all of your organizations.
+
+00:02:37:35 - 00:02:57:06
+不明
+And what that means is about 1 in 6 of every search that's performed goes through the algorithm platform. And that's traffic on all of our customer sites that stop. It's a we're really only the second largest search behind Google, but that's a whole different category of, of, of use case in general, web stuff, things like that.
+
+00:02:57:10 - 00:03:20:33
+不明
+Many of our brands expect something from us. And you get to learn today speed and scale. Scale because you never know when a fashion drop or a Black Friday campaign or a Super Bowl ad, which one of our customers around this year is going to require massive upscaling. And many of our organizations today have to do that through months and months of pre-planning and things leading up to Black Friday.
+
+00:03:20:38 - 00:03:40:16
+不明
+Our customers don't have to worry about that. They've got to worry about the inventory they need to sell products on, on massive ships. So we're a highly scalable brand. As you can see, all of our customers, the big stat here on this screen about that scale. Also important is the uptime five nines we can offer. Most companies don't even offer four nines.
+
+00:03:40:21 - 00:04:06:07
+不明
+Four nines as a basic SLA that we offer for uptime of our platform and the this last Black Friday that we reached across all traffic, across our customers. So 110,000 queries per second. So highly scalable platform. We've got brands that use us on, you know, one search a day to brands that are running massive, massive, operations across their, their customer interfaces.
+
+00:04:06:12 - 00:04:28:41
+不明
+Why are we relevant here at this conference with, with Adobe and all of you and your Adobe investments? It's because we look at the same types of challenges that when Adobe is deciding to put something in product and why it's important to its customers, we look at pretty much the same set of elements. The first of them, as I mentioned earlier, is speed.
+
+00:04:28:46 - 00:04:58:42
+不明
+We know through a study, called milliseconds matter, milliseconds make millions by Deloitte measure that roughly point one seconds in terms of response time improvement accounts for about 8% of conversion uplift in our retail use case. And for some of our travel customers, even more 10% uplift. Right. And of course, that's a that's an aggregate, an average across all the customers that were interviewed for for research reports and studies and things like that.
+
+00:04:58:42 - 00:05:23:40
+不明
+But, you know, speed matters. So that's one of the core things about Algolia is the response time of what our platform can deliver is an important tenet of how we build product and features that that we decide to do. The second one is relevancy, right? To most people, what is a search or search is here's a bunch of stuff that you might want that vaguely matches your query or category page that you land on.
+
+00:05:23:45 - 00:05:45:57
+不明
+That's not enough to get real good conversion. And so our second big tenet is any feature or product we put out has to be very, very highly relevant to the individual consumer and what they're looking for. Right. And so, the first pillar speed allows us to do a lot more processing and analysis and giving out results. So the relevance is even better.
+
+00:05:45:57 - 00:06:17:43
+不明
+So they kind of build on each other. The third one control none of us today in the age of AI, automation and all the things that organizations are pushing for to be more efficient, want some system or black box? Just deciding what to do and assuming that's the ultimate best option, right? And so the third and final kind of focus for us as we build product is the business control that you can put on top of anything that the engine is doing and make sure that it meets your business goals as well.
+
+00:06:17:43 - 00:06:37:03
+不明
+So I'll give you a unfortunate example of how these three actually relate to one of our customers. I spent the last, I guess, a few days before coming here skiing in Tahoe with the kids, three days on the mountain all day, trying to keep up with 19 and 15 year olds. Not a good idea at my age.
+
+00:06:37:03 - 00:06:57:22
+不明
+So I have to tell you, I woke up the first day here. Massive back pain. And so I needed some products to to help alleviate that pain. So I went to one of our customers website, walgreens.com. And I know the Wi-Fi is a little slow in here, but if you want to try all this yourself, you'll see it's it's live in real searching for medicine for back pain.
+
+00:06:57:27 - 00:07:28:37
+不明
+A few things happened that helped, to prove out all three of these things in that in that interaction I had on on Tuesday morning. First, as the page loaded, our speed and our integration with their platform allowed us to know that there's a Walgreens right here in the canal shops. Right. And so as I go into that experience in that journey and I type in back pain, we're leveraging the fact that I know there's a store here was a product I was searching for, let's say Tylenol, to bring back relevant results that are in stock at the store that are here.
+
+00:07:28:42 - 00:07:52:53
+不明
+And the third pillar control allowed for the second item on the list to be Walgreens instead of medicine, because as a brand, they have their own in-house products. They want to make sure that those are exposed as well, so it helps them to meet the needs of the consumer. I typed in Tylenol. Maybe I just meant painkiller. And so their ability to to insert a business rule and control that outcome is the third pillar.
+
+00:07:52:53 - 00:08:04:48
+不明
+And all of this happened in under 20 milliseconds. Right. And so all of these factors coming together, this is why we build our product that we do and why it's valuable.
+
+00:08:04:53 - 00:08:27:33
+不明
+Within the Adobe customer base specifically, you may have seen, some announcements yesterday. We were actually awarded in the, Adobe experience to our Technology partner of the year in the category of content supply chain. Why is that? It's because we've driven value for over 1600 Adobe customers. So again, many of you may or may not know some part of your organization is probably already using algo.
+
+00:08:27:34 - 00:08:48:43
+不明
+Yeah. So we've got a very strong footprint. And in that footprint, as I mentioned, is across a variety of different categories. And, and our job, our API, most our customers invest in that API to bring relevant experiences to life for their customers. Highly personalized.
+
+00:08:48:48 - 00:09:06:54
+不明
+Many of those experiences are not part of just one Adobe product. We're integrated over the last few years, we learned a lot over 1600 customers. We kind of learn from each one who comes on board. We figure out what they're trying to solve, how they solved it, and always try to strive to make it easier for the next set.
+
+00:09:06:54 - 00:09:35:40
+不明
+So what we've done over the last four years is invest in making it the journey of integrating this powerful platform of ours into the Adobe Stock. Very easy. Starting with the ability that every piece of content you create, an ATM or an asset can automatically get indexed until you to be able to put that on a display from an ATM or an edge delivery services components that quickly can take those algo results and lay them out and allow you to style them how you want into those front ends.
+
+00:09:35:45 - 00:09:59:15
+不明
+That's an integration we already provide out of the box products and commerce as well. Being able to have all the products in the in the Commerce catalog be indexed into all Goya, and being able to make those available in the experiences you're building, that's also something we've invested in the integration to make it easier. And a lot of our larger customers maybe have a combination of platforms, and they really want to federate content across different things.
+
+00:09:59:15 - 00:10:26:53
+不明
+So you might have actually commerce in something other than Adobe Commerce. You might have Hybris if you're B2B or Salesforce or SAP. Our partnership and integration into that front end delivery of ATM and and edge delivery allows you to really mash everything from different sources into a federated response. Out of algo, you get that same speed and then focus on what that experience needs to be and how to deliver it very rapidly.
+
+00:10:26:58 - 00:10:57:16
+不明
+The newest thing we've done is related to personalization, and that's kind of I, hopefully most of you were here to hear about activating content in a more personalized way. The newest thing we've done with sergeant's team here is by to actually be able to share affinities between Algolia and EAP, and what that expands for us is the ability that, you know, we get really strong signals in search when somebody tells us they're looking for something, we're pretty, we're pretty specifically knowing they're looking for red shoes or blue dress or a book about this.
+
+00:10:57:16 - 00:11:16:57
+不明
+Right. So it's a really strong intent signals that search platforms got. And we wanted to be able to provide that to the rest of the Adobe ecosystem. And so what we've developed is affinity sharing between us and ADP, which is bi directional. So as we learn things about the consumer and their engagement through their search, we're feeding ADP those affinities.
+
+00:11:17:02 - 00:11:37:33
+不明
+And as the EP learns affinities across different platforms, you might integrate it with whether it's campaign management, whether it's interactions with the site in general. Non search your ERP data about past purchase history, things like that. You're bringing all that in building affinities, an app. And we're able to leverage that and make sure our searchers is responding in a way that's highly personalized.
+
+00:11:37:33 - 00:12:00:49
+不明
+So lots and lots of investments together with this ecosystem to to make it easier for you guys to bring the power of, of what we do in our platform into your, your projects, all of that history that you saw, the 1 in 6 searches across the internet. Again, that's just about search. We have designed this product, build up the company and provide what we provide.
+
+00:12:00:54 - 00:12:23:58
+不明
+When a consumer is potentially saying, I want something, show me the best possible combination, right. Some of our customers also advanced into, hey, we can drive category landing pages with this. The user's not searching for something they want pants or whatever. The category might be, and for us to be able to, with our speed and relevancy, populate that landing page with the right set of results as well.
+
+00:12:24:03 - 00:12:44:21
+不明
+But we don't want to stop just there. So what can we do with all this power, the speed? It gives us a lot of processing time. As I mentioned before, we have to return a result, right. And so what we've been working towards with with a problem statement that we got, I don't know how many of you are using it yet, but you may have heard the name Cedric.
+
+00:12:44:25 - 00:13:11:11
+不明
+It is an old school, expert came came with the company Adobe bought back. We were looking at a challenge together that most of your organizations, show of hands. Many of your organizations probably are running ads to get traffic for your website. That fair nods or hands are fine. That's good. Thank you. So we got a stat together with them.
+
+00:13:11:11 - 00:13:34:59
+不明
+So 70% of that traffic that you're measuring saying, hey, my ad worked, I got traffic, right? So you got a conversion rate measurement your organizations are looking at for the efficiency or the ROI of that ad spend. And you got traffic, right. That team most likely is separate from the team that runs the site, or the experience where that traffic is coming to you.
+
+00:13:35:04 - 00:14:02:10
+不明
+Correct? Nods head. How good is that conversion when this team and this team are working separately? Not very good, right? So let's say your your marketing team runs an ad. We're going to go with a travel example here. They run an ad for Winter adventures your site team. So. Okay, great. We got a landing page. We're going to put a bunch of content on there and, you know, see what happens.
+
+00:14:02:15 - 00:14:30:03
+不明
+Probably pretty low ROI. This is where the 70% drop off or bounce rate happens, right? It's because the teams aren't working together. Well you might say well I can solve that. I can make a more curated landing page that specific to this campaign I'm running, and I'm going to get a lot higher ROI of that ad spend, because now I knew that I'm promoting an ad for winter travel, and when my traffic that I'm acquiring comes, they're seeing more of those winter travel options.
+
+00:14:30:03 - 00:15:01:52
+不明
+Right. But how do you do this today? It requires that team A deciding to run a campaign, team B, that's going to take that traffic and do something with it, one that they've coordinated and worked on. And second, that they're able to do that pretty quickly and not slow down the campaigns. You want to run, right? But we're in a world today where many of you probably already saw things like Jen Studio for Performance Marketing launched by Adobe a while back, this is allowing you to improve the conversion rate on the first part of that journey, right?
+
+00:15:01:57 - 00:15:25:18
+不明
+How do you personalize those ad impressions? So you do get that first conversion. Click right and it's a big deal spending those dollars you want people to click. And we looked at a study with IDC that when you personalize the campaign, the conversion rate is about a 60% increase, right? You're inspiring them based on something specific to them in the ad.
+
+00:15:25:22 - 00:15:43:57
+不明
+And so now you've got these tools that allow you to create hundreds of variations of an ad to try to activate that ad spend and bring that traffic to your site with the solution for converting once they come to the site we talked about is, oh, I got to create a curated landing page. How many of you have teams on staff?
+
+00:15:44:02 - 00:16:06:36
+不明
+They're going to create hundreds of personalized landing pages. When your marketing team runs campaigns that I saw a handful up. Okay, one out of the audience. Right. It's a very hard thing to do. Most companies don't have the headcount, don't have the time. And even if you do, the ability to anticipate what users might want and to curate, they curate that manually.
+
+00:16:06:41 - 00:16:26:06
+不明
+Not going to be as accurate. Right. And so this is what we've been working on, to try to address. And that's why we titled the session. How did you at first click how do we improve that 70% bounce rate from your ad spend the hard earned dollars that you're giving out to other brands to bring traffic to your website?
+
+00:16:26:11 - 00:16:44:40
+不明
+So that's that's a new product we want to talk about today. So let's go through that journey real quick. And then we're actually going to show this to you life. These are not just slides. This is something that actually works today. So we're going to show you how it works. So imagine the old scenario. You run an ad again winter cruises consumers come.
+
+00:16:44:45 - 00:17:10:36
+不明
+Maybe the conversion rate is good. Maybe it's not good. It's it's sort of what it is today. More users come from that ad Algolia is already learning from that first user, the second user and so on, continuing to learn what people are engaging with, what content is working to get them to the next click and continue the journey with you and automatically and all the time optimizing those landing pages that you might have created.
+
+00:17:10:42 - 00:17:31:07
+不明
+Right? So you might have done some improvement to begin with and not just left it as random or general, but even that that curated landing page we're ordering and tuning on a continual basis to make sure those users are seeing what previous users from that ad are engaging with. So let's take in a different example. Maybe one of the variations we ran was Tropical Adventures.
+
+00:17:31:12 - 00:17:55:46
+不明
+Those people probably were inspired by the AD because of the tropical nature of what's their. And so when they come to the website, they're not going to want to see all the winter cruises, examples. So this cohort is engaging in a different way. And so as many variations as you run, we're able to fine tune what that cohort of users is doing and continue to personalize this at scale in real time.
+
+00:17:55:51 - 00:18:26:28
+不明
+So excuse me. We're going to switch over and actually see a live demo of this. But how many of you guys, while you set up, I'll kind of take some questions. How many of how many of you have this type of challenge where you're looking to make sure that the ad spend, that you're putting out there to get it to convert, you're driving out different variations of that ad, but then are falling short on the onsite conversion part.
+
+00:18:26:33 - 00:18:43:32
+不明
+Right? Okay, I just me after lunch and in large groups I hate raising my hand to. So hopefully those of you who didn't raise your hand, this is still resonating with you and that's why you're in this session. Again, we don't want to just talk about this. We want to show it to you. So while you just setting up, you ready?
+
+00:18:43:37 - 00:19:11:56
+不明
+We're going to show you the scenario that I described much, which was all right. And can everyone hear me? Yeah, yeah. All right. Great. Thank you. So I will be demoing live how to create hundreds of home page experiences with Algolia. Actually, I meant to say, are you actually creating hundreds of different experiences? Thank you.
+
+00:19:11:56 - 00:19:43:03
+不明
+Yeah. Just create once and display thousands of times. Actually, it depends on how far you want to take it as, laid out the problem statement that what we have is when a first time user that comes to your site from an ad click, there's a lost conversion. And so what we believe is when we personalize the experience, we'll see improvement in conversion by 60%.
+
+00:19:43:13 - 00:20:21:25
+不明
+As mentioned earlier. So how do we personalize. We don't know the user first time user. So what we're going to do is what I'm doing is actually learning about where that user came from, especially when they come from a campaign. So we know that they come from a campaign. I'm going to use that information to build an audience and that user, when they interact with the website, I will send an event to the audience to say, this audience, this person belongs in this audience, and they're interested in this particular product or content.
+
+00:20:21:30 - 00:20:46:15
+不明
+I will use the Cruz's demo site to demonstrate, what my team has built. So once I have the audience, sorry, it's getting loud, but once I have the audience, I will use that to personalize the homepage landing page and more. So let's get to this. So I have this ad. I apologize, I didn't use Adobe's product to build these ads.
+
+00:20:46:15 - 00:21:10:57
+不明
+I as I use ChatGPT, so there might be some word. So I apologize for that, but this is just to kind of demonstrate crudely of, I'm presented with an ad, maybe on a social media site. So I have it is Cruz that I'm interested in Africa. Great. You know, I want to see, giraffes. Elephants. So let me, you know, check this out.
+
+00:21:11:02 - 00:21:34:07
+不明
+So I navigate to the site and I'm presented with non Africa related content. That's a first time user in this audience. So I'm like, wait, wait a minute. This is Alaska. You know you may have users that may bounce. There might be other users that decide, you know what, I'm still interested in engaging with this content or this site.
+
+00:21:34:12 - 00:21:54:43
+不明
+So I may actually say, oh, you know what? Let me take a look at Africa. And here I'm presented with some cruises that I may be interested in. And so once I see that cruise that I'm interested in kind of clicking into, I'll, I'll make go in and say, let me check out the details. And that signal is actually sent to Algolia.
+
+00:21:54:43 - 00:22:22:37
+不明
+And now we know something about that audience that user belongs to. So let's go to the banner again. Now I'm a second user. Now. Oh great Africa cruise you know top five. Want to see all the animals. Let's do this. So now when I go back to the site I'm now presented Africa related content. So I have a cruise for a five day Africa cruise.
+
+00:22:22:42 - 00:22:53:26
+不明
+My other cruises that are also by destination Africa related. And in addition to that, I may have other content such as articles that may be relevant to that customer or that user who has. They're looking for Africa related cruises. So this is kind of helping us getting more, getting more information about what that user is clicking on, learning and continuously changing the homepage here.
+
+00:22:53:31 - 00:23:19:16
+不明
+So let's take a look at another example of this banner where the audience has, selected different choices. Here we have an Asia banner. And here, you know, the users is interested in checking out how long Bay. Yeah, I haven't been to Vietnam. Let me check this out. So as I clicked on to the banner and go to the site, I'm presented with a cruise that starts in Australia.
+
+00:23:19:21 - 00:23:45:36
+不明
+But destination is Africa. I'm sorry Asia, sorry. And I'm also presented with other cruises related to Asia and in addition to other articles. Now we can use this information not just for cruises and articles, other types of content, other types of products, blogs, even add ons, in particular cruises when you may want to have certain packages that are relevant for that particular destination.
+
+00:23:45:41 - 00:24:13:58
+不明
+These are ways to present the right content, relevant content to the user to help them with their buying decision. So I have a quick question on here. Most of you want to notice that first click the first user. It wasn't personalized already. Do you understand why we did that? It's to make sure that you realize when your marketing team wants to run campaigns, they don't need to be dependent on making sure that a landing page is ready.
+
+00:24:14:13 - 00:24:33:39
+不明
+The system is already going to learn from every individual user interacting with it. The signals he clicked on Africa, the first user did, and so it turned to Africa. As the number of users for that ad grows, it'll continue to morph. So maybe that first user click on Asia okay, wrong signal, but it is a signal you don't have to manually worry about.
+
+00:24:33:41 - 00:24:53:44
+不明
+Right? The cohort of users on each AD variant continues to learn. The scoring of the system continues to grow. And let's say you run this ad, everyone's signing up for African cruises, but now it's summer. That ad is still out there, but people like, I don't want to go a hot place right now, and they start picking winter cruises.
+
+00:24:53:49 - 00:25:25:33
+不明
+The system will continue to refine, learn from how people are engaging, and continue to help that audience see what others engaging with that particular campaign are doing. As on that, first click to help get to the second click subject. What happens after the first click? Good question. Yes, I was about to go into that as well. So as soon as the user interacts with the homepage and they start to navigate beyond, first page, it actually goes into a 1 to 1 personalization.
+
+00:25:25:33 - 00:26:00:56
+不明
+So now we're actually personalizing to that user. So no longer are we concerned with what they what audience they belong to. Now we're actually personalizing on their current journey. So you know I may have started with in Asia cruise. I may have I may decide later, you know what Asia is a little bit too far. Let me go ahead and try to do, the Bahamas, you know, and, you know, I want to check out details if that user, you know, may not convert right now but decides that they may want to come back, they're going to see a homepage now that's tailored to what they looked at previously.
+
+00:26:01:01 - 00:26:26:58
+不明
+So now this is actually 1 to 1. This is no longer what the audience that they belong to did. This is now I know more about this user. Now I'm going to tailor this content, this page and other types of content that's relevant to this customer or to this either. So cool. So so one more question here before I let you wrap, you know, we talked about not having headcount and the time and effort to do all these different variations.
+
+00:26:27:03 - 00:26:49:10
+不明
+Could you show us maybe kind of under the hood how all of this was put together? And we want you guys to realize that this isn't a massive effort at all. Yeah. We're currently using our Algolia Am connector. We've kind of built this in Am right now. And then on the homepage itself, I have multiple algolia components that are driving this experience.
+
+00:26:49:10 - 00:27:11:51
+不明
+So I have one for the the hero content, one for the related cruises as well as articles and the most you have to do is drag and drop an author these components. And for this particular, in this particular case, I've just added the configuration of. Let me enable the personalization. What destination that I'm interested in personalizing against.
+
+00:27:11:56 - 00:27:37:57
+不明
+And then what is the, index that I want to pull this content from. So this is just a simple approach, but you can probably send in a curated number of, experiences into an index that you want to pull from as users are interacting with it. And I've done that three times. And this in this case, I'm only displaying one image with the different, experience, which is, hero experience.
+
+00:27:37:57 - 00:28:00:07
+不明
+And then the others are, three cart experiences from cruises to, articles. But I can have other types of content, such as blogs and other add ons as they go into details of the, page. Awesome. Okay, so I'm just going to summarize real quick, and then I'd love to make this a little bit more engaging with the time we have left, and make sure we can cover what's relevant for you.
+
+00:28:00:07 - 00:28:18:23
+不明
+So so let's go to the next slide. Actually, I have a clicker to remind, we demonstrated part of what we wanted to, which is how do we impact that. First click right. So hopefully this does everyone get what we what we are covering there. So that first click is important because you don't know much about the user at all.
+
+00:28:18:23 - 00:28:44:39
+不明
+And so the ability for us to learn from a group or cohort and personalize for that is problem number one. What we then move on to, of course, is as that user is engaging, we don't want to worry about what the group did. We really want to worry about what the person did. And so everything you saw today is possible just here with the combination of Am where you're launching the the, the content and algolia.
+
+00:28:44:43 - 00:29:05:34
+不明
+But some of our customers are actually well beyond this as well in terms of maturity. And that's what we had mentioned before, is, you know, maybe it's not about just what I'm engaging with in this particular digital experience. That's that's important. So in the case of the Walgreens example, I share with you earlier, because I am a loyalty program member of Walgreens, they would have already known that I don't buy Tylenol.
+
+00:29:05:34 - 00:29:28:53
+不明
+I buy Advil, right? And so being able to have brand preferences, size preferences, cost or margin, Hayes is on sale or not on sale. Any kind of attributes that you have for the content that you're looking to display. For people, turns into affinities in Algolia, and you're able to personalize the content that's pulled up for them in the experience they're in.
+
+00:29:28:53 - 00:29:52:55
+不明
+Right. And so, as I mentioned, the newest thing that we're launching is that bidirectional affinity sharing with AP. So it's not just engagement clicks and conversions that we're looking at. We can also allow you to put in affinities based on previous purchases. You know, POS, purchases and returns any kind of data that you want to feed the system to learn about who that user is.
+
+00:29:52:55 - 00:30:14:56
+不明
+And, and, interestingly, we we did a travel experience and I think there was only one there was an airline, person in the room. But two weeks ago, Soji and I went to demonstrate all this as we got it ready to a customer. And how many of you are sick of the weekend demo? How many of you were in sportswear and retail for hiking goods?
+
+00:30:15:10 - 00:30:38:02
+不明
+Not. I didn't see any single person in the industry. Right. But that's the demo even we kept showing to show the power of what we can do on top of the Adobe platform. And so we invested in creating very specific demos that are very relevant to the industries that I mentioned. So we've got this demo for travel. We did the same thing in, healthcare, financial services, education.
+
+00:30:38:02 - 00:30:58:58
+不明
+And the last one I'm working on a CPG so that you get to actually experience what it is that it means to your brand. Practice asking for things that are relevant to your industry and products within your industry. And get a good feel of it before moving forward. So it's one of the things that that we're very proud, we're able to show and personalize for you what your brand might be able to do.
+
+00:30:58:58 - 00:31:24:43
+不明
+So with that, summary, all of what you saw today live except the bidirectional ATP connector, which is hopefully in the next couple of weeks certified by Adobe. All of these are the features within Algolia that were used to make that personalization happen. From that first click to the continued journey of the consumer on the additional clicks and what we try to do to continue to personalize them.
+
+00:31:24:43 - 00:31:42:57
+不明
+So, this is what was powering what you saw, live on that on that website. And as I mentioned it, maybe it doesn't resonate as well when you see it on a sporting goods website example for everyone. So if you want to see it in the different industries that we've built this in, please do come by our booth.
+
+00:31:42:57 - 00:31:59:15
+不明
+We can show you how and what relevant queries you want to discuss for all of the different industries, or use cases you might have. We're happy to show you how how all of that works. Thank you.
+
+00:31:59:20 - 00:31:59:54
+不明
+For.
+

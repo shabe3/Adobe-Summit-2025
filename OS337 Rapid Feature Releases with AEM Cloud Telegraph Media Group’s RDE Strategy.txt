@@ -1,0 +1,180 @@
+00:00:01:03 - 00:00:29:38
+不明
+Welcome to this talk called Rapid Feature Releases with Am Cloud. Telegraph media groups are the strategy on this blog. We are going to present how our customer htmg speeds up releases by using are the environments. We are going to serve a lot of value that they just got from, these new products that be. So in order to, start, I'm going to introduce myself.
+
+00:00:29:51 - 00:01:05:01
+不明
+My name is Natalia De a senior software developer at Adobe. And I'm just mostly involved with the customer experience improvements that we have been doing in Adobe Experience Manager Damien Zaria. And my name is Damien Ryan and I'm the engineering manager for the Htmg website. So look after the website, Telegraph the code at UK and the CMS which you have the paras, all of that which is Adobe right.
+
+00:01:05:05 - 00:01:32:31
+不明
+Thank you Damien. So well I mean well the best is that like what are we going to be the takeaways for this session. So actually there are going to be a lot. But the three main ones that we want to highlight here are well first of all, we are gonna show how our customer tags, cmd sa cloud development cycle has been with us from 90 to 10 minutes.
+
+00:01:32:36 - 00:02:09:02
+不明
+So a huge improvement over the development. Second part is we will show how actually in general, not only for this particular customer, automation is boosting developer productivity by 81%. Last year, their point is how development frequency translates to innovation for the business. So these are the three takeaways that you will just get on this session. And now what do they mean.
+
+00:02:09:07 - 00:02:38:30
+不明
+So you might have heard telegraphs if you haven't if you haven't it's the award winning multimedia news brand that's been synonymous with quality authority, credibility for more than 165 years. It's been around forever. And subscription first business, which is quite rare for the UK. So our users subscribe to and pay for the quality journalism that we produce.
+
+00:02:38:34 - 00:03:09:02
+不明
+For digital publishing, we use Adobe Experience Manager as a cloud service and that powers our flagship products, the Telegraph website. So I've mentioned, the Telegraph app. So we're here to talk to you about, odds and some cool technology, but a lot to pull the lens back first of why why we do technology and we're here to produce value essentially for our customers.
+
+00:03:09:07 - 00:03:32:51
+不明
+And to do that, we we want to evolve. We want to get better. So we pull ideas from everywhere, and every idea goes through a process before it becomes something real that can be in the hands of customers. So someone has an idea as well. It would be great if we could have a really big headline, the front page of the website.
+
+00:03:32:56 - 00:04:10:01
+不明
+Then we test that idea to see if it's got legs, and we develop some code that will implement that idea. Then we test it, make sure it all works really well before putting it on to production. So behind every little idea that everyone has, there's a big cycle of work to make that reality. And then we look, when we were looking at our own cycle, to get our own process to get through this cycle, we found our biggest constraint was the development cycle.
+
+00:04:10:06 - 00:04:40:21
+不明
+So having ideas is easy. Once it's at production, that's great. But going through development and testing and getting that perfect before it goes onto production, that's where we were spending most of our time. Yeah, I mean that's amazing. And also spoken about how to go to production and how to, dyno go, do your development side. We are gonna start talking about how traditionally amp development goes.
+
+00:04:40:26 - 00:05:08:26
+不明
+So basically we just, you know, the local engineer were working on their local laptop by using the local SDK. So that was good because you then just deploy and get feedback within seconds. So it's super quick. And then you can just develop. But the problem is what we usually what usually happens is it works on my local laptop, but it doesn't work on the cloud.
+
+00:05:08:31 - 00:05:51:31
+不明
+So it's a problem because basically we are in the M local development is missing. So for instance, there are cloud only features that can be easily tested because NPM, services are just, you know, we'd have micro services over there that in the end we can replicate onto your local laptop also, that you might not be testing on your local SDK in lab, only maintaining a local SDK is time consuming and painful, so you always need to be checking the local version that you are running and downloading everything again from vocalists.
+
+00:05:51:36 - 00:05:57:38
+不明
+A lot of engineering work. That's what.
+
+00:05:57:43 - 00:06:35:15
+不明
+So after the local SDK work was done, additionally, then the engineer just go to the cloud and run up pipeline onto the different button that actually just builds validate and deploy the feature, and it takes a minimum of 30 minutes. So it probably might be again if it works in my lab laptop, but it doesn't work on the cloud, then you are just wasting, that minimum of 30 minutes to say, hey, it it is not working on the cloud just because of some disparity or whatever.
+
+00:06:35:20 - 00:06:58:57
+不明
+So this is very time consuming, and it's not the vision that we had to improve, you know, work to for developers to go beyond just because of that. Then we decided that we were missing some, improvements here for the customer experience, and we decided to create a new environment type so that I can just buy and create.
+
+00:06:59:08 - 00:07:32:35
+不明
+But at once there is no pipeline associated. So basically that is just an environment where you just deploy directly via your local laptop. We'll see. We also support changes at runtime. So basically you can just deploy configurations bundles with your config double dot because you can just deploy the same as you can go for any other environment. We will have quick feature validations.
+
+00:07:32:40 - 00:07:58:40
+不明
+So as I was saying basically just a quick deployed code basically so that you just connect directly and there are no any other way things. Yeah. In the same places there are some the plugin that you just install on, it's very easy to be mounting. So how will be the new ambition actually for the new way and development in the cloud.
+
+00:07:58:40 - 00:08:32:24
+不明
+Cloud because it will be that now you have the local, your local laptop and the engineer is still working on it. Of course, on then you just deploy to directly the the E environment, which is a cloud based instance there. You just get quick Victor as well between second terminals. It depends how you know, if you are just deploying a configuration or the bundle is going to be seconds if you are deploying a big content, but it it can be a couple of minutes.
+
+00:08:32:29 - 00:08:59:57
+不明
+But yeah, if you want to learn more please scan the QR and then you can just get the link to the public documentation. But then actually customers just saw the value of these new the E environments. They yes. Thought about hey, what if I go beyond that? I mean because okay, being able from my lab, from my laptop to deploy to the cloud, that is good.
+
+00:09:00:01 - 00:09:44:10
+不明
+But what if every time that I just develop a new feature, as we can see on step one, I just create a branch of my git repository. Then customers can just set up their own continuous integration pipeline, of course, with support. And then because you are there to, to help them they just every time that they open up request uncover feature développement in progress, they just run this pipeline the maven build the package to build the package, deploy to the the E instance and then run some and 20s.
+
+00:09:44:15 - 00:10:15:34
+不明
+If this process is completed on rinse exit, then they can just call the feature called complete. It is quite huge. This more than you know, just doing it on only by every developer that then they are ready to merge a git branch into the main branch and now go beyond there. First Dataproc. But basically because they would already be any on a cloud in.
+
+00:10:15:39 - 00:10:48:38
+不明
+It is likely that is going to be behaving the same on the first stage. And plop. So this was the automated end to end cloud based testing that customers were envisioning. Actually there for the value on that. And they were just go for it as our customer Htmg where they will explain more. All right. Thanks, Natalie. So that's one the clock back a little bit to 2023, which was such a long time ago.
+
+00:10:48:43 - 00:11:18:34
+不明
+So in the first half of 2023, we moved from AMS. So we've been using Adobe services for a long time. So uniforms are running onsite to Adobe Cloud. The time we had, you know, all of our environments are full dev environments because that's all we had. And our deployment time to the cloud was roughly about 90 minutes some day.
+
+00:11:18:43 - 00:11:54:00
+不明
+As Natalia said, sometimes it was 30, but it worked out about 90 minutes. So we have all of our automation inside of Jenkins, and it's been working for a long time because you saw the time was creeping up. This meant that there are test cycle basically took a day to check that something was working. So by the end of 2023, as we were looking at our whole development test cycle, Natalia came along, said, hey, have you tried these?
+
+00:11:54:00 - 00:12:16:30
+不明
+Are these. So had a look things up. Let's give them a go. And as of now, an 80% of our environments are rdd's. So they've been a great success. To the point where developers look at all of our environments. Good. Kind of have it already. So don't really want to wait for working on a full dev environment.
+
+00:12:16:35 - 00:12:36:16
+不明
+And our deployment time is is around ten minutes. So really tightens up that test development cycle. And that's shrunk everything down to about half a day to go through these loops, get something ready to push it to production.
+
+00:12:36:21 - 00:13:11:42
+不明
+And then we went even further up. This works really well for developers pushing their changes over. So using a full dev environment for our continuous integration automation. So it's a it's a full 3 to 4 hour run at the time, which would do everything from code quality to deploying to running a huge suite of tests that a big chunk of that time was waiting 60 to 90 minutes to deploy.
+
+00:13:11:47 - 00:13:41:10
+不明
+And that meant we only really had six attempts to merge some code during a day. So we're going to do six changes during a day, which meant that we got very, very timid about what we would change. So we brought we just swapped out the could see the full dev environment for an all environment. And that's brought that deploy time down to 30 minutes.
+
+00:13:41:15 - 00:14:05:33
+不明
+So there are full end to end that takes two hours to run, which gives us 12 merge attempts per day, which means that we can do lots more and push more value through that system. Don't take my word for it. So this is, data from, our automation system, and the red line is using that full dev environment.
+
+00:14:05:38 - 00:14:30:15
+不明
+So you see, at the start when we started off with, Adobe CSS and full dev environments, it was fine for any spending a couple of hours with rich built. But as we want to do more and more. So more tests, more quality checks that time created kept up to about four hours at the same time. Then we brought in orders.
+
+00:14:30:19 - 00:14:59:08
+不明
+That's brought back down to two hours. So we keep getting those changes in. But there's something you will find with this. There's something called Jevons paradox. So the more efficient that you make a process, the more you're going to want to use it. So you can see that time creeping up again. But instead of it's instead of using that time waiting for something to deploy to Adobe Cloud, we're actually using it to actively test our software and test our changes, which is much higher value.
+
+00:14:59:13 - 00:15:27:21
+不明
+It's just a it's going to bring it back to, well, the tangible benefits that we've found. So so we have the cycle time for change our change deploy a test cycle takes minutes now not hours. So we can make more changes, be more experimental and try lots more things to get that perfect thing out. We can run more automation so we're much more quality focused.
+
+00:15:27:21 - 00:15:53:03
+不明
+And we can really, really be sure that any change we make when it gets the end of that automation is going to be great for our customers. We can deploy more changes every day and every week, which means we can get more features done in a year and provide much more value to our customers. All right. So well, that was an amazing user story.
+
+00:15:53:07 - 00:16:20:54
+不明
+Thank you Damien. I mean, you are doing so great. And also, thank you a lot for telling it today. So basically, let's now talk a little bit because what do we have a great story for a customer. But I just want to say that actually, if we look at our dramaturgy or the art of the EA environments usage, we don't particularly look at the deployment frequency.
+
+00:16:20:54 - 00:16:46:33
+不明
+And we can see that this is not only a particular customer who is, you know, just engaging them, making it more success without the is actually, if we look at this number, we can see that we work partners who are using our the EA environments, they are increasing, 81% the production deployment frequency. And I want to pause it here because I want to look at that number.
+
+00:16:46:33 - 00:17:11:35
+不明
+I mean, 81%. That's a huge number and a lot of value. I just want to keep just looking at that number. Right. That's impressive. And actually that is something to consider. And to provide value for your product. The.
+
+00:17:11:40 - 00:17:40:34
+不明
+Not only that value that you can just deploy to production more frequently and deploying more features as well. Also. But actually we are in continuous development on improving things, adding more and more features to the. Are the environments one of them that I want to highlight here in this talk is something that we are currently working on. So this is an upcoming feature is the ability to take all of the EA snapshots.
+
+00:17:40:39 - 00:18:04:30
+不明
+So basically our ambition and actually this is something that our customers asked for. And we just hear them. We saw the value again. We are working on actually providing a way so that customers can tell, hey, I'm going to create a snapshot or the current status of my RB environment and then just create a snapshot on them.
+
+00:18:04:30 - 00:18:27:49
+不明
+They just continue going with their environment. At some point they just say, hey, I want to go back to my previous state. So, when I try to apply a snapshot on there, automatically that snapshot is applied on the, the content is restored from that pool, and then they can just start over and stop over. So again this is working today.
+
+00:18:27:52 - 00:18:57:22
+不明
+So it can just change without any notice. But yeah we, we expect it to have it soon. Not only upcoming features. Let's also highlight one of the recent news that we called for these environments. You can see actually that one thing that we also implemented was to have the ability to create loggers and set up log levels or the are the environments so that you can just say, hey, I want to debug it.
+
+00:18:57:27 - 00:19:21:39
+不明
+I want to see what is going on in my cloud based environment for the, the EA. And then I just want to enable some of the logs, just set up the debug log level and then boom, automatically you just get the log in stream and then you can see all the things that are happening there. So in the end is like a log life let's say debugging life.
+
+00:19:21:39 - 00:19:43:48
+不明
+Right. Because you can just play a lot with a log. It's this is super useful for debugging. And this is super useful for, trying to catch up issues that are happening on your environments, your cloud environments. Again, if you want to learn more, please go to the QR and then you will just get more information about the log in.
+
+00:19:43:53 - 00:20:13:16
+不明
+So I started this talk particularly with the takeaways. So let us see if we just did it okay. So the first one was yeah let's explain how the DMD got the development cycle 50 years from 92 minutes. Yeah Damian was just explaining about that. Second point was the optimization how developer connectivity is caused by 81%? Yep, we got it.
+
+00:20:13:21 - 00:20:38:52
+不明
+That was our metric that we just, had that value for not only this customer, but for every customer, our every customer that we use. You are the environments in the latest, the last thank you way for how the blocking frequency translates to innovation for the business. Yeah, we saw from the beginning to the end how this innovation is happening, right.
+
+00:20:38:54 - 00:21:09:28
+不明
+How we are transforming the new development in a. And yes, to end up with good talk, I just want to, tell you that actually you can find us on discord. They are the engineers of Adobe. Are there really? Or particularly me? I'm also there. So if you have any feedback, any question, any travel, anything you want to just let us know and then we are there to support you.
+
+00:21:09:28 - 00:21:28:19
+不明
+If you also scan the QR code you can just get the. The link is a public discord channel. So then you can just go to Am on the EA and communicate with us. And again thank you Damien. Thank you tab for this great session. Appreciate again our collaboration together. Let's go for more. Thank you.
+

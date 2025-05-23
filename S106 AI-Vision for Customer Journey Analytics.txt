@@ -1,0 +1,608 @@
+00:00:00:25 - 00:00:32:26
+不明
+Good morning. Morning. Wow. Thank you. Good morning. All right. 9 a.m. session on day three of the summit. I deeply appreciate all of you being here, especially after the bash last night. Thank you so much for making it. AI driven analytics, that is our session today. We are so excited to be getting into it. Let's again, once doors close.
+
+00:00:32:31 - 00:00:58:30
+不明
+All right. I'm for three. Bhutani. I lead product management in CJA customer journey analytics. My focus is AIML in as well as content analytics. I am super excited to be talking about some of the features for today. Thank you. And to reiterate what we said. Thank you all so much for being here. I see some of you wearing the gaming t shirt from Trevor Paulson's session.
+
+00:00:58:35 - 00:01:18:09
+不明
+We'll try to make it close to as exciting is that. We don't have video games, and I don't have the the hat that was custom programed with the Adobe logo going across it, but, you know, we'll try our best. So I'm Taylor, I've been at Adobe for two years, and I'm focused on Genii initiatives. So I want to kick it off with a couple of quick facts about us.
+
+00:01:18:10 - 00:01:38:30
+不明
+One is so the interesting fact that I typically share, I broke my nose mountain biking the day before wedding engagement photos. My wife, my fiance at the time, luckily she ended up marrying me, encouraged me not to go, and then I went and went on an advanced trail and anyway, ended up with a broken nose that I'm still, you know, managing.
+
+00:01:38:34 - 00:02:04:31
+不明
+But, But anyway, we. Oh, Strange, strange fact. More than a fun fact, I think, I enjoy the rain, and I'm not a big fan of, sun and summer. So I moved to Seattle. I kind of love it there. I don't know if anyone from Seattle again. There we go. Oh, my God, I saw nice.
+
+00:02:04:31 - 00:02:25:55
+不明
+Yeah. So, yeah, I'm off to Seattle and I kind of love it, All right. Okay. Okay. Again, thank you all for being here. Let's kick it off with a really quick poll. If you guys can open up your phones, most of you look like you might already have it out. Scan this QR code. And then what we really want to know is which jenn-air tools you're using consistently.
+
+00:02:26:02 - 00:02:49:48
+不明
+And to be clear, we don't mean at work. I know the whole point of summit has been what's happening at work. What's Adobe doing at work? What are you guys doing with Adobe at work? But we want to know, just Genii in general, how are you using generative AI day to day at home or in your life? One example, my my daughter is seven and she loves unicorns and she also likes dragons.
+
+00:02:49:53 - 00:03:08:31
+不明
+And she likes to have me generate images that combine them into one. Sometimes they look amazing, sometimes they look super strange. But that's, that's one example of kind of how I use it in my day to day life. But are you guys building side projects with Curser, or are you using AI for, for other things? We'd love to see this.
+
+00:03:08:33 - 00:03:40:10
+不明
+Whichever trick doesn't work, I guess. But, quickly. The. Okay, the QR code. Do you guys still need the QR code? So this this QR code should work. No. This one, this this one. I just didn't know if they still needed the the code. It's there up top. Okay. Nice. Nice. ChatGPT winning.
+
+00:03:40:15 - 00:03:52:28
+不明
+Perplexity. Coding. Firefly learning. Okay.
+
+00:03:52:33 - 00:04:06:27
+不明
+Cooking and meal making. I like that crock. This is very cool. Very interesting.
+
+00:04:06:32 - 00:04:35:37
+不明
+Brainstorming. Okay, cool. All right. Thank you for sharing that. Okay, so let's kick it off with understanding how we approach gen AI in CG. We want to give you a little bit of insight into our strategy. Generative AI has been an especially hot topic for the last few years. But KE, we've actually been building AI tools in CG for quite a quite a quite a while before all of this.
+
+00:04:35:42 - 00:05:03:37
+不明
+Jenny, I focus in the world. Our strategy in CK is to use Jenny AI to surface insights when needed, to empower different user personas to confidently engage with data and more quickly become data experts. Essentially, we want Jenny AI to help a wide range of users of A to be able to do their jobs better and more efficiently, and also for a wider range of users to be able to have access to data analytics and feel comfortable asking data questions.
+
+00:05:03:37 - 00:05:21:02
+不明
+So a lot of the features that will be walking through today showcase those capabilities of helping a wider range of users use Jenny AI and use user analytics in their day to day lives and feel empowered.
+
+00:05:21:07 - 00:05:49:39
+不明
+Okay, okay, so Customer Journey Analytics offers a range of capabilities that scale in intelligence as well as automation. Right? So today we'll be placing those features on what we like to call an agent scale. The features will progress from foundational capabilities to more advanced AI powered intelligence. The idea is to support different levels of journey analysis as well as decision making.
+
+00:05:49:44 - 00:06:20:24
+不明
+So first level is the human level. We do see that this is a more foundational level, and we have features designed to help analysts surface insights, test hypotheses, efficiently. Now these tools do provide valuable insights but require a significant amount of interaction as well as interpretation, of the data as we move up to the cybernetic level, we're moving up the scale and we're introducing more intelligent features that we like to see is more of an extension of you as a user.
+
+00:06:20:29 - 00:06:45:52
+不明
+In the enhanced analysis with automation as well as predictive capabilities, the features work alongside you, working with you, accelerating understanding of the data, as well as helping with forward looking insights. The next and the highest level on the scale today is the cyborg level, where we think this is a true mind meld between you and an agent capability.
+
+00:06:45:57 - 00:07:15:15
+不明
+We see the emergence of more autonomous, AI powered capabilities that can drive action, goal driven, action and automation specifically, in insight generation, as well as supporting any kind of decision making that you may need. Each of these features does represent a step forward in making sage more intuitive, efficient, and work for you. Empowering your teams and you to be able to work efficiently.
+
+00:07:15:19 - 00:07:39:59
+不明
+The first up, we will be talking about the human, level. We'll talk about each of the features and we'll show you a quick demo as well. Just as a quick reminder, these features are available already in Customer Journey Analytics. So you can try them up today after the session. So we'll touch on anomaly detection, algorithmic attribution and the experimentation panel anomaly detection.
+
+00:07:39:59 - 00:08:00:11
+不明
+As the name implies, it just allows you to be able to separate true signals from noise. In other words, it'll let you identify any kind of statistical fluctuations in your data and help highlight that for you. So let's say it's a Monday morning. You get into work and you're starting to look at your weekly dashboards. Maybe you notice a sudden dip in your revenue.
+
+00:08:00:16 - 00:08:21:05
+不明
+And you got to figure out what's happening before you get into a status meeting. What you might do is start a mine through all the revenue numbers. Look at it pre campaign, post campaign. Do a quick comparison, try to see if it is statistically significant and and then arrive at a conclusion. Just explaining the process is taking a significant amount of time.
+
+00:08:21:05 - 00:08:45:25
+不明
+So just imagine having to actually do that manually. And that's where anomaly detection comes in, right? In a matter of seconds you can do all of that. It quickly looks at a historical window and identifies any anomalies for you within a table or a visualization. All of the anomalies are detected in relation with a previous data point, so it identifies any radical changes in your data.
+
+00:08:45:30 - 00:09:05:28
+不明
+Some quick tips and tricks. As you look to use them, you can quickly spot anomalies in airline ways. So even if you do have a table, just if you visualize that an airline chart anomalies are more obvious and visible with the little dots, you'll see that in the demo. And you can leverage anomaly detection over API too.
+
+00:09:05:32 - 00:09:39:15
+不明
+So if you're not a UI analysis workspace UI user, feel free to leverage that capability over API attribution. We all understand that experimentation through experimentation is the gold standard in identifying any kind of causality. So as such, attribution has really been a challenge for marketers and analysts. Now, traditional models like first touch or lash touch will provide a fixed approach, but they don't always reflect the real impact of each touchpoint.
+
+00:09:39:19 - 00:10:03:16
+不明
+So this is where algorithmic attribution in customer journey analytics becomes a bit of a game changer. So unlike rules based attribution, this uses statistical techniques to look at the optimal allocation. So credit is a lock allocated to different touchpoints relating to that conversion metric. So it's looking at a historical patterns and analyzing how those different touchpoints have interacted in the past.
+
+00:10:03:21 - 00:10:23:58
+不明
+To be able to allocate credit in the now. So let's say a user comes to a, interacts with three channels before actually converting, right? So they click a paid search ad, they click on an email campaign, and then they click on a social media ad with Last Touch. The social media ad is going to get 100% of the allocation.
+
+00:10:24:03 - 00:10:46:50
+不明
+With algorithmic attribution. It would work a little bit differently. What we would do is look at the historical data. And in this case, maybe that shows that users are engaged with the email channel actually convert more so given that the model may allocate 40% of the credit to, email, 35% to social media, and 25% of paid search.
+
+00:10:46:55 - 00:11:12:19
+不明
+So it's allocating based on historical performance of these channels. So this helps you understand what's really driving performance, and eliminating any of the guesswork that that might normally be there. So some tech tips and tricks again if your dimension has just a single dimension item, irrespective of what attribution method you use, all of it will be allocated to that single attribution item.
+
+00:11:12:19 - 00:11:42:56
+不明
+So for attribution generally just pick a dimension that has multiple touchpoints. If you need a metric, with multiple attribution settings, for some reason you want to be able to compare for the same metric and different attribution settings. You can create copies of the metric in the data view and assign different attribution settings for them, or in real time in analysis workspace, you can swap the settings for each of them and do a comparison of what first arch would do versus last arch versus algorithmic.
+
+00:11:43:01 - 00:12:07:33
+不明
+So that's a quick check that you can do as well. Moving on. Experimentation panel. So we talk about the gold standard being experimentation. So making informed decisions about customer experience becomes really crucial. Driving engagement any type of conversions and retention. So experimentation and CGA enables you to measure different experiences and activities helping you determine what truly works.
+
+00:12:07:33 - 00:12:29:48
+不明
+So this is a statistical way to identify which of your variants truly are driving the outcome that you're looking for. So it could be different messaging, different layouts, different workflows, different content. You could be testing, any of those, as long as there's a control and a variant, you will be able to identify what's driving higher conversions or improved customer satisfaction.
+
+00:12:29:52 - 00:12:55:48
+不明
+So let's take an example of a hotel brand. And they're testing two different checkout floors, right. One with a guest checkout option and another one that requires an actual account creation and a log in to do the checkout. So they want to get a sense of which one performs best because the default today is requiring a login. So by using experimentation, they can measure which experience is driving a higher completion.
+
+00:12:55:53 - 00:13:16:27
+不明
+When they're after they run the experiment. So if the guest checkout option actually drives higher conversion, they would be able to optimize and say, okay, let's actually build these two workflows and have that be available for all users. So some tips there. You can filter audiences. You can filter the entire panel by specific audience or segment that you have pre-built.
+
+00:13:16:31 - 00:13:40:01
+不明
+Just apply the segment before you run the panel so all the data is filtered out and lift and confidence is calculated on top of that, you can also use our advanced calculator metric functions. So we have lift and confidence functions available in the calculated metric builder. So you can actually create your custom lift and confidence metrics and use it in any customized freeform table that you may have.
+
+00:13:40:06 - 00:14:01:00
+不明
+So try that out. Let's take a look at what all of this looks like coming together in a demo. Okay. So let's jump into this demo. We'll kick it off with anomaly detection. Thank you for firstly for walking through those. Let's jump in here to this line, this so we can see in this panel that we're looking at sessions data.
+
+00:14:01:04 - 00:14:28:16
+不明
+And we're looking from December 2024 to the end of February. All of these little dots on the line, we start to notice like what? What do those mean? These are these are anomalies. And these these fall outside of the expected range of standard deviations. And it looks like here on February 27th that we had an anomaly that our sessions were 73% below expected.
+
+00:14:28:21 - 00:14:55:23
+不明
+So when you're reviewing your website, you know, you notice that sessions data has fallen. There's these little dots. It tells you exactly how far away from expected that anomaly is. It uses a statistical method, like Christy highlighted, to determine how a given metric has changed in relation to prior data and prior trends, allowing you to separate true signals from noise and then identify factors that contributed to those anomalies.
+
+00:14:55:28 - 00:15:13:12
+不明
+So here, you know, again, we noticed that there was this anomaly in, in sessions. We can see that both in the line viz here with these dots. But we can also see that in the free form table. So these, these little indicators here indicate that there were anomalies. If I click on one of them I can see 66% below expected.
+
+00:15:13:17 - 00:15:28:35
+不明
+You know we can we can scroll through but you can see it in both. And one of the nice things about anomaly detection I'm going to sorry. Click here again so we can see everything is that you can turn on and off of these anomalies in settings. So you can show them if you want. You can hide them.
+
+00:15:28:35 - 00:15:49:19
+不明
+You can you can show them in the viz but then not in the column and hide them in the common column. So you have to have a lot of flexibility in terms of how you want to display your data, in which data you want to rely on. All right. Let's move on to algorithmic attribution. I think we did a really good job of explaining what algorithmic attribution is.
+
+00:15:49:24 - 00:16:17:00
+不明
+But just to go through, you know, briefly one more time, attribution models are used in analytics to determine which customer interactions get credit for conversion. So if you're if your users are making a purchase or order or sign up, whatever that flow looks like. But in our example today, we're going to be looking at orders. So given that we're we're trying to focus on this conversion metric of orders here, we're evaluating a couple of different models.
+
+00:16:17:00 - 00:16:38:40
+不明
+One is last touch and one is algorithmic. And I'll start to talk you through and show you some of the differences between the two. So again to reiterate what is algorithmic attribution, looking first at that last touch and first touch. First touch is when the first interaction that a customer has on this customer journey gets 100% of the credit for the conversion.
+
+00:16:38:40 - 00:16:58:48
+不明
+And then last touch is when the last, the last, action in the journey gets 100% of the credit. Algorithmic attribution spreads up the credit across the customer journey. So I think you get a much more accurate and, and better picture of what that customer journey looks like. And we see we can see that here in these two columns.
+
+00:16:58:53 - 00:17:22:57
+不明
+So for total orders, when we look at last touch email here got 68,000 total orders. But text the very bottom one had zero orders. So there was this gap between the highest and lowest of 68,000. That's pretty high variation. But when we look at algorithmic, which is spreading up that attribution across the journey, we can see that email received only 38,000 total orders.
+
+00:17:23:02 - 00:17:49:14
+不明
+So if we were looking at last touch, we're over accounting for the fact that email is driving a lot of conversions, when in reality, when we use algorithmic attribution, we can start to see that some of these other marketing channels are also really helping drive attribution and drive conversion. At a pretty similar rates. Email is really similar to display, but in this case it looks like email is kind of a, you know, a big win over display.
+
+00:17:49:19 - 00:18:11:22
+不明
+And again, you can see the percent change here. So we can see at the top of the funnel, or at the top of the the marketing channels. That email's 43% lower for total for algorithmic attribution. Whereas at the bottom of this with text or, or with television, we're seeing much higher conversion that's being attributed to, to television, etc..
+
+00:18:11:27 - 00:18:42:09
+不明
+Okay. So let's move through to the next one. Experimentation panel. Experimentation panel. Let's analyze, compare different user experiences, marketing or messaging versions, etc., to determine what might be driving a specific outcome. So in this example, we can see with the experimentation panel that we've already input our experiment that we wanted to use. We already decided that our control variant should be no offers, and we already decided that our success metrics should be total orders.
+
+00:18:42:09 - 00:19:04:40
+不明
+Again, to kind of follow the same pattern from the prior, panel. So looking at experimentation panel, we can see that, you know, of these variants that exist. The 20% discount offer is having a much higher impact on conversion than the double points, the offer that we're offering. So we're evaluating a bunch of these different marketing campaigns and looking at which one is the most successful that was our experiment.
+
+00:19:04:40 - 00:19:31:25
+不明
+They were trying to figure out. Experimentation on panel also shows us that this experiment was conclusive. We see a massive lift between the 20% discount offer and the double points offer. And we know that with extremely high confidence that that variant is the best one to pursue in our experiment. So this experimentation panel helps us see exactly where to put our marketing dollars and our other investments throughout these different experiments.
+
+00:19:31:30 - 00:19:58:05
+不明
+Okay. Okay. So let me thank you for letting me take you through that demo. Let's move on next to our cybernetic features and intelligent captions and forecasting. So specifically we mentioned in the cybernetic features are more intelligent features that enhance analysis further with AI driven automation and predictive predictive capabilities. Cybernetic features assist in interpreting data and forecasting outcomes.
+
+00:19:58:10 - 00:20:24:51
+不明
+These features work alongside users, accelerating understanding and providing forward looking insight. So these cybernetic features actually have already been deployed. Have already been released, the most recent being the Intelligent Captions enhancements that were released just a couple of months ago. Some of you who are already in Cdrh may have already noticed some of those changes, but I'll walk you through what those enhancements were to intelligent captions.
+
+00:20:24:55 - 00:20:45:11
+不明
+We'll first jump in with Intelligent Captions, which provides users with quick and helpful, helpful insights and takeaways for a variety of different visualization types. And then we'll walk through forecasting, which helps users predict where their data is likely to head based on past trends. And I'll do a demo of each of these to walk through them in more detail.
+
+00:20:45:16 - 00:21:06:11
+不明
+So let's jump in first with intelligent captions. I'm really excited about this. I'm excited about the, we are excited about the enhancements that we made to intelligent captions just a few months ago, which we'll walk through today. So to high level Intelligent Captions uses generative AI to provide natural language insights and trends and takeaways for various workspace visualizations.
+
+00:21:06:16 - 00:21:23:49
+不明
+So you can see in this example here, the captions are generated at the bottom. And we'll again do a demo of kind of show you how that works. But it's very easy on the user side. All they need to do is click a little captions button, and then automated insights are added to the bottom of the visualization. Those insights are dynamic.
+
+00:21:23:49 - 00:21:53:18
+不明
+So if a user goes in and changes the date range or if, you know, you refresh the project from the next day, the captions on the entire project that were there before are automatically updated, and you can share those insights out to different stakeholders within your business. As far as general update, the general enhancements that we made to intelligent captions in general, the first version of Intelligent Captions released in 2023, and the first version of intelligent Captions supported one metric.
+
+00:21:53:18 - 00:22:16:23
+不明
+And the line this is only only one visualization. It's the most used visualization in workspace. We wanted to test out the hypothesis that there was a big impact there, and we received really positive feedback from customers. So then made much more of an investment into intelligent captions and further enhanced it to expand the captions support to a lot more visualization types within workspace.
+
+00:22:16:28 - 00:22:33:56
+不明
+And there are also some enhancements that will walk through today to the user interface. I'll show some of these in the demo, but some tips and tricks to be aware of before we jump in are that with intelligent captions and these newer enhancements that we've released, you can see correlation in between multiple metrics as one of the caption types.
+
+00:22:34:01 - 00:22:54:43
+不明
+So you can add in multiple metrics to the line visualization and then generate captions and see exactly what the relationship is between these different metrics that you're adding to the line. This you can also get weekly insights on intelligent captions, really easily through scheduled reports. So you can schedule out these PDFs and send them to different stakeholders within your business.
+
+00:22:54:48 - 00:23:12:52
+不明
+And you can edit these captions to only show what you want to show. So if the captions if there were for insights generated for a specific caption, you could hide two of them. If you only felt like 1 or 2 were really highly relevant to your business, or the other two were consistently happening over time.
+
+00:23:12:57 - 00:23:36:27
+不明
+Okay, next is time series forecasting. This one's been. You may be familiar with this one. After using Adobe Analytics, forecasting uses predictive analytics to pick the appropriate algorithm and forecast any metric in line. And this includes calculated metrics, calculated components. You can see the forecasts easily on both the line visualization and in the free form table.
+
+00:23:36:27 - 00:23:57:51
+不明
+Just like with anomaly detection. And you have the flexibility. Just like with anomaly detection, to show or hide that forecast, both in the free form table and in the line. This forecasting the you know, the largest benefit is that you can use it for planning, for risk management, for benchmarking, and for a lot more, some quick tips and tricks you can.
+
+00:23:57:55 - 00:24:15:31
+不明
+You really need to ensure that there's enough historical data to do these forecasts, and the model just won't show the forecasts if you don't have enough data in it. If you have a higher granularity, like if you use granularity by day instead of by week, then you'll have a lot more data points for the model to forecast off of.
+
+00:24:15:36 - 00:24:39:23
+不明
+But if you chose the week granularity or the month granularity and only did that across a couple of months, there may not be enough data points to run that forecast. So just make sure that you have enough data points to be running these forecasts. And then second, you can also use forecasting to forecast not only built in metrics, but also calculated metrics like return on ad spend or whatever kind of metrics you are building and calculating.
+
+00:24:39:23 - 00:25:07:09
+不明
+Incorrect. All right, let's jump into a demo to walk through these. So again we're looking at this this it we switched out the metrics for a share project instead. So here we can easily see from December to March. The month of March has not yet completed. We can see what the forecast looks like for March. So we know that we were expecting on March 29th, we'll see 668 share project actions.
+
+00:25:07:13 - 00:25:29:51
+不明
+And we can see this seasonality by week, over time and that seasonality kind of mirrored in this forecast as well. In the settings, you can go in and again turn on and off that forecast if you want to show it in the free form table. You can also adjust that I know I reduced I, I, I hid that free from table to expand down here.
+
+00:25:29:51 - 00:25:53:31
+不明
+We can see down in March these forecasts. So these little dotted lines on the freeform table show that forecasts so that both in whichever way you're looking at your data, if you want to look at it just in the free form table or just in the line visualization, you can see those forecasts and quickly act on them. Jumping into intelligent captions, we can actually just show you a demonstration of intelligent captions using this line viz.
+
+00:25:53:31 - 00:26:12:57
+不明
+So we already have this year project data, and all I need to do is click this captions button very quick and easy. It's generating these natural language insights. And we'll see that in just a second. We have some really relevant insights about Share Project. So one of the ones that I highlighted just previously about the seasonality is highlighted right here.
+
+00:26:12:57 - 00:26:33:14
+不明
+Seasonality. So every seven days there's a cyclical pattern in share project actions with the highest number occurring on day three and the lowest on day seven. So it gave me some more insights into seasonality that I hadn't specifically pulled out of the visualization. The minimum value. The maximum value. What's the trend look like? Where's the highest spike?
+
+00:26:33:14 - 00:27:03:54
+不明
+Where's the lowest decline? And what's exciting about intelligent captions is that as you change these time ranges, as you change the metrics and components that are in your free form table, the captions automatically update and give you relevant insights. And captions are also tailored to the specific visualization type that you're using. With the latest enhancements that we made, we expanded it not from only the line words, but also we added Flow and Fallout and Donut and Bar and all of these additional visualizations that people were super excited about and requesting.
+
+00:27:03:59 - 00:27:31:22
+不明
+When the first version was released, one of the first questions was, how do we expand this to more? And even with the second one, it's like, how do we expand it to everything? Even though we're covering most of the the most used visualizations in workspace? Quickly walking through some of the enhancements to the user interface. With the first version of intelligent captions, one of the things that people loved most was the ability to share these insights out, and we wanted to give users more flexibility with this.
+
+00:27:31:22 - 00:27:54:59
+不明
+This latest enhancement to be able to share those out, but in a more tailored way. So with the second version, you can continue to be able to edit the visualizations, the captions that you want to show. So here I'm hiding minimum value, maximum value, which maybe aren't as relevant to me and my business. And if I hide those in the grouped view, I can then also they're hidden in this one by one view.
+
+00:27:55:08 - 00:28:24:21
+不明
+So this one by one view is one of the newer features as well. And intelligent captions that you can look at insights and only focus on what you find to be most relevant to your business. And again, you know, reduce screen real estate to not take up all of those, all of that room with, with, with the expanded view of intelligent captions and then finally with the expanded in contracted or minimized view, you can copy and share out all those captions at once, like in the script view, or you can in the one by one view.
+
+00:28:24:34 - 00:28:46:12
+不明
+Copy only one at a time. Okay, let's move on. And see some of these other captions, some of these other visualization types that we're supporting. So here's multi-line with the first version of intelligent captions. We are only supporting one metric on a single line Vas. Here you can show we can see that we're supporting multiple metrics in the line.
+
+00:28:46:12 - 00:29:05:51
+不明
+This. So here we added events and sessions and we're seeing some captions. Actually I think I might have hidden some earlier. Here we go. We're seeing some some captions related to both. So we can see correlation between the two in this demo data. They're extremely highly highly correlated because they were, you know, generated in a similar way by our team.
+
+00:29:05:51 - 00:29:29:25
+不明
+But we can start to see how those insights are really relevant to our business, and we can take quick action on them. I can share these out to my team and better understand how these two metrics or calculated metrics are related to each other. Aria supports, you know, single line as well as multi-line. And then bar we can we can see both with here we can start to see some of the different, different captions that are showing up.
+
+00:29:29:25 - 00:29:50:24
+不明
+Again, like I mentioned earlier, retailer them by Viz type. So we try it our team and R and Adobe has tried to work on making these as impactful as possible for each specific viz type and to tailor those captions to each of these type. So here we can see minimum value skewness where these bars skewed towards where is the, where's the data skewed towards which are the highest bars.
+
+00:29:50:24 - 00:30:10:50
+不明
+And then top two delta type two delta is what's the difference between the highest bar and the second highest bar. Horizontal bar has some similar captions. Donuts. Here we can also see min value highest bar as top two Delta. And again all very very easy to generate. All you need to do is click on this captions button.
+
+00:30:10:50 - 00:30:51:24
+不明
+Then we have some really relevant insights to our business. And then lastly Fallout and Flow, which were two of the most requested visualizations to support for intelligent captions here as we're looking at this customer journey from page load to save project, and all these actions that our users are taking in, in workspace or in in our app, on our website, we can see the maximum fall out happened between drag drop components and that most people were failing that 78% of people were failing to read reach, add visualization eventually, and then the maximum conversion happened between AD the add visualization and save project.
+
+00:30:51:28 - 00:31:12:14
+不明
+And then lastly flow. So here this is a very a very straightforward example of days of the week. And where is the data flowing. And and luckily, you know, we're starting to see that that flow is definitely validating the fact that Monday is before Tuesday. But the day is, you know, that this data is flowing as expected, which is great.
+
+00:31:12:14 - 00:31:30:01
+不明
+Great to see that our, our demo data is also following the actual days of the week, but top receiving flow, top subsequent flow, top preceding node top subsequent nodes flow is typically a lot more variable than this demo data here. But all of that insight is generated super quickly and you can share out these insights, flow and follow out.
+
+00:31:30:01 - 00:31:54:51
+不明
+I think in particular, our harder visualizations to analyze for a less experienced analyst and for them to be able to just click on that intelligent Captions button and then share out those valuable insights is really, really huge. Thank you. Taylor. So this data is just, the tail has been, showing. If you couldn't tell that a little bit of analytics and analytics, it's how we monitor usage of our product.
+
+00:31:54:55 - 00:32:15:18
+不明
+So you can see how, you know, people are actually clicking on add visualization or not. So that's, just a bit of a fun little data set that we have moving on with our transformation. So we talked about different levels on the scale. We covered the foundational level, the human level. We moved on to become cybernetic in nature.
+
+00:32:15:23 - 00:32:39:03
+不明
+And now we are going to talk about the cyborg section. So that's the highest level on our scale here. We do see our users being empowered with the power of agents. And these capabilities are a lot more autonomous. And they work hand in hand in partnership with you, the user, to be more efficient. So here's a snapshot of the different agents that we will discuss today.
+
+00:32:39:05 - 00:33:09:23
+不明
+So we see agents truly as a force multiplier in your different touchpoints, working with you to empower you with data management or measurement and reporting and analytics. Each of these agents are goal driven. They do drive action or automation, and they have pretty advanced reasoning capabilities. Now, agents also internally have different skills. Each agent has a host of skills that they work on and that they perform actions on your behalf, on your users behalf.
+
+00:33:09:23 - 00:33:28:39
+不明
+Depending on what you need to do in CX, on the left here you see what's our Data Insights agent, which is coming soon. You can see the list of skills that we are working on building towards. And then on the right you see some two of the newer agents, that we are working on as well, and we'll cover each of them.
+
+00:33:28:44 - 00:33:53:55
+不明
+So just as a reminder, these are capabilities that are still being built out and they're on our roadmap. We are really excited to be able to give you a sneak preview into it. Thanks. Okay. Let me share an experience that may seem familiar to many of you. In a prior career, I was a data analyst at a b2b SAS startup, and I was one of ten experts in our data analytics software.
+
+00:33:54:00 - 00:34:14:40
+不明
+My core objective as a data analyst when I was hired was to identify novel insights in the data, and then recommend next steps and strategy changes to our executive leadership. That's what I was ostensibly supposed to spend 100% of my time on, was looking at our data, figuring out really interesting insights to drive the business forward, and then sharing those with executives.
+
+00:34:14:40 - 00:34:42:06
+不明
+But but I ended up spending a fair amount of time on, unfortunately, you know, 1 to 3 hours a day depending on the week was answering questions for people who had less experience in data analytics and had, frankly, fairly, fairly basic questions like, what was my revenue last month in this specific like what were sales in this very specific area of the United States, or for Marketing Campaign X, what did our conversion rate look like?
+
+00:34:42:10 - 00:35:02:36
+不明
+And if they had the ability to just go in and use this data analytics tool or learn how to use it? They would have they would have been able to be able to self-serve, find those analytics on their own and feel empowered to drive the business forward. But unfortunately, they felt overwhelmed by the analytics UI. They felt overwhelmed by the data that we had in the user interface.
+
+00:35:02:36 - 00:35:33:51
+不明
+And so instead, they came to me and our team ended up spending a lot of time finding these insights. And we're we're hearing that same kind of story from all of you, from talking to our customers. You have a really complex organization that has a lot of complex data, but there are a lot of users at your companies who have these data questions, and they want to be able to go into the data analytics software and ask them themselves or figure out where to go instead of just consuming the data they want to be able to create and explore.
+
+00:35:33:55 - 00:35:56:29
+不明
+But right now, they feel like they really can only consume, whether that's an organizational thing or because of the analytics software. So this is a story we keep on hearing from users. And in order to address that, we're building the data insights agent in a with the Data insights agent, users can ask questions in natural language, typing a sentence like, what were our orders last week in California?
+
+00:35:56:43 - 00:36:20:57
+不明
+And the Data Insights agent scans through your data view, builds a data visualization in Freeform to able to quickly answer that question, saving your users time, simplifying insight, discovery, and empowering more users within your organizations to self-serve their analytics. So after we share a few more ideas, I'll take you through a live demo of this Data Insights agent, which is the latest version of the model that working through right now.
+
+00:36:21:01 - 00:36:45:34
+不明
+We're moving into beta limited beta with customers right after summit, but where we'll show you the latest version of the The Data Insights agent today. But to tee that up, let me tell you a couple of tricks and tips and tricks about the data in citation. In addition to being able to build new visualizations and workspace. As you can see in this demo, here, you can also use the Data Insights agent to update the visualizations that you've already built.
+
+00:36:45:34 - 00:37:05:20
+不明
+So it's not only allowing users to go in and build entire projects or build build panels, build analyzes. They can also use text prompts to update the visualizations that they've already built. You could use a prompt to update, like change the date range to last month, or add a metric as a column or whatever that might look like.
+
+00:37:05:20 - 00:37:25:51
+不明
+You can, you can. You have a lot of flexibility with that update functionality. Additionally, if users ask generic questions, as you know, there's a lot of metrics sometimes in your data views or your data sets that sound kind of similar, like revenue and or cost, product costs, order cost, and all of those metrics have their own use cases.
+
+00:37:25:51 - 00:37:47:17
+不明
+Sometimes they may be duplicates, and we have features for that to help with reducing those duplicates. But there are often these metrics that are really similar. And if the user just ask a generic question like help me with my order cost, we can look through and the agent looks, looks and, and basically surfaces those that are similar and says, here are three similar metrics.
+
+00:37:47:22 - 00:38:17:42
+不明
+Which of these did you mean. And then your user can select that and better ensure that your users find the correct metric. Okay. Let's move on to data Summarizer. So we demoed intelligent captions earlier, and you got to see the power of generative AI and summarizing insights from frequently used visualizations in workspace. But data Summarizer takes things forward, summarizing insights not only across single visualizations, but across entire panels of visualizations.
+
+00:38:17:47 - 00:38:33:36
+不明
+So it gives you these insights across. You could in a panel, you might have a line viz a bar. There's a flow. A flow of is in the fall of is. It summarizes the captions or the insights across all of those visualizations, and then puts them into a really helpful text box at the top for these text insights.
+
+00:38:33:41 - 00:38:53:25
+不明
+And your users not only have the ability to copy and share out these insights, they can also go in and edit them and add additional business context if needed, which might not be in the system, or edit it as they please and and only show what they feel like is the most valuable for their business and for their storytelling as they share it out to their executives stakeholders.
+
+00:38:53:25 - 00:39:13:43
+不明
+But this data summarizer saves data analyst like I was in a prior life, a lot of time in that they can have these insights a lot faster, especially since frequently data analysts are spending a lot of their time getting the same kinds of insights and summarizing those same kinds of insights every week. So this this pulls out to the top really quickly.
+
+00:39:13:48 - 00:39:37:51
+不明
+Okay. So speaking of additional business context and pulling that into your projects, let me present Brand Brain and this may look familiar heuristics. A version of this was presented. Their brand brain helps your users not only understand the words of what's happening in your data, but also the why CGI users perform really complex, remarkably detailed analyzes in CX.
+
+00:39:37:53 - 00:40:22:04
+不明
+But the business context for why data is trending a certain direction is often siloed within your business, or only specific data analysts have have to have the context that they need to be able to surface that brand. Brain helps users and organizations bring exogenous or other contextual data into your company's business in this indicator. So examples of this data might include public data like the Consumer Price Index or CPI, or internal trusted data like site updates, goals, objectives, or even if you were researching competitors what their competitor movements might like, might look like, whether those are public competitive movements, or if your users are just looking at demos of your competitors and you start to
+
+00:40:22:04 - 00:40:42:04
+不明
+notice these other competitive movements, and you bring that data and context into brand, brand, this context is brought in to brand brand, where users will have control over the weights that are assigned to these different categories. So you can see these different categories here. There's experience data and there's external data and there's, you know, weather data and all these things.
+
+00:40:42:09 - 00:41:20:48
+不明
+Users have the flexibility to change this weighting model to weight towards what your users or your company thinks is the most valuable to your business. And you can adjust that weighting model. And then all of this context, once it's in brand brain is surfaced as recommendations in workspace. So when you're in a workspace, not only do the tools like intelligent captions surface the weight of what's happening in the data, in the data, but it can also start to surface some of the why, recognizing that this context is now in the system and not not siloed across the business.
+
+00:41:20:52 - 00:41:38:20
+不明
+Thank you Taylor. So all the capabilities that we saw so far in the cybernetic scale are what we call the skills of the data insights agent. We will see some of those skills today. Not all, but we want to move on to the two newer agents that I talked about. So this is not about data insights anymore.
+
+00:41:38:34 - 00:42:04:54
+不明
+We're talking schema design. Anyone's tried to do that task recently. Oh, I see some, Oh, yeah. Anyone thought I was super fun. Good. Easy. Oh, there we go. Thank you. All right, so we have an agent, that we're looking to build to help out on that. So defining the right data schema is a very complex manual process.
+
+00:42:04:58 - 00:42:34:54
+不明
+It does require a deep knowledge of what the schema is, what the data that you're bringing in event models as well as like field groups and such. Now the agent makes that a whole lot easier by automating and simplifying the design of the schema and generating an optimized version so it can accept, different kinds of inputs, so it can accept a natural language input where you can give it instructions, you can give it examples, you can add some context as well.
+
+00:42:34:58 - 00:43:02:45
+不明
+And if you have data examples, you can upload CSV and Json as well. It processes all of that input the structure and the unstructured parts of it, and it will identify key fields. It will assign appropriate data types and basically structure the schema based on some Adobe best practices. So by leveraging AI powered pattern recognition as well as large language model, it uses leverages industry best practices as well.
+
+00:43:02:45 - 00:43:31:41
+不明
+So this will ensure that the schemas are well structured. They are scalable and immediately usable. And the next agent capability that we want to talk about is Incrementality. Incrementality is a huge topic in a lot of organizations. Everyone does want to understand the investment in customer experience that goes on. So it's not just about knowing what happened, it's about understanding why and what level of outcome did it actually drive.
+
+00:43:31:46 - 00:43:54:18
+不明
+So the Incrementality agent in CX is designed to be able to answer these questions by helping teams identify the true impact of any marketing event or action that may have happened in your user journey. So it analyzes different journey paths and identifies what's actually leading to conversions. It does have a structured approach. So there's three key things that it does identification.
+
+00:43:54:18 - 00:44:20:31
+不明
+So it does pinpoint converting and non converting parts helping you see which journeys are leading to success and where really the drop offs are occurring. Root cause analysis is done then to understand what's actually driving the conversion. And maybe what's not driving the conversion as well. And then finally recommendation providing actionable next steps to move the customers from a non converting path to a converting path.
+
+00:44:20:45 - 00:44:45:48
+不明
+So that way you're optimizing each of your journey paths in your digital interfaces. So instead of relying on assumptions or last touch attribution, the agent can enable teams to make data backed decisions about where to focus any optimization efforts. So understanding the journey paths will drive value. And then you'll also identify what's actually causing friction and try to eliminate that as you go.
+
+00:44:45:48 - 00:45:09:49
+不明
+Some of those personalization. Okay. So we're going to go into a section where we're going to be talking about the data insights agent. So let's go back to the data insights agent. We're going to go and do some decoding. We're going to see a demo. And then we'll also walk you through a little bit of what's happening under the hood for each of the steps of the data insights agent.
+
+00:45:09:54 - 00:45:13:57
+不明
+Yep.
+
+00:45:14:02 - 00:45:33:07
+不明
+Okay. So today I will be playing the role of a marketer who is trying to explore some of my data for the first time. Previously, I relied on data analysts at my company to answer my data questions. But with the release of the Data Insights agent, I can now build analyzes and answer those questions on my own. So where is this Data insights agent?
+
+00:45:33:07 - 00:45:54:15
+不明
+How do we access this? So jumping into this cyborg demo or this new blank workspace project, all users need to do is click on this chat icon here. And once they click on that chat icon, they then have those capabilities assuming there and they're enabled in the admin console. And those permissions are set up by their company, they can jump in here and start to type a text prompt.
+
+00:45:54:19 - 00:46:14:40
+不明
+So if I'm curious about understanding my purchases that I received last October, all I need to type is show purchases. Last October. But before I run this through. So, you know, you have to wait with bated breath. But before I run this through, I'm gonna hand it off to Christy to explain what happens while it's being run.
+
+00:46:14:40 - 00:46:40:01
+不明
+And then I'm going to run it and show you what it looks like. Thank you. So the first step in the data insight agent is understanding that prompt. Right. So Taylor typed out all of my purchases last October. So we're translating that natural language prompt into a very precise data query. So this step is very critical because it ensures that the agent can understand what the user is asking for, the intent of the user, and just the right context around it.
+
+00:46:40:06 - 00:46:59:48
+不明
+When a prompt is entered, several key things are happening behind the scenes. So some of them. First up is action access. So the agent is determining users access levels. Do you have access to the right data sets? Do you have access to the assistant capabilities? Any other enterprise guardrails that may be in place? Next is intent.
+
+00:46:59:52 - 00:47:25:22
+不明
+The agent identifies what intent is this user coming in with. Is it analysis or they want a summary or are they looking to identify anomalies? It's important for the agent to be able to determine specifically what the user is coming in with. And that's done with the first entry of that natural language prompt. Next is context. It's important to understand where in the analysis workspace the user may be what else they have on their canvas already.
+
+00:47:25:35 - 00:47:47:33
+不明
+So that way we can ensure that the agent is responding accurately to whatever context is already present in front of the user, and that the. Lastly, it is multi time. So it's looking at all the previous prompts and it's trying to figure out if this is one prompt out of a conversation or it is a prompt on its own.
+
+00:47:47:38 - 00:48:10:32
+不明
+Just an isolated one. So it's important to be able to identify that so the agent can stitch conversations or prompts together into an actual conversation. There are several technologies under the hood that to power this first, obviously are the enterprise guardrails that we have in place. So it's built in governance to ensure we are in compliance with any data policies that you may have security rules, user permissions.
+
+00:48:10:37 - 00:48:36:19
+不明
+What kind of data sent to the yellow lab and not there's no cross training across different customers. Things like that large language model is leveraged here as well. The agent leverages, a large language model to interpret the natural language query. And then lastly, proprietary models that Adobe has built. So it's our own model that helps us understand specific pieces of the prompt and translate that into, data in the system.
+
+00:48:36:32 - 00:48:45:34
+不明
+And that does incorporate a lot of domain specific knowledge as well as customer journey analytics expertise that we have.
+
+00:48:45:39 - 00:49:03:52
+不明
+Okay. So let's actually run this and see what happens. See the value of the data insights agent. So all I do is press enter. So purchases last October and the data insights agent looks through all of the data in my data view. And it includes the different types of metrics and components. Make sure that's matching in the right ones.
+
+00:49:04:06 - 00:49:25:44
+不明
+And then brings those in. And it translates that prompt to pick out the right dimension metric and date range for this analysis. So here in this case it shows the line visualization to address this show purchases last October. It shows last October October 20 to 2021 to October 2024. And then I built this free form table where it broke it down with the date dimension and selected the purchases metric.
+
+00:49:25:44 - 00:49:44:09
+不明
+And it did all of that in just a few seconds. So I'm going to toss it off now to explain what happens when we're querying data. And then I'll show a few more advanced prompts. So once the data insights agent understands the user's request through the previous problem comprehension, the next step is obviously querying the data.
+
+00:49:44:09 - 00:50:05:36
+不明
+Right? So where we're translating all of that intent, that natural language prompt into a query that actually goes into your data and pulls out the right data. So at this stage several processes that are happening. So one is grounding the agent has to ensure that it is aligning with the underlying data. And that minimizes hallucinations. Second is the actual CX data query that happens.
+
+00:50:05:36 - 00:50:27:23
+不明
+So this this is an optimized query that pulls specifically just the parts that we need to be able to show in that workspace canvas. The third piece is a base recommendation. Depending on the data that was returned, the granularity of the data, the number of data points that was written, and what kind of data it is. We have models that will actually recommend a visualization for you.
+
+00:50:27:23 - 00:51:02:33
+不明
+So as I go through this, demos, you'll see different prompts actually generate different types of visualizations. And that's because, again, the granularity of the data and the data returned under the hood. We do use a knowledge base, which essentially is a data repository. It contains business logic metadata of the things that are there in your data view, any user preferences that we have been saved as well, and multiple embedding models that help us map that natural language to a more structured query that we need for our back end systems.
+
+00:51:02:38 - 00:51:30:00
+不明
+Next one. Thanks. Okay, so now I want to dig a little deeper into my purchases data. But I want to compare a couple of months last year and what was happening with purchases last year. So I'll ask, compare purchases, by product. You know, this is a live demo because I'm making type of mistakes. By product category from September 2024 to October 2024.
+
+00:51:30:05 - 00:51:56:58
+不明
+And again, the Data Insights agent will go through, scan through the available components, and then make sure it's giving me the most helpful analysis to answer that question here. It's choosing the bar visualization. It's adding here this time range October on top of purchases where there's two purchases. Column one is for October, one for September. And then I also adds in this percent change column to show the difference between what's happening.
+
+00:51:57:03 - 00:52:27:34
+不明
+Next. Yeah. So I, you know, also performed a round of applause for our for our engineering team when they built this out. We're very excited about it. I think that this, even for advanced users, saves quite a bit of time. So even if I was an advanced user, this would take me 3 to 5 minutes. I then generated this just in a few seconds for a less experienced user who really doesn't know the structure of analysis, workspace doesn't know which visualizations to use as and when they may not for even a few hours get to this percent change column, or know how to add that in.
+
+00:52:27:34 - 00:52:45:52
+不明
+Or know that you can stack filters on top of each other in one column. So all of this is done really quickly and helps them answer that question, I think quite easily. So I want to switch topics and dig into some data on order quantity. I'd like to next understand how orders looked last December, but by day of week.
+
+00:52:45:54 - 00:53:07:05
+不明
+So I'll simply type show orders. Last December by day of week run that and then I can clearly see which days of the week in December had the highest orders. And here when that runs, I can see that Sunday and Monday seem to have the highest orders. I can then start to dig into why that might be happening.
+
+00:53:07:10 - 00:53:22:39
+不明
+Why are we seeing the highest orders on Sunday and Monday? And again with other features like business context like we highlighted earlier, we can start to get into some of the why. With a lot of the features that we've demo today, we're focusing on the what and data insights agent, I think helps you start to get at both the what and the why.
+
+00:53:22:44 - 00:53:44:15
+不明
+But here, here we're starting to understand what's happening in our data and, and start being able to dig into that way. So then lastly, a wrap up spin out wrap. Wrap this up by typing proportion of profit by store name. By store name. So far this year.
+
+00:53:44:20 - 00:54:03:13
+不明
+Run that and then the agent will quickly build me a donut. Charts. Break it down by store name, and I'm able to see which of my store names with associated profit have the highest profit. And I can see that Houston stands out of those of those stores that are tagged with profit with, with my harvest highest profit and driving most of my revenue.
+
+00:54:03:18 - 00:54:23:38
+不明
+Okay. So let's pass it off to press V to explain what the structure looks like. So after acquiring the data, we do have to we do have we have the relevant data. And so the final step is just constructing that response. So you saw you might have noticed a pattern. So with every prompt that Taylor was entering there was a free form table as well as a recommended visualization that was being generated.
+
+00:54:23:38 - 00:54:44:03
+不明
+Right. So that's all happening in this response construction phase. We again ground the agent to ensure that it is aligned with the original user's prompt, as well as the data that is available in the data view that minimizes all that hallucination. The response is structured in a way that analysis workspace can render, and that generates a free form table and a visualization.
+
+00:54:44:07 - 00:55:02:25
+不明
+The technologies under that, again, we do a little bit of similarity search. So every time you enter a prompt there's ten different terminologies in your prompt. And we have to run a similarity search against any of the data that you have in your data view to identify the right dimension, the metric segment names, things like that. So we find the closest match, to identify those components.
+
+00:55:02:25 - 00:55:26:04
+不明
+And a combination of large language model and propriety models to understand whether we have to update an existing panel or create a new visualization, new panel for every prompt, as well as any clarification questions that may be needed. If the prompt is too ambiguous or the terminology is too ambiguous, then we will generate a clarification question. So you as a user can tell us specifically what you were thinking.
+
+00:55:26:09 - 00:55:56:48
+不明
+So this is the overall flow that you saw today. It has a very strong prompt comprehension unit which ensures that the queries are precise, secure, contextually relevant. It does seamlessly transform that user intent into queries and relevant visualizations. And by automating the construction of insights, you go from raw data to data storytelling very quickly, so the agent will ensure that users are spending less time assembling the reports and more time just acting on the insights directly.
+
+00:55:56:52 - 00:56:17:44
+不明
+So thank you for sticking with us today on our transformation. Yeah. Thank you. So today we walk through human cybernetic cyborg features. Human and cybernetic have already been released. And then cyborg we are actively working on. Like I said, the Data Insights agent is moving into limited beta with customers right after summit. So if you all are interested, please come and come and talk to us after.
+
+00:56:17:49 - 00:56:37:48
+不明
+But our vision is to introduce more and more genetic features into it as we go, building the future of autonomous AI powered capabilities that help your users interact with with analytics workspace in a more efficient manner. Thanks for being part of our present and for helping us form the future. So we'd like your input into that future really quickly.
+
+00:56:37:48 - 00:56:54:59
+不明
+Before you leave, we have a couple more brief surveys. The first is, what do you expect Genii to do with your data? So if you open up that poll of the app again, you should be able to access that survey. Yeah, I think it should update automatically. Yeah. It should update automatically. The QR codes there, the link is there.
+
+00:56:54:59 - 00:57:04:59
+不明
+We would love to hear feedback. We have just a couple more questions and then we'll be all done.
+
+00:57:05:04 - 00:57:15:34
+不明
+Okay. Feedback starting to coming up. That's fine. Insights I don't ask for still being determined okay.
+
+00:57:15:39 - 00:57:43:59
+不明
+So attribution nice. Hi. Hi. Yeah. Are you planning to add, companies own business knowledge or like, business context to this? Yes, that is part of the plan for the brand. Brand that you sell. Yeah. Cool. And, how about this, data catalog and catalog, descriptions. Are they used, in those, language models and AI agents?
+
+00:57:44:04 - 00:57:54:16
+不明
+They will be. They don't yet, but they will be cool. Thank you. Skip to the Q&A. Yeah. Thank you guys. Thank you so much for coming.
+
+00:57:54:21 - 00:57:58:19
+不明
+Thank you.
+
+00:57:58:24 - 00:57:58:54
+不明
+To.
+

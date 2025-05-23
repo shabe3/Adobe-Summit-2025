@@ -1,0 +1,380 @@
+00:00:00:01 - 00:00:31:16
+不明
+Everyone. This is session S 925 where we'll talk about how our Air Canada skills personalized journeys. We do expect to finish a little early so we will have time for official Q&A. But if you want to come up and chat with us after, we're open to that as well. So what is personalization? It is the practice of tailoring products, services or experiences to meet the specific needs and preferences of each customers.
+
+00:00:31:21 - 00:01:06:38
+不明
+Today, we live in an era where personalization is not just a competitive advantage, it's an expectation. Research shows more than 70% of consumers expect companies to deliver personalized interaction. So what that means is customer. Today, once brands to understand their preferences, anticipate their needs and deliver personalized interactions across channels. In this session, we'll explore the past, present, and future of personalization and focus on Air Canada's use case.
+
+00:01:06:43 - 00:01:37:19
+不明
+Our Air Canada has evolved its approach to meet changing customer expectations. Let's do a quick intro. My name is Tenma Baruah. I'm a senior field engineer. I live in beautiful Asheville, North Carolina. I have eight plus years of experience with Adobe products, and this is my year four at Adobe. I'm a technical consultant with software engineering background. I try to understand how Adobe solutions are built so I can I can deliver the best solution for our customers.
+
+00:01:37:24 - 00:01:59:06
+不明
+I am back in school after some time pursuing an MBA at Bu. Question. And the goal is to bridge the gap between my technical expertise and business strategy. Thank you. My name is Asher and as you can see from the picture, I'm from Canada. That's what I look like two weeks ago. Sitting. Standing in a park, taking a picture for this deck.
+
+00:01:59:11 - 00:02:25:03
+不明
+I live in the beautiful city of Toronto. I have eight plus eight plus years of experience and working in digital analytics, personalization, and martech in general. I have worked at Air Canada for the past seven years and I am a frequent flier. So the reason there's a star there is because when I sent the slide to my coworker to get his feedback, his, response to the last bullet point was like, cool story, bro.
+
+00:02:25:08 - 00:02:44:06
+不明
+Now moving on to what is there Canada? For a lot of you, it might not be as familiar as a lot of other people in the room. Given that we are in North America, it is Canada's largest airline. It is headquartered in Montreal. We are one of the founding members of Star Alliance. We serve more than 180 plus destinations worldwide.
+
+00:02:44:11 - 00:03:06:29
+不明
+We have more than 1000 daily flights in 2023. That's the official numbers I could find. We had 44.8 million passengers. So as you can imagine, like a big customer base. And we also own Aeroplan, which is a loyalty program, which has millions of highly engaged members. Now, talking about engagement, how does our Canada engage millions of people worldwide?
+
+00:03:06:34 - 00:03:25:00
+不明
+So from a digital reach perspective, we have, we have multiple digital channels and different avenues of reaching to customers. So we reach to customers using our website, our mobile app. We send emails, we do social media marketing, and anything that you can imagine that could, reach out to a customer from essential travel services standpoint. Yes, we make people travel.
+
+00:03:25:01 - 00:03:51:25
+不明
+That's that's our that's our main offering that is out there. But we also as part of that, we need to be able to enable them to book, check in, update their trip as and when needed and beyond travel. We also have a loyalty program which helps us become a part of our customers on a day to day basis as we partner with different brands across the across the world to create offerings that makes them want to come back to Air Canada and also inspire themselves to travel beyond.
+
+00:03:51:30 - 00:04:21:52
+不明
+Now, talking about engagement, there is a problem that every airline faces. And, if you want to dive deeper into it and I will pass the mic to Tanmay to talk about a problem that we face as an airline. Thank you. Asher. So here's a question for all of us to think about. Did you know that 80% of airline customers who abandon a flight search never return, leading to lost revenue and potential missed long term customer relationships?
+
+00:04:21:57 - 00:04:55:59
+不明
+So how have the airlines being been tackling this challenge? We actually had an answer since 1990s. And the answer has always been third party cookies, invented in 1993. It became the cornerstone of digital marketing. Airlines and everyone else have widely adopted and relied on third party cookies since the early 2000, and it worked is fairly straightforward. A customer goes on the website, searches for a flight, but abandons the booking.
+
+00:04:56:04 - 00:05:23:33
+不明
+A third party cookie is placed in their browser and then collected data from that cookie. So things like browsing history, search behavior, time spent on page pages were used to display ads and encourage customers to return and complete the booking. This approach was fast and easy. It had widespread industry adoption and it was cheap and effective. Let me run you through some numbers.
+
+00:05:23:38 - 00:05:54:02
+不明
+More than 90% percent of advertisers have relied on third party cookies for retargeting. Because of the ease of implementation. This cheap and effective cost per acquisition, also known as CPA with third party cookies, is 50% lower than other digital ad targeting methods. But as we all know, the landscape has been shifting.
+
+00:05:54:07 - 00:06:37:36
+不明
+Deputy data protection laws like GDPR 2018 and CcpA 2020 have reshaped how we think about retargeting and engaging our users. Apple introduced ITP in 2017, progressively restricting cross-site tracking in Safari, and shortly all the other browsers followed suit. Google announced deprecation of third party cookies in 2020. That has been delayed. So we'll see where that goes. But the plan is to shift the focus to browser based content so we can see third party cookies are no longer an option.
+
+00:06:37:40 - 00:07:03:27
+不明
+It's no longer a viable solution. So how are the businesses solving for this gap? How is Air Canada solving for this gap? Thank you. So like, a lot of other companies, we were in a similar situation where, like, we didn't know what to do. We had ideas, but we really, went down the, avenue of building a first party data strategy.
+
+00:07:03:32 - 00:07:21:29
+不明
+Now, to define what is a first party data strategy. We've been hearing about it for a while. We came up with three pillars that we wanted to tackle. The first one being customer identity resolution. As I mentioned before, we have a mobile app, we have a website. We have a very complex digital outreach that is out there, and it reaches millions of customers.
+
+00:07:21:34 - 00:07:39:07
+不明
+What we didn't know, because we never had to do it because of third party cookies, was like, who was coming to our website and be able to stitch it back to like all the actions they were taking with Air Canada as an entity. So let's say my computer came to our website, he did a search. Maybe he logged in at some point, and then he came to our website.
+
+00:07:39:07 - 00:07:58:08
+不明
+He did a search. We had no way of figuring out like it was the same person who came to both places and be able to stitch those activities together. His intent? That's something that was a bedrock of our first party data strategy, is to bring everything together and be able to resolve customer identity. Next, real time intent targeting.
+
+00:07:58:17 - 00:08:14:36
+不明
+When you think about if you take it from your personal lives, you probably have searched for flights and your mind changes every moment at first. At one point you're like, I want to go to Los Angeles. Second point, you're like, I want to go to Toronto because it's a nicer place. But that's, that's a problem for airlines.
+
+00:08:14:36 - 00:08:44:49
+不明
+If we don't reach out to customers in a given time frame. Customers mindset is shifting, and we are not able to pin them down with messaging that is actually relevant to them. Next part. As I mentioned, we have a lot of channels, never had the capability to orchestrate and organize, like how we are reaching out in every channel in an orchestrated way where we are able to suppress messaging or, boost messaging, depending on who is coming to us and how they're coming to us and when they're coming to us.
+
+00:08:44:54 - 00:09:07:16
+不明
+So Adobe is our partner. And so, helping us, implement this strategy. And I just want to touch upon like, how, Doobie is helping us, in a product, from a very product perspective. And then I will talk a little bit about, like, why we chose Adobe, like, over like other tools that we evaluated. So for us, real time CDP enables real time first party data unification and audience sharing.
+
+00:09:07:21 - 00:09:29:16
+不明
+That is something that was missing from us. We were longtime Adobe audience manager customers, but that, only took us to the third party cookie world. We needed something that could be based on first party that was more durable and would help us attain our first party strategy. Goals. Adobe Journey Optimizer and Adobe Target, allow seamless omnichannel engagement using unified profiles.
+
+00:09:29:16 - 00:09:47:33
+不明
+So everything that we built in the CDP, we were able to activate on our own channels using Adobe Target and Adobe Journey Optimizer. And the CDP could even talk to our media channels and, like, send the audiences over so we could do some targeting there as well. And the last part, which is very important for any strategy that you put out in a company, is measurement.
+
+00:09:47:38 - 00:10:09:50
+不明
+Customer Journey analytics enables the measurement across all activation channels for us, because we can pipe in not just the web and mobile data, but also email and anything else that we put through AP. So as I mentioned, we evaluated a lot of products. That unique offering that like really worked out for us with Adobe was all these tools are under the same roof, so we didn't have to go and figure out what integration we need to do.
+
+00:10:10:04 - 00:10:29:44
+不明
+How do we like bring different companies together, work on their product roadmap? It's one company which is already talking inside to each other and building the product maps on that. On that basis. So with that, I will pass to Tanmay to walk us through on a high level how this works.
+
+00:10:29:49 - 00:11:04:43
+不明
+Using Adobe Journey Optimizer and Adobe Target, we can create experiences that bridge the anonymous to known gap. Going back to our previous example, let's say a visitor comes to the website for the first time. The visitor is assigned an exit. At this stage, we can use Adobe Target and deliver optimized conversion experiences to our visitor. We can start to personalize their web and expert and an app experiences to convert them to a known profile.
+
+00:11:04:48 - 00:11:44:22
+不明
+Once the subscribe or this sign up, a profile is created an app, and now we can unlock the capabilities of Adobe Journey Optimizer. So what's possible is real time segmentation for dynamic, personalized customer journeys. Offer decisioning to tailor content offers and next best actions. Omnichannel messaging for consistent, personalized experiences across touchpoints. Now the reason we're all here. So how is Air Canada scaling personalization?
+
+00:11:44:27 - 00:12:08:43
+不明
+So thank you Tanmay. So we followed like a long path as you can imagine, like seeing The Verge. We need to build first party data strategy is easy. Doing it requires a lot of things to be done right. Acquiring technology is probably the easiest part of, like, making it happen. So what we realized was acquiring this technology opens up a lot of cans that we have never, like, looked down on.
+
+00:12:08:43 - 00:12:43:14
+不明
+And we need to follow an approach that involves, like, not just the technology team, but like the broader company as a whole. So we follow the path. The first thing that we did was we engaged with 40 plus people that we identified would be impacted by this change or by this addition, to or Canada. And we had one on one sessions with them highlighting like the problem that as I highlighted, the potential solutions that are there and why Adobe is like our go to solution and got their feedback on everything that they wanted to know or understand.
+
+00:12:43:19 - 00:12:58:52
+不明
+The next step for us was based on the feedback we realized. We are talking about a lot of technology. A lot of people don't understand, like what exactly is it adding to their work, adding to their world? What are the capabilities? What exactly is the benefit of like, investing so much in this technology and making these changes?
+
+00:12:58:57 - 00:13:23:28
+不明
+So what we did is we partnered with Adobe, brought them in, sat everyone down that we talked to and their respective teams and did a full education session on the capabilities of the platform. And we also asked them to come and give us the art of possible so that people can imagine, like how this can affect their life and start thinking about ideas in their domains on like how they would want to approach this going into the future that we were heading towards.
+
+00:13:23:33 - 00:13:42:42
+不明
+After this, given that everyone was educated, we held like a very large, brainstorming session. It was very structured with 80 plus stakeholders or 80 plus participants and created a like a wealth of ideas that, that were, that were drawn once, as you can imagine, with 80 plus people, the amount of ideas that are, that are generated is like humongous.
+
+00:13:42:43 - 00:14:10:18
+不明
+Some of them are like really good ideas. Some of them like, we need to think about, like whether it's possible or not in today's world or like next future, but it might come next millennium. We formed a cross-functional team, like a core cross-functional team, to sift through these ideas and start prioritizing. So I want to kind of double, deep dive into it, because this is a very important part of, like anybody who is trying to like, implement API or is thinking about building a first party data strategy.
+
+00:14:10:22 - 00:14:43:37
+不明
+Cross-functional teams are very important because it cannot happen in a silo. If you're from marketing and you're thinking like, hey, like, I can do this. Like, no, you cannot do it without other stakeholders present on the table. So the structure of our cross-functional team spanned across marketing, technology, digital product and data. These were the four main pillars that were brought to a room to look at all the ideas that we crowdsource from, all the participants that we educated, and start working on a prioritization framework which would like lead us to what we call MVP.
+
+00:14:43:42 - 00:15:01:46
+不明
+So if you're wondering how does it compare to the audience today sitting in this room, it's actually like the top people here. 80% is made up of marketing, digital I.T and data, very similar to our cross-functional team that we created at Air Canada without collecting this data from this session, because this is happening one year later. So interesting insight.
+
+00:15:01:51 - 00:15:22:21
+不明
+Now how did we prioritize. We took these four pillars customer value. Like what kind of value would it create for a customer. Does it make their life easier? Feasibility. If it's a solution that like is it possible today or tomorrow in the long term, in the short term, next millennium, like we did, like take that into consideration because we didn't want to promise things that could not be done.
+
+00:15:22:26 - 00:15:44:37
+不明
+Viability. Is this viable from a business context, like if you are trying to sell airplane tickets, the easiest way to sell an airplane ticket is be like, hey, your ticket is free. Like, I don't know who's who's not going to buy that, but that's not a business, viable in a business context and usability. We did go down the path of like, figuring out like what it would look like and whether it's usable by a customer or not.
+
+00:15:44:42 - 00:16:05:01
+不明
+That was very important for us to make a decision. If it's too complicated, maybe let's not even think about it at this point. Next part. Next part. So we partnered with experts. So at Air Canada, we had like a clear view of what we wanted to do. We wanted to build a first party data strategy. We knew which building blocks we wanted.
+
+00:16:05:06 - 00:16:29:10
+不明
+We knew what kind of technology we were looking for, but then we didn't have the expertise within the company to be able to go and implement. So we partnered with Deloitte as a solution, solution implementation partner and Adobe Launch Advisory as our launch advisory partner, to be able to come up with a plan, refine the use cases that we defined into more actionable terms and be able to implement it and actually, make it happen.
+
+00:16:29:15 - 00:16:57:43
+不明
+So with that, I'm going to pass off the mic to turn to talk a little bit more about what Adobe Launch Advisory is. Thank you. Asher. As a field engineer, I have led many Adobe launch advisory projects and had the pleasure of helping Air Canada launch their use cases. So what is Launch Advisory? It's a core set of advisory services that provides best practice guidance for implementing an Adobe product for a new license.
+
+00:16:57:48 - 00:17:25:01
+不明
+Launch advisory establishes a solid foundation for continued development in the future. If you are an ultimate success, customer implementing an Adobe solution for the first time, reach out to your Tam, Ted, or CSM and let them know you're interested. If you're not an ultimate success customer but are interested, reach out to your account team and they will let you know how we can help.
+
+00:17:25:06 - 00:18:00:06
+不明
+Here's a summary of how we operate. We operate in four different milestones, and these are the milestones you can follow in your own app implementation to ensure a successful launch. The first phase is initiate which includes project roadmap and planning. The foundation of a successful implementation starts with clear goals, timelines and stakeholder alignment. By setting a structured roadmap upfront, we can reduce the risk of delays and ensure that all teams are aligned for a seamless implementation.
+
+00:18:00:10 - 00:18:26:34
+不明
+The second step is define. This is where we review your Build the business requirement documents to ensure that the use cases are aligned with your KPIs. We encourage our customers to think about the success criteria of all of the use cases. Our goal in this phase is to ensure that Adobe's solution aligns with your business objectives, reducing risks and maximizing value.
+
+00:18:26:49 - 00:19:04:03
+不明
+From day one. Third step is design, which includes architecture review and guidance. A well-designed architecture ensure scalability, security, and integration with existing systems. It ensures that your Adobe solution integrates seamlessly and is built to scale with your business. In this step, we review solution design documents for each ERP solution. So if you have. Okay, target, we, review each solution design document separately and provide recommendations.
+
+00:19:04:08 - 00:19:22:50
+不明
+Last but the most significant is go live. We have our own go live checklist that help customers confidently go live by ensuring all critical aspects are validated and potential risks are mitigated before launch.
+
+00:19:22:55 - 00:19:52:00
+不明
+So we work with Air Canada and Deloitte and prioritize these two use cases. Use case number one abandoned cart recovery. So what strategy is Air Canada using to bring back 80% of abandoned car travelers that we talked about? Second was credit card wynnbet. How do we convert a single visit customers into loyal customers? Let's hear about these use cases in more details from Azure.
+
+00:19:52:04 - 00:20:14:30
+不明
+Thank you. So as I mentioned, 80% of people dropping off. That's a huge amount of revenue being left on the table. So the main problem that we were trying to solve was to quickly reengage with these, visitors, to the website in a way that was meaningful. And that brought us back to revenue in whatever form possible.
+
+00:20:14:34 - 00:20:30:58
+不明
+The primary KPI we were looking to maximize was, look to book. So for those of you who do not have an airline context, that is the main KPI for an airline, website, who is selling tickets? Look to book means like how many people purchased a ticket divided by how many people came in a visit and, like, searched for a flight.
+
+00:20:31:03 - 00:20:53:01
+不明
+So classic conversion rate just in airline context. So before we get into the solution, we want to start with an understanding of Air Canada's booking funnel. I think most of you or all of you in this room have probably booked a flight at some point in your life. And if you think about it like the way it works is you go on the website, you put in your criteria and you click search.
+
+00:20:53:06 - 00:21:09:37
+不明
+Then you land on search results where you have all the options of different flights that you can book. You make your selection after you've made your selection. The website tells you like, hey, do you want to review the details that you just selected because it's an expensive item that you're going to buy? So that's called review flights. And the last part is like payment.
+
+00:21:09:37 - 00:21:26:44
+不明
+After you make the payment, you have the ticket in your hand and you're happy to go wherever you're going. So that's exactly what our conversion funnel looks like. We have search result review flights and then payment. The one insight that we I think all of us should understand. Maybe it's a secret, maybe it's not. But then it's a conversion funnel.
+
+00:21:26:49 - 00:21:46:09
+不明
+The deeper you go, the higher the intent. They don't even know about it from before. No. Yes. Okay, so we actually took that to heart. Like that insight. I think it's a common wisdom at this point. However, like Adobe has been giving us access to Adobe Analytics for a while. We've all learned the hard way. That's the truth of the world.
+
+00:21:46:13 - 00:22:09:36
+不明
+We divided our, funnel. We we took take flight, took a lot look at our funnel, and we divide it into two tactics. At the top we have the top and bottom funnel. So top and bottom top being search results mid being review flights bottom being payment. We wanted to do something for these guys. And we also if you see there's something called medium to high value customers what does that mean.
+
+00:22:09:41 - 00:22:38:17
+不明
+So in snowflake given that we are an airline with a massive loyalty program, we get different signals from different sources and we are able to create customer scores for them. And we can actually know like which one is a high value customer based on different signals. Which ones are medium value customer. So we we didn't want to bombard people for like, the 80% chunk that I talked about, like, we didn't want to get into a situation where anyone who's coming on our website is getting, like, targeted with like, things that like, can be expensive.
+
+00:22:38:22 - 00:23:02:35
+不明
+We we took our focus. We focused on medium to high value customers at the bottom, like for bottom funnel people and Hoover high value customers. We had an added, incentive. So which I'll walk you through. So what did we do for like, the top part? We started sending people emails. Who qualified for, either of those, credit for all of those criterias, these emails were sent in a timely manner where we could capture the intent of the person.
+
+00:23:02:40 - 00:23:18:33
+不明
+And the email was designed in a way where the CTA would lead them directly into the booking flow, reducing friction for them to go back to the website, put in their origin, destination, departure date, return date, whether it's one way round trip, multi-city again. I just like said like ten things that you have to do before you can search for a flight.
+
+00:23:18:37 - 00:23:41:39
+不明
+So that's extensive. We wanted to remove that friction with paid media. Unfortunately, we couldn't get to that point. But it's a double edged sword. If you think about paid media, we were able to now reach out to very relevant people who abandoned our flights using customer lists from CDP. And then at the same time, as soon as they booked, we were able to remove them from the customer list and like hence reducing our media based.
+
+00:23:41:43 - 00:23:56:47
+不明
+When it comes to webinars, we were able to design experiences for people where again, like one click and they're back into the booking club they don't have to go to. I'm gonna repeat it again just to just to remind everyone of the friction. But an origin destination, departure date, return date, what type of flight is it on? Then click on search.
+
+00:23:56:47 - 00:24:24:31
+不明
+So we remove that friction and we deliver this experience through Adobe Target. Now talking about bottom funnel in high value customers. We know that intent was very high here. And we knew, that these are very high value customers that we really value. We had an incentive. The incentive was if they booked within a certain time period, they would get loyalty point, bonuses that again, like goes back to our Canada because the the place they can spend those loyalty points is where they're Canada.
+
+00:24:24:36 - 00:24:45:52
+不明
+So creating that loyalty loop. So again we use journey Optimizer and Target to be able to make this happen. Now if you think about this use case like, this is being done on Air Canada's booking flow. I'm just going to refer back to the the conversion funnel again. Our app allows us to be able to, calculate, like where is the person dropping off?
+
+00:24:45:52 - 00:25:06:39
+不明
+And we can run those queries in real time with, like, some time, like, however we design, however we want to design, which is not a capability before. Like we were capturing all this information from, Adobe Analytics before, but to action it, it had to be downloaded by a data feed and had to go through like snowflake that that process would take like a day and then like another day added for like to be processed, to become like tables.
+
+00:25:06:39 - 00:25:24:38
+不明
+And then someone would take it, put it in campaigns, send an email. Like this all got reduced to like a very short time frame right now, taking on like the base that we set up. We looked at another use case, which is credit card feedback. So Air Canada is a large airline. We have a very large loyalty program and we also have co-brand partners.
+
+00:25:24:43 - 00:25:44:31
+不明
+That means we are in the business of credit cards as well. And these credit cards are great because they're a value exchange for both, like there's benefits for Canada, but the benefits that customers get are like amazing from these credit cards. What we do as a company is we offer these, credit cards with a statement credit if someone is booking a flight, if they don't have a credit card already, and based on different rules.
+
+00:25:44:36 - 00:26:02:33
+不明
+So the challenge for us was to identify and retarget high value customers for these co-branded credit cards. And the primary KPI that we were trying to drive was like credit card acquisition, because we would like to have our customers have this credit card so they can enjoy the benefits that they provide. Now, coming back to the booking funnel, I don't need to repeat the insight that I have.
+
+00:26:02:33 - 00:26:25:59
+不明
+Like I think we we are certain that it's, age old wisdom at this point. I guess. But the added layer here is like on review flights and on payment. We, we provide these credit card offers. Right. And these credit card offers that we provide on the purchase. But are exclusive, like if you are going to the market trying to like get this credit card, you might not get like as sweet of a deal as like you would get within the booking club because there's like some intent built in.
+
+00:26:26:04 - 00:26:44:31
+不明
+So what did we do? So we looked at the bottom funnel and we looked at the high value customers that we consider, like high value based on very different signals from like flights. As the our loyalty program, we get multiple different types of signals. Some signals might be relevant for abandonment of card. Some signals might be relevant for credit card acquisition.
+
+00:26:44:31 - 00:27:06:49
+不明
+So we have those two. And then we came up with a strategy. We started sending emails after they had abandoned our cart with certain, rules built in with the special points and statement credit offer to incentivize credit card signup so everyone has full access to the the mass market offers. You can find it on the bank site, you can find it on our site.
+
+00:27:06:54 - 00:27:22:55
+不明
+But these specific people who we are invite as like very valuable customers. We started reaching out to them with like a very special offer that was tailor made to them, paid media again, this time in paid media. It's actually beneficial because we can actually reach out to them with an exclusive offer, and they can land on it and they can apply.
+
+00:27:23:00 - 00:27:45:06
+不明
+And it again, it's a double edged sword, like once they have applied for a credit card and or have acquired a credit card, we can stop the media for them. Reducing media waste on web an app. Again, we use target in this case like to be able to like qualify for the same offer that we were sending by email and paid media so that they could have access to it if they even organically return to the website, like on the homepage itself.
+
+00:27:45:10 - 00:28:00:45
+不明
+So that was the solution. What was the impact? So the very first impact is we saved weeks of effort in manual setup through automation. So if you think about like, we used to do abandoned carts, I'm just going to take that example through Adobe Campaign, we did have to do manual data pushers to be able to make that happen.
+
+00:28:00:45 - 00:28:26:26
+不明
+We automated it to some extent, but this time we are getting real time signals from the website. Hey, this person has dropped, we have data, the seller doing our trainings to be able to like realize, okay, like I came here, he dropped. This was the last search he did. Let's target him for this. So that's like something like we are really happy about like but we are set these we are able to set these campaigns and then forget about them because we don't need to like go and tweak them like every other day.
+
+00:28:26:31 - 00:28:42:16
+不明
+This has also enabled us to think about like how do we optimize things? So instead of like bringing about the operation we are focused more on, like whatever we did, how do we tweak it to make it better? The second part is it resulted in higher look to book and credit card acquisition. So we are reaping the benefits of that.
+
+00:28:42:16 - 00:28:57:57
+不明
+Like I did not put exact numbers here because I didn't know what I was supposed to say or not, but I can assure you it's that it's higher numbers. The third part is we built a strong foundation for scalable, intent driven personalization. So this one I did want to touch upon. And I think it will be logical to a lot of people here.
+
+00:28:58:12 - 00:29:18:03
+不明
+So from an airline context, like if we go back to the conversion funnel that we have, this is like an airline's mean revenue driver for the most part. Like very like, the bread and butter is created. So right now we are, we are enabling like abandoned cart for like flights. We did abandon cart kind of or went back for like, credit cards.
+
+00:29:18:03 - 00:29:33:38
+不明
+It's all in the booking flow, but we sell a lot of other products that we were never able to market effectively for. On the booking floor itself. If you are in North America, like, as you know, like if you travel within North America, there's no free meals. Well, that's a product for us that we sell on the booking cloud.
+
+00:29:33:43 - 00:29:56:33
+不明
+We haven't done it, but it's the same data pipelines that are required for us to be able to spin up like campaigns for people who booked a flight, already have a credit card, but they did not buy a meal when they were booking their flight. Let's reach out to them and like actually upsell that product now. Like you guys might also like, look at like seats, like seat selection is like a big part of, like your airline booking experience.
+
+00:29:56:38 - 00:30:21:18
+不明
+That's something we can do as well with the same foundation that we laid down. So going back to it. So I'm just going to repeat this. This is a strong foundation from an airline perspective. But if you think from an e-commerce perspective like abandoned card is like an easy one, but then you can come up with ideas that that not only enable you to fulfill that use case, but also also scale it forward so that you can solve for like a lot of problems with like one single effort.
+
+00:30:21:23 - 00:30:54:49
+不明
+Now I will pass on the mic to Tanmay to talk about how did Adobe help scale personalized journeys. So let's bring it all together. Before Adobe's implementation, Air Canada's data collection and CGM tools operated in silos, making it difficult to create seamless, personalized experiences. Customer data from different sources were fragmented, preventing a unified view of the customer journey.
+
+00:30:54:54 - 00:31:30:49
+不明
+By integrating Adobe Journey Optimizer and Adobe Target, Air Canada was able to bridge the gap between data collection and journey orchestration. Real time customer data now flows seamlessly, allowing automated triggers for personalized engagements across channels, ensuring timely and relevant interactions across multiple touchpoints. So what is the business impact from all of this? Number one, higher conversion rates. More travelers return to complete their booking and we have higher credit card conversion, increased operational efficiency.
+
+00:31:30:54 - 00:31:58:50
+不明
+Teams no longer need to manually build and update their journeys because it is fully automated. Last, improve customer experience. Now our customers are seeing the experience that they want to see. I hope you enjoy your journey. Now over to Azure to land this plane and talk about what's next. What does the future look like? Thank you so as you can imagine, we added a lot like we only started this implementation in April.
+
+00:31:58:55 - 00:32:19:54
+不明
+And actually no, not the implementation. It started with the brainstorm. Now we started implementation in April. Sorry, I'm just having a moment here. What is the next step like? We added a lot to our Canada. We talked about first party strategy. We implemented it like, how are we planning to scale it forward? The next step for us is to transform marketing practices to create and leverage intent driven experiences at scale.
+
+00:32:19:58 - 00:32:35:54
+不明
+I did a lot of technology, got the people right, people in the room, but we never got the chance to like build out processes that can help us scale it like beyond, like what we're doing today in a meaningful way. That's something we are actively spending our time and investments in. And I guess like another Adobe product, shout out, like work Front is on top of our mind.
+
+00:32:35:54 - 00:32:56:33
+不明
+I'm just going to leave it at that. And we see a path forward, like where we can do this and then we can get into the content world, scale it like an amp it up like beyond, like what we're doing today. And that's when we have like a full, personalized end to end chain of like making things happen for the customers in a meaningful way, using first party data.
+
+00:32:56:38 - 00:33:17:13
+不明
+So after next steps, I want to move on to, I would like to close this presentation out with some key thoughts that I have. Our closing thoughts, I would say the first one that I learned, like over the years that I've spent like, doing this is personalization at scale, requires cross-functional collaboration. It it cannot happen in a silo.
+
+00:33:17:18 - 00:33:30:38
+不明
+I've seen it. I've seen a lot of things that were tried to be that we tried to do in a silo and like, they did not work out like this one. Like we need to understand, like marketing needs to come to the table. But marketing cannot do it alone. Data needs to come to the table, but they cannot do it alone.
+
+00:33:30:43 - 00:33:53:36
+不明
+Technology needs to come in to come to the table. They cannot do it alone. Digital product needs to come to the table as much as they think they can solve all the problems they need. Collaboration. We have our director of Digital product sitting right here, so I just want to go out of my. Strong foundational use cases, set the stage for a scalable, scalable, personalization.
+
+00:33:53:36 - 00:34:18:46
+不明
+So again, like I'm going to go back to our airline example of just having that like booking flow, like the data collection in such a way that we can start enabling multiple different products. It's not the only opportunity within an airline. That's the one that we have enabled. We have a backlog of scalable opportunities that we have every start with something small, and then we can keep and keep on expanding it without the need for additional data or like additional attributes to be added to the to the CDP.
+
+00:34:18:51 - 00:34:36:33
+不明
+Next one is maximize the value of every data source and custom attribute. I guess, like I repeated my previous comment here, as the word says, like, sometimes, depending on which company you're working for or what your setup is like, it cost money to bring in the data into the CDP as part of like data engineering implementation or whatever you have to do on like your, backend systems.
+
+00:34:36:37 - 00:34:54:15
+不明
+So just make sure when you're planning this out, think about the future, how you would potentially leverage it, and try to make sure you're maximizing everything. Define a clear scope upfront and stay disciplined. Avoid scope creep and focus on delivering impact. So I think, I'm going to call Adobe guilty of this. They give us a lot of like nice use cases.
+
+00:34:54:19 - 00:35:10:33
+不明
+So when we were looking at the like they talked about marketing, that all of a sudden they pivoted to customer contact centers and bunch of things like, I think it's for you as a company to realize, like, hey, you need to start somewhere, somewhere small and like maybe put your focus on that and then start from there. So we we put our focus on marketing.
+
+00:35:10:33 - 00:35:27:02
+不明
+That's why you're hearing a lot about marketing. We were told about customer contact center like that. We could like get benefits from we did not touch that because we needed to focus on one thing and make it happen. And then I think we're in a situation where we if we want to get customer contact centers like onboard, we can like we just know how to work the system now.
+
+00:35:27:07 - 00:35:49:11
+不明
+But we maintained a clear focus while implementing it. And the last one is, prioritize internal team enablement and change management, like partners are amazing. Their data support. But strategy lives in-house. So this is something that we are focusing a lot on right now, making sure that internally, we are enabled to do everything with this platform that we intend to a lot of education happening for, like teams, like marketing.
+
+00:35:49:11 - 00:36:05:51
+不明
+So that and like digital product. So for them to understand like what are the capabilities we are adding. So actually I did not mention like I'm part, like part of that cross-functional team. I'm like tech. So a lot of education from our side to for them to know what kind of tools they're getting in their hands, like to be able to make it happen.
+
+00:36:05:56 - 00:36:27:40
+不明
+And that's about it. Like, I would like to open it up for Q&A and there's some interesting stats where like who's present in the room. I think more than 200 people signed up, but it's a Thursday, so that is the sign up stats. Yeah. Okay. Thank you for joining and for joining.
+
+00:36:27:45 - 00:36:28:50
+不明
+You.
+

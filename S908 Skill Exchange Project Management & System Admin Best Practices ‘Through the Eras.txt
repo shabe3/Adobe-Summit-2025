@@ -1,0 +1,344 @@
+00:00:00:01 - 00:00:27:57
+不明
+Here has been super excited to go to a concert, only to have a bunch of mishaps. I know I have starts with the Uber being late bag too big for security, QR code or tickets not loading. Are pulls not working? Now, I know many of you are project managers or marketers in here, and you're usually on top of your game, but even the best of us can use a little bit more organization in our lives.
+
+00:00:28:12 - 00:00:54:25
+不明
+So that's what we're going to cover today. We're going to dive into some practical tips for both system admins and project managers that you can take back to your companies to avoid any mishaps. So we're going to take you through the eras of our work from journey. And if you're a little like me, you may have been overwhelmed whether you were inheriting an instance or starting from a blank space.
+
+00:00:54:30 - 00:01:11:55
+不明
+Then we'll move into the three core principles for system admins and project managers, and just how important the partnership is between the two. We'll cover some key takeaways. And finally, we're excited to hear from you and take your questions at the end.
+
+00:01:12:00 - 00:01:36:52
+不明
+My name is Becky Barrus. I'm the work front technical lead and system administrator of marketing at Qualcomm. So I basically help teams align their processes, get people to use the tool, and I build stuff and work from. And I'm Alisha Huntington, I lead brand operations, which in a nutshell means I manage creating the assets and I manage the tools that gives those assets to everyone who needs them.
+
+00:01:36:57 - 00:01:43:46
+不明
+By the way, did you guys know that Becky has over 1300 photos of cats on her phone?
+
+00:01:43:51 - 00:02:06:25
+不明
+Speaking of animals, I don't know if you know this, but Alisha is terrified of those turkeys that run around on the East coast and any other East coasters. Or see those big turkeys, okay. They hang out in graveyards and they are giant. And that's where Alisha spends all of her time. Barely. Boston is only graveyards.
+
+00:02:06:30 - 00:02:23:11
+不明
+So what's been going on in the world recently? Oh, yeah. So we had a polling system, and it was going to be live and super interactive and just like before you go to a concert, you want to make sure that there's not going to be any mishaps. But today there was a mishap. So it's not working. But we want to get an idea of how everybody's feeling.
+
+00:02:23:11 - 00:02:49:24
+不明
+So who's ready to go home? Yeah. Okay. So what's been going on in the world recently, besides how we were feeling and the fact that we've been in Vegas for a few too many days. The US won over a thousand gold medals in Paris at the Olympics. Yeah. And more than 10 million people attended the Taylor Swift Eras Tour.
+
+00:02:49:30 - 00:03:15:56
+不明
+Myself included. The world's longest scavenger hunt ended after 31 years. And if you're like me, you found out that there was a scavenger hunt that lasted for 31 years. But most importantly, Qualcomm rolled out work for project tracking.
+
+00:03:16:01 - 00:03:40:36
+不明
+But what? More times like before we had work front. As we all know, typically leadership will declare we want to do more of this or let's kick off this amazing program. Then the department heads will take that information back to their teams and instruct them to kick off all of the relevant projects. And previously, before we had work from those teams and project managers would go into hyperdrive.
+
+00:03:40:40 - 00:03:59:39
+不明
+And in order to kick off all of those projects, they had a lot of requests and they'd have to figure out things like, how do I send this request to. What information do I need to include in this request? How long is it going to take for my requests to get completed? And of course, the biggest question where do I submit this request?
+
+00:03:59:43 - 00:04:20:38
+不明
+So we knew what we needed to do, but we didn't have any set processes in place. So what happened? This happened. I'm going to assume that this maze of chaos resonates with everyone. Otherwise, you might still be sleeping and not here at the session today. We had all of these requests, but no one really knew who was in charge of what or where everything should be going.
+
+00:04:20:47 - 00:04:48:22
+不明
+Organizationally, it was a huge mess. Not to mention all of this was being done in multiple different tools from Monday.com to Base camp, Jira. Good question for you guys. How many project management tools does your company use? And as a reminder, as a reminder you should be able to refresh the browser. But we're not sure. We're not sure if the tools are working or not.
+
+00:04:48:27 - 00:05:08:33
+不明
+All right. So it looks like a lot of you were where we were at as well, using a lot of tools. And now some of you are at the place where we're headed to one tool to rule them all. So that's great to see. We have a variety of everyone in the audience for where you're at in the journey.
+
+00:05:08:38 - 00:05:30:54
+不明
+So now times have changed since we rolled out work from back in May of 2023. All requests are now streamlined in one global enterprise tool, and we have our teams then managing and executing on the work. But I remember thinking, are we out of the woods yet? Now that we have the instance set up, everything's in place. We're not out of the woods yet.
+
+00:05:30:59 - 00:05:51:13
+不明
+So there's so much more to do. And now that an instance is set up, how are we going to organize over 40 teams custom workflows? How are we going to get people to use the tool and shut down all of the other tools? How do we establish governance and provide access to over 45,000 employees?
+
+00:05:51:18 - 00:06:18:07
+不明
+We knew what we needed to do, but we had to figure out the best way to get there. That's when we established a strong partnership between our system admins and our project managers, our power users. You may also refer to them as your Tiger team leads, or just the people who are managing and doing the work. By having this strong partnership between the system admins and the project managers, we figured out that we could create a well-oiled machine.
+
+00:06:18:12 - 00:06:44:54
+不明
+So we established the strong partnership between the system admins and the project managers. And then we developed our three core principles organization, governance, and maintenance. These are important important for both sides of the partnership, both from the system admins point of view and the project managers point of view. Diving into our first core principle organization. Just like before you attend a concert, you have to get organized.
+
+00:06:44:58 - 00:07:04:37
+不明
+You're going to want to figure out what you're going to wear. You need to make sure you have your ticket. Your Uber is ready to go. The same goes for work, friend, before rolling out a brand new tool. You need to make sure that everything and everyone is completely set up before you can implement. You also need to organize the instance.
+
+00:07:04:42 - 00:07:22:50
+不明
+So question for you guys. What do you think your system admins struggle with the most when it comes to organizing your. And also by the way for this question these are ranked. So you'll have to press submit at the bottom of the screen. Scroll down at the bottom.
+
+00:07:22:55 - 00:07:48:15
+不明
+All right. So it looks like most of you are struggling with reports and dashboards. We are going to cover all of them today. So we'll dive right in. So we're starting from a blank space. Some of you might have inherited an instance or you got a brand new instance. But what are some tips that you can do to get organized?
+
+00:07:48:19 - 00:08:14:06
+不明
+We know there's a lot of things to organize in an instance. You have the people, you have the work itself. You have the users. You have security. Let's start with the users first. So adding a custom form on all of your users to track data with the calculated field is super helpful. We use home team so we can help attribute the work properly to each team.
+
+00:08:14:11 - 00:08:45:17
+不明
+And then we organize our users by internal and external. This is extremely helpful as well because by putting an abbreviation after users names, labeling what company they're for really helps you identify who is at your company and then who's an agency partner. They also use a separate login as well for externals, for internals. We have also set up through Microsoft Azure and an internal list, and we're using attributes home group and access level for what we use for the attributes for us.
+
+00:08:45:23 - 00:09:10:45
+不明
+So we placed users into different companies. So we have our company. Then every agency has their own company. And then if your legal team is working in your instance chances are they have privileged information. So legal is also in a separate company for us as well. One other tip to organize your users is to identify job roles in the beginning.
+
+00:09:10:51 - 00:09:31:03
+不明
+And this is super helpful later on because when you're you're assigning work out and project templates through the work load balancer bulk assignments, then you'll have the users assign. You'll be able to assign them right down in there. So I see some people shaking their head that they can resonate with this one too.
+
+00:09:31:08 - 00:09:54:57
+不明
+Next for access levels. So this is another way to get organized. So we organize all of our axis levels internal and external. So for externals we want them to have a little bit more restriction. We don't want them to see everything that internal employees can see. So we have two different types of access levels internal and external. And then we have requesters or reviewers.
+
+00:09:55:06 - 00:10:16:52
+不明
+And that access level is actually going to be the default for everybody who enters the instance. At the very minimum they can request. And then if they need more access then we can provide it to them. So we also have planners, workers, system admin and group admin for our other access levels.
+
+00:10:16:57 - 00:10:43:39
+不明
+Okay. So for organizing requests, if your team is anything like ours, you have a lot of different types of requests. So we organize our requests by functional team. And then we organize our requests by each request type that the team offers. Or organizing this way is going to make your life a lot easier because it's very intuitive for the users on where to go, especially when you have hundreds of requesters from multiple different partner departments.
+
+00:10:43:44 - 00:11:00:36
+不明
+Excuse me. This allowed teams to make ad hoc requests, and also it allows them to be a part of large projects as well, since the individual processes are all dialed in.
+
+00:11:00:41 - 00:11:28:27
+不明
+So some tips that you can use in your request skews are utilizing custom statuses. We use these quite often, so using under review or published will help you establish and know exactly what stage your requests are in. When you're setting up teams. As a system admin, if you label which teams are in tick teams, this is also super helpful because then you can identify which teams in the system are in taking requests.
+
+00:11:28:31 - 00:11:54:18
+不明
+And then utilizing the feature of building requests right into project templates is also very helpful. This was a big desire at Qualcomm as people wanted to see all of their requests in one place. And so by creating project templates with all the requests in related to that type of campaign, in the requests or issues tab was super helpful.
+
+00:11:54:23 - 00:12:22:19
+不明
+We also tracked Q topic with a calculated field, and if you're anything like us, you didn't organize the request queue completely, right? The first time. So as system admins, we know that we cannot change a path request that's set by the system. But what we can do is we can create a second field to override the first one and label it Q topic override, which will override the calculated field.
+
+00:12:22:24 - 00:12:52:55
+不明
+For projects, if your company uses fiscal years more than calendar years, then you can go into the project preferences and you can set custom quarters based on the fiscal year instead of the calendar year. This is going to show up on all the filters for projects and reports. Also, if you check off in the settings to use a template every time, this is super beneficial for consistency to make sure that the processes are repeatable and consistent each time.
+
+00:12:53:00 - 00:13:17:22
+不明
+And lastly, if you have multiple teams using a project or managing a project template the cross-functional project, then you can go into your access level settings and you can fine tune the planner access level to allow all the teams you're on to manage the project so that everyone has access and people don't have to keep pressing the share button.
+
+00:13:17:27 - 00:13:49:10
+不明
+For reporting. So system admins can stay organized by using taxonomy and naming conventions in their reports and labeling. What teams are using on each object. This is especially helpful for system admins in a. When you're using system admin and adoption dashboards, you can see what form is no longer in use and the team associated with that. So this is going to help later for when you're tracking what teams are using that you're building.
+
+00:13:49:15 - 00:14:15:16
+不明
+So as project managers, how do we stay organized. One of the great ways you can do this is having all different types of reports. Your reports can be as high level or as granular as your team needs them to be. Here we can see a report that's filtering by project template. And here we can see a report that's filtering by category and filtering by a specific person on the team.
+
+00:14:15:21 - 00:14:38:48
+不明
+And then within those initial categories that you have you can dive even deeper. You can see all of the individual projects assigned to each of the categories. And you can see all of the relevant information that your team needs to see. You also have the ability to see all requests and issues assigned to a specific project, and you can use the groupings feature to sort by Q topic.
+
+00:14:38:52 - 00:14:43:50
+不明
+This can really help your team stay organized.
+
+00:14:43:55 - 00:14:59:44
+不明
+So before moving on to the next section, I'd like to get an idea of everyone's turnaround times. How quickly are people asking you to complete their requests? Right? We got a mixed bag, but it looks like we're all kind of in the same boat. Nobody needs to leap.
+
+00:14:59:49 - 00:15:21:05
+不明
+So in my department, everyone needs everything now. We know that we're going to need to prioritize and then reprioritize and probably reprioritize ten more times. So having this type of you can be super beneficial for your team. You can use this view and project reports like this to have status meetings. And that's where you can determine okay what's critical.
+
+00:15:21:12 - 00:15:27:38
+不明
+What can we prioritize. It can be super helpful.
+
+00:15:27:43 - 00:15:48:49
+不明
+If you work with legal and creative teams, you know that they have a lot of requirements that they can throw at you, but they also want it to be very visually appealing and easy to use. So as system admins, what can we do for our users who have a lot of requirements but one that is visually appealing as possible?
+
+00:15:48:54 - 00:16:07:59
+不明
+We can start by putting the necessary information only, so we can utilize layout templates for all of the different teams or groups, and we can only put the relevant information for that team that they need to see in a layout template. Also, we can use the terminology feature. This is great because it will only use familiar language for those teams.
+
+00:16:08:04 - 00:16:18:31
+不明
+So an example of where we do this is we call our portfolios pillars and recall our issues requests.
+
+00:16:18:36 - 00:16:39:11
+不明
+You can also use conditional formatting and this will make very visual reports. We do this a lot. So for we do this for project phases. We also do it for brand type. And we sync a lot of our projects requests and tasks on calendars. And then with those calendars we have different ones for teams or big company initiatives.
+
+00:16:39:16 - 00:17:06:08
+不明
+So it's very visual. Now, not everybody is a fan of the Gantt charts and work front. So we utilize these pie charts to show progress easily, especially in a large program that contains several projects. So if you have hundreds of web pages and they all need to be translated in different languages, you can see what's complete versus what's left to do very easily on a program level.
+
+00:17:06:13 - 00:17:23:10
+不明
+This is great because on boards you can only use issues and tasks you can't sync entire projects on there. So when it comes to tracking an entire program and where all of the projects are in the program, this is a great way to see something on a program level.
+
+00:17:23:15 - 00:17:44:12
+不明
+Also request cues. So configuring request skews on a board with the configure button is also very helpful for teams managing requests. So these can be filtered and have custom columns. And if a card is accidentally deleted on the board, it will not delete in their request queue project either.
+
+00:17:44:16 - 00:18:08:46
+不明
+From the project management standpoint. How can we make sure that all of the teams that we're working with are happy? As Becky noted previously, having visually appealing and super easy to understand reports is really key here. Color coding goes a really long way, especially if you're a company or department that deals with a lot of different brands or different work streams or different teams.
+
+00:18:08:50 - 00:18:33:09
+不明
+The proofing tool is also super helpful. It's a very interactive element the work front offers. It saves you time on the back and forth because you can have multiple teams adding in their comments real time. Some of the great other features that you can utilize are deadlines, setting, assigning a specific person to approve, and the fact that you can see all versions of a piece of creative all in one place.
+
+00:18:33:14 - 00:18:52:23
+不明
+And from a user perspective, the board's view is also super helpful, especially with our creative teams being able to see your whole team and every single person and what all of their projects are is super helpful, especially for a team that's already kind of more visually organized.
+
+00:18:52:28 - 00:19:13:46
+不明
+And when you're working with different departments, like a legal team, you can create cross team functional dashboards. This allows you to determine the most relevant information that all of the teams involved need to see, and put it in one place. If you haven't already noticed, I have a huge theme of prioritization, which I'm pretty sure everybody can agree with.
+
+00:19:13:51 - 00:19:39:50
+不明
+Since things are always changing, it's really helpful to have one place where you can put in all of the real time changes and everyone can see it in one place. So moving on to our next core principle of governance. Just like when you're at a concert, you've got security making sure everybody's in line, got their ideas out there, bags are clear and the same applies to work.
+
+00:19:39:50 - 00:20:19:32
+不明
+For an instance. How do we establish guardrails without scaring people away or causing bad blood? So we can do that by establishing a core work front team that makes centralized and collective decisions on factors such as prioritization of teams during rollout, what to report on as a department, and using templates. Also, having a Tiger team with representatives from each major team is very big for governance because the Tiger team leads can be advocates and the first line of defense when it comes to any questions or concerns that people have.
+
+00:20:19:37 - 00:20:44:02
+不明
+Also, having a strong comes plan for these guardrails is really important. So having housing information in a resource center, along with updating your training docs is going to provide credibility and also be a great go to source for where people get all of their information. Communicating these updates and best practices regularly really helps users understand something, why? We're doing it in a certain way.
+
+00:20:44:09 - 00:20:49:52
+不明
+And so we do a monthly newsletter.
+
+00:20:49:57 - 00:21:17:31
+不明
+As far as reporting goes. Having standardized naming conventions on reports, projects and requests is very helpful as system admins. It'll help you keep track of what you built and also providing the right access to teams when it comes to sharing. You can use a standard set of fields on a universal form on every request in project, and this is going to help the core team track consistent high level metrics across the department.
+
+00:21:17:36 - 00:21:42:06
+不明
+Now, each team might have their own items to track, like email, team might check their email, open rate and social media team might track engagement. But this universal form allows for high level stats so you can be able to answer questions such as what percent of projects across the department are marketing to this audience, and what percentage of our requests are supporting the auto business or the compute business.
+
+00:21:42:11 - 00:22:04:55
+不明
+So how do we shake it off and enforce our practices and governance as project managers? As we saw previously, we started here in the chaos and now we are here in this process. Having traffic managers might be the most critical aspect. Now, an important note on this is that a traffic manager doesn't have to be somebody who was hired specifically to be a traffic manager.
+
+00:22:05:00 - 00:22:33:31
+不明
+It could be a coordinator or a manager, just somebody who's a designated first responder to handle this task, and ideally, somebody who is super organized. The traffic manager will help reduce the chaos and work front and stay super organized. They're going to be the ones running the dashboard and work front, looking at everything from a high level from the top down, and they're going to be in charge of delegating out all of the projects to the team members.
+
+00:22:33:36 - 00:22:44:31
+不明
+They're going to be able to use work front to run the status meetings by a specific brand, or by specific work stream or team.
+
+00:22:44:36 - 00:23:08:58
+不明
+As we saw in the survey results that we were all submitting. Everyone has different turnaround times in these status meetings. The traffic manager is going to be the one running the prioritization conversations. These reports can also be used to go to broader teams and also sometimes leadership. If you need to have larger priority discussions or figure out if there are things that can really get deprioritized or put on hold.
+
+00:23:09:03 - 00:23:26:08
+不明
+Moving on to our third and final principle maintenance. Just like when attending a concert or an Adobe Summit conference, you need to make sure that the tech support is is on it. It's imperative. The same goes for work from.
+
+00:23:26:13 - 00:23:38:22
+不明
+From a system admin perspective. Maintenance is very important for keeping our users out of trouble. Trouble trouble. Is there an echo in here?
+
+00:23:38:27 - 00:23:55:52
+不明
+From the moment your users walk into the tool, you should create reports that can audit them. So from a maintenance perspective, we want to know last login date and who to deactivate and also who is using the tool.
+
+00:23:55:57 - 00:24:28:44
+不明
+So for maintaining reports and templates to maintain the object you built for users, I recommend downloading the system admin and adoption dashboards. This is going to tell you data such as how long projects have been open. So if you have some that have been open for very long durations, maybe someone forgot to close any information left blank that you need to be have filled out, and then any items that are no longer in use so that you can deactivate what's needed, or even ask those teams and follow up like, hey, I noticed you're not using this anymore.
+
+00:24:28:44 - 00:24:56:12
+不明
+Do you need a new process? As system admins though, our goal is really to set up items so that you don't have to maintain them super often. So picking a factor that doesn't change frequently for your reports, such as into assign team, that's like one that we use, particularly on our reports. That doesn't change super frequently is very helpful from a maintenance perspective, so you don't have to keep going in and adjusting it every time that there's a change.
+
+00:24:56:16 - 00:25:14:57
+不明
+And then updating fiscal years at the beginning of the year is super helpful as well, so that you have it there for your users from the get go. And they can use that instead of reaching out and asking. It's a great way to just keep things maintained. In your instance.
+
+00:25:15:01 - 00:25:34:01
+不明
+Lastly, a tip for maintaining your entire instance is just being aware of announcements like when to update your SSL certificates or the latest quarterly product releases. So you can do this by just checking out the Announcement Center and Experience League regularly.
+
+00:25:34:06 - 00:25:57:20
+不明
+As we all know, nothing ever stays the same. Our departments and companies are going to be continually changing. This also means that we need to continually optimize our processes and how we use work from. There are many types of reports that every team is going to use, and no team is going to need the same reports. Having having the types of reports that make sense to your team is really important.
+
+00:25:57:25 - 00:26:12:02
+不明
+Using a report like this one. Or we can see the project requests that are coming in are going to be really helpful to stay organized and making sure that your projects are not getting stuck in the process, and that they're actually getting completed.
+
+00:26:12:07 - 00:26:33:33
+不明
+Going back to the reports that I was kind of showing earlier, having a report like this one that shows the project templates, types. This can give us a lot of insight. We can see here that the brand naming template is not really getting used. So we can investigate this. Why isn't it getting used. Is it too complicated. Do we not have enough communication around this project template?
+
+00:26:33:37 - 00:26:58:55
+不明
+What's going on here? And alternatively alternatively on the other side we can see that the ad hoc template is getting used a ton. So we can investigate on this as well. Do we have an opportunity to create a new type of project template based on the request that we're getting? Why are we using this one so much? Moving on to the reports that show projects by category and projects by specific team member.
+
+00:26:59:00 - 00:27:18:01
+不明
+We can use this data for optimization as well. If somebody has too many projects, or if there's another team member that doesn't have as many projects, we can use this to reallocate our workloads. We can also use this as a way to determine do we need more resources? And again, we could take this to leadership and say, hey, we need budget for our resources.
+
+00:27:18:01 - 00:27:40:04
+不明
+Look at all the projects that we have. Having this information can be super beneficial. All right. It is now time for the most important survey question of the entire presentation. What is one word that comes to mind when you hear Vegas? Well, we're happy that a lot of you showed up. It looks like there's a lot of partying and hangovers.
+
+00:27:40:09 - 00:27:47:26
+不明
+Oh, I guess we better move on. We can stay here forever.
+
+00:27:47:31 - 00:28:08:33
+不明
+One thing that might come to mind after hearing what we talked about for the last 40 minutes is. Yeah, right. This can only really happen in my wildest dreams to keep my instance organized, everything maintained. But in reality, these are very achievable steps that you can take back to your organizations as they worked for us at a big company.
+
+00:28:08:38 - 00:28:29:49
+不明
+In fact, don't just take our word for it. We have testimonials from all levels of the organization that show how much value work has provided. Once we achieve some of those steps, and we have people who are saying it allowed us to become so much more efficient, saves us so much time. Work that used to be handled over email items.
+
+00:28:29:49 - 00:28:38:03
+不明
+Hallway chats are now on a global enterprise tool. We now have a standard intake process.
+
+00:28:38:07 - 00:29:07:34
+不明
+So if you walk away from this presentation with anything besides an awesome friendship bracelet, obviously keep in mind these very realistic and easy key points. The first is that having a strong partnership between your system admins and your project managers will help you create an effective, well oiled machine. And lastly, our three core principles stay organized, establish governance, and have regular maintenance plan in place for all of your processes.
+
+00:29:07:39 - 00:29:13:03
+不明
+Putting these in place will set you up for success.
+
+00:29:13:08 - 00:29:30:20
+不明
+And now we want to hear from you. Let's hear your questions. Thank you both. That was amazing. Yeah. Thank you. You know. All right, just to wrap it up.
+
+00:29:30:25 - 00:29:49:14
+不明
+Hi. Okay, so please feed into your Adobe app. It will become an app and take the survey and give us feedback on how this session went. Read all of your feedback and we're going to use it to improve and, give you more of these skeleton sessions to meet your needs. And you may win, a couple of prizes in the process.
+
+00:29:49:19 - 00:30:17:40
+不明
+All right. And then experience league. Becky mentioned it earlier. If you have not heard of Experience League, you're missing out. Please bookmark the site. It's your one stop shop to get personalized tutorials, documentation, videos. It's to connect with the work around community here as well, and get your answers to all of your Adobe solutions questions. Finally, I'm excited to announce our new and improved work front user groups aka works.
+
+00:30:17:45 - 00:30:53:08
+不明
+They are customer led groups that bring people together virtually and in person. And, you know, we're creating open and inclusive community so you can network with your peers. You can problem solve together. You can skill up together. It's basically this, but more accessible because it'll be locally or virtually, suitable for you. And, just scan a QR code to join a chapter and check back because we're adding more and more chapters regularly.
+
+00:30:53:13 - 00:31:01:17
+不明
+The champion program. Do you want to talk about that? Julie? Oh, okay. Well that's it. Thank you everyone.
+

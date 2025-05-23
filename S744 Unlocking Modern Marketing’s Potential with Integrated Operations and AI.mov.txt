@@ -1,0 +1,596 @@
+00:00:01:26 - 00:00:24:51
+不明
+Thank you for coming. I'm Jake Carter. I am chief innovation officer at Kodaira, part of Omnicom. This is Phil Lockhart. He is our chief digital officer. And we're excited to talk about something that hopefully is top of mind, at least because you showed up for this session. And that's how do we optimize the effectiveness of our marketing in an environment that's constantly changing.
+
+00:00:24:55 - 00:00:53:20
+不明
+I think everybody would acknowledge pretty readily that marketers are facing ever increasing demands. You're constantly being asked to do more, faster, and we have this small AI thing. It's kind of reshaping the landscape pretty much as we're watching. So the question is, what do we do about that? Without an approach for that, what will naturally happen is we'll never optimize our effectiveness.
+
+00:00:53:20 - 00:01:12:20
+不明
+We'll never get the full return out of our marketing. My pitch to you to stay awake for the next 60 minutes is there is a way that you can think about your marketing will actually let you get to the results that you're looking for, just by, if you will. Thinking about its design. And that's what we're going to talk about.
+
+00:01:12:25 - 00:01:34:34
+不明
+We're going to explore a framework that we created called Correo that works in tandem with Adobe's products, mainly work front to help you go build towards effective marketing operations. We're going to talk about how it fits in some things that it enables. And then Phil is going to walk us through a couple very tactical examples of how it works in the wild.
+
+00:01:34:39 - 00:02:00:22
+不明
+Companies that have done this, so some real life case studies have seen things like 70% faster campaigns, 40% reduced costs, 50% faster launches. So all that, frankly, is my pitch for you to stay awake. I am fully cognizant of the fact that it is 230 in the afternoon in Vegas. So we will try to keep you slightly entertained.
+
+00:02:00:27 - 00:02:20:48
+不明
+Okay. Ready to dig in? Let us start with a little bit of fun. How many of you were in a casino? And any way, last night? That should be everyone, because you have to walk through it to get to your rooms. How many of you played a game in a casino last night? Oh, man, that's a little bit disappointing.
+
+00:02:20:52 - 00:02:46:07
+不明
+Okay. For those who did, whether knowingly or not, you experienced something called the house edge. And that is, for the uninitiated, this small edge that the house the casino has. Every time that you play a game. So the rules are set up such that the casino has a very slight advantage. I think this is generally common knowledge.
+
+00:02:46:12 - 00:03:02:35
+不明
+But if you don't know it, think about it this way. If you were flipping a coin with a friend, instead of having fair odds where you've each got a 50% chance of, you know, coming at your way, what if it was slightly weighted so that your friend had, let's say, a 52% chance of getting getting it to go their way.
+
+00:03:02:40 - 00:03:31:27
+不明
+That's what's happening. So it's the same in the casino every time you play a game. If you were to play long enough, the casino would always win. If you've heard the saying, the house always wins. That's what it is. It's not just a saying. It's actually a mathematical fact. Here's the thing. It's not just the math. Every part of the casino experience is designed so that the house always wins.
+
+00:03:31:31 - 00:03:49:03
+不明
+I want to show you if I can get my clicker to work. There we go. A couple of ways this plays out that you've you've experienced, whether you know it or not. So think about the layout of the casino. Have you ever noticed that it's a little bit like a maze, or like going through an Ikea where you can't ever find the exit?
+
+00:03:49:08 - 00:04:14:49
+不明
+It's intentional that you have to walk through the casino to get to your hotel room. Have you ever noticed the table rules again? Like the slight house edge? Or the fact that every casino you're in has bright lights and lots of flashing and lots of game sounds that keep you slightly on your toes, slightly disoriented, but feeling like you should be excited about something.
+
+00:04:14:54 - 00:04:37:58
+不明
+Have you ever noticed the staff is always perfectly on point for keeping the energy high? Keeping the pace of the games going? Or even the technology, whether you notice it or not. The facial recognition that happens at the door. The software that's managing the tables. The point is, every part of the casino is designed so that the casino always wins.
+
+00:04:38:00 - 00:05:03:42
+不明
+It's all set up to maximize the value or maximize the amount of money that you're spending at the casino. And I show you that to show you this. Switching over to marketing. What if you could design your marketing operations so that you could do the same thing that the casinos are doing? What if I told you that just like the casino is optimize everything such that the casino always wins.
+
+00:05:03:43 - 00:05:27:11
+不明
+You can maximize the value of your marketing. Just the right to design. What we're going to talk about is a way to do that. So before we do that, I need to lay a little bit of groundwork. And that's the challenge. So I'm going to spin through this. And the story goes something like this. At the highest level, the marketing game is getting harder.
+
+00:05:27:16 - 00:05:56:12
+不明
+I think that's generally common knowledge. What I mean by that, though, is we all know that we are living in this world where we have, it seems like an ever increasing number of channels that you have to serve faster and faster cycles of it's, you know, it's constantly got to get stuff out faster. An ever increasing number of processes, a growing number of tools that you have to use to support those processes, a sea of data and on and on and on.
+
+00:05:56:16 - 00:06:24:04
+不明
+That's why over the past decade, we've seen this proliferation of really powerful marketing solutions come out to help marketers do that. Adobe, of course, you're sitting here listening to this. This week is a leader in the space with Am, agile, real time CDP and all of the other acronyms. But what's happening is if you widen the aperture, we're actually living in a bit of a vicious cycle.
+
+00:06:24:09 - 00:06:56:31
+不明
+Consumer experiences grow, so we release all of these new tools to serve consumer experiences, and marketing gets more sophisticated when we do that. Consumer expectations grow again. So we go release new tools to serve them, and on and on and on. And the cycle continues. And that might seem like a good thing on its face, but what's really happening is every time we add to the level of sophistication, we're just putting more and more weight on marketers.
+
+00:06:56:36 - 00:07:21:16
+不明
+And those in the room who are marketers have probably experience that. You're like, why are you saying this? Of course I know this. The quote that I'm showing you here on the left side describes what's going on. So marketing is getting more sophisticated and more complicated every year. And while that might make marketing more impactful, it also puts enormous pressure on the teams to do more, faster.
+
+00:07:21:21 - 00:07:35:42
+不明
+And if you add to that, the constant pressure to reduce your costs, what you actually end up with is a world where we have increasing complexity and increasing congruency, incongruity.
+
+00:07:35:47 - 00:07:54:40
+不明
+And generally a bad situation. So the hard truth is this we can never software our way out of this cycle. That will never be the solution that works for us as much as we might like it to be. We have to change the way that we're thinking about marketing end to end, in order to get the results that we're looking for.
+
+00:07:54:45 - 00:08:15:00
+不明
+So what on earth do we do about that? If we can't software our way out of it? If software won't be the solution, what is what we can actually learn from a couple of other fields? We can steal what's working in other fields and apply them here. Two that I want to show you here are the fields of organization, design and corporate strategy.
+
+00:08:15:05 - 00:08:38:22
+不明
+I'm going to start with org design. So the gentleman whose photo you see up here, is Jay Galbraith. He was a renowned org design theorist and professor who is best known for something that was called the star model of organization design. Is anyone familiar with it? All right. Like when you went to boots. So of course you are.
+
+00:08:38:27 - 00:09:04:09
+不明
+The star model is a way for companies, really any organization, to think about how they're setting up their organization. And Jay Galbraith had three important insights. One is that when we're thinking about org design, we very naturally think about structure. Meaning what does the org chart look like? But his first insight was, hey, there's other things that are just as important.
+
+00:09:04:13 - 00:09:24:28
+不明
+And in fact, his argument was they become more important over time. So if you only focus on one, you'll never get to the results you want. That was his first insight. The second is that the elements don't just coexist. They actually interact with each other. That's why this is called the star model, because you can see the lines connecting.
+
+00:09:24:28 - 00:09:47:57
+不明
+People say the processes to structure and so on. And three different strategies naturally lead to different organizations or differently. There's no one size fits all when it comes to organization design. Rather, there's the best design given a particular strategy.
+
+00:09:48:01 - 00:10:22:14
+不明
+Makes sense. So if, for example, making something completely up, my company's strategy is to go release groundbreaking pharmaceutical drugs to the world. Then I might want people who push the boundaries, who think outside of the box. I might want a structure that puts power in the hands of those pioneers. I might want a reward system that rewards ingenuity and discovery and doesn't penalize taking risks.
+
+00:10:22:19 - 00:10:49:25
+不明
+I might want, let's say, processes that protect my IP and enable the science. That's the point. It turns out it's not just for design. So if any of you subscribe to Harvard Business Review and happen to read it this month, the title article in Harvard Business Review this month was something that was called the seven Essential Elements of Strategic Success, which is a mouthful.
+
+00:10:49:30 - 00:11:12:52
+不明
+But the point of the article was, if you're thinking about your strategy, there are a bunch of ingredients that you need to think about. And they were. And don't worry, I'm not asking you to remember this. The mental model of the company is business. So the simplified version of how does your company make money? The company's ambition or the reason for being how it creates value for stakeholders.
+
+00:11:12:57 - 00:11:42:06
+不明
+The macro forces like the economic environment, how it thinks about competitive advantage and creating competitive advantage. And of course, the operating model, the point of showing you that is to show you this quote, strategic fit, what the article calls strategic fit is the degree of alignment and synergy between those ingredients. When the fit is optimal. There's this multiplier effect.
+
+00:11:42:10 - 00:12:08:03
+不明
+So to give a really simple example, this is also from the article. You can also read this. If I recruit employees who are highly aligned with what I'm trying to do with my business, they're more likely to be engaged. If they're more likely to be engaged, I'm more likely to have innovative products. If I have innovative products, I'm more likely to have customers who are enthusiastic about my products.
+
+00:12:08:07 - 00:12:24:38
+不明
+If I have that, I'm more likely to get more customers. If I have more customers, I'm more likely to meet my financial results, which makes my my stakeholders shareholders happy, which makes my employees happy. And the cycle goes on and you can see where it's a virtuous cycle.
+
+00:12:24:43 - 00:12:42:24
+不明
+Now, that sounds very simple. And it's easy to recognize good fit in hindsight, but it's really hard to do. So this is another quote, pulled straight from the article.
+
+00:12:42:28 - 00:13:11:01
+不明
+Strategic fit has been more easily described by academics than done by executives. And this is the this is the important bit. Even leaders who appreciate it struggle to achieve and sustain it. So that's the set up. That's where Correo comes into play. So when I say Correo, it's a framework that we invented to help companies do this alignment thing to go find strategic set.
+
+00:13:11:06 - 00:13:30:15
+不明
+And then I only care about strategic fit and alignment insofar as it helps me get better results out of my marketing. That's the game that I'm in. So if you think back to the casino, where every element is designed to maximize the amount of money that they get out of you, it's the same thing with marketing. It's just different elements.
+
+00:13:30:19 - 00:13:54:11
+不明
+There are a number of elements at play in any marketing operation system that have to be considered and have to be aligned in order to get the best results. With Correo, we distilled those down to what I'm calling the five PS of Modern Marketing. If you're familiar with the four PS of marketing, this is me being cute and adding a p.
+
+00:13:54:16 - 00:14:15:36
+不明
+First up is the purpose. What is the marketing organization trying to achieve? Next you have the people, the processes and the platforms that bring that purpose to life. And then finally you have what we call performance, which is the elements that govern the operating model and make sure that it's actually working the way that it should be working.
+
+00:14:15:41 - 00:14:37:43
+不明
+Every marketing organization must have these five things. Or rather, I would put it differently. You do have these five things, whether you acknowledge it or not. But each of these has to be connected and reinforcing. And that's that's the main takeaway here. Now if you're thinking again, hey, this is really simple, I got this I've heard about people process technology forever.
+
+00:14:37:48 - 00:14:59:46
+不明
+I would point you back to the quote. Even leaders who appreciate this find it hard to achieve it and do it in practice. So with that in mind, I want to quickly walk you through the elements. This is the theory portion. And then Phil is going to show you some, live examples, recorded examples of how it actually comes to life.
+
+00:14:59:51 - 00:15:28:50
+不明
+So it starts with purpose. Again, just like in the casino where everything is designed to get get the most money out of you that it can in marketing, all of our activities should support what I'm trying to achieve as a marketing organization. That might be groups that might be, something like driving my number of users, driving sales, maybe building the brand.
+
+00:15:28:55 - 00:15:49:18
+不明
+It might be a portfolio of things spanning the marketing funnel. But the takeaway is, unless I know my objectives, I can't go design the rest of the things. The flow usually looks something like this. What? I'm thinking about purpose. I start very high level with my business objectives. Meaning what am I trying to achieve as a company?
+
+00:15:49:22 - 00:16:07:37
+不明
+From there, then I can think about what are my marketing objectives meaning what are the things that I need to achieve from a marketing standpoint that are going to support what I'm trying to achieve as a company? That then leads me to my capabilities of what are the things that I need to be able to do well in order to drive those objectives.
+
+00:16:07:42 - 00:16:36:22
+不明
+And then finally, then I can think about how well do I do those things? How do I go cultivate the capabilities that I need to have on hand? Where companies typically fall down here is in the intersection points of either they know the business objectives, but they don't own the business objectives and the marketing objectives. Or they know the marketing objectives, but they don't connect that to the capabilities that are required to go support those, or they even know the capabilities, but they don't go cultivate them.
+
+00:16:36:27 - 00:16:40:34
+不明
+It's the it's the breakdowns. They're.
+
+00:16:40:39 - 00:17:08:09
+不明
+One side of my purpose I can think about the next three my people, my process, my, platforms. And it is intentional. They're the same layer. Typically it starts with the people and we can think about the capabilities. But what I mean by people and what I want to call out is it's not just the humans. It's also the things like the roles that those humans fill, the responsibilities of those roles, the shape of the organization, of course.
+
+00:17:08:09 - 00:17:35:17
+不明
+So the structure, how do the pieces fit together? The spans of control, meaning who has decision rights over what? The skills and training. How do I uplevel my talent? The point in showing you this is it's a broader list than you might think. At first blush, and I have to be consciously connecting all of those decisions to get the results that I'm looking for, for marketing, at least over the last couple of years.
+
+00:17:35:22 - 00:17:56:05
+不明
+The biggest question has been the shape or the structure. How do I decide what the organization should look like? More specifically, what should be centralized versus decentralized? What should I be in housing versus what should I be outsourcing? How do I decide what that top level governing principle is? Do I do it by geography? Do I do it by function?
+
+00:17:56:05 - 00:18:13:46
+不明
+Do I do it by brand? So one of the things that we did and or I'm not going to go into this today is we built what I'm calling starter models of at least the most common patterns of okay, if you tend to be a brand that prioritizes centralized, what does that look like? What types of roles do you need?
+
+00:18:13:46 - 00:18:53:44
+不明
+What types of structure does that generally have? Next up is processes. This is the one that we all generally know the best. But what I want to call out again is it's a slightly bigger list than you might initially think. So if you think about just all of the processes that you naturally have across the marketing lifecycle, you have everything from your annual planning to your project planning, to your content production process, of course, to reviews of every kind, localization, optimization, launch, deployment, and on and on and on.
+
+00:18:53:49 - 00:19:08:49
+不明
+For most companies, best practice right now is think about this at two levels. I have at my top level the end to end life cycle, and then I have all of my discrete activity based processes.
+
+00:19:08:54 - 00:19:41:12
+不明
+The takeaway here, the main idea is I think about this as horizontal and vertical optimization. My in the in life cycle is my horizontal. It's the backbone that spans across. And then I have all of my micro processes for each of those individual activities like let's say reviews or production or deployment that connect to my backbone. And what I have to do is make sure that those are connected and aligned and make sure that they're consistent.
+
+00:19:41:16 - 00:19:47:39
+不明
+If you've heard the idea of vertical and horizontal consistency, it's that idea.
+
+00:19:47:43 - 00:20:13:41
+不明
+Thinking of processes naturally leads me to platforms. What platforms do I need to go support my processes and my people? They go hand in glove. Which is to say that usually if I change one, I have to change the other. And this is where Adobe comes into play. Surprise, surprise. Just like with the other ones, what I would call out for you all is you probably have more platforms than you realize.
+
+00:20:13:46 - 00:20:40:37
+不明
+Or maybe you do realize it. And that's part of the problem for most enterprise level marketing organizations. You actually have this ecosystem of platforms, each serving a particular purpose. And the challenge is how do you fit those together? The session that I was in right before this was talking about the challenges that companies face when they come to platforms and generally the challenge is integration of, hey, I've got the systems, but this one doesn't talk to this one.
+
+00:20:40:42 - 00:20:47:46
+不明
+And the data for that. You know, this one lives here and the data for this one lives over there.
+
+00:20:47:51 - 00:21:08:13
+不明
+The thing that I would call out for you, because we're sitting at Adobe Summit, is for a lot of enterprise organizations. This is where work comes into play. I talked about the backbone, the horizontal backbone. Work front is really naturally situated to do this. And then the question that everyone is asking is, well, how does I fit in here?
+
+00:21:08:18 - 00:21:34:59
+不明
+In our experience? It's not a question of replacing existing platforms, but it's a question of augmenting them. So I comes in as the optimizer. Then the automator around that core process. Phil, I promise we'll show you a couple of ways to do this. Last but not least, we have performance, which are the mechanisms that enable the operating model.
+
+00:21:35:04 - 00:21:53:40
+不明
+A couple of those. I don't mean this to be an exhaustive list, but think about all the things that are required to govern the model to make sure that it doesn't go off the rails. So everything from how do I do my measurement? How do I do my tracking? What are the KPIs that I'm pointing to? How are making those visible?
+
+00:21:53:45 - 00:22:13:50
+不明
+How am I handling accountability so that I know that people are accomplishing what I need them to be accomplishing? If I'm doing any sort of transformation, which is quite common with something like this, how am I managing that? And of course, how am I controlling funds? The power of the purse.
+
+00:22:13:55 - 00:22:42:34
+不明
+So the point of all of this is just like the star model with org design, just like the elements of strategic success in the HBR article. These five elements that I'm walking you through with marketing are all intertwined. I hope by now you get that. So if I want to go maximize my return for my marketing efforts, these five elements have to work together.
+
+00:22:42:39 - 00:23:05:30
+不明
+If you want one more analogy, it's over on the right. Think back to physics class in high school when you learned about sound waves. If you remember that, you might recall that when sound waves merge. One of two things can happen. They can constructively interfere, which is to say they can build on each other. And I get a bigger wave than I did previously.
+
+00:23:05:34 - 00:23:40:28
+不明
+Or they can destructively interfere and cancel each other out. What I'm after here is the former. I want the constructive interference. So I want each of my elements to be working with the others to amplify what I'm getting out of the whole. That's actually why we named this whole thing Correo. If you think about all of the things that have to come together to create an artistic performance, you have everything from, let's say, the dancers to the staging to the music, to the lighting and on and on.
+
+00:23:40:33 - 00:24:11:01
+不明
+It's the same idea with our marketing. So in the same way that with an artistic performance, everything has to be choreographed to produce this holistic composition. In marketing, all of our movements have to be orchestrated to get the maximization out of the whole. Okay, that is all well and good. I promise we're almost done with the theory. We didn't want to stop with just knowing what the pieces were and what good looks like.
+
+00:24:11:06 - 00:24:32:19
+不明
+We wanted to take a step further and look at how do we actually go activate this. So Correo doesn't just conceptualize marketing excellence. We operationalize it. I want to quickly show you what that looks like. And then Phil can talk about what it looks like in real life. The first step is typically looking at the design piece.
+
+00:24:32:24 - 00:24:55:12
+不明
+If I know what the five elements are, it's then a question of how do I fit them together into something that makes sense for my organization. In star model terms, I'm making those intentional design choices. So if I if I want to achieve a given strategy, what type of people do I need and what type of structure do I need?
+
+00:24:55:17 - 00:25:11:44
+不明
+What type of platforms and processes and on and on. Then I can consider how do I build towards that? Very few executives have the opportunity to start from scratch.
+
+00:25:11:49 - 00:25:32:29
+不明
+So usually this is a question of prioritization. Once I know what what good looks like for my particular organization, how do I sequence the changes to build towards that? How do I decide what I'm going to do first versus what I'm going to do later and defer? And what are the dependencies between the changes that I want to make that drive?
+
+00:25:32:29 - 00:25:58:37
+不明
+Those choices? And then finally, and this is where I think it gets most interesting. How do I optimize it on an ongoing basis? So one of the key challenges when I think about operating models is they have a shelf life. They become stale. The market shifts. The environment changes. And what made sense for one season doesn't make sense for another season.
+
+00:25:58:42 - 00:26:21:43
+不明
+That's why creating a way to do this continual optimization is pretty much crucial. Fortunately, that is also where AI becomes quite helpful. So I promise we are done with the theory bit. What I want to do is hand it over to Phil to show you some real life examples of what this actually looks like, and how companies have brought the pieces together.
+
+00:26:21:48 - 00:26:45:51
+不明
+Awesome. He was talking about Correo and you mentioned something about dancing. So this is a dancing point right now. You guys, you guys seriously don't want to see me dancing within that, but we are going to talk about the fact that he mentioned once you get these piece in order, everything's good, right? The casinos actually believe that in the 70s, 80s and 90s they had very strict processes within it.
+
+00:26:45:55 - 00:26:50:48
+不明
+But something changed.
+
+00:26:50:52 - 00:27:15:58
+不明
+Back here. Boom. How many people ever heard of Mr. M? Anyone? And it's okay, because during that time, the casinos actually hadn't heard of Mr. M yet either. But when they did, they were pretty upset. Why? Because Mr. M was the leader of that MIT blackjack team that actually came in and disrupted the casino industry. They took millions from the casinos.
+
+00:27:16:03 - 00:27:36:33
+不明
+They beat them at their own game, blackjack. And what they did is they changed the processes. All these things that we're talking about forever. And the biggest thing with with that is that the best disruptions don't break the process. They exploit the blind spots. And that's exactly what Mr. M and MIT Blackjack Team actually did. They didn't cheat.
+
+00:27:36:37 - 00:28:00:50
+不明
+They didn't change the rules of the game. They just noticed the gaps in the system that the House wasn't looking at, and they took advantage of it. While casinos were building their processes and their empires off of all these people, processes and technologies, the MIT team use something different these three DS instead, these discipline, they use deception, and they use data to beat them at their own game.
+
+00:28:00:52 - 00:28:24:21
+不明
+They turned that process against them, and when the casinos thought they had every single edge covered, Mr. M saw something that they that they didn't he didn't reinvent blackjack. He saw the cracks in the system and walked straight through them. And that was the biggest thing. So with this, you know, we want to be able to do is identify how do we look at our own systems and find those blind spots.
+
+00:28:24:34 - 00:28:41:27
+不明
+How do we make it better? That don't necessarily have to be huge disruptions, or this evil team that's coming in to actually disrupt the system. But we all have opportunities to improve, and we're at a casino, so it's fun to kind of think about that. So we're going to walk through a few different, different examples. The one here is a retail company.
+
+00:28:41:34 - 00:28:59:45
+不明
+This is something as being part of Omnicom we're presented quite a bit right. Is that hey let's go and prove this system. This is a retail company that that, sent out like 500 different emails. What they wanted to do was double that. Why? Because we need to personalize. Right. So can we do that? We're confronted with the fact that we're going to sign up to do that.
+
+00:28:59:56 - 00:29:16:33
+不明
+And how do we make sure that we can accomplish this and bring them success? So there's a couple things that we need to do as we're looking at this is that we need to scale this, and we need to understand the process itself. We need to understand the activities and tasks. We need to understand the employees that are involved in that.
+
+00:29:16:48 - 00:29:30:00
+不明
+And then we're going to look at how we can find bottlenecks, automation opportunities within it. And how do we scale that. So we're going to watch through an example. And a lot of the systems that are in place right now have a ton of data. So when we go into an organization we have to figure out how we're going to do that.
+
+00:29:30:00 - 00:29:57:27
+不明
+So we start looking at the data with within us. And we have to probably do a little bit. This come a fun exercise here with the the video that that plays here. So we've exported data from, from work for an instance that has everything from each task, each activity that's there. The people that we're involved with within it and the time and duration that's there, all this stuff is just naturally built into a work front, built into a primo asana.
+
+00:29:57:27 - 00:30:12:01
+不明
+We want to do is start understanding some of these things. So we'll walk through, how we can take this information and import it in, do some basic process analysis, and then actually use AI to figure out how we're going to attack this problem. So as we're looking in this, once we bring it in we've got the process visualization.
+
+00:30:12:10 - 00:30:28:28
+不明
+So it immediately actually goes through and creates what you're viewing there. And the thing to to take note here is that you're going to look at this. It's pretty linear right. Not necessarily great. We need some parallelization within this. We immediately have some views into what's what are some challenges in the bottom right hand corner. Those things are traces.
+
+00:30:28:28 - 00:30:43:22
+不明
+And this is like happy path versus all the different variations on that. You see there's quite a bit of it. Right. Which means there's taking different paths in order to get to the end. That's not always good. So what are ways that we can start to optimize that? The second thing is like what are the steps that are slow?
+
+00:30:43:22 - 00:31:04:10
+不明
+Let's take a view. And here we can actually see a lot of information. We can look at the different variations that are taking place and get a view of like what percent of those, tasks are actually contributing to the largest impact of that. So give us another quick view of this immediately as we're analyzing this. I think this is where I get to do the fun part here.
+
+00:31:04:10 - 00:31:16:05
+不明
+Just jump to the next one here.
+
+00:31:16:10 - 00:31:31:46
+不明
+So the second part we get to look at as employees as well. So you look at the distribution here. These are all the people that are taking part in the different steps within here. We actually look at the efficiency and the big thing that we're looking at here is, is understanding, how disparate is it. You know, there's actually differences in how each one of these are performed.
+
+00:31:31:46 - 00:31:47:20
+不明
+And what we're looking for is opportunities of people that perform different tasks well, as well as things that, might be including like some, some training involved within it. So we'll go through kind of quickly with within this and how we're going to take a look at the information that's there, the throughput. We're going to look at individuals here.
+
+00:31:47:20 - 00:32:05:40
+不明
+We're going to see like how well they perform versus the averages. Oh here's the stuff that's not so great. Second day we're actually going to compare the resources. Maybe something that's really well lessons learned. Someone that can actually train the individual within this lot of information that's just immediately available for us with the tools that we use.
+
+00:32:05:45 - 00:32:17:06
+不明
+The next thing is jump in again.
+
+00:32:17:11 - 00:32:23:04
+不明
+There we go. You do the same thing with activities.
+
+00:32:23:09 - 00:32:38:02
+不明
+How long does each activity take? What are the ones that we need to optimize? We actually get to see the integration and how they actually compound and impact each other. So when activity can actually slow down another one specifically if there's a dependency on this. So this will give us a view of it. And the last part that we want to take a look at.
+
+00:32:38:02 - 00:32:46:50
+不明
+I'm going to pause it for a second. Once we get past this activity duration and the transitions that take a long time.
+
+00:32:46:55 - 00:33:01:21
+不明
+This is the what if simulation. This one is the most important here, right? We talked about the things that can impact this. It's the resources. It's the tasks and the timing the that they're involved in there and the the steps. What we can do is we can actually say there's 534 different emails that you sent out right now.
+
+00:33:01:22 - 00:33:19:53
+不明
+What if we wanted to make this faster? We can actually say, let's look at steps within. There's we automate if we automate this step. What does that do to that to the system. What what kind of go through that. We take a view here and we we allow it to play out and then you see that automating these two steps are actually going make a positive impact to the overall system.
+
+00:33:19:53 - 00:33:34:53
+不明
+We can actually see what's going to happen with that. That's one step. We automate a bunch of different steps within that. That gives us a view of like we change nothing else, but we bring in some automation from work front or some of these, other efficiencies that we're going to walk through in a second. We can immediately make an impact.
+
+00:33:34:53 - 00:33:49:19
+不明
+So that gives us an idea that we can make things faster. The second piece is then how do we get to a thousand, right. We have to go through the same exercise and we can understand the breaking points. You turn it to a thousand, you're really going to see what step is the one that broke the process. Where is it going to fail first?
+
+00:33:49:26 - 00:34:09:23
+不明
+So maybe we bring it to, you know, 651st, then kind of step into it. This gives you an idea of of just how we address these problems. When we come into to help, the, the company evolve and get faster work front gives us a ton of visibility. We have the data available. We can do this pretty much instantaneously.
+
+00:34:09:28 - 00:34:43:28
+不明
+All right. I'm learning the system a little bit here. So one of the most important things everyone talks about I write a lot of times they don't talk about the hard work that goes into it. There's three things that are really important within architecture here. And what we're talking about is like something proprietary that we build and we help our clients utilize, and we're basically extending their existing data environments on here because that the first thing is a strong data foundation, because anytime you're going to use AI, if you want it to be proprietary, something better than just any large language model out of the box, you better have your own data and it better
+
+00:34:43:28 - 00:35:05:36
+不明
+be available. The second piece is flexibility within it, and the last like the flexibility, use lots of different large language models. And the final piece is if we're building this thing outside of a data environment, how do we make sure it's there's an integration point, right? Embeddedness. The example that we use is the fact that if you would actually create this system outside, you get some form, you can kind of paste some information in search with the large language model.
+
+00:35:05:36 - 00:35:26:56
+不明
+Looks really cool, right? But the the comparison we would use on that is if you built a spell checker that was kind of sat out in itself and you went over to word, copied all the information, dropped it into, this spell checker ran it, gave you the result, and then brought it back. Not super effective. So how do we make sure we create a system that can can bring that in embedded in.
+
+00:35:27:09 - 00:35:47:24
+不明
+So we've built a model. And what we've done with this is that we extend an existing architecture which is either AWS, GCP, Azure. We have the pattern sustained it up very quickly. The first thing is a data foundation within this. This is your existing data environment. We help you structure in a way that's useful operational data. Marketing data.
+
+00:35:47:29 - 00:36:08:16
+不明
+Anything from like a clickstream behavioral data, we understand the patterns because a lot of people use the exact same data specifically within an industry. The second piece is that now an AI workspace, Omnicom has been working with models for years. There are incredible agencies like like rapid critical mass Target Base. They have done a phenomenal models at 450 different models that they can bring in.
+
+00:36:08:31 - 00:36:26:31
+不明
+From an ML perspective. The great thing is that I very similar you can you can use an ML model. But like what a lot of companies don't do is they don't have that machine learning out. And that's kind of the key differentiator. This is a governance system that if you want to train it to your data, do you want to advance it in any way?
+
+00:36:26:45 - 00:36:40:31
+不明
+If you want to make sure you can keep it in production, you got to have that structure in place. So that's that's one of the key elements. And that's something that's been available for a while. So then we kind of build this aspect of everyone talks about a generic services right. So we want to make sure that we can provide services.
+
+00:36:40:35 - 00:37:00:54
+不明
+This would be like hey treat me to a brief do some type of multiple functionalities that are better built off of certain functions. A function could be like one thing help me with localization content. Help me actually go maybe make this sentence more concise. All these are things that you want to make sure that are available not just to one application, but to all your applications.
+
+00:37:00:54 - 00:37:17:30
+不明
+Right? All your martech solutions. Can you embed this in work front? Can you embed this in and make it available? You can if you do it the right way and you include an API layer. And we're going to show a little bit of that in action.
+
+00:37:17:34 - 00:37:35:26
+不明
+First we're going to talk through just how do we implement this. We got this box with a bunch of pictures and stuff like that. Yes. We've got scripts that we can actually land and actually transform the data and stand up that environment. There's still work that needs to be done to set that up, but it's proprietary and what it's going to take a look, it's going to look at through all your different activities that help you optimize it.
+
+00:37:35:31 - 00:37:51:31
+不明
+So we're going to benchmark it and actually look for inefficiencies. Some of the things we talked about with just using the data. What is slow within your processes. What's working well, what's not. And the next thing is that we're going to provide we're going to
+
+00:37:51:36 - 00:38:09:30
+不明
+Prioritize them. Right. There we go. All right. Thanks. So you is it easy to determine the highest impact opportunities? And when we look at impact, it's not just like what's the value to the business. It's also the level of effort compared to it. Right. Because it takes time to do that where the quick wins that we want to get out quickly.
+
+00:38:09:45 - 00:38:33:00
+不明
+Can we test it to make sure let's start small, like think big, but start small whenever we do these activities. And then the last thing is just make sure that we, implement that going into production and make sure that we actually scale it across the entire enterprise. Jake kind of stole the thunder a little bit earlier, at the beginning with some of these, stats, which was good, because it'll be a good reminder, but these are some of the stats that we're seeing in there.
+
+00:38:33:05 - 00:38:56:48
+不明
+So we're doing things. And yes, campaign activations are faster, 70%. It's pretty impactful when you start thinking about how many different campaigns are going out. Thousands of campaigns. That's big, faster launches. So you can actually get get something out faster within that. So reductions in cost is huge in ROI. Percentages on their 500% ROI. These things that we're talking about aren't inexpensive.
+
+00:38:56:52 - 00:39:14:46
+不明
+So we're actually prioritizing these things. We need to make sure that they're going to have large ROI within this. And we talk about global or even in some cases like some small scale markets. If you prioritize the right things, you're going to get huge lift. They're going to make an incredible impact to the business.
+
+00:39:14:51 - 00:39:37:37
+不明
+All right. When you go through another example, we do that that picture with all those different boxes and services and things available when it's hot about one that specifically a health care pharma industry. You've seen examples of briefs that are created and you can very easily, edit it, maybe a Microsoft word or other other systems. This is an example that we're going to walk through that specific to healthcare, because the briefs that they make are different.
+
+00:39:37:42 - 00:39:59:54
+不明
+So we're going to make sure that we can create solutions for our clients that I can actually help it make it more effective and more efficient. And the examples that we're going to be calling out here is like, how do we use large language models? And some of those functions and services, like how to create a brief and how to actually use some of those functions embedded in an application in the process of campaign creation is going to be illustrate here.
+
+00:40:00:07 - 00:40:07:05
+不明
+We'll walk through I get to do some more of this mouse stuff here.
+
+00:40:07:10 - 00:40:28:06
+不明
+Here we go. I'm going to start here. So the example here is the fact that you choose a template. In this case of pharmaceuticals there's lots of different brands within it. The brands are going to matter how you approach it. What we've done is we've created a solution that not only is going to automate and use large language models, it's actually based on training off of the existing campaigns that have been created that matters, right?
+
+00:40:28:19 - 00:40:36:27
+不明
+Because you just want it to be general. You want it to be highly attached to everything that you've done in the past.
+
+00:40:36:32 - 00:40:53:30
+不明
+So selecting the template and then from there you answer a couple of questions like what is the goal? Who's the audience that you're trying to do? And from there, it's actually going to take the learnings that it has from all the training models to produce a brief within it. It's going to highlight that, hey, here's a start of it.
+
+00:40:53:34 - 00:41:10:57
+不明
+So it gets you going. Right. And this is where human in the loop takes place. Where that where that expert is going to come in and actually make the changes to it. So not only is it addressing and showing you what the campaign brief is, one of the most important elements specifically in the space is like what is the underlying data that's that's behind it.
+
+00:41:11:07 - 00:41:33:03
+不明
+So it actually exposes all the different data sources you can click on. The different data sources, can see exactly where it's bringing that information in to actually create that, to make sure it sound right. Is this hallucinating or is it actually making the the right information, which is hugely important. You can search within that. I want to find some information on patient support, and then you can start making edits to, the process.
+
+00:41:33:03 - 00:41:51:41
+不明
+Those are the functions we'll get there. We talked about those functions. So can I can I make this more concise can expand it. What's my next word. Not only is it useful here, but think about all the different, proprietary like little apps you're going to build through your workflow and process that you want to expose. If you have that in enterprise service, you can embed that very quickly.
+
+00:41:51:51 - 00:42:12:20
+不明
+You can make it standardized versus every single organization making the exact same thing, maybe a little bit different, not maybe performing as well within it. So there's a standardization process that takes place there. Oops. There we go. We'll let it run through here.
+
+00:42:12:25 - 00:42:37:13
+不明
+Because the big piece here is the fact that once it creates this brief, after you finalize, you know, the user is able to manipulate it and get it to the point where it feels confident in producing this. It's actually going to export the information. And specifically, the steps that would be useful for work front on it. So create the brief, analyze it, and develop the steps in a CSV file.
+
+00:42:37:26 - 00:43:00:46
+不明
+The CSV files are very easy to integrate and bring into work front, and from there we can use fusion to retrieve that information. So Lamda sitting out in a spot, parse it and generate the the project and all the different elements of it. So that's how we get through things very quickly with it makes sense. The last one is like we want to take a step further, right?
+
+00:43:00:59 - 00:43:21:52
+不明
+Everyone talks about like a genetic services and as you're starting to see is like we have to build upon it. First thing we had to do is like data that was that was available. Second piece is can we use these different services and functions and make them available the last pieces, if we have something that has agency, the ability to decide and act upon its own, the example that we're going to use here is a CPG company.
+
+00:43:21:52 - 00:43:42:07
+不明
+So now a different industry. And what they wanted to do was make sure that they could monitor the, any viral posts easier and actually act upon it. We would we could go through and actually say, hey, here's like five different things that happened within, like TikTok. And you didn't respond to what is the reason? Like, we can't it takes us too long.
+
+00:43:42:18 - 00:44:04:59
+不明
+By the time we actually notice it, it's it, the time has passed. So what if we could actually go and generate that? So something that's going to be looking for the trend and then something that's actually going to get the process started and make it quicker, we're going to walk through that as well. Now my favorite part right here.
+
+00:44:05:04 - 00:44:29:51
+不明
+All right. So here's kind of the outline of what happens. So we have an agent that's actually going out there and monitoring you know lots of different social media things. And that's that's common. There's a lot of different systems that actually do that. But the next part is like what is useful is like, can you actually have AI intelligence to figure out what to do with it, what to act upon, what not to, and then can.
+
+00:44:29:56 - 00:44:52:51
+不明
+I love it, create a brief from it and and then bring it into work front. So that's an example we're going to go through. And we're going to show how this works. So the first thing we're visualizing what's happening the trend is detected. And this is an example of a very very positive situation where someone was using this product and it made their birthday party amazing at 3.3 million different views on it's a lot of people were seeing it.
+
+00:44:52:57 - 00:45:10:15
+不明
+How do you take advantage and actually spread that information to others? So the first thing was identifying insane and the agents look insane. This is probably something pretty good to to go. They'll act upon. Let's go act upon it. The second piece is let's hand that off to something that's more intelligent, specific to this area to decide how we want to do this.
+
+00:45:10:22 - 00:45:24:28
+不明
+So it's actually going to go through the processing and say like, what are the types of questions I should ask myself on this in order to solve this? And it's actually able to do that the way it's able to do that. The one thing you need to understand is that a genetic services are only as strong as the tools you give them.
+
+00:45:24:28 - 00:45:39:43
+不明
+What data is available for, for them to start looking through. So the fact we had all that data available, remember that actually makes it helpful and useful versus just a system that you have to program all these rules for. So it's actually going to go through it's going to start talking about like, well, what are the things that would be helpful for content?
+
+00:45:39:50 - 00:46:03:16
+不明
+What are the different audiences that we should do. What are the channels that we should should be? Looking at it, I think I got it now after about 20 times of this, you think it would work now? All right. I'm just going to let it roll. So it's going through the process. And here's a step. The brief generation.
+
+00:46:03:21 - 00:46:20:04
+不明
+Once again identifies the trend. It picked it up says we should do something. It's going to start asking the questions is visualizing showing how it's accessing data. What are the specific SQL queries that it's actually utilizing to do it. What are the responses and answering. So basically saying I want to answer I want to propose this question.
+
+00:46:20:04 - 00:46:34:03
+不明
+Can I answer it? Yes, I can answer it. What's the next question that makes sense? Let's go answer it again. So it goes through and actually starts refining. That was actually a bad question to ask. So it's got like reflective practices in it was ask a different one in order to go through it. And then let's go create a brief.
+
+00:46:34:08 - 00:46:49:39
+不明
+So it creates a brief. What we already showed is the fact that we've got a service that can take that brief that's created, then actually go bring it into, work front. So that's an example of how we're using AI in this to make things faster. So the first one was just like, how do you use data to make sure we understand processes?
+
+00:46:49:53 - 00:47:12:58
+不明
+The second one was how do we actually make specific point solutions faster using these, these LMS and like functions and services that are available. The last one is like, let's give complete automation. The big takeaway is this is that everyone wants to start at the end, right. Give me energetic service. It's important to understand that you need to build the structure and crawl walk, run in order to get that.
+
+00:47:13:03 - 00:47:29:30
+不明
+And I'm gonna turn it back over to to Jake. Okay. If you are still with us, if you did not fall asleep, I have a couple last things, and I promise that will get you out of here. But looking at this, the obvious question is, what do I do with all of this? So I want to pose a question for you.
+
+00:47:29:34 - 00:47:52:43
+不明
+Jake, this is awesome. It's amazing. My question for you is this how well is your current operating approach working for your company? One of the nice little side benefits of taking a step back and thinking about what are the elements of a high performing operating model, is they actually make it easier to identify places of low performance.
+
+00:47:52:48 - 00:48:26:21
+不明
+So I want to show you the symptoms or some of the symptoms of inefficient operating models. And my question for you is this or my ask for you is this. As you hear these think about if they apply to your company, I'm just going to step through the elements. So I talked about purpose. Generally if I have an inefficient operating model in terms of purpose, the way that I'll see it is either I'll see those misalignments of, hey, my marketing objectives don't line up with my business objectives, or, you know, so on and so on, or I see conflicting priorities.
+
+00:48:26:25 - 00:48:46:48
+不明
+If I think about my people, if I have inefficiency, they're generally the way that I see it, or at least the most common ways I see it are I see siloed teams that aren't collaborating, or I see low morale because people aren't engaged, or I see duplication of work. That tells me this team is doing something. This team is doing something.
+
+00:48:46:48 - 00:49:11:47
+不明
+They aren't connected. On the process side of the house, it's a bit of what Phil was talking about. Usually where I see if I see slow response times, that's an indication that my processes aren't optimized, or if I see a lot of manual workarounds. That tells me that my processes aren't optimized. On the platform side, if I see gaps between systems.
+
+00:49:12:01 - 00:49:31:10
+不明
+So we talk about the ecosystem, and the fact that data tends to live in different places. If I have those points where the systems are not connected, that tells me that I've got optimizations. I can make their, or if I see a disjointed customer experience, which is basically the the customer observing that my systems aren't talking to each other.
+
+00:49:31:15 - 00:49:52:12
+不明
+Finally, in terms of performance, if I see unclear performance data or put differently, if I see people within the company not agreeing on the performance data, that tells me that I haven't fully optimized their, or if I see diminishing returns, that tells me that I'm I'm not making the full impact that I could be making in terms of performance.
+
+00:49:52:22 - 00:50:22:23
+不明
+So that the so what I'm showing you all of that is if you listen to those and are any of them stuck out as, oh wait, that's true of our company. What I would humbly suggest to you is it might be time to optimize your model, which could mean one of two things. Either that means going back and looking at the design again and making those strategic decision choices of how the pieces should fit together, or it means sticking with what you've got, but digging deeper into the piece that that's inefficient.
+
+00:50:22:28 - 00:50:48:16
+不明
+So to go all the way back to where we started to lay in this plane. The house always wins because they've set up every element around the single objective of winning the whole point of the last 50 minutes is that we believe you can do that, too. When it comes to marketing, that's the if you didn't hear anything else, that's the big takeaway.
+
+00:50:48:21 - 00:51:10:50
+不明
+That means accepting that software alone won't ever get us there. As much as we all like software, that means thinking about all of the elements of operations together and making sure that they're aligned and reinforcing with each other and that means doing things like Phil was just showing us where we're digging in and looking for the optimization points that could be made.
+
+00:51:10:55 - 00:51:32:24
+不明
+So with that, I genuinely hope this session was helpful. If nothing else, maybe now you are slightly more equipped to be effective in the casino tonight. And with that, if you have any questions, we're going to stick around for a little while. We would be happy to answer them. We can answer questions about casinos. We can answer questions about marketing operations.
+
+00:51:32:29 - 00:51:43:16
+不明
+And the QR code jumps you to a form if you want to set up time. Thank you.
+
+00:51:43:21 - 00:51:43:44
+不明
+For.
+

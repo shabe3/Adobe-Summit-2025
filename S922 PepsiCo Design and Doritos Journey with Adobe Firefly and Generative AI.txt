@@ -1,0 +1,388 @@
+00:00:00:01 - 00:00:21:28
+不明
+Morning, everyone. Okay. What's up? Las Vegas? I know it's very early in the morning. Bear with me here. And he had a late night, a bash. And I'm jealous of anybody who did the simulator in the pit because I was too late. Yeah, these are the folks that are committed. I know, right? Very committed. But we have such an exciting project to show you guys.
+
+00:00:21:28 - 00:00:44:20
+不明
+So thank you for being here. Thank you. Yeah. So we're going to take you a little bit through a Doritos journey. But first we're going to start off talking about who we are and what we do. I'm going to go through what the PepsiCo Design Center is and how we've adapted AI. And then we're going to use, some of our projects that we're leveraging specifically Doritos, but also a fun Gatorade project.
+
+00:00:44:25 - 00:01:03:49
+不明
+And then how we've adapted custom models, and then Eugene's going to take it away and kind of give you the best practices, how you can implement this in your role. And then how are future proofing Firefly custom models? And my name is Veronica. But I'll talk about myself later. I'll hand it over to you. Yuji. My name is Eugene Nakagawa.
+
+00:01:03:50 - 00:01:14:46
+不明
+I work for Adobe Professional Services. I am a content and AI solution architect. Go next. Yeah, I take it. Here you go.
+
+00:01:14:50 - 00:01:50:40
+不明
+So if you think about AI, it continues to be a major topic. You know, a major topic of discussion and hope. For driving business outcomes, right? From cost efficiencies to outcome. Outlives. The hope for gen AI is real marketing in particular. I think there's the biggest opportunity, for injecting in AI. Right. And and with all of the announcements, the news, the discussions around gene, AI.
+
+00:01:50:45 - 00:02:23:04
+不明
+Yeah, it drives a huge amount of hype, right? You guys have all seen this at Adobe Professional Services. We integrate revolutionary technology into your everyday workflow. We turn hope into reality. We drive the hype into the how. We do this by leaning in. We stay ahead of the curve. We work with our products, and we know about the capabilities well ahead of the GA.
+
+00:02:23:09 - 00:03:05:36
+不明
+Right? And we also, drive best practice insights, right? We are our Adobe Professional services differentiator is that we focus on Adobe technology. We provide we have our differentiator is that we have hands on keyboard experience across all industries. Across all geos. We have consultants worldwide. And we do this by driving collaboration and innovation. Right? We partner with our product team and our customers, and we tackle readiness issues and we help drive collaboration and formulation of best practice.
+
+00:03:05:38 - 00:03:31:26
+不明
+And so speaking of best practice, we're going to get to that. But I want to talk about innovation. I'm going to hand it back to Veronica. Yeah. Thank you so much. And you guys have been so helpful with us. It's been a great partnership. It's been awesome. All right, so I wanted to start off a little personal, and, at the design center, we have this thing called a who's who's board, so I wanted to share it with you.
+
+00:03:31:26 - 00:03:53:00
+不明
+It's kind of to get to know your colleagues a little better personally. So I am born and raised in the land of Bruce Springsteen and Bon Jovi. And when I'm not here at Adobe Summit, I like to go to the car track. That's why F1 was so special to me. And then also traveling and also karaoke ING with my colleagues and actually on the bus yesterday.
+
+00:03:53:00 - 00:04:10:26
+不明
+I think a lot of people like to do that as well here. I've always had a niche for drawing. When my mom, she raised me as a single mom, and I have to go to her shifts, and she just threw printer paper or an eraser board at me. And I just really enjoyed illustrating. And just like, creating in general.
+
+00:04:10:38 - 00:04:35:29
+不明
+And with that, I kind of wanted to just learn to create more. So I'm going to date myself. And I started drawing on Microsoft Paint. Does anybody? I feel like this is the right crowd. Coding on my space, making my page look amazing. And then even, like After Effects, I wanted to learn some 3D. And then now AI is kind of my new project, and it's all about being curious.
+
+00:04:35:29 - 00:04:56:00
+不明
+And I think that's what I when it's used successfully. You have to have curiosity. My career started a little different. I was working on album covers at Island Def Jam Records and Republic Records. Done covers for Sean Mendez, Noah, Con Bon Jovi. But that's a very niche place to be. It's you're making art for artists.
+
+00:04:56:00 - 00:05:18:39
+不明
+But I wanted to learn more about what consumer buys. As a brand and what people really love and dedicated to the brand. So I moved to PepsiCo about, oh gosh, 2018. And I started actually illustrating. So I went back to my roots for Mountain Dew, doing limited time offers and customer specials. And then PepsiCo design has so much to offer.
+
+00:05:18:39 - 00:05:44:25
+不明
+So now I'm on the Global Foods Group, overseeing Doritos and Cheetos, making sure everybody, has a consistent brand look and feel for our guidelines. But speaking of macro calls us unicorns. I want to tell you more about the unicorns here at the Design Center. For the past ten years, Mario Martini and our CEO, Ramon Laguarta, have built an amazing capability.
+
+00:05:44:30 - 00:06:21:10
+不明
+And we're here to create joy for consumers and leveraged design as a secret weapon for business and innovation and setting PepsiCo apart and making it a really a design driven company. And I love this photo because we just have such a unique group of people, and they all bring their true selves to work. And it's just it brings such a great culture to our team and just to show like all the amazing stats, it really comes out and on here and we kind of just want to show all the multiple multi-disciplinary, approaches we have to the design center.
+
+00:06:21:24 - 00:06:50:25
+不明
+So we have brand building. So building a cohesive brand experience. We have innovation. So they work a lot on product innovation and design thinking. And then we have corporate operations because designers are all over the place and we need somebody to keep us intact. But these three segments give such a diversity to the design center. And now with this disciplinary approach, we really have to emphasize that when using AI.
+
+00:06:50:30 - 00:07:21:30
+不明
+So I don't know if any of you went to Adobe Max as well. I know this is a very different conference than that. But we did have this talk about how we are adapting AI into our workflows, and I thought it was just really good to level set with a good old corporate America graph. I'm not going to get you too in-depth into this, but I wanted to show you kind of our AI adoption and our people first journey, because it really has been a journey for the past three years.
+
+00:07:21:39 - 00:07:45:39
+不明
+Yeah. Please take a photo of it. We also have that on the Adobe Max website. I think everybody can see it. So, but just to, like, give you a high level, we have this circle. It's ever evolving. There's no start to finish, but I'm going to start with bold implementation. And it's all about partnerships. You want leaders to support you to unlock more, more capabilities.
+
+00:07:45:44 - 00:08:03:48
+不明
+You also need a good partner like Adobe. They have been amazing to work with. And then also, you need to be best friends with your IT partner because they give you all the new technology. Shout out to Dre, I don't know. Oh, okay. He's the one who helped me get here to work on all this cool stuff.
+
+00:08:03:53 - 00:08:29:55
+不明
+And then we have training is all about education, gathering insights and getting a base level of where your team is at and then creating a syllabus off of that. And then empowering creatives. It's all about communication. I say have an open mind when people are coming to you. Surveys are great. Personally, I like the real talk of one on one and getting the real feedback about the technology.
+
+00:08:30:10 - 00:08:56:49
+不明
+If it's they're finding it useful. And then last but not least is strategy and practice. So we want to find a project that supports these big wins and unlocks more opportunities with AI. So with that, I'll go into some of the practices we have made successful. And one of them is Gatorade because I wanted to start with that one, which is great.
+
+00:08:56:53 - 00:09:56:59
+不明
+It is the first gen AI platform on a physical project using a natural language model. And I think it launched, what, five months ago and there's almost 100,000, generated by consumers. So. Truly amazing. You all using Firefly. And here's just, like, a cute little sizzle reel to show you a little bit more to see.
+
+00:09:57:04 - 00:10:16:50
+不明
+Yeah. All right. Now on to the more fun stuff. Thank you. You did that? At Max? Yes, yes, we headed at Max. We actually had a food truck at Max. Or kind of food truck, but with all the bottles there, just a cool looking truck. And the lines were out the door of Creative Park. They had to shut it down at some points.
+
+00:10:16:50 - 00:10:37:45
+不明
+It was truly a great experience and it was the most popular. Yeah, yeah, yeah. So hopefully next summit it will be here and I hope there will also be a Doritos food truck here as well. That is my, manifestation for next year. But yeah, let's get into Doritos. So I hope all of you know what Doritos is.
+
+00:10:37:45 - 00:10:56:29
+不明
+Does anybody have a favorite flavor for it? Oh, why don't you give her a cool ranch run? Come on, throw it over here. You got a surprise of you. Yeah. If you participate this early in the morning. You get a Doritos bag, you get a Doritos bag.
+
+00:10:56:34 - 00:11:23:12
+不明
+There you go. More fun stuff to come. So usually has some good, good interactive stuff, but, but just in general, from a marketing perspective, from a brand perspective, we have spent plenty of time figuring out what is the look and feel of Doritos, and we've gone from just we call it our brand pulse and all this graphic and even I think the sound, maybe even sonic branding.
+
+00:11:23:17 - 00:11:43:18
+不明
+And, you know, I think that everybody sees a triangle and we just want to, like, capitalize on that. When you see a triangle, we want you to think of Doritos because it's a symbol of crunchy goodness, a beacon of bold flavor, and a statement for to celebrate diversity. And also, we're kind of a brand that's not straight on.
+
+00:11:43:18 - 00:12:05:20
+不明
+We like to live a little bit on an angle. So, so this was kind of the solution for that. And now, as fun news and trying to push our more bold flavor, we're doing a culinary platform called Doritos Loaded globally. Oh, that kind of cut out a little bit, but you get the gist of it. You see it all.
+
+00:12:05:24 - 00:12:31:33
+不明
+But we're flipping the chip on all expectations, going beyond the bag to create all this new stuff with a delicious base. So whether it's pizza, chicken fajitas and, we had Century Egg come in, it is a new one. Whatever you want to do, whatever you can pull out of your fridge, you can add Doritos loaded to your Doritos to that, anything to ignite bold self-expression.
+
+00:12:31:38 - 00:12:55:32
+不明
+And obviously we're using the triangle at all times, but this one, we have to be a little bit more flexible. We have so many touch points, as you see, with food trucks out of home point of sale. So making sure that this is really super hyper personalized. And not only that, this is I know, like there's some TikTok trends going on when people cut the bag and use it.
+
+00:12:55:32 - 00:13:17:43
+不明
+But for other people, this is a whole new behavior that we have to educate our consumers on. So we wanted to make sure that we have the proper photography and just making sure that it looks delicious. And people understand what Doritos Loaded is. I remember people being like, oh, it's like a pizza flavored Dorito chip. Like, no, no, no, no, you put the pizza on it.
+
+00:13:17:48 - 00:13:42:44
+不明
+And we actually had a few trials. So we had UCLA of last year, taste it, Dubai Winter Wonder Park in the UK. And we got a lot of learnings from that. And with that we had a whole pre-production of good art direction. But overall we want to embrace imperfections, make sure it looks real fresh ingredients. And of course the lovely triangle.
+
+00:13:42:49 - 00:14:06:46
+不明
+Are you guys sick of seeing triangles yet? Oh, okay. Well, I have squares on this one, so, So. Yeah. Well, and we have so many, we only had a limited amount of recipes that we could create. And we know that there is a need for it that I'll go into. But luckily, PepsiCo and the Adobe partnership, we have Firefly custom models to help us with that.
+
+00:14:06:51 - 00:14:23:46
+不明
+And we should pause and we should talk about. Yeah, go for it. Right. Because ultimately we're here to learn. Yeah. It's so take us through this. So we've got, you know, we're looking at on the right hand side. You see like the subject I think those are all what you trained on. Right. And we're going to talk about best practices in a bit.
+
+00:14:23:46 - 00:14:47:35
+不明
+But you can see there's some consistency going on. Right. And you want to, to make sure you have that. And then in the middle those are the general outputs. Right. And ultimately when you have a very good, training it's going to lead to good things. It's going to lead to very good, outputs. Right. And then on the left hand side, you know, that's what the best practice we're going to get into.
+
+00:14:47:35 - 00:15:12:27
+不明
+Those are various, custom models that have been created for Doritos. Right. And so and I love this. And, you know, there's there's this aspect of you're using custom models and you're going to start to generate very good creative outputs. But, you know, there's, there's impact right before and after the creation of it. And so you're going to need these interfaces to help you, derive that value.
+
+00:15:12:27 - 00:15:32:55
+不明
+But, you know, we'll we'll get to that. Yeah. And you are definitely the better expert at talking about it than me. So thank you for for chiming in. So how does this all come together? The world is big, as you all know. There are so many ingredients and so many different foods, all over the world.
+
+00:15:32:55 - 00:16:00:55
+不明
+So delicious. But as you can tell, this is hard to do a global culinary platform and still make it locally relevant to all of these places. Also shout out to Adobe Stock for all these photos. But it would take a number of time and resources and oversight that we really don't have. So, you know, and as a person at the design center, we want to make sure we have design excellence and making sure our food looks proper.
+
+00:16:01:00 - 00:16:45:26
+不明
+So luckily we have custom models and the last sizzle reel, I promise. But it's a fun one.
+
+00:16:45:31 - 00:17:11:12
+不明
+Yeah. I'm hungry. Is everybody kind of go get Doritos after that? That's the plan. And that's the goal. And I want to start off where we originally started. Does this look like design excellence to you? Yeah. This is a whole audit of what we pulled. It was from chefs from away from home partners. And we were like, we cannot let this out here.
+
+00:17:11:17 - 00:17:36:56
+不明
+But what if we can take every ingredient on this page and have a magic button and turn from this into this? This is my. Ooh, page? But I promise you, this was not just a magic button. It took a lot of hand-holding with Susie and the team. And they were super helpful with all of our questions we had with custom models, because this is a brand new capability.
+
+00:17:37:01 - 00:17:58:46
+不明
+But this is kind of what we've been working with. And not only that, with all the touch points, from the photo shoot I showed you before, we can also do single chips. So a lot of flexibility with custom models, all to say that we are unlocking high quality for personalization at scale. Are you sick of seeing personalization at scale yet?
+
+00:17:58:46 - 00:18:21:10
+不明
+This hopefully will be the last one before you go home. And excited. You know, a lot of things are kind of in the process right now because we launched back in October and we released this to Marcus in January. So to get this in time, you know, I had to bring some things together. But our first pilot market was Turkey, as you can see.
+
+00:18:21:14 - 00:18:45:35
+不明
+These are all the custom model outputs with some help from, our freelancer. And they're actually doing this on bagel carts in Turkey. So, it kind of creates a new revenue for local food trucks where they have bagels in the morning, and then they can create this food truck at a later time and have more, have more recipes for people.
+
+00:18:45:40 - 00:19:06:38
+不明
+So to say that, I mean, we have turkey, but I think I wanted to show you some of the key takeaways and what we've really seen through custom models and how we can make it super personalized. But, so Doritos Loaded is in 30 markets and all of them are tailored differently. So we have India that's doing kiosks in, shopping centers.
+
+00:19:06:43 - 00:19:30:38
+不明
+We have the UK that's doing it on pack. We have Taiwan, we have so many different markets and they're all very different. So we want to make sure that these recipes are tailored to them, away from home partnerships. So as you know, PepsiCo, we have partnerships with KFC, Pizza Hut, who are subway. So and all of their menus look very different.
+
+00:19:30:52 - 00:19:54:23
+不明
+And we want to sell in Doritos loaded. So when we have this, we can create the recipes based on their menu and then they can even leverage, those recipes to put on their menu. And then it's all in the triangle, and we're all happy about it. Yeah. Content support. So PepsiCo has a new thing called content kitchens because culinary is the in thing.
+
+00:19:54:23 - 00:20:20:53
+不明
+Now, and we work with influencer chefs. And I think Tina was the last one. Tina was the last one. But, just to have content support, to even show these influencers, hey, we'd really like our food to look like this. Can you do your thing? And also kind of give them a reference and then out of home, seasonal, and trend based, you know, how fast trends come and go.
+
+00:20:20:53 - 00:20:53:04
+不明
+And with Firefly custom models, we can do this so easily and be on brand and share it out with the world. Also seasonal. So we have some people wanting to generate stuff for Christmas, Halloween, possibly TV shows that I cannot tell you about right now, but hopefully you will see it out in the world soon. But all to say with the magic button, we, you know, we still need this process and we still need this human power.
+
+00:20:53:17 - 00:21:13:14
+不明
+And even with aligning with the graph that I showed you before, we're trying to keep humans at the center of this, and we're not replacing humans. We're just making supercharging all the capabilities that they do. And even the photoshoots we have, we're adding the most value to them. So we still need the art direction. We still need the photo shoot.
+
+00:21:13:28 - 00:21:32:44
+不明
+We even need all the retouching afterwards because we want to make sure our food looks great. But it's that red model part where, we're really amplifying everything. So I hope that, you know, everybody found this useful. And if you did, you're just going to talk to you a little bit about best practices with Firefly custom models.
+
+00:21:32:54 - 00:21:53:54
+不明
+You know, before I go there I just want to add in I know we're talking about custom models, right? I know we're talking about innovation, about, creation of, content at scale. I just want to throw in, you know, because I had a lot of discussions today. I talked to a lot of folks, and there was one overarching theme, right?
+
+00:21:53:54 - 00:22:18:52
+不明
+If we unlock this, if we unlock the friction when it comes to content creation, really there's a there's a possibility that we're transferring the friction, right? You think about all of the steps before content creation and all of the steps in terms of the activation. So keep that in mind as you're, unlocking content creation, that there's other aspects that you're going to, go to.
+
+00:22:18:57 - 00:22:43:33
+不明
+And so, you know, that was amazing. What Veronica showed us. And I've seen it many times, I, I continue to be amazed. And, you know, she hasn't, really? Yeah. You know, she hasn't really, talked about. Thank you. Thank you. Thank you. She hasn't said this, but, you know, she she got a promotion, right? She's she's been recognized.
+
+00:22:43:48 - 00:22:47:31
+不明
+I'm blushing.
+
+00:22:47:36 - 00:23:10:44
+不明
+I'm skipping that. Thank you. She's got a dog. And I know so much going on right now, but I'm here in Vegas. I'm trying to say she is a rising star. We feel privileged to to partner with with Veronica. Thank you. But, you know, I when I think about all of the great things that Veronica and team have done, you know, I start to think about everyone else.
+
+00:23:10:44 - 00:23:36:27
+不明
+Like all of you folks in the room, how do we unlock that? How do we unlock custom models to to create great innovation? Right. So that's what I want to talk to you guys about today. I want to talk to you about best practice and how we can get there. So the first one, that I want to talk about and so full disclosure of my notes got oh, I think some of them are here now.
+
+00:23:36:32 - 00:24:00:49
+不明
+Oh, oh, it crashed and it came back to life. That's first for technology. So, you know, we're talking about optimizing your training data set. Right. And so first and foremost it's all about consistency. We really want to create that uniform style. And so let's unpack that a little bit right. Like what what am I talking about. Take a look at the the images that we've put up.
+
+00:24:00:54 - 00:24:32:19
+不明
+What do you see I see different lighting I see aspect ratio I see the background, I see the foreground, I see some, the composition, all of these make up sort of the, the style of, of these images. And so we, we want to make sure that we have consistency in the style in order to drive really great outputs.
+
+00:24:32:24 - 00:24:58:59
+不明
+So you know, I just said we want the consistency. We also want variations. Sounds like a little bit of conflict. Let me dig into that a little bit. It's not so you know, maybe when we think about embracing variations I might think about a slightly different lighting, you know, some maybe a different angle. These are all, forms of variation.
+
+00:24:59:04 - 00:25:20:19
+不明
+You want to create examples, different examples within certain styles to, to have those, variations. So let me make this into an example to really bring it home. So if you look at the the models in these pictures, what do you see? I see a male I see a female. Right. And they're all they're all wearing different outfits.
+
+00:25:20:23 - 00:25:29:04
+不明
+So this is what I mean about embracing variations but maintaining consistency.
+
+00:25:29:09 - 00:26:01:52
+不明
+So your first pro tip today, right, is to curate your data set thoughtfully, think about the consistency and embrace that variation. Right. That's going to lead you to your your your good outputs. Oh you know what? Let me ask the room who here has heard the term, auto auto fitting. Oh, sorry. Overfitting, raise of hands, overfitting.
+
+00:26:01:53 - 00:26:25:57
+不明
+And so I see a few. That's more than me. So it's a it's a general term, right? It's talking about the model becoming too specialized is becoming too narrow. And this happens we not we not following those two tips right about consistency and, embracing variations. It's it starts to produce bad results. It's unable to create the great outputs.
+
+00:26:26:02 - 00:26:50:50
+不明
+And so your pro tip here is to, and to have that consistency and embrace the variations. And that would lead you to avoid the overfitting problem. And you know, I, I asked for this because this will come up, a few different times. So the next thing that I want to talk about is aspect ratio. So we already talked a little bit about aspect ratios.
+
+00:26:51:03 - 00:27:10:06
+不明
+It's one of the elements of the consistent essay that we talked about. You know I bring this up because I think it deserves a special call out. When you think about your training data set and you think about the outputs of, of your generated images, there needs to be a correlation, right? So let me break that down.
+
+00:27:10:06 - 00:27:30:37
+不明
+So if you think about if all of your images are going to be in portrait mode, your training data set should reflect that. And then so what happens when you don't consider this. Right. So if you think of your portrait mode and then you're generating a square output, something's going to get cropped out. You're going to lose something.
+
+00:27:30:37 - 00:28:01:24
+不明
+Right. And ultimately you're you're trying to establish that consistency to drive the better quality. But if it's square you know it's no longer about that consistent image. Right. So if you intended to have those square outputs with, portrait outputs, it should be reflected in your training data set. So your your pro tip here, plan ahead. Think about your aspect ratio early in the process.
+
+00:28:01:29 - 00:28:17:44
+不明
+Align it to your applications output specifications. Right. This is going to save you time. And it's going to save you energy of, of fixing stuff because you didn't realize that square was coming.
+
+00:28:17:48 - 00:28:38:14
+不明
+This is an important one. You know, I kind of thought maybe put it up top, I didn't. It's it's important because it's overlooked. Right. So what do I mean by crafting a flexible caption format? I don't know how much. How many of you are putting into this? Let me describe the, the Firefly custom model process.
+
+00:28:38:14 - 00:29:03:44
+不明
+So you create your custom model, right. And then, you know, you've carefully curated your images that you want to train on any uploaded, there is a caption service that would describe, the those images for you. And so what you want to do is you want to avoid a fixed format. So what I mean by a fixed format, right.
+
+00:29:03:44 - 00:29:37:02
+不明
+So for example, the caption could start or end with the same phrase. Right? You know, I always tell my daughter, use your words right. There's many different ways to say something. So I embrace the variety in how you describe, that particular image. Encourage that variability. So, you know, with, with those different captions and different styles, you can have different tones, you can make it short, you can make it long, you can say it in many different ways.
+
+00:29:37:02 - 00:29:41:47
+不明
+So you want to embrace that.
+
+00:29:41:52 - 00:30:00:43
+不明
+As her pro tip. Oh yeah. Sorry. Your pro tip test test your models. Right. So, test it with variety of prompts so, you know, you can see how well your outputs are.
+
+00:30:00:48 - 00:30:29:34
+不明
+So similarly to your, format, your fix formats, you know, avoiding fixed formats there. It's, eliminating fixed phrases. Right? So if something's, repetitive, you know, it might start with this background is black, this background is black, this background is black. So what this what you're doing here is you're creating, a disproportionate importance on a certain phrase.
+
+00:30:29:34 - 00:30:51:27
+不明
+Right. And that influences your, your, your model. And would influence its results as well. So you want to make sure that you're reviewing, you know, don't take all of those captions and make sure take a look at it. You know, first you make sure it's not this fixed format. Then you need to start looking at those repetitive phrases.
+
+00:30:51:31 - 00:31:19:06
+不明
+And you should, remove those. Yeah. So let's take a look at this so you can see. You can just see by visualizing that it's got a variety of different. It's got short, it's got long. And you know we've removed sort of those, those fixed phrases. Okay. So ensuring, wait, did I missed one? Yes, I missed one.
+
+00:31:19:11 - 00:31:41:40
+不明
+Refining captions to capture core concepts. This is my favorite. I, I'm a huge user of AI for meeting notes. You guys too. Yeah. And, yeah, you know, I always, when I, when I use AI to create my meeting notes, I always check it. Right? I always check it before I send it out. Every now and then it just captures the wrong thing.
+
+00:31:41:45 - 00:32:03:46
+不明
+Right. So that's what we're talking about here is does your, caption align to the core concept that you're trying to create? So you know that we know that when you created your model, you you carefully crafted the images, you had something in mind when you're training that and then when you did your, variations, you had something in mind.
+
+00:32:03:46 - 00:32:26:38
+不明
+You were purposeful in training your data set. And so we want to make sure just don't take what the caption service gives to you, go through it, read it right, pick up the nuances. Because those captions services isn't as bright as you are. It's not going to pick up those nuances. So just don't take it, you know, accept it blindly.
+
+00:32:26:43 - 00:32:46:26
+不明
+If you're the custom model designer, it's on you to make sure you're going through and you're making manual edits to make sure that that, caption aligns to your the essence to your core concept. So your pro tip.
+
+00:32:46:31 - 00:32:57:39
+不明
+Don't just take the caption services, right? Go through and manually edit to align to your core concept.
+
+00:32:57:44 - 00:33:21:59
+不明
+Okay, so the last one we've come to the last pro tip I know it's Thursday morning. You guys are tired. You guys are doing great. But I'm going to change this one up. So I'm going to make this a test. You guys can't go home and tell you guys can't leave until you figure this one out. Take a look at the, the image.
+
+00:33:22:04 - 00:33:29:22
+不明
+Tell me what's wrong with it. Tell me what's wrong with it. Anyone?
+
+00:33:29:26 - 00:33:55:23
+不明
+Yeah. To everyone. But that's not. Yeah. Oh. All right, he wins a Dorito. Oh, there you go. There we go. All right. You get a choice of them all. There you go. Exactly. It's it's not it's not a pizza. The caption service. It missed it. Right. So so it's on you like you might think. Yeah. It's got it.
+
+00:33:55:23 - 00:34:18:24
+不明
+And so you stop looking at it. You have to really pay attention. You have to really proofread what's going on. You know, we're not, we're not making pizzas, we're making Doritos. We're making, you know, and so you want to go through ensure your caption for accuracy, right. And it matters because it this is critical, right?
+
+00:34:18:24 - 00:34:42:46
+不明
+Accuracy is critical to your to your model's ability to generate great outputs. So your pro tip here incorporate checking those captions services, right. Not just initially like continually checked to make sure that they're that it's accurate and make those refinements, as needed.
+
+00:34:42:51 - 00:35:07:52
+不明
+Great. Well, I mean, I've seen this and you've taught us this and we've worked so closely together. But seeing it again, it just is always so helpful, even just with building it and making this food look great. So thank you so much. So yeah. Oh, if you want to go back to the other side. So, I think we've seen such a big unlock and remember that circle that we showed you before?
+
+00:35:08:03 - 00:35:33:01
+不明
+I think we're going back to the bold implementation and finding the why between all of our PepsiCo brands. You know, Doritos Loaded fit perfectly with Firefly custom models. And we see the potential and we just want to keep that momentum going. So we're finding the way, we're also creating a pilot for our employees and doing a kind of education tailored experience kicking off actually tomorrow.
+
+00:35:33:01 - 00:35:53:29
+不明
+So we'll keep you posted how that goes. And then also just getting feedback from them, and trying to find the right projects and making sure that this, like, easily goes into their workflow. We don't want to add any more tasks, but we see all the unlock this can do, and we just want to share it with the design center and everybody else.
+
+00:35:53:34 - 00:36:21:51
+不明
+So I guess that, you know, I hope you know, usually did a great job doing two key takeaways. And I hope everything that I said to you, you can kind of find your own path and use it within your companies. But here just a more a little bit of a few of the takeaways that we want to give you outside of just giving you Doritos bags, so empowering your people, we want people to work smarter.
+
+00:36:21:56 - 00:36:44:27
+不明
+And even especially when resources are limited, and these tools can expand reach and influence. So we really want to make sure that our teams know how to use this and that we're enhancing them, not replacing them. Future proofing the team. I think, as you all know, with summit and Max and everything, AI is not going away.
+
+00:36:44:32 - 00:37:23:39
+不明
+And we want to make sure they know all these programs and even going beyond PepsiCo and they want to go to their future career path. I think this will be great for them and a good unlock, and long term success in general, not only for them but for PepsiCo as well. Ethical AI, I think, we all know a few other platforms out there that just pull from intellectual property, and we do not want to do that, and we don't want our intellectual property messing around with, so that is why we've partnered with Adobe, because they have the ethic and responsible way of using AI.
+
+00:37:23:44 - 00:37:44:46
+不明
+And we can show you some of their policies if they haven't talked to you already about that, and then also PepsiCo's as well, work very closely with Andre, to make sure that all of this, is appropriate. And for our company and then maximizing impact, like I said, and I always love a good car pun.
+
+00:37:44:46 - 00:38:10:25
+不明
+And with F1 last night, we're supercharging all the value that we have and we're still keeping in mind, all of the creatives. And we're just really amplifying that power. I wanted to just double down on it. Yeah, really, about giving, giving everyone superpowers. We want to democratize all of this. And so the end user experience for everyone is highly personalized experiences.
+
+00:38:10:25 - 00:38:30:11
+不明
+And that's what all of this is about. And that's what we are trying to unlock. Yeah. Well I think that's if for for most of us, I know I think we have some time to take a few questions. If you have any more questions or want to keep in touch with me. I have my LinkedIn on here.
+
+00:38:30:11 - 00:38:46:18
+不明
+So, and if you create any Doritos loaded recipes at Max, people sent me some, so please share them. I would love to see it so well. This was amazing! This is a really good chat. Thank you so much. Yeah, thank you.
+

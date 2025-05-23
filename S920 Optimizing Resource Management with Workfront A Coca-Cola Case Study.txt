@@ -1,0 +1,476 @@
+00:00:04:10 - 00:00:22:33
+不明
+In 1886, One American Dream was bottled in Atlanta, Georgia. A drink that would refresh generations. With the help of a bottle of Coca-Cola.
+
+00:00:22:38 - 00:00:28:36
+不明
+Is now down.
+
+00:00:28:40 - 00:01:00:40
+不明
+Until.
+
+00:01:00:45 - 00:01:46:34
+不明
+Yeah. Yeah. Yeah. Yeah. Yeah. Duh duh duh duh duh duh.
+
+00:01:46:39 - 00:01:51:15
+不明
+Duh duh duh duh.
+
+00:01:51:19 - 00:02:04:16
+不明
+Yeah yeah yeah yeah. Wow. What a time to be alive. Yeah.
+
+00:02:04:21 - 00:02:10:36
+不明
+It's.
+
+00:02:10:40 - 00:02:22:16
+不明
+Yeah. That's a winner. Yeah. Oh, yeah. And I know winners. Yeah, yeah, yeah. Up above them. Yeah, yeah.
+
+00:02:22:21 - 00:02:52:18
+不明
+Welcome, everyone. Today we are here to share how the Coca-Cola Coca-Cola company is transforming its resource management and capacity planning with Adobe work front. I'm Karthik celebrity, and I'm from Adobe Professional Services. I'm joined by my co-presenter Jennifer Jafri, with whom we have been working for the past two one year, to bring to life this amazing project for capacity planning for Coca-Cola.
+
+00:02:52:22 - 00:03:15:38
+不明
+This what we are going to show today is a solution which is going to, enable the right people to be assigned to the right projects at the right time. Yeah, the right people to be assigned to the right projects at the right time. Sounds doable. Sounds needed. Right. It has been a wild journey, but we are so very excited to be here with you.
+
+00:03:15:43 - 00:03:46:10
+不明
+Honestly, I was a little bit nervous when I saw the amount of people that sign up for this talk. So super excited, really hoping we can share a spark of inspiration into each of your journeys wherever you are. Resource management planning. Let's kick it off right. So before we move on to actual presentation, right, we would like to just do a quick poll, wherein we would like to know where your organization is at currently with managing your resources.
+
+00:03:46:15 - 00:04:19:10
+不明
+Right. We do not have resource planning or track resource allocation. That's bad guys. We use some manual spreadsheets tracking slightly better right. And we use a project management tool. But still struggle can do better. We have an automation, but we need better insights. So please scan the QR code and and start putting in your answers. A is okay while we are waiting for the answers to come in.
+
+00:04:19:15 - 00:04:47:07
+不明
+Jenny, one year from before, one year prior, where was the Coca-Cola company and what was what is your option out of the four? Well, I can really resonate with all of them, starting from the a really, as you know, the Coca-Cola company, huge. Got many teams spread around the world. Many of them had not even started tracking resource management.
+
+00:04:47:07 - 00:05:12:43
+不明
+And again, we're going to talk about people, during this talk. So resource allocation in projects. So even the a, resonated with some teams, some did some manual tracking. So we were all over the place. So I'm happy to know that the option is key. And since everyone is here with in Adobe Summit, I'm going to assume your project management tool is work friend.
+
+00:05:12:48 - 00:05:34:03
+不明
+So this is going to be a really important session for you guys. But at the same time, I would like to ask any of our audience member, if you would like to take 30s to talk about where you're at. What is your pain point? Before we move on? There is a mic over there. If you can please go to the microphone.
+
+00:05:34:10 - 00:06:04:10
+不明
+Yeah. Hello everyone, and thanks Karthik and Jennifer for the wonderful starting, of the session. So I am from more, and, we have been using work for and planning for now some time and there are different divisions that we have. So in terms of resource planning, we make sure that when we have projects that there are tasks in the projects and that people be assigned the right people at the right time.
+
+00:06:04:10 - 00:06:25:21
+不明
+Right. And, that they be assigned to those tasks and be held accountable. So there's that planner tool that helps us do that work. Load balancer is a good one, whereby we can go in there and, see which resource is underutilized, which one is over utilized, and which one is set to the right capacity. And with us we have.
+
+00:06:25:21 - 00:06:54:45
+不明
+So I am the system admin, by the way. My name is Ritesh and we have group admins that manage their own divisions and these group admins know the resources well enough to pull them into the respective tasks, that they have to undertake within the project. So with all that being said, I think there's always some gaps between what is planned and what is actually consumed in terms of resources.
+
+00:06:54:50 - 00:07:27:06
+不明
+And we're we're struggling with that. You know, all divisions are struggling with that because at times people go on leave. They have to delegate work to others. Other times, you know, people may be sick or whatnot suddenly. So that resource allocation challenge always exists. And, we've got infusion as well, which kind of helps us now in the process of looking into it to see if we can leverage that to automate certain processes, especially when resources need to be moved around and all that.
+
+00:07:27:10 - 00:07:50:39
+不明
+So, that is it for the work front, resource allocation journey for more. Thank you, thank you, thank you. Right. This, that was, in line with what we are trying to show today. So I'm happy about that. So we will start our story by inviting you to live a day on today's life. Everyone, meet Teresa.
+
+00:07:50:43 - 00:08:14:42
+不明
+She is that Czech lady that lives in London, and for more than three years, she's been managing our resource allocation for the entire European marketing community. And I'm going to share a little bit of how her days look like, and you will resonate with her very much. So every time a new project comes into the system that needs to be prioritized.
+
+00:08:14:47 - 00:08:43:06
+不明
+The project lead has been failing before, word document that says, why are the roles needed for that project and at what capacity does this project needs this resources to kick off. So there is an open set document that has this data that the project lead already prepared. And she translates this need into that specific spreadsheet that each of the teams have.
+
+00:08:43:06 - 00:09:16:25
+不明
+So recapping marketing community has around 400 people in all their in different markets working in different projects, adding more than 120 programs across the year. For every project. We open this word document that every project lead has previously specified. This roles and capacity needed. So, for example, if there is a digital team member that's needed to stuff in a project, she will copy this request into a different spreadsheet.
+
+00:09:16:30 - 00:09:46:16
+不明
+We're talking about 21 different spreadsheets, very carefully managed. This is done with like super power, but she copies this request into this spreadsheet. She pings that team leader and asks for, resource that is sitting in this team. So this team leader is understanding what are their team's availability, specifies who's going to take the project. She goes back, takes that name and plug that into the project team.
+
+00:09:46:21 - 00:10:10:52
+不明
+Did you follow me like it's it's complex. It requires a lot of effort, but it's done very well. But we really wanted to help the resource so you won't like. It's easy to understand what she's not smiling yet, but she does it very well. But we are really in this journey for transforming the way we work. We want to work better, we want to work faster.
+
+00:10:10:57 - 00:10:35:12
+不明
+And in 2021, we started the biggest marketing transformation journey in the history, where there was a very clear North Star that was to become once again the best marketing company in the world, and not by a little, but by a lot, literally. So to get there, we had to become the best marketers. We had to do our work, like really operating with excellence every day.
+
+00:10:35:16 - 00:11:21:18
+不明
+And for that, of course, we're leveraging technology. So we are really trying to make technology work for us. But we have leverage technology to help those marketeers to work better, faster, deliver even greater results. To transform how marketing is done. So we have revamped our whole operating system processes, technology, to make this happen. So in this journey of transforming marketing ways of working, as you saw on the video of the very beginning, we're going to talk in detail how we are unlocking resource management capability to really drive innovation, opportunity for growth for our people, and really give a tool that people can have in their hands.
+
+00:11:21:23 - 00:11:44:04
+不明
+Something pretty easy. You will see in our demo something that is manageable, but it gives a power to people also to manage workload. I don't know if any of you in your organizations have struggles with workload. It's just us. Maybe there is. It's a constant challenge. We really resonate and we really try to to take our focus on that.
+
+00:11:44:04 - 00:12:09:21
+不明
+So helping people to work at their best. So before we dive into our story, we want to hear more about your challenges. Thanks for giving a bigger challenge. But let's see how the, what are the challenges you you are facing. So with that, let's go to the poll. So what is your biggest challenge in work management right now?
+
+00:12:09:21 - 00:12:38:24
+不明
+Please go ahead and, scan the QR code and give us your answers. Is it assigning projects to the right people, balancing workloads to prevent burnout, forecasting capacity for future projects? Or is it all of the above? So Jennie, again in last year this time, where was the Coca-Cola company? So as I mentioned, we were in different stages.
+
+00:12:38:24 - 00:13:00:49
+不明
+But going back to the European team, we were assigning people to projects in a different way very manually. We really needed to make this easier for the people to handle it, not only dependent on the teams leader. So our mission was really how do we optimize and make sure that the people are allocated to the right projects?
+
+00:13:00:54 - 00:13:26:31
+不明
+Mentioning back to our transformation journey, we were very focused on being clear on prioritization too, right? Because we had to be focused on the projects that deliver the most value, and people should be working on those projects. So raising this visibility was also key for us. So essentially all the above and or do percent agree with us. So that's concerning.
+
+00:13:26:31 - 00:13:37:00
+不明
+But let's see if this session can help you out. And going from C to D to B. Yeah. So.
+
+00:13:37:04 - 00:14:09:43
+不明
+To frame our challenges we we usually stated in two ways. Like for the business it was really needed to have the right people allocated to the right projects, the ones that deliver the highest value for the business at the right time. And for our people. It's really how do we help them manage that effort to drive efficiency on their days, to be allocating their time to the top priority projects, really enabling them to raise engagement, job satisfaction, and knowing that their work is on their top priority deliverables.
+
+00:14:09:48 - 00:14:33:49
+不明
+So we've got two different, challenges trying to be solved with the same solution, and we will come back always to the people, because during the design, we really wanted to keep people in the center. We know that being people driven on every big transformation, implementing any new tool, it's key for adoption, for success. It's key to drive any, any implementation.
+
+00:14:33:54 - 00:14:42:45
+不明
+Did you know how many big companies fail in their way to implement any digital transformation?
+
+00:14:42:50 - 00:15:15:38
+不明
+If you had to guess, what's the percentage of failure? I think from the poll in the last poll it seems like 52% 65. Okay, any other guests? 7070 spot on. Yes. There's research. It's 70% of big companies that do fail when they start implementing digital transformation. And research says that this is because we usually do unbalanced efforts towards the tools, the processes and the people.
+
+00:15:15:43 - 00:15:37:50
+不明
+And guess which one of the three is usually the one? We're not giving that much of attention, and we're talking about people. We are talking in the marketing organization of 1800 people across the globe, different geographies talking of this, people that are working with our partners, we do not do anything by ourself. There's a huge system that makes this come to life.
+
+00:15:37:55 - 00:16:01:04
+不明
+It's more than 35,000 people between our agencies, our partners bringing this projects to life and across the organization, not only marketing, we've got our technical people that we need to communicate to deliver on this projects. Nine different operating units that are team fields across the world. Europe. It's just one of those nine and they've got their own operating system.
+
+00:16:01:04 - 00:16:31:08
+不明
+We've got other working in different ways. Becoming a network to deliver our top priorities require us to work together, collaborating, co-creating in our project. And we had to have visibility of people that we're working on. What projects. So we needed a transformative solution that brought this all together and bring standardization, really raise visibility and automate our processes. And we implemented work front.
+
+00:16:31:09 - 00:16:55:43
+不明
+So that was the starting point of how can we bring resource management into life. So essentially the problem statement is simple. Instead of 20 differentiates for just Europe. And having eight different areas with hundreds of different sheets. I'm overexaggerating I guess, but we need to standardize it. We need to make sure that there is a single source of truth, and that's where Adobe work front is coming in.
+
+00:16:55:48 - 00:17:27:31
+不明
+Yeah, correct. So we have this unique solution for tracking all the projects. Now. We had a lot of backlogs manage in different ways when we wanted to have visible 80 of the work being done. It was kind of a work behind. Of course we could deliver, but with with a lot of effort behind. So now we've got this unique source of truth where all the projects are in and all the people are being logged in and managing the work through this platform, where we can start thinking about how can we see who's working on what.
+
+00:17:27:35 - 00:17:54:38
+不明
+So we designed, the solution for ourselves and work front with three key pillars that helped us bring to life. And this three pillars, maybe three pillars are the ones that you might remember after the talk. Maybe this can help you get started or reflect on what how you are implementing on the way, but it was a solution for us to really simplify how we wanted to bring this to life.
+
+00:17:54:43 - 00:18:16:15
+不明
+And I'm going to start with the first one that is capacity matrices. So I mentioned there is on the team they were working in spreadsheets for many years. Of course, there's a lot of value on that historic data. So we had information and there's a lot of knowledge in our systems that know if you want to kick off a project, what kind of roles do you need and what's the percentage that you need.
+
+00:18:16:15 - 00:18:43:00
+不明
+Right. But every project is unique. Every project has its own tiny complexity. But we started with a baseline mattress. So what we're saying is for any type of project that we open according to different complexity, we will recommend you. What are the type of roles that you need and what is the capacity per role per phase. So we're getting into more detail so we know the length of the project.
+
+00:18:43:04 - 00:19:14:43
+不明
+We've got different phases. What is the average capacity of our creative on the initial phase. And then what is the average capacity of that same person when we end the project and we're starting to deliver I think with this. Yeah, sorry. I think this reason resonated a lot with me when I first came across this concept, because almost every customer I work with, with work front, wants a feedback loop, and the capacity matrix is kind of like an outcome of a feedback loop for a type of project.
+
+00:19:14:58 - 00:19:40:57
+不明
+What is the different allocations? It's a big win for the data driven insights to make it possible. And, Coca-Cola was in a really good maturity state where we can just plug it into a work front. And that's where the solution is coming in. Sure. And when we talk about learning and iteration, this is just a recommendation. So every project lead, every PM that opens a system and gets this recommendation can change.
+
+00:19:40:57 - 00:20:01:30
+不明
+It can add roles, can eliminate roles, can adjust the capacity as needed because that's the only way it will help them. It has to be flexible and it has to be easy to be adjusted. That wasn't easy. The tool. If you anyone of you work with the work front, you know that it might be like complicated for people to really engage and embrace.
+
+00:20:01:35 - 00:20:25:03
+不明
+We wanted to. There are many solutions. You have to find yours. We had a way to get it really straightforward for the user to be able to be empowered and update their own capacity. So that was our main mission. So number one capacity matrices. Again it's a recommendation. What we provide and the tool enables each one that logs into the system.
+
+00:20:25:08 - 00:20:51:18
+不明
+If it's the individual contributor that's assigned to the project, the project lead can adjust this capacity. But this will not serve any purpose if it wasn't without fusion. Definitely. So just to give a background work front, fusion is paired up with work front and it's a integration platform as a service is a tool which is used to extend your workflow and application.
+
+00:20:51:23 - 00:21:15:52
+不明
+Build automation and integrations. So essentially make your life easier, right? So so this is work from fusion. And it's automations are the way we are able to plug in the capacity matrices with the daily workflow of Coca-Cola projects. So with that let us pivot to another, poll here.
+
+00:21:15:57 - 00:21:49:48
+不明
+So we heard many of you were already implementing resource management had in place what to know what stage of automation are you at? If you could automate one thing in your resource planning, what would it be? Right? Is it assigning people to the task? I think I know that there is a lot of interest in bulk assignment and adjusting capacities dynamically flagging over capacity before they happen, and generating real time dashboards with insights.
+
+00:21:49:53 - 00:22:19:36
+不明
+So to Jenny, what is our goal? What do we want to resource or AI to automate? So from the very beginning, as we stated, our challenge that the real mission was to assign the right people to the right projects and really bringing that to life. So people being assigned to the right projects and having them assigned to the right tasks was like the end to end solution for our MVP.
+
+00:22:19:40 - 00:22:44:44
+不明
+But we get we got into real time dashboards and everything that we're going to demo in a minute. I get mixed reviews looking at this result, so it's a close competition, but okay, so flagging overcapacity risks before they happen and generating real time dashboards. I'm happy to see this result in the sense that we are going to show you how to do it.
+
+00:22:44:49 - 00:22:54:16
+不明
+But at the same time, hope this gives a feel about where we are heading towards.
+
+00:22:54:21 - 00:23:22:44
+不明
+Future. The third pillar is real time dashboards to visualize capacity, prevent bottlenecks, and make proactive decisions. So we can build processes. We can automate the data. We can make sure that the manual workload is less. But if you are not able to see the result, it doesn't actually give you the power of what the automation can do. So real time dashboards would help us to deliver transparency, visibility of the work that matters.
+
+00:23:22:44 - 00:23:51:33
+不明
+And how the people allocation is the best selling item for this effort. So there are three things. Three ways we are trying to we have achieved this, real time visibility using the dashboards. One is if you are an individual contributor and you want to see what projects you are working on and how your capacity is distributed over the year for two different marketing projects.
+
+00:23:51:37 - 00:24:20:34
+不明
+And if you're a people manager, you want to make sure that your direct reports are not overburdened over allocated throughout the year. And make sure that if they do have a bandwidth, you are assigning them some projects, right? So and the third is the project team. So project leaders would need to build their teams and make sure that all their projects are allocated for different roles, which is required at the same time they want they have to plan better.
+
+00:24:20:34 - 00:24:31:55
+不明
+They have to. We have to show if there is any overallocation capacities in the project itself, or any risks to be flagged early.
+
+00:24:32:00 - 00:25:11:04
+不明
+Yeah. So as we mentioned, we were trying really to provide all the solutions that there is and the European team needed to automate their work. And we did find that the main value of this process is, of course, giving people time back to allocate that time to real, valuable projects. But really giving visibility on the tool. So having one unique source of truth where all the projects are in, no matter where you are working, no matter what operating unit you are, if you are launching a project that might need resources from different geographies, you can do it through the same tool and you can connect the people.
+
+00:25:11:04 - 00:25:35:22
+不明
+And the people will be immediately connected by being notified at the real time that the project comes in and needs the resource. So really, time saving and visibility was the power of the tool, but also scalability. As I mentioned, we're finding this solution that helps every team in the system, no matter how advanced they are today. On on resource management.
+
+00:25:35:27 - 00:25:54:37
+不明
+But then back to our people. If we go to our people's benefit, what we're trying to do is not only project leads and team leaders to be able to allocate the resource, like you will see on the dashboards, is that people are empowered to really get hands on their projects. So make sure that you're being allocated to the right project.
+
+00:25:54:37 - 00:26:24:27
+不明
+Make sure the work you are doing is being reflected in the system, but also have those conversations when repro decisions are needed based on data. So that's the power of the tool and also helping them raise engagement motivation as they lead those projects. They're heading on. But it wasn't everything super soft during this 12 months of discovery. We're talking about changing how people work every day, how they manage the work.
+
+00:26:24:32 - 00:26:53:52
+不明
+We're talking about a lot of transparency, and it's it's not easy. But one of the two things that we want to share with you, if you are on the journey of starting a new type of process, it's really starting with a small group. As I mentioned on the European team, were already very advanced and we started to try to solve that problem that it was working, instead of trying with teams that were just starting on resource management.
+
+00:26:53:54 - 00:27:17:56
+不明
+So when we started demoing this and really implementing with teams that had no tracking, this was much more from what they needed for a beginning. So maybe starting softer, it helps on adoption and implementation. So starting with a small team helps to run it much more faster. It's easier. And the second one, the second one is about flexibility.
+
+00:27:17:56 - 00:27:41:51
+不明
+As I mentioned, everything we design is to make it easier for the user, for the leader, for the organization to have a clear visibility, but be able to adjust as needed so that we think it's a power. Yes. So scalability is something we have to have with the capacity matrices. So as genius just mentioned, Coca-Cola company. It's so it's a big network.
+
+00:27:41:56 - 00:28:06:58
+不明
+Everyone has their own ways of doing things and every team has their own capacity matrices. At the end of the day, we want to make sure that the system we have built a scaled in such a way that a certain project happens based on what what project team is going do, we are going to get the right recommendations into the system so that, the system actually works as we are expecting.
+
+00:28:07:03 - 00:28:20:46
+不明
+So with each team who wants to do it differently, our system should be able to plug and play the same thing. And that's the scalability or the flexibility we are talking about.
+
+00:28:20:51 - 00:28:44:43
+不明
+One of the other things that we'll see on the demo is, as we mentioned, flexibility gives people the capacity of adjust those matrices. The system is ready to track after six months. All those changes that we're doing to be able to recommend a new adjustment on that baseline capacity mattress. So we are learning on the flow as we progress and we complete projects.
+
+00:28:44:43 - 00:29:11:08
+不明
+What what is their new recommended capacity maybe per project or per phase. So we can then iterate. So again this capacity mattresses are just the beginning. And they will keep being adjusted as we plug in more data. But let's go to the real stuff. Let's let us see it. Life. Right. So before we start off the demo right, one of the things which would stand out is who we are impersonating to show you this demo.
+
+00:29:11:13 - 00:29:48:31
+不明
+So our what we have built for Coca Cola is not for one person to do all the work. We are looking at a team effort to help do the resource allocation, help with the over capacity, make sure that we are tagging the right people to be able to do the work really faster. So meet Alex. So Alex is a contributor who works with the Coca-Cola company, who is someone who regularly contributes to multiple projects at Coca-Cola.
+
+00:29:48:36 - 00:30:19:40
+不明
+Today, Alex is going to quickly review workload, make some capacity updates to reflect the reality of his early allocation. Using our capacity planner. So Alex logs into the work front and he goes to his capacity planner, which is for the end user. So one of the things which immediately comes out is that for this current year, from January to December, what is the overall capacity percentages allocated for each month?
+
+00:30:19:51 - 00:30:47:37
+不明
+To Alex drilling down, he is able to see clearly what are the different projects he's working on and what is the capacity mix for each project and where exactly he's over allocated. So before we get into much details, I would like to highlight three things here. So he is working as a digital lead in Champions League campaign and NBA All-Star campaign and Coca-Cola Real Magic campaign.
+
+00:30:47:42 - 00:31:16:01
+不明
+So if you can observe in these two recommended capacities as you said, recommended capacities are the capacity or the blueprint we are getting from the capacity matrices. And it's based on the project complexity. So you can see that it's different. For one, it is 10 to 10 to 25%, the other is through 30 to 45%. So it's fusion is looking at two different capacity matrices because it's two different types of project.
+
+00:31:16:06 - 00:31:44:17
+不明
+And it's getting the right recommendation to the end user on what the what we are actually recommending. The second is the estimated capacity. And you would see these two terms throughout the demo. And the estimated capacity is the actual capacity percentage of how much percentage of capacity is per month. A user is required to contribute to a project right.
+
+00:31:44:22 - 00:32:15:16
+不明
+So if you if we look at, read this result, essentially I see that an April and May he saw allocated. And if you look at it, it's a mix of two different projects. And for one project, he's working at 50% of the capacity for the month and the other, it's 20%. And if we go down, it's more there is one more project where he's working as a designer, where he's giving 10% and 15% of his capacity.
+
+00:32:15:21 - 00:32:52:45
+不明
+And we need to adjust that. Here is where the accountability part comes in. Right? So we look at every contributor to own up to their over capacity to flag it, to make sure that his project leaders are aware of it. His team lead is aware of it. And make sure that something is done to action it right. So some of the ways, before we get into fixing is capacities, there's we all know that, not every part of our workday nearly fits into the project tracking how much our detailed we want to be.
+
+00:32:52:49 - 00:33:20:26
+不明
+Sometimes Alex also has to spend time on activities like training some administrative tasks or some support work, like attending Adobe Summit. That's a week gone. That's 25% of a month, right? Or even go to a big vacation for a month. That's hundred percent capacity, right? So we need a way to plug it in. We need a way to track the work which is done outside work front.
+
+00:33:20:31 - 00:33:51:24
+不明
+And that's where each of the contributor would have it record where they can mention out of 100% of their monthly allocation, how much of a time they're going to spend outside what is being tracked in work front. Right. So Alex can, at the start of the year, easily set up what is a time, of availability. He is ready to give to all the marketing projects tracked in work front right.
+
+00:33:51:28 - 00:34:25:21
+不明
+So the second, thing Alex is able to do is, update his capacities. Right? So observe how I am going to update the capacity for NBA All-Stars, where I want the digital lead to work for 25% of their monthly allocation. Based on the start and end dates, we are going to automatically calculate the prorated percentage capacity per month and distribute it over from the roll start to rule end of the project.
+
+00:34:25:26 - 00:34:52:34
+不明
+So it's that easy to actually manage their capacities, right? But don't worry, it's not without result. If any contributor is going to update their capacity over 5%, a notification is going to go to his team, lead to his project lead saying, hey, Alex has updated its capacity for this project. So I'm getting to your attention, right? So that's an accountability to to be honest.
+
+00:34:52:39 - 00:35:16:45
+不明
+Okay. So the second thing is, production is good, but the work is not always uniform. Just because you said 25% of your capacity per month would be going to a project, it's not the reality of the situation. Some months would be more, some would be less. Right. How would Alex handle or update his capacities to reflect the same?
+
+00:35:16:49 - 00:35:46:41
+不明
+So he would have an option to update capacity by month, which would open a new tab wherein he would see what is the current capacity which is allocated and he would have a way to edit and update the capacities. So his work starts from February. So let's say he has to do some preparation work from January itself. And April, May and June is somewhere it's going to drop a bit and is going to peak in August and September.
+
+00:35:46:46 - 00:36:03:09
+不明
+Right, is going to make these changes when he's discussing with this project lead or team lead on how the project is going. And these would be, reflected in his overall capacity automatically.
+
+00:36:03:14 - 00:36:11:01
+不明
+As you can see here.
+
+00:36:11:06 - 00:36:37:37
+不明
+And that's, Alex's daily reality. Now it's clear, simple and efficient with Adobe work front end capacity planner, managing work becomes intuitive and visual, allowing Alex and the whole team to spend less time tracking and more time creating impact. So yeah, yeah. To recap on the European team, this is consolidating those 21 different spreadsheets that we had in one same place.
+
+00:36:37:42 - 00:37:05:06
+不明
+And it's helping us also not only to have in mind the European I look like resources that we have available. So the digital team sitting in Europe. But when we need to staff, when we need to manage, we've got again all the data source in the system connected to be ready to even see an individual report or what we're going to see now, the teams report everything sitting in on work front.
+
+00:37:05:11 - 00:37:42:21
+不明
+Let's go with Jamie. So now the next, next, let's meet with Jamie, one of Coca-Cola's project leads working from Europe, whose responsible for managing multiple initiatives across the organization. Jamie would need the visibility and ease when allocating and adjusting team resources. And let's see how, capacity planner for project leads would help Jamie do exactly that. So again, before what we did is every project lead had to state and define what are the roles needed for the project and think about what is the capacity required.
+
+00:37:42:21 - 00:38:12:47
+不明
+So that was part of the kickoff of the project. It's a project leads responsibility to know what are the roles needed to kick it off. Was the capacity approximated. But then we're trying to bring a solution to make that much easier. Still, being able to adjust as needed. So coming back to Jamie. So he starts by logging into work front, opens his capacity planner and instantly sees a clear dashboard showing every project he's he's managing.
+
+00:38:12:52 - 00:38:42:45
+不明
+Notice how Jamie can identify which roles are assigned to each of the project, what are the roles required, and which roles are assigned to each of the project to a person, and what is the recommended and estimated capacities? For instance, for FIFA 2026, you would see that there are almost 16 roles required to complete this project, and for each role, there is a person allocated to them right?
+
+00:38:42:50 - 00:38:55:00
+不明
+So essentially, Jamie is in charge of making sure there is there is no red things in this view, right? Essentially everything has to be resourced.
+
+00:38:55:04 - 00:39:21:06
+不明
+Jamie has a way to update the estimated capacities and whatever update has been made, it would be pro-rated across the duration of the role. But again, he would also need a way to be able to update the capacities for per month so that we know when it is peaking and when it is slowed down right.
+
+00:39:21:10 - 00:39:43:01
+不明
+He can do similar to how the Alexa is done. He can make sure that there are off days that are on days, and he's able to adjust the capacities by month on the need basis of the project.
+
+00:39:43:06 - 00:39:53:13
+不明
+He can assign people directly from the dashboard itself.
+
+00:39:53:18 - 00:40:24:38
+不明
+And it is reflected directly into the contributors, and user dashboard. Not only to the dashboard, but when a project leader assigns a team member to a specific role, that, of course, is copied and integrated into the project tracking. So every time a task comes in for that specific role, that person is assigned to the task. So we don't have to go manually into the project and assign task per task a person's name because they are already being allocated from here.
+
+00:40:24:43 - 00:41:00:00
+不明
+So it's not only helping us to visualize that we've got enough resources to manage the project, but it's also helping us to get people into the project tracker, being notified when a task needs to be done, date completion, etc. so engaging them more into also the project level and having the resource visibility. So he would also, as a project lead, would want to assign more than one person in case, let's say the bottler here who I assigned is not available for all the four months.
+
+00:41:00:10 - 00:41:42:38
+不明
+Maybe he's not available for the last two months, which is April and May. Then Jamie can, initiate a process here which would split the record into two and be able to assign another bottler to work on this, project.
+
+00:41:42:43 - 00:42:18:28
+不明
+He can also adjust the timelines so that the split happens naturally. So back to the specific role allocation. When I mentioned Europe as a community and the global projects that require resourcing from different operating units, what we can do from here, specifically searching specific roles that are available across the system. And it will bring you names of people that are specifically working on that role that you can consider to plug into your project, reach out, see if they're interested, or have the like be capacity available to start connecting again.
+
+00:42:18:28 - 00:42:47:42
+不明
+The projects need to. What's the business? Resourcing availability across, the same platform. So an important part of Jamie's role is ensuring that the team members who are participating in this project aren't overburdened. So Jamie quickly checks all the end users who's actually who's capacity he needs to keep track of. If he says if it's resourcing a project, he would get all the.
+
+00:42:47:47 - 00:43:11:01
+不明
+The overall capacity of each team member and make sure that they're not over capacity because the task is being added to them. Finally, one of the main part of what Jamie needs to do is to make sure that when he he looks for projects which needs resourcing, there are no projects which which should need resourcing by the end of the month.
+
+00:43:11:06 - 00:43:44:44
+不明
+So doing this would help in a long way, wherein at a glance, Jamie can clearly see what are the resourcing, which are resourcing requirements still pending. At the same time, it acts as an indicator that Jamie has resourced all of his projects in time. So this is Jamie's everyday experience. It's now so clear, efficient and fully transparent. The Capacity Planner empowers project leaders like Jamie to manage resources dynamically, ensuring project structure, success and team satisfaction.
+
+00:43:44:49 - 00:44:11:40
+不明
+So I think we need to go back to how these two people are doing what they're supposed to with help. That is right. So as Jenny has mentioned, Theresa is handling 120 marketeers throughout the Europe for more than 200 programs, which is so many projects, and doing it by herself with some help with from everyone. But a lot of meetings and a lot of excels.
+
+00:44:11:45 - 00:44:41:57
+不明
+If people are able to manage their own capacities and project leaders are able to, allocate the right team members to their projects, how would the work of resource manager becomes easier? So till now we have seen for the Collaborator, it's what work they are assigned to for the project lead. It's what projects they are leading. But when it comes to the resource manager or someone high up above in the hierarchy, it's more holistic.
+
+00:44:42:01 - 00:45:18:29
+不明
+It's more, portfolio level of a view, which they would need and, make sure that the resourcing has been done. So we would have more options here to see how how we can view the overall capacities so they can they will use the smart prompts here to make sure that further is a I would see all the Euro projects in the system as of now, which are active.
+
+00:45:18:34 - 00:45:41:12
+不明
+There are a lot of lots of projects. So it's, filtering out of 3000, as we said. So it's taking some time. There you go. So as you can see, there is a can quickly see which projects have been have been allocated, which have been not what is what is Delta and how to work through towards it.
+
+00:45:41:16 - 00:45:59:06
+不明
+At the same time, she can also look at specific roles out of Europe and who is available to take up any tasks which are required. So essentially I am looking for a digital lead who is available from Europe, or Human Insights Lead who is available from Europe, who can take up the work and has the capacity to do that.
+
+00:45:59:11 - 00:46:41:10
+不明
+And I can easily assign filter out all the all the projects which are where resourcing is required, where the role is human insights. So this is a conversation Theresa is having with the Human Insights lead of Europe, sharing the database of what are the projects running that require digital or human insight resource. So having this conversation live, the tool is not eliminating those conversations the decision taking, but is helping us to visualize all in real time and in a same database.
+
+00:46:41:15 - 00:47:04:07
+不明
+And it's as easy as that. So Theresa has to just meet for 30 minutes per week with every category owner to be able to make sure that all the projects which needs to be resourced is resourced on time and the team members are not over allocated. And that is a big win for us when it comes to the resource allocation.
+
+00:47:04:12 - 00:47:40:19
+不明
+It's also helping us to visualize, on our business planning, right? If you put all the projects in the system and you have already a predictive approach of what is the roles, the capacity required, and you have a 12 month visibility, you can identify immediately what are the bottlenecks? What what like where is it? They have to take actions and have conversations on those projects that are kicking off, understanding if some need to be moved after four, or just getting more resourcing to complete those market inmates.
+
+00:47:40:24 - 00:48:05:24
+不明
+So this is just our starting point. So we are looking at what we need to achieve six months from now, one year from now, and what would be the phase two of this, this capacity planner. Right. So we want to make sure that we collect the data across the across the 1800 market years for the whole year, which would be the basis for, building an AI driven capacity recommendation.
+
+00:48:05:33 - 00:48:36:51
+不明
+Right. So what are the new project types we need to track? What is, average capacities per role? What how is there is a split? If there is a change, should we go back and change the project timelines. Right. Should we change our project templates? All of these come under the how we can use leverage AI with the data, which we are going to collect this year and make sure that we are ready when it comes to the capacity planning integration with the lead time solutions for automated time adjustments.
+
+00:48:36:55 - 00:49:03:14
+不明
+This talks about if you are planning a capacity for a project and things change every day. So now the people are using the capacity planner. How do we automate what is being changed year into changing the project timelines? Essentially what, if we talk about what is happening right now, you would see that in less than 15 minutes, we were able to allocate capacities for two people and we are done with it.
+
+00:49:03:27 - 00:49:33:22
+不明
+Right. So but in the background, every day we are using automations to make sure that whatever changes are being made in the capacity planner is being cascaded down to the project level. So next day, if you open the Workday Workload balancer, you would see that all the capacities are allocated, estimated capacity is going down stream, and the tasks itself are assigned to the people automatically.
+
+00:49:33:27 - 00:50:01:10
+不明
+We are also making sure that, the traditional out of the box work front resource management is still can be used even with the layer of capacity planner on the top. We are also going to build a deeper analytics using works using the capability of. Using the capability of and connect. So now we have for each project all the roles and all the capacities.
+
+00:50:01:21 - 00:50:25:12
+不明
+Now we can send it downstream to power BI or any other BI solution where we can build executive dashboards on the burn rate. And what is the what is the resource. Requirements using this, using the advanced reports and dashboards we are going to build. So this is where you will see us in the next. You.
+
+00:50:25:17 - 00:50:50:21
+不明
+There's a lot coming and yeah you. So she is already happy. She's, she's already very happy with with our new solution in place, leveraging work front as a unique source of truth, bringing visibility to the leadership team, but also, again, empowering our people to do better work, deliver faster, and have some fun in their way. So thank you.
+
+00:50:50:25 - 00:51:17:08
+不明
+We've had a last poll for you before we go into our time of questions. So yeah, so based on what you have learned today, what is your next step? Would you explore, work for and for more resourcing? Improve your current resource tracking system with what you have learned today. Consider automation in Capacity planner and connect with the experts.
+
+00:51:17:13 - 00:51:48:47
+不明
+I think that's me for a deeper discussion. Automation. Automation. That's. I like to hear that. Yes. So. Saving a lot of time. So finally to learn more about the Coca-Cola story with Work friend we have a session tomorrow at 2 p.m.. So please plan to attend that session. And that's going to really help us out and showing what we have done here and why it is important.
+
+00:51:48:52 - 00:51:50:11
+不明
+Thank you. Thank you for.
+

@@ -1,0 +1,304 @@
+00:00:00:26 - 00:00:39:35
+不明
+Okay. Good afternoon everyone. Hope you all are having a very exciting Adobe Summit full of learning and new experiences. And talking of experiences. Today in this session, we are addressing a prime topic for all that all the practitioners and the marketeers, as well as to be transformed to experiences and operations for our brands and organizations. The required lens for a scalable, standardized, reusable, flexible and cost effective web operation system is a must.
+
+00:00:39:40 - 00:01:12:50
+不明
+At least one of the large global pharma companies, in partnership with Accenture, implemented a comprehensive system which fulfills all of these requirements. We will deep dive into this system in this session. My name is Pratiksha Steve, managing Director and Accenture, Adobe Capability Lead in India. And today I am elated to have with me two of Astellas leaders who have been part of this entire journey, right from research to conceptualization to implementation of the global design system.
+
+00:01:12:55 - 00:01:22:16
+不明
+So I would want to welcome Madan Rajiv and Nicholas Barcelo.
+
+00:01:22:21 - 00:01:49:03
+不明
+Brilliant. So let's start. In this session we will we will divide the session into three different parts. The first part we will talk about the challenges and the strategic directions which Astellas took as they were actually implementing their entire journey from from a fragmented web operation system to a very comprehensive design system. We will talk about the challenges and the strategic shift.
+
+00:01:49:08 - 00:02:13:00
+不明
+Then we will go into the point of how did we execute this entire journey? How did it come to life? This technology solutions were used which Adobe solutions were used along with the other technology solutions. And most importantly, what were the governance? What were the processes which were put into place in order to bring it to life? And lastly, we will talk about the impact it brought to the organization.
+
+00:02:13:04 - 00:02:33:39
+不明
+What were the outcomes which were driven through it for the business? And in this sense, this is a continuous journey, right? Where are we right now? What are the best practices and lessons learned which you could actually take up from this session? As you implement some of these solutions in your organizations and brands? And what does the future hold for us?
+
+00:02:33:48 - 00:02:52:00
+不明
+How do we keep on working on and elevating this design system to the next level? We will talk about all of these points, but firstly, let's start with the challenges and the strategic directions, which are still took a while and over to Nicholas to take it further.
+
+00:02:52:05 - 00:03:21:24
+不明
+As you can imagine, it repeating the process over and over across multiple markets just increase up the costs and to essentially deliver on the same project. Also, if you think about, the platforms and the technology stack that you have between multiple local markets, you just increase the cost substantially because you need to maintain multiple hosts, multiple platforms and multiple technologies.
+
+00:03:21:28 - 00:03:51:07
+不明
+Our third point is time to market independent workflows and local markets, meaning that every site requires this length project process to go live. Now, the ability to respond to the market demands product launch and seasonal campaigns. These inefficiencies is a major roadblock in today's fast pace of the work, which majorly, who is the more affected the most affected by all this challenge as it's our customers?
+
+00:03:51:12 - 00:04:27:38
+不明
+Imagine their frustration in navigate across different websites. Inconsistent. Inconsistent. Inconsistent structure. What leads to confusion and lack of trust on this? Plus, when our team is struggles to keep up this long process. Customers may not get the information as fast as they should. Now let's see how we could overcome all this challenge. The answer lies in this strategic shift moving away from one of isolated operations to unifying a design system.
+
+00:04:27:43 - 00:05:00:19
+不明
+So when you find design, development and technology under a global design system, it's a game changing framework that transforms how collaborate, create, and scale digital experience more efficiently. Let's explore some beneficiaries of this transformation. First one is brand consistency and seamless user experience. A unified design language ensures a cohesive experience across all digital touchpoints. Be web can be email can be mobile and beyond.
+
+00:05:00:24 - 00:05:13:05
+不明
+This is especially especially critical in regulated industries like ours in life science and financial service. When content presentation must be precise and compliant.
+
+00:05:13:10 - 00:05:47:11
+不明
+The second point is cost reduction and the operation efficiency. Leverage predefined elements and the centralized development team and tech stack organizations save a lot of time development and maintaining and hosting costs, right? You don't even need to repeat the process over over which your agencies scalability, a successful design, adapt to new business needs, market nuances, and emerging technologies without disrupting the core experience or incurring significant additional costs.
+
+00:05:47:16 - 00:06:10:17
+不明
+For a structure design system, you can empower your content team to focus on the content, because they will not need to think about all the technology and nuances between you and how they are going to do this or that. They really focus on the content. You all know content is going great, and you may be wonder what exactly is the global design system and how does it work?
+
+00:06:10:21 - 00:06:46:46
+不明
+Let's find out in this short video. Is here to improve your website presence through streamlined design, time saving efficiency, and optimized customer experiences. Why a model for change? To enable engaging content for KPIs and patience through a common design language. So what is a design system? A system of reusable components, guidelines and design principles used for consistent, responsive, modular flexibility and design for use on any device.
+
+00:06:46:51 - 00:07:13:06
+不明
+A system that allows you to tailor websites to your customer's needs. Developed with compliance and regulatory standards in mind. Giving you the vehicle to focus on producing great online content. Engaging HCP needs and patience with dynamic web content tools and resources while driving consistency across a connected ecosystem, enabling them to reach the content they need quickly and efficiently.
+
+00:07:13:11 - 00:07:52:33
+不明
+So how will this benefit us? Well, now that you have a better understanding of what does a design system is. Let's break down its core elements. First one is our most harmonized design principles, such as standardized typography, spacing, color schemes, the iconography creates a consistent brand experience across all digital points. Second one is a library of pre-approved components, buttons, hero burners, navigation content cards streamline implementation and choose to focus on innovation rather, rather than innovating like a formula.
+
+00:07:52:35 - 00:08:17:39
+不明
+Elements. A card will be a card in each website. You don't need to make multiple cards. A design system is just not about guidelines is actually it is a set of over notes and documentation and training that you need to put in place process to make it happen. Governance is critical for long term success. Clearly defined roles, access and ownership ensure like control.
+
+00:08:17:39 - 00:08:51:24
+不明
+It updates prevent fragmentation and maintain the quality of the system. A well-designed system strikes the right balance between customization and global scalability. It should allow local customization without compromising its principles. Finally, a design system is never truly finished. It involves user feedback and business needs. Regular updates enhance functionality and ensure ongoing relevance.
+
+00:08:51:29 - 00:09:26:02
+不明
+All right. So what we've seen is the challenge that we had and what are the benefits and how we, you know, the strategy. The upcoming slides will describe how we executed the strategy into action. We all know execution in a global organization is no easy feat. But to explain this, I'll use an analogy of constructing a new house that most of us can either relate to or have encountered in the past.
+
+00:09:26:07 - 00:10:20:32
+不明
+When constructing a new house, identifying the site or location is a crucial first step. This requires research into various factors, such as access to work, cool shopping, entertainment, most importantly the safety and the experiences that we desire for our families. In a similar vein, we prioritized HCP and patient experiences. The forefront while keeping the brand's heart is intact to thoughtfully design elements, framework approach included conducting extensive research on end user needs for website audits, applying design principles, usability analysis, heuristic analysis, and so forth.
+
+00:10:20:37 - 00:10:56:53
+不明
+Two we collaborated with external partners to conduct end user studies to uncover their experiences that mattered most for peace and patients. And third, we designed an approach that could help us organize and deliver the brand content. Read promotional, non promotional, medical or therapy area in a way that it could. It could adhere to the market regulations at a global scale.
+
+00:10:56:57 - 00:11:33:18
+不明
+Once a location has been identified, the next step is designing and laying a strong foundation to support the construction of a steel structure. The walls, the pillars, roof and the entire foundation that sits on the foundation in a similar fashion. The foundation of elements has been thoughtfully provisioned by designing, using atoms, molecules, organisms, templates and pages as a core.
+
+00:11:33:18 - 00:11:50:23
+不明
+Building blocks meticulously aligned design standards and user experience principles, with the detailed design specifications that agencies can follow.
+
+00:11:50:28 - 00:11:58:54
+不明
+To construct the house, selecting durable sorry.
+
+00:11:58:58 - 00:12:22:17
+不明
+We also use the From a development standpoint, we use. Atom or. Sorry components, templates and pages using the Adobe Experience manager platform. From a data enablement standpoint, we used the, a m forms and so forth.
+
+00:12:22:22 - 00:13:08:01
+不明
+To construct the house, selecting durable and reliable raw materials such as cement, steel, wood pipes, and wires are essential. Similarly, we picked industry leading trusted platforms to bring elements life, user experience, design and definition use such as supernova, Figma and XD were used from a design and creative perspective. Component development was completed using M sites, leveraging experience fragments, content fragments, and so forth, and data enablement through a m forms for data capture.
+
+00:13:08:05 - 00:13:36:52
+不明
+Ruby analytics or again and use launch as well. Media management using dynamic media or video hosting and streaming. And finally, the entire operations management was handled through Accenture's two knobs platform, which is based on work front. And we also use Azure DevOps agile management standpoint.
+
+00:13:36:57 - 00:14:26:29
+不明
+Once a construction is completed before moving into house, it is essential to furnish and organize the resources such as furnitures, appliances and including setting up rules with do's and don'ts into the house to the same lines. Once the elements was established, relevance was built. Establishing a strong governance was essential. To operate. This included establishing a unified global demand intake process with structured end to end operating model right from a brand manager's request for website production, the time it goes to production live, and the operations support.
+
+00:14:26:33 - 00:14:39:34
+不明
+We also established a centralized governance of all demands that introduces a change to the elements framework, managed through a Change Advisory Board.
+
+00:14:39:39 - 00:15:15:47
+不明
+In addition to the robust platform governance, facilitate extensive use of the existing components that we have already built and also providing guidance to enable and mature the platform capabilities. Just using forms, dynamic media accessibility standards and so forth. And finally, we also established an ongoing measurement and reporting of KPIs. Examples include the request for design changes that are coming in growth, and the content variations that we have working on, and the number of.
+
+00:15:15:47 - 00:15:25:48
+不明
+Net new components that we are building to meet all the broader demands that are coming in by quarter and so forth.
+
+00:15:25:53 - 00:15:57:45
+不明
+Now that the House is finished and ready to move on, transitioning to a new place only requires significant adjustment. So just adapting to the new spaces or using advanced IoT enabled devices, security systems and so forth. So. All of these require an open mindset and learning. So following are some of the key tactics we used with the change.
+
+00:15:57:52 - 00:16:36:18
+不明
+Introducing elements within our organization. One educating stakeholders with the roadshows demonstrate the power and benefits of elements brands agencies using eBooks. Videos. Lunch and lunch and lunch sessions and so forth. We also had to onboard agencies and that was the most important and crucial part. And it involved positioning elements as a design tool. Shift that focus from design to content.
+
+00:16:36:22 - 00:16:54:59
+不明
+And we also established an ongoing cadence with all these agencies that we work with help create a continuous stream of feedback that could come and that can help refine our elements framework that we have built.
+
+00:16:55:04 - 00:17:40:05
+不明
+Another critical tactic that we deployed was establishing ways of working with global teams. That involved a very strong cross-functional team collaboration to manage the demand intake coming from each of the affiliate markets and see how that can be judge working with the different agencies, vibrating with the different technical, stakeholders or teams also working with some of our experienced partners, regulatory teams, medical legal teams and so forth that help provide a complete visibility of demand through final fulfillment and end to end operations, was managed successfully.
+
+00:17:40:09 - 00:17:58:21
+不明
+As you can imagine, this change was not easy. It required extensive time commitment, a code alignment, change in mindset that resulted in a sustained success for us.
+
+00:17:58:26 - 00:18:34:51
+不明
+And we talked about global. I mean, I think we heard in the keynote on the global for Local Success or Global for Local Vision, truly empowered us to scale operations by co-creating a strategy that facilitated a unified global brand voice. But the differentiated messaging across markets, including the brand, tone messaging and clear guidelines. We established operational planning that defined the defined roles and responsibilities between global and local teams on deliverables and accountability that resulted in operational efficiency.
+
+00:18:34:55 - 00:19:01:38
+不明
+We also leveraged extensive reuse of content and repurposed global content for local adaptation, translation that accelerated our time to market. Nicholas will be covering some of the outcomes, but with the global for local, we we were able to launch around 30 sites for global market and six months across several different campaigns.
+
+00:19:01:43 - 00:19:32:24
+不明
+In summary, following are the key takeaways, at least on the execution. Part one prioritize ACP and patient experiences at the forefront lay a strong foundation on the design framework and early engagement of brand and agency. Educate and also get that continuous feedback so that you can refine the design system itself. Let the tools, reliable tools and platforms to enable the framework.
+
+00:19:32:29 - 00:20:08:17
+不明
+And finally establish a strong governance. Extensive focus on change management. I'll hand it over to Nicholas to talk about the outcomes. Commander took in just the notes. The plan. Well, now that we covered strategic shift and the implementation, let's explore some tangible results and the lessons learned. Let's start with the cost saving. As you can imagine, in moving from this, no centralized to a centralized change a lot and eliminates a lot of, extensive work that the agency was doing before.
+
+00:20:08:22 - 00:20:35:37
+不明
+Think about instead of multiple vendors, you have one creative team that handles the campaign while a centralize it in-house or a partner team like a sanctuary, manage the local design across the markets. If you think about that, Asians usually charge like $100,000 for web project. Now you multiply that to 20, but when you centralize it, you just need to do once.
+
+00:20:35:42 - 00:21:00:39
+不明
+Then you spend like a fraction of this cost with the alterations to do bid signs. Also the development costs drop significantly. This is actually the 90% cost reduction is around what you can get on that. Because imagine that before let's say you have like 20 websites going on. You have to do 20 times the menu, the buttons, the all the elements that you have in the website.
+
+00:21:00:39 - 00:21:24:30
+不明
+But with the design system, we are going to do that once all the other 99 websites that you are going to do after this one, you don't need to code anymore. You just have like a outreaching that we have like a centralized center, or you have your own marketeers like we saw before with Jen and I and the other, other tools altering this content and delivering it.
+
+00:21:24:35 - 00:21:49:12
+不明
+The other cost reduction that you have, as I mentioned before, is on the platforms. We centralize everything through Adobe. It means that we manage one platform only. We have one team that maintain this platform that have knowledge on this platform. We do not need to have like multiple teams that knows multiple platforms, that knows multiple hosts, that need to talk to multiple vendors just to make each website live in each country.
+
+00:21:49:17 - 00:22:17:48
+不明
+It's all centralized. It. The next one is about, efficient because you are like, reducing the process. You have a lot of efficiency. You don't have any more, like multiple agencies working with, like, all the things doing the same work. The third point, the actually the third, the fourth point is the consistency that we have with our unified framework.
+
+00:22:17:59 - 00:22:42:39
+不明
+Users accessing our digital channels instantly recognize familiar partners, make it easy for them to find information they want, and we will be always the same. They will know how to find information if they go to a website, a, website B, website C and let's be honest, how often have Asians introduce a trend? But in practical design like endless parallax scrolling, right?
+
+00:22:42:43 - 00:23:13:37
+不明
+While it's impressive at first, they can become frustrating for us to maintain for our users. When they access our websites, we should always prioritize functionality and consistency over gimmicks, ensuring unpredictable, seamless, and enjoyable user experience. One of the biggest yet underrated transformation is how things can focus now on the content. Agents used to spend a lot of time like just thinking if the logo being the left, if their logo being the right.
+
+00:23:13:37 - 00:23:31:30
+不明
+In this website trying to make like the menu like a burger menu or long menu or left menu. Now they just focus on the content, all the the set of rules where the menu should be, how the footer should be, how the content will be, how the hero will be. All the options that they have in the US is all done.
+
+00:23:31:32 - 00:24:09:27
+不明
+They don't need to spend time doing the same process over and over that make us saving their process, make us spend more money for them to create impactful content for our customers. Okay. Another major challenge is the lack of, centralizing content performance insights for global brands. If you think about you have like a multiple websites across multiple markets, and each country or each agency was using their own platform, including different analytics, tagging their content in different ways is not was it was not to extend the rights away.
+
+00:24:09:35 - 00:24:39:42
+不明
+When you centralize all of that, you have one unique tool. Whenever account can make it all their data inside it, and the global brands can look at the data more holistically, see the trends, improve their content based on feedback, and so. To finalize, let's talk about the governance and compliance. Sorry.
+
+00:24:39:47 - 00:25:19:57
+不明
+Well implement a global design system is a transformation journey. And like any major initiatives come with challenges along the way. We get there. Oh, sorry. I was one moment. Let me talk about the governance compliance again. Sorry. When we have like, all these guidelines, it means that you can align all the needs of the markets and understand the nuances that when we have like a design system and we need to validate our content across different, we ensure like everything's compliant when we create like the nuances for one specific country.
+
+00:25:19:59 - 00:25:42:37
+不明
+And we need to replicate multiple websites in that specific country for multiple brands. We know all the rules, and we know that that content will be displayed in a compliant way. It's also help us immensely with like the secure it. We know that we need to maintain one system and it will be secured as we saw implement a global design system is a transformation joining.
+
+00:25:42:42 - 00:26:09:45
+不明
+And like any major initiative, it comes with a lot of challenges along the way, we gather valuable insights that shape our approach, and I hope these lessons can serve as a guidance for others looking to scale efficient. The first one is securing leadership, buying early. Let's be honest, getting leadership support isn't always easy, and in the early days, traction can be slow.
+
+00:26:09:45 - 00:26:31:56
+不明
+Without it. Once leadership sees the potential impact, they can become our biggest advocates. If the buying doesn't have happened in the beginning. Start small, build the MVP of POC and use it. Use measurable results to demonstrate the value.
+
+00:26:32:00 - 00:27:13:09
+不明
+One common mistake. One common misconception. Also. I've come to a lot. We talked before how successful Design assistant is just about the design. It requires tight collaboration across business content, UX and design. System alignment must happen early because retrofitting the system can learn can lead to inefficiencies. And you work are cheap here. Yes, marketing teams should ensure that agencies design with the system in mind instead of design in their own way, and then adopt later in the process.
+
+00:27:13:14 - 00:27:31:43
+不明
+Trust me, it will avoid a lot of frustrations because usually the marketeers will have something already their mind because they saw the initial work for the agents and then when they try to retrofit, will not look what they saw first, and then everyone gets frustrated with that.
+
+00:27:31:48 - 00:28:06:40
+不明
+Okay. One common misconception is that the design system for rigid uniform templates, a successful one, balanced consistence with creative freedom. Different brands have unique identities. Some prefer round corners, or they prefer sharp edges. Some need specific typography. Some need like a specific set of colors. The goal is global alignment, allowing room for them to be their unique selves to maintain their identity.
+
+00:28:06:44 - 00:28:40:15
+不明
+The flexibility in core I encourage adoption rather than resistance. As much as you can give them. Flexibility should be. Then it will be easy for them to adapt and accept it. Okay, we talked before, but a design system is never static. It evolves based on user needs, continuous feedback from design agents and stakeholders help drive meaningful updates. We have a great example in our case where we have multiple agents feeding back to us about our color system.
+
+00:28:40:20 - 00:29:08:08
+不明
+Our color system was not so easy to implement and was a little bit limited. When we start with the MVP, really related to the number of color tokens that we have. Based on their feedback, we did a huge work with our technical coaching, our design support team to almost multiply by three times the number of color options they have and to update how they setup the color, making it easy.
+
+00:29:08:13 - 00:29:31:59
+不明
+But essentially like this, regular engagement ensures that the system remains useful, is scalable, and is widely adopted. When they see friction, they get back to the adoption. When when you listen, then you bring it to make it easy for them. They were adopted a little bit easily at the adoption. Always also depends on accessibility and ease of use.
+
+00:29:32:04 - 00:29:56:43
+不明
+Power. We launched detailed training materials, including step by step videos or introduction videos like the ones that you see before. Every component in our design system is documented with real use cases because you think about when the agent is going to build, and it's the first time that they look at the design system. When they see the hero component for them, they really want to know how that hero will be applying to the page.
+
+00:29:56:43 - 00:30:27:19
+不明
+How is the variations that they can have, what they can see? You should always try to bring some real examples for them to really understand. Feel confident, use every comment there is is the assistance to use. The faster the team will adopt it. Integrating their workflows to finalize the last one. That's before you scale pilot before for roll out a controlled pilot, help sketch gaps early, refine the process, and ensure smooth transition.
+
+00:30:27:24 - 00:30:50:55
+不明
+Gathering real world feedback before scaling. Prevent costly rework and ensure maximum effectiveness. It's really important for you to look all the variations before you start scaling, because when you when you do your MVP and you start to think, okay, if I have to multiply that three times or if I have to customize this, what is the impact of that?
+
+00:30:50:55 - 00:31:13:04
+不明
+How much I need to do work here and then make you easy to prevent that. Now I will hand over to Prateek that to tell you a little bit about what we think about the future of. Thank you Nicholas. So what we have seen so far is how the design system was created and modern spoke about the overall execution.
+
+00:31:13:04 - 00:31:38:48
+不明
+And Nicholas spoke about the impact. But we are actually in the world where technology is continuously changing. In the last 1 or 2 days, you would have seen various different discussions around generative AI and overall AI, how it is shaping the overall landscape. So we are also continuously working on elevating the elements framework and taking AI as well as AI into the scheme of things to elevate it further.
+
+00:31:38:59 - 00:32:06:02
+不明
+For example, the first part is taking master content and creating different variations of the content. That becomes a very important thing, right? Because it is allowing you to automate a lot of that work as we go ahead. You can have one master content apply, engines like fire fly services and create different variations of the content. You can create different language variations, different resizing of content and so on.
+
+00:32:06:15 - 00:32:24:31
+不明
+So that is something where we can definitely, automate a lot of the work. Obviously there is a human in the loop required, right, for doing the reviews and Mallard processes and all will still be required, but a significant portion of the work can be automated with that. And that is something which we we plan to work on.
+
+00:32:24:44 - 00:33:02:17
+不明
+The second part is on the Am side, right. But then spoke about we heavily use a m component templates. And so we get the different designs from the molecules and organic atoms, molecules and organisms, and they get converted into the M components. But the creation of the M component itself can be automated by generative AI. So that is something which we have already worked on in Accenture, and something which would be applied as we go ahead into the entire design system, where you can create the M components in more automated way, and then obviously bring the review cycles as, as required.
+
+00:33:02:21 - 00:33:38:35
+不明
+The third part is the content authoring itself. The authoring, which is done by the operations team, which again, Martin was speaking about in very integral part of this. Right. So, a lot of the work is there in authoring of the pages, but there also be generative AI. We can actually automate the overall authoring process. And obviously after the authoring is done through, I by using the M components as well as the, the AI portion of creating the actual content that can be then reviewed further and activated as, to to publish a and pages.
+
+00:33:38:40 - 00:34:10:20
+不明
+And again, accessibility is a very important part. Right. So this is typically has been a very manual exercise. Now with generative AI we have already created solutions where we can find accessibility hotspots in the content. And we can then use AI to even refine the, the hotspots. So basically not just you are identifying which areas of the content are not accessibility compliant, but then further on modifying that.
+
+00:34:10:20 - 00:34:32:11
+不明
+And again after that, there is a human in the loop that so that you can do the, overall validation and the legal reviews after that, only that content can move forward. So these are just few of the examples in which AI, as well as automation, can continue to further elevate the entire elements journey as we go ahead in future.
+
+00:34:32:16 - 00:35:03:51
+不明
+So last, I just wanted to summarize everything which we have discussed in the last 30 or 40 minutes. The first is the importance of the global design system. Nicolas spoke about the challenges, the strategic issue of trade, how this is actually help to reduce the cost, improve the overall efficiency, productivity and importantly, standard ization. Because of the reuse and the standardization, the fragmentation and the silos have got broken and you have one unified process.
+
+00:35:03:56 - 00:35:32:06
+不明
+The second is on the structured governance model, the processes which Amazon spoke about. Right. It's very important that it is not just a technology solution. The processes and the governance are the gel which actually binds everything together. And then the flexibility and standardization being the key to scaling it. Adoption becoming a very, very important part. And Nicolas spoke about the requirement of getting leadership support, how to get the entire adoption into the frame rate.
+
+00:35:32:06 - 00:35:54:02
+不明
+So in order to have it have the framework elements to succeed. And lastly, the continuous iteration and feedback, again, that is something which is very much required to keep on evolving the system and keep it future ready, so that as the technology is changing, the processes and the governance also change along with that, and we can keep on elevating the system as we go.
+
+00:35:54:02 - 00:36:17:58
+不明
+And so these are few of the points. Hopefully this has helped you in understanding how the elements global design system has actually helped to reshape as delicious journey, but also it should be applied. It can be applied probably to many of the other use cases in different brands and organizations. So with that, thanks from us.
+

@@ -1,0 +1,264 @@
+00:00:00:14 - 00:00:41:08
+不明
+And a very warm welcome to everyone. Let's imagine. Changing banking. Transforming an entire banking experience. Leveraging data. Actionable insights. Personalization in Lightspeed in nine months. Attack on bank. We just didn't imagine it. We made this happen. Welcome to our story of Lightspeed leap to hyper personalized banking, where we will walk you through how we changed. Revolut revolutionized customer engagement with the help of technology, people and process.
+
+00:00:41:13 - 00:01:13:01
+不明
+In today's session, we will take you through Tech Bank's journey of hyper personalization, starting with customer, which is the core and the main driving factor for our transformation. We will look at our ambitious roadmap, the the technology that has helped us be able to change our customer engagement beyond technology. We will also dive into the transformation for people, processes and operations that made this vision a reality for us.
+
+00:01:13:06 - 00:01:21:16
+不明
+And of course, we will also share some business impact and then open it up to questions and answers.
+
+00:01:21:21 - 00:01:55:18
+不明
+My name is Miki and I lead the MarTech transformation at Decom Bank. We are building the first ever team in Vietnam that has implemented the entire Adobe Tech stack, end to end. We have been responsible for the operationalizing and the commercialization of these Adobe capabilities. With over 15 years of experience in data analytics, marketing and martech implementation. I have been driving innovation where technology intersects with customer experience.
+
+00:01:55:22 - 00:02:23:40
+不明
+I am excited to be here to share our journey with you. I have with me one of us, senior Product Owner, Tiffany. Hello everyone! My name is Tiffany and as a Senior Product Owner at Tech on Bank, I have the privilege to build and lead the team that's responsible for implementing and driving this newly implemented martech stack. Enabling hyper personalized, hyper personalized customer journeys at scale.
+
+00:02:23:45 - 00:02:29:24
+不明
+And so I'm really excited to share our story with you guys.
+
+00:02:29:29 - 00:03:15:03
+不明
+So at tech on Bank about us, we believe in the power of digital transformation to change lives. Our mission is to uplift our customers by providing personalized and rewarding banking experiences, making financial services more accessible and tailored to each customer. Unique needs. We were established over 30 years ago during Vietnam's transition to a market economy, and today at tech owned Bank, we are committed to leading digital transformation in the financial industry, empowering individuals and businesses to thrive sustainably with a customer centric mindset at the forefront at Commbank.
+
+00:03:15:05 - 00:03:40:41
+不明
+Our goal is to ensure that every customer feels like a priority customer, irrespective of the economical segment they belong to. We always try to help our customers make the right financial decision and how do we do that? How is this made possible? Let's look into a sneak peak of our customers. Let's go into what the profile looks like, and then let's amplify this.
+
+00:03:40:46 - 00:04:03:31
+不明
+Meet ton. She is an accomplished banker. She is. She has a thriving career, and she's balancing it perfectly between a thriving career and a family life. She has two kids. She needs to pay their fees. She needs to pay there. She needs to pay the rent. She belongs to the affluent segment and is highly engaged on social media.
+
+00:04:03:36 - 00:04:33:13
+不明
+Turn prefers digital interaction on her mobile app and email when it comes to banking experience. Her journey with tech on Bank is all about personalized content and efficient financial solutions that fit her dynamic lifestyle. This is one profile. Now let's amplify this to 6 million active customer profiles that we have who engage with us at 40 and above interactions in a month's time.
+
+00:04:33:18 - 00:05:08:31
+不明
+So what this means is we have 6 million active profiles who are engaging with us, 240 million interactions in a month's time at the bank. We don't look at this as just interactions, but as opportunities for us to convert each of this interaction into a unique experience, something which makes it an experience for our customers to remember. So they are just not routine engagements, but more value driven moments for our customers.
+
+00:05:08:36 - 00:05:42:56
+不明
+We are on a journey to enable heart and mind winning engagement with customer and prospects, transforming the 250 million interaction a month into a unique experience requires more than technology. It demands data driven engagement, real time communication, a system that can allow for cross orchestration. All of this funneled by a system that can create content and be able to serve this at scale.
+
+00:05:43:01 - 00:06:10:12
+不明
+If we are not able to scale, we wouldn't be able to achieve the unique, experience for each of our customer across all of their interactions. This also needs an agile operating model that enables us to quickly adapt to changes while we have the real time, measurement solutions, which will help us to analyze and further optimize our customer experience.
+
+00:06:10:17 - 00:06:36:13
+不明
+It is no more, or it was never about just showing the right message. It's a perfect balance between right message, right time, and the relevant preferred channel to bring about the real business impact. Let's dive into how all of this was made possible for us. The transformation roadmap for hyper personalization started off when we were at level two.
+
+00:06:36:18 - 00:07:07:25
+不明
+Now when we were at level two, we were sending out communication to a broader group of audience who had similar characteristics, who had similar behavior. We then quickly moved to micro segment, where we then started to identify similar traits, similar events, triggers which are happening in our customer lifecycle, and being able to customize the messages to them. Then on we moved to level four where we introduced one on one personalized messaging.
+
+00:07:07:30 - 00:07:39:12
+不明
+And our ultimate goal was to reach the hyper personalization phase where we are talking about real time content. Real time triggers. Being able to predict these events that are happening in our customer's lifecycle, and being able to show the content at the right time, at and through the right preferred channels. This foundation, this roadmap also also formed the foundation on how we want to make each and every customer feel a priority.
+
+00:07:39:12 - 00:08:07:46
+不明
+Customer to bring this vision to life. We knew we had to work on four pillars. First is that offer repository and optimized offer repository re timing content that we can scale, and a unique experience for each of our journeys. All of this tailored to each customer in real time and at the right time. We had to be truly omnichannel.
+
+00:08:07:51 - 00:08:37:19
+不明
+It does not matter if the customer's looking at the content on the web app, or speaking to an item at the branch, we had to make sure that the experience that the customer gets is truly omnichannel. And like I said again, it had to be a scalable infrastructure. If it was not scalable, then it's of no use. And to be able to do this, we had to partner with a global leader in marketing cloud space, and we chose to partner with Adobe.
+
+00:08:37:24 - 00:09:24:43
+不明
+We also worked with Adobe Professional Service as our implementation partner and Adobe Ultimate Success, who helped us with key critical tickets, engineering issues, and roadmap to value realization. When we are talking about transforming 240 million user interactions, we are talking about a combination of different solutions which can serve our customers throughout their lifecycle. It is we are talking about being able to identify and serve our customers from acquisition to engagement, deepening cross-sell, retention, and all of this had to come together in a unified profile view and hence we then started to look at the different solutions that are needed.
+
+00:09:24:48 - 00:09:52:28
+不明
+We got on board Adobe Analytics and customer journey analytics that would help us look at clickstream data, analyze the patterns behavior that is happening online, what is happening when they drop off from online and go into offline. We needed to be able to get a single customer view, so we onboarded CDP. We had to stitch that online performance, online behavior with activities which are happening offline.
+
+00:09:52:33 - 00:10:15:07
+不明
+We wanted to look at what's happening in the social, you know, imprints and be able to leverage what's happening, you know, within our own systems and be able to do to support our customers. We needed a content management system that could be operationalized at scale, just not web and app, but across all the branches that we serve for.
+
+00:10:15:12 - 00:10:41:37
+不明
+We needed to get in a solution that would help us with the marketing automation, the cross journey orchestration. So we got on Adobe campaigns, and we also needed to be able to test and personalize what we do for our customers. And we also brought in Adobe Target. Right now, I think the magic of these tools is, is how we are using the capabilities of these solutions, right.
+
+00:10:41:42 - 00:11:03:52
+不明
+So the most critical aspect for us was when we created the roadmap. We wanted to be, you know, extra cautious that we are leveraging these tools to its potential rather than releasing them in silos. So what this means is when we released our products, we put together a roadmap. We put together a strategy as to where do we want to get to.
+
+00:11:04:06 - 00:11:23:58
+不明
+What is it that we want to do for our customers? It is all very customer led. So when we implemented Adobe Target, we made sure we had banners integrated. So you know this way. Content personalization was not a challenge. We did not have to rely on a different solution for it. We did not have to rely on extensive I.T. processes to release our content.
+
+00:11:24:03 - 00:11:43:48
+不明
+When we released our campaigns, we made sure that we have analytics in place so as to be able to measure them. And whenever we are talking about campaigns, we are talking about the targeting. You know, foundation is the data, right? Making sure we have the data and making sure we have the right quality of data is the most important and critical item.
+
+00:11:43:53 - 00:12:08:00
+不明
+Now, when all of these solutions come together, that's when it provides a unified experience for our customers. We took a very staggered approach to releasing each of these solutions out for two reasons one, this is new to the entire Vietnam market finding skill sets. That was not as easy as it would may be hearing here or in Singapore or anywhere else.
+
+00:12:08:00 - 00:12:35:42
+不明
+Right. And I think the second reason was we did not want to disrupt business. So we took a staggered approach where we released, you know, where we started to replace the existing solutions we had, such as MailChimp for email campaigns with a single channel for Adobe campaigns, so that the business could then start using each of these and start seeing the true value and possibility that comes out of these solutions.
+
+00:12:35:47 - 00:13:10:43
+不明
+While all of this was happening in parallel, we also made sure that we put together a very strong strategy towards change management and training people across the organization. Now, this was so important for us because once we have implemented the solution, then the success of it is all dependent on the adoption. We wanted to business to think about these solutions when they are thinking about their marketing calendars, when they are thinking about the marketing strategy, when they are thinking about budgets, when they are thinking about spans, they are thinking about optimizations.
+
+00:13:10:48 - 00:13:35:40
+不明
+We wanted them all to think about these solutions, the power that they have and then, you know, put the strategy together. Hence, adoption and training became the core and was so important for all of us. And with this, we also realized that each of these martech solutions had to be well integrated with the other systems within the bank, be the data lake, the CRM, the web, the app.
+
+00:13:35:45 - 00:14:09:04
+不明
+Today, all of our content for Zillow, you know, Facebook. Tick tock. It all goes through the centralized, you know, content management system. And it is all synced based on what experience we are trying to provide for our customers. If you log into our app today, the banners, the personalized experience, you see the nudge that you get, the content that you see, based on, you know, your, your, your previous footprint on your app and the mobile web, you are going to see a different experience for yourself.
+
+00:14:09:09 - 00:14:22:00
+不明
+So how does all of this look in the life of a customer? So we try to put together a video and let us play the video.
+
+00:14:22:04 - 00:14:47:49
+不明
+Made in the travel and food enthusiast on a quest to find a new credit card. Perfect to his upcoming adventures. Min begins his quest by searching online for new credit card offers. Although min is not a current tech online customer, he served a Google ad for a tech on bank credit card, taking his interest. Behind the scenes tech, Commbank has leveraged Adobe's real time customer data platform to precisely target audiences and optimal times.
+
+00:14:47:49 - 00:15:15:16
+不明
+And through the most effective channels. Min, prompted by this, targeting, downloads the app and simultaneously registers an account. Enrolling himself in tech combines online banking service. However, due to work commitment deadlines, min reluctantly closes the app and returns back to work. Soon after, min receives the push notification from his Commbank mobile app with a personalized offer that is enabled through propensity data in Adobe's real time CDP.
+
+00:15:15:21 - 00:15:41:08
+不明
+Min is busy, so he ignores the notification and continues working. Min continues to receive reminders showing him how much he's missing out by not using the check on bank signature card. These offers are tailored based on Min's personal customer journey using Adobe Campaign and NBA modeling. Finally, after receiving a new notification with another great offer, min decides to sign up and proudly becomes a tech Commbank signature cardholder.
+
+00:15:41:13 - 00:16:07:30
+不明
+Adobe Analytics captures mins, conversion data and flow. Min is now regularly using his new signature card, enjoying the numerous benefits and rewards it offers based on Min's purchase behavior captured through Adobe Campaign. Min receives the call from his tech bank relationship manager, offering to convert his larger purchases into easy 0% installment plans based on Min's future travel plans and information captured by his relationship manager.
+
+00:16:07:35 - 00:16:30:16
+不明
+Min's profile is enriched through the tech on bank sentiment, detect system tech on Bank CRM and Adobe's real time CDP. This allows for more precise and personalized digital targeting. Min's journey with tech on Bank continues making his travels and experiences more rewarding with his tech on Bank signature card.
+
+00:16:30:21 - 00:17:00:45
+不明
+As we saw, right so gone are those days where, you know, people would go and queue up in a bank. Find out more about products. Everybody these days starts with Google. So if you're not out there, I think we have lost half the battle to our competition. So we did not want to be that. So we wanted to make sure irrespective, you know, whether it's our customers or people who are looking to bank with us, if they started off that journey, beat on Google, Beat on Facebook or any of those other platforms they are mostly active on.
+
+00:17:00:50 - 00:17:28:01
+不明
+We wanted to make sure that we are there to serve them with the right product, the right information, and the real power is also integrated with the other systems that we have, the other AI tools that, you know, our data team builds. Being able to capture the sentiment analysis, feed it back into the system. And every time the customer is speaking to an RNN, even if they are talking about a certain product or they're talking about a plan that they have a vacation plan.
+
+00:17:28:06 - 00:17:49:42
+不明
+These are things which also gets captured in the in our system. And, you know, it gets converted to meaningful data, which is then fed back to CDP. And we use all of this to further personalize what we show for our customers. Now, as a result of this, if you look at our business impact, we were able to drive 26 x more targeted campaigns.
+
+00:17:49:57 - 00:18:12:58
+不明
+This does not mean that we bombarded the same customer with more number of campaigns. This meant that the customers started to receive more relevant communications for them, based on either events that are happening or certain spend behavior that are happening. All of this trying to help our customers to make the right financial decisions, right? We save 90% reduction to update the content.
+
+00:18:13:03 - 00:18:35:13
+不明
+No more. We had to go to the IT processes, the release cycles, the testing, the DAP committees. We saved a lot of time and we were able to run campaigns faster and and in a more creative manner. This gave back time to our creativity team. So they could use, you know, more of the creativity in driving more engaging content.
+
+00:18:35:18 - 00:19:04:32
+不明
+We were able to run more experimentations, more personalization. We have delivered 690 million plus messages, and the core is training the people we have trained across the organization. 680 people. And in a market like Vietnam, we have also formed subject matter expert in our team. We have people who have actually finished the Adobe certification. We have at least one person who is a subject matter expert today.
+
+00:19:04:37 - 00:19:28:09
+不明
+And these are also the first people in Vietnam to be Adobe certified. And this is the scale at which we were all thinking about the transformation. Now, while looking at all of this one thing that we all wanted to be careful about is making sure that we do not start over abusing our own channels, right? So, so we we put across a contact strategy.
+
+00:19:28:10 - 00:20:06:07
+不明
+We did a lot of testing and then, you know, change the contact strategy. We went from segment view to a customer view. All of this led to us improving our conversion rates as high as 66% for real time campaigns. And we saw uplift of 20% for online to offline campaigns. When we talk about acquisitions, when we talk about, you know, the growth that we have had to our retail customers when we are talking about growing that 6 million active customers to 8 million growing those 214 million interact to 405 and 100 million.
+
+00:20:06:12 - 00:20:21:52
+不明
+We grow our retail customers by two year on year. We grow our SME customers by 25 x, and there was a 67% uplift in cross-sell in cross-sell products.
+
+00:20:21:57 - 00:20:52:32
+不明
+Oh thanks, Mickey. You have the clicker. Yeah. Those are some quite impressive numbers, that we were able to drive with this newly implemented martech stack. And of course, this was made possible by activating those personalized journeys that you saw that we, showed from in. And we need to scale this up. And in order to scale this up, we need to build a strong foundation for technology adoption through people, process and operations.
+
+00:20:52:37 - 00:21:25:34
+不明
+Right, so that we can continue to anticipate our customer needs and deliver these offers using the right channels at the right time. So this change management strategy ensures continuous improvement and scalability for the future. Implementing a full martech stack is not just about technology, and it's about people. The success of any transformation depends on how well an organization adopts and integrate these new tools into your daily operations.
+
+00:21:25:39 - 00:21:50:15
+不明
+So at Telecom Bank, we have to ensure that our teams are confident and can use these tools effectively to drive business impact that you saw. And so we focus on these key activities to make this happen. First is hands on workshops with desk side coaching. So we sat experts with teams in their work environments to personalize the guidance on commercializing these new tools.
+
+00:21:50:20 - 00:22:05:12
+不明
+So this approach really help people get comfortable with using and navigating the new systems and move towards a data making, data driven decision, process.
+
+00:22:05:16 - 00:22:39:54
+不明
+Then we had regular communication through our bank wide internal newsletters as a part of our change management strategy to ensure that people are aware of upcoming releases, and how marketers can leverage these capabilities to drive, more customer journeys and meaningful engagement. And then we also empower continuous learning, making, learning more flexible with self-paced learning e-learning courses, allowing our employees to upskill at their own convenience.
+
+00:22:39:59 - 00:23:16:23
+不明
+And we also conducted structured in-class trainings that are tailored to specific teams, covering everything from basics of the new technology to advanced real life use cases applications. So these sessions are more interactive, allowing team members to ask questions and gain a deeper understanding of how to use these personalization tools effectively. And I think the most, successful activity that we had was gamifying learning with the marketing hackathon to make learning both engage as well as, practical.
+
+00:23:16:28 - 00:23:52:39
+不明
+And so our marketing hackathon actually brought over 50 cross-functional teams, across departments, from it to data to our frontline people. They came together to work on real business challenges and executed live campaigns. So this encourage collaboration as well as empower the teams to experiment, innovate and see the direct impact of hyper personalized strategies and customer engagement and conversion rates and, you know, really leverage and see the power of our new tools.
+
+00:23:52:44 - 00:24:23:03
+不明
+So this structured adoption approach has been the critical factor for our success, in the transformation journey in these nine short months, allowing us to continuously optimize and scale our hyper personalization across the 240 plus million customer interactions on our app, Google. And so we also needed to rethink not just our technology and the people, but how our teams work together to see real impact, right?
+
+00:24:23:07 - 00:24:54:24
+不明
+This means that we have to change our process and operations. So as Mickey mentioned earlier, starting at our transformation to not disrupt business, we execute executed in single channel campaigns first and had very limited experimentations as we start to swap out our legacy capabilities with these new tools. And then as we progress in our transformation journey, we move to a more advanced operational model with a centralized and governed back log for each specific journey.
+
+00:24:54:28 - 00:25:24:45
+不明
+So they're not siloed anymore. We were able to integrate continuous marketing optimization in the process and really, truly, embed a test and learn framework using our, new target tools. We delivered omnichannel journey at scale by leveraging real time CDP decisioning engine and was able to enable trigger based journey to really reach that, you know, segment of one experiences.
+
+00:25:24:50 - 00:25:54:16
+不明
+So we recognize that to fully unlock the power of hyper personalization, we need to shift from a siloed approach to a fully integrated, multi, functional team structure. So by breaking down these silos and adopting the following cross-functional squad model, we dramatically increased our execution velocity by 26 times, as Nikki had highlighted earlier. So we didn't, you know, grow our workforce.
+
+00:25:54:16 - 00:26:19:27
+不明
+We just shifted people around and made people, with different expertise, work together so that we can go to market faster. So this model is made up of two main components. We have a core team. So the execution engine, comprising of full time dedicated roles who are directly responsible for optimizing, designing, optimizing and then executing these personalized customer journeys.
+
+00:26:19:31 - 00:26:44:44
+不明
+And then the extended team, which supports the core team consisting of subject matter experts and, they contribute specialized knowledge and resources on an ad hoc basis. So this allowed us to go to market to, you know, 88 and then go to market a lot faster than before. This significantly increased our speed as well as agility to the changing market.
+
+00:26:44:49 - 00:27:15:04
+不明
+Decision making is faster. It's data led, the customer experience are more seamless, and we can continuously iterate and improve based on real time data. So this new way of working, you know, helped us to deliver hyper personalization at scale. For our 6 million plus customers and growing driving both business growth and also customer loyalty. So what's next for us after this?
+
+00:27:15:09 - 00:27:40:35
+不明
+So before we get into what's next. Right. So I think what's also important for us to know that because of all of this training that we have been able to provide, all the all the coaching, which Stephanie spoke about, our I.T teams are no longer just taking requests and building, you know, more journeys and apps. They are actively participating in business conversation because they understand the core technology.
+
+00:27:40:35 - 00:28:03:16
+不明
+They understand the possibilities. They understand how quickly can things be done, what is the impact? And with all of this knowledge and the trainings that they've all had, they are understanding business much better. They're all looking at it from a customer centric view and they're all actively participating. That is a big win for all of us. When we look at what's next.
+
+00:28:03:21 - 00:28:29:33
+不明
+The future of customer engagement is clear, right? It is hyper personalization and at scale. And I'm going to say it is hyper personalization and at scale. Our vision at Commbank is to move towards a segment of one, because we truly believe that every customer is very unique. His banking needs are very unique. His communication, his channels are all very different.
+
+00:28:29:38 - 00:29:09:36
+不明
+They're the orchestration that is needed for each of them is very different. We are moving away from product like to most customer centric, you know, communications with our customers. We want to be leveraging our decision engines. We want to be more integrated. You know, all of that, a decision engine which is powered by the different AI models, the ML models, your NBA, NBA, your propensity model, churn model, retention model, all of this coming together well integrated with the offer repository, your campaign optimizer, which will start detecting and telling us like, okay, you know, what kind of a promotion discount should be offered?
+
+00:29:09:41 - 00:29:32:42
+不明
+You know, all of this coming together and then pushing it across all the channels that we have on our on for our customers. We are talking about providing scores, you know, different scores for each of our customers based on what action he takes and, you know, being able to quickly make that change. Being able to anticipate what's the next best thing that the customer needs is where success lies for us.
+
+00:29:32:42 - 00:29:58:00
+不明
+Right? And all of this needs to be seamlessly integrated. Be your online or offline channel. If it needs your RGM to call you up, you know, to help with the conversation, to being able to take that feedback loop from offline, you know, from the discussion that the rooms are having, you know, the process changes. There where you know, all the communication which the rooms are having is being captured and being fed, bottle fed back into the models.
+
+00:29:58:04 - 00:30:20:09
+不明
+That's going to help us increase our hyper personalization. This journey is just not about technology. It is about building a meaningful relationship, increasing engagement, and ultimately driving business growth. The future of customer experience is here and we are ready to lead the way. Thank you. We are now open up for questions.
+

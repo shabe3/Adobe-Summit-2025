@@ -1,0 +1,260 @@
+00:02:13:24 - 00:02:39:33
+不明
+Well. Welcome, everyone. Thank you so much for joining us today. My name is Jeff Hall. I'm with, UI. I am in our enterprise technology organization, and I, responsible for our Adobe and our CRM platform. I'm excited to be here today to talk to you a little bit about what we've done with our enterprise, our UI, experience platform.
+
+00:02:39:37 - 00:03:00:06
+不明
+But first, let's introduce the speakers today. In addition to myself, this is Barb Dombroski. Hi, everyone. I'm Barb Dombrowski. I'm the product and platform lead for the Adobe products with inside the UI. So I was a little jealous last year with the the room before us had music, so we wanted to up the game. And so we brought a video this year.
+
+00:03:00:10 - 00:03:28:31
+不明
+Hi everyone, I'm Akshat share my work as Principal Architect with the Adobe Professional Services team. All right. Perfect. Yeah. So, and go on to. There we go. Yeah. So first, before we get started, a little bit about UI, just for those of you that don't know us, we are, a global assurance tax strategy transactions consulting services organization in over 150 countries, 400,000 employees plus.
+
+00:03:28:31 - 00:03:51:48
+不明
+So we're a large global organization that has, a lot of, innovative and creative employees across the globe that we're working with and trying to support every day. So with that, maybe let's go on to the next slide here. So talk a little bit about the experience platform. And I'll kind of get into the genesis of the idea.
+
+00:03:51:48 - 00:04:19:43
+不明
+And our journey to where we are today. So about three years ago we were looking at ah.com and discussing some of the enhancements and improvements we wanted to make across the platform. And we were working closely with Adobe at that time, and we, started to hear from an IT perspective. We started to hear a lot of consistent themes and requests, not just from the martech team and the marketing organization, but across the enterprise.
+
+00:04:19:48 - 00:04:57:42
+不明
+So we started seeing a lot of themes and concepts around building digital experiences that started to parlay. So whether you were in our marketing organization, whether you were in some of our client facing organizations, whether you were in our internal teams, that may be just trying to engage employees, trying to engage our alumni, whatever it may be, people were very concerned with how do I build experiences that will capture their attention, personalize their content and hold them, you know, in a hold their attention span to be able to get them to engage with in a way that we want.
+
+00:04:57:46 - 00:05:38:35
+不明
+So, we started to look at, well, how can we leverage beyond a point solution for our, marketing organization, intercom? How could we leverage some of these capabilities that we have within the Adobe platform to be able to create kind of a microservice construct that we could reuse, repurpose to help us get to market faster, simplify and consolidate some of our operations and to be able to help manage cost, hopefully reduce costs right as we go on this journey such that rather than building 15 different point solutions for 15 different use cases, we're building a platform.
+
+00:05:38:40 - 00:06:07:48
+不明
+And then the the fundamental concept of that platform is it has certain Adobe capabilities and services that can be reused and repurposed over and over again. So around that it has some principles around insights, journeys, experiences and processes. We'll talk a little bit more about that and how we've built that going forward. And the way we're going to spend some time today with you today we'll kind of bar we'll talk a little bit about what we've built.
+
+00:06:07:53 - 00:06:30:14
+不明
+And Akshat, we'll talk about how it was architected. And at the end we'll kind of give you some demonstrations or kind of walk through what it looks like and how it works. Okay. Next slide. So a little bit about why adapting this and kind of some of our objectives as we went through this today, and our original journey we were looking at cost reduction.
+
+00:06:30:14 - 00:06:59:37
+不明
+Right. So budgets are tight right. Funding is limited. How do we get the absolute most out of this Adobe investment? How do we start to parlay that investment that we're making and the licensing that we're procuring to be able to be able to use this across as many systems and applications and use cases as possible. So, the other benefit was this, as we started to see an opportunity to centralize our management and operations of the Adobe platform.
+
+00:06:59:42 - 00:07:32:29
+不明
+So it allows us to centralize some of our security controls, allow us to kind of create, operationally a centralized team to be able to operate and manage the Adobe shared platform, in essence. So rather than having support teams supporting the dot.com and the intranet and some of our other custom applications that we're building across the enterprise, we have one team that's working at the center to support all creates a lot more efficiency, a lot better control and governance around our security and allows for faster deployment.
+
+00:07:32:29 - 00:08:06:36
+不明
+So we're able to move quicker, spinning up the infrastructure, being able to control and manage deployment activities and being able to continue to, reduce cost. And then finally, allows for better collaborations. Right? So teams are able to work on, different applications and we're able to move resources to share, those resources across multiple projects. So I'm not having to spin up resources for a project, spin them down, spin up resources, spin them down with having this central core team that is operating and running the platform.
+
+00:08:06:41 - 00:08:38:17
+不明
+We have projects I'm able to move resources to be able to support, keeping them fully utilized as we continue to, support different use cases and project request and then finally, scalability, we're able to really work with the infrastructure in the investment. We have able to spin up and scale the infrastructure very quickly, accommodate changes the application needs, and does it require significant re-architect or rebuild a rethink of the infrastructure that we have in place?
+
+00:08:38:22 - 00:09:14:24
+不明
+I mentioned this briefly, but reducing some of our operate costs, reducing maintenance again, where we're maintaining and running one infrastructure, one platform, on which these applications are built on top of we have standardized practices. So governance is key to this process. So trying to standardize how we do, our operations and our governance of the platform, making sure that we have uniform development practices, consistent maintenance and operational practices, streamline as much as we can to be able to kind of reduce costs around the operate, automate, you know, wherever possible.
+
+00:09:14:24 - 00:09:42:33
+不明
+And then finally, reduce the complexity of adhering to multiple regulatory compliance sources, minimize the risks of noncompliance, penalties and other things as well. So hopefully that makes sense about some of the goals and objectives that we have. I'll turn it over to Barb here to talk a little bit about what we've built. So so as we started looking at the platform and we started bringing together some of the things that we really need to pay attention to was the optimization and the scalability.
+
+00:09:42:37 - 00:10:18:07
+不明
+So how do we meet the business needs but not adding more of that cost? So with the centralized data platform. So we started looking at the RFP. So we already have that in place. We actually have two today. So how do we bring that together to actually start scaling up even further to enrich those profiles. So the services package process automation, we did a project for our U.S Creative Services where we built out their entire process flow using Adobe Work front End Fusion and adding all the process automation in place.
+
+00:10:18:12 - 00:10:43:46
+不明
+And then some of our other teams, we just take the same exact workflow we copied into another workspace within work from, and we make modifications to it to meet their needs so we don't build it from scratch. So it's a lot easier, a lot faster. So it gets the market faster. The platform scalability I have one work front end stands for 400,000 people, and so it scales up to ensure that we don't have to do dual license.
+
+00:10:43:46 - 00:11:05:09
+不明
+So I don't have to pay a license for creative services and a license for BMC, and a license for some of our global knowledge team. It's one person, so it's one license. And depending on their permissions, that's how they get in there. That one's content management. And then feature readiness. We, we really look at how do we take it a little bit further.
+
+00:11:05:09 - 00:11:28:03
+不明
+So instead of having a development team the build stuff for you, how we how do we give you a catalog? You choose what you want. We implement at your dime. We don't have to have a full development team to do so. We use agile, so we actually look very hard at how do we create or how do we create, integrate, preview, approve and just keep going in that cycle.
+
+00:11:28:08 - 00:12:03:55
+不明
+So we talked a lot about just recently about how do we scale to get the speed to market. So this is one of our products that we put in place was our first flagship product on the team was called discover. It's our internal knowledge platform. So we actually used work from a Marketo Analytics target and then some third party applications, elastic Pool party, to bring those all together to actually meet the needs of the whole content management lifecycle, to ensure that it gets through the lifecycle and to Amazon store.
+
+00:12:03:55 - 00:12:09:43
+不明
+And then we shareable to our UI community.
+
+00:12:09:48 - 00:12:32:46
+不明
+Which is the audience the audience segments and the content collide. They that correct. Of course with yep. We make sure that we have all the attributes that we need to enrich those profiles. Use an audience with target to target our resources to make sure they get that personalized experience. And we'll talk a little bit about that in a in a bit.
+
+00:12:32:51 - 00:12:54:05
+不明
+Thank you Barb. And yes, I talk a little bit about the architecture that we plan for this implementation. And what we did was we took an approach of shared services model with a hub and spoke sort of an architecture. And how that evolved as a project was we decided to put certain common services in what we call a hub, and the hub was again with various capabilities.
+
+00:12:54:05 - 00:13:17:23
+不明
+So what we said is maybe one hub will not be enough. We might have to put a differentiation between what are the services that we're going to provide from hub, starting with the digital hub. In the digital hub, we said, let's get all the data related items here. Let's get all the, digital assets related items here. Let's get all the campaigns over here, because these are some common services that the organization can utilize across the departments.
+
+00:13:17:28 - 00:13:46:05
+不明
+Right. So, what this also gave us was the flexibility that keep all the data sources connected into one place. So the advantage was in the app model. What do you say is that hey, let's bring all the various data sources, club them together into one place without impacting how you are managing the source data. The source data continues to evolve, continues to grow the way it is, but we collect all that data, put that in the middle, and then we build what is called a unified platform.
+
+00:13:46:10 - 00:14:11:17
+不明
+And in this unified platform, you'll see the unified profiles for your individuals. And the unified profiles is something which is then going to drive a lot of different activities for your web applications. Right. So here I started collecting all the data sources, including the, data warehouse data, including the analytics data from coming directly from web. So event driven data, all that coming into one place.
+
+00:14:11:22 - 00:14:39:03
+不明
+What we did was we said services and service lines which are running outside as an application. They start connecting to the hub to provide that data. Right. So initially we built the hub with whatever information is available, and we tap into all the resources which are available within the organization. So we built that environment. But then that is not good enough because what happens is at some point in time you want freshness in that you want the data to be continuously enhanced.
+
+00:14:39:18 - 00:15:00:00
+不明
+And to do that we say that all the service lines, which are business units, they have their web applications running. They should continuously pump data into my hub. So that hub is continuously nurtured. Right. And this gave us that flexibility that look. So this lines you can do what you need to do with your application, how you want to present the content is up to you.
+
+00:15:00:05 - 00:15:19:12
+不明
+But give us the data stream back into the common source here, which is what is going to then drive the segments for you. So now the benefit to the service line is that they don't have to worry about managing this, audience segments creation or how do we, enhance the segment creation or how do we stream the segment creation?
+
+00:15:19:19 - 00:15:36:52
+不明
+How is providing that as a service in return? How is getting all the data back into the hub so that hub can continue to grow? Now, the other advantage of this would be you look at the service line. It is one, but what if there are many? So in case of Ivi, there are actually many service lines working together.
+
+00:15:36:52 - 00:15:56:39
+不明
+So to do that they have one hub. All service lines are providing data back into it because now it is a bigger set of data and a better set of data. All service lines are getting equal treatment or getting better segments out. So they can do personalization. They can do campaigns targeted to individuals how they want to manage that.
+
+00:15:56:43 - 00:16:14:38
+不明
+In addition to doing this, in addition to the digital hub, there was one common requirement that came across from various service lines. They said, we want to be up and running on this model quickly. We don't have resources, we don't have time, and we don't want to go through severe amount of coding and replatforming. How do we do that?
+
+00:16:14:52 - 00:16:38:43
+不明
+So we said, let's create a mini hub within that, which is Configuration Hub. This configuration hub is sort of like service packages. Now we are saying that hey service line, you don't need to be master at this technology. What you can do is we will provide you these services so you can start connecting promptly. And so service lines could come in and say that, hey, I'm looking for just analytics.
+
+00:16:38:54 - 00:16:56:08
+不明
+I don't have time to learn analytics. How it has maintained, how it is configured, how it is run, how the schema is developed, how the data layer is configured. I don't have time for that, but I just want to enable that on my pages. Here you go. You connect through the data layer. We'll give you a piece of code that you place on your site.
+
+00:16:56:13 - 00:17:29:40
+不明
+And as soon as that is done, you start pumping in data into our hub. So this whole circle that we have created here is service lines. Use hub as, true capabilities, but they also become contributor to the hub. The second advantage of this was not only are we getting all the data in the hub and we are growing the data, but the bigger advantage here is they are also getting all their configurations and their, new components and, applications that they're building so that a new service line or an additional service line can start taking benefit of that code.
+
+00:17:29:45 - 00:18:02:20
+不明
+So if one service line has implemented, let's say, a search technology that is now part of hub, which can be given to another service line as a service. So a hub is sitting in the middle orchestrating the code and configuration demands as well. For the organization. That was a bigger benefit. We saw that obviously the question came after that, that how does it work where Service Lion has resources to manage their own presentation, manage their own content, manage their own targeting, but they want only services from the hub.
+
+00:18:02:33 - 00:18:22:51
+不明
+So we said, let's create a boundary here where within the service, within the hub, you have all the capabilities listed, but service lines can connect to the hub for specific activities. Right now. In this case, they don't have to worry about which data source and how do I go to that data source. And it's not just about connecting to the data source.
+
+00:18:22:51 - 00:18:49:59
+不明
+It is also about getting compliance for connecting to the data sources. Right? In case of if they had to go through severe, security clearances before they could even tap into the content data sources. And there are some geographical reasons as well. Like where does the content reside? Where does the data reside? So all those items which are surrounding the need for collecting the data in one place, that is the headache of hub have hub is taken care of that on the side.
+
+00:18:50:04 - 00:19:11:27
+不明
+But service lines are connecting to it for services. Now these are the service lines which say that we have resources and time and money to manage our own content. Sure, they can continue doing it. Connect to hub. But then there are certain business units which say that we don't even have all that. We just want some services where we want to even manage content within the hub.
+
+00:19:11:38 - 00:19:34:03
+不明
+So for those service lines, it is purely everything from hub. You have the content management also sitting in the hub, you have work management sitting in the hub you have personalization setting in the hub. So they don't even have to set up their own environment unless they don't, unless they want it. Yeah. To take this further. Now the problem was that, hey, we have created all this, we have created an architecture.
+
+00:19:34:03 - 00:19:58:01
+不明
+We have been putting this into a hub in spokesmodel. And we feel that, wow, this is very confident model where it's going to self-sustained. You'll give me something as a hub and I'll give you something back as a service line. Now if that works then how do I get you onboarded to that? To do that we said, because the hub is sitting in the middle with all the prepackaged, services, how about we collect?
+
+00:19:58:06 - 00:20:19:43
+不明
+We collect all the service lines into this as service offerings. Now service lines can come in and say that, hey, I do not care about, let's say, a digital asset or I do not care about campaigns, I do not care about, data management, but I want to enable analytics. So we said, here is your a la carte menu of service offerings that we have created.
+
+00:20:19:48 - 00:20:37:42
+不明
+You want personalization. Here you go. Let's start connecting you to that. In this case you give me the data connection. We will give you the segments. You start running your campaigns for personalization. If the service line comes and says that, hey, I want to use some content that you already have in your system. It could be some articles that you have created.
+
+00:20:37:42 - 00:21:01:34
+不明
+It should could be some globally distributed content that we want to utilize. I don't want to keep creating that again and again. So all I want is a stream coming from the hub and give me that. Next could be analytics. I could say that purely analytics. I just want to look at the web traffic. I want to analyze who's on the page, what are they doing on the page, and get some reports at the end where I can take some actions.
+
+00:21:01:39 - 00:21:25:44
+不明
+The next offering here was templates. Web pages quickly coming up to speed on how to build up pages using these modern, technologies. They don't have to deploy any additional code. They don't have to deploy any additional services. They basically take prepackaged templates and components. Start using them. Right idea I'm trying to throw here is that there are many of these that we created 1 to 10.
+
+00:21:25:44 - 00:21:51:46
+不明
+And it is further growing. But the main idea here was how do we make it easy and convenient for service lines to say, I want to be on the hub, and to do that, the service packages gives them a the autonomy of how they want to interact with hub. It's not one size fits all, so they basically they can pick and choice, choose what option do they want to connect to be.
+
+00:21:51:46 - 00:22:10:30
+不明
+They can prioritize this, connection to the hub. They can say that, you know what, analytics is the easier piece. Let's enable that first. And now I want to worry about work management. This is where I want to draw my own workflows. This is where I want to do my own, approval processes or integrations or any other customization.
+
+00:22:10:35 - 00:22:32:46
+不明
+But that's going to take time. So let that run in the parallel. While personalization, analytics are already running. So they have this option of pick and choose which one they want to use first versus later. If they want to use all of them, great. If they want to use one of them, that's also great. At the end, they are saving on time to deploy, and we are giving them the efficiencies of how to run this.
+
+00:22:32:51 - 00:23:02:48
+不明
+And Jeff, do you want to add some more information about how UI is then utilizing this model into the framework? Yeah. So from an UI perspective, it was, you know, the vision and design of this as we kind of evolved over the last few years in developing the capabilities and these services construct, we've created kind of a service catalog that allows almost a menu for people to be able to look from and choose what service microservice that they want to plug into.
+
+00:23:02:52 - 00:23:20:52
+不明
+And we started out seeing, you know, a lot of analytics people I'm interested in analytics. Let me try to get more analytics in your system. And so as they started to engage and leverage that analytics as a service, they then started to ask questions and engage with us to look at, well, what about personalization? How does that work?
+
+00:23:20:52 - 00:23:40:18
+不明
+How can I start to leverage some of this data that I'm collecting from analytics, plus the data that you have from and the profiles that you are maintaining within the hub? How can I use that to start to drive more personalized content? So we started to see the the adoption start to evolve the people to start to leverage more and more of the capabilities.
+
+00:23:40:22 - 00:24:08:04
+不明
+We started to having richer conversations with them around taxonomy and around standardization and around all of this to be able to create more unified experiences. And some of the benefits that we really started to see is in the where the light bulb started to go off is being able to share content across the enterprise, and being able to drive personalization across the enterprise at scale and heedlessly.
+
+00:24:08:09 - 00:24:37:30
+不明
+So that was really important to people and started to open up a lot of eyes when we were able to sit down with the folks and say, you don't have to recreate that content anymore. It's in the hub. It's in this experience platform, right? It's in what we've built. So if another application that's connected to us in the center and for example, we have our knowledge platform and it has a whole series of knowledge assets that have been created and is used.
+
+00:24:37:35 - 00:25:06:15
+不明
+Well, if your application wants to drive personalization that incorporates knowledge, assets and material, you don't have to recreate that. You can simply integrate to the hub, and you're pulling directly from the knowledge content that's already been authored and published and is being groomed and maintained. So as that content and its lifecycle management evolves, as that content refreshes, as that content improves, you're getting all of the benefits.
+
+00:25:06:19 - 00:25:38:19
+不明
+And similarly search enhancement taxonomy enhancements as we make improvements in the center, everybody gets them. So it's we're seeing a lot of efficiency a lot of a lot of cost effectiveness. And things like, you take our intranet, we're able to move much faster to be able to replatform our legacy intranet. And how fast is 16 weeks, 16 weeks completely rebuild Re-Architect and redeploy our intranet at a fraction of the cost of what it originally took to build.
+
+00:25:38:24 - 00:26:00:39
+不明
+So because we're reusing all of these templates, reusing all of these services, we're able to move much faster to be able to go to market. And Barb has a few examples as well of of how we've kind of implemented some of these capabilities and what it looks like within the applications. Yeah. So when we started, the first thing we did is our knowledge platform, and it was basically looking across the stack.
+
+00:26:00:39 - 00:26:23:54
+不明
+What are those products that we need first, because I'm a firm believer, don't put a square peg in a round hole. Let's use the right technology for to solve the issue. So we created the knowledge platform. As you can see, this is actually a view of the homepage. And we started looking at those products like elastic and the pool party, which is called graph wise today, which is the taxonomy management.
+
+00:26:23:56 - 00:26:43:01
+不明
+How do we bring that all together. So as we started building it, we also started looking at well how do we personalize. So how do we get when a client server comes to the home page. How do we get them the right content. So we started using the personalization with target and analytics to say, oh, you're client serving.
+
+00:26:43:01 - 00:27:06:49
+不明
+You're sitting in the service line and also in the sector. This is of interest to you. So we start pushing a little more content through the homepage as opposed to them having to look for it. So we definitely want to evolve from that. But we're we actually started there. So the next page. So when we first started this is the view of the first homepage and the first homepage on the on the Adobe platform.
+
+00:27:06:54 - 00:27:45:45
+不明
+And we started actually growing after. Now we personalized them. So these top top ones highlighted in yellow are all targeted to you based on who you are, where you are in the sector and service on your end. And then at the bottom you'll see suggested for you. Those suggested for you are the ones that other teams like our strategy and transaction team says, hey, I want the strategy and transaction content shown on my homepage that's not in Adobe, but today they were copying the data, so they literally would download it and re-upload it, or they'd copy a link and then the data gets archived.
+
+00:27:45:45 - 00:28:08:26
+不明
+Well, when the data gets archived, the links break. So we said, don't do that here. This is how you do it through target. You'll actually just pull the content and show it. And then if it's archived it changes constantly because your personalization experience, that was the whole big use case for that reuse of that content that really is starting to move faster in the market or in the UI market.
+
+00:28:08:31 - 00:28:34:12
+不明
+The other thing that we've done is in the past, we'd have insights or knowledge documents that would also be used in our UI, com and the intranet and also in our knowledge platform. So the goal is not to create it three times, use the same piece of content, just display it in the system so that the internet is now coming on to the same exact platform they're using, the same exact search.
+
+00:28:34:17 - 00:28:55:42
+不明
+They're using a lot of the templates and components. They're using Marketo. They're also using, AP to help drive some personalized experience. And a lot of it's already built for them. So hence the 16 weeks. Let's get them out there and get them moving. So that is happening as we speak. That's a little bit about our platform, our UI experience platform.
+
+00:28:55:42 - 00:29:13:19
+不明
+We wanted to save some time for Q&A to see if you guys had any questions for us. We're very proud of it. We're really excited about our journey and where it's taken us. So with that, we'll open it up to you guys to see if you have any questions for us and anything we can help, help with. Yeah.
+
+00:29:13:24 - 00:29:15:09
+不明
+Thank you. Thank you.
+

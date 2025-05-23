@@ -1,0 +1,384 @@
+00:00:00:01 - 00:00:26:08
+不明
+Afternoon, ladies and gentlemen, welcome to this session and thank you for choosing us. My name is Pedro Mango. I'm an Adobe managing principal enterprise architect. I know that's a mouthful. And I'm also a blogger. In case you don't know it. Or how they call us today. Content creators. I have my own blog called Pedro mojo.com, where I write about all sorts of things regarding Adobe.
+
+00:00:26:13 - 00:01:00:31
+不明
+My personal experience to set the context, I need to remind you that we are in the customer acquisition track. That is the top of the funnel. And today we are going to dissect how sling TV convert anonymous visitors into paying customers. Specifically, you will learn and a different data driven personalization approach which is very well suited for new visitors.
+
+00:01:00:32 - 00:01:28:18
+不明
+Anonymous visitors. And without further ado, let me introduce you to a niche. Anish, welcome. Thank you for being with us. And by the way, did I hear that you won something yesterday? Or you may have been the last. Congratulations. Thank you. We won. An Adobe experience maker works in the category and I'm excited to be sharing a bit of glory here.
+
+00:01:28:22 - 00:01:50:10
+不明
+Thank you for joining us this afternoon. As a personalization enthusiast, I wish I could very and welcome each one of you again. Names for that can't happen right now for reasons that we will discuss through our guest fascination. This one is called before the Logging Guys, because one of the biggest opportunities for customer acquisition, like picosecond hoops.
+
+00:01:50:15 - 00:02:13:09
+不明
+One of the biggest opportunities for customer, acquisition, like breakthrough sake. We found that pre logging on our websites. Okay. I'm assuming most of you are e-commerce enthusiasts or operating a website or just keen on learning how to market on a website. To some extent, you're likely to get scoop marks on any website long before you're logging.
+
+00:02:13:13 - 00:02:36:38
+不明
+One is off to get logging. Okay. And in our experience, we found out that there is a great divide in customer experiences. You've got the area before the logging where most of your customers are anonymous. You go into who you giving them, what they want. You can go on your website, but what can you do for them? And then there's all the goodness that comes post logging.
+
+00:02:36:43 - 00:03:06:40
+不明
+We logging. There's no profile data. There's limited media markers or the channels came from. Therefore gets limited post can have issues post logging. However, because profile data gets passed purchases gets predictions you can make and go back. Use those signals and personalize Google. Okay. Now here's a quote that I found which really resonated with me. If you wait until your customers tell you what they want, you already to leak, let me come.
+
+00:03:06:45 - 00:03:24:40
+不明
+This reminds me of an experience back when I was living in New York. Every morning I would Google this jelly on the corner of my street. As soon as I walking, even before a single word, the guy moves. What? I want a Brooklyn. Can you go and get Coke Zero, a Brooklyn Zero and a Coke Zero? Every single day.
+
+00:03:24:45 - 00:03:55:05
+不明
+Best customer experience of my life. Let's get this song familiar. You know what I mean? I have exactly that same experience talking about 15 years ago, I was living in Madrid, and I would do my grocery shopping every week on a Friday evening, at a supermarket and next to the supermarket, there was a Starbucks. So when I left the supermarket with my wife, we went to the Starbucks and we always ordered the same a chai tea latte with soy milk, tall size in a mug.
+
+00:03:55:10 - 00:04:24:27
+不明
+And I started noticing that the barista, when they saw us coming. Even before we arrived, he would start preparing the drinks for us. When I arrived, the drinks were there. All I had was to pay. That was an awesome customer experience. I could Google like now. I even want that makes me think too, because there was a time when you and I, we walked into these businesses for the first time ever, like a business owner did not know what we weren't good.
+
+00:04:24:34 - 00:04:46:37
+不明
+We first gave an order. Maybe we went back in there consistently and you started building on top of that. Okay. Now what if we could do the same thing of what, if any business could Google. Same thing. The very first time someone lines up on the website, okay, on the first interaction, that's sort of the promise of what we'll be talking about today.
+
+00:04:46:42 - 00:05:07:45
+不明
+Okay. Now we have the very famous marketing funnel. And I'm sure you've seen one version of yogurt of this quantity. But let's talk about this in the context of our website. The top of the funnel is when you've got traffic coming, your website, you've got visitors coming in. If they're in cascade of like work will begin to engage with you and get them moving deeper in the funnel.
+
+00:05:07:49 - 00:05:32:52
+不明
+Right. And then the way at least our slinky website is set up is you have to sign up to make a purchase. Okay. So you want to see how much goes gets purchased, cost me. You will have to create a login. You have to add your products and then eventually can work. Okay. But here's the thing. Speaking about just upper funnel gets very limited markets and the people coming in to the site.
+
+00:05:32:54 - 00:06:00:42
+不明
+Why? Because majority of your traffic or majority of the audience is not click ads. But that doesn't mean you don't like you. You do remember you. But the only time will probably come to your website is when they experience a problem. Got your act promised or gave you a service promise? Right. The average click through rate of crossing the screen is becoming half a percent to 3%.
+
+00:06:00:46 - 00:06:27:36
+不明
+Now that means people are showing up on the website, but we don't know how they came. We don't know what they saw. How do we personalize your experience? Google. Okay. Now what? And that guy actually gives us. People are coming to this site. We don't know how they came. We're going to work this out. But when they do show up on the site, it's a chance 90% of these visitors goal is getting more visitors.
+
+00:06:27:41 - 00:06:52:01
+不明
+We don't know who they are. We don't know what they're looking for. The website is probably not optimized to match your individual interests. They might browse around. But what we are doing is we are showing everyone the one size fits all experience. Well, guess that's that's going to work. You can work the majority of the customers, but it's just not personalized.
+
+00:06:52:06 - 00:07:16:13
+不明
+Okay. Now, Pedro, why do we have these ghosts? Yes. So you'll notice that I will talk more about the technicalities I will get. Will not get into any deep technical details. So I'm sure it's for all of you. But let's talk about cookies. So at Adobe we identify visitors through cookies in particular one cookie that's called the Amqp cookie.
+
+00:07:16:13 - 00:07:43:23
+不明
+This contains a unique randomly generated IED. So when do we generate this cookie? When there isn't one. And when does this happen? For example, first time visitors, as a typical case that what's what we are talking about today. Second option cookies expire. You have to set an expiration date for the MQ cookies, usually two years, but eventually they expire.
+
+00:07:43:28 - 00:08:11:43
+不明
+Or many users are now regularly deleting cookies because they have privacy concerns. And if it's not the user, it's the browser doing it proactively. And I'm looking at you, Safari. Or maybe the users just use incognito window. So with all of these cases, what we see is that since we have generated a new I.D., we have no previous history about them.
+
+00:08:11:43 - 00:08:35:00
+不明
+We don't know because with a cookie we can stitch hits like page views, clicks, whatever. But if we don't have the same idea across all of those events, we don't know what happened in the past. So in a way, if you think about them, they are ghosts because yet you see them. Are they even there? You will have many questions, but we know nothing about them.
+
+00:08:35:00 - 00:08:57:34
+不明
+That's that's a story. And the worst of all those five cases here look exactly the same. There is no way I can distinguish a first time visitor or safari clearing cookies for me. So that's why we call them ghosts. Thank you for that. Now, now we know what makes a good scoring arguments was a good night. What does a ghost love to do?
+
+00:08:57:41 - 00:09:18:54
+不明
+Well, again, love the ghost. Look at the bounce rates on the screen here. Okay. And anywhere between 35 to 45% is considered to be a good bounce rate. Which means there's a chance half of these visitors who are coming to the website, they're not even engaging. If your graphic doesn't see something that instantly connects with them, they will not engage if you engage.
+
+00:09:18:55 - 00:09:38:43
+不明
+How do we personalized them? You may have all seen while shopping on Amazon. You may also like or on YouTube. When you start watching videos and suddenly good recommendations start coming up. That's because at one point you go to the website. This is what I like. This is why I want to watch. But if half of the traffic isn't even going to engage, well, what do we do?
+
+00:09:38:45 - 00:09:58:38
+不明
+And that brings us to one size fits all experience. We saw all of these challenges stacked up. Let me go. Kabob. One last challenge for all of us in this room. Facebook. Every day, every week, every year. It's got media becoming more expensive. Advertising is becoming more expensive. Every year it becomes it's becoming more expensive to acquire new customers.
+
+00:09:58:39 - 00:10:20:57
+不明
+All of us love for you guys. And this comes back. Who's footing the bill for the business? Right. Also, there's an attention deficit session. Slash implications are shrinking across devices. People just don't watch ads anymore. So we live in a second world. We got to show something occasionally to someone hoping that they remember. When you remember, they come to your website.
+
+00:10:21:01 - 00:10:45:25
+不明
+We have to show them an experience that works for everyone and hopefully they can work. Okay. Now, with all of these small, let me explain. An anecdote. Sorry, not interrupting, but I goofing. That was 2008, 2009. I was at a conference and we were talking about CPC, about those prices that you can see here in this diagram.
+
+00:10:45:30 - 00:11:16:23
+不明
+And they were mentioning someone mentioned that the keyword asbestos attorney had a bidding price of $100. So let it sink. $100 per click was how much those attorneys were willing to pay. I mean, that was madness. When was this 2008? 2009? Imagine paying as much for a click and skill. Having a chance of someone bouncing gets to go to work.
+
+00:11:16:28 - 00:11:39:12
+不明
+It. Now, now, can we think of all of these challenges like you've got, more expensive media? You got a chance that someone will bounce. You got to make something relevant to the users coming onto the site. All of these challenges make me think like, hey, keeping eye on your website is no less going American. Okay. All right.
+
+00:11:39:25 - 00:12:05:49
+不明
+Hey, thank you for last. And we are in Vegas and. Well, let's leave the, statistical miracles focusing on the table. We try to be cool guests. Guests matter of Chang's and try to figure out the science behind it and share all these situations that I just mentioned. Exactly where we where we were on slate.com a year ago.
+
+00:12:05:54 - 00:12:30:27
+不明
+We had actionable signals on about 20% of our traffic, which means 1 in 5 users now got one user that we do have really good actionable signals on the users logging in. Okay. Everyone else is faceless. Can you imagine being at a dinner party like this? It's a creepy experience, right? You can. Someone's wearing a football helmet. Probably ankle scanning football.
+
+00:12:30:27 - 00:12:53:55
+不明
+Someone's covering their face with a phone. Okay, this is the mobile. Basically, we need to be mobile first. Okay. One lady with a newspaper analyst. Hey, would you like to buy a newspaper? Right. So all of these things, these challenges facing. But they did not stop us from personalizing user journeys even back then. What we get is typically called a classical approach to personalization.
+
+00:12:54:00 - 00:13:17:12
+不明
+Let us walk through Google. The first one is the clickstream based personalization. If you follow the mouse click around, what is the user doing on sling.com? If you come to Lincoln my homepage and you're going to Agnew's landing page, I guess where you guest person probably looks is looking for news. Let me lean into that segment. You go to the NBA Landing March Madness category.
+
+00:13:17:16 - 00:13:41:39
+不明
+This person is probably in March Madness. Like speak to that. But just kind of guess it's the customer getting the soccer game on the screen. We can rely on that signal. The weakness is very few people engage. What do you think about that? Yeah. So you think about this from the more technical perspective. When a user clicks on a link we can track that.
+
+00:13:41:43 - 00:14:08:39
+不明
+We can use weapons decay to capture all those links, those interactions and send them to the network. The app network. With this, we can create segments that can then be shared with Adobe Target for personalization that that's the ideal situation. And this is when if we have someone clicking, that is when we can use that information. Because remember, when someone clicks, they are telling what they like.
+
+00:14:08:43 - 00:14:30:57
+不明
+So you have a thousand clicks, sorry, a thousand links in a web page. And you only choose 1 or 2. So that's actually giving you a vote of what you are interested in. But we've already been talking about that from the beginning. What if they bounce? We have not had this opportunity to get that click that even first click.
+
+00:14:31:12 - 00:14:51:03
+不明
+So that option does not seem to be a big one, a good one. Now if you wait for a customer to call you what they want, you probably too late. That's how we started this. I love this signal. It's the customer telling us what they want. Looks kind of predicted, right? The next one is profile based personalization. Remember that one thing five people that we do have signal on.
+
+00:14:51:18 - 00:15:12:09
+不明
+These are people who are logging in. Once the user logs in you've got to keep clicking. I Patrick all your technical core but you've got a unified customer profile right. You've got an email. You've got a name. You got which is you've got all the good information that you can get. You can leverage strengths. Guess is more precise, more giving weaknesses a smaller pool.
+
+00:15:12:10 - 00:15:40:03
+不明
+It's not available for two prospects. How does this work better. Yes. So if you think about that with existing customers in AP, you would have their profiles. And I also want to see this approach like an augmentation of the previous one. We also have the clickstream. The moment you log in AP can marry the visitor data. So profile information plus clickstream anonymous data.
+
+00:15:40:17 - 00:16:02:45
+不明
+So we can combine the two. And we can create a bigger, richer profile that we can use for further personalization in the same way I was explaining before. But now I'm not going crazy. This is the top of the funnel and they are not customers, let alone they are not going to log in. So again, this second option very useful.
+
+00:16:02:45 - 00:16:25:16
+不明
+I'm sure you're using it, but useless for the top of the funnel or customer acquisition. Thank you. And the last one has you true first piece personalization. Every time someone comes to your website they are leaving where crumbs work. We know what geographical market you came from on selling. If we know you are in a Lakers market watching a game, we will try and recognize and speak to it.
+
+00:16:25:21 - 00:16:44:19
+不明
+If you know the Chiefs that long and you live in Kansas City, we probably can't speak to that work. If we know what UTM core you came through, like, what are you clicked and that you came to your site? You can kind of speak to that again. Who's clicking through asking? The amount of things that we can do is again, quite limited.
+
+00:16:44:24 - 00:17:04:01
+不明
+Speaker you spoke about Safari as well. Yeah, that also plays in here. Well, from the three options that we have showed, yes. So far this one is probably the best one for first time visitors. Because yes, when someone clicks on a link that leads you to your website, at least you know where they are coming from. That's something.
+
+00:17:04:01 - 00:17:31:46
+不明
+Yeah, not a lot, but something if you can control that link, you can put those UTM parameters. Or if you're using Google a sorry Adobe Analytics, you would have maybe the CID parameter which you can use. But what if they come directly. That's not going to be useful. They will just type income or organic search. Let me share also with you a bit of nostalgia.
+
+00:17:31:51 - 00:17:58:35
+不明
+I remember when I started working with Adobe Analytics many years ago. In the referrer of any search query, you would get the search term. So the keyword that the people had been typing that was like gold you could get, you would know what they were searching for and how they landed on your website. But citing, security and privacy concerns, all search engines have deleted that information.
+
+00:17:58:35 - 00:18:23:39
+不明
+So again, unless you can control the link, that option, it's not. Probably not the best. Oh that's fascinating. It's a bit troublesome from the privacy concerns. Very well. But as an e-commerce, the customer acquiring person, if I knew what someone was. Look, I know, I know, it's a good signal, but we don't make the rules we go through.
+
+00:18:23:43 - 00:18:51:19
+不明
+So all of these challenges, legal setting. What if we knew exactly what would make someone say, okay, AK even if we had anonymous physical personalization, pre logging, personalization for unidentified users. Just what a thing you worked. Someone was exactly encapsulating the moment they came on to the site. Can we can tailor the site experience even before logging or even before we engage?
+
+00:18:51:19 - 00:19:10:49
+不明
+Can we show you something that speaks to you? You know, we got makes you engage, makes you take the NBA next best action right. That would allow us to do personalization at the speed of oh, it's such an exciting idea. And then we try to decode it. And this is how we try to solve for it. Excellent.
+
+00:19:10:49 - 00:19:37:30
+不明
+Give. We partnered with TransUnion. Grants Union is one of the largest credit reporting agencies in the country. They have a proprietary household segmentation platform called New Audience Consumer Insights. What this platform does is it segments the entire American household population into 170 segments. Each of these segments have more than 15,000 attributes, something as basic as one cookie.
+
+00:19:37:30 - 00:19:55:59
+不明
+Each rookie income level, work skill, location because something very relevant for us like hey, work, work. This person probably like to watch. What have you watched in the past 15 days? Cookie days a year? What is a subscription skill looking like? Are more likely to be a key consumer? Are they more likely to be a live TV streaming consumer?
+
+00:19:56:04 - 00:20:20:22
+不明
+And that signal we can try and leverage you guys with me so far making sense. Where? Good. So you Goregaon American household population segment going to groups on this platform. Work that allows us to do is hey we can break this up into different smaller segments. Give us sports youth sports viewers give us news consumers give us someone who would be what we call a cord cutters.
+
+00:20:20:24 - 00:20:41:58
+不明
+Someone was a cable subscriber and is now cutting the cord and coming to live TV like online TV streaming. Someone who's servicing living in America, someone who likes anchor gig might make all of these signals. In theory, if we had access to that, we can kind of go, okay, once we set this up on the back end, but we got to set up, we got this gig going.
+
+00:20:41:58 - 00:21:09:51
+不明
+Jessica, one big thing happened immediately. We are going to find three times more users than before. This is where we were at around this time last year. Okay. Actionable insights. And about 20% of visitors. As soon as we got this third party giga, our signals went up even pre logging. So we have a probabilistic idea of what someone might be executing on their first physical.
+
+00:21:09:55 - 00:21:36:57
+不明
+It's got that make sense? Now if we can speak to that on your first visit on the top of the funnel we can personalize our offers. We can try to show you content that is relevant to you. If you see something that you like, you're naturally curious and you want to take the next best action, which may be here, let me check out what this offer is getting by widening our middle funnel to deeper into the funnel, you make the upper funnel more relevant.
+
+00:21:36:57 - 00:22:05:30
+不明
+You got a lot more people engaging with the website. Thereby you have a lot more people potentially converging. That was the hypothesis we were working with now. Thank you. How do we put into practice? Okay, so as you can see, Aneesh has been explaining for 20 minutes or so a hypothesis. Okay, how do we convert this hypothesis and turn it into action?
+
+00:22:05:34 - 00:22:40:10
+不明
+Let me introduce you to the Virtuous Circle. How many of you are familiar with the concept of virtuous circle? A few hands, I know a vicious circle. Yeah, I'm sure everybody knows what a vicious circle is. In summary, a vicious circle is just like a downward spiral in which, with every iteration, things get worse. What is a virtuous circle is the opposite is one with its upward spiral, in which every iteration improves something, whatever you want it to improve.
+
+00:22:40:15 - 00:23:15:04
+不明
+So how do we apply this? Think of it. Think of the typical campaign tends to be linear from brief to activation to measurement. So what if at the end of this campaign, I create reports, but I also get insights. And actually I have a blog post where I talk the difference between reporting and insights, in this case where sling TV is using Adobe Analytics.
+
+00:23:15:09 - 00:23:43:59
+不明
+So the insights are learnings, things that went well, things that did not go well, things that they missed. Take this information and send it back to the beginning of the next campaign and and use those learnings and do that constantly and iteratively, so that you get a long list of learnings that you should apply to all your future campaigns.
+
+00:23:44:04 - 00:24:07:50
+不明
+Now, just for the record, I mentioned Adobe Analytics personalization was done by Adobe Target, and I think I have here the person who has been working with Adobe Target for a very long time and then also, real time CVP, of which you are also an expert, I believe. So now that I have explained this, the set up now unleash.
+
+00:24:07:55 - 00:24:26:26
+不明
+How did you apply the virtuous circle to sling? Thanks for summarizing that. Here's how we went about it. Okay, quick recap. We saw the challenges because a lot of anonymous was because we didn't know how to personalize them. We thought we got this exciting signal that tells us who is probably coming to the site. What could we do with it?
+
+00:24:26:31 - 00:24:52:39
+不明
+The very first thing we wanted to do is, hey, let's validate these signals. How accurate are we? We came up with a concept which is modular merchandizing. What if you can take bits and pieces which exist across your website for them together, and serve it to the right person at the right time? This was going to be inspired at last year's summit, Eli Lilly gave a fantastic presentation about email marketing using a similar tactic, and I think he gets very much very relevant work.
+
+00:24:52:39 - 00:25:23:53
+不明
+We can do. So in the past, this is where we were. You were either a prospect, so we would show you the experience on the far left or if you have a cookie, which is unexpired. Mark Egan, marketing, we would recognize you probably coming back to the site so we can speak to that. Hey welcome back whistling or if it's a big spork ski, we go over so everyone gets to see cricket, everyone gets to see NBA and Gag works to capitalize on the moment.
+
+00:25:23:58 - 00:25:56:53
+不明
+But that's still not super relevant. The opportunity gave us some. We were creating users as someone which was just a sports viewer, someone who's just a news user, someone who is just an anchor gaming viewer. We really all of us in this room, including myself and on the stage, probably more like this. We love sports. We probably don't want to miss on news on aggregate or you may love The Real Housewives of New Jersey, but you still want to watch March Madness and you know your favorite news anchor on the show connect, right?
+
+00:25:56:58 - 00:26:20:04
+不明
+All of us have layered anchors, and what if we are trying miracle on the site? So before you go to the next slide, and when you showed me that we was, we were preparing obviously. And when he showed me that, he thought, I've never seen a customer taking this approach. So I think that's a really, really good approach and also a really good learning for me as well.
+
+00:26:20:09 - 00:26:46:43
+不明
+So congratulations. I think that this is, truly remarkable. This is innovation. Thank you. This was, inspired at the summit last year, and I'm happy to be giving back and giving just a concept that hopefully spark something new. Construction. Now this is the idea. We all have layered preferences. How do we reflect that on the site? What if we take someone's propensity to watch a certain type of content?
+
+00:26:46:48 - 00:27:07:35
+不明
+Let's say you have a high propensity for sports. Can we merchandise or can we please in components on the site, which I have a high visual hierarchy, which I have a visual. If you have a medium propensity for watching something, you can replace it somewhere lower on the site, but you're still able to access it. It's just not the only thing popping out to you.
+
+00:27:07:48 - 00:27:30:14
+不明
+What if you have a low propensity to watch something? Can we play a significant role on the site in an effort to contextualize all the components that speak to your interest? Does that make sense? And I'm not sure if it makes sense for everybody. Can you explain what propensities and what those numbers mean? Good question. Propensity is likelihood to watch some context.
+
+00:27:30:14 - 00:27:51:34
+不明
+So if 100 220 is the average propensity across all of America, anyone who scores higher on that propensity is selects, say one grainy, one good, one edgy, extra strong signal for you. Certain piece of quantum effects medium propensity like hunger, gun going exhaust gas relevant to you as anyone else if it's low propane, sorry, it makes sense to you.
+
+00:27:51:34 - 00:28:16:18
+不明
+Maybe not as much as the highest propensity object, but let's just scalar back to the idea. Okay? Now when we want to personalize, we are essentially seeking, a one size fits all experience on the left and tailoring it to something that's personalized on the right. How do you do that at scale without increasing predictive correction? How do we not aggregate creative backlog?
+
+00:28:16:22 - 00:28:40:54
+不明
+That's when the light bulb went off, he we've got different landing pages on the website with these pre-built components ready. On the sports beach. We've got a sports marquee sports hero sports Spanish sports thumbnails on the news landing page. We've got to see everything is pre-built, everything is authored. We just need to pull it from all of these different locations and serve it to the user at the right time.
+
+00:28:40:58 - 00:29:04:09
+不明
+What do you call them? Effects. Experience fragments. Experience fragment. Experience fragments. We'll get to them a bit later. And then this was, you know, this was what could be possible. If someone is new. As an NBA viewer, let me show you can be experienced on the far left. If someone is interested in news and entertainment, can we speak to you're going to be experiencing metal.
+
+00:29:04:13 - 00:29:25:12
+不明
+If someone is interested in basketball and entertainment, can we show them something on the ground? And the possibilities are limitless. We've got all the life programing that goes on beyond sling. We can potentially lean into all of those interests and replicate that on the site. Now, the first thing we want to do is, like I say, validate the signal.
+
+00:29:25:17 - 00:29:49:16
+不明
+We took a new segment, okay, we give users existing news and we're getting it because we simply, half of the users, we sure are going to be experience on the left, which is also really just not showing here that that's like one size fits all experience. Even on the right hand side. We control group okay. Test group just saw an experience which was scalar to the news anchors.
+
+00:29:49:17 - 00:30:12:45
+不明
+So a headline we spoke about news. Imagine if you spoke about news and what we found out is when we when we if when we personalize. We had a 35% lift in activation peaks. Okay. That was encouraging. That good is good is one. The signal works. And second, personalization works. Also in theory or potentially the concept also works well.
+
+00:30:12:50 - 00:30:47:04
+不明
+Here's another happy coincidence that we observed Mark personalized experience. Have a higher conversion rate, but for some reason people that were personalized to you were also watching news at a slightly better grade. I called it coincidence because it's just correlation. Maybe not causation, but I think that's good. But now 35%, that's a very good number. That's a very good what about the confidence, conferences I want to crosscheck when we go into the accuracy piece.
+
+00:30:47:09 - 00:31:12:27
+不明
+Okay. But you know what this really is? The signal works. Okay. You know, I wish my customers saw consistently 35% lift. The now going to signal works. Let's build on it with custom offers okay. Now offerings are one of the most powerful levers that all of us e-commerce people have who can, you know, nudge people to make a conversion, make a sale on the website.
+
+00:31:12:32 - 00:31:40:16
+不明
+When we try giving custom offers to these, segment goals that we identified as high value, we saw a 20% lifting that activation. And that makes sense. Like everyone loves offer or however, what's important to know is that we had a targeting accuracy of 99.9%. And why that matters is because we are giving money away. If we are giving rich offers that way, we want to make sure we are investing in the right customers.
+
+00:31:40:21 - 00:32:07:45
+不明
+And this was truly encouraging. Okay with me so far we we to merchandise because someone has come their first visit. We could give them a great check off. Let's layer on top of back gag by really optimizing the upper funnel, but with more first speech personalization, we can also supercharge our next speech personalization. If the user is engaging with the website, they probably go deeper in the funnel.
+
+00:32:07:49 - 00:32:32:24
+不明
+We can also try leading into gathering speed go. So here's what we gave most users. They come to the website. They get a little graphic right. They begin. Check out the light green bar somewhere along the journey. Get followed right? Common experience happens every time. What if we link in Google Greg bar linking to people who began checkout did not converge.
+
+00:32:32:29 - 00:32:52:25
+不明
+Now our analysis shows us that most people are usually window shopping a week or two weeks before a big sporting event. They will come back to the site to make a purchase out of key big event. Okay, what if when they come back, we show them an experience that says they can bring in shopping? Pick up where you left off.
+
+00:32:52:30 - 00:33:17:04
+不明
+When we did that, we noticed 120% increase in sales. For context, the blue bar, how many sales we got on the landing page alone, recognize people who were in get traffic, who made a purchase on their first visit. Everyone else that began checkout did not convert is the yellow bar. We got all of those additional sales by trying to lean into guarantee.
+
+00:33:17:16 - 00:33:41:30
+不明
+When you get come back to the site and all of these things given a big milestone in site personalization are pre logging. Personalization increased from 1.4% to 16% last year. You see that small sliver over here. Most of all work we were doing we're going to do next speech personalization with this new signal. And kind of lean into that.
+
+00:33:41:34 - 00:34:08:17
+不明
+We went up to 16% also because they getting a 22% increase in activation. Google now that's encouraging beggars. No, no that's a good segue up on the back side. Yeah. First of all obviously that's very good. Like from 1.4 to 16 I like it I like it. Thank you. So how do we set it up. This is just a glimpse of the Adobe architecture for sling.
+
+00:34:08:22 - 00:34:38:10
+不明
+They have way more I'm not going to explain it. All I'm going to concentrate is on this 30,000ft view of this part, which has been used for these use cases, and each has been explaining, also important to to remember is that, yeah, we have other tools that are not described in here, and the connection between them are far more complicated.
+
+00:34:38:16 - 00:35:09:31
+不明
+And I don't want to get there. But we have Adobe Experience Manager, Adobe Experience Platform, Adobe Target and Adobe Analytics and the glue, which is the browser. So say that you land on the website on your website that updates Lincoln, choose Type Enter. Then the browser makes a call to Experience Manager and gets the HTML. And you will notice that I'm going to be a bit technical, but I'm sure.
+
+00:35:09:36 - 00:35:42:51
+不明
+Excuse me, all of you will follow me. In this HTML we have a reference to Adobe Talks Adobe Tag Manager if you have been around. Used to be called Adobe Launch. Personally, I still prefer Adobe Launch and in there we have. This is a library that contains a reference to true audience. It makes a call to audience. It gets all those propensity scores and they are stored in the data layer.
+
+00:35:42:55 - 00:36:27:34
+不明
+Immediately after that, we can make a call through web SDK to the edge network and think about it. At this point, we have your particular propensity scores in the network, and we can create segments based on those propensity scores the same way that you have been explaining to us. So that's very much what I mean. Going now, step by step, we can use those segments, edge segments real time with Adobe Target, then Adobe Target with all the activities and experiences that it has, it will choose the best one and then target will return it back to the browser.
+
+00:36:27:39 - 00:36:54:32
+不明
+Finally, the browser can show that particular experience you mentioned experience fragments. Yes, sling TV loves using experience fragments. That's the integration we have between ARM and target. Why? Because it's way easier to create activities and experiences. Using this integration I'm going to skip dynamic media. But you might be wondering what is Adobe Analytics doing here? Is it a fly on the wall?
+
+00:36:54:39 - 00:37:23:57
+不明
+No, by no means. Adobe Analytics is there to capture all the events that have been happening so that we can create reports and insights. You will remember the insights that I mentioned a few slides ago. This is again where they come in to life through Adobe Analytics. And I don't know if you consider this simple or complex, but a setting like this is enough to deliver those use cases.
+
+00:37:24:01 - 00:37:47:57
+不明
+Thanks for talking to us, Google Play. True, and this is where we are at sling TV a year later. By implementing an anonymous physical personalization strategy, we achieve three big things. One is A3X increase in actionable signals and anonymous graphic programing back against. Remember how one five people was someone who wasn't anonymous before? Now we've got three and five people.
+
+00:37:48:01 - 00:38:15:16
+不明
+The dinner party just became more lively. We don't have to see masks anymore. Yes, scale. A bit of anonymous visit goes on on site, but I would be 60% energy and X much better. Second up by leaning into these signals, we were able to get higher conversion rates and longer session durations, because of which we've also more efficient with our media springs, maximizing every visit interaction.
+
+00:38:15:21 - 00:38:41:12
+不明
+Isn't that lovely? All right, all right. So this links going back to how do we replicate guest. We spoke about all of that. But how do we go beyond all of this okay so we've been talking about this link story. But how do we go beyond what else can we do. So Adobe has multiple tools that you can also use that are not Adobe Analytics.
+
+00:38:41:16 - 00:39:10:18
+不明
+Adobe Target and Customer and CDP. We have also Adobe Mix Modeler, real time CDP collaboration, which has just just very recently been released, Customer Journey Analytics or CGA. I'm not going to explain it. It's it would take each of those one session, if not more. So if you want to know more about those tools, we have the Adobe booth.
+
+00:39:10:22 - 00:39:34:01
+不明
+I'm actually part of the Adobe booth I have been this morning. I will be tomorrow morning and then on Thursday if you want to come also. But we have experts on all those tools and if you need more details, please come and they will be there to support you. So this virtual circle, as you can see, we have more tools that can take you to the next level.
+
+00:39:34:06 - 00:39:54:40
+不明
+So if you want to learn more about gear Ruby tools make you like the book. If you want to talk or geek out on personalization or just Brooklyn hero sandwiches, which are going to be right here, and let's get going to some questions. To start us off, how are you personalizing to anonymous visitors in 2025? Thank you.
+
+00:39:54:45 - 00:40:01:32
+不明
+Yeah.
+
+00:40:01:37 - 00:40:02:04
+不明
+You.
+

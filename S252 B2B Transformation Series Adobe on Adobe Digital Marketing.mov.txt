@@ -1,0 +1,308 @@
+00:00:01:01 - 00:00:23:34
+不明
+All right. Hello, everyone. Hi, everyone. Thank you so much for coming to our session today. Yeah, we're so excited for everybody to be here today. And you made it to the last day of summit. So thank you so much. And you saved the best for last. At least we think so. And we have an awesome session today.
+
+00:00:23:34 - 00:00:56:27
+不明
+So we're going to walk you through Adobe's own digital transformation using our suite of products. So this is Beth Campbell. She is a senior product manager on the Adobe Marketing data and tech team. And Beth is my partner in, in all things, marketing technology. She helps turn our marketing vision into a reality. So she helps us with deploying Adobe technology to manage our digital transformation.
+
+00:00:56:40 - 00:01:29:19
+不明
+She translates our marketing priorities into into real use cases and real features and enhancements. And she really helps us optimize our technology through feedback that's coming from the marketing team. She's an excellent partner. She's the best person ever. I love working with her. And this is Kendra Lewis. Kendra has been at Adobe for ten years, so she is a seasoned vet and her team is responsible for building integrated digital journeys and driving segmentation with personalized strategies.
+
+00:01:29:24 - 00:01:51:14
+不明
+And then her team also delivers all of those tactics in all of our channels. And I also really love working with Kendra because she is one of the most knowledgeable people, and I get all of my best requirements from her. Thank you. So, we work together to drive digital transformation, for the B2B marketing teams at Adobe.
+
+00:01:51:14 - 00:01:59:21
+不明
+And we're really excited to give you a look behind the curtains on how we do that today.
+
+00:01:59:25 - 00:02:33:15
+不明
+So, show of hands, how many of you are struggling with some challenges like this? Like, wouldn't it be game changing if you did not have to do manual list loads, or if you could seamlessly orchestrate your campaigns across channels? These are a lot of the objectives and struggles that we were having, on our B2B team. And, we're going to get into today, like how we've, how we've dealt with these using, a suite of different products from Adobe.
+
+00:02:33:19 - 00:02:58:19
+不明
+And we are. There we go. Oops. We did a double advancement there. We're going to go back one. So our world looks a lot like yours as B2B marketers. B2B buyers have really high expectations now they want to have self-service experience for either all or part of their buying journeys today. They also expect their demos to be personalized to their use cases.
+
+00:02:58:24 - 00:03:37:43
+不明
+So as a result, the buying groups are getting larger. They're more diverse and this creates a higher content demand than ever before. So marketers today have to personalize at scale to be able to meet the needs of a changing B2B buyer. These customer journeys are getting much longer and more complex. We know that most, most B2B teams now have sales motions that last almost a year, and they need to reach people through ten different channels, engage at least 11 different decision makers, and drive 37 interactions before a sale is made.
+
+00:03:37:48 - 00:04:02:15
+不明
+And just so you know, at Adobe, our formula is far more complex. Our sales cycles can be up to 15 months, where we're engaging people across 50 different channels and engaging 75 decision makers before a deal and driving 1500 interactions. And all these interactions are happening across multiple platforms. You have your marketing automation platform. You have your customer data platform.
+
+00:04:02:24 - 00:04:28:52
+不明
+Even sales has their revenue operations platforms. So there's a lot of different technology here with siloed data where you're driving lots of activity and interactions. And so our customers really want to simplify this tech stack so that they can reduce the operating costs and the cost of a sale in order to drive all of these interactions that need to happen to close a deal.
+
+00:04:28:57 - 00:04:55:28
+不明
+And this complexity meant that we had to look through marketing with a new lens. And historically, we only focus on leads, which is typical B2B, right? The problem is that for us, a single lead, no matter their decision making power, is rarely enough to drive a deal. So we incorporated an account view. And what this allowed us to do is then we could see all of the contacts within an account.
+
+00:04:55:33 - 00:05:22:12
+不明
+But the problem with this is that we don't know which of these contacts are actually relevant to sales. For them to have the right engagement and conversation to drive the deal forward. So the answer is buying groups and buying groups are sort of this sweet spot in the middle that reflects how our B2B decisions are actually made by a team of stakeholders who each have a say in the purchase.
+
+00:05:22:17 - 00:05:49:57
+不明
+And this also meant that we had to shift our measurement framework. So like most B2B companies, we measured marketing by leads driving mql and handing them off to a bidder and calling it a success. But the problem with this is this only accounted for 3% of our business. And that meant that 97% of what marketing actually does, the engagement, the influence and the momentum is all invisible.
+
+00:05:50:02 - 00:06:15:27
+不明
+So we brought in the aperture by introducing marketing qualified accounts. And what this allowed us to see in start measuring all of the touchpoints within an account and see all of those interactions. And what we saw was something miraculous. So we see that we have over 200 touchpoints across our key personas before a deal even enters the pipeline.
+
+00:06:15:32 - 00:06:46:28
+不明
+And this is how we came up with our new measurement framework, which is focus on and count engagement stages. And what this does is this measures the buying group coverage and engagement across our key accounts. And what this does is this connects a marketing and sales measurement framework and allows us to translate marketing's impact to pipeline, to deal progression and then ultimately see our impact of all of those touchpoints that we're having.
+
+00:06:46:33 - 00:07:18:52
+不明
+To be able to show our direct revenue impact. So this is our marketing, our sorry, our account engagement stage framework. This is what helps the marketing team orchestrate different experiences across accounts. So we're able to now look at the account engagement we're having, but measure the depth of engagement inside the buying group. So that way instead of measuring engagement, all of the account engagement that's going on across the account, we're really focused on those people who are involved in making a buying decision.
+
+00:07:18:57 - 00:07:44:47
+不明
+And then we can look at that by stages. So now we have very specific goals based on the engagement stage of the account. And so when we're working with accounts that are in that are in stage one, we're really focusing on building out the buying group and driving research with Adobe. Then when accounts move to stage two, we can orchestrate more closely with BTR to start driving high value actions inside the accounts.
+
+00:07:44:56 - 00:08:05:36
+不明
+So that might look like an event attendance like summit, or it could be a webinar attendance or things like that which show stronger buying sites inside the account. We can also start to drive more direct discovery on our website. And then when accounts reach stage three, we know we have a full buying committee. We know we have high engagement inside the account.
+
+00:08:05:43 - 00:08:36:16
+不明
+And now it's about maintaining that interest that we're driving, delivering personalized 1 to 1 offers and deepening discovery. With the BTR team. So accounts that reach stage three are 20 times more likely to become pipeline. And so using this framework, I'm going to walk you through a real program that we put together where we decided to focus on stage one accounts with the goal of advancing them to stage two.
+
+00:08:36:21 - 00:08:57:17
+不明
+So we decided to focus on, driving demand for a content supply chain, which is a really big priority at Adobe. It's a challenge that a lot of you have today, including our team as well. And so we decided to drive demand specifically around that topic, targeting stage one accounts in order to move these accounts from stage one to stage two.
+
+00:08:57:19 - 00:09:20:47
+不明
+We needed to focus on expanding our contact coverage of decision makers and buying group members inside to target accounts. We also wanted to look at the decision makers we already had in the account, and try to deepen that engagement so that we can we can drive that progression. In the framework. But in order to do this, like I said before, B2B buyers have much higher expectations now through the buyer buying cycle.
+
+00:09:20:49 - 00:09:28:33
+不明
+So we needed to be able to personalize the content that we had available for this very quickly.
+
+00:09:28:38 - 00:09:53:04
+不明
+And so, so now we're going to walk you through step by step. We have five steps outlined here. So step by step how we put this program into action using our own technology. And we're especially excited about this because Kendra and I are on Adobe's B2B marketing team. So everything that you're going to see here is from our screenshots, from our real production environments.
+
+00:09:53:18 - 00:10:18:36
+不明
+They're not from demo environments. So everything you're seeing here is this live campaign that's been actively demo. It's all we have. So we so starting with step one, the first thing that we needed to do for this program was identify the right audience. And we start with two aspects here. It's identifying our target a countless and then identifying our buying groups within those accounts.
+
+00:10:18:41 - 00:10:44:09
+不明
+So, how do we find the right accounts. What is the first step that you take and even approaching this question. So as Kendra mentioned, we wanted to deepen the marketing decision maker engagement with the content supply chain topics. And the first step of this is to find the right accounts. And the way that we able to do this is using Adobe Experience platform and real time customer data platform.
+
+00:10:44:22 - 00:11:18:45
+不明
+We have a unified view of all of our account and customer data. And like we mentioned before, this is truly all of our data. It's our analytics data from the web. It's all of the engagement touchpoints that we have across our own channels and third party channels. And we even have our intent data. And so with that profile, we identified our accounts that were falling under stage one, and they had high third party intent with content supply chain topics, but low engagement with our own content.
+
+00:11:18:50 - 00:11:42:22
+不明
+And another layer that we did is we are also checking to make sure that these are at the right, accounts are a good fit for this solution rather. And so we check things like propensity to buy. And we also check, revenue and sales information like IRR. So we just want to ensure that these accounts are a good fit for this solution and that we would be able to sell into them.
+
+00:11:42:27 - 00:12:05:54
+不明
+So an example of a qualifying account is over here. And in this example this is an account that already owns Marketo Engage. But we're looking to build engagement and build solution category awareness for products like Adobe Analytics. Experience manager and work front. So this is just one example of one of the accounts that we're qualifying for.
+
+00:12:05:54 - 00:12:30:23
+不明
+Our target account list. So continuing on that path of identifying the right audience, as we've said, we no longer are interested in every single contact that we may have within an account because we know that some of that contact information could be old, it could be stale data, and they could be contacts that are not relevant to, our sales team.
+
+00:12:30:23 - 00:12:56:47
+不明
+That's actually going to be reaching out and doing outreach about these specific products within content supply chain. So right now, within our accounts, we know that we have some contact information, but we don't know if we have the right ones. So what we did next is we took a buying group approach where we're able to map out our key roles across departments and determine who we actually need to engage and acquire.
+
+00:12:57:01 - 00:13:15:49
+不明
+So in this specific example, you can see we have some key accounts, some key contacts and marketing. We have some IT and some finance. But we can easily determine who we're missing and who we need to acquire or even engage.
+
+00:13:15:54 - 00:13:45:33
+不明
+So once we identified our target account list, we are able to go through our contact coverage like bestest showed and start to develop. Our strategy, our personalization strategy. So we looked at the personas we had, the messaging that we had, we did a content audit and from there we we defined our buying groups, we defined our key personas, and we needed to start creating our emails and ads, with personalized messaging to reach this audience.
+
+00:13:45:37 - 00:14:08:56
+不明
+And so for, for this, we used Gen Studio for performance marketing. It is an, it's an app gen students gen studio for performance marketing is, an app that allows us to use generative AI to create ads and, and email content. So in order for us to use this app, there were three things we needed to set up.
+
+00:14:09:07 - 00:14:31:37
+不明
+So first we need to create our persona profiles. So we created a profile for each of those and imported it into Gen Studio. So that Gen Studio would understand what the key business challenges of our personas are. Next, we had to define our products inside the app. There we go. We had to define the products inside the app so that we could put our solution messaging app into the app.
+
+00:14:31:48 - 00:14:55:18
+不明
+That allowed us to educate it on what the value proposition was of these content supply chain assets and topics that we had. Lastly, we imported our brand guidelines. So Gen Studio allows us to use AI powered brand validation, which means in real time it is checking the copy and the imagery that we are creating using the gen AI to make sure that it's aligning with our brand guidelines.
+
+00:14:55:22 - 00:15:18:27
+不明
+This was really helpful for making sure that we can create brand safe content as quickly as possible. So now I'm going to show you screenshots directly from our instance. I can walk you through what it looks like to create an email using Gen Studio for performance marketing. So first, once we've imported all of these into the into the app, we are then able to select our template.
+
+00:15:18:27 - 00:15:39:46
+不明
+So we select an email template. And then here is where we start to do the prompting. This is where we select the brand guidelines that we've imported. So you can have different brand guidelines. If you have different brands or companies that you're using here. Or if you're an agency, with a lot of different clients. The next thing we did was we selected the persona.
+
+00:15:39:46 - 00:15:59:19
+不明
+So we were targeting for different personas for this program. So this is one of the personas that we had put together. And then this is where we selected our content supply chain solution messaging. Here we were able to upload other assets to also inform form the LM. As we created the content. And then this is a prompt.
+
+00:15:59:20 - 00:16:32:35
+不明
+This is part of the real prompt that we used for this program. And so once we put the prompt in we just generate and in seconds we had four different, email versions. I'm showing three here because it's easier for you to see three. And you can see here at the top that's our brand score. And so that brand score changes as we change the prompts, as we change the content and this is how we help make sure everything's aligned with Adobe brand.
+
+00:16:32:40 - 00:16:53:46
+不明
+And then we can continue to generate more versions. Whoops. We can continue to generate more versions by clicking that blue button down there. And then once we're ready, we can request approval, which creates a work front ticket with our brand team for them to review. So prior to using Gen Studio for performance marketing, it took us eight weeks to get this done.
+
+00:16:53:51 - 00:17:21:20
+不明
+And the reason why is because projects like resizing ads, writing ad copy, writing email copy are things that are a low priority for creative teams and are also really expensive to do with agencies. And so normally we would have run this program with maybe targeting marketing decision makers and creative decision makers, but with this, we actually are targeting four different marketing personas.
+
+00:17:21:21 - 00:17:43:45
+不明
+We targeted content marketers, performance marketers, brand marketers, and marketing operations. This is a level of personalization we would have never done otherwise, because it takes a lot of time to get to all those versions. And as a marketer, it kind of feels like diminishing returns because your audiences are getting smaller and you're really laundering. Like, it's really hard to show the impact on this for this one program.
+
+00:17:43:49 - 00:18:10:43
+不明
+And so normally we just wouldn't do that. But with Gen Studio for performance marketing, we were able to get this done in two days. So we just generated the copy, requested approval, and it was done in two days. And we didn't have to use agency resources and we saved a lot of money. So, this was a real game changer for us and allowed us to personalize and create variations of content we would never would have done otherwise.
+
+00:18:10:48 - 00:18:26:26
+不明
+And this is these are the rest of the prompts that we use just for this specific email, just so you can see how we have like different copy in those emails. And we did the same thing with our ads that I'm just showing you our emails today because we don't have a lot of time.
+
+00:18:26:31 - 00:18:58:16
+不明
+Awesome. So we're really excited about the efficiency gains from using Gen AI and Gen Studio for performance marketers and for the next step of what we did to bring this program to life. We have our target audience. We have our personalization. The next step is to orchestrate our journey. Because now, at this point, we're ready to engage in qualifier buying groups by orchestrating multi-channel experiences in Adobe.
+
+00:18:58:21 - 00:19:30:31
+不明
+So here is, a screenshot again of the first part of our journey built out in B2B. And once again, we're really excited to be sharing this today because, this is live from a campaign that's actively running. We're on week three of seven total weeks and so this is this is taking place as we speak. What's so exciting about Adobe is we now have everything in one place to orchestrate from end to end.
+
+00:19:30:36 - 00:19:58:34
+不明
+And another thing that I really love about this is it's a really straightforward canvas that is built for marketers. So, we're just going to break this down into kind of steps to make this more digestible. The start of the journey. Here is a list of target accounts which are dynamically updating from real time customer data platform. And you can actually see, that is pulling in the name of the name of that audience segment.
+
+00:19:58:39 - 00:20:21:46
+不明
+And what's really amazing is that you can actually go in and just type the name of the segment that you have built in CDP, and it just pops up for you and automatically starts streaming that data in. So you no longer have to go to a data expert or an analyst or anyone like that and say, hey, I need my list, send me that list of data and then import it into your paid media system.
+
+00:20:21:46 - 00:20:48:15
+不明
+For example, like whether it be LinkedIn or meta, you have this list to be able to activate on, across your account. So you can already start thinking about the benefit of this. It is hours and hours of save time curating lists from multiple databases, stitching in the data attributes that you need for each specific destination, and you now have sales alignment on the people that matter within the account.
+
+00:20:48:19 - 00:21:11:37
+不明
+And the other thing, although it says account here, it's not just your account data that you're getting. You are getting all of the customers and contact data that you have within those accounts. And then you have that buying group lens applied for. However, you chose to define your buying group roles for that specific solution area. So the next step of this journey is the account orchestration.
+
+00:21:11:42 - 00:21:35:42
+不明
+And you can see that this is set up as a split by account. And so specifically the way that we've, decided to set this up for this particular journey is that it has an account entry controller, which is this initial split and then not seen on this canvas is ongoing, checkpoints to continually evaluate the account engagement stages, which is that framework that we talked about earlier.
+
+00:21:35:52 - 00:22:06:58
+不明
+When we have the stage one, two and three. And our goal here is to move accounts to stage one to stage two. So if our accounts are in stage one, which is the top, we go ahead and launch them into a multi-channel program. And if they move from stage 1 to 2, which is what is seen at the bottom, then we go ahead and, send an interesting moment off to sales and notify them about the milestone that accounts have moved into stage two.
+
+00:22:07:03 - 00:22:32:17
+不明
+And what's really amazing about this is that this orchestration happening on the account level ensures that accounts are receiving the right message at the right time at the end, that they have a coordinated and consistent message across the channels. And I always say B2C does this really well, right? I always think about an ad experience that I had where I was looking for boots, for hiking on a website.
+
+00:22:32:22 - 00:22:52:15
+不明
+And then of course, we're all familiar with it. We see an ad it when we're logged in to social media, if we're opted into emails, we got an email and it's like a great experience because it's consistent and I'm seeing the same thing. And so it's not disjointed. So we're trying to do the same thing with this experience is just meeting accounts with that right.
+
+00:22:52:15 - 00:23:22:51
+不明
+Messaging. So the next step is putting our channels into action. So for this program again we're activating, in LinkedIn for paid ads. And using the content that Kendra showed was generated using Gen Studio. And then we're also activating on an existing email nurture that we had already built out in Marketo, engage, which is really cool because we didn't need to completely redo an email experience.
+
+00:23:22:51 - 00:23:57:45
+不明
+We're able to plug in to something that was already built out, but now we have this level of orchestration that's more programmatically targeting those accounts instead of just putting leads into a campaign, because maybe they reacted or interacted with something on the website. And also not specifically seen here, but something that's happening on the background is also we have a conversational marketing campaign shot up in Dynamic Chat, which is also built onto Marketo, and we're doing personalized banners, on our website.
+
+00:23:57:50 - 00:24:20:49
+不明
+And that is all streaming from that one audience at the very beginning. And that is set up through Adobe Target. So once again, the exciting part is this is now in one place for you to be able to orchestrate and build upon and expand. And so this is just one example of moving these accounts from stage 1 to 2.
+
+00:24:20:56 - 00:24:50:48
+不明
+But you can see how this could build. And then you can build an entirely new journey that is specifically targeting accounts in stage two with unique content, with unique, activation channels and so on. And the very last up is our sales alert. And here we've created an interesting moment, that when the account moves to stage one, two, two, we notify the builders and the sales and we'll dig into more of what this looks like later on in the presentation.
+
+00:24:50:52 - 00:25:07:16
+不明
+But this is really the money shot, because it truly is the game changer for marketers to be able to orchestrate everything in one place.
+
+00:25:07:21 - 00:25:32:57
+不明
+So as I just showed you, basically we're able to surround the accounts with consistent messaging, and when they advance to the next stage, we're able to make sure all these channels are flipping to the right, next, next message, or our next offer or next journey that we've built. And we don't need to manually make changes. It all happens and is centrally controlled within, agile B2B.
+
+00:25:33:01 - 00:25:41:48
+不明
+So here I'm going to show you what type of creative and messaging we're surrounding these accounts with.
+
+00:25:41:52 - 00:26:04:39
+不明
+There we go. So we created, a personalized experience on our website. And so all of the, the traffic that's coming from these audience segments that we built in CDP, we are going to see Personalized Hero offer here in our resource center. And this is base. This is personalized to their persona based on where they're coming from.
+
+00:26:04:39 - 00:26:34:33
+不明
+So and if they are coming from an email or ad, whatever we're featuring, there is going to be showing up based on their persona on our website. We also have curated content here as well at number two, which is also based on their audience segment that we built in our CDP. This is our dynamic chat module that triggers and we have different hooks and messaging based on your persona and your audience segment and what content you've interacted with before that.
+
+00:26:34:46 - 00:26:57:34
+不明
+And we're also able to ask them to sign up for our newsletter, which is another way for us to start building the buying committee in a really low commitment, seamless way. And then here's another example of the email that that I showed you earlier. And, and an ad, that we made with Jen Studio for performance marketing.
+
+00:26:57:39 - 00:27:23:09
+不明
+Awesome. So the last step of this program set up was the handshake with builders and sales. And so what we're doing here is we're alerting them of a program milestone, like when a key buying group role is filled, or when an account has moved from stage 1 to 2. So this is just a quick example of our CRM where we log an interesting moment, when a buying group role is fulfilled.
+
+00:27:23:09 - 00:27:53:40
+不明
+And in this case a contact has been assigned to the creative decision maker role. And what this does is this is a critical detail for sales, and it provides them insight into the contact's role within the buying group process. And this helps them tailor their outreach and qualification strategy more effectively. Because before, like we talked about, we were just sending over leads and they had to put in all of the work to connect it to what role they play in the buying decision.
+
+00:27:53:45 - 00:28:28:07
+不明
+So how did it do? So so far, 30% of the accounts we targeted have advanced to the next stage. And within the objectives that we were trying to drive, we've had a 15.8% lift in decision maker coverage. So those are accounts that didn't have coverage before. We've also within the buying group and that decision maker audience that we were trying to reach, we've increased our engage web visit reached by three weeks, by personalizing the content on the website and surrounding them with personalized messaging across channels.
+
+00:28:28:12 - 00:28:47:29
+不明
+We've also driven almost twice the click through rates across our channels with this specific buying group audience. And I've already kind of gone over with you, the efficiency gains that we had. What chance do you have for performance marketing? But we were able to cut time to market for the personalized assets from eight weeks to two days.
+
+00:28:47:43 - 00:29:06:45
+不明
+And we also saved $3,500 per project with on agency spend with with us. So this was a really big efficiency gain for us. And we were seeing very fast results in terms of engagement and the and the contact coverage inside the accounts.
+
+00:29:06:50 - 00:29:26:58
+不明
+So I'm going to recap we're going to recap a few game changers with this experience that really changed things for our B2B marketing team. The first thing is eliminating the manual list management. This is this has been a huge pain point, and I'm sure it's a similar pain point that you all have as well. But this was a really huge pain point for us.
+
+00:29:27:12 - 00:30:03:29
+不明
+And getting the the unified data profile on Adobe Experience platform and then real time CDP to be able to build those dynamic segments has really helped us save a lot of time on manually cleaning lists, stitching Excel files together, and keeping all of our audiences in sync across email, media, and web. Yep. And like I was saying, the other really big game changer is having that orchestration now, because this allows us to have that centralized controller for all of our accounts.
+
+00:30:03:34 - 00:30:46:06
+不明
+And then immediate activation to our channel destinations where we can orchestrate seamlessly across the website. Marketo engaged for email nurturing, paid media. In our example, we did paid ads on LinkedIn and also through conversational marketing and dynamic chat. And so this is just really exciting for us because we can now systematically target accounts and allow them to have that experience, like I was mentioning that I've had for hiking boots, if you do that well, it's a great experience and it's actually helpful and not jarring or, you know, creepy, as we all like to say is like, oh, it's following me around.
+
+00:30:46:06 - 00:31:10:42
+不明
+Like, if you do this really well, it can be so, so helpful for people because at the end of the day, people are trying to find information that is relevant to them. So this is really the idea there. It's consistent and it's it's an experience where you know, everything is all together. Yeah. And Jen Studio for Performance Marketing came up strong with the clutch for us.
+
+00:31:10:42 - 00:31:39:07
+不明
+The clutch when on the personalized content we use this on most of our emails. Now the B2C team at Adobe uses it for 100% of the emails that go out. And, we're we're tracking toward, close to that as well. So this has been a really big game changer for us. And, I'm. Yes. And if you want to learn more, we, are staffing the booth and we've been staffing the this, this, this whole whole conference.
+
+00:31:39:12 - 00:31:56:21
+不明
+So you can scan the QR code if you want to meet with a subject matter expert who can give you a demo on these things, because, like I said, we were showing you the real stuff. And you don't demo, and but, we could talk to you at length about anything you want, that we talked about today.
+
+00:31:56:25 - 00:32:07:55
+不明
+Or you can stop by the booth. So thank you guys so much for coming. Especially after bash. Yeah. So you guys are the true warriors here.
+
+00:32:08:00 - 00:32:08:43
+不明
+For.
+

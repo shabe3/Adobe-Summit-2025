@@ -1,0 +1,200 @@
+00:00:03:59 - 00:00:31:43
+不明
+Hello and welcome to our session Drive Intelligent Activation and Effective Marketing at Scale with AI in real time GDP. Thank you so much for taking the time to join us today. My name is Lisa Marie two. I'm a senior product marketing manager for Adobe Real Time CVP. And I'll have for you introduce myself. Hi everybody. I'm here. I am a director of Product Management in Adobe Experience Platform, specifically focusing on our AI and ML initiatives.
+
+00:00:31:48 - 00:00:55:27
+不明
+Amazing. Before we get started, let's go over some outcomes for the session and maybe what you can expect. So in this session, you'll learn about our powerful out-of-the-box AI capabilities within real time CDP. You'll understand the additional value I can provide to your day to day roles and impact your overall business. But stay tuned as Maria will be showing us an exciting demo within the UI.
+
+00:00:55:31 - 00:01:18:18
+不明
+And no matter where you are in your AI adoption journey, we can help you to get started today. But first, let's just level set on how AI is changing the way businesses operate. Ultimately, marketers need to do more with less and you may be experiencing this yourselves within your day to day roles. Channels are proliferating. Content demand is exploding.
+
+00:01:18:23 - 00:01:49:59
+不明
+Data is more fragmented than ever, and budgets are under question, of course. Meanwhile, consumer expectations are continuing to rise, so content teams need to create much more content than they're able to today. Website teams are short on capacity, and audience specialists need to create sometimes millions of granular segments. So to make this tangible, increasing AI innovations can really amplify the power of human ingenuity and the way that we work.
+
+00:01:50:04 - 00:02:19:07
+不明
+So that's why Adobe has delivered predictive and generative AI across our applications for content, data and journeys. And we are looking to are looking forward to our evolution or evolution of our tools by bringing agents into the forefront as well. So by adopting powerful AI capabilities, you'll be able to realize more value from your real time CDP investment.
+
+00:02:19:12 - 00:02:50:09
+不明
+So, for example, AI tools will allow you to work much faster to meet the demands of customer experiences. You will be able to minimize workloads among your martech teams, be more productive, and ultimately scale your marketing efforts. And then lastly, with the help of predictive AI and soon AI agents, you will be able to optimize your audiences and uncover these valuable insights that you may not have been able to recognize before.
+
+00:02:50:20 - 00:02:56:10
+不明
+And you'll see that in the demo that Aria will show you later on.
+
+00:02:56:15 - 00:03:21:04
+不明
+And so now, with all this buzz and demand for adopting AI tools, you may have received pressure to start applying and using AI in your role or in your organization today. And so yes, it's true with quotes like this, more and more businesses are adopting AI capabilities. But don't be afraid because Adobe is here to help you get started wherever you are in your AI adoption journey.
+
+00:03:21:09 - 00:03:38:16
+不明
+So that's whether you're just starting to play around with predictive AI capabilities, or if you're looking for more advanced AI technology that can help you propel in your day to day role and make an impact to your business.
+
+00:03:38:21 - 00:04:03:38
+不明
+And so we're here to guide you through how AI capabilities can give you a sense and give you a sense of what's available so you can get started today. We've had predictive AI capabilities within our application, starting even over a decade ago. And here are some of our most popular existing capabilities, really available to everyone who has a license to real time GDP.
+
+00:04:03:43 - 00:04:30:03
+不明
+Now, if you're a B2C organization and you haven't heard of customer AI, it's an embedded feature in real time CDP that enables marketers to generate these individual level propensity scores for a specific outcome, such as churn or conversion. And you can leverage these propensity scores and propensity models for stronger segmentation and personalization. So here are some use cases.
+
+00:04:30:03 - 00:04:59:01
+不明
+For one, you can leverage customer AI for engagement purposes in your marketing campaigns by understanding behaviors like the likelihood a customer will perform a specific action when they interact with your brand. You can also predict who is likely to purchase specific products or services, and use these high value audiences for targeted campaigns to drive conversion. And then lastly, customer AI comes in very handy with retention as well.
+
+00:04:59:02 - 00:05:12:18
+不明
+And you can understand which audience is maybe likely to churn. And then what you can do is leverage these propensities to reach customers with a personalized call to action. For example.
+
+00:05:12:23 - 00:05:47:06
+不明
+Another powerful predictive AI capability available to B2C workflows is lookalike audiences. So while customer AI is used to predict behaviors, lookalike audiences, on the other hand, are used for expanding your high value audiences. So machine learning models create influential factors and similarity graphs with your audiences, and you can identify and create audiences that can target additional customers who are similar to your high performing or previously converted customers.
+
+00:05:47:11 - 00:06:13:23
+不明
+So, for example, you can use lookalike audiences to even identify marketing blindspots by understanding factors that influence certain conversions. You can also find more of your best customers by discovering similar high value profiles, and then also drive more cross-sell and upsells by targeting the right customers who are most similar to others who have previously converted.
+
+00:06:13:28 - 00:06:45:24
+不明
+Switching gears a bit, on the other hand, we also have AI capabilities for B2B use cases. So if you're a B2B customer, you can use some of these capabilities to drive sales from account based marketing. We have lead to account matching, where you can discover buying groups by automatically matching lead profiles to the right accounts. We also have predictive lead in account scoring, and you could use it to advance to your sales stages by predicting the likelihood that certain accounts will convert.
+
+00:06:45:28 - 00:07:12:16
+不明
+And ultimately, these capabilities allow you to engage with potential leads from target account accounts much sooner in your sales cycle and help you prioritize accounts to maximize return on investment. So these were just a quick overview on our our predictive AI capabilities that are available for you today to take advantage of.
+
+00:07:12:21 - 00:07:30:54
+不明
+Now let's switch gears and talk about additional gen AI tools that build upon our predictive models. And we'll also get a sneak peek into additional capabilities powered by AI agent that we will be releasing later on.
+
+00:07:30:59 - 00:07:59:48
+不明
+Now, first, to boost practitioner productivity, we launched AI assistant, and you might have heard of it about a year ago. If you're just learning about our AI capabilities, AI assistant is a valuable and easy tool to use to get started. Today. So it's a very conversational interface. It's a conversational tool powered by gen AI, and it allows you to learn about product capabilities to deepen your product knowledge and skills.
+
+00:07:59:52 - 00:08:21:54
+不明
+So for example, you can ask AI assistant, how do I get started with lookalike audiences or how do I get started with customer AI? Today I want to learn more. Second, you can also interact with AI assistant to uncover valuable insights into your audience data and business objects. And you'll also see that in the demo that Maria will show you as well.
+
+00:08:21:59 - 00:09:04:16
+不明
+Lastly, I, assistant can also help you create and iterate on content. And so since we've launched AI assistant, we've seen great business impact and value. It helps streamline operations, saving valuable time for our customers, and really empowers our users to make data driven decisions and run more targeted campaigns. This year, we're also working to evolve our AI capabilities to also include audience agents and agents are intelligent operators that will be able to interpret goals, create plans, and take actions across experience platform applications.
+
+00:09:04:21 - 00:09:26:57
+不明
+So in the future, these agents will act autonomously, autonomously and be able to take actions on behalf of the people that they're working with and working for. And so with that, let's actually see this all in action in a demo. And I'm going to kick it off to you. Hi, I'm Harriet and I'm a marketer at a big retail company.
+
+00:09:27:01 - 00:09:44:15
+不明
+My primary focus is on audiences. And as a result my days are very busy. I have a lot of things to do. The good news is that since I've been using a system for other based on its platform, I've been a lot more productive. And this has given me time to work on creative new ways to use our data and our audiences.
+
+00:09:44:27 - 00:10:01:17
+不明
+So let me show you a few moments of my day and how AI system is helping me. Now, the first thing I want to do in the morning is just look at my audiences and figure out if something has happened, in the last period or not. So in the past, that used to be a very tedious process involving a lot of manual work.
+
+00:10:01:19 - 00:10:29:40
+不明
+Now I can just ask assistant, I'm going to ask you to show me the audiences with the size change compared to 40 day average, and sort them by kind of size, because I really want to look at the big audiences that I have. It's giving me this nice table here. It explains to me how the results, have been provided, which is very important because I always double check this and I can look at this big table and at a glance, everything's too seems to be working fine, which is great.
+
+00:10:29:45 - 00:10:50:29
+不明
+And in the future, Adobe is telling me that this will be something that I don't even need to ask anymore. That something that the system will do on my behalf, and it will notify me something has gone wrong. Talk about offloading work. That's going to be a game changer. Now, one of the things I also have on my morning to do list is look at this recent website, Visitor Ideas.
+
+00:10:50:36 - 00:11:11:15
+不明
+Now that's an audience that we will be using more and more. And it's, the primary ideas for a new upcoming campaign that we have. So I want to look at historical trends for it. And figure out if it varies a lot or what are the what are the trends. So I'm going to ask you to show me a historical average size in the last six months.
+
+00:11:11:19 - 00:11:47:57
+不明
+A great system. Give me this. The details that I was looking for so I can see there's an upward trend. By the way, I can download this in the CSV file and kind of play around in Excel, but this is pretty good. I have a good idea of of what it has done in the past. Now before I go to my meeting with my colleagues to tell them about this, I know that their system also has a new capability that would allow me to forecast this, the audience size as well, so I can have not only a past view, but a future view as well.
+
+00:11:48:01 - 00:12:12:27
+不明
+I'm going to ask a system for this information as well. Great is giving me a quick so I can again open up this table and see that it has, it is predictive, a slight increase in the audience. I could see where the forecast data is, and I also see the forecast range. I can kind of tells me, confident is it is in this prediction.
+
+00:12:12:31 - 00:12:32:22
+不明
+This is great. Now before I wrap on my money task, there's one last thing that I want to do. We, we have a new problem in the department, and that is managing communication fatigue. Some users have been getting too many messages, and it's not a great experience for them. And the problem is, fatigue comes down to audience targeting, with the same users being used to multiple audiences.
+
+00:12:32:27 - 00:12:52:01
+不明
+Now, I know that a lot of messages are going out for the social media engagement. And I'm curious for the recent visitors audience. What's the overlap between the two of them? Can assistant help me with this?
+
+00:12:52:06 - 00:13:18:08
+不明
+Okay, great. It has given me the answer that I was looking for. I can see that the overlap is actually very significant. So this will be something that I need to tell my team about. And, we'll need to adjust, how we think about this campaign and going forward. Now that I've handled my urgent work items in the morning, there's one thing I want to look at which is creating highly targeted audiences.
+
+00:13:18:09 - 00:13:38:30
+不明
+I know that the AI system has some new capabilities here, helping me create the machine learning model that can identify users that I'm really interested in. So let me use this for this company. And that campaign is really trying to sell some smart TVs. I don't have a model for it. And the data science team is busy for the next three months, so let me see if I can get help.
+
+00:13:38:31 - 00:14:04:57
+不明
+So I'm just going to ask it. Hey, help me build an audience over 100,000 profiles for selling smart devices over the next 30 days. Great. It's telling me that it does. It can help me with it. And it's giving me a high level plan that involves identifying the data that's going to be used. Training a predictive model based on this, and then finally creating an audience that will, that will use the model.
+
+00:14:05:02 - 00:14:19:18
+不明
+This looks great. So I'm going to let it proceed. So please, please proceed. With, with the plan.
+
+00:14:19:22 - 00:14:42:00
+不明
+Okay, great. It has managed to successfully train a model. It's telling me, about the the time frame. It's telling me the sample size that it used. And a lot of other few, interesting details. Now, I'm fairly technical, so I can, I can kind of use this information. And at a glance, I can understand that this model seems to have a good predictive power.
+
+00:14:42:00 - 00:15:03:11
+不明
+So, this gives me confidence that I can use this to actually create the audience that I want. So yes, please, proceed with building the audience that I want.
+
+00:15:03:16 - 00:15:27:05
+不明
+Fantastic. It has given me, the audience that I was looking for. It's telling me that it has. The audience size is 100,000 profiles. As I wanted. It has a conversion rate of about 3000, 100 profiles, which is better than I was expecting. So, this is actually pretty good. And it's telling me that it has high confidence in the model, and I do have high confidence in it.
+
+00:15:27:05 - 00:15:45:01
+不明
+But still, I would like to understand a bit more. How did you come up with this? Now I want to ask you to give you a bit more information, about how we came up with this. So it's telling me about the input data that it used. It's telling me about the confidence rationale that we discussed before.
+
+00:15:45:01 - 00:16:07:48
+不明
+And very interestingly, it tells me about the key factors that influence the prediction rating, which includes people who were on that product page but did not make purchase, people with multiple purchases. And people who just visited my website in the last 30 days. This is absolutely great. I don't need more details. This has really been great.
+
+00:16:07:48 - 00:16:29:15
+不明
+And this is going to be a game changer for me in terms of working with audiences. I know that when I use a highly targeted audience, not only do I improve my compare results, but I also reduce message fatigue, and I was limited in the amount of times I could do that. But now I can apply this much more widely, and it's going to have a huge impact into how I run my business.
+
+00:16:29:19 - 00:16:48:18
+不明
+But I hope this shows you, when I was mentioning at the beginning that the system is making me more productive and allowing me time to create, rethink why I said that. I can't believe how much I accomplish should they? Not only they manage my day to day tasks, but I have also created a new, highly optimized audience. And this is just the beginning.
+
+00:16:48:23 - 00:17:06:51
+不明
+This isn't really allows me to free up my time so I can focus on reducing fatigue, uncover valuable insights, and deliver standout, personalized experiences. And this is all happening in a fast and easy way that I wasn't able to do before I. I'm so excited about this, and I can't wait to see what they're going to come up with next.
+
+00:17:06:55 - 00:17:39:58
+不明
+Now that you've seen how AI system works, here are some examples of how this combination of predictive AI, generative AI, and agents will benefit you and your teams. First, you can optimize your audience strategies by uncovering new and valuable audience insights, and these insights will allow you to identify marketing opportunities that drive more effective campaigns. Second, with these tools you can watch, we can work much faster and have additional, capacity to focus on strategic and creative initiatives like the opportunities I was referencing before.
+
+00:17:40:03 - 00:18:11:20
+不明
+And not only that, but agents, as I was mentioning, will act as a force multiplier for you and your teams and help you proactively manage and operate, your audiences. And this allows you to unlock a new level of scale for your personalization efforts. And all of this has been built with trust, privacy and verifiability in mind to ensure responsible handling and the appropriate safeguards with customer data so that, you know, you can deploy this at scale across all your teams, but they don't take our word for it.
+
+00:18:11:31 - 00:18:34:45
+不明
+Since you launch the system, our customers have started seeing value across multiple teams and use cases when interacting with this tool. Just look at these numbers. We've seen tremendous improvement with productivity and efficiency for users across data, audience and journey management use cases. So much time has been saved for managing schemas, uncovering audience insights, and managing journey inventory.
+
+00:18:34:49 - 00:19:06:25
+不明
+And this is just the beginning. So with that, I'll give it back to Alison to close out the rest of the presentation. Amazing. Thank you, Aria for the awesome demo, and it's exciting to see those value metrics come to life as well. And so as we wrap up, I encourage you to start implementing these AI capabilities in your roles, if you haven't already, because now is the time our AI models and capabilities are built to expand upon one another as the use cases are continuously evolving.
+
+00:19:06:30 - 00:19:35:31
+不明
+And since every organization data models are specific to their business, you will get better long term results and compounded value. The sooner you start running AI models against your business data. So by using our predictive and generative AI tools available to you today, you can one. Master your product skills. Increase productivity across the organization, including in your own role.
+
+00:19:35:36 - 00:20:08:22
+不明
+Discover new and valuable insights from your audience. Data, and ultimately work much faster to scale personalization efforts. Lastly, please check out some of these resources to learn how to get started with AI assistant today. Or, if you're interested in joining our feedback program as we shape the future of our AI tools. So check out these QR codes. We have a lot of very helpful and comprehensive information online as well on Experience League.
+
+00:20:08:22 - 00:20:19:42
+不明
+If you want to learn more about our AI tools today. So thank you so much for joining us and we hope you have a great rest of your day. To.
+

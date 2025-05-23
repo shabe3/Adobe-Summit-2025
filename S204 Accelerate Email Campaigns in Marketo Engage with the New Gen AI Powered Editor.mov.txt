@@ -1,0 +1,476 @@
+00:00:00:07 - 00:00:24:56
+不明
+Thank you for coming to our session. Accelerate email campaigns in Marketo. Engage with the new gen AI powered email designer. I am Isabella Hargreaves. I am a product marketing manager at Adobe, and I'm joined today by our wonderful to run everyone. We are doing great and having a great time at Summit. So I am Tara and I have a Group Product Manager in CGM, B2B and very excited to be on this stage.
+
+00:00:25:01 - 00:00:56:39
+不明
+Yeah. Melina. Hello. So I'm Melina Chen, head of Marketing Automation for Southeast Asia. I work for a company called IDP Education Limited. So I'll be happy to share my customer experiences. All back to Isabelle. Thank you. So just a quick one before we get started. Quick safe harbor. Any product disclosures that you heard today are for informational purposes only, and are not a guarantee of any future feature functionality.
+
+00:00:56:44 - 00:01:27:24
+不明
+So let's get into it. Email marketing remains one of the most important channels in B2B marketing, and there's good reason for that. It offers high ROI, direct contact with key decision makers, and it's offering targeted, personalized content to those key decision makers as well, right? Just a quick pulse check. Can you raise your hand? Me if you've tried out this new email designer in Marketo.
+
+00:01:27:29 - 00:01:54:06
+不明
+Get can see a lot of our Adobe channels rising there as well. Just good to see. So. You are not the only ones. There are many customers already using this. We launched the new email designer in February of this year. So within one month we've had 900 individual customers. Try the new email designer out and send over 4.2 million emails.
+
+00:01:54:10 - 00:01:59:27
+不明
+Amazing adoption figures, right?
+
+00:01:59:32 - 00:02:34:11
+不明
+Why did we build a new email designer? You might be wondering. Or maybe not. Well, we know that creating personalized, high impact emails can be challenging time and resource intensive. So having to leverage either agencies or design teams to create those templates for you, having to adhere to strict brand guidelines. And then, of course, on top of all of that, having to optimize the email for either the device or the vendor.
+
+00:02:34:16 - 00:03:08:13
+不明
+So we launched the new Email Designer, which is helping customers accelerate email campaigns with the flexible new designer. So there's kind of four key areas here, which we wanted to improve for how to engage customers. One being content creation and flexibility. So we've moved from a code heavy HTML, email editor to a wizzy wig designer. So no developers are needed with AI Assistant and Adobe Firefly.
+
+00:03:08:18 - 00:03:48:47
+不明
+We're bringing content development in-house, reducing that need to rely on either design teams or again, external agencies. It's an intuitive and faster onboarding of new users, right? So the user experience is fantastic. It's really easy to use. So teaching new members of your team how to build fantastic emails is easier than ever. And of course, we wanted to make sure that we retained all of the best benefits from the previous editor whilst enhancing the new email designer with AI powered enhancements, which we will get into.
+
+00:03:48:52 - 00:04:20:04
+不明
+So there are a wave of innovations coming with the new email designer and they fall under full category. It's mainly user experience, content creation, governance and approvals, and integrations. Yes. Take pictures. Picture by picture. Time. Did any of you go to the market to engage roadmap session just before? Nice. So some of this content might be familiar to you.
+
+00:04:20:08 - 00:04:45:32
+不明
+Sorry. Oh, there's another slide after so that you can take a picture of. So I'm going to go into user experience first. We wanted mainly to improve the user experience for our market to engage customers, making it much more of a flexible design experience. And there are a number of innovations within this category. Right. So the new email designer itself.
+
+00:04:45:36 - 00:05:14:05
+不明
+We've removed the need for manual HTML coding, moving to a lazy editor and out of the box templates. This is allowing for much faster email creation. And we've eliminated that need for having external resources or developers work on the emails with you. So you can now build, or anyone on your team can build high quality emails within literally minutes without needing that technical expertise.
+
+00:05:14:10 - 00:05:41:37
+不明
+We know lots of you have probably spent a lot of money, and time with getting templates built for the existing editor. So we want to make sure that we make sure that those templates are compatible with the new email designer. So don't worry, we've got you. They will be. You can leverage those old templates that you spent time and money on in the new email designer.
+
+00:05:41:42 - 00:06:07:20
+不明
+Yes, you can. So again, something or another area where you may well be spending lots of time, resources and money is collaborating with external agencies to build email templates, but that often results in them sending you either a Figma file or, an image of the template. And then that's difficult for you to then translate into an email.
+
+00:06:07:20 - 00:06:38:29
+不明
+Right? So you either have to reach out to it, who then can code it for you or internally do it within your Mops team, which is taking time effort away from you being more strategic. So we're introducing an image to HTML converter, where you can simply upload an image, of a screenshot or an image. Right. And then it turns it into a structured email or code, which you can leverage.
+
+00:06:38:34 - 00:07:04:49
+不明
+Next category of innovation is content. So what would a new email designer be without us providing the ability to create high quality professional content? Well, not a very good one. So we have invested heavily into the space. AI is taking content creation to the next level. It's a huge theme across it. You've probably seen this in the roadmap session as well, if you did go to see it.
+
+00:07:04:54 - 00:07:32:57
+不明
+AI assistant is helping marketers to generate fresh content without having to think really hard and, you know, stretch their brain. It's sparking creativity. They can then iterate on content. And this is not just imagery, right? But it's also text as well. So they can go in and refine it after using it. And personalize the email even further if they want to make it more adherent to, the the tone they wanted to go in with all, all sorts.
+
+00:07:33:03 - 00:08:03:45
+不明
+So, yeah, with AI assistant as well, you can be sure that this is enterprise grade ready AI. So we know AI is a new space and many companies are starting to adopt it, and we're encouraging you to adopt it. But we want you to feel confident in leveraging AI. And with Adobe's enterprise grade security and compliance, you can be sure and feel confident that your brand is going to be kept safe.
+
+00:08:03:50 - 00:08:41:28
+不明
+So next in the image space within the email, many of you have been asking for an integration to Creative Cloud, right? And we've gone kind of one step further with this. Adobe Express is, quick and easy. Create anything application, handshake. Anyone who's used Adobe Express or you know what it is. Okay. So, Adobe Express is now, embedded or is a you're able to access an embedded experience within Marketo, engage directly within your email, design a workflow, using Adobe Express.
+
+00:08:41:28 - 00:09:05:23
+不明
+You can further edit or refine images, making them more polished. Or if you want to tweak something, if you are an Adobe Express Enterprise license holder or your your company is, you can use the full functionality of Adobe Adobe Express within the email designer if you're not. Don't worry, you can try this free, functionality out for free.
+
+00:09:05:27 - 00:09:45:29
+不明
+There's a version called Quick Actions, which provides simple editing capabilities. So crop trim, remove background. And you can do that directly within the email designer rather than going into a design studio and editing the image. Many of you are Adobe Experience Manager assets customers. And you're using that as a system. So we've actually rebuilt the connector from Marketo to an assets, which is allowing you to keep content on brand by sourcing those images directly from your asset repository or your, your Dom, and any assets that are updated in.
+
+00:09:45:29 - 00:10:09:25
+不明
+And those changes are directly reflected inside of all live emails. And Marketo personally, is dynamic content in the previous, email editor, quite a few of you. So dynamic content is helping you to further personalize your emails, right? But we know that there's a limit with this and that you can only use or segment with watermark.
+
+00:10:09:29 - 00:10:40:40
+不明
+So attributes. So we're going one step further improving this experience with conditional content in the new email designer where you can use multiple Marketo attributes to personalize. So this is empowering you to customize email components using, multiple conditions filters. It's a convenient drag and drop condition builder. Now arguably governance and approvals is one of the biggest challenge areas when we listen to customers.
+
+00:10:40:42 - 00:11:09:57
+不明
+So when you're building an email campaign, there are lots of approvals that you need to go through. There's, you know, a whole process, right? So yeah, we wanted to ease some of these challenges that you guys face with governance and approvals. And as James, kindly just segue me into, we are launching content approval. So this is allowing you to streamline that email approval process directly within Marketo.
+
+00:11:09:57 - 00:11:37:15
+不明
+Engage. So it's a dedicated collaborative workspace in the new email designer, where you can collaborate with stakeholders and approve emails all in one place. So your eliminating that need for back and forth and back and forth with the brand team, you're ensuring faster campaign execution. Plus, with this built in version control, you've got a clear digital paper trail of any comments, approvals, edits that were made.
+
+00:11:37:20 - 00:12:05:49
+不明
+And you have full visibility into that. So this is awesome. On the same topic of brand themes, compliance, we're launching brand themes and brand kits. So brand themes and brand kits are helping you to adhere to brand guidelines. These are often at lots of companies ever changing, and making sure that you remain consistent within your campaigns and on brand is really important.
+
+00:12:05:49 - 00:12:37:19
+不明
+So your brand, team or creative team can design or define, reusable themes. So colors, fonts, logos and more, and apply that across the email campaigns that you run for faster authoring. And on top of that, you can also ingest your brand guidelines as brand kits to ensure that your content is brand compliant. So you can, for example, write what you don't want to be put into an email and have that excluded.
+
+00:12:37:24 - 00:13:05:45
+不明
+And then finally, one of marketing strengths, arguably, is its expansive ecosystem of integrations, both within the Adobe ecosystem and with external vendors. And we're adding to that ecosystem with more integrations. Many of you, and lots and lots of marketing customers will be using, litmus for email rendering or launching and integration with litmus in Q3 of this year.
+
+00:13:05:50 - 00:13:28:49
+不明
+Secondly, we're launching an integration to Spam assassin. I didn't know whether I was allowed to say that name, but it's a bit like, but yeah, spam assassin. So spam detection. And then we're also launching a integration with Gen Studio for performance marketers. So that is our brand new shiny product that helps marketers to create content.
+
+00:13:28:54 - 00:13:52:29
+不明
+And it will integrate directly to might have to engage. So that leads me on to hand over to Melina, lovely Adobe champion and customer from IDP. But before that, let's give Isabela one. Thank you. I will blast your link with all the technical issues.
+
+00:13:52:34 - 00:14:26:54
+不明
+Hi. So I'm Melina and I work for an organization called IDP Education Limited, which is a global leader in education services. So we place international students, working with educational partners so that they can get direct students. In addition. So IDPs also co owner of IELTS. So if you're familiar with the English language proficiency test. So for me I work on two instances in Marketo one student placement and the other is the IELTS.
+
+00:14:26:54 - 00:15:04:53
+不明
+So I do lead nurturing which I do cross-sell and upsell programs across these two instances. So with this experience, I'm very honored to be the Marketo Champion 2024 to 25 and also achieve my Marketo Engage Architect certification. So I started Marketo in 2016 and I've actually loved to share my experiences and built with community. So I've also just started being, Singapore, my co-leader, with my first event face to face on 4th of April.
+
+00:15:04:57 - 00:15:34:25
+不明
+If you are in Singapore. So I love to share my experiences to community like myself today, and I hope my experiences can help you understand the email design better and work for your organization. So maybe I share typical email campaign creation workflow at IDP. So the global team would be creating the global email template. They'll be the guardian of the brand.
+
+00:15:34:30 - 00:15:56:14
+不明
+So what they will do is they will have UX designers. They also do developers. And then it's tested extensively because we need to make sure that you run this well on a lot of the email, mobile applications such as outlook and Gmail, for example. So with that, they also provide snippets, which is your typical header and footer that you will use.
+
+00:15:56:19 - 00:16:24:45
+不明
+So once that is actually done, so regional marketing automation team which I'm in will look at these templates and give feedback. If that works well we will start to localize templates. So because I work in Southeast Asia, which is which is a region of ten countries, different cultures, languages and also different social media platforms. So we'll localize it, for example, in Vietnamese and then change lanes, change social media platform like Zulu.
+
+00:16:24:50 - 00:16:52:17
+不明
+So once that is done, we were onboard the users for the country marketing. So they once we learned how to use the templates to assemble the content. So that's how you see the email coming out. They will be taught about very simple personalization like the tokens and stuff like that. And they will work with their local content. Stakeholders to get it approved with the, localization and proof of it.
+
+00:16:52:22 - 00:17:16:12
+不明
+So once that's all done, good on their end is back to me. So we do a final campaign review. We look at, say, the marketing permissions, the audience itself. We create experiments if needed to for every testing, do a proof for approval and a final schedule. So with that I work closely and look at email templates. So what can you global team.
+
+00:17:16:16 - 00:17:40:03
+不明
+We do notice that there is a list of challenges that we have using the all email designer. So what are the challenges in three categories. The first one is content authoring. So content authoring for me would be the old designer. Does not have the ability to import HTML files. Why is this important. So for me I work across two instances.
+
+00:17:40:04 - 00:18:15:15
+不明
+If I have to redo it other than export and import in, it takes up a lot of my time. Some designers, if you are working with in some of your organizations, may coding in HTML, but then they can use it to import it, so they have to create it in Marketo. The second is brand guidance adherence. I think this one needs no further explanation, but even with the current, email template using the modules for the old designer, there are still users who try to copy and paste the forms, and it still doesn't look on brand.
+
+00:18:15:20 - 00:18:37:43
+不明
+So with that, the next one is actually the specialization skills actually needed to create update templates. So if you're familiar, the old designer requires the Marketo syntax so they appear out of the modules that you can see. And then you can pull and direct. So that itself also requires develop. But unless you know how to code the syntax itself.
+
+00:18:37:48 - 00:18:59:01
+不明
+So that was a challenge that we have. If you want to update the templates, we want to, have an update in the brand guidelines. So it requires quite a fair bit of effort and time to get that done. Second category and move on to content personalization. So dynamic content limitations I also see that just now a number of you use dynamic content.
+
+00:18:59:15 - 00:19:23:11
+不明
+I'm not sure if you have the same challenge as I have, which is the instance is limited to 20 segmentations and we have the 20 segmentations depending on your workspace or partitions and how use it. So for IDP we have a footprint of over 80 countries. It means that not every single country gets to use this segmentation. So it's a very simple use case for us.
+
+00:19:23:22 - 00:19:46:32
+不明
+We are just showing students or test takers where is the nearest office or test center is very simple, but some countries will have to go without it because of this limitation. So I really hope that will change. And then the next will be the content delivery which is mobile responsiveness. I think in today's mobile first world, most people will read the email first on their phones.
+
+00:19:46:44 - 00:20:06:44
+不明
+So it is imperative that we must get it responding rendering well on say, outlook Gmail apps that popular today. So these are some of the challenges which will bring me to when the new designer is launched. How does that change?
+
+00:20:06:49 - 00:20:35:45
+不明
+So fortunately we did the migration of IMS late October. So I managed to try this out. And then, this is what I have discovered in terms of helping me with my challenges. So first thing is the import process. So import process is actually available. I did it. The tip here is that you have to export from your old design, not approved file instead of the draft version.
+
+00:20:35:45 - 00:20:58:26
+不明
+If you import the draft with, some changes in fonts happen. So if you do that, it actually looks pretty good for me, even in mobile devices. So that was why I don't need to spend time to redo all my emails across the two instances. The next. It's fragments. So fragments I a new snippets. So I have manually migrated some of the fragments.
+
+00:20:58:26 - 00:21:28:00
+不明
+So as you can see here, the examples like your headers static version of things are good and easy. It's not difficult to do so. However, what I think the potential here for fragments is actually for modules creation. So if you create can create use of fragments to create the modules like how you see it, it can actually empower marketing users to do their modules in their models.
+
+00:21:28:00 - 00:22:01:30
+不明
+Just to have. You can still lock the content if you actually want. But I think the game changer here is actually conditional content. So back to my segmentation issue. So that is no longer this issue once conditional content is made available. So all my countries now can have their symbol footer of use case. On top of that, when conditional content is up, there'll be conditional rules in the conditional library where you can actually use the attributes using filters logic to do so.
+
+00:22:01:30 - 00:22:17:59
+不明
+So as a very simple example, if I want to use a city, I could also have it with people who have opened the email or people who have clicked through the email to do additional personalization is self segmentation. Now we should have only one attribute.
+
+00:22:18:04 - 00:22:47:37
+不明
+And we can't miss out the AI assistant for content generation. So today a lot of marketers I know will be actually using this. An external AI gen AI platforms to do your subject lines, content, brainstorm ideas, things like that. Now we have the ability to do so in the new email designer. But the tip here is that if you look at the problem library on screen, there are many options there.
+
+00:22:47:49 - 00:23:10:11
+不明
+So you need to actually select something that is suitable for your subject title or your subject objective of the email that you want. So that you can do it for your email subject. You can do it for your preview text itself and of course, your content. So for me, I actually uploaded a file so you can upload, let's say, your brand soft tonality.
+
+00:23:10:16 - 00:23:38:19
+不明
+So you can actually learn it and then it will be safe within the areas. I mean you're not sharing the external party is let's say your brand content guidelines are sensitive. For example, you don't add this, you know, so you can do it here and it will learn over time. But of course, to have this at a book, you would have to sign Adobe agreement with your account executive or account manager on this.
+
+00:23:38:24 - 00:24:04:11
+不明
+So to sum up my experience using the new Email Designer ID. So I have launched the campaign across two countries to live campaigns. I created 22 fragments of that 6000 plus emails were actually delivered successfully. And I or that tool actually, the team IDP, the different regions to have users were actually extensive the testers out of during the beta process.
+
+00:24:04:22 - 00:24:35:10
+不明
+So that is what you see closer to one today. So how does it look? This is how it looks in case you want to know. So the AU editor and the new email designer, if it looks like my site looks pretty similar. So of course I then imported in an approved email from the AU editor, as I say, and I've just changed the subject line using the AI assistant and also a box of copy.
+
+00:24:35:10 - 00:25:00:41
+不明
+I box it up there so it's actually easier for you to see. So if today I have everything I need for example fragments, the existing templates can be used in, say, the new email designer. I'm sure the time taken would have reduced dramatically, maybe 300% if I'm spending a lot of time in the old version.
+
+00:25:00:45 - 00:25:29:48
+不明
+So if I go back to my challenges now that I resolve, if I go back to the content altering, the import general fast are happening, the brand adherence guide, brand guidelines adherence is going to be the brand teams and kits, which is of better flexibility because you can if your brand has like colors, mean colors, they're all there for selection and you no longer require specialized skills to actually update the template or actually create ones.
+
+00:25:29:53 - 00:25:55:00
+不明
+So there is really good content personalization wise. Let's talk about the conditional content. But no more segmentation is actually required or limited by that. So that is also working well. So you see that the icon says a calendar is upcoming, which we look at to ruin this moment. And we look later and the content delivery for mobile responsiveness so that it also works well currently using that.
+
+00:25:55:04 - 00:26:15:30
+不明
+With all my challenges resolved. So, when I talk about the results for the email designer, I thought about it for some time and it's hard to actually give a result. Benchmarking. Jen. I depends on organization where you start off with whether using it or not using it now. So I would say that there is a huge potential.
+
+00:26:15:30 - 00:26:48:04
+不明
+And how I see is actually by reduction of time. So you could reduce time spend and improve efficiency by at least 300%. You could reduce definitely your developers hours or UX hours because that could be done faster and quicker. Now do need to mention when froze. There's also a reduction for multiple template change requests. So in my organization or the change request has to be sprints and then self-service test tickets have lots of service less tickets that the for pipeline planning.
+
+00:26:48:05 - 00:27:10:14
+不明
+They have to consolidate all the tickets and look at how long it takes to get it enhanced. And that is of course a long process. So with that time that you have, you can then reinvest in other nurturing activities. So you could deep dive into more Marketo and rich features such as interactive webinar. If you have not try it out or dynamic chat.
+
+00:27:10:18 - 00:27:19:25
+不明
+Yeah. So we have done pilots in that, and it's actually very useful for us to move up to the next step to scale it up.
+
+00:27:19:30 - 00:27:43:42
+不明
+But then with this, we are demanding marketers and marketing operations people out there. So at this point in time, I have to say that this is not sufficient for us and we all want more. Do we all? And more prove we all want more? Yeah yeah, yeah. So let's let's run a warm welcome and applause for his upcoming demo.
+
+00:27:43:46 - 00:28:10:16
+不明
+We one more. Yeah. So thank you, Milena, for, trying out the new email designer. Right. And giving us feedbacks and would love to thank, customers or champions who have helped us, build this technology out. And I know, like, it was a need of the hour and, yeah, we were a little late, but, yeah, we are there.
+
+00:28:10:21 - 00:28:39:53
+不明
+And as I said, right, the features don't end now. The best part is that we are living in the world of AI, right? And, You really want to leverage AI? How? In the form where you can actually enhance your whole, email campaign creation, delivery and tracking. So let's take, this, scenario out here, right?
+
+00:28:39:53 - 00:29:05:20
+不明
+And, I will play the role of Darren, out here. And I'm a marketing operations professional at IDP, and I think most of you will relate to me. And, in, in IDP, I have my colleague, my lovely colleague Bob, who is a marketer. We kind of play a cat and mouse game, and thankfully or not, thankfully, we tend to like each other.
+
+00:29:05:25 - 00:29:38:55
+不明
+Yeah, pun intended, but yeah, Bob comes to me every now and then. He's like, hey, I'm going to run this campaign. And I, we're gonna go live tomorrow, right? And yeah, I mean, I'm struggling, struggling, struggling, struggling. So yeah, he's he's at me again and he wants to launch, a new email campaigning, focusing on students. And, he wants to target them and kind of, motivate them to join universities in Auckland and Melbourne.
+
+00:29:39:00 - 00:30:04:12
+不明
+So to make my, matters easier or highly difficult, he has collaborated with a agency called self-growth. And Chiara, who's the creative designer, has actually, kind of given out me an email template. Now, this email template has come in the form of image, and I'm like going crazy nuts. Now who's going to code this email template.
+
+00:30:04:12 - 00:30:27:30
+不明
+Right. So yeah. And I have to go behind it. Right. And what not. But Adobe comes to my rescue right? I've been hearing a lot of new technologies and some which Isabella also mentioned out. Right. So let's try it out right. And, see things in action. This is real, guys. There's no, nothing going as a demo.
+
+00:30:27:32 - 00:30:38:49
+不明
+This is real environments and this is coming live. So let's go. Very excited.
+
+00:30:38:54 - 00:31:05:45
+不明
+Okay, so, this is the email template, that, Chiara has built. As you see, it's an image, right. And banner, some text. One goes through columns. Oh, gosh. It's not ending. Okay. Pretty pretty, pretty complex. Right. So but let's see how technology can come and, help us out. People who are leaving. This is a very good demo.
+
+00:31:05:50 - 00:31:32:10
+不明
+Do wait. Okay, so let's go to market to engage. Right. And, and I, I'm on my email template, and that's the first thing that I would love to do. Right. And I see convert image to template out here. So simply click on it I give the template name okay. It's in the underscore master and underscore okay.
+
+00:31:32:13 - 00:31:59:23
+不明
+Comes right I select the image which has been given by clear. And that's it. I just click on the magic button of convert right. So the image is getting uploaded out there. And once it's uploaded it starts the I start scanning the image right. And on the right side, if you see the HTML code is actually getting generated.
+
+00:31:59:27 - 00:32:29:15
+不明
+Now I have my fingers crossed that this beautiful template, which was an image, gets converted to real HTML right? And in a matter of seconds, that's the reality. Fingers crossed. Let's see how it happened right? Okay. I click on view template. Boom. So if you see we were able to create, and then transform the image to a template.
+
+00:32:29:20 - 00:32:57:19
+不明
+Right. And I'll just show you side by side. So we have the top image. We have a top banner right. And we have the one cross two columns right. All set. All set. Right. Right. Pretty decent right. But now the best part comes right tokens. Right. They want to personalize this email template and I gotta scan it out apply my brain.
+
+00:32:57:24 - 00:33:37:32
+不明
+But again right. AI comes to my rescue. So I have this magic button on the right side. And if I click on it, guess what's happening. Let's see. So it scans the email right and starts replacing the tokens. So the tokens come from the out of the box tokens of Marketo. Right. And if you see, we were able to kind of, get John replaced by a delete first name, it was able to recognize that out we were able to bring member token as well because we felt that, hey, it's, it's, Melbourne and Auckland as two places.
+
+00:33:37:37 - 00:33:55:12
+不明
+And if you scroll down, I also see that it was able to bring in the lead owner, first name and lead owner last name as a councilor. Right. So that's the sales rep. This looks great right. Let's go and publish it out.
+
+00:33:55:17 - 00:34:21:23
+不明
+Yeah in a matter of seconds. It's my usual process. I publish and then let's go to create out an email. So I click on create the email. I put the name right. So it's an Auckland University email. And I use the subject line as welcome. And I click on create.
+
+00:34:21:28 - 00:34:36:42
+不明
+So the email gets created with a blank canvas. Right out here I put my name right. It's being sent by myself. And I click on edit Email contact.
+
+00:34:36:47 - 00:34:59:24
+不明
+So when I click on it I did save the template right. And publishers I will use the same template. It's the same just checking. And I click on use this template. So if you see we have imported the template out here, the structure is there, right. I will quickly try to put the logo out here.
+
+00:34:59:24 - 00:35:30:43
+不明
+So I hit on the marketing expert and this is my design studio, I scroll it's it the Lewis. Loading. Okay. Here is the ITP logo. Correct. So I selected the logo gets rendered right. And since this is a header and I want multiple in multiple clients still looks like as in header. So I have marketer's header right. And that looks good.
+
+00:35:30:48 - 00:36:09:02
+不明
+Now what I will trying to do is that I am loving the experience. Right click click click click I don't want to type right I meant lazy I, I did and so I now try to leverage the AI assistant for content generation. And I put out a prompt out here, I create an email for students how they can study well in Auckland and focus on best courses and enjoy the culture of New Zealand.
+
+00:36:09:07 - 00:36:34:48
+不明
+So, we go with the settings out here. So these are kind of what you are trying to build. And so this is a buying group persona in case here the student is more of an influencer. The marketing journey stage I will put it as discover the communication strategy is incentivizing those students. Right. And tonality. Right.
+
+00:36:34:48 - 00:37:04:41
+不明
+I'll go for a persuasive tonality. Right. So I do this text settings now, in here, the best part is that we also take into control, the brand tonality. Right. How and the kind of brand images. So here, what the content team has given me is a PDF, right? Which gives me all the details around the university is in New Zealand, what students can do, what is a cost and blah, blah, blah.
+
+00:37:04:45 - 00:37:31:42
+不明
+So I just select this PDF out here and come back and click on the magic button or generate right now what's going on in the back end is, is that we have taken the prompt, we have taken the variables. Right. And we have taken the, white paper out here. So the email is which will get generated out here will be based on these three parameters.
+
+00:37:31:42 - 00:38:00:15
+不明
+Right. So I see they are getting generated. Oops. Sorry. So here, just to tell, and to make things real, right, I just selected the top header. So that's why it gave me suggestions of the top header. So for the full email, I have to click outside. I'll put the same prompt. I do the text settings back.
+
+00:38:00:20 - 00:38:22:09
+不明
+So here, what you can do is you can select a section and kind of, give it to I to, reframe it. Or you can do the full email as well. So both works great. And, yeah. So I'll click generate. Okay.
+
+00:38:22:14 - 00:38:33:05
+不明
+So in the meanwhile it generates I will quickly show you as well. Sorry.
+
+00:38:33:10 - 00:38:41:54
+不明
+Oops. Don't worry. I got it covered.
+
+00:38:41:59 - 00:39:14:24
+不明
+Okay. So this is the, the PDFs, right? So it has Auckland City Guide, right? Some images out there. Right bits, which is again accommodation. Right. Like this is how like in every industry we prepare those guides. Right. And get some happy faces. Yeah. Let us see in the meanwhile my awesome. So I got this variation out here.
+
+00:39:14:24 - 00:39:47:49
+不明
+So let me just quickly preview it up. So it has retained the tokens out here. Right. It is giving me world class educational institutions, vibrant lifestyle, student health insurance. Nice, right. And my educational adventure. Right. Opportunities away trade. And why choose Auckland right and ready to explore. So I got another variant as well. Right. So and this has always the same things but yeah.
+
+00:39:47:54 - 00:40:20:05
+不明
+So explore courses now. So you see that how I is helping. You're giving you more options around the, the call to action button text and all those things. Right. So let's select one email out here right. So I'll select it out. Let it load I view it Yeah. And yep I think my email is ready. And I simply to save and close.
+
+00:40:20:10 - 00:40:33:45
+不明
+So here we will be uploading the images into the time. So error comes. No worries. Right. So let's go back.
+
+00:40:33:49 - 00:41:02:14
+不明
+Oops. Let's say the demo gods have to smile. Let. Okay. No it's so you got it covered. So, just quickly I had I. Right. Yeah. So, now what goes, behind also out here. Right. That he, as, is available selling. Right. The content approval process is also important. So I would love to send it to Bob.
+
+00:41:02:14 - 00:41:24:20
+不明
+Right. And kind of request approval out here. So simple. Click on a, button. Right. So, hey, Bob, can you approve this email? Right. And I type it out and then click on send in this way. And notification is actually sent to Bob. And right. If you see the audit log as well. So yeah, I mean these are my three stakeholders.
+
+00:41:24:20 - 00:41:43:19
+不明
+But yeah, Bob is also part of it. Now let's see how Bob's experience goes. Right. So Bob is also comes into marketing is at the end of the day clicks on the email, action button. Right. And if you see the top right, you see approval request. And my request has actually come. So hey, Bob, can you approve?
+
+00:41:43:24 - 00:42:08:14
+不明
+So Bob clicks on it, right. And, sees the email out, right. And yeah, he thinks that, okay, this is good, but I really like, the student images, but make it more funky, right? So, and I love, to have sunglasses, myself. So I would want the the person out here to also have sunglasses.
+
+00:42:08:14 - 00:42:30:52
+不明
+Right. So, so I kind of request the change and also say that, hey, can you change the subject line to make it more personalized? So. Yeah. Can you add sunglasses?
+
+00:42:30:56 - 00:42:39:13
+不明
+Yeah.
+
+00:42:39:18 - 00:43:00:16
+不明
+So here, when, this request gets sent. Right? So, obviously that one gets an alert that. Hey, Bob has rejected my email. Right? And kind of this email comes back to me, and if I again go to the audit log out here, I will see those comments of Bob. Right. So hey, the comments come in. And now the best part comes, right?
+
+00:43:00:16 - 00:43:30:33
+不明
+What should I be doing right out there. And that's where Adobe Express comes to my rescue. Right. And all the goodness, of express is available, for all our customers. Right. And obviously there is an included version, and, folks who have the paid version will get the full access. So, yeah, let's see, how express does this magic.
+
+00:43:30:37 - 00:44:02:04
+不明
+So the express editor opens up, right. And I click on insert object. I color the eyes right. And, yeah, just add the prompt, he adds, and glasses. Right. And just click on insert. Love the northern lights, right? I really like it. And I hope you if you try, you'll also like that. I just hope that, the sunglasses look good on this person.
+
+00:44:02:08 - 00:44:19:21
+不明
+And just make Bob happy. Oh, this is great. Right. So, yeah, I think, all the three versions are okay, but the first version is what I like personally. So I just click on keep.
+
+00:44:19:26 - 00:44:45:41
+不明
+And save it. Right. So it gives me an option to save it as a jpg. Right. And it gets this image gets saved in your dam. Which is democratizing this design studio. So yeah I think job's done. I click on Save and close. I also do change the subject line out there, and I say that, hey, welcome to Auckland.
+
+00:44:45:46 - 00:45:18:49
+不明
+And yeah, again, click on Request approval. The same thing will go again to Bob. Right. And he will see a notification at the end of the day. Right. And yeah means he will review out that email. And finally if he's happy then he can kind of approve it all right. So just see out here how it happens again every all the approval request and the rejections and all will all get tracked in the audit log.
+
+00:45:18:54 - 00:45:46:16
+不明
+Yeah. So the notification comes. So the notification will be in the product as well as an email as well. So that, both the parties don't kind of miss them out. So Bob is happy. He likes the sunglasses. Right. So and he's happy with the email and, finally, he approves it. The email, right. And if you see at the top, right, the email changes from interview to published.
+
+00:45:46:21 - 00:46:15:02
+不明
+So with that, we end the demo, right? A lot of cool things. We kind of saw, in this. Right. So just to kind of. Yeah. Just to recap it up, right. I think, I just want to focus on how with AI and, with the power of, insight, Marketo engage, you were able to actually convert from an image to an HTML template, right?
+
+00:46:15:06 - 00:46:41:50
+不明
+Add personalization tokens. Do any generation of any email, right. And actually collaborate and do the approval workflow. So all of this comes baked in, right. And I know you all were clicking pictures. This is the this is the this is a better picture right. So it has the timelines as well. Right. So your camera's people who are leaving to maybe click a picture right.
+
+00:46:41:55 - 00:47:06:41
+不明
+Okay. So yeah. So we have we are very aggressive on the roadmap. We really want to bring all this innovation to you guys. Right. But yeah. There are some caveats. I hope everyone has taken the picture as we move ahead and give it to Isabella. Right. So over to you, Isabella. Thank you. Let's fucking. Yes. So a few key takeaways from the session today.
+
+00:47:06:46 - 00:47:37:16
+不明
+Number one is to access most of these cool new AI generative AI features. In more to engage, you need to be on the Adobe Identity Management system. So this is not just, you know, a migration. This is a gateway to all of these new features. If you want to try them out, and you don't already have or you're not already on the Adobe Identity management system, please reach out to your account representative and they can help to guide you through that process.
+
+00:47:37:21 - 00:47:55:46
+不明
+Secondly, explore the new features. So you are all probably still a bit shell shocked from how much we announced in the market. The roadmap session, but there is so much coming to market, so there is so much coming to the email designer. We just seen loads of cool new things. Please try it out, let us know what you think.
+
+00:47:55:52 - 00:48:20:59
+不明
+Give us feedback. We constantly want to improve the product so we'd we'd love to hear it. And that is with generative AI. This is a new space and we had a discussion, Milena, on how to kind of quantify the return and return on investment or the results that she was seeing with the new email designer and the AI within it.
+
+00:48:21:04 - 00:48:50:06
+不明
+It's important to understand where you're at now, right? What's your baseline? How long does it take for you to create an email? And then you can start to measure what the return on investment is and the productivity gains once you have that baseline to compare it to. So yeah, get an understanding of that before you start, really seeing results over time and incremental value for using generative AI.
+
+00:48:50:11 - 00:49:23:26
+不明
+So I will leave you with this. We hope that you all feel like this after using the new email editor. This is true. Yes. Yeah. All jokes aside, yeah, you should all have access to the new email editor once you're on Adobe Identity Management system. It's available to everyone. AI assistant is also available to everyone. So all the cool new stuff that you can do, generating images, generating the copy that you saw today and doing that is available to you.
+
+00:49:23:26 - 00:49:40:41
+不明
+If you see the generative AI terms. I know some organizations are, struggling with the kind of legal teams to get the approval for that. So don't worry. Doesn't mean that you don't get access to the new designer, just means you wouldn't have the generative AI stuff.
+
+00:49:40:45 - 00:50:08:43
+不明
+So, we are running a number of beta programs. You can scan the QR code if you want to get involved in any of those. You saw to Roon. Talk about the image to HTML and myself. Talk about the HTML brand themes and kits. So those brand adherence, features that we're introducing and then the content approval workflow process where you can collaborate with colleagues to get feedback on the emails.
+
+00:50:08:48 - 00:50:31:28
+不明
+And maybe we just wait for 30s for people to scan. So we love to have each one of you as part of the beta programs. And, this all helps us get relevant feedback into the product and, our champions out here, testimonial for it. Right? They ask for it, things get built right and things get launched.
+
+00:50:31:32 - 00:50:58:37
+不明
+So we really want, you all to be kind of invested also in the product. A lot of people who scan the QR code was part of our beta before the launch of the designer. So all these cool, cool new features who get the first taste of it right and give us really creative feedback. Yeah, cool. There's a few labs we're running on the email designer, so if you want to get your hands on it, you haven't yet tried it out.
+
+00:50:58:37 - 00:51:23:54
+不明
+Please do attend the lab. We're running two because they were such, also high in demand. So you'll be working with the PMS plan so you can help to guide you with building emails. We will also be doing an ask for Anything session in the community pavilion tomorrow. If anyone wants to come along and ask us questions, feel free to come on down to that quick flux.
+
+00:51:23:55 - 00:51:50:59
+不明
+So we've got a row. Here are the Derby champions. They've all got these really nice red jackets. If you want one of those, the champion program applications open in May. I would really, really recommend, applying fantastic program to be involved with get to work quite closely with the product team. And Adobe otherwise. Thank you.
+
+00:51:51:03 - 00:51:54:29
+不明
+Especially. For.
+

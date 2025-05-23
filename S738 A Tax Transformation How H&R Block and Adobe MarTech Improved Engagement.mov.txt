@@ -1,0 +1,584 @@
+00:00:00:09 - 00:00:27:14
+不明
+Everyone, to our session, and I think to kick things off. It's the tax season. So how many of you have done taxes already? So we got a lot of people still remaining. And, Samir, what do we have for everyone that's waiting or even if they have done the taxes? A couple of things I would say if you have not done it, just let's connect after this call, because I see lots of opportunity in this room.
+
+00:00:27:14 - 00:00:44:42
+不明
+Actually, I am could be a potential client. Or if you already have your appointment, that's also, let us know how you experiences and if you have already done it, this is an awesome offering from block that you can have a second look, actually. So in case you have done it, there's always a chance something is missing actually in the process.
+
+00:00:44:47 - 00:01:03:59
+不明
+And it's a free process altogether for them. From the user standpoint. You can do go to any office and do a second look on the return, and if they find something there could be an error also. So be cautious on that part. But at the same time there will be something missing and you get more refund. So it's totally free.
+
+00:01:04:13 - 00:01:30:00
+不明
+Try to take advantage of those things so stay till the end. We will be collecting some names and you might get a nice, beautiful offer from each one of blocks. Yes. So to introduce ourselves, please. My name is Julie Agarwal, Vice-President for, Enterprise Architecture and Platform Teams. And when we think about the platforms, it's basically the data platforms and the application platforms, and you will see a lot of those things in our, presentation.
+
+00:01:30:00 - 00:01:56:44
+不明
+Also like how this role evolved has evolved over the period of time and how we think about all these components together. Yes. Yeah. Thank you. So my name is jazz Sang 15 plus years at merkel. I've been leading come from the campaign background. I've led campaign practice, then Adobe Solutions, then Adobe Experience platform practice. And now one of my roles is in AI integrations and emerging tech.
+
+00:01:56:49 - 00:02:26:15
+不明
+So my passion is really to put all the technology together to drive the experience. And that's what we'll be talking about here a lot here today. So in terms of an agenda, what we'll share with you is, how H&R block, looked towards modernizing their, martech and how, Marco and Adobe as partners came with H&R block that we helped them start to look at what needs to get done.
+
+00:02:26:20 - 00:02:47:07
+不明
+And then Samir is going to touch on how, it's not block prepared there and stack for this implementation. And I can proudly say that out of all the implementations done, I think that we have done over 30 at this point. This has been the easiest. And in terms of on time, on budget. Samir, now, thank you.
+
+00:02:47:07 - 00:03:06:37
+不明
+Like it was a great party. So we'll go into the details. Thank you. I would like some fellow colleagues from and it's like an amazing journey for all of us like Merkel and Block like that. Amazing stuff. And one constant theme I heard in so many sessions, like the people actually really, really struggle by not having the data.
+
+00:03:06:37 - 00:03:23:18
+不明
+They're actually in the process. And that's where it was different. And we just talked about it was on time, and for how we achieved those things and why it was different in our case, we are going to go through those details when, when we were working on the contract and all those things, I was very aggressive with them.
+
+00:03:23:18 - 00:03:37:49
+不明
+I was like, hey, we don't need more than six months. And he was thinking in his head, I can see that in his tone. You are not you. You don't know what you're signing up for. And we will definitely have an extension and all those things. But at the back of the mind, we were having some thoughts why we believe that it could be done in such a short period of time.
+
+00:03:37:49 - 00:03:59:49
+不明
+And we will go into those details. Yeah, we'll share details. But again, one of the reasons why it was successful. So, you know, when it comes time, see what H&R block was able to do building their stack and modernizing in, you know, to, to be ready for when AP came, and then we'll talk about, use cases and expansion.
+
+00:03:59:49 - 00:04:19:09
+不明
+And this is, again, I give a lot of credit to the actual block team on, how they approached it. They had many ideas, and we'll talk about, from many ideas. What were the two that were selected to get started? Start small. And how we look forward to expanding. And then I'll give you, bring you some thought leadership.
+
+00:04:19:13 - 00:04:46:19
+不明
+How many of you are tired of hearing the word personalization? So I have a new term. Stay tuned. And then finally, we'll show you a live demo, with the demo. Gods help us here. And the internet works. If not, I have a backup video for us. So to kick things off, Samir. Thank you. Just a quick overview, because I know this is like, we have, people watching over the internet.
+
+00:04:46:19 - 00:05:05:15
+不明
+It's an international event. Everybody might not be knowing of us. About us. It's a pretty known brand in us and Australia and in Canada. We serve those, tax policies in those three countries. But a quick overview. It's like a 60 year old company founded by Henry and Richard. We are based out of Kansas City.
+
+00:05:05:20 - 00:05:24:07
+不明
+The the big the one big thing which we are known is for the tax services. But there are like few more, other services we offer. And we will quickly go through those things as well. And everybody knows us with a big green logo who are familiar with the brand. We have 10,000 plus offices across the US, and Canada and Australia.
+
+00:05:24:12 - 00:05:41:12
+不明
+And we have like we can proudly say, we got about to touch a billion tax returns. Actually, that's what we are. We are heading towards. We have already crossed 950. It's a big it's a big number actually, in terms of tax returns. And we have like 80,000 tax professionals working for us during the tax season.
+
+00:05:41:16 - 00:06:06:06
+不明
+So you can just imagine the complexity of the process. They are not working for us here around. They are seasonal workers. So you can just imagine, like how do you bring those people at the right time. And when the tax season is over, how do you make sure that things are closing properly? All those complexities, again, like as a sort of like we are known for the tax service is a well-known brand in that area, in person, online taxes and the software which we do.
+
+00:06:06:10 - 00:06:38:27
+不明
+Along with that, we have offerings around the small business, which is basically payroll, bookkeeping and the entity tax returns. And the final thing is financial products. These two domains are growing actually pretty in a healthy way for us. And that's what we are. Thank you. So before going into like how we think about building the services around these things, let me just take a, backseat on this one like the before building anything, in our and from the tech standpoint, we are very client centric focus actually.
+
+00:06:38:42 - 00:06:55:03
+不明
+And if you have if you are not doing those things, we are going to miss the mark and delivering what clients are really looking from us. And when we think about clients, it's not just about the end clients. As I said earlier, like we have 80,000 plus tax pros who are coming in and going out. There's a lot of friction we can develop in that process also.
+
+00:06:55:08 - 00:07:14:51
+不明
+So when we think about the clients and being a client centric, what I means is like we think about the four pillars which are listed on this slide, which is mainly around the expertise, empathy, expectations and is like without going to everything on the slide, but high level idea is like everybody's stock situation is different. Everybody is looking for their own experience.
+
+00:07:14:56 - 00:07:32:39
+不明
+Just imagine yourself when you go to a visit, a doctor once a year for your own health checkup. You have a lot of expectation for the doctor. It's a very similar kind of transaction, which happens in this process when you go to a tax professional to get your taxes done or you're using your online systems to go to your taxes, you have a lot of expected.
+
+00:07:32:43 - 00:07:50:39
+不明
+Technology is evolving at such a pace that we believe that everything should be easy, but at the same time, we know taxes are complex. Even if you make a small mistake, it's going to lead to an audit or unpleasant experience like all those things. So how do you go and make sure that we design our systems, keeping those things in mind.
+
+00:07:50:43 - 00:08:08:15
+不明
+And that's we are like when we talk about the 950 million returns we have done. And that's where the core expertise comes for block. Actually, we need to ensure that we are hooking the people when the client comes in with the right tax rule, because it's you are one of your tax return is so important to you. How do you identify that you hook up with the right tax pro also in the process?
+
+00:08:08:20 - 00:08:32:15
+不明
+That's where the empathy concept to preserve the complexity of the process comes into picture. At the same time, we want to ensure that we are serving you in the right way as a client. And the price is like charged right? In this process. Last one is like it's a very complex process. So we are trying to take that full advantage of technology in the process to ensure that we are building the best tools and ensuring that time gets the best experience in the process.
+
+00:08:32:20 - 00:08:50:42
+不明
+So before going to the next slide, if you think about all these four pillars in our experience, how do we go and design our systems now? How do we ensure that the product is thinking along these lines? How does the IT systems are designed keeping these things in mind? So if you go to the next slide, please. Thank you.
+
+00:08:50:47 - 00:09:08:33
+不明
+So this is like what we have been working from the last five years. Plus I would say close to five years. So this is a very simplified version which was a vision laid down by by the leadership and how we are approaching these things into, from the system standpoint all the way going up to the line of business is how we are serving over here.
+
+00:09:08:38 - 00:09:26:00
+不明
+So let us start from the bottom actually on this slide, because this is what the team has been doing for the last so many years. So when we talked about a five years back with how the systems were designed, actually in our case, we had our own silos in our systems. But from the client's perspective, it was like one big brand.
+
+00:09:26:02 - 00:09:47:53
+不明
+They are interacting with the general block. They are not interacting with us as the systems or the online or the software, or for the financial services ecosystem, which they are taking advantage of. The one big change which we have done, I'm proud to say that after like so many years of effort, now we have reached to a point that we have one tax engine for the company, actually, and this is a huge, huge plus.
+
+00:09:47:58 - 00:10:16:42
+不明
+And we will share like why this matters to us actually, and what is matter to the Adobe stock. Also eventually with this one channel like one omnichannel platform which we have built for the taxing and it's not about just doxygen actually, our data platform also got streamlined because of these things. Now, you can imagine once your data platform and your taxing in a streamline client can move from one channel to the next channel, because sometimes they are looking for this idea written by and they are not able to finish that are done.
+
+00:10:16:42 - 00:10:42:52
+不明
+And now they visit the assisted office for the assisted returns. They visit the office. How do we ensure when the client moves from one channel to the next channel, that data and the other information they have provided to us already also moves along with them? Actually, not like when you visit the office and you have to start one more time and vice versa, like somebody started with the office, they want to go and finish something in the online system because that's they feel more comfortable about that thing.
+
+00:10:42:57 - 00:11:03:56
+不明
+How do you ensure that data and the information they provided also moves along with the process? So that is the beauty of this thing. Now think about to make this thing bring it to life. You have to think about many other things along in this journey. Your identities, your clients are not running in three separate systems. That was the case in the past.
+
+00:11:04:01 - 00:11:30:22
+不明
+Now you can imagine, like I'm just going to give like, of, thoughts about the CDP. CDP is going to struggle if your identities are not aligned actually over here. So all the efforts which we are putting in building these ecosystem in this ecosystem was really helping us to accelerate our journey in the Adobe implementation. We were already working on these things because we are seeing the break points in our process, not having the single identity system for the company.
+
+00:11:30:27 - 00:11:45:45
+不明
+Same thing for the tax management. We saw like a lot of, efficiencies over the period of time we built that. How can you give a best experience to the taxpayers? Same thing for the marketing. Like five years backwards is now a lot of processes have streamlined in the past. It was like, hey, we were doing the digital marketing.
+
+00:11:45:45 - 00:12:04:37
+不明
+We were doing the assisted marketing. That is not the case anymore. We are trying to go and make it like more client driven marketing, like how can we go and target the client to the right message wherever they are in the journey? Same thing like for the other boxes. And this is not the entire list of things that are like many more capabilities we are bringing to the service layer, like reporting becomes much easier.
+
+00:12:04:37 - 00:12:22:52
+不明
+We can track client much in a much healthier way. And if you are doing your taxes, documents are going to be at the heart of it, because you cannot do your taxes without having a good ecosystem where you can store your documents, extract the documents, like using OCR technologies. And that's where the real AI will come into picture on these pieces.
+
+00:12:22:57 - 00:12:41:16
+不明
+And the last one is like revenue. It's very important. Like people are paying. And if you have like three ecosystems in which people are paying how to track. And that's where this revenue ecosystem came into picture. Now, if you go to the layer above this one, that's where the application comes into picture. Application is not holding that. An application is not holding this core.
+
+00:12:41:16 - 00:13:15:29
+不明
+So services we have built, they are just taking advantage of these things in the process. Now we have assisted we have device software, tax plus services, card services, small businesses. All of these things are taking advantage of all these services we have built underneath. And the platform, which is like an omnichannel platform. And we can go and so and we can cross connect the data in these in this process, even if you have to have like another line of business or opportunity, a class across all these applications, we have to build one more is much more easier and simpler not to do those things.
+
+00:13:15:34 - 00:13:39:16
+不明
+If the opportunity comes, then we can take the advantage of the services over here. We can have one more application on top of it, and that's where the beauty comes into picture of this whole transformation, which we have done. So now I will just share, like you, how this helped us. Actually, when we started doing the Adobe project, how did this whole thing ecosystem, which we were working on already helped us to move our, CDP journey at a very different pace altogether.
+
+00:13:39:16 - 00:13:59:43
+不明
+What we have seen in the, clients or other companies which have shared their stories before. And there is one more thing which was happening when we started this journey, like five years back. There was one more thing which was going on, and many of you guys might have been, might have worked on these things around 2019 or so or 2020.
+
+00:13:59:56 - 00:14:17:55
+不明
+There was a lot of noise in the marketing domain that cookies are going to go over. So that was a big noise. So like me and my team not knowing much, we said like our cookies are going to go away and we work with some agencies and they partnered with us and we start thinking about building our own graph.
+
+00:14:18:00 - 00:14:33:14
+不明
+But within 3 to 4 months we realize it. It's not that simple. Once we knew the nitty gritty of the entire process, we just gave up on the whole thing. And it was like within three months we stopped the project. But at the same time, within three four months, we realized that this is even though it's going to get delayed.
+
+00:14:33:14 - 00:14:50:31
+不明
+Google kept on delaying every year like next year, next year kind of stuff. But we realized in that whole process it's going to come back. Actually, it is going to happen, if not this year, maybe two years down the line, three years down the line. The importance of the first party data is like going to be at the center of the whole process of marketing processes.
+
+00:14:50:36 - 00:15:12:05
+不明
+So even though we did not do it, we started getting our hands dirty little bit. Actually, in the domain, we know that we cannot build what Adobe has built in terms of CDP like so complex. It is going to be a product, it's going to be ready. We partnered with Merkle to start doing some health checks for us, and that's where, like Jaz and I started working together in the meantime the last four years back.
+
+00:15:12:19 - 00:15:37:30
+不明
+And that's where they did the health check and start educating us more and more, actually. So yes. Yeah. Thank you. So actually on the last slide, one word I'll go to his journey. We all know that, you know, these martech technologies and any technologies. Right. I would say is quite complex. And I would like to again, congratulate you because you had a head start.
+
+00:15:37:35 - 00:15:57:04
+不明
+You were thinking about this for many years. And part of that, even though we saw a trend during the pandemic or right after the pandemic, that clients were spending less, they wanted more out of the tech that that you had. This is where you engage us on saying, hey, come and do a health check, and I'll talk a little bit about that.
+
+00:15:57:09 - 00:16:24:23
+不明
+But to kick things off, I would like to start with a quote from our president that over the next ten years, great customer experiences will separate leading brands from the rest of the pack. And we have heard of either you will get disrupted or you will be the disruptor. Either you will win the experience or somebody else. Well, so now is again the time, especially with the new era of AI and the agents that we are in now, to really rise.
+
+00:16:24:23 - 00:16:49:46
+不明
+And we as leaders, we as the visionaries, can be the marketers of the future. So when you think of merkel, one of the ways we separate ourselves is that we just don't implement tech. We lead with what we say is audience centric strategy. So regardless of whatever you're trying to do, one of the things we push, we will push you and we push to H&R block was what are your ideas?
+
+00:16:49:46 - 00:17:09:54
+不明
+What are the could be 100,000 things that you want to do? Let's lead with that rather than tech and SKUs and products. And leading with that, we took the list that they had and help them bring it down to two key, things that we could, and then our heritage from merkel is in data and analytics.
+
+00:17:09:54 - 00:17:35:38
+不明
+So every time we think of deploying these systems, we again work with, like we work with data and like I said, what are your key metrics now? What can we measure? How can we learn? How can we show success. And we'll show you some of the early results later. And lastly, we always lead with data and making sure that we are able to enable the end users so that we can have an impact on the growth side with customer experience.
+
+00:17:35:38 - 00:17:54:43
+不明
+And lastly, what can we automate? How can we make it easy? Samir touched on it. That's one of the things, that is key to, H&R block. And just just a quick joke over here it was. I still do not know how I got connected with Marco. Probably some cold call, but I think that was one of the best curtain call I've taken.
+
+00:17:54:43 - 00:18:22:41
+不明
+Actually. Thank you. So, you know, our partnership, as I said, started with health check. So we went in to look at, understand what was the current state, what technology they had, and how many of you can relate to having technology that's sitting on the shelf. So that was a one off. Thank you. So that was one of the first things we did was what is there now before we talk about what's going to come next and how is that set up.
+
+00:18:22:46 - 00:18:47:06
+不明
+Second question I'll ask you. You may have technology that is that you have bought that you're using, but maybe it could be set up differently. Maybe there are new features that have come out that you have not kept up, and now this would be a good time to go back. So that's second thing that we did in our discussions was and then based on that, we assess the current state and where each of our block was trying to go.
+
+00:18:47:11 - 00:19:10:13
+不明
+And what we then gave was a health check, results and recommendations. And part of those recommendations, any time we approach again, I'll go back to the word journey is our guiding principles at merkel is to start small, make it work first, start with a key MVP use cases and then make it better, make it bigger. And in that process you could add more line of businesses.
+
+00:19:10:13 - 00:19:31:14
+不明
+You could add more use cases, you could as more brands channels or take in the features that that, you know, continue will come. Be added to the products. So when we did, Samir, started a health check, one of the things that we went back to was, what is the North Star? The H&R block is trying to get to.
+
+00:19:31:19 - 00:19:47:52
+不明
+So if you'd like to touch on how we captured this and this was our guiding star, that this is awesome. The words are like perfectly aligned. The main goal is like, how do we make this thing easy? How do we make the best experience to our clients? How do we build those capabilities? I think that's what the North Star is like.
+
+00:19:48:07 - 00:20:08:09
+不明
+It's this is you cannot skip boxes. You have to go and file it. And it's never like most of the people do not like it like you, which all we are to say it is not something which people enjoy doing it. But at least you can build the processes you can build. You can utilize the tech to take advantage of these things and make it easy for the people.
+
+00:20:08:09 - 00:20:45:10
+不明
+Actually. And that's what we are like always aspiring for. Yeah. And, you know what? I'll touch on one key thing to take away from this slide in this presentation is that to have the not start work with the leadership, know what it is, and then drive towards that, from the use cases, from the journeys. So what we then did was obviously we gave the results of the assessments and recommendations, but we said what is now going to come next because likely, some of you were looking at next year when we were talking at to actually implement CTP.
+
+00:20:45:19 - 00:21:06:48
+不明
+So we said five things. Number one, let's start and help you in the process of selecting a CDP. And one of the questions you asked was what does the landscape look like? And I'll talk about that in a minute. But if you'd like to touch on, you know, how you were evaluating, it was a long journey, I would say, like one of the longest contract.
+
+00:21:06:48 - 00:21:25:04
+不明
+And the process to identify, because this is so critical to our whole stack, actually, that if you are not, if the folks are not thinking properly and you make a wrong selection, your journey is not going to be easy. And that's where like, even the, we were like not actively in the contract. There was a lot of trust.
+
+00:21:25:04 - 00:21:42:16
+不明
+There's a lot of partnership happening in the process. I will always call Jaz. And he was not in the room, but those two folks I keep bothering like, hey, I'm hearing these new noise. Like, can you tell me more about it? I really appreciate those discussions. They were like a quick five minute discussion, but that those things taught me a lot.
+
+00:21:42:16 - 00:21:59:42
+不明
+But really, you need to have a partner if you do not have a partner in the journey, you're going to learn it hard way actually. So that was the most critical thing I would say, like, bring someone along with you, because it's not something which we as a H&R block do day in, day out. And that's where the partnership matters a lot to in this process.
+
+00:21:59:42 - 00:22:28:37
+不明
+Yeah. Thank you Samir. So again, a key takeaway from here is that we as partners can bring you the subjective and objective views. We can bring you all the hiccups that have happened on the way, all the problems that have happened, all the gray hair, you know, the battles that we have fought and gotten through. And one of those discussions that we had was especially if you're considering our customer data platforms, one of the problems is how many profiles do you buy and how do you maintain the profiles?
+
+00:22:28:37 - 00:22:50:34
+不明
+Because at the end of the day, one of the problems, is that most of the people that come to our websites do not self-identify. So your anonymous profiles will continue to expand. And this is where we had a, you know, discussion. And we have, again, some best practices, if you like to know more. Second thing we again, focused on was identity resolution.
+
+00:22:50:34 - 00:23:10:43
+不明
+So this is where Samir mentioned that cookies were going away. And one of the things again from merkel as partners that we bring is we push you to say, because now is the time you're switching platforms, whether it's the CDP or from Campaign to Agile or whatever, you're choosing to do, now is the time to look at what you have and what could be done different.
+
+00:23:10:48 - 00:23:30:22
+不明
+Do not do lift and shift and again, lots of discussions and identity. If you want to touch on. Yep. So as we talked about in the previous slides, like we really tried to consolidate things on our end first, whenever the first party data is coming in. But at the same time to to this point, like the anonymous is like another beast actually altogether.
+
+00:23:30:27 - 00:23:48:16
+不明
+And there's a lot of ways you can figure out people on the internet, using the public data or the other graph providers actually in this domain to, to see how can you marry that anonymous data with, with the known data actually. And that's where the gray is. And that's where the value of these identities resolutions come into picture.
+
+00:23:48:21 - 00:24:06:34
+不明
+We are still tinkering those ideas to figure out that we are, we are doing things properly. So this is still an open item, but, it's really fascinating, this whole domain, the way it's evolving. So if you've not heard of Mercury, which from our Merkel and Dentsu is one of our identity products, it complements AP.
+
+00:24:06:34 - 00:24:31:51
+不明
+And what we have is out of the 330 million plus, population in the US, we have coverage of over 268 million, 3000 plus variables. So what that means to you as you may deploy a CDP, but if you cannot tell who's coming to your website, then you cannot personalize that big word. Personalization that everyone's after is only at the anonymous level.
+
+00:24:32:06 - 00:24:55:12
+不明
+And this is where we'll again show you with a live demo of how that data could be used. Before somebody actually even launched in or raises their hand. The third is Customer Journey development. I already touched on this earlier that take all your ideas, ideas are good, and we heard this in the keynote yesterday from Coke that let's have lots of idea, but let's pick the ones that we want to go after.
+
+00:24:55:17 - 00:25:16:28
+不明
+Look at what the journeys are today, and then prioritize to how we can design them to utilize the technology that that you're buying. And lastly, let's start to plan for the architecture so that you can implement the CDP smoothly. And this is where, you know, in a minute or two, Samir is going to touch on how, block approach that.
+
+00:25:16:42 - 00:25:42:03
+不明
+So one of the questions that Samir and the team asked us was, hey, there's a lot of KPIs out there. How should we look at it? How should we compare Adobe? Because they had a lot of investments in Adobe. We are considering Adobe, but how should we look at it? So this is from 2021. But the point was everyone was talking about KPIs and that the reality was only 46% had used it, and 50 think what?
+
+00:25:42:03 - 00:26:07:46
+不明
+We're still looking for it. And the landscape of CDP was quite confusing. Just like AI is coming today, everyone was had has an AI message. Now at that time, everyone was, you know, saying that they had a CDP. And the way we broke the CDP down was in these four big areas. You know, in order that you got to have analytics, you're going to do campaigns, you got to then orchestrate and deliver.
+
+00:26:07:57 - 00:26:30:58
+不明
+And then how do you bring the data in? And depending on, again, this is 2021 to 2022, these providers were sitting in their areas. And what we saw was that Adobe had a vision. They had their V dot Adobe experience platforms from scratch. They wrote each of the products, they were sitting in the center and they could handle all of these.
+
+00:26:31:03 - 00:27:05:00
+不明
+So that was our recommendation at the end to, really lead with, Adobe. So anything you'd like to touch on now? It was a complex process, like the only thing which I would say in this, like, make sure that your business requirements are getting met with the CDP in which we are speaking. Like in our case, few characteristics I can share is like, it's a B2C having a 20 million plus kind of ecosystem, which we saw every year, and we want to ensure that we can have the data in this, in this, which was very critical, actually, that we can fit like close to 40, 50 million profiles into this ecosystem.
+
+00:27:05:00 - 00:27:27:19
+不明
+It should be cost effective also. And the roadmap which we are seeing from the Adobe was like most promising. And that was like one of the reasons along with that, we were already utilizing many other products on the Adobe. So it was making more sense, like a go all in with Adobe for the process. So this was like what we did actually, and what we did in six months or less, actually.
+
+00:27:27:19 - 00:28:02:28
+不明
+So you can see a lot of green boxes and red boxes over here, like when I just talked about like this is going to take longer. And I was saying, like, now I believe that we can do in like six months the good part of this slide is half of this was already ready, actually. Like we were ready with all the the majority of the green boxes you're seeing on this slide, which is like dealing with the API ecosystem or dealing with the identity or dealing with the tax processes, dealing with the reporting, which you talked about, the initial slide for the services, those are already up and running.
+
+00:28:02:33 - 00:28:21:34
+不明
+Only thing which we needed actually on this slide is to figure out the things which are seeing in the in the in the box dotted box. Those are the two things we had to build. Actually, there was nothing else we had to build. Our ecosystem was designed in such a way that we can go and plug in one more application in a much more easier fashion.
+
+00:28:21:39 - 00:28:41:08
+不明
+We already knew from the tech standpoint they call this streaming is going to work. Actually, we were doing streaming for our APIs to build experiences for our clients who are visiting overcome. So it was not like, if you do not know the streaming, we just need to go and stream the data into the CDB now. So it's like one more application for us and the batch is like relatively easier.
+
+00:28:41:13 - 00:28:57:12
+不明
+But at the same time you just need to ensure that your data is consistent in the process. Just because we were utilizing the same APIs or the same data sets for building of the client experience for the dot.com or for my blog, which is our portal, we were able to take the same data and put it to the CDB.
+
+00:28:57:23 - 00:29:19:21
+不明
+And that is very critical also because if you do not have this coming from the same platform, you can lead to a situation in which clients might see something or different experience in the CDB versus what they see when they go to the portal actually on our site. So diverging just from this like a small diversion for what we already had, and pumping that data into the Adobe was like relatively much easier.
+
+00:29:19:21 - 00:29:37:01
+不明
+Our engineers were like well trained for this kind of stuff. Only thing is, we had to still figure out what are we going to push into the CDB actually. And that is again a very important factor. Like you are not going to push half a million variables. That's what our system looks like actually we have close to half a million variables in the tax ecosystem.
+
+00:29:37:01 - 00:29:58:15
+不明
+It's a very complex process. But CDB would not require more than 100 200 kind of variables because that's what the experience needs. So how do you go and streamline out of those half a million variables and make them meaningful? 200 out of this thing? We, with high quality and pumped into the city. So it was because of all the pre-work which we had done.
+
+00:29:58:15 - 00:30:19:06
+不明
+It became much easier, implementation for us. And we will talk about the use cases. We just literally figured out what does the use case need, what are the elements they need. And we don't only those things. Now, if you have a third use case for the use case, pipelines are already established. It's much easier discussion to figure out where to get that data and pump into our CDB environment.
+
+00:30:19:19 - 00:30:39:39
+不明
+So that is the reason because of all these boxes which you are seeing on the slide, left side like already in place. It was much easier discussion. The second thing, which I would say is like security is very important in this process. So for whatever the Adobe implementations we had, it was not dealing with the client data, the real client data, like not dealing with like not SSN.
+
+00:30:39:39 - 00:31:00:10
+不明
+Sorry, the first name, last name, email addresses. Now the CDP needs all those pieces. And that is where the client PII information comes into picture. So that's a deeper discussion we had. Bring along your infosec people, bring along your, legal folks, go and have a discussion with them in the initial stages itself. Actually, that's very important. If you miss that thing, you're going to learn it hard way.
+
+00:31:00:10 - 00:31:21:52
+不明
+It's going to be a difficult discussion later on. So all those pieces need to be thought through. And the last thing is like, how do you ensure that data, which is going from your ecosystem and to the CDP, how the security around those things. So those are the key nuggets, I would say, like if you are starting the journey, start having those discussions as early as possible so that you are not learning it hard way, actually.
+
+00:31:21:57 - 00:31:47:43
+不明
+So yeah, Samir, there's a lot of boxes here and there's probably a lot more boxes behind the scenes here. But what this reminds me of is that iceberg, you know, what you see is only the little part on top, and there's a lot. So again, I would like to give, you know, compliments to the chef in this case, you know, I've got, AI team that built this structure that make this deployment easier.
+
+00:31:47:56 - 00:32:12:33
+不明
+So again, if you are considering any, of the new products that Adobe is coming out with, whether it's CDP or others, the foundation is your data and how easily you can bring in. And a key takeaway here is only bring the data, as Samir said, that is needed in the Adobe experience platform and then take it back, do all the heavy lifting on the on the left and bring what's needed.
+
+00:32:12:37 - 00:32:38:58
+不明
+The other word that's in the industry that's hot right now is composability CDPs or federated data access. So again, now at that time those features didn't exist. So that is one of the things. Again, we'll go back and look at what can be what heavy duty processing can be moved over to the left. And again, if you already have a customer data platform already, that is again a wonderful discussion and a topic to definitely look into.
+
+00:32:39:03 - 00:33:07:42
+不明
+And there's one more thing. Like you, there's, you have to be very, very tightly like i.t. And marketing has to be like working hand in hand. If even a small gap in the discussion can lead to life. Unnecessary, chaos in the process. So your marketing team, who's, like, leading this whole experience, part of it need like you need to be working very closely with the folks who are delivering these things, because even a small gap can lead to one element wrong and can lead to a disaster in the process.
+
+00:33:07:42 - 00:33:18:07
+不明
+So ensure that the two teams are like, working very closely in that journey.
+
+00:33:18:12 - 00:33:38:06
+不明
+Awesome. So, like as I said, like we are still evolving. This is our first year, like full stack season where we have really implemented this thing. We have still lots of opportunities, like we just recently, we are going to migrate our, am also to the cloud services. That's like another evolution, which is going to happen this summer for us.
+
+00:33:38:18 - 00:33:55:03
+不明
+So and you can see like from the words itself, like there's a lot of opportunities in front of us, like in terms of content, how we are thinking about it in terms of personalization, because we are literally looking for the hyper personalization and the entire process. It is it was very email driven kind of marketing so far, or the media kind of driven marketing.
+
+00:33:55:03 - 00:34:08:51
+不明
+We were not taking advantage of the data which we have in the ecosystem. That's like another goal which we have in front of us. And measurement is also like another key thing, actually, like how can we go and measure these things in a virtual, effective way, in a much more agile way, so that we can make some good decisions?
+
+00:34:08:51 - 00:34:28:21
+不明
+Because still the data is like from the marketing standpoint, could be in silos. How do we go and bridge those things together? And that's like another goal which we have in the next 1 or 2 years. So that's where we are heading towards, as just talked about, like we picked only two use cases. We just we are not trying to boil the ocean in the first year.
+
+00:34:28:26 - 00:34:52:42
+不明
+We just picked like, one is like a and this is like, again, like, this is where the fun starts happening. Like, how do you identify these two use cases? It was a tough prioritization because everybody is looking for like something to be done into the ecosystem. So we after a lot of thought process, with marketing, with the product team and with the IT folks, like what is feasible in this time, which we have, we picked up two use cases and they both are linked to our assisted other tax offices.
+
+00:34:52:55 - 00:35:21:27
+不明
+One is like make sure that we get the overall experience to the clients in the in the omnichannel journey and making sure that they are able to finish their tax return is probably in one visit, probably, maybe not more than two visits at all, because every time somebody visits us, it's an unpleasant experience to the client. And also it's like an, it creates a situation of our side, us as well, because tax is spending more time, whereas the same process could be done in one shot of.
+
+00:35:21:32 - 00:35:37:17
+不明
+So that was like one goal. And the second one was like even though people visit and sometimes they do not finish, how do you ensure that we are able to follow up with this folks properly and effectively? How do you have a campaign around those things using this technology? So those are the two use cases we we picked up.
+
+00:35:37:31 - 00:35:57:20
+不明
+And you can see like the approach to make it work, like we align on the KPIs, helping to track these things, use case identification and the MVP and the measure. Like all those things we are going to see in the next slide. How do we measure these things actually yeah. One one thing I'd like to add here is what we have found is that customer data platforms and these technologies are expensive solutions.
+
+00:35:57:25 - 00:36:16:28
+不明
+And most of our clients are not ready to wait for six months, two years to two years to wait for the ROI. So this is one way again, I'll go back to in many discussions with the marketing on how we pick to use cases that could move the needle. So for H&R block, the first thing is that you make that appointment.
+
+00:36:16:28 - 00:36:37:24
+不明
+We make it easy, and if there are friction points, if we can again from waste a customer, know that customer sentiments or the data can show us where that problem is. How can we make sure that they make an appointment, they show up, and then once they have shown up that they complete their tax return. And that can be, you know, the the base that we started from.
+
+00:36:37:24 - 00:36:53:28
+不明
+And again, Samir, if you'd like to share there is, I think, I think the, the the key takeaways from this slide. I like the results which you can see at the bottom actually, just adopting these journeys and I'm sure that we are going to do much better actually on these journeys. We are going to make it more sophisticated.
+
+00:36:53:33 - 00:37:18:40
+不明
+We are already seeing like a decrease in numbers of appointment cancellation is 6%. The numbers of customers who did not show up to the schedule appointments has reduced by 7%. It's like basically constantly reminding them at the right time. Actually. So messaging makes a lot of difference actually, in these things. So again, first year there's only 3 or 4 months been live and promising results.
+
+00:37:18:45 - 00:37:33:43
+不明
+And you know, long journey to go. But I think we have a good start here that, you know, block learned a lot. I learned a ton actually in the last. And that's what this slide is talking about. I think we are ready to go and go and accelerate the entire process to the next level now from here onwards.
+
+00:37:33:48 - 00:37:50:02
+不明
+So foundational I would say is like close to be done. Like there's always going to be something which we have to keep on adding and refining on these things. But the big rocks are taken care right now. We are in the mode of developing, I would say, and we are actively discussing about how we should be thinking about the org.
+
+00:37:50:02 - 00:38:07:44
+不明
+And I heard it, like many discussions are on those things, like how do you make sure that option is happening at the right level? How do you ensure that the people are learning these skills? How do you ensure that we are not getting stuck in the old ways of doing things? So that's where we are right now. And ultimately, I hope in the next couple of years we come back and share, like where do we stand?
+
+00:38:07:44 - 00:38:19:21
+不明
+I'm very optimistic where we stand right now as a company. Like we will be in a much better, spot and will be taking advantage of the stock to the next level all together.
+
+00:38:19:26 - 00:38:43:25
+不明
+Thank you Samir. So now back to that word personalization that we all are tired of. Right. So in 2025 from Mirko we would like to introduce you to adaptive experiences. So what is adaptive experiences with the world of AI. And the big word that you hearing today yesterday at Adobe Summit is the word agents. So 2025 is going to be the year of agents.
+
+00:38:43:30 - 00:39:06:43
+不明
+And this will help us drive adaptive experiences. So, I had a thought leadership article that just came out, two weeks ago, and there were top three trends for marketing, in 2025. The first one is that now I will help us accelerate that goal of personalization and hyper personalization. And again, we'll use adaptive experiences.
+
+00:39:06:43 - 00:39:33:23
+不明
+And I'll show you how. The second is that last year there was a lot of talk about copilots and assistants. And this year is going to be about smart agents. And one key difference, as you're learning about between agents and copilots, is that two copilots you ask a question and it gives you a reply. And these smart agents now are going to start to do certain things for you or they will anticipate.
+
+00:39:33:32 - 00:39:54:48
+不明
+And that's why, they will be smart and turned. The other big thing that you'll hear a lot here is about gen studio and content at scale. So as organizations now, you will start to look to produce more content. One of the gaps that will exist is you have now from a thousand to 100,000 or 1 million different variations.
+
+00:39:55:01 - 00:40:16:55
+不明
+How do you then use it? Right. So this is where the third key trend is going to be that the customer data platforms and content at scale will come together to drive adaptive experiences. And one reason why we have chosen this new term is that if you think of the maturity, what we find is that most of the clients at best get to level three.
+
+00:40:16:55 - 00:40:36:39
+不明
+And what is level three? If you have a customer data platform and target that, you are able to connect them together. If you sent and ideally, if you sent me an email and I come to your website, I should be getting that same experience. And that's as far as we see that clients get to, even though there are so many features available and customer data platforms.
+
+00:40:36:39 - 00:41:02:29
+不明
+APJ okay, what very small percentage get used? So what we are saying is that I will help us accelerate with this new Northstar of adaptive experiences, faster. And this will be done with agents. Now, you may start with simply assistance that Adobe is showing you. The first step is where is something, what audiences are used? What are not used?
+
+00:41:02:40 - 00:41:28:46
+不明
+What data columns do I have? You may start from that, but slowly you will start to use ad agents and agents and do specific tasks where there are pain points, in your organization. And with that, you will then start to build on more sophisticated next best action. And so we've been doing segmentation for decades and we've been dreaming of personalization.
+
+00:41:28:51 - 00:42:01:10
+不明
+So a simple message here and key takeaway for you is that the agent solutions will now help us drive the dynamic personalization. Because otherwise what happens is what you create segments and you decide what image variations they will get at best what you get to in the email as you put this segment will get this image. But the problem there is we are still in the rule based world, and with these solutions, we will be able to use sophisticated machine learning to drive what each one of us could get a different image.
+
+00:42:01:10 - 00:42:21:43
+不明
+As an example, and one of the first places to start here that I'm seeing is I or Jenny. I may become a little bit later. A lot of times the legal it's hard to get it through legal. So the place to look at start doing things today is look for what things are tedious, what are hard, what are time consuming.
+
+00:42:21:52 - 00:42:47:54
+不明
+That can be automated because that is an easier path to get through legal and say we are, let's put a model behind it, or a number of models with AI agents to automate, our processes. So to give you two examples, again, going back to our framework at merkel, make it work better and bigger is that the first example is you could start with chat bots which are smarter with AI.
+
+00:42:47:59 - 00:43:13:05
+不明
+All right. Now again, chat bots have been there for a long time. But what you can now start to use is connect them with structured and unstructured data that's sitting somewhere in your data warehouse or your data lake, and then continue to evolve into more things that they can do for you. And then the second one is, what if you could use real time behavior behavior that is sitting somewhere in your warehouse?
+
+00:43:13:10 - 00:43:38:21
+不明
+You send somebody an email about product and they're showing you interest and product being can are you able to take that data? Are you able to see where the friction points are. And then you can supercharge whether it's your marketing campaign or imagine after visiting the website for an hour block, somebody walks in to their physical location or calls a call center can be on them with that information.
+
+00:43:38:25 - 00:43:49:01
+不明
+So for that, I would like to show you a live demo in which it brings it all together.
+
+00:43:49:06 - 00:44:11:35
+不明
+All right. So what we have here is a demo that we have built and I'll be using Marco. But if you come to our booth, we can plug in your domain and show you your examples. So I'm going to again pick a customer here. Hello. So imagine I came to the website for what Samir was describing and they and she made an appointment.
+
+00:44:11:40 - 00:44:37:01
+不明
+And now she shows up to the location. So what we will easily be able to do is every organization has some kind of an application that shows data. But what we will be able to do is to take those to the next level. So what you see here on the left is profile information that we could bring from any of your CRM systems or API, such as what is their name, what do they state they live in, and so forth.
+
+00:44:37:06 - 00:45:01:51
+不明
+But then what we can add is what are their customer sentiments? I would say eight out of ten customers that I speak to at an enterprise level either have Qualtrics or they have Medallia. This is AI data sitting in your warehouse not getting used. And our approach from Oracle is that go beyond trends and reporting to utilizing sentiment data and the point when friction points are happening.
+
+00:45:01:51 - 00:45:27:22
+不明
+So what if you knew that this person is neutral or they had a bad experience in last year's tax return, or they're having friction points this year making appointments, and that way you could treat them different. The next area is I talked about Mercury. What if you could know? Every organization likely buys data about prospects and customers, but what if you could give that to you in real time?
+
+00:45:27:27 - 00:45:48:00
+不明
+If this is a net new customer, imagine if I can tell you that I don't like walking, running, hat owner, sweepstakes, gambling, book lover, and so forth. Right? And you can choose that versus if this could be an existing customer that was 2 or 5 years, 20 years in the making, but something could have changed in that data.
+
+00:45:48:12 - 00:46:05:51
+不明
+Maybe they were a student. Now they have a job, maybe their job, but now they've gone back and become a master's student. So any of that information could be brought in real time. The next area is what if we could also bring in? What pages have they looked at on the website? Are they looking at ethics? Are they looking at cancellation?
+
+00:46:05:51 - 00:46:32:56
+不明
+Are they looking at, you know, the pricing or they looking at reviews and so forth? What if you could bring all of that? And in addition, in AP you have what segment are they. And in this case, let's imagine they are the detractor. And using all of this information that again integrated is the word here. We could bring from many systems into an AI application like this, that utilizing that we could create a welcome script.
+
+00:46:33:09 - 00:47:08:47
+不明
+Now the the rep here does not have to read it exactly line by line, but it could be a guidance. And this is where I can give you examples. What if data shows that you are a dog owner? We don't have to use that. Hey, I know you have a dog that could say, do you like pets? Versus if this is a 20 year customer, and last year they told you the name of their dog and you could casually bring it back into or their favorite food or their favorite restaurant or their type of vacation all of a sudden, especially for clients like H&R block, where you are visiting once a year, this information could
+
+00:47:08:47 - 00:47:39:00
+不明
+be buried in notes that could be brought at the fingertips. Next thing, big thing I'll show you here is that we all get offers and what happens most of the time offers a very generic, text based, and they don't really resonate with us. What if you could use the power of Adobe to personalize? And what we are talking about here is what you see here is the ability to use Firefly and Photoshop APIs, using data to come up with different images that speak to each person.
+
+00:47:39:05 - 00:48:07:33
+不明
+Right? And likely most clients are not going to be generating these images on the on the fly. They will have them pre done, pre-approved, available, ready to be used. But what we can then do further is similarly you're not going to create offers from AI, but you have a set of offers. What if we could assemble the image, the offer, the customer's name and their status and put it all together?
+
+00:48:07:33 - 00:48:31:57
+不明
+And in this way, how many of you would agree that one of these images would speak to you? If you are in any of those categories, if you're into fitness, if you're into running, if you like dogs, cats, pets, would that be more meaningful? I'm seeing a lot of notched. Yes. So that is the idea that regardless of the channel now, Adobe is giving you the ability to do content at scale.
+
+00:48:32:07 - 00:48:53:47
+不明
+And then what do we need to do is to be able to use this content at scale at the time of delivery. So let's say, we have four images, but we have the human in the loop here. So one of the things you'll see is we have put some analytics on it. This could be again based on models that analytics say that this image here has a 100% chance of being.
+
+00:48:53:47 - 00:49:19:30
+不明
+Engagement is the top choice. But the human could say I like the one here on the left, and they could choose this one here on the left. They could apply it, add it to an email and let's take another example. This visit has completed. And instead of sending a very canned email, what if we could personalize that email with this creative and in addition something that happened during that visit.
+
+00:49:19:35 - 00:49:49:34
+不明
+So I'm going to go here on the right and say hi. It's going to ask me if I want to do a standard or reminder email. We'll do a standard email and say yes. So I'm going to say thank for being, 20 plus years. Customer.
+
+00:49:49:39 - 00:50:12:36
+不明
+Okay. And now what I can do is on the fly based on some brand guidelines, on some, based email, it can go and infuse that point into the email. So all of a sudden it can be a very personalized, meaningful email. Now it's up to you as an organization, you may give this power to the store reps or not.
+
+00:50:12:36 - 00:50:31:57
+不明
+You may create a case and then give it to somebody in the escalation. But that is the power again, of how we can truly take it to 1 to 1 experiences versus one to many.
+
+00:50:32:02 - 00:50:51:24
+不明
+All right. So that was our, demo that I showed you and a few things I'll again call out here, if you'd like to see more and talk about more. And these are the discussions that we're having with H&R block is how we can take some of these abilities, perhaps as agents, into their applications that they have.
+
+00:50:51:28 - 00:51:18:24
+不明
+So we showed you the typical problem of the generic email, the typical problem of you getting an email, you calling and explaining what that offer that you received, the ability to, personalize and send send that email a little bit about the architecture of it. I'm sure there's eight folks in the room how we are doing this as we are taking on the left data such as Mercury, customer sentiments from Medallia Qualtrics into this application.
+
+00:51:18:28 - 00:51:42:42
+不明
+Second, what we are doing is bringing those offers from Adobe's Journey Optimizer, as well as then sending the email through Adobe Journey Optimizer to get that out. Okay, so with that, Samir, thank you. I think we talked about most of these things, like a contract is pretty long time. You just need to prepare yourself. Keeping one year actually into consideration for these things.
+
+00:51:42:46 - 00:52:02:26
+不明
+And not just the CDP selection. The contract with whichever vendor you pick. And yours, as I partner in this case, second thing, which I would say, like we we, we have some successes, but I think that's still like we are figuring it out. How do I ensure that the people who are going to be building these things for us or with us, how do you make sure that they are upskill for those things?
+
+00:52:02:31 - 00:52:20:13
+不明
+Identification of business use cases is like a third one. I would say, the data readiness and emphasis security is like very important if you do not spend enough time early enough in the process is going to be a big hurdle. And once you have the CDP up and running, how do you ensure that we are still like, this is not a done deal?
+
+00:52:20:25 - 00:52:28:21
+不明
+How do you keep bringing more and more into the CDP? So those are the five key takeaways. I would say.
+
+00:52:28:26 - 00:52:48:12
+不明
+Awesome. Take some questions now. And there's a QR code there somewhere. Yeah. And guys this this this QR code. As I said earlier like we have some coupon codes behind this QR code. Probably which is like, which will help you do your taxes, with our systems, we have. So if you have not done your taxes, we have a special offer for you.
+
+00:52:48:12 - 00:53:05:33
+不明
+If you have already done your taxes, we also have a special offer for you. So if you have done it, it's free. You don't have to scan the code, but if you have not done it, just scan the code and we will have some like some lucky draw out of this one. Awesome. Hey, thank you folks. Thanks for your time.
+
+00:53:05:38 - 00:53:08:37
+不明
+Thank you. For.
+

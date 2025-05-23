@@ -1,0 +1,368 @@
+00:00:00:57 - 00:00:27:02
+不明
+Hello everyone. Welcome to my virtual Adobe Summit presentation. My name is Corey Bayless, and today I'm wrangling data for scalable marketing workflows with Adobe Marketo. Engage. So welcome. I'm currently a director and product owner of 12 different instances of Marketo at Prudential Financial. The agenda for today is we're going to start with an intro and we're going to see success at scale.
+
+00:00:27:03 - 00:00:52:01
+不明
+Data encapsulation, the market automation cycle, omnichannel integration with the channels being web form fill out list import, web service APIs and Salesforce.com. And then finally we will enable show what enabling Adobe Ecosystem with the native integration capabilities. And then we'll finish up with wrap up and key takeaways. So let's dive in. So a little bit about me. I've been an enterprise Marketo user for 11 plus years.
+
+00:00:52:01 - 00:01:17:04
+不明
+I've been in some of the largest Marketo instances in the world Microsoft, Expedia, AWS and now Prudential and the many different Marketo instances that they use. I'm a five year Marketo champion, Adobe Experience cloud enthusiast, an AWS cloud practitioner, a Python developer, automation enthusiast, love data compliance and GDPR. I don't love GDPR, but I love making sure that we're compliance.
+
+00:01:17:04 - 00:01:42:41
+不明
+We pass GDPR and incurred giant fines. I'm a preserver of mops, lives everywhere. Basically including myself with saving people from technical debt and the solutions that I've used to also solve various enterprise level solutions. And I have a workflow diagram obsession, which you will find out in my presentation, because there are a lot of workflow diagrams.
+
+00:01:42:46 - 00:02:04:26
+不明
+So my motto in life is automate everything and be allergic to manual work. That has been the thing that's maintained and been constant in my life since the start of my career, and it has not failed me yet. So success at scale, right? How does Adobe Marketo engage? Automate. Like how Adobe Marketo Engage can automate omnichannel data intake.
+
+00:02:04:26 - 00:02:26:52
+不明
+Right. Let's learn about that. So what is success at scale? So so that's the scale is with the building the solution with the thought of data encapsulation in mind. One data point can encapsulate an entire database of people, and it creates seamless targeting and workflow management with the simple idea of how do I do more with less? Write a consolidated frameworks, simplify troubleshooting, reduce the bloat in my programs.
+
+00:02:27:05 - 00:02:45:32
+不明
+And I'm able to handle that omnichannel, from a small business to enterprise level, right? This is a model that works for everything with the general idea of coding from scratch is very expensive. Right. So I want to use templates and I want to template ties wherever I can. If I have a recurring use case, I want to have a template for it.
+
+00:02:45:37 - 00:03:06:19
+不明
+And sometimes that takes time to figure out what your recurring use case is all. There's so many different ways something can be handled and solved in Marketo. That's the beauty of the system as well as also one of the issues of the system is that there is a lot of different ways that you can solve something, so it's not always this is the best way to do something, but it's the way that I've done it and it's the way that I've had success with it.
+
+00:03:06:20 - 00:03:25:04
+不明
+So that is definitely something to take in mind, is that you can take these practices, you can bring them and make them your own, or you can use them to improve your understanding of the system. It's going to be both ways however you want, right? But with the general idea that I always have one multi-use landing page template that's very flexible.
+
+00:03:25:04 - 00:03:43:37
+不明
+It's very responsive. It's super cheap for me to build them. I'm easy. I'm able to are easily able to design. I have little to no development or small amount of development that I can use CSS, JavaScript to solve my problems. But I'm also very, very quick to market in terms of how efficient I am to, to get things in front of my customer.
+
+00:03:43:37 - 00:04:00:52
+不明
+Right. I have an idea of one multi-use email template. I can code from scratch, or I can build an email template depending on what it is. As long as I have good design modules and branding, and I can solve all the various things that makes email nice and cheap, right? That's the goal. I want to make everything nice and cheap.
+
+00:04:00:57 - 00:04:32:02
+不明
+So what is solving at scale? Right. So in this case in this presentation we're going to be doing one Marketo instance or we're doing many Marketo instances in my tech stack or in the Prudential tech stack. We have four customer facing instances. We have 12 total six sandboxes, six production instances. But the general rule of thumb is that if I can solve my own problems, technical or non-technical, with myself or my team, then that means I can build foundation and I can understand how I need to solve my various issues.
+
+00:04:32:07 - 00:04:52:07
+不明
+So companies that get there by understanding that foundation and data flow and expected connectivity of their tech stack, generally, they will have the most success. Systems that talk to each other need to talk to each other. They have to have flexibility. They have to have agility, they have to have compliance, and they have to have the ability to connect through APIs and talk to each other.
+
+00:04:52:11 - 00:05:11:50
+不明
+AB can be an excellent workaround. You know, for the different systems and being able to read and monitor data and other systems and then supply that information back to Marketo, it provides necessary data visibility so that Marketo has what it needs in order to have success. In order to give the customer the right journey that it needs to go down right.
+
+00:05:12:05 - 00:05:34:41
+不明
+Marketo in itself can't actually talk to other Marketo instances, so in my case I actually need to use AP, or I use one trust in order to help federate data to my other systems in order for my systems all stay in sync. It's a pretty complex ecosystem of things that works together, but it works very well and it does what we need to do it at scale to maintain Prudential's compliance.
+
+00:05:34:46 - 00:05:58:08
+不明
+So understanding data encapsulation right. So one value can be used to target an entire database of people. What do I mean by that? I mean one string value on a marketo record across 40,000 records can now be used in a smart list to call that one particular value on that field to pull in your entire target database or entire target segment that you're trying to capture, right?
+
+00:05:58:13 - 00:06:14:15
+不明
+Then, once I'm able to capture those 40,000 people, I can send them and distribute them based off of personas and different types of behaviors and all kinds of different like clicks, email or visits, landing pages, or fills out this form. Or as a member of this program, I have a lot of flexibility in how I can manage that.
+
+00:06:14:20 - 00:06:40:23
+不明
+Right? So ten K, 20 K, 30 K 500,000 or 1 million records that I'm trying to send an email to. It gives me the ability to have coordinated distribution. One of the things that is super important is that Marketo actually struggles to target unique values, meaning one email is one value. So if I have 10,000 emails and I'm only able to use, 2000 emails and one particular smart list filter and I need to target ten, that means I need five.
+
+00:06:40:28 - 00:07:03:42
+不明
+You know, email address is smart list filters in order to target the 10,000 people. But if I encapsulated the data, then I could use one value to target the entire segment of customer that I'm going for. So the Marketo framework is we simplify everything, right? I map all workflows from start to finish. And you'll see how I did that here on the right side for credential, we use one trust as our single source of truth.
+
+00:07:03:42 - 00:07:24:59
+不明
+As I've said before. But AB can also be used to solve for that particular use case. Right. It's all about creating good data intake. Right? For key and good data in is good data out and good data and creates good personalization opportunities that then you can then use an email and you can use for other various things using target or other Adobe ecosystem products.
+
+00:07:24:59 - 00:07:46:56
+不明
+Right. API can help facilitate and understand this different journey analytics through your customer journey analytics, software like CGA. Or you can use target or use Adobe Analytics, but basically you're creating everything that kind of encompasses the entire ecosystem. And workflows and web flows of how a person will travel through your different digital assets. Super important to understand that, right?
+
+00:07:47:07 - 00:08:04:53
+不明
+So if I were to understand personalization in the simplest form, this is a great example. V dot first name is a token that I could bring into an email through the HTML, and based on the person that's receiving that email. Before the email goes out, Marketo looks to see in the database, hey, does this person have a value?
+
+00:08:04:53 - 00:08:25:55
+不明
+Okay, it does pull that value. And then I can even add a default element. There if that person doesn't actually have a value there. And it's important for, you know, always cover your bases, for the different errors that you might run into. Not everybody's going to have a specific value. And sometimes you need to backfill that with a default value in case that exists or doesn't exist.
+
+00:08:26:00 - 00:08:43:56
+不明
+And then when you get into velocity, it becomes even more dynamic. And you can have conditional based logic to be able to pull in different values based off custom objects or different field values. And how you want, you know, one or the other. Think of it as a many to one scenario. So you do all of these things, you manage all of these workflows.
+
+00:08:43:56 - 00:08:59:49
+不明
+And guess what? Now it's all automated. I don't actually have to do anything. Instead, I focus directly on my mail data pool. All my channels are handled, and it all goes into a spot where I expect it to. When it works great, it's really, really nice.
+
+00:08:59:54 - 00:09:20:15
+不明
+So let's start with the web form fill out solution. Right. So what does that look like. So a global ops form campaign logic. The Smart List filters cover two criteria. One being the person is created in my system, or the second being they already exist in my system, but they fill out a form and they qualify for compliance again if they need to.
+
+00:09:20:20 - 00:09:38:45
+不明
+This can be built out in a multitude of ways, but I use a simple logic of the email. The form name naming convention contains email with the flow steps of being. Okay, cool. Now I'm capturing all of that, all of that form fill, data. All the everybody who's coming through a form, I'm capturing that data.
+
+00:09:38:45 - 00:10:02:36
+不明
+They're qualifying for one or the other triggers, you know, trigger or, triggers operate or, situations. Right. It's a person is created or they fill out the form with the flows. That being that I'm requesting campaigns, everything I do for constant recurring, requests, campaigns or run times, I'm always using request campaigns to do it.
+
+00:10:02:41 - 00:10:20:36
+不明
+And just the rule of five is preference should only be done at one spot in your system. And it usually should only be done in the administrative workspace. Right. Because if you have lots of users in your system, you want to make sure that you protect these compliance frameworks at all cost. Because if those get disrupted, it can disrupt your entire system.
+
+00:10:20:36 - 00:10:40:02
+不明
+It can be really, really problematic. Right? So you want to make sure that you you as the primary global ops provider, preserver is the ability to maintain and make sure these flows are constantly, always doing what they're supposed to be doing. So the logic of a request campaign, a lot of people will know how to build a request campaign.
+
+00:10:40:02 - 00:11:02:18
+不明
+But if you don't, I'm going to show you real quick is that a request campaign has a limitation that it has to be in the workspace where the request is being made. So I can't make a request campaign or a quick request to a campaign across a workspace. I actually have to pull data in in order for that data to, successfully run through the various workflows that I need.
+
+00:11:02:29 - 00:11:38:23
+不明
+And it has to be in the administrative workspace in order to do it. And then I can distribute outbound based on my partitions and other work, workspace logic, depending on how complex your Marketo system is. Right. But with the idea that if I have constant run times with preferences, meaning people are always constantly getting assigned new preferences or running through different preference containers, the request campaign is basically is the entire grouping of all of those different flows that I want to constantly be running, and rerunning against all the different people who qualify.
+
+00:11:38:32 - 00:11:55:27
+不明
+So instead of having it in multiple a multitude of places, I have it in one spot and I can be very controlled in how I distribute, these different preference types. It's very, very effective. And it also allows me to handle troubleshooting in a much easier way. As you can see to the right, I have a positive and a negative.
+
+00:11:55:27 - 00:12:18:16
+不明
+I always like to show negative being unsubscribe, and it allows me to quickly and easily call in these request campaigns when I need to call them in my various other programs. And the way that I'm running my different workflows, just allows me to quickly call to things without having to, you know, make Marketo search through an entire database of campaigns in order to find what they need to find.
+
+00:12:18:21 - 00:12:38:42
+不明
+This allows me to easily name and explain, you know, without having to click on it. What I expect this campaign to do. That's how I do things. I like to make things nice and, simplified with the ability to visually know without having to click through things what this campaign is actually designed to do.
+
+00:12:38:47 - 00:13:05:18
+不明
+So data encapsulation for forms compliance, I like to call it also the singularity data stream. That's what we're creating, right? One data point can create curated targeting with good strategy. In this case, I have my preferences of e-mail communications being true, and the opt in date was this time with the person went through this particular campaign. But I also have a negative, which is my preference center where I'm handling Unsubscribes unsubscribe date system date time.
+
+00:13:05:18 - 00:13:26:14
+不明
+Unsubscribe reason is from preference center, which is what I always have. People have to go through in order to unsubscribe. And then I make sure that those values are all cleared out to enable and show that, you know, this person went through the things at the time, and they unsubscribe. So therefore email communications false. And then email commit email communication state is null meaning they're not subscribed.
+
+00:13:26:14 - 00:13:48:06
+不明
+And they also have the unsubscribed as true. So that actually will allow Marketo to block that person from receiving marketing emails. It's built in as a system level constraint in, Marketo campaigns. So very, very good to know that. But the primary benefit of all of this is that I'm able to bottleneck critical data in my system.
+
+00:13:48:06 - 00:14:20:45
+不明
+I have less forms I'm able to easily reuse, and I'm able to easily control my data flows, web form fill outs. At the top level. It goes into program trigger level membership and different automated emails that go out. And this is for native forms. With the Global Ops campaign always listening for, you know, that web form out with the trigger with the request campaign going, you know, to the various request campaigns that I needed to go to email communications, email communication, opt in, date system, date, time, all the various things that you want and your email and your preferences can be a multitude of things.
+
+00:14:20:45 - 00:14:36:17
+不明
+This is just an example, right? But with the idea that once it's all done, I'm able to store it in my available data pool with static in my static list. If that's how you want to do it or you want to use, you know, smartly, it's up to you. But I have the idea that I've now created a new data stream, which is the compliance data stream.
+
+00:14:36:26 - 00:14:57:46
+不明
+And so all of my other data that's coming through, if I merge it into this one compliant stream, then I have a singularity data stream. Omnichannel Marketo compliance data stream. There you go. So let's go through global list imports. Global list imports. Not super tough person is created through a list import. We want to be able to manage and process them.
+
+00:14:57:51 - 00:15:16:42
+不明
+If the person already exists in the list import, then we can also run them through there as well. But with the flow of steps that it's conditional based logic, based off of the data that's coming in through the Excel map, your Excel spreadsheet, the fields that trigger these campaigns to Maine can maintain consistent compliance and workflow management.
+
+00:15:16:47 - 00:15:34:43
+不明
+This allows me to control everything that's coming in that might be happening outside of my vision. So it allows for my marketers to successfully complete the tasks that they need to do, while also maintaining the compliance on these records. It's a win win scenario for both. I don't have to manage it, and if it's taught correctly, key words taught correctly, right?
+
+00:15:34:43 - 00:15:51:19
+不明
+If I train it correctly, then I should be able to get my marketers, my field marketers, to be able to do the things that they need to do, upload the data they need to upload and have the success they need to have, and apply the consents, based off of compliance, the capture at the event or whatever.
+
+00:15:51:21 - 00:16:13:24
+不明
+You know, the generating that list, that's a good way to do it. Now let's jump into the Web Service API. So web service APIs are a little bit more complicated. This one is challenging right. But if a business is able to solve this particular issue, it gives an ultimate ability and agility to solving a lot of different runtime issues that a big company would face.
+
+00:16:13:29 - 00:16:37:42
+不明
+It's why there's actual businesses that are dedicated to solving just this issue, which is pipeline integration. Right? But the big thing is, is that if companies that solve this problem in marketing, they understand one key element to their data intake, and that is that automation is absolutely mandatory. Not solving for this creates a dependency of manual list up it list import processing.
+
+00:16:37:47 - 00:17:01:04
+不明
+And that's never good. And that basically means that every single day I have to process a list that's being sent from a vendor. I'll process that list. I'll make sure it has all the things that I need to have, and I'll basically rinse and repeat that process every single day until the campaign runs its cycle. That doesn't sound like any financial and sound like fun to you, and we definitely don't want to be doing that right.
+
+00:17:01:04 - 00:17:23:54
+不明
+And it is actually the difference between a Mops team being proactive versus a Mops team being reactive. I'm reactive to all the things that are happening, and I don't really have time to be proactive versus if I automate the things. Now, I don't have to worry about these workflows and I can be proactive towards my roadmap. So the singularity data stream, when it comes to the API, right?
+
+00:17:23:54 - 00:17:55:30
+不明
+I use it. Understanding the Web Service API is, oh, you need to have a really good understanding of APIs and, and APIs. Now, that is the most important thing as a marketer, you know, practitioner and understanding, your native native integration isn't always going to work for Marketo. Forms aren't always going to be available. But if you're trying to get data from another source and you have developers who are able to do it, understanding how they could build these APIs into your Marketo instance can save you a lot of issues.
+
+00:17:55:34 - 00:18:18:01
+不明
+And the better that you are at it, the more clean your data will become. So highly recommend people spend that time to understand how APIs function. Because it will save you a tremendous amount of time downstream. But when I'm pulling data in, I and we get all those things done, I'm able to then pull this data into what's called the Marketo API Data Processing Hub.
+
+00:18:18:06 - 00:18:43:24
+不明
+And what that does is allows me to create layers in Marketo. And that's super important because if I have an API gone wild scenario, right, where only APIs are going in and I'm not controlling any of the data, then I don't really actually have the ability to curate the journey for that customer. But if I follow this route that I'm actually able to handle the import process, the data through the compliance, the necessary compliance that I needed to follow.
+
+00:18:43:24 - 00:19:04:02
+不明
+But I'm also then able to send that to the program that I need it to go to in order to automate the program membership and all the various other elements of requirements that I might need for analytics. Right. And if I'm able to, you know, automate these cloud deliveries and right attribution, I'm able to highly control my lead sources and I'm able to control the data.
+
+00:19:04:04 - 00:19:25:22
+不明
+Right. So if I use this program, I could send them into a nurture stream. I could add them to a program, I could activate other triggers, I could send them down a crazy long, list of different, resources and assets that I needed, that I need that person to get, you know, then I need them to get right, drip nurture or different types of nurture campaigns.
+
+00:19:25:27 - 00:19:54:23
+不明
+I now have the ability to do that, and that's really, really important. But another big piece to this is that if the customer data is going to travel right, and the expected destination has to be reached, in order for me to have success with compliance and also for the program source. For how I want them to receive their automated emails based off of form fields or other, you know, types of requests that may or different types of use cases that you might run into.
+
+00:19:54:28 - 00:20:20:02
+不明
+But I now have the ability to be confident in what I'm doing, and I know that it's going to reach the destination that it needs to reach. So that's really important to understand. But then the next thing is, is that when I'm using web service APIs, I need to understand what is the power of deduplication, right? Marketo lead ID is the best lookup method for managing deduplication and lookup, when creating records via the API.
+
+00:20:20:07 - 00:20:41:57
+不明
+If you don't do this correctly, you can create a massive problem of duplicates and it can be very problematic. But if you have the ability to have the Marketo lead ID, you know, as data is being pulled in, and it's a person that already exists and this other system already knows who that person is, then it's going to actually write the attribution into that record as opposed to creating a new person.
+
+00:20:42:12 - 00:21:05:10
+不明
+And that's important for the deduplication elements of what you want to focus on. But once data is controlled and I do it all correctly, then I'm able to create a singularity data stream with my web service APIs that go through my Marketo API data processing hub. And what ends up happening is that now that I can process that, I'm able to manage that data in a more automated way.
+
+00:21:05:16 - 00:21:23:10
+不明
+And how I do that through my API data processing hub logic is I have a person is created or data value change. You've noticed that there is definitely a pattern here to how I do things. Either person is created brand new in the system and I want them to do this thing. Or there's a data value change that happens and on a person that already exists.
+
+00:21:23:10 - 00:21:41:17
+不明
+But I'm still accounting for them being able to qualify for this campaign and qualify for all the flow steps and the, you know, requests, the compliance campaigns for preferences that I need. If they already have the preferences, that's fine. Marketo will skip, you know, signing them the preferences, it will overwrite anything. It just skip seven says.
+
+00:21:41:17 - 00:21:59:32
+不明
+Yep, the values are already there. We don't need to. We don't need to write it down. They'll be skipped. So that's how I handle it. And then I send the request campaigns. And that's how I branch off my data. Right. So continue with the singularity data stream. Here's a use case that we used. I had an automated third party consent that was being captured.
+
+00:21:59:44 - 00:22:16:56
+不明
+I needed them to send. They didn't want to use native Marketo form. Okay. That's fine. We had developers on that side and I had developers on my side, and we needed to connect all the dots and make sure everything was coming in. Well, it came in through a CSV file upload process, which then was processed by one of my data warehouses.
+
+00:22:17:01 - 00:22:41:23
+不明
+They got the client code secret and munchkin ID that they needed, and they fired the data into Marketo, my Marketo API data processing. I pulled that data in and it created a fork in the road. It split it off to the Marketo program and it split it off to compliance campaigns. Right. So I was able to mark all the campaigns, hit the compliance requirements, and also create the curated journey for the customer by sending them the automated email.
+
+00:22:41:35 - 00:23:01:35
+不明
+And you can see how I broke that down using workflow diagrams to be able to show my leadership what this was actually going to look like without actually having to even open up marketo, right? A lot of people don't really understand Marketo, so it's really important that you know how to create a workflow diagram that shows how Marketo actually functions.
+
+00:23:01:40 - 00:23:31:18
+不明
+I love using draw.io. It's a free service, but I'm also able to use this and say, hey, I can curate this workflow diagram to match the experience that we're looking to match for this customer, and also in order to maintain and hit the compliance. And I, you know, without with being in Marketo for so long, I'm actually able to visualize data workflows, which is a really big proponent for you to get very good at Marketo, something I recommend understand how activity is written to a log.
+
+00:23:31:31 - 00:23:51:37
+不明
+Understand how that log moves in a sequential order, and then once you understand those things, then you can be able to operationalize that logic in the way that I've showed you through this, you know, workflow diagram. You can build these however you want, but I highly recommend you get good at them because it's great for becoming much, much better at Marketo.
+
+00:23:51:42 - 00:24:18:02
+不明
+So the, you know, API automation when you want to think about it. In the simplest forms, it's basically a static list or a an Excel list that's being automated, to a particular cloud delivery location with the data mapped in. And those fields are mapped in by the API name of the field that lives in Marketo. It's not the friendly name, it's the API name that you need to have on that file and how you're coding it.
+
+00:24:18:17 - 00:24:37:32
+不明
+And when you do all of those things correctly, it allows for me to write additional attribution like the person source or lead source in to the file. And so when the person is created or is mapped to, then we know that that data value is changing. My trigger campaigns will fire, the compliance will happen, the split in the road will happen.
+
+00:24:37:32 - 00:24:53:58
+不明
+All the things that I expect, and I'm able to test all of that right very easily. I can test it. I know that it's going to do what I want it to do, right? We're doing all this throughput. I can see the results directly in Marketo as it moves through.
+
+00:24:54:02 - 00:25:20:19
+不明
+All right. So when we go through it right. And we look at okay, how did I actually create that fork in the road I'm going to explain it. So at the program level for my Marketo Data API processing hub I have a smart list that's doing, you know, it's listening for people who come in. And I have a Add member to the target program in my workspace that I'm looking to add to.
+
+00:25:20:19 - 00:25:38:07
+不明
+Right with the idea that program status is my change trigger, which is a trigger available in smart lists. And I'm saying old status, they're not a member. And my new status, they become a member. Now, I've been able to activate that Marketo program and run people down the automated cycles and journeys that I need them to run down.
+
+00:25:38:12 - 00:26:05:54
+不明
+Right. And I'm able to back up all the data, do all the things, stamp all the compliance, pass all the data to my one trust instance. And there you go. And that maps to all the compliance requirements that I face at Prudential. And then, you know, once I'm able to add those Marketo programs and then able to send the email, change the program status and, you know, capture all the analytics that I want based on the channel and how people are coming in, therefore, handling my web service APIs.
+
+00:26:05:59 - 00:26:22:50
+不明
+So let's jump into the Salesforce data flow. Right. So Global Ops Salesforce data flow was was a tough one because we had a lot of data coming in from Salesforce, and I needed to be able to figure out, okay, how what are all the various channels, all the different channels and person sources or lead sources that are coming into market?
+
+00:26:22:56 - 00:26:48:33
+不明
+How do I how do I understand that? Right. So as I continue to audit the system, I use my, person, my people performance report to use custom columns, and this is how I did it. So custom columns are really, really cool because it's a it's a smart list that gives you the ability to expand an analytics report for people performance report in a big way.
+
+00:26:48:38 - 00:27:14:53
+不明
+So how I did it here is I created my smart list. Or actually, my coworker created this smart list. And then, we are able to pull those smart lists through custom columns in the analytics report. And then the output was that I was able to see all of my group by person sources by the the top level channel, which is my original source type, which is your top basically your top level channel of how data enters in the system.
+
+00:27:15:06 - 00:27:37:40
+不明
+And then I'm able to create my pipes like I showed you, before. Right. And then I now I'm able to create an analytics report that actually gives me the distributions of how each channel is performing without actually having to do anything. It's an automated report that comes to me every day, and I'm able to view and see, okay, how many list imports, how many form fields that I have, how many days, how many data points sent over from my Salesforce instance.
+
+00:27:37:47 - 00:27:56:36
+不明
+I'm able to see all that I'm able to manage and monitor at all. And that's super important because as a global ops practitioner, right. And somebody who's obsessed with automation, if I don't understand these things and how do I manage this data, you can't. Right. It's impossible. So super important. Really cool way to build, people performance report using custom columns.
+
+00:27:56:41 - 00:28:17:37
+不明
+I highly recommend you test this and understand it. It's super, critical for being able to understand analytics. So the Salesforce data flow is an interesting way. So as we have this quota that we can't go over 12 million records across 12 different instances of Marketo. You know, we got to make sure that we're adhering to that quota.
+
+00:28:17:37 - 00:28:42:55
+不明
+So anybody who came in from Salesforce, I need to basically delete them who didn't have an email address. If you don't have an email address and you come in from Salesforce, I can't really utilize the data. It's taking up room. I'm going to delete you. You know, I'm sorry ahead of time. So that's what I do. But once I was able to get through all of that, I created what's called the Person Resource Mapper, which then had this general idea for my person source mapping, from Salesforce.
+
+00:28:43:00 - 00:29:02:15
+不明
+And I'm able to then look at my Salesforce data flow, which is my source type is Salesforce.com. And my person source is all my target certain. You know, sources that are coming in that was given to me by my person source report. Right. And because of those things, I'm able to create my mapping and work backwards, from outside in.
+
+00:29:02:15 - 00:29:16:59
+不明
+Right. I'm working from here's the end of all the different values that are coming in. And as I continue to build, I need to make sure I separate all of those different channels and how they're coming in, and then I can distribute them however I need to, based off of the fact that I now control that data. Right.
+
+00:29:17:06 - 00:29:33:54
+不明
+So now all of the data is in one spot. I have a marketing seed list that I can activate, and I can do all the things that I need to do and create all the reports and activate and send emails and do all the things that I want in a compliant, cohesive way that doesn't cause all of this bloat and confusion and difficulty and management.
+
+00:29:34:09 - 00:29:56:57
+不明
+It's all consolidated data hygiene is all there. All the things that I'm looking for in order to be successful. So that's pretty fun. So let's talk about what it means to incorporate AP. So AP is an interesting is an interesting tool right. It's very, very effective. And what it does, I like to think of it as my brain, my system, my, my data brain.
+
+00:29:56:57 - 00:30:20:26
+不明
+Right. That I utilize it allows me to create visibility for Marketo, utilize all of its various API intake, opportunities that it makes available. Right. I can connect to other databases that Marketo couldn't connect to. Marketo is very like, cut and dry. I can either send data out or I can take data in. I can't really go into another platform, look to see if it has the things and pull it back.
+
+00:30:20:35 - 00:30:38:06
+不明
+Marketo doesn't do that very well, right? So I need to. What I need to do is basically follow all the things, in order to, you know, consolidate my channels like you saw. And once I get everything into my mail, the data pool, guess what? API now has the ability to do two very, very important things. It can read static list membership.
+
+00:30:38:14 - 00:30:54:18
+不明
+It can also lead program membership. Those are two critical things because they can pull data out of Marketo. I can't send it to AP, but AP can pull it out of Marketo and create those profiles. All I need to do is provide the static list ID to AP, and then they can read that data. That's literally all it is.
+
+00:30:54:27 - 00:31:14:38
+不明
+That's all it takes. And then once you have that Marketo lead ID and AP and AP can curate and create those segment lists in Marketo, now you have a very effective mechanism that allows you to create this really good tracking. So thank you. I hope you guys all enjoyed that. Let's look at some key takeaways from this project.
+
+00:31:14:42 - 00:31:38:56
+不明
+So original source type is the highest level of entry for Marketo. Every person entering the system needs to have a lead source. Omnichannel is broken down by the original source type. And once that's identified, you can build encapsulating workflows. Data encapsulation is critical to understanding and makes targeting workflow management a breeze. When you build it the right way, you always want to think, ops, how can I solve this at a global perspective as opposed to a program level perspective?
+
+00:31:39:00 - 00:31:57:40
+不明
+And it goes on from there. If you can solve it in layers, that it'll make your workflows a lot easier to manage. Common recurring runtimes, for preferences and other various things that you might need to run are great for request campaigns. Learn how to build them, utilize them. They are amazing. Learn how to visualize the data flow and activity logging.
+
+00:31:57:40 - 00:32:18:17
+不明
+When you can visualize how something flows through Marketo, you become very, very good at using Marketo. And create your compliance data stream that auto encapsulates your data and allows you to pull in all of that. All of that data without having to go through individual, individual values. Right. And do all those things. And if you do all of this right, this is my motto.
+
+00:32:18:17 - 00:32:24:41
+不明
+You sleep better at night. That's the key.
+
+00:32:24:46 - 00:32:39:10
+不明
+Right. And then obviously, the last couple of things limit the number of resources and temple ties, temple ties, temple ties. Thank you all. And you can find me on LinkedIn. Thank you for listening.
+
+00:32:39:15 - 00:32:40:14
+不明
+To.
+

@@ -1,0 +1,436 @@
+00:00:00:50 - 00:00:28:45
+不明
+Welcome to session 507. Hopefully you're in the right place. We're going to talk about data collaboration. And share a really awesome success story with Altera 8560 and NBC universal. And we know we're like definitely between you and Happy Hours and a lot of fun. But I promise it's going to be a great session. And we, want to leave you with some actionable next steps so that you can think about data collaboration for your business.
+
+00:00:28:49 - 00:00:52:48
+不明
+Before we get into the content for today, can I get a quick show of hands of who has tried a clean room or a data collaboration solution? Or is thinking about it? Okay. Okay, great. Awesome. So the the thing, to keep in mind is, even if you didn't raise your hand today, some form of data collaboration is probably happening at your organization.
+
+00:00:52:53 - 00:01:19:12
+不明
+It could be your partnerships team. That does co-marketing with the brand partners that you worked with. Maybe it's your media buyers who have direct buying relationships with some of the publishers that you work with. So for the context of today, we're going to focus on data collaboration, for marketing and specifically the opportunity for brands to work with publishers to collaborate and drive better results for paid media.
+
+00:01:19:17 - 00:01:48:06
+不明
+So better audience targeting and better, measurement after you run a campaign. So we'll we'll, work to leave you with, a few key takeaways at the end of this session. We're going to talk to you about why data collaboration should be a strategic levers as part of your larger audience strategy. We'll talk to you about the opportunity for data collaboration in the connected TV space, specifically, which is one of the fastest growing channels today.
+
+00:01:48:10 - 00:02:11:42
+不明
+Mike from NBC, who is going to cover that? Then Miriam and Kevin are going to come up and talk to you about how they executed a collaboration with Nbcuniversal. For Altera and drove business value and drove real business outcomes for a key campaign. And then, like I mentioned, we'll leave you with some, recommendation plans and ideas if you want to adopt collaboration for your business.
+
+00:02:11:47 - 00:02:33:58
+不明
+So just, to do a quick run of ventures. I'm Lori Mishra, product marketing for Adobe, real time CDP and real time CDP collaboration. And then I'll let my, co-presenter. So I'm really excited to have with me here behind me here. Introduce themselves. Hi, everyone. My name is Mike Levin. I'm vice president of advanced products and activation at NBC.
+
+00:02:34:03 - 00:02:55:34
+不明
+I oversee our suite of audience targeting capabilities in the infrastructure that sits behind it. I've been at NBC this round. I'll get into that where I was before, for seven years. Prior to that, I worked at a few other companies, but a little bit of trivia. I started as an NBC page. So if anyone is in New York and wants a tour, I don't know that I'm allowed to do it, but I'm happy to help out.
+
+00:02:55:39 - 00:03:15:49
+不明
+Before I know, this is my introduction, but I did want to. I recognize some of the folks in the crowd who helped collaborate and make this possible on the NBC side, or James Tyler stuff on, all part of our products, group. So folks. Hi, everyone. I'm Miriam Shakman, director of digital marketing at Paramount Mountain Company, home of the Icon Pass.
+
+00:03:15:54 - 00:03:45:02
+不明
+I'm incredibly fortunate to have been with the company since its formation. Being able to build my team from the ground up and oversee all the Adobe implementations and use cases. I've worked in the leisure, tourism, hospitality and travel vertical under the digital umbrella for the entirety of my career. Overseeing many change in technology. So I couldn't be more excited to share our story with you today.
+
+00:03:45:07 - 00:04:08:20
+不明
+And then I'm Kevin De, the associate director of digital solutions at 8560. I've been working in advertising for about 18 years now. But for the last eight years, I've been focused more on the martech, implementation and utilization, both on client and agency side. Awesome. So what you're hearing, in our speakers introductions, hopefully, is what you're going to hear in the session today.
+
+00:04:08:22 - 00:04:32:12
+不明
+You'll hear the Adobe Perspective on where things are going and where we believe things should evolve into. Then you'll hear the publisher perspective. In terms of the opportunity to showcase the best audiences and first party data for advertisers, and then you'll hear the brand and agency perspective in terms of how they can tap into that first party data to drive better media and drive better outcomes.
+
+00:04:32:16 - 00:04:51:22
+不明
+But before we get into all of that, I'm going to take a quick step back and kind of look at how we got here. So I myself have been in digital marketing in some fashion since 2010, when someone at a party offered me a job building links. So I did that for a long time. And one thing that has been true,
+
+00:04:51:27 - 00:05:12:13
+不明
+And is this true, truer and true every year is finding, growing and measuring the impact of the right audiences. For our businesses is harder than ever. And it's hard because of some of the reasons that you see on the slide there. Right. As an industry, we've been dealing with signal loss in some form or fashion for a few years.
+
+00:05:12:18 - 00:05:32:34
+不明
+We live in the cookie ish future now, but even though cookies are around, and even while they were around in full force, they were never really the best way to reach the right people that you needed to for your business. On top of that, we're dealing with data privacy as a as a force. That is both an expectation from consumers, right?
+
+00:05:32:34 - 00:06:01:18
+不明
+That the data you have on them is collected with good reason and that it is being used appropriately. And then also from a regulators perspective, right. That pressures that pressure on businesses is not going away anytime soon. And then lastly, of course, given these forces, it's no surprise that there is a lot of complicated technology promising but complicated technology that's available to try to help us solve this problem of finding and reaching the right people.
+
+00:06:01:22 - 00:06:23:17
+不明
+And what that really means is, you know, especially if you're responsible for martech or it at your organization is that maybe more vendors for you to keep track of, more integrations for you to manage, and maintain for your business? But one of the best things about being in this industry is we're a pretty resilient bunch, right? We come to Adobe Summit every year.
+
+00:06:23:22 - 00:06:42:37
+不明
+We leave with great ideas of, better and new ways of doing things. So when we talk to some of our customers at Adobe, you know, real time CDP customers or otherwise, the folks that are kind of ahead of the curve are doing a few things that, are really standing out to us as the things to be thinking about.
+
+00:06:42:37 - 00:07:04:32
+不明
+Right? If you're if you're kind of trying to figure out, like, where do I go from here to make sure I'm talking to the right people? The first trend is not going to be a surprise, given it's a CDP session is first party data. We ran a study last year, and what we learned is that 78% of companies that we surveyed said that they already had a CDP.
+
+00:07:04:37 - 00:07:25:27
+不明
+And over half of them are already using that CDP to activate first party data. That trend is not, of course, not going to go away anytime soon. Right? Because there's no replacement for having a trusted relationship with your customer versus trying to maybe guess who they are and give them, the offer that you think that they want.
+
+00:07:25:31 - 00:07:56:19
+不明
+The second trend here related to first party data is data collaboration, which is what we're going to dig into today. So what is the other great first party data that your partners have, that your publishers have that the other brands that you work with have that you can tap into? In a study that Forrester did a few months ago, what they found is that 59% of organizations are looking to collaborate with other organizations that have more first party data than than they do.
+
+00:07:56:24 - 00:08:18:42
+不明
+And 43%, are looking to partner with organizations that have different first party data than they do. So, put simply, who do you know that I know so I can talk to them better? Because now I have more signals. And who do you know that I don't know that maybe I should get to know. Right. So that's the opportunity that we're seeing with data collaboration, first party data.
+
+00:08:18:46 - 00:08:49:39
+不明
+And then to solve this, there is new technology that's emerging in the form of data clean rooms, which, you know, seems like about maybe half the audience has done something with clean rooms in the in the recent past. So 66% of folks that IAB surveyed a little while ago said that, data, data and ad professionals said that they have started to adopt clean rooms in some form or fashion to, deal with the pressures of privacy regulations and signal loss.
+
+00:08:49:44 - 00:09:34:05
+不明
+And this makes a lot of sense. Data clean rooms for, especially for those folks who have tried it are pretty promising technology, right. Because what they're bringing to marketers and businesses in a marketing context is the promise of privacy preserving technology. So you can tap into those insights, that others have about customers that you want to engage without exposing the underlying customer data to each other, and that from a business perspective, allows you to unlock things like new insights, helps you build better audiences, helps you think about the right channels to engage your audiences, and, start to connect the dots across the customer journey that may be missing because of signal loss.
+
+00:09:34:10 - 00:09:54:12
+不明
+And just to click into this a little bit further, specifically, what they bring to the table is a couple different things. The first is the ability to obfuscate data. So to call yourself a clean room in any form or fashion, you have to be able to provide aggregate insights that, don't expose who an individual person is. That might be in an audience.
+
+00:09:54:23 - 00:10:17:49
+不明
+So that's a, that's table stakes and that's given. So there's really great, privacy preserving technologies that have evolved over the last few years that many of you may be familiar with that allow, data clean room vendors to, to offer this. The second is, controlling the movement of data. Right. In the last few years, I think we've all heard the term zero data copy.
+
+00:10:17:54 - 00:10:41:17
+不明
+Minimizing data movement makes a ton of sense from a privacy perspective, right? It doesn't feel great to be shipping your one of your most valuable assets and first party data across systems and worrying about what's happening with that data. So data clean rooms, have the ability to reduce the movement of data, assuming both parties are, you know, utilizing kind of the same infrastructure.
+
+00:10:41:22 - 00:11:03:19
+不明
+And the third thing that they bring is protection of your proprietary data. Right? Sort of related to the last point that I just made. So if you are, say, a brand and you're working with somebody to, run a campaign and you want to run a measurement report, it doesn't feel great to have to ship, you know, your entire universe, right?
+
+00:11:03:19 - 00:11:25:30
+不明
+Of conversion data or measurement data for a certain period. Ideally, you're only shipping over what you exactly need to, and utilizing that in a clean room because hopefully when you do ship data over, they're using it the right way, but you don't know for sure. So clean rooms have evolved to help with that challenge as well. So this is super promising.
+
+00:11:25:39 - 00:11:59:39
+不明
+And, you know, we're kind of going to talk to you about how Adobe's thinking about it with real time CDP collaboration. But in talking to our customers and kind of listening to the market and the surveys and such that we have done, it became clear that while there's a ton of opportunity, it's not it's not all roses. There's a lot of challenges that our customers come across when they're trying to scale data collaboration from like a super cool science experiment that's happening in one part of your company to a real part of your holistic customer data strategy.
+
+00:11:59:43 - 00:12:24:07
+不明
+And no shade, by the way, I won the science fair in seventh grade. So love science. So the things that keep coming up for our customers when we talk about what's challenging, why why isn't this part of your holistic data strategy? It always starts with it's disconnected from everything else I'm doing. I'm often having to spin up a data clean room that sits separately from where I manage the rest of my customer data.
+
+00:12:24:12 - 00:12:56:08
+不明
+So what that means is a from a tech perspective, that's kind of annoying. You have to now maintain a totally separate thing. Be from a customer perspective. You're serving your customer a pretty disjointed experience, right? Maybe you're doing some upper funnel acquisition with publishers, using a clean room, but maybe the rest of your activation is happening through a CDP, so you kind of lose track of who saw what at what point, and then what ultimately, led them to become a customer of mine.
+
+00:12:56:13 - 00:13:21:40
+不明
+The second thing that, is a challenge for a lot of our customer in terms of scaling, this is data. Collaboration today is slow, and it's complicated to use for a marketing use case. So it often requires folks with technical chops who have a lot on their plate. So you might need to know how to write a SQL query, or you might need to know a guy who knows how to write a SQL query to get the insights that you need to run a campaign.
+
+00:13:21:45 - 00:13:46:25
+不明
+And if you think about it from a marketing and or advertising perspective, having to wait a couple of days or maybe weeks to get what you need means you're probably missing out on engaging your audiences in moments that mattered. As part of their journey with you. The third thing that comes up with their customers that gets in the way of scaling this is limited interoperability.
+
+00:13:46:30 - 00:14:16:52
+不明
+And what I mean by that word is, as much as we wish, all companies will never be on the same cloud, everyone's not going to work with the same data partner. Everyone's not going to work with the same identity partner. That makes sense. There's different options in the market depending on your business objectives, but from a collaboration perspective, what becomes challenging is that incongruous tech stack that two parties might be coming into a collaboration with gets in the way, and ultimately probably means that someone has to move their data.
+
+00:14:16:57 - 00:14:39:05
+不明
+Which brings me to my fourth point is you're opening up maybe some risk of data leakage here, right? Because you're moving data and you're involving your legal teams, your privacy teams and security teams. And of course, that delays any interesting marketing and advertising that you might be trying to do. So this is all of the context that we took into account.
+
+00:14:39:05 - 00:15:03:18
+不明
+This is all of the market feedback at Adobe that we took into account. And last summit, we announced real time CDP collaboration, which actually just became generally available in the US market. As of a month ago. So with this solution, what we're bringing to market is a no code, radically simple, interoperable and privacy centric data collaboration solution.
+
+00:15:03:23 - 00:15:35:22
+不明
+This is built right into the Adobe CDP. But the good news is to really pay off that value of interoperability doesn't matter if you're not a CDP customer. So if you have your data residing in a data warehouse, in a, in a, you know, separate cloud storage environment, we have the ability to accommodate brands, publishers, owners, brands and other brands who want to work with each other to bring their data into a common format and execute, business use cases to discover, activate and measure audiences.
+
+00:15:35:27 - 00:16:07:05
+不明
+So in this environment, what you'll be able to do is execute overlaps. You'll be able to expand that with identity or data partners that you want to work with. Activate those audiences to channels like connect to TV, which, Mike, we'll talk to you about in a second. Retail media networks, eventually DSPs, and then close the loop by measuring the, impact of the campaigns that you ran and all of this, again, you know, to the like, you can't call yourself a collaboration solution if you don't have this right.
+
+00:16:07:10 - 00:16:36:02
+不明
+All of this is underpinned by a foundation of privacy centric technology. If you're interested in learning more about that piece, we are, in the process of filing patents about how we've innovated on the privacy. I'm happy to talk to you about that afterwards. But what we're doing is moving data into a common format and, obfuscating that data in A to an additional layer that is not available in other clean rooms today.
+
+00:16:36:07 - 00:16:59:56
+不明
+And like I mentioned, this solution is built right into real time CDP. So as a business, we really think of customer data management as something that needs to include data collaboration as a part of it. It shouldn't sit somewhere else where, you kind of lose track of where you're engaging the customer with collaboration and where you're engaging your customer and the rest of them tactically.
+
+00:16:59:56 - 00:17:24:06
+不明
+What this means is, for real time CDP customers, you have the ability to access the audiences that you've built in that system and the event and behavioral data sets that many of our customers have in that system, and in just a few clicks, make that available in a collaboration environment. Connect with the publishers and partners that you want to work with and start seeing overlap insights.
+
+00:17:24:10 - 00:17:43:28
+不明
+So I'll show you a couple screens just to give you an idea of what the solution looks like. But before you leave Vegas, if you haven't had the chance, stop by the booth. Our, see, our Solutions consulting teams have put together a really awesome demo where you can experience the product by itself or, even, you know, as a part of CDP.
+
+00:17:43:28 - 00:18:07:05
+不明
+So definitely step by it. They also have speakers, Bluetooth speakers because, you know, I'm sure everybody needs one more speaker. So let's dig into the capabilities really quickly. Right? So the first is the ability to discover and collaborate with, partners that you want to work with in a visual catalog. So this is a visual experience where you can read about who the publisher's partners are that are available in the catalog.
+
+00:18:07:10 - 00:18:28:48
+不明
+What channels do they cover? What is the value of the audiences that they're bringing to the market, and where do they best fit into, you know, into a marketing strategy. And in this catalog, you can discover them, you can connect with them. And we will facilitate that privacy safe handshake that needs to happen between two organizations for collaborations to start.
+
+00:18:28:53 - 00:18:52:35
+不明
+Then you get to look at the insights. So both parties, onboard their audiences, be it from CDP or a data source of their choice and because of the underlying technology that I was mentioning, we're able to give you, overlap insights in real time. So say you uploaded ten audiences and the other party uploaded 20. That's a lot of different combinations of overlaps.
+
+00:18:52:35 - 00:19:19:55
+不明
+Right. And typically you're probably writing different SQL queries for each combination with the tech that we have built, you can literally from a, from a dropdown, select the audience that you want to see and the audience that the other party has made available, and immediately see the overlap between your universe and their universe. Once you've taken those insights in, we then make activation really simple.
+
+00:19:20:07 - 00:19:44:31
+不明
+So, Mike and, Miriam are going to talk to you about this in a second, but we have the ability to activate to, connect it TV to retail media. And over time, we'll be adding more and more places for you to engage your audiences. And then lastly, once you've done all that, you can measure the impact of the campaigns that you ran with your collaborator in this environment.
+
+00:19:44:36 - 00:20:08:15
+不明
+We're starting you off with, essential summary statistics like reach frequency, how different placements are performing, and very soon, what we're going to make available is the ability to bring together your behavioral and conversion data, overlay it with the other parties exposure data, and start to look at really interesting outcomes based attribution. And for the campaign that you ran.
+
+00:20:08:20 - 00:20:35:08
+不明
+So as you can tell, I'm pretty psyched about this. I work here, of course, I'm psyched about this. And now I would love to invite Mike to give you his perspective and Nbcu's perspective on collaboration in the context of connected TV. Great. Thank you so much. So NBC is helping marketers evolve to the TV of today. And from a product strategy perspective, we believe one of the most beneficial ways to do that is through data collaboration.
+
+00:20:35:13 - 00:20:55:33
+不明
+So if I take a step back from an NBC perspective, data collaboration was really kind of two strategies happening at one time. At one point, it was really about replacing, the pixel right, making it, making that data more accurate, providing better data back to measurement providers. On the other side, there was the growth and advent of first party data on our side when Peacock came on board.
+
+00:20:55:33 - 00:21:26:16
+不明
+Right. And over time, we have identified that bringing those two concepts under one roof leads to limitless creativity for our clients, for our partners, for our advertisers. And it allows us to meet our clients where they are. So whether it's agency, platform, partnerships, integrating directly with agency data, whether it's retail media networks, whether it's a customer data platform like Adobe or measurement and verification vendors, we're able to extend to his audience and measurement capabilities to a number of different clients.
+
+00:21:26:16 - 00:22:01:36
+不明
+And it really shows the power of data, collaboration. I think when you think of a clean room, everyone kind of things privacy right away, but for us it's about getting everyone in one under one roof, so to speak, so we can do a lot of cool stuff together. Some examples of what our kind of feature set within any data collaboration, integration or any partner we work with or our own homegrown solutions, is allowing the ability to unlock self-serve audience insights, which, you know, at a certain point, you know, can get very cumbersome and laborious within a data collaboration environment that's more turnkey and automatic.
+
+00:22:01:40 - 00:22:22:46
+不明
+Activation to Laura's point, being able to get those audiences where they have to go as quickly as possible, and then being able to measure performance within, again, under one roof. So whether that's insights and segmentation, the ability to quickly onboard and activate an audience and to provide measurement and analytics back. And in a few slides we'll get into the impact on onboarding and activation.
+
+00:22:23:00 - 00:22:30:18
+不明
+It has significantly turbocharge our ability to get an audience in-house and out the door.
+
+00:22:30:23 - 00:22:51:50
+不明
+So if I dig a little deeper into the feature set that we focus on or that we strive to make available in any data collaboration, product that we build out, it's the ability to see your audience overlap. Again, these planning activities, happening in real time and self-serve versus kind of a back and forth between us and clients, audience profiling, and the ability to find out the index of your audience.
+
+00:22:51:50 - 00:23:16:10
+不明
+What content does your, audience index against? Again, I mentioned onboarding, but that involves matching, right? So, and it we'll see in a few, few moments. Our match rate with Altera was really, really great through these pipes, using the power of first party data. And then finally in the measurement analytics side, whether that's just basic campaign delivery or reach frequency and attribution.
+
+00:23:16:15 - 00:23:40:48
+不明
+Really the goal between NBCu and Adobe is to power in the moment performance marketing. In CTV, we stand at a really interesting place to do that. From an NBC perspective, that means content, premium content, and what is beneath that or is hidden beneath that is engaged audiences, right? And that's the power of first party data. And world class adtech between NBCu and Adobe.
+
+00:23:40:48 - 00:24:05:22
+不明
+Partnering together allows us to bring all of this to life. We believe that CCTV's a, performance, a full funnel performance vehicle. Whatever your KPI is, we can help you get there through pipes that we've stood up. So how does it work? At a very high level on our side? A customer van. Excuse me? A brand site or a website or app.
+
+00:24:05:27 - 00:24:29:17
+不明
+That data lives within Adobe. It's then overlapped and pushed into our, instance of the CDP. We run overlapping functions, we plan, and then we activate a personalized ad campaign across CTV. And then we return those ad exposures back so you can see performance and potentially optimize your next campaign and spend, it's driving an always on audience strategy.
+
+00:24:29:22 - 00:24:47:51
+不明
+Gone are the days of picking an audience, sending it on its way, and then waiting months and months and months to do something again. We're building the way to fully optimize and see the loop close over and over again. It also, again, as I mentioned, gives increased access points to our clients. So meeting them where they are and it embraces the power of first party data.
+
+00:24:48:05 - 00:25:11:53
+不明
+We've also, through these channels, have produced onboarding time, which is once historically three weeks to get a campaign. Audience campaign up and running and out the door to just a matter of days. We're starting to see greater adoption of first party data across the entire ecosystem, which again, shows the power of data collaboration. And we're able to allow you to measure, your first party data.
+
+00:25:11:58 - 00:25:34:54
+不明
+So just to sum up a bit, data collaboration for NBC allows us to deliver our clients these key benefits, whether it's real time first party data, collaboration and always on performance strategy, being able to stay privacy minded, a personalized ad experience or full funnel measurement. And I'll pass it to and Kevin to, go through a little more.
+
+00:25:34:58 - 00:25:58:28
+不明
+Thanks so much, Mike. So can you really do this? I mean, we did, for most of you that might not know us all, Tara mountain company is a family of 19 iconic year around mountain destinations that welcomes millions of guests each winter. And the Icon Pass, the premier ski and snowboard season pass, featuring 60 plus destinations worldwide.
+
+00:25:58:33 - 00:26:22:39
+不明
+And it just went on sale for next season. Compared to a lot of other companies you'll see on the stages here at summit, we aren't quite what you would call a whale. While we really do try to span our reach, our uphill battle and digital marketing has been and still is vast. Only 4% of the United States skis and even less knows what an icon passes.
+
+00:26:22:44 - 00:26:54:29
+不明
+So it's really keeping a growth mindset that sets us up for success in our endeavors. Selling a dream vacation like skiing might really seem like a hook, line, and sinker of a marketing effort, but the precision that goes into this niche market is something that we've been crafting for years. While it's really easy to see all skiers and snowboarders as the same audience looking for the same experience, when we think of awareness to our customers, it isn't just about ski resorts.
+
+00:26:54:34 - 00:27:16:52
+不明
+It's choosing to take your college friends trip or your family vacation to an all inclusive beach resort or on a cruise. And how we find a segment and speak to our customers is really invaluable when we're competing for that share of wallet in leisure and tourism spending. Once folks know they want to take a ski trip, what's next?
+
+00:27:16:57 - 00:27:52:37
+不明
+Do they know where they're going? Maybe they've never even ski before, but they have some kids interested in approaching the sport that need to drive digital awareness. With months of pre-planning and a short sales timing is really where the bulk of that segmentation happens to garner the reach. Now, the conversion process takes a true push of each value proposition to ensure users are convinced tried and true retail tactics like sending an abandoned cart email for t shirts are really efforts we have to look at with a much finer tooth comb.
+
+00:27:52:42 - 00:28:22:28
+不明
+From all this, we go and we develop our digital architecture. So what does that look like? What the creation of real time CDP. Some years ago we stepped in as early adopters, understanding pretty completely what we needed to do to transform our segmentation tech stack. Now working in such detailed segments, knowing the Who is at the core of the ownership of audience, centralization and creation.
+
+00:28:22:33 - 00:28:50:06
+不明
+We worked meticulously, Kevin and I, to pull the right customer data from all of the sources across our company and unified our first party data in a way that makes audience building and activation incredibly seamless from all the ways, from data mapping to activation across channels. Investing that time in our technology is really what enables our digital marketing strategy.
+
+00:28:50:11 - 00:29:16:55
+不明
+It's things like making data capture and conversion rates actually a company priority, and even attract okay, or allows us to use a compilation of quantitative and qualitative data to define our segments across all of our marketing channels. So much so that we often only build an audience one time for cross channel usage, especially in our outreach channels like media.
+
+00:29:17:00 - 00:29:43:07
+不明
+Now, once we bring them to the website, with those carried attributes and strategy in lockstep, we factor in future behavioral models and pull our guests through that personalized journey tailored just for them, all the way from the outreach into the personalization and conversion. However, as I mentioned before, given the seasonality of our business, time is really often a luxury that we don't have.
+
+00:29:43:12 - 00:30:13:39
+不明
+And part of why we're really always on the lookout for additional opportunities here. So having our key audiences created and mapped out prior to really running any campaigns, we've expanded our use cases to thousands of first party, privacy centric, audience segments, each really meticulously focused on a key value attribute backed up by behavioral value propositions.
+
+00:30:13:44 - 00:30:46:59
+不明
+These business challenges you need to our industry and model make it so we need to absolutely perfect how and when we speak to each customer. And what leads the nuance to this growth in our space is challenging. The established segment playbook and continuously balancing the mix between the known, valuable customers and the prospects, thereby making the space to take risks on fine tuning segmentation, targeting to get more sophisticated.
+
+00:30:47:04 - 00:31:08:17
+不明
+It's really joining these alpha and beta programs with Adobe, and always keeping an open mind to what we have to learn about not only our customers, but our prospects, is what set us up to succeed in our quest for additional opportunity. Here in the data collaboration space.
+
+00:31:08:22 - 00:31:36:20
+不明
+8560 is a close partner with Altera. We work across each of their mountain destinations. This gives us a unique insight and perspective when we help and support them. When it comes to their analytics implementation. How we help support their experience. Optimization program with Adobe Target or how we approach the implementation of CDP. Like Altera, we apply this growth mindset to everything we do.
+
+00:31:36:25 - 00:32:06:25
+不明
+For instance, with our work around paid media, we have these different assumptions and questions. But what's the right answer? There's different ways to approach that. Do we do direct partnerships or do we have our team self-managed placements and targeting the programmatic? You can easily lay in your layer in your first party data. When you go direct, how can you lean into that first party data more based on our research, we might find a partner index as well.
+
+00:32:06:30 - 00:32:28:37
+不明
+But do we have the right target? Is that target or is that media and having an impact on that target with that partner? As we expected? You heard Mike talk about the rise of streaming and CTV. Even our media mix models we run with Altera says we need to buy more media, buy more CTV. But where does that fully fit in Ontario's media mix?
+
+00:32:28:46 - 00:32:50:43
+不明
+Is it a conversion driver? If so, what's the right audience? Is it the renewal audience, Olaf's audience? Or is it more prospect? Now, Lori mentioned they introduced collaboration last year, and I was in the session where they introduced it. I was sitting there listening to, with all these different features while I was there, and a light bulb went off.
+
+00:32:50:43 - 00:32:57:04
+不明
+I had a use case. I could immediately take advantage of this tool.
+
+00:32:57:09 - 00:33:19:19
+不明
+With all tiers core first data subjects, can we leverage collaboration to determine the effectiveness of CTV to drive both conversion or customer retention and acquisition? So you can guarantee right after that presentation, I came up to the stage asking Adobe how we can get ultra in that data.
+
+00:33:19:24 - 00:33:48:43
+不明
+By continuing pestering of Adobe for the last years paid off, we got to be part or Altera part of the data. When we partnered with MQ to target our high value icon past segments and were able to measure direct engagements and incremental conversions across each of those segments, both the lapsed renewal and our prospecting.
+
+00:33:48:48 - 00:34:07:26
+不明
+Whoa! Here we go. Human adventure is everywhere. My fresh founders. Right. See? Really launching ahead. But my views are the best. Give it to me. They turn left, I turn right.
+
+00:34:07:31 - 00:34:33:45
+不明
+And. This, It now. That's why it was what? We ran against our renewal segment, and we had a different creative for each target. We, ran on the campaign. So now I want to kind of take you through the steps we did throughout the beta, to make this all work and execute as our audiences were already in CDP.
+
+00:34:33:50 - 00:35:06:20
+不明
+There's this allowed us to quickly service them into collaboration. We were able to connect with NBCu and share those same audiences. The renewal of the lapsed and the prospecting, and see the overlap of each of those individual segments. We ran the campaign for one month at the end of our, overall flight, and at the end, NBC universal was able to do an incrementality test to determine which one drove the best conversions, and they were able to utilize the conversion data we already had in CDP.
+
+00:35:06:25 - 00:35:13:05
+不明
+So that was a great use of the bay that we were, testing out.
+
+00:35:13:10 - 00:35:42:33
+不明
+What that, Incrementality study showed us is we had a 30% lift conversion rate across each of our core audience segments. Additionally, we have the ability to see who was exposed to the campaign closing that targeting conversion loop across each of our segments. We had a 30% match rate for each of our segments. But most importantly, it really proved to us that we can utilize CTV as a conversion.
+
+00:35:42:37 - 00:36:02:02
+不明
+Driver or across the conversion journey for both customer acquisition and customer retention. As a result, just last week we launched our second campaign with NBC universal using, collaboration.
+
+00:36:02:07 - 00:36:13:03
+不明
+Outside of the season gone,
+
+00:36:13:08 - 00:36:33:30
+不明
+So as Miriam said, this went on sale last week. So make sure you buy your icon pass. But I want to turn it back to Laurie because I wanted to know one more. We've posted her about for the next year to do utilize collaboration even more. Awesome. It's hard to follow that ad, even though I'm, like, very much an inside person, that that makes me want to learn how to ski.
+
+00:36:33:30 - 00:36:53:27
+不明
+Maybe. So Kevin and everybody else, if you're interested in this, we're more than happy to be pestered by people who want to try new things that we're bringing to market. So while you've been at Adobe Summit, you might have seen some of these announcements come through for real time CDP collaboration. So from a roadmap perspective, here's where we're going with the tool.
+
+00:36:53:27 - 00:37:23:45
+不明
+So, you know, if these use cases resonate and you want to start thinking about how you might want to use collaboration for these purposes, come talk to us. Come talk to your account team. So first and foremost, we, will be launching, launching brand to brand collaboration. So say, as an example, there's an airline company and a credit card company, and maybe you want to collaborate to see what your, overlaps are, so you can, run a loyalty campaign and put some interesting offers out there for that audience.
+
+00:37:23:45 - 00:37:45:06
+不明
+Right. So we'll unlock the ability for you to get those audience insights from other brands that you're working with. And, activate to the agreed upon channels as part of those campaigns. The second is, a really interesting one is we're digging into our site, retail and commerce, media use cases, with collaboration and the ability to do measurement there.
+
+00:37:45:10 - 00:38:13:13
+不明
+So, this will allow our customers who are running our immense commerce media networks to work with brands and do interesting things, like maybe run some, advice on connected TV as part of that partnership. The third is, is, was an announcement yesterday is an integration with Amazon Marketing Cloud, which is going to set us, on the path to unlock more walled garden, clean room innovations as well.
+
+00:38:13:28 - 00:38:38:52
+不明
+So you are probably some of you are probably activating two, Amazon ads today. What we're doing here is, bringing to market an integration to their clean room so you can access additional audience insights to plan your buys on Amazon and get additional insights back from a campaign measurement perspective after you, run those campaigns. The fourth is lookalike modeling.
+
+00:38:38:52 - 00:38:57:13
+不明
+So for those of you who are kind of thinking about retargeting is great, but I really want to do prospecting that is right around the corner. So this is the ability to take a seed audience that you might have and prospect, run a lookalike so that you can prospect against your partner's universe of data that they've chosen to make available.
+
+00:38:57:18 - 00:39:17:19
+不明
+So this could be publishers, could be data partners, maybe some of the brands that you want to work with who are open to doing lookalike modeling. And then last but certainly not least, we are available in the US market right now, but we're going to roll out to additional countries. So, if you, run your businesses in any of these countries, definitely come talk to us.
+
+00:39:17:24 - 00:39:47:42
+不明
+We're starting with Australia, New Zealand, Canada and select markets. The rest of this year. And as we bring these things to market, I just want to kind of sum up the core pillars, the core truths that we're going to stick to as a, as a product. Right. And really that is the focus to bring to market something that democratizes data collaboration and helps you make it a true part of your overall audience and customer data management strategy.
+
+00:39:47:47 - 00:40:14:53
+不明
+And we want to do that by bringing to market something that is interoperable, radical, simple and centered on privacy. So first is our focus on bringing martech and ad tech closer together. If you are doing your work already in a system, in an Adobe system to centralize your audiences and behavioral data, it only makes sense to use that data to unlock more use cases without doing repeat work.
+
+00:40:14:58 - 00:40:42:18
+不明
+The second is the user experience. Our product and design teams spent a lot of effort to build, bespoke user experiences for folks who sell media folks to buy media so that they can do the jobs that they need to get done in the in the experience, in a really simple, no code UI. The third is a solution that is going to be agnostic and interoperable today and, and for, for years to come.
+
+00:40:42:23 - 00:41:08:22
+不明
+Because as we know, you are going to work with different data vendors, identity vendors, everyone's going to have a different tech stack. So we're going to continue to focus on making a solution that lets you, interoperate regardless of what technology you all are choosing to use. And then lastly, a focus on privacy and innovating. From an architecture perspective so that you can collaborate without moving any underlying customer or identity data.
+
+00:41:08:24 - 00:41:40:24
+不明
+Keep that data safe. But still, get the benefits of things like real time overlap, insights. So if that sounds interesting to you, and you are kind of thinking like, where do I get started? I think I'm ready to collaborate. Here's a, arguably overly simplistic summary of what it might take to start. But first and foremost, start by thinking about where data collaboration fits into your overall strategy, as a company and where it fits into your overall data strategy.
+
+00:41:40:35 - 00:41:59:48
+不明
+So where does your data live today? What can you do with it? Who do you have to get? Who do you have to work with in your organization to maybe get access to that right data? The second is identify a publisher or brand partner that you want to work with, and establish any legal agreements that need to be established that aren't already in place.
+
+00:41:59:52 - 00:42:26:58
+不明
+I think. I think NBC would be a good one. Yeah, yeah. I thought just throwing it out there. Yeah. Take it or leave it. Yeah. I love it. So once you've identified a publisher such as NBC universal, what you should start thinking about next is defining your key use cases, your campaign objectives and KPIs. I think Kevin and Miriam are a great example of how to best do that.
+
+00:42:26:58 - 00:42:51:27
+不明
+Right. They were very purposeful about not only just setting up their overall data strategy, but identifying a, actionable tactical campaign where they could tap into, the great data from NBC universal. Fourth, execute the campaign, see how it performs. And I would say, I think the thing that you all talked about, about having a test and learn mindset is really important.
+
+00:42:51:32 - 00:43:12:36
+不明
+So see what you learn. Maybe it's a success, maybe it's not a success, but even a failure is a lesson in what you can do next time. And in last, you know, measure that campaign, optimize a campaign, and repeat with another collaborator. If you want to dig into this further again, stop by the booth before you leave Vegas.
+
+00:43:12:41 - 00:43:33:00
+不明
+Tomorrow. And then I have a couple of, sessions I want to recommend as well, that are happening tomorrow. So the first is a, session around audience strategy that you might find interesting if you're sort of thinking, like, I think I need to get my data, house in order before I can think about collaboration.
+
+00:43:33:05 - 00:43:55:21
+不明
+I would check that session out. My colleague Jose is presenting there with one of our products leaders, from the audience, side of things. They'll also have some really cool, again, tech, features in their session around audiences. The second is, if you're ready to get hands on with the solution and test my claim of this being super user friendly.
+
+00:43:55:26 - 00:44:15:32
+不明
+There is a lab tomorrow morning, so check out the lab. I heard there was one today that was a great success. So get your hands on the product or work with some dummy data sets that we're making available. And see for yourself, if that solution makes sense for you. All right. Thank you so much for coming to the session.
+
+00:44:15:32 - 00:44:19:46
+不明
+And thanks for giving us your attention. We'll all be available for any questions. You all have.
+

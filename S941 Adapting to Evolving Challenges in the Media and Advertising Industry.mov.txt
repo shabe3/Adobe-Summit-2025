@@ -1,0 +1,440 @@
+00:00:01:46 - 00:00:41:11
+不明
+Welcome, welcome, welcome. Good afternoon. My name is in De Jong. I'm a principal strategist at Adobe. Myself and Angelo since joined me up on stage of flowing all the way in from, Sydney, Australia, where I'm sure, like many of you, we enjoy, moisture in the air. But, yeah, it's insane. After a few days, in this session where we're going to start to explore, the key challenges we have across, media and entertainment and in the room today, I was also informed, the, the variety of industries we have in the audience.
+
+00:00:41:11 - 00:01:17:10
+不明
+And I actually took a note to kind of share with you what those works. I found the diversity really interesting. So reach out. And if you if I list one of your, industries, feel free to woo hoo and clap and share. And the loudest industry gets, 100 points or something. Okay, so in the room we have airlines, retail banking, insurance, wealth management, telcos, high tech charities, higher education, consumer goods, sporting organizations, public sector organizations, retail media networks, retail media networks, aspiring writer.
+
+00:01:17:15 - 00:01:55:39
+不明
+The list goes on. With all due respect, I'm not sure if anyone deserves that 100 points, but I get a few days in Vegas, halfway through a conference. We also have a really interesting mix of, roles in the room from executives, marketers, data science, privacy, I.T, product management. Again, the list goes on. And I'm not surprised, as we know that each of these industries and roles have been trying to solve for and and adapt to the evolving challenges and opportunities in the media and advertising space.
+
+00:01:55:44 - 00:02:38:06
+不明
+So what are these challenges? One of the first challenges is something that may be referred to as signal loss, or the increased restrictions around the data that we can, consume as an organization. Now, stats vary, but consider now around 70% of the internet no longer supports third party cookies. Around 40% of Chrome users are opting out. Around 50 to 60% of Apple users are asking apps across all devices to Do not track, and we've got an adoption rate of around 50 to 70% of WebKit based browsers, which essentially deploy, intelligent tracking prevention.
+
+00:02:38:11 - 00:03:13:55
+不明
+Now, these are just some examples, but all of which really inhibit your ability to identify, reach, and measure high value audiences, whether they're known customers or unknown prospects. Next, we have regulatory and policy shifts. Now I lose track of the number of privacy and AI safety related regulations there are just across the North American states and in apex, where I operate, it's a similar scenario with each region, country, and even states within the country having their own regulatory nuances.
+
+00:03:14:00 - 00:03:49:54
+不明
+In Australia, we're literally halfway through a prolonged privacy revolt. And outside of external regulatory pressures, we also see internal business policies evolving due to the demands of the respective boards, shareholders and and customers. Now, all of this is really creating ambiguity and risk to business. And lastly, the rising expectations of the consumer and or customer that consumers are demanding more personalized and personally valuable experiences.
+
+00:03:49:58 - 00:04:15:20
+不明
+They're demanding more transparency, clarity and control around their data. And they're also demanding more demonstrate efforts around governance, privacy and security. Now, on top of that, media networks such as nine also have brand advertisers and media agencies that want better ad booking experiences and ROI on ad spends.
+
+00:04:15:25 - 00:04:41:45
+不明
+So lots to consider. And just quick question for the audience. Hands up those of you whose organizations are not facing any of these challenges. Just for the sake of the recording know hand went up. Okay. Yeah. And it's not surprising. So what are the, opportunities for these challenges? Well, the opportunities are essentially our business case with nine and with respect to audience monetization.
+
+00:04:41:45 - 00:05:14:21
+不明
+Now, for the sake of this presentation, we're going to keep specific metrics aside until nine come up. But we ultimately Austin and set out to prove that we could identify faster, reach more, and measure accurately high value audiences, both nines audiences, but also brand advertiser audiences they partner with. We could do so in a privacy centric and governed manner, lowering risk to business and allowing the organization to be regulatory, ready and operationally agile.
+
+00:05:14:25 - 00:05:46:23
+不明
+While delivering best in class viewer, subscriber and brand brand advertiser ad experiences and ROI. Now we'll get to what this meant for the nine business shortly. But again, I'll ask everyone in the room, what would this means to your business? And I'll pause for genetic silence. Okay, cool. On top of that, media networks such as nine and others also have more unique challenges.
+
+00:05:46:28 - 00:06:16:00
+不明
+As consumers are shifting to digital, we see across the board declines in revenue across print and linear TV and increase, competitive landscape. When it comes to, ad spend, which includes things like social media and audio platforms, the explosion of retail media networks and other global players now entering the market.
+
+00:06:16:04 - 00:06:40:50
+不明
+So with that, I'd like to invite up to stage Angela Austin about the director of Data commercialization and strategy at nine and with both local and global experience, Angela is one of Australia's leading digital data experts, and he's going to share with us today his journey on how he's helped nine evolve to be one of those mature organizations with respect to audience monetization, essentially connecting, brand advertisers, like many of you.
+
+00:06:40:55 - 00:06:50:31
+不明
+So the audiences you want and the ROI you need. So with that one welcome for Ashley. Thank you.
+
+00:06:50:36 - 00:07:12:12
+不明
+Thank you. And again, I'm Angelo Cynthia Bally from nine. I've actually, funnily enough, been at nine now. Just clicked over nine years at nine. So you're going to be hearing the words nine a lot over the next, 35 to 40 minutes. Nine is essentially a traditional media business. We've been around about 60 years. And again, we're a legacy media business.
+
+00:07:12:25 - 00:07:35:11
+不明
+But over the last, probably decade, we have actually evolved into a digital future. And the way I explain our digital assets is each one of the legacy media assets we have across TV, print and radio has actually a mirrored digital, product. So if you think about TV, we run and there's a lot of acronyms in media.
+
+00:07:35:11 - 00:08:05:28
+不明
+So I'm going to explain up as I'm conscious that I'm in the US market. Braveheart is broadcast video on demand. Some people call it advertising video on demand. In the Australian market we say be viewed as 40. Subscribe option video on demand. That's a Netflix. That's a, you know, Amazon Prime. Max, we have our own, particular product called stand licenses, a lot of American and global content, and we also produce our own and is now evolving into, sport.
+
+00:08:05:33 - 00:08:34:12
+不明
+For print, we have our digital publishing assets, and in audio we're investing heavily in digital audio and also expanding our podcasts. And then we own 60% of a property marketplace in Australia called domain and fully own an automotive marketplace. So we are absolutely diverse in that sense. Data is a really key pillar of the nine data strategy.
+
+00:08:34:17 - 00:09:02:46
+不明
+Probably the easiest way. And I've put up this slide because commercialization of data is a very small component of the group strategy. Our group strategy is pillared across three things. We produce great content. We distribute that across as many platforms as possible. And that's all supported by data. I'm in the business of monetizing data and how we fit into this group strategy.
+
+00:09:02:51 - 00:09:29:12
+不明
+And again, for all businesses, you need to actually start to think how you use data. This isn't an enterprise data presentation. It's really all about how we're monetizing data across digital advertising. And again, you'll see later on in the presentation the growth of those digital data revenues, non is diverse. We have essentially non content pillars.
+
+00:09:29:16 - 00:09:56:15
+不明
+Obviously being a media business we're going to have things like news business and finance, sport, entertainment. You know most media businesses have that. They have lifestyle. Where we're actually particularly unique is we actually have assets across travel, food and luxury. So that gives us a diversity of audiences who come and actually consume content. And then we have some really strong intent data being derived from property and also automotive.
+
+00:09:56:15 - 00:10:21:52
+不明
+And there to have probably a household's largest, purchases they will make, during their lifetime. There is a complexity to nine. You know, when you're a digital video business, you're a digital publishing business and you're a digital audio business, you're distributing that content across a whole series of different devices. So that raises challenges of, you know, in the CTV space, it's a quick environment.
+
+00:10:21:57 - 00:10:49:28
+不明
+You've got issues with, you know, device IDs and Idfa changes that obviously, as alluded to earlier. And then we've got plus, you know, over 20 plus digital websites. What's really interesting is the fact that those 20 plus websites are across multiple domains. So how do we do, cross-domain tracking. And, and we'll show you a solution that we, embedded into our business last year.
+
+00:10:49:33 - 00:11:16:23
+不明
+Again there is a group data strategy, but every business should have certainly in the media space a commercial data strategy. And that is in effect, a subset of that title group strategy. We start off with authentication as being the first pillar. We attempt to authenticate our users across the various forms of content they're actually consuming.
+
+00:11:16:28 - 00:11:45:07
+不明
+We were quite lucky at nine, when I joined in 2016. And I come from an offline data world. And the fundamental reason I joined nine was they were the first of the media businesses in the Australian market to authenticate users to. They believe, on service. So you had to if you wanted to watch a catch up TV show or live stream, you had to actually authenticate and supply name, email address and gender and zip code.
+
+00:11:45:12 - 00:12:07:54
+不明
+In Australia we call it postcode. Today I'll call it zip code. In effect, that allowed us to start capturing a considerable data pool API data. And that and we didn't know this at the time, but that was going to become really, really valuable because it allowed for a persistent identifier to be created at an email address level or hashed email address level.
+
+00:12:07:58 - 00:12:33:09
+不明
+That then became really important. When you start to think about CDPs in 2016, the world was not thinking about, say, they pay. So we were sort of lucky in that sense. Our second part of our strategy is around enrichment, and that is we try to take as much of the first party data we're collecting on our users from the consumption of their content across the vast array of, digital properties we have.
+
+00:12:33:19 - 00:12:55:22
+不明
+And we're trying to enrich our user profile. But I'm going to be honest with you, nine doesn't know everything there is to know about a particular Australian user. We have to engage with third party data providers. And again, we've moved to a world of onboarding transactional data partners and location data providers. We have partnerships with Mastercard, Equifax.
+
+00:12:55:22 - 00:13:18:12
+不明
+We have a, a major grocery chain in the Australian market. They provide a lot of grocery basket category data. And then we have a location data provider called as ERA, which is also very much a global player. The whole concept of bringing in third party data is around. What you bought yesterday is a really big predictor of what you're going to buy tomorrow.
+
+00:13:18:12 - 00:13:56:26
+不明
+So from our perspective, our transactional data partners are all built around giving us really strong intent data and predictive behaviors, certainly around transactions. At the same time, too. You cannot have a commercial data strategy without having the data centralized in a platform. Since 2016, we onboarded Adobe Audience Manager, and more recently, Adobe Experience platform. So again, one of the key messages I've certainly heard in the last 48 hours, at Adobe Summit, is the fact that data is still siloed.
+
+00:13:56:31 - 00:14:19:05
+不明
+We broke that down many, many years ago and made sure that any digital data was actually being consumed into the platform, and in real time. And then we pushed that data. Audiences out to our ad servers and ISPs, first party data. I just want to really go through this because this sets up, a lot of the products that we've been able to actually build.
+
+00:14:19:10 - 00:14:43:15
+不明
+Again, we're capturing declared user attributes seems pretty basic, capturing age and gender. I'll show you how. That's really key when you're at legacy linear TV business, content consumption goes into our platform TV show, watch history. Again, types of shows you're watching. We also have our own proprietary market research panel. So there's 20,000 users.
+
+00:14:43:15 - 00:15:13:04
+不明
+And what that allows me to do is run attitudinal style questions into those surveys, and then we can build out audiences based on particular attitudes, and or future intent data that we need to collect. And then there's the all important exposure data. So again, the types of ads I've seen becomes really important because we are moving into a world, and I'm not going to sort of deny the fact about, you know, times are or the economic times are slightly challenged.
+
+00:15:13:04 - 00:15:43:26
+不明
+I've never seen an organization have their marketing budgets increased here. You're constantly having to do more with less. And ad exposure data does actually support, measurement and attribution. And that's a really big theme as we look into the future. We've been lucky at nine, being in the role for nine years has allowed us to look at our competitors, look at global competitors, and we've built out what we consider to be the most sophisticated addressable audience segmentation products.
+
+00:15:43:26 - 00:16:08:39
+不明
+And it's built across four pillars. Demo. I've actually put up our percentage of revenues. Because this is really key. You're probably going to look at demos and go, oh, that's really high. And there's a reason for that. Linear TV still makes up a large portion of our advertising revenues. When you buy linear TV, you are in effect buying a TV demo.
+
+00:16:08:43 - 00:16:39:33
+不明
+And what's actually happening is as those buyers are transitioning and buying broadcast video on demand inventory, they buying it with the same mentality of a teammate TV demo. So this is why that's overrepresented represented. We have non troggs. That's our own proprietary built customer segment until so what we did at nine, we made a conscious decision because of the depth and breadth of the data we were collecting, that we were not going to license an external customer segmentation tool like an expanding mosaic.
+
+00:16:39:36 - 00:17:06:55
+不明
+We were actually going to go off and build our own, and we're going to try to build something that was unique, and we're going to make it incredibly scarce that you could only find it across non digital, inventory. So again we're adopting that non commoditized approach to customer segmentation tools. We allowed all of our four data partners to have their segments, built off the shelf and available across our digital inventory because they were in effect, bringing a lot of clients they were working with.
+
+00:17:06:55 - 00:17:31:23
+不明
+Certainly in the grocery sector, a lot of our FMcG guys were was seeking particular, grocery category segments. We made them available across our digital inventory. That represents about 12%. And then we have audience match, which is probably the fastest growing product. And this is where advertisers bring their first party data, match that against nine and target lookalike or suppress audiences.
+
+00:17:31:28 - 00:17:57:39
+不明
+That again, is something that we're sort of heavily focusing on. And you as an advertiser, you're probably considering or have a CDP, what we find and what certainly in the Australian market we find, is that advertisers are not fully exploiting the CDP and actually sharing audiences with respective publishers. And, you know, we'll spend a bit of time further down the, presentation just talking about that is what Nine Tribes looks like.
+
+00:17:57:48 - 00:18:21:36
+不明
+I've just thought I'd put it up here. It's actually all powered by Adobe. So again, we could not build this on our own. Again, it's it's very much you engage with non content, you will fall into a variety of these segments and you're constantly in real time falling in or out of these particular segments. And this again has been built along the lines of an Experian mosaic.
+
+00:18:21:41 - 00:18:55:44
+不明
+Where different there to Experian mosaic. That's a highly commoditized product. Where we're different from a tribe perspective is we leverage both demographic and media content consumption signals. We marry that in across the nine different industry verticals. They're updated in real time. But again, what's really different and what's unique about this particular product is it's not like those commoditized customer segmentation tools where, you know, in effect, they're updated every two years or potentially even every year.
+
+00:18:55:46 - 00:19:21:27
+不明
+So again, our ability to go out into market and say that these audiences are being updated, daily is a really key selling proposition. And that allows us to charge a premium for the inventory that we sell against these particular audiences. Let's talk about the transition to IEP. But before I do that, I need to talk about Adobe Audience Manager.
+
+00:19:21:32 - 00:19:50:49
+不明
+It's a great platform and it did serve Noni incredibly well. But a couple of years ago we started to actually see some constraints. Those red lines point to the cookie device ID integrations. And as you can imagine, those those integrations were prone to how can I put it, the regulatory changes and the loss of identifiers was becoming was really impacting our ability to monetize those audiences.
+
+00:19:50:49 - 00:20:13:43
+不明
+Going through a cookie device, ID pop, at the same time to, offline audience activation of attributes, things like age and gender, from a new use. It was taking up to potentially ten days to ingest into the platform and have an ability then to serve targeted ads, against those particular new users. And that was problematic.
+
+00:20:13:48 - 00:20:37:19
+不明
+It wasn't problematic five years ago. It was problematic for our business because we were starting to invest a lot into, sporting events, things like the Olympics. We bought the rights to the next five Olympic Games. We have the Australian Open. And these events typically go for two weeks. So we would have a new user sign up to nine, and then it would take ten days before we could actually start to monetize that user.
+
+00:20:37:28 - 00:21:13:23
+不明
+That creates a lot of issues. It doesn't allow us to actually get our return of investment on, some of those sporting rights which funnily enough, I just continuously increasing in value as we have those as VOD players competing with the legacy media businesses in securing those rights. At the same time to with Adobe Audience Manager, we were really highly reliant on our data like so a lot of the functionality of my team was spent dealing with and extracting data from the data, like for all those functions that we knew could potentially be done in a CDP.
+
+00:21:13:28 - 00:21:33:56
+不明
+And then the other particular approach was we were sort of I used to call probably the last couple of years of we were attempting to use the, the DMP as a CDP Lite, and we were pushing out basically, persistent. We call it the non user ID. So when you come to on and you authenticate, you get issued with a non user ID.
+
+00:21:34:01 - 00:21:58:01
+不明
+We had no ID integrations with Ssps and ad service and they were prone to failure because in effect they were customized by DV. And we were sending and batching data out and we realized that wasn't really going to be something from a long term perspective. Really, we could rely on as our data revenue started to increase.
+
+00:21:58:06 - 00:22:29:31
+不明
+So we looked at a CDP and I'll summarize this slide. This is incredibly sort of text heavy, but I wanted to put as much detail, for yourselves. But essentially we wanted a platform to bring together our authenticated users and our anonymous users into one platform. We wanted robust profile management. So again, we wanted to be able to set a persistent ID, and at nine we called out the nine user ID at the same time to we wanted robust data governance.
+
+00:22:29:42 - 00:22:52:00
+不明
+We are a big organization with multiple teams, multiple marketing teams, multiple subscription teams. We did not want every single business unit that existed to see data that was actually coming into the platform, because we and I'll spend a little bit more time on that. But really, just broadly, we didn't want everybody to be able to see, data partner segments.
+
+00:22:52:04 - 00:23:12:07
+不明
+We didn't want everybody to see advertiser first party segments that were coming into the platform for targeting or logging or suppression. We wanted to make sure that we had restrictive controls and at the same time, too, we wanted to make sure that the platform was fit for purpose when, the Australian government was potentially going to change some of the consent laws.
+
+00:23:12:12 - 00:23:41:55
+不明
+They've now been delayed. So that's given us a period of grace. Second point was around, again, audience creation and deployment. I call this the velocity pillar. You need to have with any CDP data being streamed in in real time. So you want to get data in as quickly as possible, create a profile and then push that out to your ad server or SSP as quickly as possible, because that time lag is actually costing you dollars from a commercialization perspective.
+
+00:23:42:00 - 00:24:05:40
+不明
+At the same time, too, we wanted to be able to have a self-serve platform. And this is what we were finding before we implemented IAP, which was the fact that we would have to go to data engineering and put in a request to query data for a particular use case. And then what we were finding is the technology team had competing interests, so we would just ranked.
+
+00:24:05:45 - 00:24:37:32
+不明
+So we weren't able to be fast and efficient. So from our perspective, we wanted to keep way we could go in and actually self-serve, create audiences, extract data and send that out. And then there was data collaboration. And this has been a really big theme of, Adobe Summit. But from our perspective as a traditional media business, we compete against the, the YouTubes, we compete against the Spotifys TikToks and the metals of the world, where we're different and where we have a competitive advantage.
+
+00:24:37:37 - 00:25:05:33
+不明
+And certainly this is aided, by Adobe is we want to build strategic relationships with our large advertisers, and we want to be able to have data coming in from our advertisers for an audience match perspective, you know, for targeting, localizing and suppression. But at the same time, too, we have our large advertisers on a daily basis saying we will take money away from YouTube and give it to nine, but prove to us the effectiveness of our spend.
+
+00:25:05:33 - 00:25:35:55
+不明
+So there's a real big requirement now to get ad attribution data out to advertisers so they can actually measure the business outcomes of their media spend across nine. This the app infrastructure map. I've done this down a bit, but it's really key. And there's some nuances in the way we do things. And again, all of our data is feeding directly into real time CTP.
+
+00:25:36:00 - 00:26:05:58
+不明
+And I think that's really the key. So whether it's authentication data and again, nine has multiple authentication platforms. So on on our nine our service and we have gear, for our publishing assets, all our data, it goes directly into app. But from an identity perspective, we're not resolving identity within IAP. We're doing that outside the platform.
+
+00:26:05:58 - 00:26:32:21
+不明
+And the reason why is not 100% of our users are authenticated. And it's roughly about an 8,020% split. So we have to deal with this complexity of how do we actually reconcile unauthenticated users who are on Safari browsers where we cannot apply a persistent identifier. So we found this Australian solution. It's a startup company, I believe it's going globally now.
+
+00:26:32:25 - 00:26:55:07
+不明
+And what they do is they're able to, in the absence of third party cookies, apply a persistent identifier on a user. So they call that fixes, so what we're able to do is every single person it comes to nine gets a nine user ID. If you're authenticated and you're authenticating across multiple devices, you'll be issued a common new ID.
+
+00:26:55:12 - 00:27:18:09
+不明
+If you come in on a Safari browser and do not authenticate on a property that doesn't have authentication, we're able to apply a persistent no ID to that particular user, and then we feed that data into, app. The other thing also that that fixes allows us to do again, I spoke about the multiple domains that we have and fix.
+
+00:27:18:09 - 00:27:41:54
+不明
+This allows us then to cross the main track so we can bring in behavioral data as a consumer across the different domains and stitch that to a particular profile, all of our data partners and our data clean rooms. And again, we leverage Adobe's, app segment match. But we also have other data cleaning rooms, which we actually feed into app.
+
+00:27:42:05 - 00:28:06:18
+不明
+And then we push the data out to our ad servers. And I say space. So again, it's been dumbed down but highly complex and took many, many months to actually deploy. One of the key benefits of AP and I can't stress this enough. Because it has certainly supercharged out our commercial data revenues, which is around the in the improved monetization of new users.
+
+00:28:06:23 - 00:28:25:12
+不明
+We are now down to less than a day. So if you come to nine and you authenticate, you will be placed into respective audience segments. And we can serve ads against you as a user. And I've just given you a bit of an overview, because a lot of people have always asked me at nine, can you actually draw this up for me?
+
+00:28:25:12 - 00:29:07:59
+不明
+Is that actually true? So hence the diagram is actually, quite detailed in that sense. The Adobe nine partnership has probably delivered, two key major industry features. And we've been working with Adobe for a long time, and we have a very close working relationship. Sometimes I say, why take place a working relationship? But again, two things occurred over the last couple of years, when we were looking at IAP, we noticed that some of the data governance features a few years back needed to improve, and Adobe were really strong in actually listening to what we were actually, talking about and actually building that out.
+
+00:29:08:04 - 00:29:37:30
+不明
+And again, we believe at nine that and we looked at all the CDPs IAP by far has the most in-depth data governance capabilities that exist across all enterprise setups. And the other approach, I said on the customer advisory board, for Adobe, but I remember and a and many, many years ago, just pre-COVID talking about segment match and and he would outline all the identifiers you could actually match on.
+
+00:29:37:30 - 00:30:05:13
+不明
+And I was saying I'm a people based network. The only identifier I care about is being able to match on a hem level, because not only do I want to do people based targeting, I want to do people based measurement. So build the identity around him. I'm sort of conscious that there's many other identities that you can match on, but from a non perspective, we were really focused on the hashed email identifier.
+
+00:30:05:18 - 00:30:38:51
+不明
+This is data governance in a little bit more depth. From our perspective we had data partners who contractually would had agreements with nine that precluded marketing teams, subscription teams or other business units from actually leveraging that data. And we had to, give them assurances that the data was kind of be used as per the agreement they had with non for the express purpose of delivering segments against targetable advertising.
+
+00:30:38:56 - 00:31:04:42
+不明
+So that was really key. We had an IAP platform that allowed us to, you know, embed data governance features that weren't reliant on a human being placing data governance. We wanted to make sure that it was set and forget in the platform. But you also had advertiser data. We work with insurance companies, banks, airlines, a whole series of organizations, and we adopt a privacy first approach.
+
+00:31:04:42 - 00:31:41:17
+不明
+At nine, we wanted to make sure that advertiser data was protected, and we didn't have a situation where our subscription team would look at potentially a high net worth audience coming in from major bank and attempt them to sell our business publication subscription to them. So we wanted to give assurances to advertisers that when you actually data collaborated with nine, that your data was actually completely protected and only a small group of users within the organization, which was the data commercialization team, could actually access that particular data at the same time, too.
+
+00:31:41:22 - 00:32:10:13
+不明
+Here's what it looks like. If you are working at nine and you're in the marketing team subscriptions or some of our other business units, and you attempt to leverage segments, you're going to be presented with a blank screen. And that's all due to some of the functionality that exists within the data governance function of App. Again, it gives advertisers and data partners who engage with nine an extra degree of confidence, when they're data collaborating.
+
+00:32:10:13 - 00:32:32:06
+不明
+And we see that as a key selling advantage in market. We know that we are way ahead of the Australian media businesses who are also on IAP in that sense, or other CDPs in sort of deploying this and and taking this to market as a key strategic objective. Let's look at segment match. This was key for me.
+
+00:32:32:11 - 00:33:01:33
+不明
+This was probably fundamentally outside of data governance, the second biggest, biggest reason why we went with IAP. And that was all around the ability of apps, customer base, you know, the banks, the insurance companies, the airlines who were onboarding app to be able to share audiences in a privacy centric way, into nine. And I'm going to use that term share.
+
+00:33:01:33 - 00:33:32:31
+不明
+Share does not involve PII data going from one platform to another. That is not the case. Adobe applies privacy enhancing technology. So what's really being shared between two parties, where Adobe's acting as a safe haven is the attribute i.e. I'm a high net worth, credit card holder. I have a platinum card or a diamond card that is actually then what comes into our platform.
+
+00:33:32:31 - 00:33:54:32
+不明
+We build an audience across that. But again, it's actually given us an ability to do people based targeting. And if you think about the environments we have at nine, again, one of our key selling propositions in the Australian market is the ability for you to do, people based targeting in the living room. 70% of our consumption of our b VOD service is on a connected TV.
+
+00:33:54:32 - 00:34:40:21
+不明
+So, again, you know, we're able to compete against social media businesses that operate in the Australian market, which are very much mobile device based. What we're saying is you can actually do people based targeting on the biggest screen that exists, and that's the one in the living room. Segment match. And AARP has delivered us new capabilities. If you think about retailers, I'd be constantly approached over the last couple of years by retailers saying I have a whole series of card abandoned as that I want to be able to target on the TV screen in the living room, and we couldn't do that based on the fact that we couldn't move, and
+
+00:34:40:21 - 00:35:03:16
+不明
+activate those segments fast enough within a 24 hour period. But what we've able to do with AEP now is, if you are a card abandoned a, in less than 24 hours, we can have an ad served up, on the TV screen in the living room, and that has unlocked, a whole new segment of the market that didn't actually previously exist.
+
+00:35:03:21 - 00:35:34:17
+不明
+So now Australian advertisers have outside of social media channels, they're able to actually target users. And card abandon is, on the TV screen in the living room. So how does app support our data commercialization efforts? Let's talk some revenue numbers. So this is for all the accountants. I think there's 1 or 2 in the room, probably sort of, outlining whether they should make the multi-million dollar investment in a CDP or app.
+
+00:35:34:22 - 00:35:55:55
+不明
+So let's look at the numbers. I mean, I'm judged on multiple factors. Revenue is one of those, in the last couple of years, we've grown our data revenues by 265%. So again, we are on track for $170 million. I'm conscious that I'm speaking to a US market in $170 million. Doesn't seem like a lot. And that's a new day.
+
+00:35:56:00 - 00:36:20:24
+不明
+But we are a nation of 26 million people. We're not 330 million plus. Our digital, advertising revenues for the whole market are, across the board is about $16 billion. So again, we're very much a small part. $0.80 in the dollar goes to matter and, and Google. So from our perspective we're small, but we're punching above our weight.
+
+00:36:20:29 - 00:36:50:30
+不明
+And again, if you look at the last 12 months in a declining and very tight advertiser market, we've been able to grow, 15%. And we're on track this year to grow 16%, if not even higher. But let's look at another lens. And I'm also judged on how much of our digital media revenue contains a segment or a data, or an audience segment in our b VOD service.
+
+00:36:50:34 - 00:37:19:10
+不明
+It's roughly two thirds. So think about this. Our biggest competitor in the video space is YouTube, and they're essentially an audience by. So at nine, Adobe's assisting us in actually monetizing our digital inventory, through the ability of advertisers to buy our digital media with an audience segment. So again, that's a really strong result. And that's growing year on year.
+
+00:37:19:15 - 00:37:41:04
+不明
+Display. I was asked this question, before I left in Sydney and I went, do you really want to put that up on the slide? You know, for, for display that looks incredibly low. I need 21%. But let's unpack that. These are 24 numbers, 20, 24 numbers, 83 million we made in display. 54% of our users are on a Chrome browser.
+
+00:37:41:09 - 00:38:10:58
+不明
+So a lot of our inventory was non targetable until we deployed our ad fix this identity resolution service. So when I look at the 17.9 million and 54% of our users are on a Chrome browser, we're actually it's roughly about 38% is our penetration across display, because a large chunk of our inventory was never targetable. So again, that number is sort of under inflated.
+
+00:38:10:58 - 00:38:34:37
+不明
+And then in audio, this only launched about 12 months ago. We're at 21%. The numbers in the last three months are showing. 50% of our digital audio is actually being consumed and bought with a data segment. And again, audio represents our fastest growing, arena. Again. And in that space, we are competing against what I consider to be the category killer, which is actually Spotify.
+
+00:38:34:48 - 00:39:07:05
+不明
+So in every single form of media, whether it's a video display or audio, there is a global, gorilla, whether it's YouTube, whether it's meta or TikTok, or whether it's Spotify that is capturing most of the revenue, that exists in the Australian market, a growth for the next five years. I'm pretty confident on this. I think if you can do 16% in a tight economic environment, we're probably going to do that over the next five years.
+
+00:39:07:10 - 00:39:32:37
+不明
+We're going to double our data revenues. And that's pretty impressive. Because that is all going to be supported, on a CDP. And we know that the CDP and certainly, coming to Adobe Summit and saying the amount of profiles, I mean, you know, we're relatively small, nation. But what I can support gives me a hell of a lot of confidence that these numbers are actually, very achievable.
+
+00:39:32:42 - 00:40:04:25
+不明
+So what's next? I'm again, I keep getting asked this question on a weekly basis when I work at nine. We're looking to do three things. Obviously we're going to try to unlock. I, I know there's been some announcements around AI, but from my perspective, I'm looking at AI more from, you know, the ability to create some customized segments, leveraging AI to scour the network and say, well, what type of audiences exist that we could actually create that better serve some of our more strategic partnerships?
+
+00:40:04:30 - 00:40:30:29
+不明
+Then we have data collaboration. This is really big for us. We have a policy of of having strategic relationships with large advertisers. We want to get a lot more involved. And we do not want to have a transactional relationship, which is that just buying media and it's very much transactional. We want to have multi-year partnerships, where growth of their media spend is increasing year on year.
+
+00:40:30:34 - 00:40:48:56
+不明
+What excites me around some of the, media mix modeling? I saw a presentation earlier. So again, that's something we'll probably start to explore. At the same time to we want to start to leverage data out of the platform that supports business outcomes for some of those large advertisers, too. So again, that's something we're looking at.
+
+00:40:49:01 - 00:41:14:24
+不明
+And then the third one, and I haven't told the people back at nine, that I'm thinking about this. But again, in the audio space, there's a really interesting challenge that we face, which is most of the audio consumption. And this applies more globally, is being consumed on smart speakers or, third party apps like Spotify or Recast.
+
+00:41:14:29 - 00:41:46:08
+不明
+So from that perspective, I'm never, ever going to have an authentication event across those, devices. I'm never going to have Spotify sharing authentication data to tonight. So I'm sort of to a degree, blind on about 70% of our inventory that's being consumed across those devices. So how do I deploy a data targeting strategy? So what we're going to be looking at is and we do this to a degree, we leverage our nine data, like to build out IP based segments.
+
+00:41:46:15 - 00:42:18:34
+不明
+But what we want to do is create a separate instance of IAP. And then as the core identity, have it as an IP. And then we're able to then start to build out stream data in at an IP level around all the different behaviors. And then start to model out on particular attributes, create a whole segmentation series. And that then allows us then to start to have targetable capabilities across places like Spotify, smart speakers and the like.
+
+00:42:18:45 - 00:42:42:47
+不明
+But what's really key for me is that we'll be able to start offering segment match to our audio advertisers based on an IP level. So remembering how business is built around people based targeting. But in audio, we have to go with how the industry has actually been set up, which is most of the consumption is occurring on smart speakers and third party apps.
+
+00:42:42:52 - 00:43:06:29
+不明
+So just to wrap up this presentation and I now I've got about 1.5 minutes left, key take out for today. Obviously I'm here. I flying close to 20 hours to get here. Adobe is our partner of choice. That they've been a great partner over the last nine years. But on a personal level, as an advertiser, you should be thinking about, authentication.
+
+00:43:06:34 - 00:43:34:18
+不明
+That is really, really key because that really sets the foundation, for how you actually monetize data and how you data collaborate. Velocity. Velocity is really key. We've proven that the improved speed of data ingestion and extraction out of AEP allows us to drive a considerable amount of data commercialization revenues. And then obviously partnerships matter.
+
+00:43:34:22 - 00:43:55:46
+不明
+We're quite lucky with Adobe. We've been with them for nine years. One key thing I will say is that they do listen to, future enhancements. And that's something that we really value. Obviously from a data governance and a data collaboration perspective through they segment match. They've certainly listened to, you know, what is considered to be a small business in Australia in comparison.
+
+00:43:55:48 - 00:44:19:03
+不明
+And to some of the businesses I've seen in the Australian market. So again, they are partner of choice at nine when it comes to, commercializing data across our digital advertising inventory. And on that note, I'll invite AMD back on stage.
+
+00:44:19:08 - 00:44:43:31
+不明
+Thank you, Angelo. And, just a quick point. While a lot of those, results were very, in relation to their data commercialization, what is also represents is these successful partnerships, with brand advertisers, like many of you, and being able to connect brand advertisers like yourself to premium media networks, like, nine and, and deliver the ROI you need is something we're incredibly proud of.
+
+00:44:43:31 - 00:45:02:18
+不明
+So so again, thank you. Very quickly, we're going to open up to questions in a moment. So if anyone's got any key questions, please feel free to take them. I think there's going to be one roaming. But I'll kick things off. And first questions here. Angelo. We saw some fantastic results there. And a fascinating journey over the last few years.
+
+00:45:02:18 - 00:45:28:04
+不明
+Over doubled the revenue. Audio was like 300% like some fantastic results. What was, the biggest challenge in achieving the results through that journey? Yeah. Look, I suppose from our perspective is, the data commercialization team had a direct relationship with Adobe Audience Manager, and we were able to choose that platform. When you move to a CDP, you realize it's enterprise based.
+
+00:45:28:19 - 00:45:46:19
+不明
+So there's a lot more teams you have to convince on the particular vendor of choice. And I think that was probably one that took a little bit longer than we expected. Because you are dealing with people who probably are not nuanced or have in-depth data commercialization experience. So there's a lot more education internally you need to do in that sense.
+
+00:45:46:19 - 00:46:27:38
+不明
+And that was a challenge at times. Yeah. And so there's a lot of internal education. How about externally considering a lot of your customers were brand advertisers agencies etc.. Was your experience there in anything any any guidance? Yeah, it's a really good question because obviously, we deploy IAP and then we start talking to brand advertisers. And one of the things I've noticed, and it's a real key call out, which is around your profile identity set up in real time, CDP, which is the amount of clients who did not set hashed email address as a profile identity, and that precluded them from then doing segment match at a ham level.
+
+00:46:27:43 - 00:46:45:47
+不明
+So again, we found and there's reasons for that. Like if you're an insurance company, you're probably not going to do that is it might collapse. Profiles is obviously a policy might be set at a household level, like a home insurance policy or a I'm contents policy. But but that was some of the nuances we found with advertisers.
+
+00:46:45:47 - 00:47:02:58
+不明
+So now we're going out into market and educating and saying, well, we think the optimal set up, if you want to do data collaboration at a people base level, you need to think about having him as part of the identity. Yeah. And that's a great point. And I think that's why we're really excited about the announcements around CDP collaboration.
+
+00:47:03:03 - 00:47:26:46
+不明
+The nuances around the identities kind of disappears and we become a lot more idea agnostic. Next question. What is the, in terms of the future state? There was a few things that you called out there. What are you most excited about? Performance, data, collaboration. I mean, where this provides a point of difference against the Google, Facebook, Spotify or TikTok?
+
+00:47:26:51 - 00:47:49:16
+不明
+We know because we hear this from advertisers, but to get data out of Google is virtually impossible. Such from our perspective, we're going to be a little bit different. We're going to collaborate with large advertisers. We want to give advertisers choice. We don't believe in a world where, you only have to spend against four particular large players that are globally based.
+
+00:47:49:21 - 00:48:09:33
+不明
+We believe in a healthy, media landscape, but I think our ability to data collaborate in a privacy centric manner, that protects user data, I think is really, really key. And I think some of the features I've seen over the last 48 hours gives me a lot of confidence in that, that we can actually deliver on that objective.
+
+00:48:09:37 - 00:48:26:31
+不明
+I have certainly excited as well. With that, and if I may, before we wrap, I would like to wrap on a just a very quick personal note. So next month I actually celebrate ten years at Adobe. And the only reason. Thank you.
+
+00:48:26:36 - 00:48:47:58
+不明
+No, no. The only reason I'm sharing that is because one of my first customers was nine, and one of my first stakeholders was Angelo. And I'll never forget the first meeting we had. We were just kicking off the the journey of data commercialization and the first roomful of strangers, the first thing he does walking point and make fun of my socks and, from that day I wake up at no joke.
+
+00:48:48:03 - 00:49:04:14
+不明
+No. But immediately explained, like, oh, we have a Happy Socks crew at nine and you're now part of that crew. So from day you have happy socks. Yeah, yeah, yeah. So in day one, it really made me feel, part of the team and, And I just wanted to say thank you so much for the for the journey, for the partnership.
+
+00:49:04:19 - 00:49:17:45
+不明
+You challenge us, you inspire us. But I think, the results speak for themselves. So worth every second. So thank you so much for taking the time flying all this way, and speaking for us. So thank you. Thank you. And thank you, everyone, for the time. Thank you.
+

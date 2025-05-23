@@ -1,0 +1,428 @@
+00:00:00:01 - 00:00:19:01
+不明
+Morning everybody. Really appreciate you guys all coming today. Thursday morning is always a tough morning here at summit. So thank you very much. So David I obviously could talk a little bit about the CDP and our agile journey that we took a US bank. That was a long path, but it was exciting. So. But as you guys know, I'm Jason the floor, and I've been at U.S. Bank at Tullibody for over 25 years.
+
+00:00:19:01 - 00:00:33:29
+不明
+I don't even remember life prior prior to U.S. Bank. And I've got to do a lot of different things. And I will honestly say getting to work with David and the rest of the team here on our agile and a has been probably the highlight of my career. We've done some amazing things and we're super proud of what we did.
+
+00:00:33:34 - 00:00:56:49
+不明
+So I will turn it over to David to introduce himself. So I'm David Barnes and I'm a little loud. I and the product owner for Adobe Experience platform, real time, CDP, Ajo, and one of my missing target. Oh, am I officially target now? Okay, I don't know a thing about it, but, and also offer decisioning, which we see as a separate product from Joe.
+
+00:00:56:54 - 00:01:16:49
+不明
+And what one of the things we've been doing all week is talking to other clients. We did a one too many session yesterday. And one of the first of all, that means I love getting questions. So I can't wait for the Q&A at the end. And so write down be engaged. But one of the things it's obvious is that every one of us has a lived, different martech experience, right?
+
+00:01:16:49 - 00:01:32:33
+不明
+I talked to one client who does all their work. They do pre prep, they use Google Analytics and they do all this identity prep and then load it right. Another client doesn't even use the UI. It's all APIs. Another client just got their data prepped after five years of trying to get data and they're just starting to load.
+
+00:01:32:47 - 00:01:56:27
+不明
+So we all have a different experience. You're going to hear our experience, right? And you're going to hear some things that didn't go well for us. I think you'll recognize a few of them, if not all of them. And we're not going to necessarily tell you how to fix them. We're going to tell you how we fix them or how we dealt with them, and give you some of our tips on how to approach the situation, the tools and Adobe, how to manage Adobe.
+
+00:01:56:27 - 00:02:18:09
+不明
+So you're going to hear all of this from us today. And I'm going to need the pointer okay. Let's make sure. Yes there we are. Oh and by the way, if you don't get your question answered, please reach out on LinkedIn. If you're not a vendor, I may respond. I will respond. And so for the vendors in here, I apologize, I never respond.
+
+00:02:18:14 - 00:02:41:54
+不明
+So, so what we're going to talk about today is, is APIs a complex system? Right. And all the tools on top of it, an API is definitely an adventure. You will go places you did not expect to go. It's not a linear journey. And we'll illustrate that in a second. But you need to be prepared the more you know and think about things ahead of time, the better.
+
+00:02:41:54 - 00:02:59:12
+不明
+And you may not be told the things you should have thought about ahead of time. So the more you can learn that from conversations like this or ask your Adobe team, they'll try to give you, but they don't often live it like we do. So I think peer to peer is really important. Find the right guides. That's what I was just talking about.
+
+00:02:59:16 - 00:03:18:43
+不明
+There's some paid expertise. We'll talk about this in more detail. Paid expertise, Adobe expertise. But again, these kind of community conversations that happen naturally at summit or of that are planned are really helpful. And then finally you will run into issues you will need to deal with them. And we're going to give you some examples of situations we dealt with.
+
+00:03:18:48 - 00:03:39:27
+不明
+Okay. So wanted to give you a little bit about our situation. We started out we had like most people we had Adobe Analytics. We had target. We had the those tools, but we had audience manager and we had authenticated based messaging we were using. And I think you guys will get these slides, but okay, you can take pictures if you want.
+
+00:03:39:32 - 00:04:08:48
+不明
+But we had we were doing a lot of authenticated space marketing using campaign as the messaging signal, and we would do an API call into campaign, and we basically broke the system. We were doing too many calls. Campaign couldn't keep up. And so we had to move to we were advised to move to real time CDP. The second use case I think most of you had, or a lot of you have had with just personalizing from site behavior, using audience manager, either on the website or in in paid media.
+
+00:04:08:52 - 00:04:30:59
+不明
+We mentioned we're going to give you a little bit about next best action. That's our brand name. I've heard other people use the same brand name. I've heard different names for our authenticate ad based marketing. This is when someone shows up, they log in online banking and mobile, which is a critical part of our advertising because at that moment you are a known customer and we have messages for you in that moment.
+
+00:04:31:13 - 00:04:54:36
+不明
+We want to maximize that messaging, and AP is exceptional with that. It combines the digital information of a digital app user with the offline data of a digital app user, because you've authenticated. So it's a it's really the sweet spot for us of app and real time CDP and offer decisioning. Is that authenticated based marketing having messages in online banking mobile.
+
+00:04:54:36 - 00:05:24:32
+不明
+We also do use that same capability in ATMs and in branch and call center. So where we are now, we have adopted app real time CDP, what they call offer decisioning. That's now migrating to decisioning. And if anybody wants to talk about that, reach out afterwards are asking Q&A. And we're also doing more omnichannel where we're doing emails, direct mail and paid media out of the tool.
+
+00:05:24:32 - 00:05:52:03
+不明
+But again, our well, we'll talk about that in a second. Okay. So. The the goal here. And you know, we try to do this theme of a journey. This is where we're headed. So I mentioned okay let me see okay. So you can touch one button at a time. So we talked about the goal or our primary goals is authenticated on us that we call mba.com very close.
+
+00:05:52:03 - 00:06:12:15
+不明
+Second you know replacing audience manager with a more integrated experience. And then we want to get into more omnichannel triggered email. But we ran into and that's the theme of our presentation. We ran into some issues multi ID some of you may recognize that one, we didn't have web SDK. We're not going to talk about that a lot.
+
+00:06:12:19 - 00:06:31:57
+不明
+But I highly recommend web SDK. If you don't have it it will be a constant stumbling block. But we're not going to focus on that one. We have duplicate deliveries again. We're going to go into depth on these. And array data personalization. But we wanted to answer some questions we should have. We didn't actually do all this cool stuff at the bottom.
+
+00:06:31:57 - 00:06:54:45
+不明
+We're recommending we should have been more intentional. And there's a person in the room that actually built this thing. So so you'll you'll recognize this. You can correct afterwards anything I say that's wrong. But we we started out by defining our use cases, and I mentioned the bulk of them and the channels. We had a data strategy, but it wasn't as conscious as maybe it needs to be.
+
+00:06:54:50 - 00:07:16:31
+不明
+But it was effective, and I'll describe that in a second. Real time data has become an issue. We probably should have focused on it more, and that would have helped us prioritize web SDK. And then finally, we didn't get CJA at the beginning, and that's starting to bite us. We're we're having a hard time proving value without having a well defined analytics platform, and I need to stay away from that.
+
+00:07:16:31 - 00:07:47:46
+不明
+Okay. So this is these are these questions. Your map will be different. Like I said earlier, everybody's experience is different. Your map will be different. These are the questions we either asked or should have asked more clearly because they've been a part of our detours. We were focused on marketing. This platform is great for servicing. It's great for holistic customer experience, but we prioritize revenue and marketing that both limited us and made it a little easier to focus.
+
+00:07:47:51 - 00:08:10:10
+不明
+Agile, though, is a really good tool for both, and we're just getting there for combining both. So our focus was on marketing. I already mentioned our primary targets were authenticated space, which we call and VA and web personalization, identity management. And again, we did this. I would frame our decision differently now than we did three years ago.
+
+00:08:10:15 - 00:08:36:29
+不明
+Four years ago we tried to do everything in the tool. A lot of people don't, but our identity management, we took identities that already exist. We did not do any cleansing prior to loading, and we let the tool do its own identity management. We also got data from existing data marts. They were extracted for us, so formatted, but they weren't cleansed.
+
+00:08:36:34 - 00:08:55:05
+不明
+So all of our data was from existing sources. We loaded it. We let the tool ingest it natively. That's very efficient. We'll talk about that again some more later. If we don't run out of time. This real time issue keeps biting us. And again, I don't think we prioritize it enough. We're getting pressure to do real time for everything.
+
+00:08:55:10 - 00:09:15:54
+不明
+But the only place where I think it matters, where we're really focus is on same visit personalization. And if you don't have web SDK, when you move from audience manager to app, you lose what you had. Because with audience manager for site behavior remarketing, you had same visit instantaneous segmentation and personalization. If you don't have web SDK, you lose that.
+
+00:09:15:54 - 00:09:34:00
+不明
+When you go to API, you have 15 minute delays on average. So that was a big it bought IT business and I wish we'd been more focused in the beginning. And finally we tried to do some analytics on around audiences and power BI. It's been awkward. We're still very reliant on clickstream data for any kind of BI.
+
+00:09:34:04 - 00:09:42:34
+不明
+And we're piloting CX right now. It would have been nice if we'd done that sooner.
+
+00:09:42:39 - 00:10:12:00
+不明
+Okay, there is no way, as a new user, that you are going to know what's about to happen to you, right? I mean, that's a given. You just can't. It's just it's it's just too much. It's too complicated. You need someone who knows who's been there before to help you at least design what you're doing. We had a consultant, one consultant primarily, who's been with us for four years.
+
+00:10:12:05 - 00:10:34:12
+不明
+We have him for ten hours a week, and he knows our system backwards and forwards. He's our. We call him our Adobe whisperer because he's integrated into Adobe. He's he's not an Adobe employee, but he's contracted through Adobe. He has access to their JIRA boards, their engineers, their product people. He has been stunningly valuable. But you're going to have to become an expert.
+
+00:10:34:17 - 00:11:00:18
+不明
+We have funded most of our work through our own teams. We've trained up people. We've learned the tools. We have conversations with Adobe to push them to improve. And I'll talk about that a bit more, too. But, that's been driven from us. We do not rely mostly on contractors. We had this one and maybe some other help, but particularly this one who helped us at the beginning and has helped us with big issues like really complicated stuff.
+
+00:11:00:23 - 00:11:21:34
+不明
+But we become the experts. And you can do that by having by listening, having conversations, meeting with peers. I really believe that other customers have experiences you will not get from Adobe, because we live it in a way, Adobe does not live it, and we run into things Adobe does not in their environment and their testing and their design work.
+
+00:11:21:39 - 00:11:38:15
+不明
+AI system is really useful. I will say. I don't know of any institution that's actually gotten approval to use it since they put out the generator. Maybe someone's in here is actually got in their org to let them use AI assistant. I'm impressed. We're about to get approval. We were part of the beta in the alpha, so I know it's a great tool.
+
+00:11:38:15 - 00:11:57:04
+不明
+I love it, but haven't been allowed to use it since June of 2024 and I can't wait till I get it back. It's a great tool. And then ask your Adobe team questions. Yeah, that's what they're there for. If you need extra expertise, we get it. I hope that anyone can get it. But ask for it if you need it.
+
+00:11:57:09 - 00:12:23:34
+不明
+And I'll hopefully we'll have time to talk a little bit about that. And you got to have good employees, because the thing is, you're going to have to learn this. It's not always logical and intuitive. You need people who are smart, can learn things and are mentally flexible and good communicators. Really nice. But, you know, you can't always have everything, but you gotta have people who are mentally flexible and can learn this stuff because it's new to all of us, right?
+
+00:12:23:34 - 00:12:47:48
+不明
+There's very few. There's not ten years of legacy experience here. It's all growing rapidly and changing rapidly. It's very different every year. Ultimate success. We rely heavily on our ultimate success team. I will say Adobe engineering can be obtuse. And when you submit a ticket, you often get bizarre answers. And it helps to have ultimate success to interpret and to push back and to dig.
+
+00:12:47:52 - 00:13:12:39
+不明
+So we have found, I have found that team to be, you know, invaluable and irreplaceable in terms of communicating with engineering on tickets. That's my number one day. There's other values, but that's I think I would I could not replace him for that. And then as much as you can alphas betas in client advisory boards, the more you work with Adobe and give them feedback and input, and the more you give them, the more you get back.
+
+00:13:12:41 - 00:13:40:42
+不明
+You get road mapping. You get influence on their, path where they're headed. It's it's we wouldn't be where we are as U.S. Bank without the engagement that people like Jason and I and others have had on these alphas, betas and client advisory boards. We're on five of my tank, 4 or 5. So anyway, that's critical. Yep. I just want to emphasize David's point about becoming the expert, because I'll tell you, I think that was hands down our best strategy.
+
+00:13:40:42 - 00:14:01:22
+不明
+And we would not pippin successful with that. And investing in our team, it allowed us to push back on Adobe, actually have intelligent conversations with engineers. So it was vital that we were coming to experts and not just relying on our third party. We use them to educate us. You know, the teach us to fish. I'll tell you, I'll say this to everybody who will listen.
+
+00:14:01:22 - 00:14:18:52
+不明
+That is to me, I thought was our our reason. Number one reason for success is again, like I said, Adobe was there. Samir, the person that David talking about, he was a great educator of us and embraced that. But that was to me was the differentiator for us. And we would not be here right now if we did not.
+
+00:14:18:57 - 00:14:36:27
+不明
+Yeah, totally agree with that. Okay, now let's get into some specifics. We've thrown a lot of hello. Okay. We've thrown a lot of, you know, theory thoughts yapping at you. But, let's give you some specific examples.
+
+00:14:36:32 - 00:15:00:50
+不明
+I really for me to get excited about this presentation, I wanted to talk about the things that we were annoyed about in the moment. It was actually had names earlier, like, you know, where you're going to stub your toe and things like that. So they let me have this title, which is managing the unexpected, but these are the things that we did not know about that have been real blockers.
+
+00:15:00:57 - 00:15:27:47
+不明
+They caused us significant pain for a while. And then when we resolve them. But in different ways, and we want to talk about resolution strategy when you run into something like this. So the the big ones for us multi identity I don't know. Okay. Hello. I don't know how many of you have run into shared device multi ID if you're active users I'd be shocked if you haven't.
+
+00:15:27:52 - 00:15:45:51
+不明
+And it caused us not to be able to market to anyone who's profile been collapsed. Because when you profile collapse, well, let me not get into the details. We have a detail page. The second one is duplicate signals. We sent five postcards to the same person in five days. When we went live the first time with direct mail.
+
+00:15:45:51 - 00:16:01:48
+不明
+And I'll talk a bit about that. Personalizing from an array. We do a lot of deep links for credit cards, and we're starting to do it for checking where you click through and end up in a specific site for that card. If you have 2 or 3 cards, it's one card. And personalizing from an array has been a challenge.
+
+00:16:01:53 - 00:16:27:56
+不明
+And then we've you know, I told you earlier, we use this very direct data loading process, which worked great for three years. And then we had two major data fails three months ago. And we're starting to deal with that. Okay. These are going to be wordy slides and I apologize. Multi ID if I and my wife both log in to the same device.
+
+00:16:28:01 - 00:16:53:06
+不明
+It has two people identities my identity and my wife's identity. And one easy ID. And the way Adobe handles identity, if you have two identities on the same record those become the same profile. Right? And so when I log into that device, my wife logs in, both of our IDs get combined, and all of our attributes get written on top of each other, because each record can only have one attribute at any one value for each attribute.
+
+00:16:53:20 - 00:17:11:34
+不明
+So when my data is loaded, then my wife's data is loaded. It would overwrite mine, right? And that's unmarketable because you don't know whose data came in first. You don't know what you're looking at. Segmentation could market them. So this was a huge issue for us. And the way we dealt with it is we escalated it. You know, we told Adobe it's an issue.
+
+00:17:11:34 - 00:17:33:39
+不明
+They said that's a big it's going to take us a long time. We raised this in January 2022 and it was a big engineering investment for them. And nothing happened for a year. And we kept complaining and finally we escalated and their senior, their head of product Sandeep and Sandeep, their top engineers and top product people talked to us about it and they finally committed.
+
+00:17:33:39 - 00:17:55:33
+不明
+We're going to get this fixed and we worked directly with their engineering. We were the first clients on the new tool. So if you're not on it, I think it's in limited release. It may not be GA yet, but they now have a shared device blocker where you pick an identity that cannot be brought together. You have a primary ID in our case, it's our customer ID, our internal key and shared device.
+
+00:17:55:33 - 00:18:13:44
+不明
+If you have two logins, it's it swaps them in and out in a way that makes sense. And you'll have to talk to Adobe about the exact process. But to fix it, they fix it, we're on it and it works beautifully. But it took us escalating and prioritizing, and they had to hear it from a lot of clients before they put the money into fixing it.
+
+00:18:13:44 - 00:18:35:03
+不明
+Right. So when you give feedback to Adobe, it alters their prioritization and their roadmap. They put money where people complain. So I highly recommend if something's bothering you, talk to Adobe, make sure they know it bothers you. Make sure they know it. You care. It helps to give them use cases and value, and we start throwing money at them.
+
+00:18:35:07 - 00:18:58:41
+不明
+You know, like this is how much we're losing because we can't do this. But communicate. So we also and we're going to show you just a few tricks to see. We're going to expose you to some code just for fun. So before we got the full the full solution, Jason actually went out and mastered a custom destination capability called destination SDK.
+
+00:18:58:46 - 00:19:17:18
+不明
+So when we sent emails and we used Salesforce Marketing Cloud. So when we sent signals to Salesforce Marketing Cloud, he built out the destination. So it would hunt for a multi ID, then Adobe implemented a multi ID blocker. And if you had multi IDs and you turn that on it just wouldn't even see them. You couldn't see profiles that were multi idea.
+
+00:19:17:18 - 00:19:35:15
+不明
+So they would segment. They wouldn't distribute and then finally they did the solution we're happy with which is you can't even have a multi ID profile. So I'm going to let Jason talk to you about some of the coding. He did. All right. Yep. So we're going to talk through this. And if you guys have some questions afterwards jump in there.
+
+00:19:35:15 - 00:19:50:40
+不明
+Because a lot of this is going to be specific to US Bank. So want to see if I get the pointer working here for you. So really this logic we built here. So I don't know how familiar everybody is with destination SDK. But I'll tell you what. When we went through this was hard to find somebody Adobe who was familiar with this Netscape.
+
+00:19:50:40 - 00:20:10:33
+不明
+So it was back to my earlier point about learning the tool. And there we were forced to learn this and thanks to our ultimate success partners, they were able to help us find some folks on the tech side that were able to kind of partner with us to build this out. Really, what happens when you're delivering to the destination SDK and here the identity and the identity profile, the map, all the identities are in there.
+
+00:20:10:33 - 00:20:27:07
+不明
+So we walk that through. And as you can see, we do the loop in here looking to see as David had reference, we have that unique ID at US bank for Jason Floor. And I have one unique ID in there. All my products roll up, all my information rolls up underneath that. So we walk through that that identity map table.
+
+00:20:27:07 - 00:20:45:45
+不明
+And if we see two of those we don't have a multi identity situation. And so we kick them out. And the reason we did actually a couple different things. We actually did a batch implementation with query services to do this. But it can happen in real time. Like I said, if I took David's phone right now and I logged in instantaneously, we'd be combined and then we could send an email based on that triggering event.
+
+00:20:45:59 - 00:21:02:13
+不明
+So this happens in real time. So that's what allowed us to kick them out. So we did not pass it on to in this example was going to our our marketing cloud partners to send the email out. So we had to do that. If the same code if you will, in two different locations, one dealing with the batch just for volume standpoint.
+
+00:21:02:13 - 00:21:11:04
+不明
+But then we also had to handle it in real time. So and this is kind of how we achieve that.
+
+00:21:11:09 - 00:21:36:48
+不明
+Me. Oh there you go. Okay. So the second issue we wanted to talk about our second challenge we ran into, which is still alive. This one is not fixed. The previous one fixed done. So I don't know how many of you have ever worked in paid media. Worked with something like Live Ramp, and you're constantly sending signals to a platform, right?
+
+00:21:37:03 - 00:21:55:10
+不明
+I have an identity in live Ram, and all of a sudden there's a new cookie library. It can associate it, and it keeps sending signal to the downstream platform because you want all the signals out there, right? So Adobe applied basically that logic to all their destinations, which worked great if you just want to be ready when someone shows up.
+
+00:21:55:10 - 00:22:12:36
+不明
+So that's paid media authenticated space and then authenticated space. But if you're sending an email I don't want to send an email every time identity changes. If it's direct mail, I don't want to send a direct mail signal every time my identity changes. And by change, I just mean I brought in a new identity into the app identity graph.
+
+00:22:12:41 - 00:22:43:13
+不明
+It's not that my email changed. It's not that my address changed. So the way we load data, we load all of our attributes every day. We never went to incremental. We didn't have a motivation. And there are reasons to not go too incremental for us. But every time we load a file, not every time sometimes, and we never actually learn the trigger, but sometimes it would read send to the destination even though the customer did not reenter the segment, the segment realized date is still in the past.
+
+00:22:43:13 - 00:23:02:24
+不明
+It's not today, but a new signal is sent to the destination. And again, we had one customer get five postcards on five straight days and we couldn't have that. So the first thing we did was Jason put a blocker in web IT and destination SDK, and he's going to show you how you did that. There are other ways to do it.
+
+00:23:02:29 - 00:23:21:25
+不明
+Two for direct mail where we cannot be wrong. So the good news about email is Salesforce could also block it, right? They can say you can't render this journey. So they were cleaning up some of our mess we still didn't want to send. We were actually at one point sending people five times a week or so, and we were swamping Salesforce.
+
+00:23:21:30 - 00:23:45:02
+不明
+So we had to block it ourselves. But in direct mail, you just don't want to send two pieces of paper to the same person. So we built something where we write out the fact, we send it to you and remove you from the segment immediately after destination. That's not scalable, right? And they built something in agile where you can look at the stream if you've sent, if you have a send stream, and now you can use that to suppress from direct mail.
+
+00:23:45:07 - 00:24:06:22
+不明
+We have not mastered that. We're looking at it. But this this is our number one enhancement request to Adobe right now. Create a flag or a capability where I can say for this campaign, this delivery destination for this audience, I can only send each person once each profile once, and after that, I cannot send them again for X period.
+
+00:24:06:27 - 00:24:28:19
+不明
+And I'd love for you guys to also ask for that if anyone cares, because the more of us who ask for that, the sooner will get it. Anyway, you can just you can keep it. Okay? Okay. We got a couple of things going on here that we'll talk through. Obviously, the destination SDK is very similar to what we talked about before, and we put it into obviously the destination destination SDK for the real time capabilities.
+
+00:24:28:24 - 00:24:49:10
+不明
+I would say maybe six months ago, six, nine months ago Adobe did really add some augmentation to their destination delivery on batch that you can replicate this logic there. And Ryan from my team has done that so we can do it. The same logic, which was not available when we built this in destination, but you can build it in a batch destination now too, though that's really complicated.
+
+00:24:49:10 - 00:25:09:10
+不明
+And but it is around. Yep. It's everything's he did that by writing a query, checking a query, writing a query off the query, checking that query. And I think it was like 20 queries deep before you could get one field built in the batch that works for this. Yeah. So it's viable but not viable. So yeah, all this stuff goes back to about being an expert on the platform.
+
+00:25:09:10 - 00:25:26:27
+不明
+Right. So you can challenge those. And I'll tell you guys, I'm very fortunate that a very good team, they're way smarter than I am. So I'm just up here talking thankfully. But we do basically very similar to what we did here at the destination SDK. We're very similar logic here around the segment here. We're walking the base very similar.
+
+00:25:26:27 - 00:25:41:58
+不明
+There's the identity map that gets sent over to the destination SDK. So it does. There's the segment map. Membership gets passed over there. We're doing a check here to make sure we find the right segment. And you can see the segment ID up here. So we know which one we're looking for. But obviously as David had mentioned earlier, a lot of the stuff is not really very scalable.
+
+00:25:42:03 - 00:25:55:40
+不明
+If you want to start doing hundreds and thousands of destinations, this is obviously not going to work. But it got us off the ground, which was the optimal, and give Adobe more time to fix some of the issues here. But we're going to walk through that. And David mentioned here's where we're doing that check here on time comparing it.
+
+00:25:55:40 - 00:26:09:27
+不明
+So if we know we need to kick them out or not that hey we already saw you come through today. We're going to push out and not let you come through again. So we handle that and then over here, this is kind of a newer evolution of the same kind of problem that we're solving here at a jail.
+
+00:26:09:32 - 00:26:29:06
+不明
+And as David said, we had been a kite wheel originally was a tool since acquired by CSG. And I forget they renamed it now, but we migrated off that onto a over here. When you enter the journey, we're actually taking in setting a flag that you're in the journey so we can do this condition. Check here. And you see it already in journey that we're going to kick you out.
+
+00:26:29:18 - 00:26:46:01
+不明
+We do need to do a little time check here too, because you can get back into the journey. If you've been out for long enough, then we want to get you back in here. But then I'll let you through. So it's just a simple check here that we kind of manage. But I'm also going to tell you it gets complicated because a great example of is I could have I think this might actually be an onboarding.
+
+00:26:46:01 - 00:27:02:36
+不明
+I could actually have two checking accounts I'm opening and be going through the onboarding journey twice. So we had to add additional logic in a few of these flavors to build to handle that situation, like multiple ones. Get in here. And which one do you not want to so but the nice thing is, is that we do have that ability to kind of take that on and build it, kind of kick them out.
+
+00:27:02:36 - 00:27:25:31
+不明
+So we're really happy that, you know that. I go back to maybe add before about David's point with AP, because we originally did not have a drill, we had quite well, and I think it became clear to us that we really needed agile. And I'll tell you, I probably frustrated a little bit with Adobe that they did not do a better job of selling us agile at the beginning, because I really think you really need them coupled together to really achieve what we were looking for.
+
+00:27:25:44 - 00:27:44:53
+不明
+So I do highly recommend it if you can be one to buy the other. So I don't know how many of you have this issue. It was a big issue for us. And and again you can only have one attribute per profile identity if you have a checking account, a credit card, and a mortgage for the same customer.
+
+00:27:44:58 - 00:28:16:41
+不明
+You have to have an array because you can't have three distinct account identities and, data sets. So you build an array. The arrays work great in segmentation. It is really, really easy to, find a segment where one of the array elements meets a condition. But then let's say I have three credit cards and I want to have a message in, the mobile app that says click through to get your balance transfer offer.
+
+00:28:16:46 - 00:28:33:14
+不明
+But I only have that offer on one of the three cards. So somehow I have to identify which of the three cards and therefore which of the three. We use last four of card number, because any more than that is not allowed, but of the last four of the card number, which one of those was the balance transfer four.
+
+00:28:33:14 - 00:28:51:11
+不明
+So I can click through on the right one. So we've had to add a lot of logic in a lot of different places to find elements, and you're essentially rebuilding the segment to get to the right field. And we're going to show you a little bit of that.
+
+00:28:51:16 - 00:29:09:01
+不明
+Yep. So as David said, obviously kind of set the table. There are products. Obviously as a bank you can have quite a few products. So we do load that data in as an array in here. And so what we're doing in here. So now as David said the segmentation works beautifully right. That you got your second product in your array got you qualified for the segment.
+
+00:29:09:16 - 00:29:23:34
+不明
+What we do now is we're going to, at some point in time are going to want to send that information. That's another way to the destination. So what we're doing in here is when you enter the journey, we're basically replicating that segment logic in there. And this is for our buddy Kerry in the back. I see where these are.
+
+00:29:23:34 - 00:29:44:47
+不明
+Our business partner that's been asking for this forever. So so what we did, we replicate that logic here in agile. And basically we're now taking and going to grab that pointer. So we know that it was the right item. Two we got said that. So what got you into this journey. And then we hold on to it. So we when you get to the point in the journey when you hit the condition and we need to deliver it, that oh yep.
+
+00:29:44:47 - 00:30:04:52
+不明
+It's time to send this to Salesforce. Maybe direct mail, whatever the destination is. Now we know exactly ID so we'll walk there array looking for that ID and then we'll go to grab that. In Kerry's case the last four of your credit card to pass it on to the email to to do another layer of personalization. But that's kind of how we have been able to kind of get around that.
+
+00:30:04:57 - 00:30:26:15
+不明
+So there is some like I said, batch has that ability inside of AP with the courier services to do it. Now it's just a little bit more complex, but it's been very beneficial. And this gets into once again why I feel that age when AP are really married together. To really build and deliver everything you need to run these kind of scenarios, you have to have the the agile as a part of your, your toolbelt.
+
+00:30:26:27 - 00:30:48:12
+不明
+Otherwise you just won't be able to deliver what you need to release. Those are findings. There are reasons when you want to deliver straight from the CDP. I had this as a side note that you're since you're selling for them, I do want to I do want to point out that I was talking to one client. I get invited to talk to peers a lot, and it's fun.
+
+00:30:48:12 - 00:31:07:27
+不明
+I love it, but one of them was saying they have built 50 journeys in agile, and they had another 100, 800 to build. And how are they going to do that? And I said, well, wait, why do you need 800 journeys? Why don't you just trigger it straight out of the CDP if they meet the condition, if it doesn't need a sequential touch point, they said, oh, you can do that.
+
+00:31:07:31 - 00:31:30:56
+不明
+So I was I was, you know, we all have a different lived martech experience. Just just remember that. But that was fascinating to me that they were so obsessed or so focused on how they forgotten that the real time CDP is really good at delivering single message audiences to all channels. So it's the two together that that are most efficient.
+
+00:31:31:01 - 00:31:48:19
+不明
+Okay, this is a new one for us. Like I said, we tried to use the tools the way they were built. We load the data straight to profile. In many cases we don't do checks on the data. And that worked for us for three years. We really didn't have major issues. And then they made a change to one of our source data systems.
+
+00:31:48:19 - 00:32:16:05
+不明
+There was a marketing data area and they changed how they were building the data. And what that did was it increased risk. They made it possible for the data to calculate simultaneously in two ways, and therefore create conflicts like collisions in the data. So one day it was December 31st, of this of 2022. For that we got, bad mobile usage data and we had an email campaign.
+
+00:32:16:10 - 00:32:45:43
+不明
+If you've been to the mobile information page, but you have not been on the mobile app in the last 90 days, we send you an email. All of a sudden we sent 700 emails, 700,000 emails to people who had been using the mobile app, including a lot of our internal product people and managers who then immediately contacted us and pointed out that we had just done this because the underlying data, which we did not create, someone else created, was calculated badly.
+
+00:32:45:43 - 00:33:03:58
+不明
+They ran it at the wrong time, which hadn't even been allowed a couple months earlier. And then they did the same thing again two weeks later. So we got made a push back. It wasn't the same thing. It was a variation on the thing, but it had the same effect. So these people got this email twice that they weren't supposed to get in a in a one month period.
+
+00:33:04:03 - 00:33:21:46
+不明
+We are now building out more checks. So we're going to do, we're built and we're still building this because it's a fairly big lift. That's the great thing about just taking the data, trusting the data and loading the data. You don't have to do all this, but we're going to start doing and we've we're doing record count validations, but not before we loaded.
+
+00:33:21:52 - 00:33:40:12
+不明
+We're going to now start doing record count validations. The record counts haven't varied by more than you know. And they shouldn't vary by more than half a percent or a 10th of a percent per day. If you if you and I'm talking customer attributes, total customer base shouldn't be varying too much. Anything that doesn't have a null should not have a null.
+
+00:33:40:17 - 00:33:58:30
+不明
+That's a big one because the first issue was all nulls. That's what caused the issue. And it's easy to know when a field should have nulls or not. So that's an easy check. We're gonna check every field that should never have nulls and see if they suddenly have nulls. And then we've loaded, what, 600,000 attributes? I mean, somewhere in that range.
+
+00:33:58:35 - 00:34:12:46
+不明
+We can't check every one of them every day for variance, but we're going to pick like this mobile usage one. The one this bit is twice. We're going to check every day and make sure it doesn't vary by more than a set limit. And if any of those things happen we stop it. We check it. We don't load it automatically.
+
+00:34:12:46 - 00:34:34:01
+不明
+So this this is something we're in the process of building right now and this one's on us. This is not Adobe. This is our bad. But it's important to the validity and the trustworthiness of the database right of the entire ecosystem. If one thing I might add to that, because requests we do have into Adobe that came up as a part of our the cab that they was referencing earlier is kill switches.
+
+00:34:34:01 - 00:34:51:34
+不明
+Right. So we can if we see these data issues, to really shut off a journey or deliver, everything's in real time, right? So they qualify. If we have a data issue, we would need to be able to pull the plug. So we're really looking forward to leaning in them a little bit to get some kill switches, the lowest to pull the plug on a journey or a destination delivery instantaneously.
+
+00:34:51:34 - 00:35:05:49
+不明
+And that skill ranks. So if we do it today, we have to go through to one at a time, and we got to be able to turn them all back on. So it's very, very cumbersome. So they know they are working in it. There was somebody from the team back there and I know they're working on it for the journey piece.
+
+00:35:05:54 - 00:35:24:22
+不明
+You know you hadn't told me this. So Jason's in the cab and I'm in the real time CD cab. We had the exact same request, only our requests. We wanted. I to say we normally send 5000 to this destination every day, and now we're trying to send 700,000. Stop. Don't send anything because you got a big queue and it's too big.
+
+00:35:24:26 - 00:35:51:31
+不明
+And then to throw out tool should be able and then it would kill and we'd check and then we'd turn it back on. So yeah, it's funny they heard it from both cabs. Good. Really? Okay. So I'm sure that one will get prioritized. This. Okay. So in summary and I and it's okay. In summary, the more you know ahead of time before you start developing, the better your outcome is going to be.
+
+00:35:51:36 - 00:36:12:02
+不明
+I know that's kind of perfectionistic. You're not going to know everything you're going to hit. We all have a different lived martech experience. Make sure that you were working with people who have been here before. I just again, I cannot imagine going into this without someone who had done it before. At least talk to a lot of people who've done it before.
+
+00:36:12:07 - 00:36:32:41
+不明
+Discuss your use cases with Adobe, meet with peers. You know, again, different live martech experience. Make sure it's relevant to you. Focus on the stuff that you think will be relevant to you. But the more you know ahead of time, the better. And I can't say that too many times and always talk to Adobe. And we've said this so many times.
+
+00:36:32:41 - 00:36:45:00
+不明
+The more feedback, the more constant communication you have with them, the better the tool will be for all of us, and the better it will be for you. I think that's it. Until you have questions.
+

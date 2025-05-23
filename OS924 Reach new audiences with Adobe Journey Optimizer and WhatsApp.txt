@@ -1,0 +1,164 @@
+00:00:00:00 - 00:00:31:08
+不明
+Wagner from the WhatsApp product marketing team. I'm here with Travis Jordan from Adobe product. We are excited to show you our latest joint product release, which brings the power of WhatsApp into Adobe Journey Optimizer. This new product integration will help you deliver targeted and personalized WhatsApp messages as part of your cohesive omnichannel customer journey. But before we go into the detail of the solution, let me set up some context.
+
+00:00:31:11 - 00:01:02:26
+不明
+So why WhatsApp customer experience matters now more than ever, people expect companies to know them and don't and anticipate their needs at every point in their customer journey and across every channel. But this isn't easy. And to do this, companies need to have a holistic view across many touchpoints and to meet the customers where they are. Was personalized experiences that made their unique needs.
+
+00:01:02:29 - 00:01:43:06
+不明
+Many companies face challenges like siloed, fragmented customer data, low customer engagement and growth, and inability to reach customers for their trust credibility issues. And lastly, inefficient campaign and high costs due to outdated tools and manual workflows. So why business messaging? Messaging businesses is the way of life around the world. It allows to transform customer relationship with personalized, two way conversation that offers the intimacy of a phone call at the scale of email or SMS.
+
+00:01:43:09 - 00:02:36:02
+不明
+Ultimately, driving business growth. In addition, our business messaging offerings help you from form deeper connections with your customers. 1 billion people connect with a business account across meta messaging services every week. There is an immense opportunity to engage customers in valuable relationship building conversations on their preferred messaging channel to generate business growth across the customer lifecycle. And today, there are more than 600 million conversations between people and businesses every day on our platforms, and the number of businesses using our paid messaging products has doubled year over year.
+
+00:02:36:05 - 00:02:58:05
+不明
+Now, messaging business is what people want because for them, it offers the familiarity, convenience and trust they've come to expect, which for businesses results in expanded reach, increases the efficiency of service offerings and is a new channel to drive sales.
+
+00:02:58:07 - 00:03:35:03
+不明
+And these benefits create the perfect confluence for business opportunity. Turn to business messaging for sales growth, cost savings and increased customer lifetime value. Now, with over 2 billion users worldwide, WhatsApp is one of the most widely used messaging platforms, making it an ideal channel for businesses aiming to connect with a diverse and extensive audience. WhatsApp provides a universal platform where businesses can engage with customers in real time, regardless of geographical boundaries.
+
+00:03:35:05 - 00:04:09:02
+不明
+And WhatsApp business messaging is for converting conversion conversations into growth across the customer lifecycle. For every step represents a renewed opportunity for growth at each stage, from discovery to engagement. Business messaging plays a pivotal role, optimizing cost savings and new revenue opportunities while emphasizing retention, and it also leads to better results across customer lifecycle when compared to legacy channels like SMS, email, or other apps.
+
+00:04:09:05 - 00:04:36:17
+不明
+Let me give you a few examples of a messaging journey on WhatsApp. For example. As a customer engaged with business, they enter the in spread experience. And here we have example of personalized promotion messaging journey there. All interactions take place within WhatsApp. This is where businesses can use personalized message, automated responses and other tactics to move customer towards their desired outcome.
+
+00:04:36:19 - 00:04:55:03
+不明
+The ultimate goal of the message journey is to reach a conversion point, which is a measurable milestone on the path to achieving the business outcome. This could be something like scheduling an appointment, making a purchase, or completing a survey.
+
+00:04:55:06 - 00:05:28:12
+不明
+There are several key categories of messaging on WhatsApp service messages initiated by users, and then utility marketing and authentication messages can be initiated by businesses. Let's look at the examples of this experiences. So let's start with the user initiated journeys. For example customer contacts of business via WhatsApp to help solve questions quickly and efficiently efficiently. So customer support messages.
+
+00:05:28:15 - 00:06:09:14
+不明
+Another example is utility messages. Those are transaction related messages which would include water confirmations, shipping updates, any other notifications related to the order that just have been placed or just about to be placed. Marketing messages are very popular way of business initiated messaging on WhatsApp, and they're perfectly suited for targeted and broad promotions. Back in stock alerts. Or for example, when you send a link, a message with your promotional catalog, or anything else where you can offer users to purchase your products or services, including seasonal promotions, as well.
+
+00:06:09:16 - 00:06:34:05
+不明
+And then the last one, is authentication and enabling authentication via WhatsApp creates trust and peace of mind. There are several examples of authentication messages that you could utilize on WhatsApp. One is password reset. And password reset has been requested on the account. You can click here to answer a security question to confirm it for you. And all happens on WhatsApp.
+
+00:06:34:07 - 00:07:11:20
+不明
+And the other example of authentication message is extra security. For example, when you would like to confirm that it's actually that person and send the code that they can include, directly in WhatsApp to verify their person. Now all this goodness is what the integration on WhatsApp channel in Adobe Journey Optimizer leverages. So first of all, through our Adobe Journey Optimizer, businesses can leverage WhatsApp rich media capabilities to send interactive and visually appealing messages such as images, videos, documents directly to customers mobile devices.
+
+00:07:11:22 - 00:07:49:12
+不明
+This level of engagement is often more effective than traditional SMS or email, as it allows for a more dynamic and interactive customer experience. Second, WhatsApp end to end encryption ensures that all communications are secure, building trust with customers and encouraging more open and frequent interaction. And the third one is by integrating WhatsApp into Adobe Journey Optimizer. Businesses can create more personalized and meaningful customer journeys that resonate with their audience.
+
+00:07:49:14 - 00:08:27:21
+不明
+The integration of WhatsApp business messaging into Adobe Journey Optimizer also brings significant operational efficiencies. Let's talk about it. Number one WhatsApp intuitive interface and widespread familiarity among users means that businesses can streamline their communication processes, reduce the learning curve for customers. Second one is combined with Adobe Journey Optimizer powerful automation and analytical capabilities. It allows businesses to efficiently manage customer interactions, track engagement metrics, and optimize messaging strategies in real time.
+
+00:08:27:24 - 00:08:54:24
+不明
+And number three, WhatsApp ability to support it to manage responses and chat bots enables businesses to handle high volumes of customer inquiries without compromising on service quality. I hope it created a lot of excitement for you guys. Not only about WhatsApp, but about the product we're announcing. And I will now hand over to Travis to demo this product.
+
+00:08:54:24 - 00:09:32:28
+不明
+Over to you, Travis. Thank you. The WhatsApp integration in Adobe Journey Optimizer will help companies build customer loyalty with real time, personalized customer engagement. It will also expand global reach with a trusted, customer centric solution. Lastly, it will increase campaign efficiencies and improve performance with AI and automation. Now, I'm excited to share with you a demo today. As a part of this demo, I'll show you how to configure and send outbound WhatsApp marketing messages in Adobe Journey Optimizer.
+
+00:09:33:00 - 00:10:07:20
+不明
+We'll explore specifically how a fictitious travel brand leverages Argos omnichannel capabilities to retarget customers who did not open an email and guide them towards a WhatsApp upsell message. Just before going on a cruise, the first step is to configure the WhatsApp API credential to make a secure connection between Adobe and the WhatsApp business account. To get started, click the channels tab on the left hand menu and Adobe Journey Optimizer.
+
+00:10:07:22 - 00:10:37:01
+不明
+Now, under Meta credentials, click create WhatsApp API credentials. Now let's go ahead and add the API credentials information, including the API token and the business account ID. Now we're prompted to select the WhatsApp business account. So I'll go ahead and select that. Finally, click submit to save the WhatsApp API credential. The next step is to set up a channel configuration.
+
+00:10:37:03 - 00:10:56:27
+不明
+A channel configuration defines the technical parameters required for your WhatsApp messages. To do this under Channel configurations, click Create Channel Configuration. Now I'll go ahead and add the configuration details. And I'll go and select the channel.
+
+00:10:57:00 - 00:11:04:09
+不明
+Now select the WhatsApp configuration that we just created in the previous step.
+
+00:11:04:12 - 00:11:11:21
+不明
+And lastly we'll add the WhatsApp phone number that you will use to send messages.
+
+00:11:11:24 - 00:11:36:10
+不明
+Great. Now go ahead and click submit to save the channel configuration. And we'll go ahead and continue to the next step. The next step is to create an omnichannel journey in agile, facilitating real time orchestration using contextualized data in events or other data sources. And Adobe Experience Platform. To get started, go ahead and click Create Journey.
+
+00:11:36:13 - 00:11:52:27
+不明
+Enter a name for the journey and click Save. Now we need to determine the right audience for this campaign. To do this, click and drag the Audience Qualification event to the Journey Canvas.
+
+00:11:52:29 - 00:12:14:09
+不明
+Now click the pencil icon to select the desired audience. I go ahead and select my audience and click Save. Now we can see our audience here. Next step is to add our email channel to the canvas. To do this, click actions.
+
+00:12:14:11 - 00:12:20:04
+不明
+And then click and drag the email channel to the Journey Canvas.
+
+00:12:20:06 - 00:12:42:18
+不明
+For demo purposes, I will not configure the email channel today. As you recall, the goal of this journey is to retarget customers who did not open the email, guiding them towards a WhatsApp upsell offer before the cruise. To do this, we will add a condition to establish a decision branch in the journey. So I'll go and click the orchestration tab.
+
+00:12:42:21 - 00:12:51:24
+不明
+Under the orchestration tab, I will now click and drag condition to the Journey Canvas.
+
+00:12:51:27 - 00:13:08:01
+不明
+For this example, we will create a condition that defines two paths. One path for users who open an email, and the other path for users who do not open the email. Let's add the necessary expressions.
+
+00:13:08:03 - 00:13:21:01
+不明
+Finally, we will add the WhatsApp channel to the journey. To do this, click actions once again and then click and drag the WhatsApp channel to the canvas.
+
+00:13:21:03 - 00:13:36:27
+不明
+We will add the label for this action. You can call this whatever you'd like. In this case I'm going to call it WhatsApp cruise offer. Now we select the WhatsApp channel configuration that was created in the previous step.
+
+00:13:37:00 - 00:13:41:26
+不明
+Okay, now we're ready to move on to the next step.
+
+00:13:41:28 - 00:14:07:15
+不明
+This final step, we will preview, personalize and publish the journey, which activates the WhatsApp message. To get started, click the Edit Content button. We can configure two different types of messages. A template message which is initiated by a business, or a response message which is initiated by the end user. For this example and demo, we will select template message.
+
+00:14:07:18 - 00:14:24:19
+不明
+With our prior API connection, we can now view and access the templates that were created in our WhatsApp Business Manager. Note template creation must be performed in the meta UI before creating your messages. In agile.
+
+00:14:24:21 - 00:14:53:23
+不明
+I can easily select the already configured and approved WhatsApp template now and look at that. After I select the template, I can now view and manage the message elements in AGL. This enables you to easily add personalized content, leveraging events and other data sources in Adobe Experience Platform. To do this, I will click the Personalization Editor icon to replace the first variable placeholder with a profile attribute.
+
+00:14:53:25 - 00:15:07:27
+不明
+For this demo, I will abbreviate some of these steps. The personalization editor injects the necessary code into the message so that users are dressed by their first name.
+
+00:15:08:00 - 00:15:32:21
+不明
+Now you can see that my placeholder variable has been updated with the profile attribute. We will now update the second variable placeholder to deliver intelligent offers from Agile Decisioning. Once again, I will click the personalization icon to get started. For this demo, I will abbreviate some of these agile decisioning steps. As you can see here on the screen, I have created two free cruise upsell offers.
+
+00:15:32:23 - 00:15:59:13
+不明
+The first is a dinner upgrade and the second is a room upgrade. Ajio decisioning intelligently delivers the right offer, real time to the end user based on predefined criteria. Now you can see that the second placeholder variable has been updated with the decisioning attributes. Now let's click Simulate Content to view the message with a test profile to ensure that it's working as expected.
+
+00:15:59:15 - 00:16:08:13
+不明
+Look at that. The WhatsApp message now shows the correct first name and offer for this test profile.
+
+00:16:08:16 - 00:16:35:05
+不明
+Now we are ready to publish and activate this journey. Click the publish button to deliver. Congratulations! Once published. Remember that you can also view delivery and error reports to help determine the success of your campaign. This wraps up the product demo. After following these simple steps, you can easily configure and send WhatsApp messages. Now. If you think the WhatsApp channel with Adobe Journey Optimizer could be a good fit for your business.
+
+00:16:35:08 - 00:16:54:08
+不明
+Go ahead and contact your Adobe and Meta reps. We expect to have this feature available for customers by the middle of this year, and we are excited to deliver it to you. We want to make sure that you're ready to take full advantage of this exciting new product capability. Thanks for joining us today and we look forward to helping you in the future.
+

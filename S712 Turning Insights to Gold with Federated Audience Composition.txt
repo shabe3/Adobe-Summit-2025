@@ -1,0 +1,448 @@
+00:00:00:01 - 00:00:08:20
+不明
+Hello, everyone. Welcome to the last session of the day. You all made it.
+
+00:00:08:25 - 00:00:52:37
+不明
+So let me begin with, you know, defining the problem definition. Marketers today are drowning in data. Yet they lack, insights from it. You have customer interactions coming in from website, emails, ads and social media. Yet converting that raw data into meaningful, AI driven insights seems impossible. You know what? If you could unify your data in a single data lake and just talk to your data like chatting with a colleague, and get real time insights out of it and convert those insights into actions?
+
+00:00:52:42 - 00:01:22:41
+不明
+So that's what Microsoft Fabric and our integration with Adobe app can make possible. I'm Rich engine, program manager on the Microsoft Fabric team and I help as ISV. And enterprises build on fabric to provide value to our joint customers. And I'm joined here by my colleague from Adobe widget. I am Abhijit, coach. I'm part of the real time CDP product management team, a helpful product, that helps our customers solve their business problems.
+
+00:01:22:46 - 00:01:50:22
+不明
+So happy to be co-presenting with Richard. Thank you. So here's what we're going to talk about. What is fabric and why? Fabric. Then we are going to look at one lake, which is the the unified data lake powering fabric. Then we will look at some of the AI experiences within Microsoft Fabric. And on how we are democratizing access to Genii across all personas.
+
+00:01:50:27 - 00:02:13:17
+不明
+And then we will have a demo of how fabric and API work, work together. So before I, before I, you know, talk about fabric, you know, if there was one word that was common through all the sessions at summit, it was probably AI. Right. And this session is no exception. And so, you know, we all agree that AI is transforming the world.
+
+00:02:13:31 - 00:02:32:58
+不明
+There is no doubt about it. Right? But the AI is as good as the data that it gets to work with, right? Even with the best of the models out there. If you put garbage in, you're most likely to get garbage out. So that's why it becomes really important for enterprises to get their data straight. Ready for AI.
+
+00:02:33:03 - 00:03:12:05
+不明
+You know, unfortunately, it's much more complex and much more expensive than it needs to be and nothing represented. Nothing represents it better than this slide, which shows the data and AI landscape and how fragmented the whole ecosystem is. There are hundreds of players across each category, each solving part of the problem. And so what this translates into is, fragmented, data, siloed tools and operational challenges for marketers to get insights.
+
+00:03:12:10 - 00:03:34:46
+不明
+So at Microsoft, we understand this challenge very deeply. And that is why we are bringing everything together, all of our tools together. So they work seamlessly. In what we call as copilot in AI stack. At the bottom of the stack, you know, we provide the best in class infrastructure for model training. That's where, you know, all the airlines are being trained.
+
+00:03:34:51 - 00:04:07:44
+不明
+On top of that best in class data platform for, for you to bring in data that is ready for AI. And on top of that, through Azure Foundry providing models, state of the art models from meta, deep seek cohere and such and and then to make this AI accessible for everyone. We are integrating, different tools across the Microsoft ecosystem like Copilot studio, Visual Studio, teams M365 so that AI is present and available for you.
+
+00:04:07:56 - 00:04:11:36
+不明
+And it's contextual.
+
+00:04:11:41 - 00:04:26:56
+不明
+And we are also converging all of our data products within Microsoft Azure, to Microsoft Fabric. So fabric now becomes like the data layer of the copilot stack.
+
+00:04:27:01 - 00:04:53:05
+不明
+So before I dive into fabric, can I just have a quick show of hands of how many people have heard of fabric or use fabric? Oh, quite a few. Okay. How many people have used office here? Microsoft office, everyone. Right. So. So I like to compare fabric to office. Right? Office is a, suite of productivity tools.
+
+00:04:53:05 - 00:05:24:02
+不明
+Right? Each of these tools, each of the tools for the office is optimized for a specific task word, for creating a document. PowerPoint to create a presentation. An Excel to analyze a spreadsheet. But what makes office powerful is not these individual applications, but the common experience this year. So no matter which tool you use, there is a common, interface and common collaboration tools, across across them.
+
+00:05:24:06 - 00:06:01:23
+不明
+And and at a deeper level, they shared a unified architecture and unified storage and a unified security framework. So fabric is the office for analytics. It works the same way with fabric. We are bringing different analytics service from Microsoft together in a unified manner. So, you know, be it, for data transformation or if you are building a warehouse or if you are just, getting insights, using power BI, all of these workloads, or services are individual Azure services today.
+
+00:06:01:27 - 00:06:24:57
+不明
+These are, you know, have been around for quite many years. They are battle tested. But with fabric, we have optimized them to work in a single format. So they all speak the same language and work with one lake so that the read and write, in the common data format, at the foundation layer, one lake becomes the storage layer across all the workloads.
+
+00:06:25:02 - 00:06:49:50
+不明
+So it is a common, you know, storage bucket for them to read and write from. And one of the advantages is fabric had, because, you know, we are one of the latecomers, to this whole, data platform. Thing is that it was born in the Genii era, right? So. So AI is not just a add on, within fabric.
+
+00:06:49:55 - 00:07:15:33
+不明
+It's deeply infused and deeply integrated across all fabric experiences. And that is something you will see across all the demos that I show today. And fabric also, Onelink also integrates with Microsoft Purview, which is Microsoft's governance tool. So you get lineage and tracking out of the box. So with fabric, what we have done is, you know, we have certified the whole experience.
+
+00:07:15:33 - 00:07:38:17
+不明
+So you get the you get the value out of the box. There is no VMs to manage. There is no cluster to, take care of. And everything just just works. All the workloads, all of these, different workloads, think of them as five different vendors that otherwise you would have to manage. And they're all part of they're all they're all drawing compute from a single compute pool.
+
+00:07:38:21 - 00:08:08:29
+不明
+So they all speak the same compute unit as well. We have also opened up the platform. So it's extensible. So we have extended it from some of our industry solutions. These are, industry patterns to provide templates for some key industry verticals like retail and finance. But we are also working with, some of our key ISV, like neo 4G and also, for them to bring in their experience as native fabric workload.
+
+00:08:08:34 - 00:08:27:16
+不明
+So, you know, it's, it's a lot to go through and, you know, it's in a single slide. So here's a quick demo that shows, you know, the, the real power of fabric and an end to end, manner. Let's take a look at how easy it is to get started on a new project in Microsoft Fabric.
+
+00:08:27:21 - 00:08:48:18
+不明
+Fabric brings together every data and analytics workload into a single, seamless, unified experience. And even better, we've integrated Copilot everywhere to get you started quickly and supercharge your productivity. Opening up a workload I have tailor Getting Started content and can create related artifacts with a single click, but I can also jump start a new project using Task Force.
+
+00:08:48:22 - 00:09:09:04
+不明
+Task flows provide predefined templates for common data and analytics design patterns to accelerate my work. Here's one for real time event analytics. And here we have a medallion architecture for structuring data enrichment processes. When I pick a task flow immediately it provides a diagram that both guides and organizes. Me and my teams work for each part of the task.
+
+00:09:09:04 - 00:09:28:08
+不明
+Flow fabric suggests the types of items we should create, and of course I can customize it for my specific needs. For example, let's add a new step for alerting and tracking data. And now let's create a new data warehouse where we'll land our bronze data. All I have to do is give it a name and I'm instantly navigated to the warehouse experience.
+
+00:09:28:13 - 00:09:46:20
+不明
+Everything is auto provisioned and I don't have to set up any clusters, networking or storage accounts as a first step. Let's bring some data into my warehouse. I can navigate to my pipeline experience in a single click, and choose from a wide range of connectors that will bring data in. It. Petabyte scale. I'm going to choose Azure SQL as my source.
+
+00:09:46:29 - 00:10:08:54
+不明
+Select all the tables I want to copy. Specify the column mappings and that's it. And now I can start customizing and managing the pipeline. But instead of needing to know how to do this manually, I can use copilot. Copilot is built into every fabric experience and lets me use natural language chat to get my work done here. Let's ask copilot to schedule this pipeline to run each night with 11 p.m..
+
+00:10:08:59 - 00:10:27:30
+不明
+And just like that, copilot takes care of configuring the pipeline schedule, navigating back to the warehouse. I can see my tables have been automatically created for me. My data has been brought in. I can explore the data by filtering it directly in the table view, or by writing my own SQL queries. And Copilot is built in here too.
+
+00:10:27:35 - 00:10:52:28
+不明
+Copilot is amazing at writing SQL with just a comment. I can ask for something like sales for only our rent products. And just like that, copilot has the query. For me, having copilot seamlessly built into my query editor is a huge productivity boost, and so is having everything in fabric seamlessly integrated together. With just another click, I can move to the reporting tab and go ahead and build a PowerBI report right on top of my data with no extra copies of data.
+
+00:10:52:33 - 00:11:14:47
+不明
+And it's all fully optimized for the best performance. And here again, I have Copilot built into power BI so I can get help building my report. Let's get some suggestions on the type of report I might want to build, and I'm going to adjust this product performance suggestion to include a breakdown of orders by category. And just like that, copilot has gotten me started with a beautiful report page I can slice and dice and configure for my needs.
+
+00:11:14:52 - 00:11:30:21
+不明
+As you've seen, fabric seamlessly integrates every data and analytics workload into a truly unified experience. And with Copilot integrated everywhere, it's easier than ever for every data professional to get started quickly and upskill their abilities.
+
+00:11:30:26 - 00:11:51:16
+不明
+So pretty cool. So you saw how quickly you can get from data all the way to visualization with Deep Copilot integration. You know, to help you throughout the way. So let us let let's talk about one lake, which is the the unified data lake powering fabric. As I mentioned, all of the workloads sit on top of one lake.
+
+00:11:51:17 - 00:12:16:42
+不明
+So they read and write. One lake is built on top of open source Apache Delta parquet format. So there is no vendor lock in. You know, you can even read from one lake using Databricks, for example. And one lake allows you to bring your data in from different sources, from different clouds, from on prem, from, you know, S3 compliant sources.
+
+00:12:16:47 - 00:12:41:11
+不明
+We have two key capabilities within, one lake that allows you to, bring unify your data. One is shortcuts. And I'm going to be covering that in much more detail. But shortcuts basically allow you to reference your data wherever it sits without any data movement. And mirroring allows you to create a replica of your database in fabric without any ETL on your part.
+
+00:12:41:16 - 00:12:58:04
+不明
+So and through this and through other approaches, what our vision is for you to unify your data wherever it sits in one lake and then apply these best analytic tools, on top of it.
+
+00:12:58:09 - 00:13:22:33
+不明
+So. So since Swan Lake is the foundation, there are many approaches to get data into one lake. Data factory is the in-built data transformation and data movement tool within fabric. You know, APIs. You know, probably everyone has used it here. That just is another mechanism for you to push batch or real time data on into one lake.
+
+00:13:22:38 - 00:13:51:16
+不明
+Using shortcuts, you can reference your data, to other clouds, without any data movement. Data sharing. This is something specific to fabric. In which we allow you if there are two fabric tenants, you can seamlessly share data between those in a secure, secure and reliable manner. And lastly, with database mirroring, you can have a, up to up to date replica within fabric of your operational databases.
+
+00:13:51:20 - 00:14:14:43
+不明
+So I'm going to be focusing on those three that those are highlighted. Let's first talk about Data Factory. So with Data Factory, there are hundreds of connectors that are available today. You can connect to on prem sources, other clouds, other data providers. SAP, Salesforce and so on. And bring the data into fabric, land into fabric.
+
+00:14:14:48 - 00:14:37:50
+不明
+You can apply transformation on the fly as you're moving the data in data factory automatically converts your, data from, from some open formats, you know, CSV, Json, Avro to Delta Lake so that when the data lands into, into one lake, it is readily available to be consumed by all the other engines that you saw.
+
+00:14:37:55 - 00:14:59:43
+不明
+Right. So as you are moving it and you do not have to do any other transformation, data factory will take care of that for you. Data factory also has AI inbuilt in it. So outside of what you saw through copilot, there are AI functions that are part of data factory. So you can do sentiment analysis, text classification, text analytics as part of your transformation as you're moving data in.
+
+00:14:59:57 - 00:15:16:24
+不明
+So what this what this results in is that you do not have to move data in one format and then transform it again as sitting in one lake. You can do everything on the fly as you are moving it in. We support low-code no code drag and drop authoring experience. So, you know, it's very, very easy to get started.
+
+00:15:16:29 - 00:15:50:59
+不明
+And we also partner very closely with Informatica and Fivetran are the other, you know, ELT providers. So, you know, there are more sources that are, that are supported. Shortcuts I talked about, you know, how it basically it's a it's a virtual link to your data that is sitting outside of fabric outside of on lake. If you use shortcuts on Windows or Linux, you know, it's the same concept that it, you know, it makes you think that the data is natively there, but you are referencing it from a remote location.
+
+00:15:51:04 - 00:16:14:05
+不明
+You can, today create shortcut to Amazon S3, Google Cloud storage. If there's any other file system that has S3 APIs on top of it, S3 API is, you know, industry wide, API format on top of file systems. We support that, and you can even create shortcuts from within, fabric itself.
+
+00:16:14:19 - 00:16:36:27
+不明
+If there's a lakehouse in a different workspace that you want to access. You can you can bring it in, using shortcuts. So it basically makes, rather than you creating different copies of data, or, you know, moving things around, you can just reference it wherever it sits. And why is it important is because, you know, especially the multi-cloud shortcuts is because enterprises have already made investments in huge data lakes outside of fabric.
+
+00:16:36:27 - 00:17:02:20
+不明
+So we acknowledge that, that fact. Right. But we want it. We want them to bring the data, within fabric. And that's why we let the data sit wherever it is, let them let it be governed and managed centrally wherever it is. But make it accessible within fabric. So, they can benefit from all the, different services that we have.
+
+00:17:02:24 - 00:17:20:57
+不明
+And lastly, talking about mirroring, so if you have, if you have databases running, in Azure or outside of Azure, you can bring it in today, without mirroring using ETL. Right. You can use data factory to, to move data from, you know, source to sync. But then you have a ETL pipeline to manage.
+
+00:17:20:57 - 00:17:43:40
+不明
+You have a compute to manage your power. You need to keep the replica up to date. And you need to pay for it. Right. And you also need to pay for network integration. All this. Right. With mirroring, it's all covered. The zero ETL on your part, and it's free. Microsoft even pays for the storage of your replica up to, you know, certain extent based on the skew that you have.
+
+00:17:43:45 - 00:18:08:00
+不明
+And and so we so there are some, some databases that are natively supported in fabric, for mirroring. But we understand that, you know, that that cannot be we cannot scale that way. So we have opened up the mirroring, APIs and SDK for any of our partners to, to connect. So we have Oracle and Stream and others who are integrated today with the open mirroring, part.
+
+00:18:08:05 - 00:18:35:54
+不明
+So just to bring everything together, you can bring your data into one lake through data factory, through shortcuts, through Rest APIs, through mirroring, and then use any of the fabric engines to transform the data, make it readily, you know, make it ready for AI and then use, different tools from Microsoft ecosystem, and get insights, out of it.
+
+00:18:35:59 - 00:19:03:05
+不明
+So just to show like, how, how all of those things work together, to unify everything in one lake. Let me run through a quick demo. We've seen how every workload in fabric can work with the same one copy of data when it is in one lake, but we don't always want to copy data or build and maintain complex ETL processes, especially if we have existing investments we want to leverage.
+
+00:19:03:09 - 00:19:29:00
+不明
+Contoso outdoors is a classic example of this. If we look at where Contoso outdoors is storing and managing their data, you can see that they, like a lot of organizations, have data everywhere. In snowflake, there's the customer loyalty program. Azure Databricks has the sales data. Dataverse has the customer support systems. Cosmos DB has the retail order tracking, and we can get our product inventory in our product catalog from Amazon S3 buckets.
+
+00:19:29:05 - 00:19:48:23
+不明
+With fabric, we're going to create a new Lakehouse where we can access all of these sources in a single unified location that is always in sync to the underlying systems. With zero ETL. Let's start with our data in Azure Databricks. We can create a shortcut directly to the data. Since fabric natively works with the data in delta parquet format.
+
+00:19:48:27 - 00:20:08:09
+不明
+I just provide the connection information. And just like that, I can now access the data through one lake in fabric with zero data movement. I can do the same thing with Dataverse in Amazon S3, and if I jump ahead, you can see the data from each of the sources here. And you can see we've created shortcuts to more than just tables of data.
+
+00:20:08:13 - 00:20:31:18
+不明
+We also created shortcuts to the images from our product catalog into text documentation files for our products. We can also use these for building solutions in fabric or for other services like Azure AI studio, so they can access the data through one lake. Next, we're going to bring in our data from Snowflake and Cosmos DB. For these sources, we're going to use fabric's new database mirroring capability.
+
+00:20:31:23 - 00:20:53:07
+不明
+Database mirroring automatically reflects data from snowflake directly into one lake, and keeps it in sync with every change. This means my customer loyalty program from snowflake can be accessed seamlessly in fabric with zero ETL, and it's always kept in sync automatically by fabric. Once the mirroring is set up and running, my data is ready to be used across every workload in fabric.
+
+00:20:53:12 - 00:21:23:25
+不明
+I've also set up mirroring to cosmos DB, and just like my snowflake data, it's being reflected into fabric and kept in sync and ready for me to use. Let's go back to our lakehouse. Now I have the data from all five different clouds integrated in minutes into a single unified lakehouse in fabric. With one click, I can switch to the SQL endpoint in fabric, and I can write a single SQL query that joins data from each of the five different clouds, showing how I can work with all of this data in a unified way.
+
+00:21:23:30 - 00:21:46:31
+不明
+Before we switch over to the lineage view, you can see this even more clearly. We have a full view of downstream and upstream lineage, and we can see the snowflake, Azure, Databricks, Dataverse, Amazon S3, and cosmos DB data all coming together and ready for my organization to use. For example, here we've created a machine learning model to predict demand and inventory levels for the upcoming holiday season.
+
+00:21:46:36 - 00:22:05:26
+不明
+We also have power BI for reporting on the data. Let's open up this report that shows order status for our loyalty program members. This report is using power BI Direct Lake mode, so all the data is always up to date. And I can slice and dice the data with blazing fast performance. Since the data is all coming from one coffee in one lake.
+
+00:22:05:28 - 00:22:23:46
+不明
+It also means we can deploy one security model for the data that flows through all these solutions. We can see the sensitivity level flowing through to every downstream artifact, along with any data level security we apply. And finally, if I switch over to the Purview Hub in fabric, I can see a complete view of all of our data assets.
+
+00:22:23:51 - 00:22:47:10
+不明
+This helps me understand data sensitivity, endorsement, and usage of all my fabric items. As you've seen, Microsoft Fabric is a game changer for enabling organizations to create a unified data state spanning all of their data and supporting every analytics workload in one easy to use experience. Okay, I promise this is the last recorded video. After that, we only have live demos.
+
+00:22:47:15 - 00:23:11:01
+不明
+So you just saw how one lake unifies. You know, data from different sources, and without any data movement. So let's just look at look at, you know, you have the data now, but what really matters is how we can get insights out of the data. And that where, you know, so how quickly you can enable your users to apply JNI on top of the data.
+
+00:23:11:06 - 00:23:34:37
+不明
+So in fabric, we do it through two key experiences through copilots. You saw, you know, most of it through the demos. We have copilot integrated through all the experiences and fabric. Copilot works great out-of-the-box. It is fine tuned for that specific, task, or specific experience that you are in. So, so, you know, if you are in data warehouse experience, it will help you write SQL query, for example.
+
+00:23:34:37 - 00:23:57:15
+不明
+So it's fine tuned for that experience. But we also allow you to, create custom JNI on top of your data so you can, give it a slice of data or to your model similar to, you know, rank based architectures, and then ask questions on top of it. So this, this screen just shows, you know, how copilot, is deeply integrated through all the different experiences.
+
+00:23:57:20 - 00:24:22:49
+不明
+So we data engineer, for example, can write SQL queries, can create data pipelines, write spark code and so on. Business user can create reports with just one example of that. And, you know, can just, talk to data and natural language and get insights and data scientists and developers, they can create models, and do transformations, using, using, these copilot experiences.
+
+00:24:22:53 - 00:24:47:26
+不明
+And important thing to highlight here is, we are constantly working to improve these copilot. So as new models get released, you know, you get a new copilot. So. Okay. So copilot takes you all the way there, but, you know, copilot, what copilot cannot do is that it does not have knowledge of your, business taxonomy.
+
+00:24:47:31 - 00:25:15:31
+不明
+You know, business terminology and, you know, the custom, custom industry data that you have, right? So that's why we want to make it easy, for our customers so that they can apply, this, custom AI on, on top of their own data. So I want to switch over to my screen here and show you, what we call as AI skill, how easy it is to create a skill in fabric, grounded to, domain of data.
+
+00:25:15:36 - 00:25:43:22
+不明
+As, you know, within one leg, and then just simply start asking questions. So what I can do here is I can, I am in my workspace in fabric. I can go to create a new item, and I can say, I want to create a grid by skill. So with that, I can I can just provide it a name, you know, just set as to.
+
+00:25:43:26 - 00:26:04:08
+不明
+And and it will create a skill for me. Would ask me to connect to a data source and give me a chat pane on which I can, I can use to ask questions to it. I have already created a skill here, that I want to just go through because as you can see through the responses as well, that it takes a few seconds for responses to come back.
+
+00:26:04:08 - 00:26:30:11
+不明
+So in the interest of time, I ran some queries on it. The data set on the left here is, is the customer churn, data set. So I've selected five tables on, location, demographics and customer status. And so I first started with, with just asking, like, you know, I cannot actually see it.
+
+00:26:30:16 - 00:26:54:29
+不明
+You know, just asking, like, give me, details when I didn't know anything about the data. So I just said, give me more details about the data. So it came back with, you know, the name of the tables. You know how many rows there are and sort of the data distribution. And there, then I ask the next question to wait around asking, how many what is the percentage of customers that are churn in the last 12 months?
+
+00:26:54:34 - 00:27:17:17
+不明
+So as you can see, like it didn't get a response to me, and it failed, which I think is a good outcome because it didn't hallucinate and just produced, any output. Right. So it failed there. But then I ask the same question, just right after, and it came back with an answer. Even in that response, you can see that it, it, it kind of failed in the, in beginning and then it, auto corrected itself.
+
+00:27:17:22 - 00:27:37:54
+不明
+So it came back with, 26%. Users that have churn in the last 12 months. Then I keep asking questions around, the average tenure of, of, churn versus retained customer.
+
+00:27:37:59 - 00:28:15:38
+不明
+What what type of contract each of those customers had. So, you know, like, you can ask, this series of questions and it's actually, you know, really good insight. And one thing that it is doing and why it is taking, you know, 20 30s to run it is because as you type these questions, it is taking those questions, converting it, using an to SQL API, converting it, converting it from natural language to SQL and running it, running it against the database, figuring out which tables you actually are, asking about, so so there are, so there is this interesting, all of these questions.
+
+00:28:15:38 - 00:28:36:36
+不明
+And then lastly, like I asked if I have to create a customer churn model, what will be the good fields which I, which I could use, to, to create that model. So it gave me a good recommendation of, of certain fields with, with explanation of why they would be useful to create that model. So let us actually go through and see, like, you know, run random question.
+
+00:28:36:36 - 00:29:00:44
+不明
+I also have, customer reviews as part of the data set in, in which the customers explain why they left, why the churn? And so let us, run this question and see, you know, just to classify those reviews into, a certain category.
+
+00:29:00:48 - 00:29:07:47
+不明
+Okay, so it did fail. And that's one of the.
+
+00:29:07:51 - 00:29:25:57
+不明
+One of the things a live demo. So it's always, you know, this query just worked right before this demo. So let's let's run it again. But while it is, doing that, one of the other things that you could do with the AI skills is you can pass it, you can pass it instructions. So, you know, you see a single instruction there.
+
+00:29:25:57 - 00:29:45:54
+不明
+But, you know, if there is a certain column that you want it to consider when you are, running queries, you can provide those instructions and think of it as, system instructions that you pass to the GPT, for example. Right. It's the same, same concept here. You can also give, for example, queries for it to for it to, get results for you.
+
+00:29:45:59 - 00:30:08:53
+不明
+So, that you can provide through the example query tab here. And lastly, you can share these, AI skill with other users. And you can make sure that, you know, they have read access or you can even give them edit access, for example. So with this, it really makes makes it very easy for you to apply Genii on on top of a data.
+
+00:30:08:58 - 00:30:33:02
+不明
+So let me go back to the to the deck here. So so insights are only valuable if you can drive actions out of it. And that is where our integration with Adobe app, comes into play. So with this integration, how do we we can seamlessly connect to Fabric data warehouse, create and refine audiences and fabric and then activate those audiences in app without any data movement.
+
+00:30:33:07 - 00:31:01:11
+不明
+So for that, I would like to invite it to give more details. Thank you. Rich. And this was extremely helpful to me and insightful as well. Three. Okay. So I think is as written mentioned, right? I mean, we see a explosion of data, as it relates to how consumers are engaging with their brand or how they're interacting with the different channels that they work with.
+
+00:31:01:15 - 00:31:22:19
+不明
+And which leads into the whole problem of too much data. How do we make sense of the data, how that needs to be arranged? How can we cut down the digital noise to really get down to what matters to me for my marketing use cases or business use cases to really drive that tangible action? And what we see here at, at Adobe and in general as well.
+
+00:31:22:19 - 00:31:52:33
+不明
+Right. Organizations are following, an approach where they are looking at consolidating their data, on warehouses or, like Microsoft Fabric unified Data analytics platform, where you tap into the capabilities of an enterprise data warehouse where you can bring in, good data consolidation across your organization and use that to look at historical transactional interaction data, to look at trends, leverage power.
+
+00:31:52:33 - 00:32:16:48
+不明
+Power by, as Richard was showing to learn more about how that data is behaving and drive some of those analytical workflows from a data science and modeling perspective. And at the same time, we are also looking at adoption of customer data platform, which is helping through the noise on unifying the customer data across multiple sources and utilize this rich information that you get through warehouses in a much more seamless way.
+
+00:32:16:53 - 00:32:46:54
+不明
+As you look at activation of these, unified customer profiles across different channels for, personalization, the benefit, of doing that is that you have leverage across the entire scope, of high value historical data for enhanced segmentation and personalization purposes. And I'm going to quickly show you how seamlessly and easy it is to do that. And also make data warehouse data sets accessible and actionable for marketing campaigns.
+
+00:32:46:58 - 00:33:35:43
+不明
+So, it's okay. It's okay. So just to kind of, ground it up, right? Real time GDP today provides both federation and streaming capabilities, which add on, and additional capabilities to meet the demands of our marketing and data engineering teams by providing a access to critical data sets that you have out there. It also allows us to do comprehensive support for use cases, which require, in the moment, experiences where a consumer is walking into, let's say, a store or interacting with your web property, or you want to go on Facebook and deliver a personalized ad, and do that in a way which minimizes data movement and duplication, because we
+
+00:33:35:43 - 00:34:00:58
+不明
+all know it is not easy, to move data around. So how do we work with that in a much more seamless fashion and utilize a single system for experience driven workflows and activated across channels? So with that, I will probably going to switch gears and actually show you a live demo of how this thing comes into action, and really go through, this experience.
+
+00:34:01:03 - 00:34:25:35
+不明
+Then, what I'm going to do as a part of this demo, as I'm going to work on a fictitious company called City Signal, where I'm going to use that a to create, an audience essentially where fiber is eligible at their home address. Right. And I'm also going to do it in a way that I'm going to verify that this is a signal that they are an existing city signal mobile customer.
+
+00:34:25:49 - 00:34:59:22
+不明
+Right. This data is residing in fabric. Right? So I'm going to do it by creating a warehouse native audience. And I'm going to bring that over to experience platform to be available for activation. Right in and show you how that's possible with the integration that we just spoke of. And then time permitting, we can jump into how you can then use that information to also drive real time engagement as, customers of aka of City Signal interact with the brand on a web experience.
+
+00:34:59:33 - 00:35:22:23
+不明
+So how can you then use that information to set up streaming, or, edge audiences that can, that you can leverage for, streaming and edge activation scenarios. So let's dive in. I'm going to quickly switch screens. All right. So now that we're back and experience platform, right, I'm going to quickly show how this integration comes to life.
+
+00:35:22:28 - 00:35:51:52
+不明
+And I will seamless. It is for you to integrate with, Microsoft Fabric unified data analytics platform. So, with federated audience composition, one of the additional if you have that skew add on available, what you will notice is you will have a net new left Nav called Federated Data. And within that you can go into federated databases to go ahead and establish a connection with whichever, source of data that you want to connect with.
+
+00:35:51:57 - 00:36:21:16
+不明
+We added capability to for Microsoft Fabric support. And that was announced, in February, which you can see. And so now you can use this to connect to your Microsoft fabric. Data platform and then use that for your, audience, capabilities that we're going to touch into right now. I'm not going to go ahead and finish the set up, but I just wanted to show you guys the screen that this is GA, it is live, and it is available to us customers to use today.
+
+00:36:21:21 - 00:36:42:54
+不明
+Right. So it's not, a GA, that kind of, set up in here. Now I'm going to quickly navigate into, the audiences tab, right, which we are pretty much all familiar with in terms of how that whole thing works. This is your central store for all audiences within Adobe Experience platform, so you can see all your audiences listed out in here.
+
+00:36:42:59 - 00:37:04:44
+不明
+And what I can actually go ahead and do is I can access the Federated Composition tab in here, right, which is a. Net new tab that gets enabled once you have the FC, the add on, which then allows me to kind of basically use my connection that I just established with Microsoft Fabric to build my audiences as I go through this exercise.
+
+00:37:04:55 - 00:37:32:42
+不明
+So let's take a look, of how this all comes to life. I'm going to quickly pull up the slides so that we go through it side by side. Right. I hope that's big enough. And as we go through this exercise in here. So I'm going to quickly go ahead and say create composition. Right. And give this composition a name.
+
+00:37:32:47 - 00:38:00:31
+不明
+Sam, at 4 p.m. session. Sorry, I'm not super creative with this. And I'll select the back end data model, which is just tied to it create. And I am presented with the composition canvas. I can directly go in and say I want to build an audience, click build audience, select the schema that was exposed to me through my fabric connection.
+
+00:38:00:35 - 00:38:23:16
+不明
+So you can see here I have these different schemas that I have access to. And then the last exercise, Richard, was showing you that he was walking through the population services location and this data schema as he was doing that consolidation. So I see that view as well as a marketing operations guy, but I'm not going to use the population and those ones because my use case demands me to work with the city signals set.
+
+00:38:23:18 - 00:38:49:15
+不明
+So I'm going to just stick to that for this demo purposes. And I'm going to quickly go ahead and say select the person test. For example, tell me who all have a mobile subscription for City Single, and I can quickly go in here, select, give me a custom condition and you can see the metadata is exposed. The underlying data still sits in your warehouse and I can use that to create my audiences.
+
+00:38:49:15 - 00:39:11:02
+不明
+So so as a mobile subscriber, as an as a field select that value to true. If I want to see how many profiles qualify for it, I can drive do a query push down right in here, and it'll give me the number of profiles that qualify for it. And I can start building, my, my audience data set from there.
+
+00:39:11:07 - 00:39:28:47
+不明
+I can go ahead and hit confirm, or in this case, I want to build in more. So I'm going to add in a custom condition around. And you could see that for a minute. 20 20,000 profiles qualified a few, before I moved in. Okay. So I'm going to go click go ahead and see that okay.
+
+00:39:28:47 - 00:39:53:13
+不明
+Now that I've checked, I need to go back from people to household to see which households have fiber eligibility. So I'm going to utilize the relational links that we are all used to as we work through relational databases to navigate from people to household and say, check for is fiber is eligible for fiber condition to be true?
+
+00:39:53:18 - 00:40:14:47
+不明
+It calculate it will give me the result confirm meets my audience criteria. That's all that I wanted to check on. So now I have my audience definition built in which is is a mobile subscriber is eligible for fiber. And I can quickly go ahead and do save audience. There are a bunch of other activities, and I don't think we have enough time to go through all.
+
+00:40:14:52 - 00:40:43:24
+不明
+So I'm going to quickly go ahead and just save this audience, give it a name. Summit for PM audience. And I don't really need to bring in mobile subscription details or fiber eligibility detail to AP, right? I'm not going to use that for personalization. All I need is give me the primary person's name and the email address so that I can reach out to him in a, in an, in my in my email communication or wherever I want it.
+
+00:40:43:24 - 00:40:57:39
+不明
+Send that over. So I'm going to quickly go ahead and do that. Select the name, select the email.
+
+00:40:57:44 - 00:41:23:56
+不明
+And I'm not sure who asked me the question. Where is the Zdm schema created? This is all happening while we are doing this. As we do that, you can select the namespace again. All your available namespace are available in your head. Select Save start, and as soon as you start what you will see it will create this audience for me behind the scenes in, epi.
+
+00:41:24:06 - 00:41:38:29
+不明
+And this audience will be available for me in audience portal for downstream activation. So if I go into, audiences. Browse.
+
+00:41:38:34 - 00:42:01:30
+不明
+And I will see the summit 4 p.m. audience is available for me for downstream activation. So that's that's a quick rundown of how the integration works seamlessly and how Microsoft Fabric talks to Doby and, experience platform. And with that, I would like to bring back Richard on the stage so that we can go through the meaning of the slides right.
+
+00:42:01:35 - 00:42:30:45
+不明
+So that brings us to the end of the talk. You know, if there's anything we would like you to take away from this session, it it is, you know, how fabric is the unified platform that helps you bring data from different sources in a unified manner. You know, removing data silos, and helps you to, unlock insights and apply AI on top of your data and through some of the capabilities that you saw through copilot and, AI skill.
+
+00:42:30:50 - 00:42:53:12
+不明
+We are really democratizing AI access, through fabric, and with you, when I talk about Andrea, the fourth point, right. I think, really excited to see this integration comes to life. Right. Just want to kind of add on, like customers do expect to see organizing and organizations need to deliver, in the moment experiences.
+
+00:42:53:12 - 00:43:22:04
+不明
+I know I didn't get a chance to show that view in the live demo, but you can use these audience membership details to also drive and influence your in the moment experiences, not just brand initiated conversations like we were doing. And then, there is this whole sentiment or feedback that is out there, that data as a whole needs to be addressed holistically, keeping the customer's business priorities in mind, ensuring, that it's future proof.
+
+00:43:22:04 - 00:43:41:25
+不明
+Right. So this integration allows to be a future proof as you work through your CDP investments, as you look through your data investments in terms of bringing the best of both worlds together, so that you can start leveraging, the platform to its fullest capabilities. Yeah. And just quickly, I know slides a little out of order, but just call to action.
+
+00:43:41:30 - 00:43:59:45
+不明
+If you want to try out fabric today, we offer a 60 day free trial, you know, no strings attached, no credit card required. Just go to app dot fabric dot microsoft.com or that link the short link and you're all set for 60 days. And you can also try the fabric Copilot experience within with the trial version.
+
+00:43:59:45 - 00:44:18:34
+不明
+It's not limiting. We we provide a pretty beefy f 64 capacity. You know that $17,000 per month. So it's a pretty, you know, big skew that you can use and, you know, kind of get value out of it to, to see for yourself, you know, what fabric can do for you. And here's some documentation on the some of the things that I showed around.
+
+00:44:18:39 - 00:44:31:54
+不明
+Yeah. Skills. And just if you have not already, just visit our boots and learn more about, you know, other Microsoft products. Thank you. Thank you all. Thank you, thank you. Richard.
+

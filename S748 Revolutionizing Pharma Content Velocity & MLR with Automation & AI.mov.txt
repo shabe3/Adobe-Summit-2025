@@ -1,0 +1,324 @@
+00:00:00:36 - 00:00:28:50
+不明
+All right guys, we're going to get started. How's everybody doing? Woo hoo! One hour before a happy hour. So I'm going to try to keep you guys awake. So revolutionizing pharma content velocity and MLR with automation and AI. Wow, that's a mouthful. Who the heck came up with that jaws? Are you? Jeez. All right. How many people know what MLR is?
+
+00:00:28:55 - 00:00:51:40
+不明
+Okay, you're in the right session. Thank God. I was gonna say, I know what I is. Nobody. Okay, if you guys are thinking, I'm going to tell you this amazing story about this agenda. I which has AGI that's going to do MLR in one day. It's not happening.
+
+00:00:51:45 - 00:01:16:28
+不明
+Okay. So what we're going to do is, a fantastic panel. So I'm going to just talk for about 5 or 7 minutes kind of frame what the problem is. I frame the solution, then you can go away now. So to frame the solution, talk a little bit about what is happening today, what is available today. And then kind of get to, you know, what are these great folks doing with automation.
+
+00:01:16:28 - 00:01:52:07
+不明
+And I kind of in that content supply chain, right. For pharma. Okay. Ready. All right. Woo hoo. Sorry. Art content supply chain for marketing materials is broken, right? You're spending millions without realizing it. You know, you've got weeks before you can launch new campaigns just because of many delays. Not only MLR manual handoffs between AMD Viva compliance risk, you know, delays, different channels, doing different things.
+
+00:01:52:12 - 00:02:09:42
+不明
+I could go on and on and on. How many people agree with this? Are they seeing it? Yeah, pretty much all of it. Anybody solve the problem yet? I mean.
+
+00:02:09:46 - 00:02:19:01
+不明
+If I was going to say anybody to solve the problem, please come up on stage because I'm gonna sit on the sidelines.
+
+00:02:19:06 - 00:02:44:58
+不明
+So that's the problem, right? I mean, it's it is broken in many different ways. And we're talking about just, you know, marketing materials here. But so what can we do. Right. How do we go from chaos to intelligent. Right. So we can auto tag version control, do some compliance stuff before, you know, within and before submitting to Veeva, we can automate the MLA submission process into Veeva today, right?
+
+00:02:45:00 - 00:03:14:24
+不明
+We could use, one click content to basically use the use modular content or not. But even if you're using experience fragments, you could use all of this in different channels very quickly. Right. And you could have a single source of truth between marketing and regulatory systems. All of this is possible today, right? Do you agree? Some of you guys will say yes, some people you know, but.
+
+00:03:14:29 - 00:03:18:13
+不明
+Any questions so far?
+
+00:03:18:18 - 00:03:49:21
+不明
+No. Okay. Just a little bit about us. So sorry, I forgot to introduce myself the same way I should have the CEO of Experian Digital. We are now part of Qualified Digital. So if you hear a thank you, thank you. If you are expediently digital or expediently qualified, they're talking about us. So we've been in business for 23 years, and for the first ten years we were, you know, purely a horizontal.
+
+00:03:49:21 - 00:04:14:06
+不明
+We were in the portal content management space. And then we got into the kind of the pharma and regulated world and recognized that there is this gap, you know, between marketing systems and MLR systems, and started kind of building out our toolset. Right. And I'll talk about our tools a little bit, but then as you can see in most of our current clients are really in the life sciences and, and kind of regulated industry space.
+
+00:04:14:06 - 00:04:43:54
+不明
+So charter is really for both companies to become a leader in kind of solving the whole marketing ecosystem. So so when we saw this problem, we said, you know, wouldn't it be cool if we could automatically generate MLR submissions, you know, create this PDF that we can then just automatically we don't, you know, don't have to do this exporting, ingesting, you know, losing and getting compliance risk, things like that.
+
+00:04:43:58 - 00:05:03:36
+不明
+And so that's when we came up with XP generator. Right. That's the one in the middle of. And so that is the click of a button. And you know no matter how complex your website is it creates your MLR submission package. And then we said oh that's that's cool. We saved millions of dollars, thousands of dollars. So what about just actually integrating.
+
+00:05:03:41 - 00:05:25:54
+不明
+And by sinking between AOM and Veeva. And so we thought, okay, we'll build this platform, you know between A and view. And that's how XP connect you know came about. So today when we sell XP connect XP, it actually comes within it. That was great. It was all working for websites and everybody was loving it. And we said, but what about all the other channels?
+
+00:05:25:58 - 00:05:48:00
+不明
+Right. What about IBUs? Because, you know, most customers spend a lot of money on ideas. What about emails? What about banner ads? There's a meme. Okay. Well, so we built a set of templates and components that we call XP omnichannel. And we kind of sell that as an accelerator package, which clients basically take over and then extend. Right.
+
+00:05:48:05 - 00:06:11:24
+不明
+So with that, we were able to solve some of those things we were looking at in the earlier slide is being able to do omnichannel all with one authoring platform, which is, I am right, able to generate automatically generate MLR packages and doing a lot of stuff. So if you think about the kind of the supply chain, this is one piece of it right between and and Veeva.
+
+00:06:11:29 - 00:06:33:56
+不明
+And today I don't want to just spend time on this. We we want to going to broaden that and say what else is everybody doing. And really let's be participatory in this. We've got a few questions for the panel. But then we're just going to go, you know, straight across the whole content lifecycle question so far. All right.
+
+00:06:34:01 - 00:07:00:27
+不明
+Cool. So let me let me introduce I'm going to talk a little bit about kind of my history with this gentleman. And then I let them introduce themselves tell them what they are doing currently. So Mehul, I've known for many years at Novo Nordisk, he comes from a very technical background, but in the last two years they have done a complete transformation of the content side of the house of actually, you know, how do you find the content, how do you define it, how do you author it?
+
+00:07:00:32 - 00:07:26:31
+不明
+Right. So they've gone through a very, very, you know, intense kind of transformation process. And so hopefully it'll give us some insights to that. Derek, actually, Fritz Fresenius is an interesting company because they have a pharma side and, you know, they have a med devices side. So he has to think about things holistically. And you know, how many people in pharma.
+
+00:07:26:36 - 00:07:47:00
+不明
+Yeah, most of you anybody in medtech my device okay a few. So you know that device is generally the you know the FDA approval is lighter, but they have a lot more content and they have issues that they have to worry about. So there is a PIM component that they have to think about. And so he has a very holistic view about that.
+
+00:07:47:00 - 00:08:07:23
+不明
+And he has some really great ideas to talk to us about. And so George, most of you know, because he's he's a speaker, almost every Adobe summit that I've been at and congratulations, by the way, every one the Adobe Experience Maker award this year.
+
+00:08:07:28 - 00:08:33:41
+不明
+Was just hot, hot of the press, right? Yeah. Fantastic. All right, so, with that, Miguel, why don't you tell us what you do and and give yourself. Yeah, sure. So my name is Mahou. I'm obviously with Novo Nordisk. I've been with the company for about 13 years and about nine of that in that content space. And recently, in the last three years, I've moved over to the business on the omni side and now in operations.
+
+00:08:33:54 - 00:08:54:17
+不明
+So I'm heading up the the content supply chain team. And, you know, obviously, as you said, we we started a digital transformation across the organization, moving to the cloud and fully having, an orchestrated Adobe stack. So, looking forward to this panel with these great, these great guys. So hopefully you guys find it entertaining. Hi, everyone.
+
+00:08:54:19 - 00:09:22:01
+不明
+Super excited to be here. My name is Derek Green. The company that I work for is for zinnias medical care. It's a global company. We strive every day, and we are dedicated to improving the lives of our patients through our products and services. I've been with the company now for about ten years and have many roles, but this is the one that I do enjoy the most because I love innovation and solving problems.
+
+00:09:22:06 - 00:09:51:05
+不明
+But my role is pretty much managing content and operations, and we are, I would say, in the middle of our digital transformation. And I'm, I'm, I'm hoping to have a great discussion here and to provide some point of views. Thank you, Derek. And finally, Joe George. So to Kosice Point. Yeah, we were very proud as Avi to when the first time Adobe's Experience Maker award.
+
+00:09:51:05 - 00:10:14:31
+不明
+So super excited about that. And I got on some of my team members, I hear, so, so proud of them and the work that we have done. I am super excited about this topic. Because, for me, I came in from a non pharma background. So I've been with AP for about seven years and I came in from a high tech, completely different industry.
+
+00:10:14:31 - 00:10:39:01
+不明
+And so I did not know some of the things that, that, that we as healthcare, life sciences, pharma deal with, which actually was a blessing in disguise. And we've been able to do a lot because of because we were able to think outside the, if you will, pharma box. And would love to see where our conversations go today and, happy to be here.
+
+00:10:39:12 - 00:11:02:57
+不明
+Thank you for having me. Great. Thank you. So I have a few questions I'm going to ask them, but please, you know, raise your hand or just if you have a small enough room here that or you can come up front and ask the question. So the first question, I think for the panelists in today's time, you know, what I and or automation tools are you using in your content supply chain for marketing materials?
+
+00:11:03:01 - 00:11:24:07
+不明
+And Joe, you want to go first. Sure. So I would say it's still early for us. I mean, we are we are doing a lot of different things. I mean, content supply chain, is a new concept as well, right? I think the first time probably we heard was just in the last couple of years, maybe, maybe at Adobe Summit, maybe at some of the other marketing summits.
+
+00:11:24:12 - 00:11:49:14
+不明
+Or or tech summits that you've been part of. So, I think we all know, like, what it takes to look at holistically our, our supply chain and just looking at those, those three words itself. I think there is a lot in there right from the start, from the inception, from the concept all the way to production and then even exploration and end of life.
+
+00:11:49:19 - 00:12:16:44
+不明
+So, so I am super excited about what AI is bringing and what you even heard this morning. Right. At the keynote with the, the possibilities that, tools like Adobe ecosystem a right. I mean, there's a lot of other pieces in there as well. With, with the agents that's coming up. Right. So for us, we are still looking at all of the different possible tools out there, within the company itself.
+
+00:12:16:53 - 00:12:40:19
+不明
+We are actually looking at Microsoft as a partner. And so so we have we have rolled out our own version of, of, of AI internally for internal employee use cases as well. And then we have partners, with marketing, with our internal stakeholders. We're also looking at other different concept, of what what can we do now that we have this amazing new technology.
+
+00:12:40:24 - 00:13:07:37
+不明
+And so a lot of proof of concepts are going on from that perspective. And so, and we are starting to see some early gains in terms of velocity impact, efficiency, impact and, but still in, I would say in the proof of concept pilot phase, I would say, and especially from a beats and a tech perspective, that gives me, an opportunity to run some pilots and POCs with whether it's with Adobe or with other partners and other software as well.
+
+00:13:07:42 - 00:13:31:12
+不明
+Which I'm super excited about. Awesome. Yeah. Thanks. I would definitely have to agree that, our use of AI is in its infancy, but for me to present to you how we're using it, I guess I would have to talk a little bit about our challenges and start there, and how we use AI to solve those challenges.
+
+00:13:31:17 - 00:14:00:36
+不明
+So one of our many challenges that we have is developing content. Our whole goal is speed to market. I think everyone here can agree to that. In particular, we do have a in-house creative studio and they do a lot of our designs for assets. So we have been using Firefly. And that has been advantageous, to us as far as speed to market and our creator views.
+
+00:14:00:41 - 00:14:27:33
+不明
+We are looking to see exactly how quick. We haven't done a complete analysis, but we've saved probably a good a week or two, using Firefly, at this point, which is tremendous. We have tons of content, just like you going out either internally or externally, and it's very fast moving. So Firefly is definitely been, key when it comes to AI.
+
+00:14:27:37 - 00:15:00:20
+不明
+Our other challenge, where we, you know, again, looking at assets probably on the towards the. Distribution storage and other it could also be on the front as well. The planning is once we have this asset, we have to tag it. And tagging takes a tremendous amount of effort. And so we have been using auto tagging as well using AWS services, to do that.
+
+00:15:00:25 - 00:15:24:22
+不明
+And while ago you saw Vevo there and we're using that AI capability to do that. So we're able to tag, you know, 500 assets and matter of minutes. And that's saving a ton of time. YouTube may have a small team, and so we're always looking for efficiencies from that end to make sure that one, you know, yes, we're getting our assets compliant.
+
+00:15:24:23 - 00:15:56:11
+不明
+We're going through the MLR review, but after that we want to make sure we're able to retrieve them effectively. As well. So right now we are also looking at from an MLR perspective. There's some capabilities out there that we can use for claims and particular claims, hopefully as an important part, as well. And identifying once we have created our claims library, how can we use AI to actually generate additional claims, right.
+
+00:15:56:11 - 00:16:17:15
+不明
+That we didn't think of before? So we're also looking at partners. Veeva is one of those partners as well, that is able to allow us to not only, leverage their AI machine learning, but also customize that machine learning. So as you'll find out, when you, you know, looking at AI, it's okay. It's machine learning.
+
+00:16:17:15 - 00:16:42:03
+不明
+You're kind of stuck in this block, for example, the color red or blue, I should say. Well, my logo may look blue, but it's not blue, right. So it's these little nuances that I think, yes, AI, machine learning, but also combined customizations is going to help us with our MLR process when it comes to claims, because we could talk about MLR and claims all day.
+
+00:16:42:03 - 00:17:01:35
+不明
+But, that's a little bit of some of the challenges that we have and how we're looking at AI from from the front end and also from the back end as well. Yeah. I mean, I think I'm with you guys on the infancy of it, right? We launched our content supply chain, in the, Q4 of last year.
+
+00:17:01:35 - 00:17:18:58
+不明
+Right. So what we were really trying to do is get our foundation set up and then get ready for what I can bring for us. So the some of the things that we're focusing on are smart tagging, for example, and making sure our assets are all in the right folders or searchable that are agencies or brands and authors can all find them.
+
+00:17:19:03 - 00:17:47:49
+不明
+We're also implementing our content supply chain within work front to make sure that our workflows are and tasks are assigned to the right people, which then then turns and brings visibility right. And the idea is to bring the entire organization along this, this journey by providing that visual, visibility into the contents of our chain so that when we do have the the opportunity to turn on AI for certain things, that it's not just in operations things or it's not just a brand thing that all teams are involved in it.
+
+00:17:47:49 - 00:18:10:25
+不明
+Right? The operations teams, the IT teams, the MLR teams, they understand the nuances of what I can produce for you and where they need to be involved. So I would think, you know, and then some of the other automations we have is with the XRP connect tools. Right? So, we started to bring all of our content into our Yammer ideas, our feel triggered emails, and our websites, obviously.
+
+00:18:10:30 - 00:18:41:33
+不明
+But then how do we get them from one system to another? Right. If we are going to a, and the source system is Veeva, then we need to be able to do that seamlessly without having to have hand-offs, you know, metadata files that need to be there. So I think for us at Nova, at this point in time, it's really just setting the foundation and getting the things that we know are key for AI, getting them in place, getting the organization onboarded, getting the the key players in those tasks onboarded and the change management completed.
+
+00:18:41:42 - 00:19:08:22
+不明
+So then we can figure out how we can incorporate the gen studios and how we can create variations of content and get them to ML quickly. Right? We don't want to become a bottleneck in the sense that we can create content quickly, but then you have a slower and slower process, right? That doesn't do anybody any good. You know, or we can have Gen I or a Gen studio that basically creating multiple variations of something, and then you just choosing one of those to take the MLR.
+
+00:19:08:22 - 00:19:27:23
+不明
+Right. That's not going to help us. So I think laying the foundations about how are you going to work with the rest of the organization is going to be super impactful of whether you're successful in incorporating, AI to anything you do. Right? So I think from the overall standpoint, that's how we're looking at it. We don't need to be first to it.
+
+00:19:27:23 - 00:19:45:49
+不明
+Right? Although it'd be nice as long as we get all of our ducks in a row tonight. And I add to that. Yeah, please. So I do. We've spent a considerable amount of time that a lot of time, but considerable thought I should say on, you know, when to use AI. And you brought up a good point.
+
+00:19:45:54 - 00:20:13:34
+不明
+It's good to have your processes in place and your people in, in place. I would say, you know, the term, you know, crawl, run, walk. Think about that. Take your time. Right. Yes. AI is the new shiny object, but you have to have those SOPs in place. Got to have those work instructions in place. And then you you have to ensure that all of your users are up to par to and understand the different nuances of these processes as well.
+
+00:20:13:39 - 00:20:35:09
+不明
+Because they too can get overwhelmed. I know I mentioned earlier that I was all for innovation, that. Yes. But as to my friend here to my right has indicated you have to bring everyone with you. So I just want to say I agree with that. You know, it's a good point. Fantastic. So I think we more of a point about, you know, kind of omnichannel.
+
+00:20:35:13 - 00:21:06:52
+不明
+I'd like to ask the other two panelists, what are you doing as far as an authoring platform goes for all your channels? So whether it's ideas or emails, do you want to take that? Yeah, I can I can start with, that question. So we, I think our challenge, I mean, if I, if I, look at the calendar previously over the last 6 or 7 years, I mean, we even did not have, any kind of, unified process of creating content.
+
+00:21:06:52 - 00:21:29:49
+不明
+Managing content? Just for websites. Right. And so, so which was, which wasn't, an opportunity for us, to look at, what do we need to do, in terms of, the various different types of, brands that are actually part of our core, business from a pharma perspective? What are they doing?
+
+00:21:29:54 - 00:21:52:50
+不明
+What is the current processes in terms of managing content, creating creating assets? And again, we were not talking about content supply chain during those days. But but again, looking at all of the different processes. Right. And and they were all I think I think somehow magically things were coming all together. But I think the challenge I'm sure pretty much every one of us has faced that, right?
+
+00:21:52:51 - 00:22:14:15
+不明
+I mean, I mean, when you have so many different pieces of what we call today as the content supply chain, if you don't have a coherent way of managing that, how do you even know? Right? I mean, where do you start? Who starts? It's like a relay race, right? I mean, the relay is going on and you have multiple people basically getting the baton.
+
+00:22:14:29 - 00:22:38:21
+不明
+But imagine now you don't know which stadium you are part of sometimes. Right? I mean, just a different track. Not or don't know or a different track. Right. I mean think about that. So we we started our journey from that perspective. So thanks to our business and our IT leadership, they were in one of these kinds of, sessions about eight, seven, eight years ago where they realized that there needs to be an investment.
+
+00:22:38:25 - 00:22:58:04
+不明
+We don't have all the answers. Kind of like today, right? We don't have all the answers of AI, right? It's changing as we speak. Right. But at that time, and they made a decision that, hey, we need to have a unified content strategy, right? At least think of it from a digital transformation perspective. Let's build our own content management strategy.
+
+00:22:58:04 - 00:23:21:40
+不明
+And that started our digital, transformation journey. In terms of looking at major brands and seeing and basically leading the way and telling our partners our internal partners, our external agency partners that, hey, we have invested in this content management strategy and here's the tools, here's what we're going to do. We don't have all the answers, but let's start the journey.
+
+00:23:21:41 - 00:23:40:07
+不明
+So so I am proud to say that we I think our leaders made a great decision. And and it was a risky decision if you think about it. I mean, we are we have as as AbbVie, we are in multiple therapeutic areas, different types of, medicines and products that we deal with. Right. But we made a decision that, hey, there's an opportunity here.
+
+00:23:40:12 - 00:24:00:48
+不明
+And that's what we did. So we unified and we invested. And it took us a few years to get to the stage. But today, all our major pharma brands are on this unified content management platform, which we internally call this AbbVie Digital Marketing Platform ADP. Which was a huge success for us, right? So now we are looking at other opportunities.
+
+00:24:00:55 - 00:24:19:37
+不明
+As we look at other channels, we are saying, hey, can we now think about maybe these content strategies or content platforms, maybe unique based on what channel you are dealing with social media, right. Email, so on. But is there an opportunity again for them to talk to each other? Right. So we're starting to look at those, options as well.
+
+00:24:19:37 - 00:24:46:59
+不明
+And now we have technology advancements that allow us to have those handshakes. So again, so so the story is the story is not complete yet, but it is it is getting to a point where we with content supply chain and with the strategies both on the business side and on the on the technology side, we can now have a content supply chain that actually is handshaking with each other more seamlessly and more coherently than they were before.
+
+00:24:47:04 - 00:25:09:11
+不明
+Okay. Thank you Derek. Yeah. So when it comes to publishing, a lot comes to mind. It's not just the, the, the tool. The way we think about it, Fresenius Medical Care, it's about where the content is actually coming from. And this was an important part for us because there's tools out there to publish. And yes, we do use and to support all of our websites.
+
+00:25:09:16 - 00:25:32:41
+不明
+But for us, it was how do we know where the source of truth is coming from? That's the key. And I think some of you would agree that you may have folks that are still storing their assets on their laptops, OneDrive, so we looked at where the assets was coming from first. And so what we did was we consolidated, all of our assets.
+
+00:25:32:42 - 00:26:03:15
+不明
+We're still in the process of doing it by the way, like I said, we're in the middle of our journey, but we have decided on one global, what we call marketing asset management platform, which is fever. And from there we have integrated and, and this is allowing the control of our assets. As I mentioned before, I have to not only think about our services, part, which is low risk, but I also have to think about our pharmaceutical and our product side.
+
+00:26:03:19 - 00:26:27:33
+不明
+And so as you know, these systems have to be controlled. And so yes, we do use work front for review and approval, but we know that this information in particular is high risk. And so we have to make sure controls are in place. So having a centralized digital asset repository was the most important thing prior to even thinking about how we're going to publish.
+
+00:26:27:37 - 00:26:44:42
+不明
+Because our creative guys or content or other guys, they just take the asset. It just is it approve? I guess so they just take it and they just put it on the website. I know for those guys who do that, I know it's not as simple. But, you know, I didn't want to down I don't want to downplay that, role.
+
+00:26:44:42 - 00:27:08:45
+不明
+It's a very important role. But from my standpoint, it's about controlling and lowering the risk for our clients. Before it goes internally or externally. So with that said, we use ehm, assets, to manage all of our websites and the controls that we have there in our, we don't have any rights management and controls in our and ehm, assets.
+
+00:27:08:45 - 00:27:32:51
+不明
+But what we do have is version history and that version history is maintained via Veeva. So anytime there's a change and update and it's really real time, it goes into a, you can actually manage it, fairly well. From there. So that the content authoring team, they understand that they're using the most latest, the most compliant asset that there is.
+
+00:27:32:56 - 00:28:04:16
+不明
+So that was the most important piece of what we think about publishing from an email standpoint. We utilize Marketo, as well. We haven't done any integrations yet with Marketo. We are actually looking at an integration between work front, as well as Marketo. I do a lot of fusion work myself. But we're looking at that as well and see what type of efficiencies that we can gain from that integration.
+
+00:28:04:21 - 00:28:27:21
+不明
+We do also have, an integration between work front and Viva and you say, wait a second, how do you do that? And how do you initiate a MLR, approval workflow in Viva? And so within fusion, you can actually do that. You can actually connect the two systems. And again, for us it's about controlling the asset and lowering the risk from start to beginning.
+
+00:28:27:21 - 00:28:51:05
+不明
+So yeah, you can develop you have a pre-approval and work front. And then the market is able to push a button and send it to Viva to go through a complete MLR process. And that process is bi directional. So thereby maintaining our controls, within one platform. Again so yeah. Thank you. Right. Thank you. So guys there's still space up in the front.
+
+00:28:51:05 - 00:29:24:23
+不明
+I hate to see all these people standing. So please come forward. This the seats here. There are three seats here as well. There's a bunch of seats here. Please come forward. Yeah. To say if I can add something to the previous. Please, please go ahead. So one of the other things is especially from a technology perspective, and this comes a little bit easier to me because I came in from, a global, organization responsible for tech that is global in nature and then localized for the regions demands.
+
+00:29:24:23 - 00:29:52:12
+不明
+Right. So, so, we are looking to their next point. We are also looking, I mean, not just from the content management side of things, but the asset management. Whether it's workflow management, we are thinking about it more holistically and truly like an enterprise. Right? So so going back to what I previously stated, we don't have to do, things differently just because it's a different therapeutic area or a brand that we support or a particular franchise.
+
+00:29:52:17 - 00:30:31:34
+不明
+So that helps when you have a Center of Excellence model. From a tech perspective especially, who actually thinks about these and then can actually partner with our business stakeholders, digital marketing professionals, as well as marketing, teams, and guide them and leverage that if we have successes in certain area in terms of how we manage, content strategy or publishing processes, or even content velocity, we could actually then share that with another brand or another therapeutic area and actually help them their content velocity.
+
+00:30:31:39 - 00:30:56:45
+不明
+Goals much quickly because we have this enterprise view of the, of that solution as well. I mean, I'll just add a little bit to that, right? So for us it's standardization, right. And a lot of that, the things that we're talking about require a lot of the organization to understand without it is right. And when we talk about the omnichannel strategy that we, you know, that this question was brought up on and is that we are I know the North a, an Adobe shop, right?
+
+00:30:56:54 - 00:31:14:00
+不明
+We like the interconnection between the technology. It helps us. But you have to think of standardization as well, and the infancy of where we are as a company with that. So I would say that, you know, we're making decisions as they come up in times. Right? And we were trying to author as many things as we can in a single platform, which would be a.
+
+00:31:14:00 - 00:31:35:29
+不明
+Yeah. And then get them to downstream systems. But there's a, there's an angle of standardization to say, does it make sense sometimes to create a very complex tool that's used for an idea and build it out there? For this one case when we can probably just get it for half the price and, and traditional model. So I think you have to look at some of these things in that kind of lens to say, is it the right time.
+
+00:31:35:29 - 00:31:55:36
+不明
+And it doesn't make sense to do this because we're also looking at, you know, banner ads and other things to bring them in. But at what point in time does it make sense? Is the organization ready for that? And are we as a tech perspective, ready for that? And, and or operations? I think all those things together kind of matter as to where we go and when, at the speed at which we go out.
+
+00:31:55:40 - 00:32:17:39
+不明
+Yeah, I'm getting a lot of change management. Right. That's needed, I think, across the board here. So I think we've talked about, you know, content supply chain at a very high level. Awesome. All right. Well I'm going to thank this fantastic panel. If you could have a picture of hands here.
+
+00:32:17:43 - 00:32:18:18
+不明
+Who.
+

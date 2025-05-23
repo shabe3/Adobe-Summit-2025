@@ -1,0 +1,564 @@
+00:00:00:01 - 00:00:19:03
+不明
+We're using that later. Thank you so much for being here. There's a lot of things going on out there. A lot of nice content, a lot of nice dinners. A lot of casinos that you could be at. And you chose to be here for the next hour. So thank you very much for that. I'm Camila and I'm part of have us pop.
+
+00:00:19:05 - 00:00:47:23
+不明
+So for those of you here who are not from the marketing world, have us is a global advertising network. So we are across over 100 countries around the world. We work for global brands like Reckitt and like JBL, like Sanofi, like Jim and so many others. And have us pop is have us production at scale network. It's have US content solution and I'm part of that company.
+
+00:00:47:25 - 00:01:16:00
+不明
+We were born only two years ago right. So we are almost a baby. But I'm very proud that we are already across 14, well, 15 studios worldwide. We just opened in Singapore. So that means we are all across the globe right now. And the reason why I'm here is because on the last year, we made this big transformation journey with Adobe to have the best, most integrated content supply chain in our industry.
+
+00:01:16:03 - 00:01:33:10
+不明
+And we're going to talk to you about it right now. And hear me today for the second time sharing in Adobe Stages. Remi. Yeah. So hello everyone. I know Camila and I are in between. Maybe happy hour or maybe a bit of an echo, I think, between Happy Hour and the community Pavilion. So we'll make this very intriguing for all of you.
+
+00:01:33:12 - 00:01:58:29
+不明
+So I lead our broader content consulting teams within Adobe's professional services. So that's all things across experience manager. I'm driving all of our broader content supply chain initiatives and many things around Gen AI and Gen Studio for performance marketing. My background is leading large global digital transformations fully end to end. So working with creative teams, strategy teams, bringing them to life through product and technology teams, and then setting up the ongoing content and marketing operations to fuel them.
+
+00:01:59:06 - 00:02:16:29
+不明
+So essentially, the content supply chain. So yeah, so very excited to be here. And we're excited to get into it. All right. So we promise is going to be very fun and quick. And we're not going to be here through internal demos that no one wants to see A promise okay. So basically we're going to talk about four main points, each one taking around ten minutes.
+
+00:02:16:29 - 00:02:54:21
+不明
+First understanding the content supply challenge and how or what our opportunities are to an end to end journey. This is not going to be a marketeers therapy discussing all of our issues. We're actually unpacking what are the immediate opportunities and what are the impacts that we can make by using a proper content supply chain? Secondly, real examples. I know that whenever we come to places like this, we have full immersion on big demos and big screens and a lot of promises and visions of what things that could be, and we want to show you what we're doing right now, and we want to maybe spirt you of what we've been doing and have us and
+
+00:02:54:23 - 00:03:25:09
+不明
+pop and then, yeah, yeah, sounds we are. So continuing that pragmatic approach, after Camila shares a couple of real world examples. I'll highlight some key people and process considerations and challenges that we've learned along the way with Havas and other customers. I think oftentimes within Adobe, we focus primarily on the tech, right? And obviously we have great tech, but the people and process aspects are what we find actually make or break the success of a program and a transformation like this, because it is all around the people will highlight some learning and enablement strategies, across different modalities.
+
+00:03:25:16 - 00:03:44:22
+不明
+And then we'll end with, how we measure success. Right? So we're investing all this money, time and effort into a transformation like this. So what is the ROI that we can expect? What are some key business outcomes that you can think about and some key illustrative KPIs? And there's an interesting a Forrester study that I'll actually highlight that actually brings a lot of that to life.
+
+00:03:44:25 - 00:04:08:07
+不明
+And then we'll end with a quick Q&A. And we want to leave you today with three key takeaways here. Right. So make sure you memorize these. Number one what are the best practices for a true enterprise content supply chain transformation. When we think about the entire journey from planning to creation to production to delivery and activation really seamlessly driving that content at scale.
+
+00:04:08:09 - 00:04:30:16
+不明
+Number two, once we build a lot of that foundation, which you'll hear more about, how do we actually introduce, Jenny, Jen studio for performance marketing, different aspects of Creative Cloud, like express as well, to really supercharge your creation across your different creative teams. And then we'll end with the key change and adoption considerations across people and process, to really drive that sustained adoption.
+
+00:04:30:18 - 00:04:55:27
+不明
+Sound good? Oh, great. All right. So let's get it going first. So understanding the current environment we are in and what are the challenges. Okay. If you are here in this summit and if you are in this room, you know this is static statistic as well by statistics. This is a hard word for Brazilian. Bear with me. But by statistic you're stuck with a Brazilian accent for the next hour, believe me.
+
+00:04:56:03 - 00:05:18:15
+不明
+So, by statistics, everyone here is part of that, right? Very marketing. Eight out of ten people in this room will, for example, relate of the data that they feel pressure to create more content quickly, quicker. And also you will relate with the fact that you believe that AI is going to be impactful to ROI long term.
+
+00:05:18:15 - 00:05:40:16
+不明
+So what we get for data like these and for researchers like this, by the way, was in Forbes and it was largely done by UI. Consultancy is one everyone knows. This is the reality and jenn-air I encountered skills what we are going to everyone knows this is going to drive ROI in results. But three everyone feels pressured and overwhelmed by what is happening, right?
+
+00:05:40:22 - 00:06:05:00
+不明
+And this is data and I'm sure we're talking to you. And then actually, I have an interesting thing. Last, yesterday I was at the Innovation Exchange, which is a pre session that Adobe holds before the summit kicks off. There were like 300, 200 people in a big, big ballroom upstairs. And the lady who was heading the, the the chat asked everyone who in here believes that they have cracked.
+
+00:06:05:00 - 00:06:22:15
+不明
+Jane AI implementation AI implementation and adoption not only Gen II, but AI limitation adoption in their business. Who in here believes they're doing the right thing? Please raise your hands. No one to. Oh, actually one person did they work for Adobe? Of course they they had to say, well, you're here, we know what you're doing. But no one did.
+
+00:06:22:19 - 00:06:41:08
+不明
+No one's here. And I think if I ask it here, everyone would say, we feel a little bit overwhelmed that we have a lot of jobs to do. But the reality is, although we are having such a sophisticated conversations, the reality is that that journey starts very simply. So this is our example. Where are you seeing the right hand side?
+
+00:06:41:08 - 00:07:12:10
+不明
+It's where we were before we joined the Adobe, journey. So because we were 14 studios across 14 different markets and operating with the lower client, where the local with their local platforms, we had that scenario over there, different platforms, different operating models and different ways of operating. Not only that, when we talk to our team. So we made a big, audit and a big consultancy process with Adobe to understand where our key points were.
+
+00:07:12:13 - 00:07:36:17
+不明
+Our teams, they were not talking about we like audience integration or we like more AI models. We actually the pain points most of the times. In the beginning of the journey is we wanted to see more data. We wanted to do less manual work. We wanted to have more centralized project management. So although we are on discussions of how to evolve our memory model AI memory models.
+
+00:07:36:18 - 00:07:59:22
+不明
+So how can we bring more automation with things like Gen Studio for performance marketing's? Most of us are still in the beginning of that journey. That's where we were. Good news is this is more or less of what we went through. So the reason why we're talking about a content supply chain is because only by having a streamline operating modern and stream light tools, you are actually able to deliver a content at scale.
+
+00:07:59:22 - 00:08:27:27
+不明
+Of course, it's never one size fits all. There are still local nuances and there are still local, personalization that need to make. However, bringing standardization is what take us to the next stage. And what are we running away of? What? When we decide to move movements like standardization of content stack, we are running away from that. So in the advertising world, the creative industry, there is a traditional way of work.
+
+00:08:27:27 - 00:08:51:07
+不明
+I'm not even call a traditional. I might call it usual way of working, which is like this. Sometimes there is a creative origination that start by empirical creative challenges, right? Empirical creative ideas, known audience triggered. And secondly, very lack of central project management. I think some of you who lead brands in this room would relate to that, right?
+
+00:08:51:07 - 00:09:19:09
+不明
+Sometimes you have a little global brand to work at a global level. Your local markets, working locally in silos and there is very lack of there is a lot of lack of visibility on data or benchmark exchange. Third known modular, no modular content origination. So what we're trying to do with building a content supply chain is actually to change this scenario of moving from a no data triggered, no modular content, no integration to data to this.
+
+00:09:19:11 - 00:09:43:11
+不明
+So when we started our journey with Adobe, but also when we, as have us frozen pixels have us pop and have us created pop. This is what we are looking at. So the new visible, the new vision of how a content supply chain should work for our clients in the correct way. So when you see the very beginning of the journey, we start by audience triggered content.
+
+00:09:43:13 - 00:10:05:00
+不明
+And I know this is very easy to say, hard to do, but it's not one size fits all. We saw whoever was here the keynote this morning. You must have seen all the demos on the Gen studio for performance market and all the data. Data, insights that the two could bring, but also, as have us, we spend millions of, data, in quality.
+
+00:10:05:00 - 00:10:26:21
+不明
+Data quality. Also, we have an exclusive deal with YouGov. We work with clients with their first party data. Why not ensuring that every piece of asset is trigger and super charted by that second is our first mantra. I'm just going to say three today, so it promise not going to be an extensive one. The first one is, repurposing over originating.
+
+00:10:26:28 - 00:10:49:18
+不明
+We know that asset repurpose is the it's among the most important things it's that production industry should be looking at right now. Right. When you repurpose an asset one, it's quicker because you don't start from scratch. You are actually starting for something there. A writing there two is cheaper. You don't, you spend less time. You spend less money on creating assets, on buying images.
+
+00:10:49:20 - 00:11:14:23
+不明
+But third, and most importantly, it's more sustainable. It drives less impact. Whoever here works with production, especially production and scale knows this is where we generate the biggest amount of carbon footprint because we utilize such a big, extensive route to create the assets. And when you repurpose over origination, you actually manage to be more sustainable, not to mention highly regulated clients like farmers or finance.
+
+00:11:15:00 - 00:11:37:23
+不明
+When you repurpose actually you, it helps. And there is data that shows that it helps on approvals and legal approvals because you are repurposing something that has been approved, has been cleared before. You still need to do it, of course, but the asset integrity is already there, right? And then of course, of course we're going to originate. It's not always repurposing.
+
+00:11:38:00 - 00:12:02:07
+不明
+And we love originating, right? Every advertiser loves the region. That's why we joined the content world and we will do it very well. However, origination has changed. We're not talking about 30s, films or big shootings for us to have five or 3 or 5 models shot for our brands. It has changed to atomic and modular content origination.
+
+00:12:02:10 - 00:12:24:15
+不明
+So three of my favorite people in the Havas group, I'm sorry guys, there's a lot of harvest people here. Is no one of you. Is Eric Wiser back? Vicky Maguire, and then Lucy. They are our chief creative officers. And the reason why I love them very much is because they were the first creative people that understood, and I managed to have a proper conversation.
+
+00:12:24:15 - 00:12:50:23
+不明
+That modular content and atomic content is not a creative constraint, is a creative possibility. Just imagine, instead of looking into one idea and one sort of activation, you have a river. You have a sea of creative opportunities. From the view, when you talk about atomic and modular content, about dynamic content, you just gain a world of possibilities for your campaign for AI, automation.
+
+00:12:50:25 - 00:13:15:25
+不明
+First, sorry, AI and automation for scaling content and for language memory models. So, everyone in here that works with production and advertising for over ten years, we remember when our localization process were manual, and we are all fighting for translators and copywriters. There would there to stand firm or finance, and we would go to the market and say, okay, that person could easily translate what we're saying.
+
+00:13:15:28 - 00:13:40:02
+不明
+This has completely shift, right? We moved from being very manual to build brands, AI memory models and language models we build. We saw this morning talking about agents. We evolved into a place where our brands can have AI agents working for them, and this is the fourth most important on the content supply chain. And to finalize unified project management and centralize asset management.
+
+00:13:40:03 - 00:14:07:24
+不明
+Okay. So those are the two key things that no content supply chain can work without. So just imagine sometimes we produce thousands of assets per day. I'm not exaggerating. Sometimes we do produce thousands of assets per day. How in the world can we do it through emails and spreadsheets. So and how can we track how much it was profitable or how many rounds of of feedback we had?
+
+00:14:07:24 - 00:14:38:06
+不明
+If we're not having a proper, centralized project management and lastly, centralized asset management. So asset recycle atomic originated and AI language models, nothing is possible if we don't have a proper centralized asset management. So this for us is what every content supply chain for our clients at scale was working against all of this. Everything that I just said has one purpose live tracking, learning and optimization.
+
+00:14:38:09 - 00:15:01:03
+不明
+We've evolved our industry to a level that we should be looking at live signals, we should be looking at live results, and we should be able to optimize and be much better, do more out of each dollar. And this is what it unlocks. Well, and obviously, I'm standing here for a reason. We we we could not do it without proper technology in place, and we know it.
+
+00:15:01:03 - 00:15:28:00
+不明
+Right? So, we have a set of Adobe partners and proprietary tools as well. And I'm going to talk one second about it. And that actually help us to, to make it quicker and to make it better and to make it at speed. And the reason why you see, that this content supply chains powered by have us converged is because converge is the have us global strategy and the global operating model for our clients.
+
+00:15:28:00 - 00:15:49:09
+不明
+Converge is a set of tools. A setup process is a methodology that we deliver the best integrated work for a clients. And this is how us converge. Content supply chain okay, that's looks great. And that sounds, good. And what are the immediate impacts that we had when we put that in action. This is a screenshot. This is not something that we work for.
+
+00:15:49:10 - 00:16:09:24
+不明
+We wrote for here. This is actually the five points. This is a slide from a presentation that we did to our teams from the interns, the junior editors, and to the account, supervisors, to the CEO and the VP of our company. Those are the impacts that immediately impacts that we have. The end of the forever migrating platform battle.
+
+00:16:09:28 - 00:16:34:05
+不明
+No one hears. No one here likes enjoying, implementing tools. It's a nightmare, right? It's a change. A nightmare is everything. Second, becoming borderless. We need to operate borderless. Every client and every production at scale needs to follow the sun coverage. Every production at scale needs borderless work. And this is what the content supply chain unlocks. Benchmark and knowledge exchange.
+
+00:16:34:05 - 00:16:57:03
+不明
+So what are the benefits of being a global brand or a global company? If you cannot exchange, benchmark, and make your teams work better based on the performance of your other clients and based on the performance of your other studios. So for the brands that are here, what are the benefits of having your brand being, running a campaign in Brazil and another one in the UK?
+
+00:16:57:03 - 00:17:21:13
+不明
+If they cannot exchange benchmark and data and make each other better exchange assets, fourth and end to end tracking and actually having data, I know that data was the hot topic in 2005 or 2003, when data was the new thing. Right? But still, I will challenge everyone here to raise their hands if they think they nailed the data that they are tracking, everything they should be doing.
+
+00:17:21:20 - 00:17:48:05
+不明
+And actually a content supply chain helps us to do so. And I'm going to show one example. And lastly, production supercharge the best in class technology. My CTO is here, my amazing Gregory. We always say we're not a SAS company right? We are an advertising company. We are a production company. We're not going to be here every six months developing what Adobe just showed us in the morning and actually having a technology partner is good to help us, keep track of innovation.
+
+00:17:48:05 - 00:18:14:03
+不明
+So all of this is also, purpose of, of course, industrializing. What AI means on the day to day. Because when we see everything that I can deliver to us, from virtual production until creative automation again, you can only industrialize and make it be part of your day to day. If you nail a proper content supply chain, you need a proper asset.
+
+00:18:14:03 - 00:18:33:28
+不明
+Centralized storage. To make creative automation, you need a centralized project managed to keep track of a generic generic device to recall, and not to mention what AI is bringing for virtual production. If any of you don't know what virtual production is and it's curious about it, please look out for me. This is my new favorite topic. I'll love to talk about it.
+
+00:18:34:00 - 00:18:58:22
+不明
+Many of our clients, like record are leveraging, virtual production. I would say pretty much every campaign. And all of this that we build is towards be more efficient, but also be more innovative and also to help us move faster and more innovative. All right. So that was the five minutes on the theory and all the models and the frameworks and how we are promising to move.
+
+00:18:58:24 - 00:19:21:07
+不明
+And this is now we're going to go to how we actually do it in real life. And we brought three examples Rome is going to is playing. Why. Yeah. Well thank you Camilla I love the passion. That's why I love working with you, the whole team, bringing this to life all the benefits. So is actually going to bring to life, how they are passing on the benefits of their content supply chain to their end customers.
+
+00:19:21:10 - 00:19:49:20
+不明
+But if you keep going. One more. Camilla. I wanted to set the stage first here. So oftentimes our customers ask us, great. All of this sounds good. But content supply chain seems pretty daunting, right? It essentially covers every single one of your experience cloud products and and integrations into many of the Creative Cloud suite. So I wanted to share this roadmap with you of, of, of a way that you can think about how do you actually structure your own content supply chain journey, if you haven't started yet or if you are starting?
+
+00:19:49:25 - 00:20:14:01
+不明
+Maybe this is something that we can see if you're following a similar approach. So I always recommend to first start with the foundational content supply chain. And what that means is essentially we want to aggregate all of your different workflow and work management tools and capabilities, whether that's Asana or Airtable or Reich or, God forbid, emails and spreadsheets that you were talking about earlier, some of which have us had and move them on to a single solution like work front.
+
+00:20:14:03 - 00:20:31:13
+不明
+And then you want to integrate that with a global single enterprise dam that all your different teams, all of your different regions can use as well, that still has local flexibility, of course. And you also want to, very importantly, make sure you have the right metadata and the right taxonomy models applied to that, which I'll touch on a little bit more later.
+
+00:20:31:15 - 00:20:51:20
+不明
+But that essentially across workflow and planning and asset management are the two building blocks that we want to recommend to start with. And that really will drive the three tenants here that you also see repeated today around simplicity, speed and scale, and globally integrated capabilities. Those are common themes that we see with our customers. That potentially could apply to to many of you as well.
+
+00:20:51:22 - 00:21:17:00
+不明
+And so once you have that foundational content supply chain, then you could think about how do you light up additional use cases, whether that's on the creation and production side, where you're introducing express embedded with Content Hub or Firefly generative AI use cases, or, or Gen Studio for performance marketing. You can also think about then as you're getting more of that data that Kamila talked about, how do you actually glean those insights, right, to drive personalization at scale, which we know is a key goal.
+
+00:21:17:03 - 00:21:46:13
+不明
+And so that's a that's an ongoing journey. And then ultimately, the North Star that we want to push our customers towards is how do we infuse AI in every step of the content supply chain. Right. So thinking of the up front in the planning phase, how can you use Jenny AI to create automated briefs? Or identify resourcing through Jenny also from a project management standpoint within work front, if you're thinking about audiences and segments, how can you create those programmatically or create journeys automatically, right, that you can then activate towards?
+
+00:21:46:18 - 00:22:04:06
+不明
+And of course, on the production side, right, you have Firefly that can supercharge that as well. So that's not North Star. I don't think any customers, even Adobe, I would say we're not really there yet. Right. But that's the trend that we're trying to drive towards, to really reach that global scale across our teams too. So with each of these three candles and a highlight an example across each of these okay.
+
+00:22:04:06 - 00:22:21:20
+不明
+So we're going to start with point number one which is the foundation to Remy's point. Why are we going to see. Here is a example of a real client of ours a gigantic UK retailer which the name is is blurred, of course, for obvious reasons. We're not mentioning any any clients because it shows their back end in the way we work.
+
+00:22:21:20 - 00:22:42:17
+不明
+So it's for reference, we're going to see how we use the work front and also the integration. We a content hub for their Christmas campaign in a very quick two minutes demo. So what you seeing here is what I told you about data. This is a dashboard showing how many a project and inside each project how many assets we created to each of them.
+
+00:22:42:19 - 00:23:04:24
+不明
+And what is the state, what is the status of each of those assets. And then we move and we see a very comprehensive project timeline and a project dashboard with every single asset that is created. This is one example, one asset, a print asset. You see all the details, the specs of this asset. We see the metadata behind it which is attached to the client name, the kind of briefing that we had.
+
+00:23:04:26 - 00:23:26:13
+不明
+And then I chose to see the asset because maybe I'm the project manager or even I am the maker who wants to see what I need to work on. So this is the asset perfect freezes don't know what that means, but looks cool. And then we click on to see the metadata behind it. So I see what are the specs, why it was created, for which channel, which partner.
+
+00:23:26:18 - 00:23:48:06
+不明
+And this is all being tracked. The good thing about it is I can even download I can share that or I can publish to the Am Content Hub, which is what we are about to do. When you go to the Am Content Hub, this is what I call the you know, when we had the Pokemon. Well, this is a very nerdy reference and the Pokemon head an evolution from the small Pokemon.
+
+00:23:48:09 - 00:24:05:04
+不明
+Well, some I see two naughty points that I'm not. I see you, you're not at the zero. We are Asian. We don't count, do we? Shoot? No way, no way. So this is the evolution of am. I love Content Hub. I love the new way it it's so much intuitive and the interface is pretty much very cool.
+
+00:24:05:11 - 00:24:31:23
+不明
+So this is our asset library. And what you can see is that you can filter and you can look for your asset through brand, through tagging, through campaign. It's really, really intuitive for any marketeer or any one the agency side who wants to look out for it. The nice thing is, so we are back to the breezy asset that we previously done, this has all the metadata that you have there was automatically brought from work front.
+
+00:24:31:28 - 00:24:52:06
+不明
+You see the language and look there's more tags. This was done out of AI. So the AI reads your asset. And the AI kind of already puts the tagging, the meta tagging behind your asset. And you know, the best thing they learn about your brand. You can train the AI to learn about your brand, and the meta tagging will be added with your brand specifics.
+
+00:24:52:08 - 00:25:16:27
+不明
+All right, so this was a very quick, example of how we do the basics. It's project management dashboard for how to have visibility. And also how do you see a content hub for proper asset management. All right. Now it's one step ahead. We have everything. But let's suppose we are a brand or we are a company that needs to build content.
+
+00:25:16:27 - 00:25:34:20
+不明
+And this content needs to be very quick. For those of you who were at the at the keynote this morning, you will see this is very similar to what they presented. And I'm sorry, Remy, don't get it personal. Sometimes we see those big shows and are like, there is a sales pitch or there is just something that they did out of in editing.
+
+00:25:34:20 - 00:25:52:21
+不明
+Right? So it's it's nice that we are kind of showing you what we are actually doing in real life. So Adobe loves to bring them as an example like they did this morning. So we bring brought us as an example. But you will see that that could work for a shampoo brand, a medicine, a pharma brand or any brand as well.
+
+00:25:52:24 - 00:26:19:18
+不明
+Okay. So we are in Adobe. Oh, sorry. We are in the Adobe Express. Yeah. And logo. Perfect. So we are importing the asset from Photoshop or InDesign. You just automatically import in one click. And here you go. This is what we're gonna be working on. So let's suppose we have to do a little email marketing to say happy birthday to our employees every month.
+
+00:26:19:26 - 00:26:39:25
+不明
+And it's Remington Lee's happy birthday Remington birthday today. So that's 18th of March. So, this could be, Brant layout. That could be a shampoo pack, a a medicine package in the middle. On the top. That could be your brand logo instead of ours. And below it could be just the name of your product and your claim.
+
+00:26:39:25 - 00:27:00:11
+不明
+Right. So it could be anything. Okay. What we will do first in the next one is we will first build a template. So that means I'm going to lock the element before sending that to my local teams. So I built that as a key visual add. It's a global team. I'm going to lock all the elements that I want to lock.
+
+00:27:00:11 - 00:27:19:00
+不明
+So you see that I'm making a template out of that. So I'm telling my local team look this is the key visual. This is more or less how we're going to send our email marketing. And I looked you can see here on the right hand side that we locked the way we are putting Remington's naming there. They cannot move.
+
+00:27:19:08 - 00:27:41:28
+不明
+We locked as well how we're putting them. Everything that has like the little lock, the way we're putting the, the the signature over there. So the magic is first of all, you get your template and you get to lock and tell your local markets, this needs to be like this in before you localize, right? So I'm telling I'm teaching Adobe Express that my key visual needs to have those things locked.
+
+00:27:42:00 - 00:28:08:04
+不明
+All right. Now let's suppose that, Remington is a mod that is very much loved across everyone, and we want to translate that and send it to all of our studios in their native language so they can understand. If you are a brand, let's suppose that this key visual, now that you built, you want to send for your local marketing, their local brand in their local language, so you can make that pre translation for them very easily.
+
+00:28:08:07 - 00:28:30:00
+不明
+You just go there, you go to to translate, automatic functionality. You choose the languages you're making Czech, Portuguese, Spanish and English because it's the languages of our studios. And then with the click you will see the very quickly we have this translated to the languages already selected. Of course this is not just press and publish. We have QC in place.
+
+00:28:30:00 - 00:28:50:05
+不明
+We have copywriters at the local markets. But this this is 70% of the work that we could do. And also we were talking about brand agents in the beginning. Right now we are in the age of teaching AI language models how to talk like your brand. So the idea is that as the time goes, those sort of automatic things work much better for your brand.
+
+00:28:50:07 - 00:29:13:07
+不明
+All right. So we did the translation. However, another scenario we don't want to just translate because in your brand might change the name. My wants to say something different. And by the way, that 18th of March, let's suppose that's where you're putting the discount and you want to change that as well. In this case, I want to change the name of the person, the language, and the date of the birth.
+
+00:29:13:10 - 00:29:44:03
+不明
+So it's not only translating that, that that thing very easily. There is a bulk, functionality which basically allows us to, to just create a whole series of criterias in an input and tell and teach, Adobe Express, what are the things that we want to change? And based on the documentation that we put to. So literally in five clicks, we are able to vary that to different, languages to different content and keeping the same template a what.
+
+00:29:44:03 - 00:30:08:07
+不明
+Before I can say, it could take us, like hours of, junior hour to work to do it, but most importantly, it reduces human error when you have a person doing that. I'm not saying that's not the best thing. We should still have people supporting us, but sometimes the copy paste or the way you put it add more to the right, more to the left when you use automation tools is actually support you to have some consistency.
+
+00:30:08:12 - 00:30:33:11
+不明
+And of course, having the human QC on top of that. Lastly, let's suppose your brand does not want to do everything in the same way. Let's suppose your brand wants to change the model in the middle. And in this case I don't want to do just birthday. I want to do more, Christmas or something different. So basically I'll just bring what are the other elements that I want.
+
+00:30:33:14 - 00:30:54:16
+不明
+And I'm going to teach Adobe Express. What is the what is the icon that I want to change. And that's it. Voila. We just tell Adobe Express, I want to change the middle one, and I want to change for that image and express will do variations very quickly. We've tested that recently with a client that wanted to change the package in the middle.
+
+00:30:54:16 - 00:31:17:19
+不明
+And honestly this is the most straightforward way. Okay. So this example is cool because it use translation. It does everything very automated. Looks a lot of what you see on the keynote, but it's not data integrated you say. And it's not too much AI driven. So what if, as Remy just said, Adobe still on their journey and so are all of us, right?
+
+00:31:17:22 - 00:31:43:02
+不明
+But what if, we don't need to be too prescriptive like we were? Because with Adobe Express we had to teach them. Teach it. Sorry, it's not them. It's it's we had to teach it off. I want that language. I want that image, and I want that test. What if I could be more predictive, could understand what you are doing and could suggest more importantly, what if it could tell you if it made the right choice or not?
+
+00:31:43:02 - 00:32:09:04
+不明
+Right. So this is gen this is what Gen Studio for performance marketing is bringing us, which is the biggest the big launch and the most innovation, from Adobe for the past year. I'm very glad to say that have us and have us present pixels is one among only six global partners that have been, appointed as, as, I don't want to say the wrong thing, but solution partner.
+
+00:32:09:04 - 00:32:28:19
+不明
+Thank you. Gregory. That's why I carry my CTO with me all the time. So, we did this. This is not a real our real client example because we're making our clients new campaign so we could not show you. But everything there you're going to see here we are doing for one of our clients is a retail client in the US.
+
+00:32:28:22 - 00:32:51:23
+不明
+So this is a job studio for performance marketing. What you're going to see now is a campaign in two minutes of half us in making a social media campaign to invite people to work with us. Right. So what you have here at this stage is we already trained the tool on have us tone of voice. We already trained a tool of what our personas are.
+
+00:32:51:25 - 00:33:16:26
+不明
+And this is how it all starts with a prompt, right? A post to invite someone to join. Have us. I'll choose. The pictures that I got from my team are the pictures that I want. And voila! This is the Genii suggesting to us what are the cup based on our brand tone, based on what we say is the brand, and based on what they learn about us using our template.
+
+00:33:16:26 - 00:33:39:25
+不明
+Always with the logo up, up right there and reading each image to tell us what is the best text for each image. So when you see those, this person that is more executive, it's a start your career path with have us. But when you see this young people I know there is a llama gen Z are like weird stuff.
+
+00:33:39:27 - 00:34:01:11
+不明
+So let's cut that on the ad. It's in place. My Gen Z teams are going to be very mad with me. It's so, they have, like, let's have fun and celebrate your career. Right? So this is what the, the AI is bringing us. It's reading the images is supporting or making the first intake, and then after it did it, it's the AI.
+
+00:34:01:14 - 00:34:18:23
+不明
+What actually you could do is improve, because I doesn't always get everything right. And us humans are still very much needed to kind of help. So you see the hand of the model is out. So we just open it and you do a quick editing just like you would do everywhere. You don't need to open Photoshop up in designer anything again.
+
+00:34:18:25 - 00:34:47:22
+不明
+And then you can see how it looks like on Instagram and how it looks like on Facebook. So you can do both variations on it. And here is the biggest magic. The AI is telling you how much it is inside your brand. Your your brand, guidelines, how much it is on meta. Because they, they know meta best practices and they know that the tool knows what our meta best practices for images and texts and etc..
+
+00:34:47:25 - 00:35:06:29
+不明
+So they say if they have past or not. You know, that meta has limits of text, for example, in the image. So the AI will read the image and say for this metaphor randomly or not, it will say best is the accessibility test. So if it is accessible for impaired people and also, the the brand test, which is the most important one.
+
+00:35:07:05 - 00:35:29:20
+不明
+And you can see here that the AI is telling me that we we passed 13 analysis and we failed to two in brand voice. So it is telling me that the brand voice on the text generator now up there. So this is really, really something cool and different. Of course it is evolving as we are evolving, but it is on the third step on leveraging more on AI.
+
+00:35:29:22 - 00:36:03:27
+不明
+Sounds cool and I hope you like it. But now, yeah, it's Remy telling us the challenges of implementing that. Yeah. And so, you know, I think that's great coming. All right. Well, you shared, you know, when we you hear a lot about the democratization of creative for all your different teams. And so those examples with express, with Gen Z for performance marketing, those are real tactical examples that our customers are experiencing today, where the email marketer can pull off an approved asset within brand guidelines, make changes to, for a new spring campaign or to whatever else that they want to do.
+
+00:36:03:29 - 00:36:24:05
+不明
+Social media manager. Right, can create those, new assets and ads based on Gen Studio for performance marketing. So in the past, we would rely on creative folks who have tons of tasks, right? Tons of backlogs of work, slays. And so essentially we're removing that barrier, right? I would say to content velocity. So I just wanted to kind of put a bow on that.
+
+00:36:24:08 - 00:36:51:21
+不明
+And so as we've alluded to right, we've we've already highlighted that, you know, tech is only one piece of the the solution, a very important piece. But Camila is also already highlighted many people and process considerations that are incredibly important for you to think about as you embark on this type of journey. And so I wanted to highlight a few lessons learned and consideration that we've learned along the way through her boss and other customers that hopefully you can internalize for your own, organizations and teams.
+
+00:36:51:23 - 00:37:10:17
+不明
+So, number one, you want to make sure that you elevate content to a strategic priority. So a content supply chain transformation A has to be a C-suite priority. You have to have the CTO or CIO and the CMO in lockstep together. Clearly, that's the case here at Havas, even though, Gregory, I think you're the fourth favorite, not the top three.
+
+00:37:10:20 - 00:37:28:15
+不明
+And so that's incredibly important, right? Because because the a transformation like this is all about impacting the people within the marketing, the creative organizations and how they approach their work. On the flip side, you know, we've run into an example with a manufacturing company last year, where we did bring them live on a content supply chain at the foundational level.
+
+00:37:28:19 - 00:37:49:25
+不明
+But our primary sponsor was the CIO. So he was brought in, you know, he was the decision maker, the buyer. But along the way, the CMO was actually never really bought into the vision of a CCie transformation. Right. Because she didn't want to wholesale change her team's ways of working. She was generally happy with the different tools they had, even though they had email and a few other things to,
+
+00:37:49:27 - 00:38:10:14
+不明
+And so what happened was the CIO left the organization about three quarters of the way through abruptly, and we had to resell the engagement. We had to resell the vision. And it caused a lot of churn. Right. So that upfront collaboration is super key, and you want to make sure that you identify a single, accountable and empowered leader to drive this across the organization.
+
+00:38:10:19 - 00:38:30:15
+不明
+You don't want too many different voices because, there are so many decisions and changes that, collectively, we need to think about. Also, on the strategy side, you want to think about what are your key business outcomes? What's the Northstar Value Realization framework that's going to be incredibly important to you and your teams. You want to define that at the outset at that leadership level.
+
+00:38:30:17 - 00:38:56:13
+不明
+But it's also incredibly important to cascade that down onto your project and execution teams, because often we find too, when your project teams, who's doing the day to day work, if their priorities are misaligned with the organizational direction, which often can be the case, that also causes a lot of rework and churn, right? So when you think about business outcomes, whether it's tool simplification that drive simplicity and cost savings, whether it's driving more, work efficiency, right.
+
+00:38:56:15 - 00:39:26:19
+不明
+Whether you're trying to drive more content velocity with better, better quality assets at more assets or you just trying to drive more enterprise scale. Right? Those are types of outcomes you can think about that, then eventually cascade down. You also want to really think about what is that operating operating model and governance structure. That's also incredibly important to your teams to you have to conform these, processes to your team's ways of working cultural needs, especially if you have global, globally distributed and regional teams that localized nuances incredibly important.
+
+00:39:26:21 - 00:39:54:10
+不明
+And it can go a couple of different ways, right? You have different models like global to local or decentralized hub and spoke. Right. And all of those are fine depending on your organization's needs. And we've seen examples to where, we can design and build a tech around your people, around your processes. We can do that. But actually for another one of our customers who was on main stage today, they actually I would actually say they're probably one of the largest content supply chain transformations in the industry right now, especially in the formal world.
+
+00:39:54:12 - 00:40:13:20
+不明
+They actually reorganized internally to meet the future ideal state of the tech, right. They actually reorganized teams, brought in new leaders, and, and thought about it that way. Right. So you can do either or and vice versa. There's no perfect answer, but you have to keep that at the top of your mind. And then lastly, you want to make sure you take a pragmatic approach.
+
+00:40:13:20 - 00:40:33:28
+不明
+Right. We already saw the roadmap. Don't bite off more than what you can choose or chew. And you also want to think about within your teams, your brands or different regions. What do you want to get? Who do you want to get started with? Right? How can you test and learn, build out evangelism within your teams, and then scale that into different use cases and opportunities?
+
+00:40:34:01 - 00:41:02:07
+不明
+And I also wanted to highlight, in this era of AI and AI, I it does require a radical rethink into your broader content strategy. Often content traditionally was created with the end in mind, as also Camil alluded to, where you're thinking about the specific campaign, the specific channel, the specific journey. And, you know, we have these annual briefs, we have these quarterly briefs, and you're really creating all that content in service of that, right, with AI, with modular anatomic content.
+
+00:41:02:10 - 00:41:20:11
+不明
+That's really the, the knee that, that all of our teams and leaders have to think about. How do you take a single asset, a single piece of content, and apply it and think about where that can be used across channels, across campaigns, across tactics. Right. And so that really is going to drive that asset reusability that all of our teams are yearning for.
+
+00:41:20:14 - 00:41:35:19
+不明
+You also need to think about that content taxonomy and metadata model. You know, a lot of times when we're working with our customers on new genuine I use cases, you know, a lot of we have different, you know, exploratory questions we want to ask for. So for example, do you have that do you have that right.
+
+00:41:35:19 - 00:41:54:20
+不明
+Metadata and taxonomy model. Because if you don't and assets today are not easily findable, they're not searchable. People aren't really looking for them and reusing them. That's only going to get exacerbated when you're actually using AI to create hundreds and thousands of pieces of content. Very regularly. Right? So you have to do that at the upfront in the beginning and figure that part out.
+
+00:41:54:22 - 00:42:16:21
+不明
+And then last but not least, I would also say, and Camille also alluded to is a review and approval. Right. So when you think about AI and traditional roles like creative directors, creative leads, even more junior folks, everyone has different roles to play in the review and approval stage. Right? So we're also rethinking how do we drive more efficiency in our people and our teams roles, so that people are focusing on the things that they should be.
+
+00:42:16:21 - 00:42:35:29
+不明
+Right. So there's a simplification of the review and approval step with the ability to have on brand guidelines, within our products today and that you're able to train like custom models, like Jen Studio for performance marketing and in regulated industries like pharma, banking, financial services, you know, they have a concept of MLR, right? Medical, legal, regulatory review and approval.
+
+00:42:35:29 - 00:42:56:21
+不明
+And so, the more disruptive, the more advanced and embracing farmers, which I that are working with their legal and regulatory teams to think about in Gen I, how do we how do we rethink the legacy. Very slow you know, monolithic review process. Right. If you're thinking about the modular and atomic content approach. And so happy to share more about that too.
+
+00:42:56:21 - 00:43:16:01
+不明
+Right. But those are all key considerations we should think about. And so here we'll switch gears a little bit of talk about how we drove change and adoption within us. And so this is a fairly straightforward approach I think, you know, many of you will will find similarities and understanding of it. But essentially we want to identify who are the key change personas within an organization.
+
+00:43:16:01 - 00:43:37:25
+不明
+So on the left hand side here, we first want to think about who can be our super users are Adobe champions within your different teams and regions, who will evangelize and really spearhead the vision of what we're trying to do. Those people are absolutely key. We want to get them engaged early in the process, in implementation, in discovery, so that we hear their voices and what they are looking for is actually met.
+
+00:43:37:28 - 00:43:58:10
+不明
+And then also incredibly important in the middle section are trainers, right? I'm sure we've all heard train the trainer, you know tried and true model. But that's really important when we're talking about enterprise scale enterprise organizations have us with, you know, 16 studio, 16 distributed teams, different languages. You know, we to enable all of that training, you can't just train everyone on mass at a single point in time.
+
+00:43:58:10 - 00:44:19:21
+不明
+Right? So we want to train the trainers and then who will then disseminate all of that information into your broader team members. And we also recommend a multimodal approach to to training. And so there's also three facets here. On the left hand side here are off the shelf ready to go Adobe provided learning and enablement. So everyone has access to experience League.
+
+00:44:19:22 - 00:44:38:08
+不明
+It's publicly accessible right. So we can all have access to that. But what we also have access to is subscription based, the Adobe digital learning platform, we call it ADLs for short. And so in there there's also recorded journeys, and scenarios and use cases across all of our different products and solutions, that people have access to.
+
+00:44:38:10 - 00:45:01:14
+不明
+And so we recommend during implementation your impacted teams, they should already start learning these taking these trainings, so that they get familiar with the products and solutions that are eventually to come, even if they're not, you know, your company specific, right. That familiarity is absolutely key to break to build that, momentum. And then as we get into the implementation, and we've built out use cases, we built out so certain solutions.
+
+00:45:01:14 - 00:45:19:11
+不明
+Right. We want to create have our specific or customer specific, trainings, and, and jobs and product guys, we want to align with your personas within your organization, their learning journeys. What really makes them tick from a behavioral standpoint. Right. So we want to think about all of those different things to enable the change that we're looking for.
+
+00:45:19:13 - 00:45:41:00
+不明
+And then when we're ready to fully roll it out, we want to think about, how do we actually have live trainings, whether it's, in-person or virtual from instructors or consultants who are helping to implement the solutions and software. And then we can also think about more advanced, capabilities, like tutorial overlays over our Adobe tools, whether it's an on work front where everything is guided and contextual.
+
+00:45:41:02 - 00:46:03:03
+不明
+Right. So, this is a broader framework. We applied it to have us here. And then you'll see some examples here that Camila will highlight. Actually, we did it because we believe that the the biggest weapon against against non adoption is knowledge. Because people reject what they fear and people reject what they're insecure about. So knowledge makes people secure and confident.
+
+00:46:03:06 - 00:46:24:20
+不明
+So it's exactly what Remy just presented. But we are real examples. So we had Adobe Digital Learning platform to the whole have us, but also, what we did was we had have us tailor made portals by persona. So pop on, have us pop each of our, members of our team were classified as one persona.
+
+00:46:24:20 - 00:46:45:01
+不明
+Either we were a maker, a studio lead, an account person, and then we created Hot Site with tailor made directions for special trainings for each of them. So, you know, you don't have to go to a platform and be searching for that. You just go and see what's relevant for you. We had a persona training for key markets with Adobe trainers and that is quite good.
+
+00:46:45:01 - 00:47:03:00
+不明
+It's actually good because when you talk about big platforms, it feels like Adobe or a platform that you need to do. And actually on this day it was Derek in Manchester with our team sitting down, you know, putting a face and asking, what do you have the questions for? What are you afraid of or what would you like to know?
+
+00:47:03:03 - 00:47:35:14
+不明
+I'm here Derek, lovely Derek for two days with us. And lastly, to the point of training the trainer, we have a lovely head trainer at Havas in our team called Amina. One of those people who speak English, French, Spanish. And it's ready to train everyone in the world. And we had a beautiful handover from the Adobe trainers to our teams with, tailor made, demos and tutorials using our product so we could get it from there and continue the continuous, knowledge loop.
+
+00:47:35:17 - 00:47:51:07
+不明
+Let's say they could come on. So we'll wrap it up in this section. We're very close to the end. We'll get you to the community community Pavillion and some drinks. And so we wanted to highlight also, you know, I built on the the business outcomes that you really want to drive towards, right. How do you think about value.
+
+00:47:51:07 - 00:48:05:10
+不明
+And so this is a busy slide is meant to for me to just flash it up to see, you know, are the the possible across different things. Feel free to take a picture of it. But for many of our clients, right. They want us to lead with a prescriptive or strategic point of view of, hey, you know, Adobe products best, right?
+
+00:48:05:10 - 00:48:26:21
+不明
+We're professional services. So tell us what we should be thinking about. And so we really distill that down into three key tenants across simplicity speed and scale. So globally integrated capabilities and most of these I would I would say apply to most organizations where we want to think about what are the business outcomes you're trying to drive towards, what are the organizational outcomes, what are the customer outcomes.
+
+00:48:26:27 - 00:48:50:15
+不明
+And you can classify them across all of these different roles here. And then for each outcome, what are the key KPIs or OKRs that you want to drive? Right. So we've highlighted asset reusability faster time to market. You can think about better customer engagement right. Customer acquisition all of those different things apply here. And so this is usually a starting point that we think about that we can then build out for many of our customers.
+
+00:48:50:17 - 00:49:08:07
+不明
+And I'll share this interesting study here too. So Forrester, we all know Forrester. I'm sure they do many different things. But one of the things they do is they have this, study that's called the Total Economic Index study. And so, in this study, they work with companies all over the world, product companies, services companies. Right.
+
+00:49:08:08 - 00:49:33:10
+不明
+Adobe is one of them. And they and they work with real life customers who have bought those products and solutions, have brought them to life, have been using them and help calculate the return on investment of that so that other customers and users and whoever else may have access to that as a as a key learning. So we partnered within our professional services with Forrester middle of last year across seven customers that we had brought live up to that point.
+
+00:49:33:10 - 00:50:02:06
+不明
+So that was across a global CPG company, beverage maker, who you hear a lot about, a retailer, a telco who we hear a lot about, a manufacturing company, and professional services as well. And they created a composite company based on what the customers told them they actually experience. And so it resulted in about a 310% return on investment of the cost and investments those companies made into the products and the services to stand those up, at a high level.
+
+00:50:02:06 - 00:50:23:01
+不明
+And when you think about that roadmap, right, we can actually see payback or actual value in about six months in time together, work front end assets at different levels of scale. And I'll touch on some of the value metrics on this next slide. So net present value essentially is, you know, you took your total investment minus your cost equals your net present value.
+
+00:50:23:01 - 00:50:44:04
+不明
+And that's ultimately how we calculated the 310% ROI to. And so each of these columns and bars here essentially are different things that we've talked about from a benefit standpoint. Right. Whether it's more efficient asset reuse faster creation and production, faster time to market better, you know, workflow and project management capabilities, improved efficiency with agency partners like of us.
+
+00:50:44:05 - 00:51:01:03
+不明
+Right. And and so you see some of these different areas that ultimately lead to that. And so this study is available on adobe.com. If you guys are interested in the full detail. So you can feel free to go up there and download it. But this was a really great way to see how this has actually brought to life for many of our customers.
+
+00:51:01:05 - 00:51:26:27
+不明
+So talking about results also, so yep, everything that we do is in purpose of making better, more effective work for our clients, right? We don't do it for ourselves. It's not how it's not our purpose to do it. And those are three quick examples of what the impact that we managed to change by working in a much more effective way with some of our clients.
+
+00:51:26:27 - 00:51:51:06
+不明
+But if you go through this in the next, actually what we end up just running through, so we have the proper five minutes for questions. All of this is a pro of innovation, right? Because and this is just one one I'm not going to say silly for the lack of better words, but simple example is oh, everything that we put in place in terms of content, supply chain or the way we work is so we can do nice things and so we can implement different things.
+
+00:51:51:06 - 00:52:13:18
+不明
+For example, what we did with the I storyboards we set with one of our clients and we realized there is spending a lot of money on doing storyboards right everywhere in the world and very much manual with illustrations and etc. and what we managed to do is just shifting the way we are doing the storyboards, using AI, AI that learns across the world and across the time.
+
+00:52:13:18 - 00:52:34:24
+不明
+I'm sorry. And if you saw in the right hand side on the left hand side is the difference between how we used to do before and how we could do with AI much more real and much quicker. Bringing efficiencies in time and cost. And with time I learned and you actually build a, a library of of atoms and of visuals.
+
+00:52:34:24 - 00:53:00:17
+不明
+So it just gets better over time. That's it. And I think, Remy, if you go to the very wrap up, so we said that we are going to tell you about how we streamline workflows to create produce and the content supply chain at scale. I hope you understood that by our example. Second, we told you we're going to show you some examples of how we're doing this in a most basic level, but also how we were innovating with, some of the Adobe platforms.
+
+00:53:00:17 - 00:53:18:26
+不明
+I hope you we learned that. And lastly, we told you we're going to give some strategy for change and also for transformation with the teams. And that's a lot what, Remy was talking about on the transformation bit. And that's it, I think. Yep. That's it. Right on time okay. All right. Thank you guys. Cool. Thank you all.
+
+00:53:18:26 - 00:53:19:15
+不明
+Thank you for the time.
+

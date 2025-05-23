@@ -1,0 +1,568 @@
+00:00:00:39 - 00:00:22:50
+不明
+S 522. So this is tips and tricks. We are Chris and Ivan. We'll introduce ourselves in just a second. I want to do a quick, really quick show of hands. Who saw this session last year? Oh, one guy at the back. All right. Perfect. The one guy at the back. Whole thing. You may remember this moment from last year.
+
+00:00:22:55 - 00:00:48:47
+不明
+This was Russ and I, unfortunately. I do have some bad news. If you're wearing a hat, please remove your hats. We are remembering, Russ Lewis. I don't yeah, he's fine, but his best t shirt got destroyed by the T rex. The accident. He's at summit somewhere, so don't worry about it. All right, but welcome aboard that musical stop in a second.
+
+00:00:48:52 - 00:01:07:16
+不明
+That was a pass. Or about to head to the future. So buckle up. Today's presentation is going to be quick. We've got a lot to cover. We're going to do a ton of tips and tricks. Have a seat. Come on in. Ton of tips and tricks. We'll save time at the end for questions, if we can.
+
+00:01:07:20 - 00:01:26:11
+不明
+But I figured you'd rather learn more stuff you can do on Monday than learn two things and ask questions for an hour. Anybody? You're in agreement with me. Let's just pack this sucker. Awesome. So let's start talking, about who's in front of you. So my name is Chris Stults. I'm an enterprise architect on the consulting side. I'm the guy on the left side.
+
+00:01:26:15 - 00:01:49:39
+不明
+If you didn't figure that out already. I'm on the consulting side. I help customers stand up experience platform for all the app services. I'm from Niagara Falls. Canadia. I've got my moose socks on today. And, this is my friend Ivan over here. Hi. Ivan Meyer and Chuck. I'm a product manager on Journey Optimizer. Been with that product since its early inception there.
+
+00:01:49:39 - 00:02:07:55
+不明
+And I'm based out of New York. And again, if we don't have time for questions, we'll be around. I'll be at the booth after this. So I'm going to meet up there. Yeah. And as you probably learned already, we're here to take this presentation incredibly seriously all the way through. So we're going to start by talking a little bit about Journey Optimizer.
+
+00:02:07:55 - 00:02:28:41
+不明
+For anybody who's not super familiar with kind of how it fits into our world. And so I'm going to cover five quick pillars. We're going to rip through this real fast. So the first thing I want you to notice is actually what's written at the bottom of the slide. Agile is built natively on top of platform. What that means is that all the capabilities of experience platform are available to Journey Optimizer.
+
+00:02:28:42 - 00:02:55:06
+不明
+That means all the measurement with K. That means all of your audiences, all your profile attributes, all that good kind of stuff, meaning unified customer profile. Of course, that's what we activate through most of the time. We may show you a couple of tips that break that rule a little bit today. We can deliver at scale, through channels, upon channels, and for channels that aren't native, then we get into things like custom actions, where we can fire that API out to some other system that you might have to fire messages out to different things.
+
+00:02:55:17 - 00:03:15:43
+不明
+We'll talk about that today as well. Content design. You're all familiar or many of you are familiar with Am and the gorgeous content you can build there. It's in some cases even better in agile text, but real time journey orchestration. So this is where we get into the journey canvas. This is where we get into making splits, decisions, weights, all that good kind of stuff in the journey.
+
+00:03:15:48 - 00:03:44:44
+不明
+We're going to talk about using that to our advantage pretty soon. And then finally, of course, we get into the intelligent stuff where we can identify things like next best action, next best offer, etc.. So let's get right into it with number one. All right Chris, as you know or may or may not be aware of, there is a limit to the number of streaming segments you can have inside of AGL and inside of experience platform.
+
+00:03:44:49 - 00:04:06:42
+不明
+So help me figure out a way to keep my streaming segments lean and mean. So this is great. So oftentimes we've got Journey Optimizer. We've got journeys, we've got offers, we've got all these things running and we're trying to power as much as we can using streaming audiences. We see this across customers a lot, but this is more almost a reminder more than a individual feature.
+
+00:04:06:46 - 00:04:26:49
+不明
+Your Journey Canvas has the ability to look at things like audiences look at any attribute, look at events, look at all the stuff on the profile that's available to you. So use it within the context of the journey. We don't have to build streaming segments for everything that's going to happen along the way, because the canvas has a lot of that decisioning just built right into it.
+
+00:04:26:54 - 00:04:46:21
+不明
+For everyone taking pictures, you're welcome to. I'll also tell you the deck is available after the session. If that saves you any work. There will be a QR code for something at the end that you might want your phone for. All right, let's rock. Ivan. I want to make sure I can move profiles along a journey if they time out.
+
+00:04:46:24 - 00:05:08:25
+不明
+I've got this situation where someone's moving on a journey and makes a call, makes a check. Something times out and they're dead. Fix it. All right, so what we can do is you have the ability on any action, any condition, any event to set a timeout path. Timeout or error path. In many cases, you may want to drop those profiles from the journey.
+
+00:05:08:36 - 00:05:33:27
+不明
+You may want to create an alternative branch. But in some cases you want to actually just continue them along the path, right? So it's not super intuitive that you can do this or not, but you can click that box there, add timeout path, and then drag your subsequent action over top of it so that if any, errors or timeouts occur, that user will just continue along the way.
+
+00:05:33:32 - 00:05:57:06
+不明
+All right, Chris, you talked about streaming segments, events, audiences. But what happens if I enter a customer in a journey in an into a journey with an event and I want to use maybe a second event or something like that to keep them going along? This is another one. We use segments for a lot, right? We'll build a segment or a streaming audience for anybody who has placed that other purchase.
+
+00:05:57:10 - 00:06:13:30
+不明
+But what I want to do in the context of the journey is I want to keep the original cart ID and then see if they place that purchase as opposed to a different one. So what I can do in cases like this is I can actually look for a second event. And so we often think of events as something that kicks off a journey.
+
+00:06:13:37 - 00:06:30:16
+不明
+But I can actually use it halfway through if I want. I can use a bunch. Right. And so I can listen for additional events so I can get along the way and say if they place a second purchase, they go this way, and if they don't, they go that way. And then I can orchestrate those journeys using an additional event or an audience qualification or an audience.
+
+00:06:30:16 - 00:06:48:46
+不明
+I want to stick them into an audience qualification in the middle. Yep, yep. All right. We're rocking through. I don't know what number I am or kick, but, here's the deal. I've got people that I want to pull out of a journey. So we've already talked about conditions right along a journey. I can have a condition that says blue eyes goes this way, Brown Eyes goes this say.
+
+00:06:48:46 - 00:07:15:36
+不明
+And green eyes, they're they're going to timeout or exit the journey. But what if I want to do this at a more global level? I need an easy button to say get the heck out. Yep. So as Chris mentioned, we had we were looking at, you know, you can have events or audience qualifications midway through your journey. And that's a great way to check and see how do I pull somebody out if they've now redeemed like did a ticket redemption or something of that sort.
+
+00:07:15:41 - 00:07:48:02
+不明
+But there are cases where you may have very long run spanning long running journeys that span over the course of multiple days and things like that. And you may say, I don't care where they are in that journey. Just if this particular event happens or this attribute is true, pull them out. And so this, global exit criteria that you have on the right rail of the journey there allows you to specify an audience, an event or an attribute to say, if this is true, exit hatch, pull them all the way out.
+
+00:07:48:07 - 00:08:13:01
+不明
+All right. But, Chris, sometimes I have customers that appear in multiple journeys. How do I determine what's the most important one? How do I prioritize something? Hands up. Have you been waiting for some conflict management tools in agile? I like those hands. So, I can set conflict rules and so I can set up a capping rule. So I've got one here set up for Luna journey capping.
+
+00:08:13:01 - 00:08:34:17
+不明
+I can set priority so I can look across my campaigns and across my journey, and I can decide which ones are more important to me. So I make sure my customers get in the right ones. Real simple, but packs a ton of power. I think a lot of us in early days of AP, we were using update profile nodes and using all kinds of different things to try to cheat this and sort of calculate on our own.
+
+00:08:34:26 - 00:08:53:37
+不明
+Now agile just does it really easy. Two buttons and we're done. Yep. And you set the priority up. Let's go back to that one. You set the priority. So if that's like number one that's going to be the most important. And so this works really well. If you have multiple campaigns, multiple journeys all running across the same audiences, we can highlight the ones that are to the same audience.
+
+00:08:53:42 - 00:09:01:32
+不明
+Oh highlight with my cool space age clicker. You got it. It's right there. Yep.
+
+00:09:01:37 - 00:09:28:32
+不明
+All right I love this one so much you guys I, I use AJL for everything, including things. Product doesn't like that. I'm probably not supposed to use it for. And I use custom actions like crazy, right? Custom action. Meaning I want to fire a call off to some other system. Maybe I've got an external push vendor. Maybe I want to send a message through some kind of a messaging system, etc., but you typically would have to build a journey and go run test mode and test that in the journey.
+
+00:09:28:37 - 00:09:58:22
+不明
+And, I don't enjoy it. Ivan. Yeah, so we heard you, Chris. Thank you. And as of, I think maybe two weeks ago, we came out with a new feature to allow you to test that custom action inside the configuration. Right. So it's a huge pain in the ass before where you have that custom payload that you want to try out in the custom action, you throw it in a journey doesn't work right, doesn't give you the right response, and then you go like, okay, let me go reiterate over that custom action and it says, hey, guess what?
+
+00:09:58:22 - 00:10:19:14
+不明
+You can't modify this because it's used in a journey, right? And so to avoid that we can go in to define the custom action, test out the different parameters, see the response, and then make sure that before we put it into a journey or give it to anyone to use, it's going to work properly. Give it to them.
+
+00:10:19:19 - 00:10:41:00
+不明
+It's the little things. Yeah. Give the product the applause. Look at that beautiful image of Chris. So real. It's real, by the way. That's real. Speaking of custom actions, when I test messaging, I want my entire team to see the result versus sending a push to a phone. If you want to ask what my favorite tip and trick is in the session today, it might be this one.
+
+00:10:41:00 - 00:10:56:29
+不明
+It's so simple. It's kind of ridiculous, but oftentimes I'm on a call. We're doing okay. Did you get the push? And I'm holding my phone up to the camera in the meeting or telling people I want a way to test together as a group. So this is a little hack I came up with a long time ago. We did this last year too.
+
+00:10:56:29 - 00:11:17:30
+不明
+And if we do this next year, I'm going to do this again because it's my favorite, which is so internally at Adobe we use slack. You may be using we use team as well in other things. So set up a channel with and you go grab that webhook and we go set up a custom action that's called slack, that goes to a slack channel, and I can invite anybody I want.
+
+00:11:17:34 - 00:11:37:03
+不明
+Now, what I can do is I can go test all of my journeys and all of those messages are actually getting posted into the chat. So in this case, I'm just playing around with I'm showing timestamps and customer IDs and stuff just to make sure I'm getting what I want and who I'm looking for. But instead of just sending it to my phone only, which I can do, I can test as a team.
+
+00:11:37:03 - 00:11:53:29
+不明
+A little pro tip if you do want to test push outside of your mobile app, this one isn't on the slide I'm going to give it to anyway. Android and iOS both have apps. The Android One to use is called Push Tester, where it just gives you an endpoint and you can just go set it up and just get random push messages on a super lite app.
+
+00:11:53:29 - 00:12:16:55
+不明
+It's really easy. That's a great little resource too, but I love this. It's a great way to troubleshoot, right? Yeah. All right. So let's kind of go back to that cart abandonment use case just for a minute. So I want to I don't want to just say oops, you forgot something. And if anyone saw my YouTube video on this subject, you'll know it drives me nuts when you just tell someone they forgot something.
+
+00:12:16:55 - 00:12:39:58
+不明
+It's a little bit condescending. Let's give them a reason to come back to checkout. And sometimes that reason is products. But I don't want to put that stuff on profile, right? I want to do this on an external list or something. Ivan, what do you got for me? All right. Profile richness is a problem, right? You end up trying to workaround different things by shoving it all into the profile, and then it gets bloated with things that actually have nothing to do with that individual.
+
+00:12:40:03 - 00:13:03:00
+不明
+So we have new capabilities, that are currently in beta available to anybody to use. And, what it allows you to do is define a record based data set, and you can or don't have to enable that data set for profile. And what that allows you to do is put in things like product skew information, product catalog information, subscription products, whatever.
+
+00:13:03:09 - 00:13:25:27
+不明
+You can have reservations, booking information, things like that. You could have we have one customer who may or may not be in this room, that's using it for branding values, right? Match this brand, pull in things like specialized logos, links, colors and, you know, other kind of content that way. And so it's really easy. You enable that data set for lookup.
+
+00:13:25:31 - 00:13:48:12
+不明
+And then when you go into your message personalization, you call that data set. And you determine what fields of data do I want to bring in to that message for personalization and the way that you perform that lookup, you can either provide a static value, right. So if you know exactly I want to pull this product or this subscription product or something of that sort, I can say pull the value as an array from a profile.
+
+00:13:48:12 - 00:14:05:24
+不明
+So if the user has like save for later products, you can pull that array or I can bring it in from contextual event data. So that's super powerful because then I can say the user abandoned the cart has an array of SKUs on there. I don't want to have all that product information anywhere else. I just have it in this catalog.
+
+00:14:05:36 - 00:14:12:16
+不明
+Return all the values for it. We're sorry.
+
+00:14:12:21 - 00:14:20:44
+不明
+Wrong wrong wrong one. Wrong one. I don't even know in jail. Okay.
+
+00:14:20:49 - 00:14:43:30
+不明
+All right. Chris, I want to test variations of personalization, but don't seem to have a set of test profiles to cover all use cases. This is how many people have had this problem, right? It's like, yeah, I know we have an issue with test profiles. I know, we're trying hard to fix that. And it's can be very difficult to try and proof and see every variation that you have.
+
+00:14:43:30 - 00:15:02:33
+不明
+You have conditions, you have dynamic content running in your email. And you're like, I don't know how to how to see all the different use cases that could happen. So we do have a really good solution for that. Yeah. You guys want to show now? Okay. You guys want to tool for that? I'm just going to try to wake you guys up.
+
+00:15:02:33 - 00:15:18:12
+不明
+I'm just gonna make you yell stuff. So, custom value test. Perfect. So, I can do this, and I'm going to show you a demo. So it's going to play an animation in a second on the next slide. But I can go in, I can manually go set all the values that I want, or I can do it in a CSV file.
+
+00:15:18:12 - 00:15:34:46
+不明
+Thank you. Product. And I can go upload the values and test all the stuff that I want. That guy over there is happy. So if you take a look, I'm gonna stand up here so I can see it. So inside of our email we've got all of our personalization that we've set up right. We've got the name and the address and all that kind of stuff set up in our Luma sort of demo account email.
+
+00:15:35:00 - 00:15:56:54
+不明
+So what's going to happen is we're going to go up to simulate content. And we have simulate with CSV. It's going to take a second to load because we recorded this on hotel Wi-Fi, which is super fast. I don't know if you all have noticed. There we go. So, you can download a sample, right? So it'll give you that sample file.
+
+00:15:57:05 - 00:16:13:35
+不明
+Now what I can do is click in here and I can sit here and I can go play around. I can go build them in a form. Right. But that's not quite as fun. So what we're going to do is we're going to download the CSV template and we're going to go save it. There it is. And now we'll upload that thing actually is going to open up.
+
+00:16:13:35 - 00:16:27:13
+不明
+First we'll give you a look at that. So it's pretty simple right. I can just add rows for each of my customer per personas that I want to test. And all my different combinations for personalization. We're giving you this one in real time, because I want you to be able to go back and look at it and watch it.
+
+00:16:27:18 - 00:16:50:57
+不明
+So upload input data. So we'll go select our CSV file. We'll throw it in. There's mock data. There we go watch magic. So now I've got all the variance. Essentially every row in that spreadsheet down the left hand side I can click through. And as I click through I can now preview my email with all of my different variants of personalization.
+
+00:16:51:01 - 00:17:14:00
+不明
+Do it out of an Excel sheet in the UI, and it's gorgeous. Yeah. Woo! Practical use cases right. That's right. All right. Let's stick with the CSV file theme. So I want to I want to do cut lists right I kind of want to be in a cut list world for certain things. There are things where I want to build audiences and send emails because that audience is useful.
+
+00:17:14:00 - 00:17:41:15
+不明
+I can build it once and send it to all my channels that need it, but there are times when I just need to be able to use a CSV list to do this. That's right, that's right. Okay. This one's this one's a little, little weird. So stay with me here. There's some steps you have to follow. So the first thing you're going to end up doing is you're going to create a new channel configuration that uses a special identity map for the execution field.
+
+00:17:41:20 - 00:18:10:25
+不明
+And then we're going to import our CSV audience. And it doesn't I'm going to actually walk through this here. And I wanted to in this recording I wanted to make sure that you all know it is documented. We have it in our experience league as documented. You go to the audience activation, custom upload section and you'll see a spot there that calls out that you can use the identity map coming from the spreadsheet as your execution, because we're not actually creating fully fledged profiles at this point.
+
+00:18:10:30 - 00:18:30:55
+不明
+So what I'm doing now is I'm going into the channel config, I'm creating a special one for my email list, and then all the way at the bottom, instead of using personal email address, I'm going to change it to identity map. Right. And so that's saying don't look to the profile for this. Look to the CSV. And I got a little error there because I had a comma.
+
+00:18:30:55 - 00:18:50:24
+不明
+So you can see it's actually checking to make sure I have it right. We can fix. And yeah we keep the mistakes in we're real. So you hit submit. That process is through. Takes a little bit of time. It's not like a three day thing. It's like a few minutes. And then I'm going to go over to audiences and I'm going to hit import audience.
+
+00:18:50:29 - 00:19:17:26
+不明
+And I have my spreadsheet of audience of profiles. And these can be profiles that exist in the system, in which case it would map any values from that CSV into that profile. It's kind of merge up that data. Or they could be brand new non-existing profiles. And when I come in here, it's going to ask me what is the primary identity field in that spreadsheet that you want to use to activate on this could be phone number, email ID, something like that.
+
+00:19:17:31 - 00:19:39:25
+不明
+But it's important for me to specify that the email address I had in my CSV is going to map to the identity namespace of email, and once I do that, I hit next. Let that finish processing the CSV import audience is not a 24 hour materialization, right? This is going to just take a little bit of time to process all the way through.
+
+00:19:39:32 - 00:19:58:12
+不明
+It's going to be 30 minutes, something like that. You'll get the little processing light there. And then after a few minutes that will change to success. I think I fast forwarded the video so that we weren't waiting for that. And you'll see that it will say existing profile fragments and it's called a fragment because it's not a fully fledged profile.
+
+00:19:58:17 - 00:20:30:54
+不明
+So then once that's done, I go back to my campaign and inside of my campaign, let's go back to Journey Optimizer. Yep. I'll go create a new campaign. And when I select, my. Yeah, I got to give it a name here. She just left it. Timestamp. Welcome my welcome campaign. Sure. I'm going to add the email action, and I want to make sure I choose the right config because if I don't it's going to use that that profile address and it's not going to find any profiles.
+
+00:20:30:59 - 00:20:50:22
+不明
+So I'm choosing the Cutlass config. I'm going to select my audience which is the audience. I uploaded an. And I'm going to choose the namespace as email. And then I'm basically off to the races. And what I can do is I can the audience that I've imported any other columns of data in there, I can use it as, personalization fields.
+
+00:20:50:27 - 00:21:12:48
+不明
+Right. So if I have like, a referral code, maybe it was a sweepstakes list that I got you know, maybe I have different promo codes in there or, you know, like sales agent. That was part of it, something like that. So I have all those different values available in audience enrichment, and this demo goes on a little bit longer and shows how I activate it and sends that sends all the emails.
+
+00:21:12:48 - 00:21:40:31
+不明
+But for times sake, I think we could just skip through. So go ahead and hit now we're going to make Ivan keep talking for a minute. Yes. So, Ivan, I want to do geo stuff. I've got physical locations. I want to send people messages when they get close to my, stores. Yes. Okay, so a lot of people come to our team and they ask, can you do, geofence based push?
+
+00:21:40:46 - 00:22:01:46
+不明
+Can you do location based engagement for push? And I say, yes, we can do that. It's not hard. But as important, if not more important, is to develop a strategy to do location based in-app messaging. And the reason for that is most consumers of your brand's app are going to give location permission for while in use, right?
+
+00:22:01:46 - 00:22:21:05
+不明
+So that means any push notifications that I send means that the user has their app open, and that pushes either going to be suppressed into the background, or is it going to appear over top of my app as a little banner? Right. So what I want to do is I want to think about pivoting towards or using, in addition to an in-app message strategy based upon location.
+
+00:22:21:16 - 00:22:40:14
+不明
+How many here are aware that we have a location service called places that is available to all of you at no extra charge. Not many people brand new information. Okay, so we do. We have, a location service. I'm going to walk through it now. So you see here I have placed a service for POI management up on the map.
+
+00:22:40:19 - 00:23:04:25
+不明
+I can define as many POI as I want. They can exist in different libraries. So I can have libraries in my retail stores, library of my offices, libraries of potential competitors, things like that. I can have them all in different libraries. And each poi that I have, I can have, you know, the location data about it, you know, address lat long, etc. but I can also throw key value pairs of metadata attached to each POI.
+
+00:23:04:30 - 00:23:27:19
+不明
+This was really helpful. Back in the Covid days when we were using, we were working with it with different pharmacies that wanted to kind of like say like, do they have Covid tests? Do they have the the vaccines, things like that? So I can have all those different metadata values. And then when I come in to a Joe and I go to create an in-app message, I can use all of that information as to actually build it all in.
+
+00:23:27:19 - 00:23:49:28
+不明
+There's no integration work needed. It just comes over here and it says, I want to use enter POI as my trigger, and then I can have any of the metadata values there as additional conditions. So in this case, I want to create a in-app message for all of my locations where they're offering an onsite class. Right? I can have another set of ones that are like this one has an active prom or not.
+
+00:23:49:33 - 00:24:11:02
+不明
+And then I'm going to go publish that campaign, and review to activate. So I'm kind of showing the summary here. That's the in-app message that I want to appear when, when I hit the geofence. And then for all of you that haven't used this tool before, we have this other tool called assurance, which is great for web event debugging, mobile event debugging, tracking, analytics, things like that.
+
+00:24:11:16 - 00:24:30:37
+不明
+I scan my phone, hit the QR code, I'm inside of assurance, and then within assurance I have down at the bottom a whole set of features that help you test your location based engagement. So I come down to the bottom. I have map and simulate, and then you can see I can move around my app and I have my my iPhone up on the right side here.
+
+00:24:30:48 - 00:24:54:27
+不明
+And I'm going to simulate an entry event. There goes the in-app message. So it's showing that it worked. And then you'll see on the right hand side here, if I look in the assurance log it's saying you process an entry event for that particular location. Right? I can do an exit event. I can zoom over to the POI that I have over in Hoboken, do the same thing, simulate the load of the epis, try an entry event.
+
+00:24:54:32 - 00:25:24:22
+不明
+So I see I see the same thing. Get 10% off your first purchase and this was all using different metadata keys. And then I can go over to the the Brooklyn store and say, does this one have anything? And I can test the entry event there. And that one has the class associated with it. So what this is showing is that I have a really tight connection, with places service and AJL, that it becomes super easy to create an app based engagement, with geofencing.
+
+00:25:24:27 - 00:25:43:15
+不明
+All right. That's nice. But you're the location, guys, so let's amp it up. So, I don't know who's in the room, but I do know a little bit about, like, which logos we've got. I know we've got some sporting. I know we've got some airlines, airports, things like that. So I want you to imagine for a minute I'm in a world with physical locations where I'm in there for a while, right.
+
+00:25:43:15 - 00:26:05:47
+不明
+If I'm watching a game, if I'm in the airport, I'm in there for at least a couple hours. And so it'd be sure. Be nice if I know you're in that geofence to not only just send you messages, but literally change the experience itself. Yeah. That's great. So if you think about it, we can get those location signals and we can not only use them in campaigns to trigger in-app messages, but we can use them as events in the journeys.
+
+00:26:05:47 - 00:26:24:50
+不明
+Super easy. We stream all the events up to platform automatically. And so what I can do here is I can say I'm going to use the places entry event to kick off the journey, pop up an in-app message, and then inside that in-app message I can promote, hey, we have a store, an in-store mode, right? Maybe it's like I want to surface the Shoppers Club card.
+
+00:26:24:55 - 00:26:47:39
+不明
+Maybe I want to offer a retail specific map, of that particular location. Maybe I want to completely change the entire experience of the app to become like an in-app, an in-store scanner or something like that. So there's so many different things you can think about about saying, I want to change. I want to personalize and change the app experience based upon the location context.
+
+00:26:47:43 - 00:27:08:18
+不明
+And so in this case, I'm using the in-app message to then drive users into a code base experience the code based experience channel for those that you haven't haven't used it before, allows you to pipe Json or HTML into any endpoint that you have inside of your mobile app or your website. Right? And so I can pipe that over and say, this is the location context.
+
+00:27:08:18 - 00:27:27:54
+不明
+I'm in this poem in this store. And then use the code there to then change the app experience itself. All right, Chris, what about SMS before I do? Because we're making him talk so much, give my pal Ivan a round of applause. We're making him work for it today.
+
+00:27:27:59 - 00:27:44:58
+不明
+It's like, let let's just get the product guy to do all the talking. All right, let's shorten some links. So, you may not know you could do this. You can do this. I think there's an animation that'll make it go. No. Oh, nope. Went too far. This isn't the one with the cool animation that I was thinking of.
+
+00:27:45:03 - 00:28:00:12
+不明
+That's okay. So I can automatically shorten mobile links. Now, one of the things that you need to know is you need to have the subdomain set up. That's one of the prereqs. So a lot of people don't see this because they don't have that properly set up in your channel config. And so you want to set that subdomain up in your channel config.
+
+00:28:00:12 - 00:28:21:09
+不明
+And once you've done that then you have the ability to do your URL shortening. Right. And so now I can go in and I can personalize my message with that URL helper function. And it'll shorten that thing for me and keep all my tracking and all that good stuff in there real quick, really easy. But the key is to make sure you have the background steps set up first, which I think is why a lot of folks mess up.
+
+00:28:21:14 - 00:28:44:51
+不明
+All right. This is a big one. I want to send messages to my customers that don't just come from a random phone number that nobody has ever heard of. I want it to look slick. I want it branded. I want it super cool. This is new and cool. Hit us. All right. Okay. How many in here have heard of RCS or understand what RCS is?
+
+00:28:44:56 - 00:29:12:16
+不明
+Awesome. That's a pretty good show. Okay, so for those of you who don't know or want to learn more about it, RCS is rich communication services. It's kind of think of it as the next generation of SMS, right? So no friction with downloading apps or anything like that. You have the user's phone number on a profile, and you can set up agents through your SMS provider to then configure it so that it comes across as a branded, trusted, verified, message.
+
+00:29:12:16 - 00:29:36:13
+不明
+Right. And so in the very basic sense, you're going from what we're seeing on the left has a little basic text message to something like this. On the right where you can have, you can have, kind of multimedia in there. You can have action links called actions, you know, link previews, things like that. So that's I would much, I would much rather trust and CMS like this on my phone than one on the left.
+
+00:29:36:18 - 00:29:59:22
+不明
+So how do we do this? Okay. Little animation here. There's a couple different things we can do. Number one today, meaning like you could go do this today if you have, if we have if you are a customer, this is super easy to set up. Info about Twilio and other providers. We have some support coming for that at a later date.
+
+00:29:59:27 - 00:30:24:15
+不明
+But what we can do is we can set up that RCS agent, and then we can auto upscale the message to that RCS channel if the user's handset is compatible. So there's some little dependencies in there, meaning that the user has to have an Android device or an iOS device as 18.1 or later on the OS side, and they have to be on a carrier that supports RCS.
+
+00:30:24:19 - 00:30:45:25
+不明
+Now out in the media, they're much further along the US. We have a couple of different carriers that that are coming up to speed, but, you know, by the end of the year or within the next couple of months, all of them will be onboard, right? So you can start doing this immediately. You'll see in this little journey example here, what we're doing is we're doing a little check out to the SMS provider.
+
+00:30:45:30 - 00:31:02:27
+不明
+And we're saying is this user have a handset that's compatible with RCS, yes or no? If yes, send them the good, the good stuff. If now send them the old basic message. Right. So we have the auto upscale or we have the ability to kind of branch them in that journey. And then we're going to go further with this.
+
+00:31:02:27 - 00:31:25:03
+不明
+Right. So that's that first step, that kind of auto upscale. You'll see that we also have, later this year, the ability to do kind of rich messaging. Right. So getting those, those links and those carousels, add to wallet type stuff, all of that would be available through our, what we call our biopsy or bring your own provider as SMS configuration.
+
+00:31:25:03 - 00:31:43:51
+不明
+And what that it's a little technical, but what it means is that you have to go into the SMS, vendor and get the sample Json block of that kind of multimedia message that you want, and then you're going to shove that into the channel config so that when the when you go to author against that channel, it knows how what, what fields to expect.
+
+00:31:44:04 - 00:32:04:23
+不明
+So it's a little it's a little technical, but it can 100% be done, starting, you know, later this year. And then eventually we're going to, we're going to go further out and we're going to create like a really nice native experience and make it super, super easy to start working with these different channels.
+
+00:32:04:28 - 00:32:27:34
+不明
+Chris, I want to send messages to individuals from a personalized context, such as a sales rep. This is a little data model cheat that I like to do. I think we actually did it with with user first. And we had this situation where we got this could be B2B, this could be B2C. In a lot of cases where there is a sales rep, right?
+
+00:32:27:34 - 00:32:47:33
+不明
+When you get into sporting, you get into season ticket holders. So there's somebody that's normally communicating with them as opposed to just general brand communications. And so I like to stick it on the profile. I like to put the name of the sales rep, the contact information, and pop that into an object in the profile so that I can use it.
+
+00:32:47:38 - 00:33:05:45
+不明
+And so we can set up header parameters for all the reply to and all the usual stuff that you would expect from an email. So now at scale, now I can go. We got a sales rep. Yes or no? The answer is no. Great. It's from Luma. If the answer is yes, well now it's from Greg at Luma.
+
+00:33:06:00 - 00:33:41:17
+不明
+Yeah, right. By the way, Ivan, we're doing great on time. Oh, good. I kind of wax poetic about place. You could have gone on and on for days and days. All right, talk to us about headless. All right. So who here is use headless campaigns before? Not awesome. New territory. This one. There's one. Great. Excellent. Okay, so inside of agile, I can do marketing or transactional headless notifications both to an either to an audience or to an individual.
+
+00:33:41:22 - 00:33:59:33
+不明
+And this can be in any of the outbound channels. So push SMS email all are supported. And so what I'm going to do and I'm going to walk through an example in a minute, is I can go create that campaign. And what's interesting about this is when I go to craft the message, I can choose how much of that content I want to be.
+
+00:33:59:33 - 00:34:20:54
+不明
+The dynamic. Right? I could say this is this push is just a complete shell, and I want to push all of the content in from the payload, from the API payload. Right. So that would give me a super versatile SMS. Channel or an or a push end point or an email. I could make as much of that content as I want, personalized.
+
+00:34:20:54 - 00:34:45:28
+不明
+So I'm just hitting it with context, title, context of body. And after I publish that campaign, it gives me a sample curl curl command. And I if I have if I'm familiar with postman, I'm just going to bring postman up here on the left and you'll see I'm just going to type in whatever this is simulating me connecting up with one of my external systems that's ultimately going to be delivering the push or the SMS or the email.
+
+00:34:45:39 - 00:35:10:54
+不明
+Think about, you know, high throughput transactions. Think about I want to put game scores in. I want to do, you know, whatever I want to do. I can use this to instantly trigger those. So it's like a hot trigger. The API is always on, always published. And I can use I can map in profile attributes, audience attributes, things like that, or just make it completely, dynamic through the payload.
+
+00:35:10:58 - 00:35:30:24
+不明
+And I guess now I'm just showing that it's not completely baked. So it's not, you know, cooked here. So it's like watching a guy type over here. There we go. Hit send. Next one comes up. So we have a lot I mean we do have a number of customers that are like I want to use this for, you know, one time pin passcodes.
+
+00:35:30:33 - 00:35:55:39
+不明
+I want to use this to show order status updates. All those things are possible through this kind of, mechanism here. All right. Chris, we armored, we're flying. We're. Yeah, we're we're coming to the end, my friends. We'll have time for Q&A. I guess we'll see who, who does happy birthday campaigns. A couple of you just.
+
+00:35:55:39 - 00:36:08:28
+不明
+Steve. Okay, well, there's a clever way to do this, and I'm going to use that as kind of my use case. But there's a lot of different potential use cases for this. So.
+
+00:36:08:33 - 00:36:27:51
+不明
+We often refer to this as dynamic segmentation. Okay. I don't know what day your birthday is. It's on the profile. But I don't want to build an audience for like I want to build 365 audiences. Going is your birthday, February 1st is your birthday February 2nd. What I want to do is I want to use a very simple function that says equals today.
+
+00:36:27:55 - 00:36:50:26
+不明
+So if you look on the right hand side, I've got attributes and I'm including birthday equals. And I've simply set it to today and I'm just going to ignore the year. And now every single day I've got a campaign that I've built that's going to wake up every single morning. It's going to pull in that audience, and that audience is only going to be everybody whose birthday equals whatever today's date is.
+
+00:36:50:31 - 00:37:10:31
+不明
+Obviously at midnight it's going to change. And whenever that audience runs based on whatever my batch audiences are running, unless you're doing in real time, I can send that happy birthday message and I have some other kind of things to think about with this. Right? So, we have all seen we got like a number of journeys that you can have live, right?
+
+00:37:10:31 - 00:37:27:57
+不明
+There's a limit, there's a counter. Right. And so what we often find is that people are like, I maxed out the number of live journeys I can have. And then I go back and I say, have you have you thought about using campaigns for some of these things? Because I can set up recurring campaigns to check that audience on a daily, schedule.
+
+00:37:28:04 - 00:37:46:35
+不明
+And if the criteria is met, send it to those profiles. Right. So in that case, I don't have to take up a journey for that happy birthday message, right? If I have something that's like your cruise departs in five days and I want to send out every day, I want to send out an email to those users reminding them of their upcoming cruise.
+
+00:37:46:35 - 00:38:06:28
+不明
+But I don't want to have a journey for that. I just want to create an audience that's checking the event to say, is the event within the next five days. Yes, you qualify for that audience now put them in that recurring campaign that I'm sending every morning at 9 a.m.. So there's a lot of really great use cases of thinking about using recurring campaigns and mapping it to a dynamic audience.
+
+00:38:06:37 - 00:38:26:51
+不明
+And if nobody qualifies on that day, that's okay. Nobody gets the message, and it just wait till the next day to to do the same. Check. Yeah, I like subscription and dates to right subscription services or tiers, right? Your gold tier expires in a year unless you get so many points. Great use cases there. All right. Releasing a calendar.
+
+00:38:26:56 - 00:38:45:28
+不明
+So if anyone hasn't seen this yet we have an activation calendar feature coming up. If any of you guys want to participate in this, we have a beta probably at the end of March, early April. But this is great because it allows you to see all of your activations laid out on the calendar. So no, now you can see kind of like where everything is, right.
+
+00:38:45:28 - 00:39:02:27
+不明
+You have that inventory list, right? And it's really hard to tell where things are falling. Right. Where, where by activated in the past. Oh, maybe I forgot. I wanted to send something out on Tuesday at 9 a.m., so this is a great way to visually see all of you and get, oh my God, these glasses are going to visually see you see what you did there?
+
+00:39:02:31 - 00:39:27:38
+不明
+Oh, this is it's a great way to visually see all of your activations and where they are in context of your business events. Awesome. Check out my cool PowerPoint presentations. All right. This one's kind of neat. This is a little idea that I had a while back. I've been experimenting with. They make these things. If you're wondering how I've been running the music for this presentation, I've been running it on this little button, and I'll.
+
+00:39:27:43 - 00:39:43:37
+不明
+I'll tell you the brand name when I'm not being recorded, if you want to ask after. But these are the little smart buttons. Amazon had the commercials for a while, you know would buy things. You can set these things out to do all kinds of stuff. You can also set it to fire an API. You can also run through Zapier and you can fire an API, AJL.
+
+00:39:43:42 - 00:40:07:14
+不明
+Then you can take oh, and you can take a job and have it hit the JavaScript API for PowerPoint and run a PowerPoint presentation. If you really want it to be crazy about it or run music cues. But from a practical use case perspective, I think these are really cool for doing things like in a retail environment. So I've got somebody who's in my store and they're going to click the button that's going to notify people that someone's in the electronics department and needs help.
+
+00:40:07:19 - 00:40:23:47
+不明
+Well, let's run that through agile because, hey Joe, I can send push messages to all the mobile apps in my staff's pocket, but importantly, I can also track it with analytics. So now I can look at all of the in-store campaigns I'm running versus where everybody needs help in my stores and sort of trying to figure out the effectiveness.
+
+00:40:23:58 - 00:40:35:35
+不明
+These are really cool. I'm still finding more uses for it. So I'm going to give this idea to you. And if you come up with something cool, please let me know, because I think these are kind of neat.
+
+00:40:35:40 - 00:40:54:03
+不明
+All right. What's next? Oh, computed attributes. How many how many people knew about computed attributes and where to find them. Yeah, they're kind of they're kind of lost. Right. There's kind of hard to find. So on the profile tab, not inside of Joe on the profile tab, you go all the way over to the right and you see computed attributes.
+
+00:40:54:03 - 00:41:16:01
+不明
+And you can use computed attributes to check any incoming event and then do things like do a sum, do a min, do a count, do a max count, get the most recent and it'll it'll look at that and it'll give you the quantifier for like over the last number of days or months or whatever. And then you publish that and that value becomes automatically, available to you for personalization.
+
+00:41:16:01 - 00:41:34:03
+不明
+Right. So if you're thinking about I just want it very easily check what was the last product the user browsed before they bounced off my website. And I want to use I want to feature that product in an email computed attribute. You don't have to do anything else. It's just looking at that commerce event. What's the last product viewed?
+
+00:41:34:08 - 00:41:39:58
+不明
+Get that value and then use it for personalization.
+
+00:41:40:03 - 00:42:05:28
+不明
+Customer AI hands up are using it. Anyone using customer AI? Oh gosh, this is so easy. Ability to, create a very simple, marketer friendly go. Give me a propensity to churn or convert because if somebody's got a high propensity and they're very likely to convert, they're going to spend the money anyway. Why am I spending paid search dollars on that person to try to acquire a customer that I'm probably already going to acquire?
+
+00:42:05:33 - 00:42:25:08
+不明
+Similarly, if they're too low down on the list and they've got like a 2% chance, why am I spending money on a click? That's really probably not going to convert. So what it allows me to do is kind of squeeze that band and target, let's say the medium propensity on my screenshot to say, let's go after the people that have at least enough likelihood to convert, but not so high.
+
+00:42:25:08 - 00:42:37:35
+不明
+They're going to do it anyway, and not so low they're not going to do it at all. You can do the same thing with churn. Churn is really interesting when you start getting into people who are going through the help section and trying to figure out how to remove accounts, let's pop up the chat and ask if they're having issues.
+
+00:42:37:35 - 00:42:52:05
+不明
+There's all kinds of interesting things that we can do with churn as well. I see convert use the mouse because we all think about money, but churn is really nice for retention. Use cases. And what this effectively does is when I run it and I can apply some filters and things to it, it's not a bring your own model.
+
+00:42:52:10 - 00:43:07:48
+不明
+It's kind of easy mode out of the box. You can bring your own model and other ways to but what this effectively gives me is a score from 1 to 99. And then auto creates the low, medium high and the 30 threes. But I can change it. Right. So I can go set up whatever bands I want.
+
+00:43:07:53 - 00:43:30:57
+不明
+I can also add this to any other audience. Right. So give me anybody who bought last year that's got a medium propensity to buy this year. Let's go after them with this campaign. You super cool. Oh dynamic media in am as coming. I think we have a beta that starts kicking off in April. But Dynamic Media or formerly known as scene seven.
+
+00:43:30:57 - 00:43:59:17
+不明
+Right. So you have, just you want to be able to use dynamically generated images in your messaging, right? Whether that's email push, or SMS or anything else. But being able to pass parameters over to Am and then return back that asset. And that could be just give me a different color variant of a product. That can be I want to render a credit card in the email with the user's name in that kind of stamped font.
+
+00:43:59:22 - 00:44:23:31
+不明
+So what you're doing is you're setting up the variables inside of the dynamic media asset as almost like layers on top of that image. And then when you go into agile, we give you a way to say, okay, I'm going to use that that asset and you're going to see the URL path for it. And in that you're going to see the ability to swap those parameters out with your own profile attributes or conditions.
+
+00:44:23:36 - 00:44:39:02
+不明
+I'm going to give you another quick one on this because, we've got time. I, I use this as a customer. And we were multi-brand. So one of the things we did with this is we would it allowed us to create assets without the logos on them, but only have one asset and then dynamically add the logo. Yeah.
+
+00:44:39:09 - 00:45:04:08
+不明
+Right. And so you can have the lady carrying the blank white shopping bag, and then I can actually overlay the PNG with a clear background of my different logos on top of that shopping bag. And swap it out for every single image that I have, but only have one instance of that image which keeps things really clean. When you start getting into video, which doesn't pertain to email, think about overlaying onto that shopping bag and motion tracking it and putting it on top of video.
+
+00:45:04:08 - 00:45:12:49
+不明
+It's super cool fun. This next one.
+
+00:45:12:54 - 00:45:33:43
+不明
+Oh, we got out of order. Good for us. All right, I offer ranking, so, we have offer decisioning. Right. What's the next best offer? And oftentimes we implement this in a rules based way to say if they've got this and this and this criteria, then they qualify for the buy one, get one offer. But what if I've got 5 or 6 offers and I want to know which one to deliver.
+
+00:45:33:48 - 00:45:52:21
+不明
+So there is the I offer ranking. So as you can see by my square and I just want to play with this or you can click on the magic button and you can set it up. It's actually pretty easy to set up. It takes a little bit of time to learn and train as any of these things do, but as it gets going, it starts to figure out next best offer to show.
+
+00:45:52:26 - 00:46:10:39
+不明
+I'm going to give you another little cool thing we did with the very first customer. You worked on this to, that we rolled this out. They did something interesting. So they used this transparently with customers to trick them into logging in, trick them. So what they did is on their home page, they showed three offers that were blurry and over top of it.
+
+00:46:10:39 - 00:46:25:04
+不明
+It said, we have personalize offers to show you, but you have to log in to see them. So they go, well, that looks cool. So they log in to see them, right? Or they register to see them in the future. And so now they're going to log in. What are they going to see. Personalized offers. They were grocery.
+
+00:46:25:04 - 00:46:46:33
+不明
+Their offers were recipes. So instead of showing you items they show you recipes and inspire you to buy the items. So you go to the recipe. On the recipe page, there's a button to add everything to cart. You add all the items to cart, and now you're making butter chicken tonight, so it's pretty cool. So they use the offer ranking to decide which three to show, but they actually initially use it as a way to get you to log in so that everybody's a known customer.
+
+00:46:46:35 - 00:46:51:42
+不明
+It's pretty cool.
+
+00:46:51:46 - 00:47:11:57
+不明
+Ooh, iOS live activities kicking off a beta on this next month. QR code to sign up. So we're looking for people to enter that if you're interested in in it, great use cases for, you know, tracking like delivery status. Lots of sports entertainment companies want to use it for, you know, doing live score updates, things like that.
+
+00:47:12:01 - 00:47:33:27
+不明
+So anyone that's interested in potentially joining that beta, scan that QR code, take it to your form, go to my, my buddy, Robert, who's going to be running that beta program. And he'll be super excited to have you. This is the real last one. We're not going to bait and switch and put on new glasses. Show of hands.
+
+00:47:33:32 - 00:47:58:08
+不明
+Who has times when they just want to evaluate an audience now? Because my boss told me it needs to go out now, and I didn't know it yesterday to build it for my batch segmentation to run. And I need to run a campaign now. Welcome flexible audience evaluation. Or I refer to this as on demand segmentation. So I now have the ability something you could do in the API previously.
+
+00:47:58:22 - 00:48:14:42
+不明
+Now it's in the UI. There's some guardrails around how many times a day you can run this thing. So you're not going to run it 100 times a day. You're going to run a couple times a day when you really need it right. Going back to my sports example and the game is rained out, and I need to evaluate that thing now and tell everybody this is the way to do it.
+
+00:48:14:42 - 00:48:39:13
+不明
+And so what I do is I just select the audiences that I want. I click the magic button, I tell it to evaluate those audiences, it's going to confirm it, and off we go and it'll run them by like, I didn't do any of it, but I'm going to take full credit anyway. Thank you all. I care everybody.
+
+00:48:39:18 - 00:48:39:55
+不明
+Who?
+

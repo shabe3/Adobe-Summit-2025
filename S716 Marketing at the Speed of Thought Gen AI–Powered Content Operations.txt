@@ -1,0 +1,404 @@
+00:00:00:01 - 00:00:24:20
+不明
+One for, for joining us this morning. I know folks are still trickling in, but we'll we'll start getting started and get the ball rolling, and then we'll leave plenty of time at the end for questions, too, so everyone can kind of, get get more detailed as well. So as you're walking around summit, I'm sure you know, you're hearing a lot about agents and a lot about AI and a lot about the different use cases that you can get with those agents.
+
+00:00:24:25 - 00:00:44:24
+不明
+And we've got some really great content for you on one of, one of the more complex and pretty powerful use cases we've seen with AI agents so far, which is really around the work we're doing on migrations with AWS and with slalom. Our partners here. And so, you know, we've got a great set of speakers on the panel.
+
+00:00:44:29 - 00:01:06:16
+不明
+I'll do a quick round of introductions for our panelists, will tell you a little bit about Grady, in case you don't know, and then we'll jump into like a kind of presentation style with some Q&A. So you can hear from our panelists who are going through this process now, of the AI powered migration. And then we'll leave plenty of time at the end for questions so we can really keep it pretty conversational and open ended.
+
+00:01:06:21 - 00:01:35:11
+不明
+So on my left here is Lee. He's, delivery director at slalom. He leads the experience practice there specializing in content supply chain. He's got over 20 years of experience in digital transformation, and he's a certified Am architect. Building enterprise solutions to drive KCS impact. Phalen is with us. She's got over 15 years of experience. She leads technical product management for AWS marketing channels, including website and email.
+
+00:01:35:16 - 00:02:00:12
+不明
+Before that, she she did in-game messaging and personalization for Call of Duty and other video games at Activision. Anoop is one of the co-founders of Grady, so he comes from an investing background, as was previously the CFO CIO at Serta as well. I'm going to be the moderator today. I'm also one of the co-founders, but I lost the coin toss, so I got relegated off the panel as a result.
+
+00:02:00:12 - 00:02:25:28
+不明
+But hopefully it's good. I touched on this a little bit, but our agenda today is going to be a case study slash panel discussion. We'll keep it, pretty conversational so you can hear about the people, the process, the change management, the steps, of what this future state of AI powered content operations really looks like. We'll do a demo for you so you can see the platform in action.
+
+00:02:25:33 - 00:02:44:36
+不明
+And then we'll jump into a Q&A with with all of you. So you get a chance to ask some questions when you do that. We've got a couple of mics in the room. So, just so we can hear you, you should. You should use those mics. So if all that sounds good, we'll get started. Maybe before jumping right in, I'll let Anoop do, like a quick introduction on on what Gradle is.
+
+00:02:44:36 - 00:03:04:53
+不明
+So everyone's kind of on the same page. Yeah. So I'm assuming you guys know what our form and AWS are. So we'll introduce what it is Gradle here. We're I'm an AI content operations platform. What that means is we observe that there's a lot of great have JNI tooling on the market, mainly focused on the content creation aspects of the content supply chain.
+
+00:03:04:58 - 00:03:34:13
+不明
+But we saw that there still remains somewhat of a bottleneck in the content execution side of it. And so we set out to build out a series of agents to help, kind of streamline the content supply chain a little bit more post the point of content creation. So how do you make things like content updates, migrations, page launches, and planning around that much faster and the delivery straight to Adobe Experience Manager significantly faster, all while hearing to all of your authoring brand guidelines and compliance and regulatory, guidelines as well.
+
+00:03:34:19 - 00:03:51:58
+不明
+So excited to show you guys a little bit about the demo here and talk a little bit through the platform. Awesome. So now we can kind of jump right in. So maybe as the first question. So folks kind of get the lay of the land with with what we're dealing with and really the scale maybe I'll go to you first, Val.
+
+00:03:52:01 - 00:04:16:37
+不明
+And so as you're thinking about transforming across AWS, AWS, com, and all the sites and properties, that you guys are managing and moving to, like a single great new design system, how are you thinking about the landscape that you're managing across, like fragmented CMS systems and design systems? And really approaching this migration when there's such big scale?
+
+00:04:16:42 - 00:04:42:27
+不明
+Yeah, definitely. So we really want to make sure, that it is easy for, customers when they visit the AWS website to make it easy for them to find what they are looking for. And, visual noise in terms of, you know, inconsistency across pages makes that really difficult. So we, we really wanted to try to converge all of that and move to a new design system that was more unified.
+
+00:04:42:32 - 00:05:09:57
+不明
+But that has been very challenging given the scale at which we're operating. With a ton of pages distributed teams have been creating those pages, lots of customization, multiple, CMS authoring, just so many different things that we've been doing. And it's been a problem that we've been chipping away at, but with this opportunity, to move, environments, we saw, you know, hey, maybe we can do the rest of this.
+
+00:05:09:57 - 00:05:40:22
+不明
+Maybe we can do a large scale design transformation. And it seemed impossible, given the tight timelines that we were under. But with Gradle, we were able to do it. We're in the process now, and it's. It's going really well. Gradle had features that made it possible for us to do this. For example, you know, as we have been moving the pages over, Gradle has been able to, you know, intelligently select from, you know, our new components and our new design system and improve kind of with every iteration.
+
+00:05:40:22 - 00:05:59:33
+不明
+So as we go on, it keeps getting better. Additional features that helped us where we had a ton of legal pages. And, with Gradle, we were able to say, hey, you know, don't change the content when you move it. So, you know, we've been able to to do what we were hoping to do. And, it seemed impossible, but so far it's going great.
+
+00:05:59:38 - 00:06:18:34
+不明
+Awesome. That's super helpful context. And one follow up to that is, you know, everything is oriented around the timeline, around tentpole events and getting things done as quickly as possible. Could you tell us a little bit about, you know, what's driving the urgency behind this migration? Because, you know, obviously AWS is trying to move as quickly as possible.
+
+00:06:18:34 - 00:06:39:57
+不明
+What's some of the motivation behind that? So, a new team, came on to this project in about September, including myself. Other folks may be able to relate to coming on to a project where there are already committed deadlines. And so we, we were trying to move everything, by the end of May. So, September to end of May.
+
+00:06:39:59 - 00:07:04:47
+不明
+Not a lot of time. So, we, we partner with slalom to, you know, figure out how to move forward and, you know, found great deal. And, yeah, we, we've been building the plane a little bit as we've been flying it. But the reason that we had been, the reason that the team committed was because we needed to stop kicking the can down the road.
+
+00:07:04:55 - 00:07:29:02
+不明
+This was such a massive, complex problem that we really said, hey, we need to do this, and now we're doing it. Awesome. So as we think about the actual approach, we I think this is a good question for you based on, you know, your expertise managing these types of migrations and large projects. Could you tell us a little bit about what the delivery methodology looks like for a migration like this one?
+
+00:07:29:14 - 00:07:50:04
+不明
+Yeah, sure. So, typically we have a migration project. The first thing we want to do is figure out, what are we migrating and how are we going to migrate up? When we're dealing with, the number of pages, like AWS has, things like scripting and HTML scraping can be really cumbersome and time consuming, require a lot of iterations.
+
+00:07:50:04 - 00:08:11:44
+不明
+And so, figuring out, figuring that piece out fast, it was pretty easy to determine that, you know, gradient was a good fit for this with the automation pieces of it. But then on top of that, you still have all of that, you know, the strategy and process that goes into it, the communication pieces that have to go out to the high number of stakeholders, they're involved, at every step of this process.
+
+00:08:11:49 - 00:08:31:11
+不明
+And then on top of that, you've also got additional, you know, development efforts that need to continue to happen for AI components and templates. With, QA support on the end of that, which is slightly different than a traditional QA effort, where we're more doing like validation of content and layout structures and whatnot. But yeah.
+
+00:08:31:11 - 00:08:50:38
+不明
+So I think the interesting thing about what's shifted for slalom is, normally with these would be looking at stopping, you know, developers to come in and be, hands on keyboard writing code to try and do this. But with gradient, we really don't need the technical resources. It really more shifts to more of a strategy and a process related, migration.
+
+00:08:50:43 - 00:09:16:49
+不明
+And how does it compare in terms of like some of the specific steps that go into the migration process, like when you think you talk a little bit about strategy and planning, obviously there's, you know, the component development, the mapping, the design phases, like how how do you think about both, you know, the steps of the migration and where the real impact and savings are coming from versus, you know, scripting or the more kind of manual approach that we've seen in the past?
+
+00:09:16:58 - 00:09:44:45
+不明
+Yeah, sure. So, I think QA is probably the biggest area. So, one of the things that the great platform gives us when we migrate pages is a confidence score of, of kind of how the content matches up from the old system to the new design system. And so if you've got a, you know, a batch of a thousand pages of you migrating, 500 of them, getting a score of 100, meaning that the content is transferred perfectly over to the new design system, you can ignore those pages.
+
+00:09:44:45 - 00:10:09:52
+不明
+In reality, we we kind of know that they're that good to go. And so then you need to adjust and figure out what's the threshold that you want to start checking those pages. And so is the confidence score like 50 or below. Then you can focus your, validation efforts on looking at those pages and trying to find, are there any areas where there's consistent patterns that we may be able to go back to Grady or retrain it and then reprocess the pages?
+
+00:10:09:57 - 00:10:33:30
+不明
+So it's a lot of, it's a lot of looking at, and, and figuring out what the next step should be. I also, you know, just in comparison to, like, a manual migration, for example, I think we, we kind of estimated at the beginning of the project that it would be, about 160 manual resources, and upwards of $20 million to do this as a manual migration with the number of pages that we're looking at.
+
+00:10:33:30 - 00:11:00:43
+不明
+So it's, you know, it's pretty easy to figure out which option was the the best one for this. Super helpful. So Anouk, maybe over to you for this one. Like how do you think Grady's approach is unique compared to some of the other migration tools and efforts we talked about, like with the scripting and the traditional approach? Yeah, I think to kind of go towards the traditional approach, you have to have more of like a linear mindset to, you know, how kind of the migration timeline is going to look.
+
+00:11:00:43 - 00:11:21:49
+不明
+And part of that linear mindset is normally kind of thinking about it in terms of knowing what all of the mappings need to look like, in terms of where your assets are going, what the components mapped to, what components you know, in this particular migration, and some more complex situations. There are multiple kind of 3 to 1 mappings that need to happen because you're going from multiple different cms's into one.
+
+00:11:21:53 - 00:11:44:34
+不明
+And so all of those things, there's a huge kind of pre-planning and processing step, before the scripts are even made. And then, you know, you usually have to write the scripts and then, you know, some of them may not work at the beginning or outset. So you have to re scripted and remap it. And so there's a lot of, you know, back and forth, back and forth that kind of happens, which usually starts to extend initial migration timelines in a lot of cases.
+
+00:11:44:41 - 00:12:14:22
+不明
+And so what makes great deals approach very unique is that as the pages are being migrated, it's smartly being able to map pages against a bastard golden record, of pages that have been migrated really successfully. And he's able to learn and iterate from that. And so you can go from more of a linear mindset to more of a parallel processing mindset where you can actually start sending batches of pages through, and having those processed in real time and then learning from that and, moving on to the next batch.
+
+00:12:14:22 - 00:12:31:10
+不明
+So we've been able to migrate, you know, hundreds if not thousands of pages, in kind of single settings. Because of this, because of this approach. Awesome. I can't stress how important the damn aspect of that is as well. Right? When you when you're going from a, from an old system to a new design system, chances are the images aren't going to match up.
+
+00:12:31:10 - 00:12:49:59
+不明
+So one of the best features, I think, anyway, is, as your assets are coming over and being migrated, Gradle will, resize the assets according to what the new design system is and then put them in the dam in the appropriate location. So you kind of don't have to worry about a dam migration if you're, if you're only worried about the web assets.
+
+00:12:50:04 - 00:13:17:29
+不明
+And that was, you know, obviously a super accelerator for this project with the with the amount of assets we're talking about. Definitely. And I think one of the biggest questions we've heard from folks is really around, you know, the quality and consistency and what they can expect when it comes to AI agents. So a can you talk a little bit about how Grady's platform, how the agents are really ensuring that there's 100% quality adherence to brand guidelines, consistency across pages?
+
+00:13:17:34 - 00:13:38:58
+不明
+Yeah, I think the unique way we've built the stack is we're leveraging a lot of Genii in order to be building smart mapping and actually porting the content over. But, you know, something that Fallon mentioned earlier was you'll being able to map the content completely, like for like now that's not natural to an owl. An LMS natural tendency is to almost like, rewrite things.
+
+00:13:39:03 - 00:14:01:26
+不明
+And so that's what we're most mostly used to seeing, is like an algorithm generating kind of different props based on, like, you know, probabilistic outcomes and things like that. But, you know, we've been able to build it so that, Gradient Engine is able to actually just transfer the content completely, like, for, like, and fit it into the components, even if they're slightly newer or different looking components than what the content was usually in.
+
+00:14:01:31 - 00:14:21:32
+不明
+And so that's kind of the consistency aspect of things, which is a little unique. On the quality aspect of things, you know, we mentioned on the asset side, you know, we'll see things like a chart that stretches across a complete web page. Right. And now, you know, in the migration, that chart now needs to fit into like a picture component on the right hand side of this new component in this new design system.
+
+00:14:21:39 - 00:14:41:02
+不明
+So how do you actually one transfer that asset over which involves resizing, retargeting, uploading to the dam, but also point out that maybe the team should actually look at this page, you know, post migration and try to imagine if reimagine if that asset should even kind of belong in that page anymore. Right. And so that's part of that QA step.
+
+00:14:41:02 - 00:15:11:43
+不明
+And the content quality piece of things is in this new design, in this new look and feel, in this new, you know, should this actually still belong here or should this be rethought? That's a really great point. Like, how do you think about actually documenting these learnings on an ongoing basis? Like a lot of the stuff Anoop just talked about, you could imagine that you don't run into that problem until you've migrated a batch of 1000 or 2000 pages, and then you realize this component hasn't been developed and there needs to be some guidance or articulation of what needs to happen there.
+
+00:15:11:43 - 00:15:31:22
+不明
+So how do you think about the process of both documenting and then incorporating those learnings as you migrate the pages? Yeah. So I mean, documentation is something that, you know, we have to be very collaborative on across all of the teams because there's so many moving pieces. But, you know, we've got a we've got a great team on the ground.
+
+00:15:31:22 - 00:15:55:20
+不明
+We keep, decision logs, we've got a great, QA lead in Peta who put together, a really great structure for us to, you know, that clearly defines like what the steps are when x, Y, and Z happen. And just making sure that we're really writing down and keeping track of everything on, on paper, making sure that, any changes in the process, decisions, decisions are logged in the appropriate documentation.
+
+00:15:55:33 - 00:16:26:45
+不明
+If there's any tasks that come out of anything, making sure they're in, in lab day to, you know, be tossed up on, yeah. Yeah. No, that's super helpful. And we talked a little bit about the the impact in terms of the cost savings. We talked a little bit about the quality. I want to double click on that because I think sometimes, you know, that's one of the pieces that isn't always, super clear, especially when you've got like a very large migration until you start to see a new approach to doing these things.
+
+00:16:26:45 - 00:16:45:22
+不明
+Because there's been such an established status quo. So, you know, we talked a little bit about like the cost impact, but we'd love to hear maybe first from you, Fallon, and then also from from Lee. Like in terms of the time and the cost and the quality. Like, what's the real impact of of taking this new approach with this migration?
+
+00:16:45:26 - 00:17:08:05
+不明
+Yeah, I think when we looked at the timelines, there was just no way with the number of pages that we had. And so we were like, well, can we automate this? But, you know, strict automation would not be able to get us there either. So this was really the only type of solution that that would have worked. And, we went from really not having, you know, a clear path to, to having one.
+
+00:17:08:20 - 00:17:31:04
+不明
+I think that also doing a policy, initially really helped us, but we ended up basically scrapping most of what we thought we were going to do once we saw what it could do. And, it really not only is going to enable us to achieve the deadline that we've, we've set, but also, like I said, like we've been chipping away at this design problem for like a year at least.
+
+00:17:31:04 - 00:17:51:07
+不明
+And so this is just that opportunity to do it all in one go and end up, you know, in a new environment with only what we need looking the way that we want, I think, I mean, let me know if you agree with this, but sometimes you just don't know what you don't know. Yeah. And you have to actually see the page or at least a version of it when it's migrated to actually make a decision on it.
+
+00:17:51:07 - 00:18:17:38
+不明
+And that's what we're finding out as well, is it? It's so much faster when you're just looking at a page. And that kind of goes broader to what the platform can do in general in terms of page launches. But right now we're talking about migration by being able to just see it, instead of it being on a figma file with arrows drawn, like, you know, this is going to be what the page looks like, or, copy doc format of what the content is going to look like at the end of the day, just looking at it, makes a huge difference.
+
+00:18:17:43 - 00:18:35:40
+不明
+And so being able to get to that much faster, which also plays into, like the other migration methods, right. Like, if you think about, Ruby scripts, which I absolutely love, is kind of an ongoing joke. Groovy, guys. I love groovy scripts. But they do. They do work really well when you've got, structured content.
+
+00:18:35:40 - 00:19:00:59
+不明
+That makes sense. Right? But when you've got an older implementation where the node structures may not make as much sense, it's kind of hard to map those, node patterns over to a new design system. And so when you think about, how many iterations you would need as a technical development team to go through 50,000 pages and figure out what all those different patterns are at either the node or the HTML level?
+
+00:19:01:04 - 00:19:29:07
+不明
+That's a lot of work. And so you can, you know, pretty instantly realize a lot of cost and resource savings, in that area. And then focus your resources on, you know, the places where they can really make impact. Yeah. And where do you guys see the the time back really going when you're when your teams are able to get away from some of the scripting and the mapping and the, the manual QA efforts, like is that time going back to KCS, you know, strategy, design, just resting all of the above.
+
+00:19:29:20 - 00:19:53:58
+不明
+I mean, I've I think as much resting. Yeah, not as much. There's not really much rest. And that's okay. No, I think I think it's all of the above. I mean, the fact that we were able to do this and do the strategy and process behind it, I mean, I think it completely freed up your team to be able to focus on building the components and templates that need to be there for this migration to be successful.
+
+00:19:54:03 - 00:20:10:53
+不明
+Yeah. The where what we're doing instead is the kind of strategic decision making that we need to do in order to make sure we're making the right choices versus just, you know, hands on a keyboard the whole time. So yeah, we're definitely able to apply our time to, you know, tasks that we can't outsource to some sort of automation or model.
+
+00:20:10:58 - 00:20:32:59
+不明
+Yeah. And I think I know, you know, Amazon has a really great principle of like everyone, you know, like a product manager and like, you know, you're kind of owning the product. And I think I'm seeing that first hand too, with how people are kind of leveraging radio or thinking about radio on both the Amazon and slalom teams of like, maybe we can, you know, use it for this or, you know, maybe we can, you know, build out this plan and then run it through radio for this and then go through that.
+
+00:20:32:59 - 00:20:53:15
+不明
+It's kind of it's cool to see people kind of starting to sink in that world instead of just, you know, every single LinkedIn headline saying, I agents or, you know, reading about agents or just seeing or an agent every single day, it's cool to actually like, participate with it. And being able to almost kind of like, you know, make your own universe out of it.
+
+00:20:53:20 - 00:21:14:09
+不明
+Yeah. And and maybe not even, like a question, but curious your thoughts, like, AWS is obviously a very tech forward company, and so it's a unique opportunity we have where we've got a way to demonstrate, like an agent tech use case that's fully in production, which is usually, you know, the big barrier that most POCs and accelerators are running into today.
+
+00:21:14:23 - 00:21:38:56
+不明
+And, you know, do you see the kind of added advantages or benefits of getting like a really good almost like first party customer zero style use case with great deal where we're really using like the the cloud and bedrock models on AWS. Yes. And we appreciate that. Yeah. It's definitely I mean AWS, we are always looking for opportunities to use AI in our in our daily lives.
+
+00:21:38:56 - 00:22:02:33
+不明
+We've seen as transformational power. You know, it really is making us so more efficient. So much more efficient. So we can focus on kind of what I was just saying. And I think that this is a great example of, you know, how you can, how companies can use AWS to build applications and power their businesses. And now we're able to, you know, take advantage of that for our own projects, which is really exciting.
+
+00:22:02:38 - 00:22:23:02
+不明
+Awesome. So next up, we'll do a little bit of a product demo, which Anouk will walk through in a second here. So you'll get a chance to see, the platform in action. Anoop, I'll let you do a little setup right before I play it because we kind of jump right in. So if you want to give a quick overview of what folks will see, and then I can I can play our demo.
+
+00:22:23:11 - 00:22:44:31
+不明
+Yeah. For sure. So, what we're about to show you, is a little bit about the, the great platform, we're going to go through basically an old design system, and it's going to be in an AWS archive daemon format, and old design system, migrating to a new design system, but actually batch migrating. So migrating more than one page at once.
+
+00:22:44:31 - 00:23:08:47
+不明
+So you can basically get a bunch of live links in a CSV. Note that what template or component library you want gradient tool to actually leverage from, and actually port those pages over, to a new design system, with, again, all the assets like resized, uploaded to the dam, tagged in the correct way. And so, yeah, stoked to kind of show you guys what this kind of looks like here.
+
+00:23:08:52 - 00:23:14:11
+不明
+Cool.
+
+00:23:14:16 - 00:23:34:19
+不明
+Yep. So cradle platform, we're going to go through the CSV and click one of these live links. This is the old design system that I was mentioning. So you see a lot of those AMM components there, you know, all the customer case studies, and all of those, all those components. And so we're going to take a CSV full of links like this and then move it to a new design system.
+
+00:23:34:24 - 00:23:53:37
+不明
+You can upload your new design system, to, you know, a library of brands, that contain the components. And you see pictorial representations of what those components could actually look like on a page, and even add to those templates through a library that has been kind of pre downloaded based on, what your component library is looking like.
+
+00:23:53:41 - 00:24:15:52
+不明
+In the case where you want to add new components, you know, those will get added to this library as well. And so if we go to the batch task function, you can name batches assigned, to specific projects. In this case there's a AWS migration project to assign to and you can actually upload that CSV, and it'll render all of those links as individual tasks that will have to kind of batch run.
+
+00:24:15:57 - 00:24:36:09
+不明
+And you can assign project owners, task owners to those individual, tasks that are being run and click play. What it's going to do is it's going to auto map those pages over to the new design system. And you can run it with strict copy mode, which, as we were mentioning, means all of the copy is going to be exactly the same.
+
+00:24:36:14 - 00:24:55:33
+不明
+And it's going to start running those tasks. We've already run a task earlier. This takes about ten minutes. So just kind of clicking into a task we've done, that's the same thing. Clicking into the new link, we give our page studio view. So the page studio on the left hand side is a pictorial representation of the page, kind of dissect it into different components.
+
+00:24:55:42 - 00:25:16:28
+不明
+And on the right hand side, you basically have this representation of a copy doc. And so you have all the assets that are resides, you know, what's going on. This is where teams can collaborate on what the copy could be or should be, what the assets should be. And all of the assets are then downloaded into the dam, retitled to what the titling should be, and tagged appropriately.
+
+00:25:16:28 - 00:25:36:54
+不明
+And we, then give you a staging link, of what it would look like in Am. And so this is all in an, this is a real staging link. You can actually push this straight to publication in your prod environment, and you can see all of the links and animations stay intact. So that we can keep kind of the integrity of the, of the platform and design system.
+
+00:25:36:59 - 00:26:10:19
+不明
+Awesome. So we'll get into questions in just a second so folks can kind of dive into to the migration itself. But to kind of give the overview on Grady's entire platform because, you know, there's more to life than just migration. It would be helpful if you could give like a little bit of a lay of the land of gradients capabilities end to end, like once you've onboarded gradient agents for migrations and they know the design system and brand guidelines, what are some of the other things you can you can really start to realize?
+
+00:26:10:24 - 00:26:40:04
+不明
+Yeah, what we've found is that folks on the Adobe ecosystem, use Adobe because of the feature richness of the platform. But they also use other system kind of outside and around Adobe, to kind of, you know, move the content across their supply chain. Right. And what we want to do a gradient is make sure that those things are pretty seamless so that your experience across the entire Adobe ecosystem and all of your other systems of record are much more connected with each other.
+
+00:26:40:17 - 00:27:08:44
+不明
+So what that usually means is one, you know, migrating or implementing and implementing with Adobe has to be much faster and more efficient. And so once we get in there, usually what we do is help our customers establish a strong foundation. And so what does that mean, having the right QA procedures in place to make sure content is following all of the right guidelines and checking off, making sure that your, your Ada accessible accessibility compliant, all of your content and pages are complying with all of those policies.
+
+00:27:08:49 - 00:27:34:30
+不明
+And, you know, being able to actually then automate the process of actually updating and maintaining new content. So for a lot of our customers, even pushing a new content update across, you know, you go from a ticketing system to assigning it to a human, either through a partner or, you know, your own team. That human picks it up, and does the change in Am has to comply with all of the kind of QA branding guidelines, authoring guidelines.
+
+00:27:34:35 - 00:27:56:45
+不明
+And then that gets shared by someone, that goes to compliance and legal. They check it off and then the content update is good to go. That usually takes, you know, 3 to 4 days for a small content update, multiple weeks for a large content update. And so our customers are now using radial to instead of assigning the ticket to a human, they're assigning the work front task or ticket our JIRA task or ticket to radial.
+
+00:27:56:56 - 00:28:14:42
+不明
+And so radial is able to pick it up exactly how you've written it to a human and actually make the update, into your Am instance. Exactly. As you know, a very well trained author would do. Similarly with page launches, what we're seeing is to get from a figma, or a copy doc or anything like that.
+
+00:28:14:47 - 00:28:40:39
+不明
+It takes multiple weeks to actually get to an amp page with all of the assets and content present that people can actually start to collaborate off of and then ultimately launch. And so, the other thing that we've solved for here is to get from that point, source of truth, wherever you guys work into a page in Am, in your own design system, compliant with all your guidelines, so that you can actually start working from that page right there and then and push to publish.
+
+00:28:40:44 - 00:29:02:55
+不明
+And the next aspect of this, which I'm proud to announce that we're officially in beta for, is how do you actually optimize this content? How do you, you know, take, you know, Adobe Analytics, for instance, Adobe Target, the tests you've been doing there and actually come up with proactive recommendations on what the content should be and not just what the content should be, but then being able to actually publish that instantly or authoring it into em.
+
+00:29:02:56 - 00:29:23:05
+不明
+Right. So not just stopping at the recommendation, but moving through the entire chain and getting the getting the update actually across so you're able to test it out. And so, we've seen a lot of kind of appeal across stringing together a lot of these different systems to make em, and the Adobe experience, you know, much more engaging.
+
+00:29:23:09 - 00:29:44:31
+不明
+And, awesome for that. For the customer. That's I think that opens up a whole nother world for design resources as well, because if you think about going from, you've already got your design system, you want to test out some new layouts. Well, now you can just put it in Figma, stick it in radial, and you get a page created for you so you can actually play with it, in real time.
+
+00:29:44:36 - 00:30:14:50
+不明
+Rather than waiting for a developer to come along and do that for you. It's just automatic. And it's really neat, really neat. Awesome. And I think you touched on this a new but super quickly, like the difference between what's truly agent tech and RPA is a question that we get a lot from folks. So maybe quickly, if you could give a summary of, you know, what truly differentiates the agent tech approach, which I think you covered in your in your last answer to, yeah, no, I mean, I think this goes back to that of my first response in this.
+
+00:30:15:01 - 00:30:34:47
+不明
+I think RPA the whole world of RPA is very linear. Decision tree if then if then, if then. And that's going to break right at some point. And I'm sure we've all used some of those before and it has broken and there are some battle scars from that. Mainly because there's so many different variations, there's so many different combinations of things to do.
+
+00:30:34:47 - 00:31:05:00
+不明
+It's not just fitting something into a template, but really reimagining the way that we deliver content. And so, you know, what does the word genetic mean to us? A genetic means being able to actually do the work as if you have a supercharged marketer on your team. Right? And so be able to actually make some of those operational decisions, being able to actually move things through your different systems of record while following all of your rules, policies and guidelines and being able to train it over time to get better and better and better, to deliver faster results.
+
+00:31:05:05 - 00:31:29:24
+不明
+Personalized variants, being able to test out different things, experiment with audiences and so having that full experience, all while being able to keep your systems and processes, that's kind of what a genetic means to me. Awesome. And a couple questions for for everyone up here before we jump into the Q&A portion. Maybe we'll start with Lee, then found then Anoop.
+
+00:31:29:29 - 00:31:53:07
+不明
+What advice would you give to Adobe customers that are thinking about automation for their content supply chain and really, you know, going beyond just content creation? Yeah. I think everybody is really excited about the content supply chain and AI in general. And a lot of times when we get excited about things, we tend to, jump in too fast and, and sometimes that's not a good thing.
+
+00:31:53:07 - 00:32:15:57
+不明
+And so I think, really taking a step back and figuring out like, what what is your strategy? What is your end business goal? What are you trying to solve for? Is is probably the best thing to do. While it may not give you instant results, it will prevent, a lot of iteration in the future that will make your project go overbudget and probably not hit target dates.
+
+00:32:16:02 - 00:32:33:48
+不明
+Yeah, yeah. I mean, for me, I would say just look for opportunities to leverage Gen I, you know, things are always changing. But you know, for us we've just seen so many, so much time savings and just being open to that new technology has, has helped us, trying it out and then making changes based on what we've seen.
+
+00:32:33:53 - 00:32:55:06
+不明
+It's been great. Yeah. And and you can't just say great deal. I was just I was just going to say agents, man. Agents. No, I mean, really, though, I think, touching doubling down on what Valens said, being able to really understand where you can automate and should automate, I think everyone has a mandate to automate and use AI.
+
+00:32:55:11 - 00:33:17:45
+不明
+Everyone does in this year. But you can't just put AI in everything you know you have there are some things where, you know, you do have to have humans in the loop, and it's a lot of a process, planning and strategy, involved in actually executing. And so giving it some thought on where you should use it, where you should start with it and build trust with it, in your process is probably the most important thing for this year.
+
+00:33:17:45 - 00:33:36:46
+不明
+I think a lot of people and leaders in organizations will need to figure out for sure. And last question to wrap up this portion, if you could use AI to automate anything like work or personal as kind of everything starts to change with the latest models, what do you think you would you'd go and focus that time on?
+
+00:33:36:46 - 00:33:55:53
+不明
+What do you think you would go and automate with AI? We'll start with you again. We, probably should have prepared for this question better, but, I don't know. I honestly like to use it for simple things, like, I love to travel, but I hate planning travel. So just use a gift for simple things like that to take away stress from everyday life.
+
+00:33:55:58 - 00:34:19:22
+不明
+I think is, a good use case for me personally. For me, it was a little boring, but, email inbox management and calendar management, you know, if I could get some help managing that situation, that would greatly improve my life. You guys took mine. I can't say content supply chain either. There was a lot of.
+
+00:34:19:24 - 00:34:40:56
+不明
+There's a lot of interesting use cases that came up, last year at Reinvent, one of our lead investors, Medrano, who actually just about our series a, was announced on Monday. So I was, great timing. Better. But, you know, thank you. But we they held, like, this dinner there, and everyone was talking about a bunch of different, Genii use cases to use in their every day.
+
+00:34:40:56 - 00:35:00:57
+不明
+And, someone from, representing one of the major airlines actually brought up the travel point. And I think it's going to be really exciting that coming out in a couple months, being able to actually have an end to end travel booking, but not just the Indian travel booking, but an iterative agent that, you know, you wake up late and you can't make your flight.
+
+00:35:01:09 - 00:35:15:20
+不明
+How do you actually book a new flight? What if you go to a new destination? You have to book a new hotel, have change. If you want to change from like two queens to one king, how do you do that? Very quickly. You know, all of these little things that, you know, having a personalized booking agent would be able to do?
+
+00:35:15:24 - 00:35:34:06
+不明
+I think things like that and having many vertical personal assistants will start to be really cool as we, start to use and interact with our phone, in a completely different way. And I think the other second point is, I know two years ago I was in I was a fintech investor, so everyone was saying, web 3.0, I'm crazy.
+
+00:35:34:06 - 00:35:56:30
+不明
+And I think now we're actually living in web 3.0, where a site and someone's site will be an increasingly important source of truth, for their brand, because you'll have to solve for, you know, SEO and, you know, natural, organic traffic, but you'll also have to solve for, you know, like the perplexities of the world of, like, the AI search engines to be able to filter through content.
+
+00:35:56:30 - 00:36:15:20
+不明
+So I think you'll need probably two different kinds of experiences just cater to that. And so agents that are able to navigate, you know, companies and people through those kind of interfaces will be really interesting. And kind of take form of how the web experience is going to kind of transform across the next couple of years here.
+
+00:36:15:24 - 00:36:44:09
+不明
+Definitely awesome. Thank you all for what about you? Oh, no. You've just been asking all the questions. Oh, man, that was all answers. It's a good one. You came up with it. You guys took all the good ones. I would say for me, probably a lot of, like, the, you know, like billing. Invoicing, like appointment management stuff, like, just so busy.
+
+00:36:44:09 - 00:37:00:30
+不明
+And then you try to get an appointment with, like, a doctor or something. It just takes forever to do that. And then if you want to reschedule, it takes forever. You got a bill. It takes forever. So I don't know, automating some of that would actually help quite a lot with like pretty limited free time. So I think that would be a good use case.
+
+00:37:00:30 - 00:37:18:48
+不明
+And I think that's been like a very legacy approach that really hasn't changed in a very long time. So kind of akin to the travel use case. I think we'll start to see a lot of that disruption in the next year or two years. So exciting. Or they just bill us at the desk when we're done with the appointment on the white ale back every time.
+
+00:37:18:48 - 00:37:33:57
+不明
+I always miss it. Yeah, exactly. Awesome. Thank you all so much for for coming out. Thank you to our panelists.
+
+00:37:34:02 - 00:37:34:18
+不明
+Who?
+

@@ -1,0 +1,544 @@
+00:00:00:42 - 00:00:11:56
+不明
+I know. I know. You.
+
+00:00:12:01 - 00:00:20:40
+不明
+You.
+
+00:00:20:45 - 00:00:27:32
+不明
+You.
+
+00:00:27:37 - 00:00:33:47
+不明
+You. We can just stand over.
+
+00:00:33:52 - 00:00:42:31
+不明
+You.
+
+00:00:42:35 - 00:00:50:40
+不明
+You.
+
+00:00:50:45 - 00:01:14:27
+不明
+All right. Welcome, everybody, to session 503. You're in the driver's seat. I in real time CDP with General Motors. By a show of hands. Who here has used driver assistance technology like that? We just saw in the GM spot? Okay. About half, maybe a little more than half. How many of us have used cruise control? Okay, most of us.
+
+00:01:14:32 - 00:01:33:14
+不明
+So we know, even if you're using cruise control and also if you're using driver assistance technology, it can be a little bit strange at first. It takes some getting used to. But you're still in the driver's seat, right? You're the person who determines what the vehicle is going to do. You could turn it off. You could take control if you need to.
+
+00:01:33:19 - 00:01:54:12
+不明
+And in real time CDP. It's similar. You have a lot of AI at your fingertips, but it's up to you to decide how to use it to get where you're going to go. And so in today's session, we're going to discuss that concept in a bit more detail. So my name's Matt Skinner I work on the product marketing team for Adobe Real Time CDP.
+
+00:01:54:17 - 00:02:12:42
+不明
+I've been with Adobe for about nine years, so this is my ninth summit. I'm super excited to be with here with you today, and also to be joined on stage by Mark. Hey, everyone. I'm Mark gray. I'm the head of martech product management at General Motors. I've been there for about two years. This is my seventh summit, but I've actually been going to summit for about 16 years now.
+
+00:02:12:44 - 00:02:31:55
+不明
+Back when I used to go skiing at the end of the at the end of the weekend. So I love those days for sure. So we just, we just did an assessment of how many of us have used driver assistive technology. Let's let's do another one. How many of us, by a show of hands, have used generative AI at work?
+
+00:02:32:00 - 00:02:55:03
+不明
+For for the organization that we work for. Okay. So this is an interesting quote that I recently came across. From the Boston Consulting Group. If you're a marketer considering whether to deploy generative AI in your organization in your late to the game. So if your hand wasn't raised, we better move quick. No, I'm just kidding. That's not that's not where I'm going with this.
+
+00:02:55:04 - 00:03:14:45
+不明
+What's actually interesting about this quote is it's from a paper that was published in 2023, and I chose to put this in here because for a couple of reasons. First of all, there's probably a bit of truth to it, right? There are capabilities that are at our fingertips that are available for us to use today, but there might be organizational challenges to deploy them.
+
+00:03:14:50 - 00:03:32:50
+不明
+There might also be some sort of personal biases as well. I think the other thing that's interesting about this quote is it's sort of emblematic of a certain anxiety that I'm sure many of us feel. Am I doing enough right? Am I adopting new technology in order to drive the business forward in order to drive my career forward?
+
+00:03:32:55 - 00:03:51:37
+不明
+And it can be difficult when we're in this sort of mind state where there's new releases, new capabilities coming at us every single day to think through how are we going to actually apply this in our day to day and think about it more holistically? How does it fit into our broader strategy? And so that's one of the things that we're going to dig into in this session.
+
+00:03:51:42 - 00:04:13:16
+不明
+But before we leave this, let's just take a deep breath and remember, AI on its own is not a strategy, right? You set the strategy. AI is a tool or a set of tools that you're using to execute upon that strategy. And as a tool, it needs to fit within the way that you're thinking about your business and your audience goals and strategies.
+
+00:04:13:30 - 00:04:26:48
+不明
+It needs to be able to conform with your workflows. And you also need to have a structure and a framework for how you're going to test and evaluate your use of the AI along the way.
+
+00:04:26:53 - 00:04:44:43
+不明
+So Mark and I promise to have some good automotive puns. So here's where the rubber meets the road, guys. We're going to take us on a on a road trip for our agenda. First we're going to talk about the opportunity. And Marc is going to share his perspective on how he's thinking about the AI opportunity at General Motors.
+
+00:04:44:48 - 00:05:10:09
+不明
+And I'll talk about what it means for us at Adobe. Next we're going to look at different workflow patterns in real time CDP right. How how can you work with different AI tools, both within Adobe real time CDP as an application, but also outside of real time CDP? And then finally, Marc is going to give us some inspiration and some examples of how they're thinking about this at General Motors, and also some tips for how to get prepared.
+
+00:05:10:14 - 00:05:15:26
+不明
+So with that, Marc, I'll hand it over to you. Thanks, Matt.
+
+00:05:15:31 - 00:05:36:12
+不明
+All right. As Macha said, AI is not a strategy. I want to give you guys context as to why GM is taking this journey, right? So GM has been on a multi-year roadmap to modernize our marketing, to improve the performance of that marketing. And we've been analyzing all aspects of our business, everything from our agencies down to our platforms and data.
+
+00:05:36:16 - 00:05:56:19
+不明
+And so there's myriad PowerPoint decks that came out of our our marketing strategy teams about how we should really be driving the strategy. But I just like to simplify it, by saying we have to provide more marketing for future revenue. Freight, less cost. Right? That's the simply put, the thing that we're trying to do with our platform.
+
+00:05:56:24 - 00:06:24:55
+不明
+Well, that's a lot easier said than done. And our marketers, my my stakeholders at GM, have given us sort of a guidance. How can we be top of mind with the right product when our customer's near their purchase? Right? So, we have a tremendous opportunity to start looking at what are our key challenges and leveraging AI against those so that we can start to provide less with more or more with less.
+
+00:06:24:59 - 00:06:45:49
+不明
+So last survey, guys, we want to play a quick game here. Who can spot the Chevy here. So raise your hand your left hand if you think, the Chevy is the one on the left. Any hand. But raise your hand if you think the Chevy is the one on the left.
+
+00:06:45:54 - 00:07:08:39
+不明
+Wow. You guys pretty, pretty good here. Actually astoundingly good. I, I was expecting a little bit of banter about how you weren't so good at guessing here. So, this this is actually calls out one of the key problems that we have as marketers, right? We have many different products in market, but they actually have a high degree of overlap.
+
+00:07:08:44 - 00:07:37:03
+不明
+We have several different, you know, vehicles across as many different, lines. Right. So we have our EVs, we have our trucks and what our marketers are trying to do is improve our targeting capabilities so that we are not inundating our, our, our customers with touchpoints that don't matter to them. So what we want to be able to do is figure out how do we get to that highly precise targeting in order to.
+
+00:07:37:08 - 00:07:51:13
+不明
+Sorry. First time presenting at summit. So, appreciate you guys. Oh.
+
+00:07:51:18 - 00:08:14:15
+不明
+So what we want to be able to do is figure out how do we get the the right, audience for the right, customer. So working with our data science teams, we're sorry, everyone. We're working on, deploying a propensity models, and bringing all that together with our, our CDP in order to be able to drive that 1 to 1 targeting.
+
+00:08:14:18 - 00:08:47:30
+不明
+That's crucial for capturing, that, audience. We're also working on bringing together all that information with our CDP in our, our web SDK, so that we have, a unified profile that drives all of those touchpoints. I'm going to jump into the next. Challenge that we have is actually, once we've identified that customer, and we know that we want to target them for the Sierra and not the Chevy, we we also have a challenge of being able to know when that person is actually in-market.
+
+00:08:47:34 - 00:09:08:15
+不明
+So I've actually spent most of my career in, retail. And so one of the most complicated things that we sold in retail, and in my previous experience was a vacuum cleaner that's got like a 14 day, attribution window. Right? We expect a customer to make a decision in that short amount of time. The automotive, life cycle is much more complex.
+
+00:09:08:20 - 00:09:15:49
+不明
+And so the average.
+
+00:09:15:53 - 00:09:25:48
+不明
+Sorry. Thanks, Ernie. So one of the things that we're working on doing is building out our.
+
+00:09:25:53 - 00:09:47:54
+不明
+So, we've been working closely with our, partners and our marketing teams in order to map out journeys so that we can start to understand that customer lifecycle. It's stretches everything from our path to purchase into our path to loyalty. And so what we need to understand, are what are the key touchpoints on that marketing journey?
+
+00:09:47:59 - 00:10:14:40
+不明
+And another challenge that we have is creating personalization at scale. So modern marketers really want to get to 1 to 1 marketing. But we know that's very difficult to achieve. And we, General Motors has amazing, amazing brands, amazing products. We can all agree on that. And one of the things that we want to be very careful of is making sure that when we are in market, we are absolutely retaining the quality of our, our creative and content.
+
+00:10:14:45 - 00:10:37:21
+不明
+And so one of the easy things that we can start to do is it's a no brainer, right? We can actually go to market and we can start to provide those renditions and really automate that thing. But where we actually see a ton of additional value is starting to get to that 1 to 1 personalization, where we're actually bringing in the CDP that the interest that we have, the customer, and we're actually getting to that much more direct personalization.
+
+00:10:37:26 - 00:10:42:09
+不明
+So we have a lot.
+
+00:10:42:14 - 00:11:03:14
+不明
+And then finally, we have an insights generation opportunity. So we, the promise of modern marketing is that we can actually tie our all these things that we're doing to performance. And so our one of our key goals that we highlighted earlier is that we want to drive that marketing attributable revenue, but that, you know, improve scale.
+
+00:11:03:19 - 00:11:30:48
+不明
+One of the issues is that teams often lack the capacity and acumen to look at data and provide key insights. We are in at the channel level, we often default to channel level optimizations where we don't have necessarily all the things that we might want to do in order to optimize at that highly granular level. So one of the things that we're working to build is customer centric reporting capabilities so that we can actually bring all that data together.
+
+00:11:30:53 - 00:11:59:40
+不明
+It's really important to be hardcore with your KPIs, making sure that you know, why you're doing a lot of these things and being able to make sure that those are measured accurately and flowing back into the system. It's also very important to be able to run tests. And then finally, where we see another key opportunity, right, is to get predictive with your insights in order for an analyst to be able to provide you with the key insight, they're gonna have to look at many different sources, potentially power points in Excel to get to a key result or a key recommendation.
+
+00:11:59:44 - 00:12:12:05
+不明
+And we actually see a key opportunity for, anomaly detection ML and AI to be a key, a driver of being able to surface those insights.
+
+00:12:12:10 - 00:12:32:41
+不明
+So again, I want to bring you back to the reason that we're doing AI, and why we see as a key opportunity for General Motors. We really want to be able to do more with less. We've got that mandate from our leadership to figure out how do we do that. And so we really see that AI will allow us to drive segmentation by being more salient with the right product message for the customer.
+
+00:12:32:46 - 00:12:58:11
+不明
+And also help us with that journey activation. You'll be able to react to customers shopping with, their shopping stage, with an expectation, it'll help us drive personalization at scale, by creating targeting capabilities while staying on brand. And then finally, it'll help us drive optimization, which helps us service, surfaces. Insights of that drive actions.
+
+00:12:58:16 - 00:13:13:36
+不明
+Now we're going to shift gears. And Matt is going to share Adobe's perspective on AI and CDP. Awesome. Thank you. Mark.
+
+00:13:13:41 - 00:13:47:27
+不明
+All right. So I'm going to talk through how at Adobe, we see AI transform the marketing and customer experience orchestration space. So, you know, for decades we've seen these technological advancements that results in generational shifts in how we both create customer experiences and then also how we deliver them. And so AI is really the latest transformational technology, and it's changing the way that the whole customer experience orchestration market is structured.
+
+00:13:47:32 - 00:14:13:57
+不明
+Ultimately, AI is revolutionizing the way that we think about the content that we create and that we have to scale out about the way that we work with our customers data to build audiences and activate those audiences, and then also how we think about creating the journeys that are ultimately going to deliver the customer experiences downstream. And so all three of these components content, data and journeys are required for customer experience orchestration.
+
+00:14:14:12 - 00:14:44:05
+不明
+And of course, Adobe has deep expertise that's differentiated across all three of these different categories. So specifically, we'll talk about how real time CDP sitting within the data component. The data vertical here is thinking about AI and the opportunity here. So as hopefully everybody is pretty familiar with Adobe real Time, CDP is the tool that helps you build intelligent profiles, intelligent audiences, and then conduct intelligent activation consistently across channels.
+
+00:14:44:10 - 00:15:08:44
+不明
+So being able to work with different data sources, whether that's your first party data, whether it's known or pseudonymous, whether it's partner data, being able to either ingest and federate those data sources to then build complete profiles that are going to have identity resolution, that are going to allow you to layer on AI, machine learning models and insights, and then also manage audiences holistically.
+
+00:15:08:49 - 00:15:33:49
+不明
+Real time. CDP is built on Adobe Experience platform, which means it benefits from shared services like the AI assistant capability that we had in Adobe Experience platform, as well as our patented data governance framework. And then once you have your audiences defined, you can activate them intelligently and consistently across owned channels. Advertising. Our new real time CDP collaboration offering was just launched recently.
+
+00:15:33:54 - 00:15:47:19
+不明
+And as well as your enterprise systems. And so one of the things that we'll talk about in this session is activating back to enterprise systems so that your data science teams can make the most of the work that you're doing in real time. CDP.
+
+00:15:47:24 - 00:16:11:06
+不明
+And Adobe's been providing AI capabilities in our tools for more than a decade. You know, whether we're thinking about the, generative visual creations that we see in Adobe Firefly, which is also being used throughout this presentation, whether we think about working with a PDF and Adobe Acrobat and asking questions of that PDF so that you can accelerate what you need to understand from that document.
+
+00:16:11:11 - 00:16:38:26
+不明
+Or we think about AI embedded in tools like Adobe Experience Cloud Solutions, which we're focusing on here at summit. And so for real time, CDP specifically, we're really following these three principles listed on the slide here. The first is building capabilities that are both a productivity partner and a thinking partner. So the productivity component is about making you more efficient at work, so that you can then turn your attention towards higher value activities.
+
+00:16:38:31 - 00:16:57:54
+不明
+The thinking component is being able to surface insights that we might miss as humans, right? Because as we do things like build audiences, we all inherently have our own biases of different traits, different, signals that we should be including in those audiences that we think are going to work. But sometimes the most effective audiences are ones that are least expected.
+
+00:16:57:59 - 00:17:19:01
+不明
+We also build, capabilities into real time CDP that are inherently integrated into our workflows for the core function of real time CDP, which is, of course, audience creation and activation. So different applications from Adobe are going to have different specific AI capabilities that are geared towards those applications. And for real time, CDP this is where we focus.
+
+00:17:19:06 - 00:17:41:22
+不明
+And then the final point here is Adobe's AI ethics policy, which is our commitment to accountability, responsibility and transparency and all of the different, tools that we're building for real time CDP. And so some of our most popular AI powered capabilities that are live today and have been live for some months now, are those listed here?
+
+00:17:41:27 - 00:18:14:04
+不明
+So customer AI is a capability that allows you to do propensity scoring within real time CDP so that you can then build audiences of people who have high propensity, low propensity, mid propensity to target or to suppress from campaigns. Lookalike audiences helps you find more customers who share characteristics with your best customers. If you're trying to build a lookalike of a highly performance audience, so that you can go ahead and and expand your reach, against against additional profiles, within real time CDP.
+
+00:18:14:09 - 00:18:34:44
+不明
+The third example here is specific to B2B. How many folks here, work for a B2B business? Okay, awesome. This one's for you guys. So, predictive lead in account scoring. It's sort of like propensity modeling, but for the B2B side of the business so that you can understand which accounts, which leads are going to convert and advance through your sales funnel and build audiences based on that.
+
+00:18:34:49 - 00:19:01:05
+不明
+We have a few other, AI capabilities specific for for B2B like lead to account matching and related accounts as well that are worth checking out. And then this last one, AI assistant. This was what we announced at summit last year. This is generative AI in Adobe Experience platform. And so it uses, a natural language model to be able to ask questions of Adobe Experience platform of your data, as well as a documentation.
+
+00:19:01:08 - 00:19:37:01
+不明
+And customers have adopted this and seen tremendous results like those listed here, productivity and quality gains across different functions, whether we're thinking about data management, about surfacing, audience insights, about audience optimization, and how we optimize our audiences for campaigns or about journey management as we think about our journey inventories. And so what I really like about these results that I'm highlighting here is the fact that this can be felt by multiple teams within the organization, because it's likely that you have different personas who are doing different sorts of things within Adobe Experience platform.
+
+00:19:37:06 - 00:20:05:13
+不明
+And there's been a lot of time that's been saved managing schemas, uncovering insights, managing journey inventory. But this is just the beginning. So let me dig into more of the announcements that you heard mainstage earlier today, and explain how this fits within real time CDP. When we talked about our A strategy and Aneel presented this on main stage earlier, we, we talked about how these capabilities are going to surface in different experience platform applications.
+
+00:20:05:18 - 00:20:26:48
+不明
+I just want to acknowledge that these are roadmap capabilities that we expect to roll out later this year. So capabilities powered by Gen I like AI assistant, which I was just talking about, really unlocks the ability to do agents. And so there's a lot of different definitions, uses of the word agent. And it can be kind of confusing.
+
+00:20:26:48 - 00:20:52:42
+不明
+So for our purposes here, the definitions here on the slide, we're thinking about agents as intelligent operators that help interpret your goals, create plans and take actions across applications, either working independently or alongside people. And there's a spectrum of agents I write as we think about how, an agent responds to a question or a task that we give it.
+
+00:20:52:47 - 00:21:13:18
+不明
+There could be a single step response or multiple steps that the agent has to take. You know, it could be, directed activity by a user, who's using experienced platform, or it could be autonomous activity that you define, that you're comfortable with the agent taking. But I like this explanation as well. What are the specific characteristics of an agent.
+
+00:21:13:31 - 00:21:40:36
+不明
+Right. And one way to shorthand this is think of an agent is a system that you could talk to in natural language that understands and responds just like a colleague would. So an agent needs to be able to interact. It needs to interpret the intent of the user and the prompt that they're putting in and respond intelligently. An agent needs to be able to reason and think through problems and understand the context and make decisions, and then the agent needs to be able to act.
+
+00:21:40:50 - 00:21:54:06
+不明
+But it's important to note that the agent needs to be guided by human direction. Right? You you will determine how the agent will go about taking the actions that you're comfortable with it taking.
+
+00:21:54:11 - 00:22:17:21
+不明
+And so what Aneel announced on stage this morning is audience agents. And so the power of these agents to be able to do audience management, optimization and creation. And the quotes here on the right side of the slides are the types of things that audience agents can execute for you, just as an example. So show me audiences with a size change compared to the 14 day average, sorted by current size.
+
+00:22:17:26 - 00:22:40:26
+不明
+Can you help me build an audience of 100,000 profiles for selling an SUV over the next 30 days? These are the sorts of capabilities that help you optimize your audience strategies by uncovering new and valuable insights. It helps you work much more fast and have additional capacity so that you could focus on more strategic initiatives and ultimately act as a force multiplier for you and for your organizations.
+
+00:22:40:27 - 00:22:58:32
+不明
+And I know when I previewed this with you, Mark, you were you immediately were pretty excited about what you saw here, right? Yeah, absolutely. I know that, you know, one of our pain points with our, stakeholders using our audience and CDP is that they don't necessarily know everything that's in there, and they don't know exactly how they're going to get to the right audience.
+
+00:22:58:34 - 00:23:13:56
+不明
+We get a lot of requests like, hey, is this the right way to do this? Yeah, and I think there's a ton of power unlocked here. Yeah. And I know a lot of people raise their hands. And when you think about how you use AI and other workflows at work, sometimes it could be difficult to understand all the things that it could do for you.
+
+00:23:14:01 - 00:23:32:41
+不明
+And so the power of an agent is partially helping educate the users in terms of these are the things that could help save you time and you could focus elsewhere. So I just talked about it, and I think a Knill showed part of this demo that I'm about to show, but I wanted to show it in action, with a demo narrated by my colleague Shelby.
+
+00:23:32:46 - 00:23:50:23
+不明
+And so in this example, we're featuring, Jen, who wants to launch a new campaign to upsell luxury experiences to business travelers. So we're looking at a travel and hospitality example.
+
+00:23:50:28 - 00:24:13:00
+不明
+Meet Jen, the audience expert on the marketing team. She wants to launch a new plan to upsell business travelers to luxury experiences. Jenkins. What about the most effective audiences with the help of audiences? An experience platform powered by agents based on Jen's goals, she sees dynamic suggestions for related audiences and is able to validate the recommendations along the way.
+
+00:24:13:05 - 00:24:26:37
+不明
+She quickly identifies the ideal audience to achieve her goal of engagement, and is even able to complete the picture and add which channels the audience will be sent to.
+
+00:24:26:42 - 00:24:38:26
+不明
+Once she's narrowed down the right audience to add to her plan, she's ready to move to the canvas.
+
+00:24:38:31 - 00:24:58:57
+不明
+On the canvas, audiences intelligently translates Jen's prompts into business conditions for a new audience that will drive higher engagement.
+
+00:24:59:02 - 00:25:30:54
+不明
+Before she commits to the plan, the agent simulates outcomes on each channel based on her goal. Looks great. She's ready to activate. With the new audiences tool powered by agents, Jen quickly identified outcome driven audiences and the most effective plan. In just a few minutes. Awesome. What do you guys think? Pretty cool. All right, so I mean, in that demo, what we saw was she was given dynamic suggestions for audiences based off the campaign goals that she specified.
+
+00:25:30:59 - 00:25:51:33
+不明
+She was able to identify an audience for her campaign in the channels where she wanted to engage. She then optimize that audience with help from the audience agent, which suggests the new opportunities and then ultimately activated the audience. So you can easily see how this helps us save time and also increase our productivity as we think about taking new things to market.
+
+00:25:51:37 - 00:26:23:12
+不明
+Meet Jen, the resident. Oops. And this is just one of the agent capabilities that we announced today. There's different agents that are showing up in different applications within Adobe Experience Platform, but it's a good example of our vision for customer experience orchestration. So ultimately, you know, we're thinking about how to redefine personalization at scale and help you be more productive with your ways of working, and help you focus on creativity, differentiation, and growth.
+
+00:26:23:16 - 00:26:45:09
+不明
+Okay, so we just talked about a bit of the vision and the opportunity is Adobe sees it. And now I'm going to talk through the math, which is AI workflow patterns within real time CDP. And so before we jump into the specific patterns, I just want to briefly cover, what's the value of running AI against the data within real time CDP.
+
+00:26:45:10 - 00:27:13:59
+不明
+Right. Because probably for everybody in this room, not all of your customer data is going to sit in a CDP. You likely have a warehouse or some other environment that is really your true source of truth for the entire business, but it's still a critical part of your architecture for customer experience orchestration. So what we know is that AI is going to be most impactful when it's run against the right data sets, and real time CDP for most of our customers ends up being a center of gravity.
+
+00:27:14:04 - 00:27:36:35
+不明
+For those experience use cases that you have. And so as a result, there's often really valuable experience data that's residing in real time CDP. And it may or may not be sitting in other systems. And so ultimately leveraging tools within, against these data sets is going to help you work on your audience strategy and be more efficient in the work that you're doing in real time.
+
+00:27:36:35 - 00:27:57:07
+不明
+CDP. So let's talk through the three patterns. The first one, it's kind of a no brainer. Utilize the capabilities within real time CDP. But what I mean by this, the context behind this is maybe you don't have a data science team, or maybe the data science team is occupied with other really important organizational work. And you you can't get their attention.
+
+00:27:57:12 - 00:28:26:38
+不明
+Well, there's an opportunity to use tools like customer AI, the propensity scoring tool that I described to be able to drive value within your CDP workflows. So the work here might be independent from or, just just separated from the work that's being done elsewhere in the organization. So if you do have access to a data science team, it opens up the second pattern, which is actionable audience creation in real time CDP based off of the output of models run elsewhere.
+
+00:28:26:43 - 00:28:48:31
+不明
+And this is one where a lot of conversations have really focused, at least for me here at summit and leading up to summit, many organizations are running, or organizational or third party models on data that's sitting in snowflake or sitting in Databricks the way that you can make that work super actionable is by taking, taking the output from those models.
+
+00:28:48:31 - 00:29:18:09
+不明
+So just to go back to a propensity model example, the scores from those models and then either federating or ingesting the audiences who have certain thresholds into real time CDP so that you can activate them consistently. And this is a way to make that work super actionable for your downstream, personalized action efforts. And so with this pattern, you're able to to benefit from the great work that's being done while focusing on the specific workflows that are unique to the CDP in your architecture.
+
+00:29:18:13 - 00:29:47:40
+不明
+The third pattern is sort of the inverse. So with the third pattern, what you're doing is you're taking the profiles and audiences that are built and curated in real time CDP, and you're using that to help your data science team inform up optimizations that they're making to their models and to the work that they're doing. And I think this one is really valuable, because it's often the case that we're asking things of our data science partners, but this allows us to return some value back to them so that they can optimize the work that they're doing.
+
+00:29:47:44 - 00:30:08:40
+不明
+And so, you know, an example here might be you're, you're running some of those models in real time CDP. And one of the things that we surface for you, with customer AI is influential traits. So you can understand what were the most influential variables that determine the outcome of the model. That's something that you could then surface back to your data science team.
+
+00:30:08:44 - 00:30:32:50
+不明
+They can input that into their models, which are being trained off of a large swath of enterprise data, maybe historical transactions going back years and years and years, and then they can generate improved outcomes that way. So these three patterns and here they all are on one slide. Are the most common thing, most common ways that we see customers thinking about AI workflows with real time CDP.
+
+00:30:32:55 - 00:30:41:25
+不明
+And I'm about to hand it back to Marc to help us bring this to life, with examples from General Motors.
+
+00:30:41:30 - 00:31:12:42
+不明
+Is Matt, bring them back, guys. We're gonna give you some of the try. So we have a vision for building these integrated data and experiences at General Motors. And so foundationally, you need to have a lot of this data available for the CDP for the AI to be able to do what you want them to do. So when we think about building our profile, it's really thinking about what are all the what are the things the markers want to do from a CRM perspective, from a media perspective.
+
+00:31:12:47 - 00:31:30:56
+不明
+But we also need to think about that AI being almost like a data scientist in platform. So you want to think about bringing all the data necessary for that. So AI, General Motors, we have, started to build out our set of data products, a comprehensive of what we what we're going to know about an individual person. Right.
+
+00:31:31:11 - 00:31:56:48
+不明
+So this is my profile. It's not really my profile. But you can see we know things about the vehicles that I purchased. You can see, if I've used any of our online, online services, I've made a digital subscription. We bring all those things together. But what we're starting to do that's kind of different from what we've done in the past with CRM, is actually start to bring in propensity models like Matt has described, so that we can actually have those, profile.
+
+00:31:56:48 - 00:32:12:42
+不明
+We can start to do more sophisticated things than we have been able to do in the past. So with the goal there, right, we're going to have access to all of those things in profile. So the marketer can do all of these activation channels, but then we can start to do these more advanced things and grow our capabilities over time.
+
+00:32:12:47 - 00:32:27:19
+不明
+I did want to note that this is not my email address. So do not email me for public speaking advice to that address. I think that's a guy that builds, fuel pumps. Actually.
+
+00:32:27:24 - 00:32:47:16
+不明
+So how did we do this? How do we build this? It actually is a massive undertaking across our entire enterprise to start to build out these capabilities. So Jim has dozens and dozens of source systems. Many of those are decades old. Our vehicle sales database, our service database, we have many of these things that are existing over time.
+
+00:32:47:20 - 00:33:09:32
+不明
+We also are starting to bring on new things and, the way that we start to do that is working with our IT teams. So we didn't want to do what we had done in the past with our legacy CRM system, where it was a massive database with everything in it. We're really trying to think about how do we work with our marketers, understand their their use cases, and make marketer friendly data at the outset.
+
+00:33:09:32 - 00:33:35:39
+不明
+And what we're calling our CDP, our customer data hub. This is actually where we combine all those data, those source systems, but in a curated way, and we tie them all to a GM mid. Essentially that's where we're doing our ID tree, and that allows us to bring any sort of data that's happening in platform from any one of our models all together to do, any sort of data connections or analysis that we'd like to do in that platform.
+
+00:33:35:44 - 00:33:51:49
+不明
+The next thing we want to talk about who's data science, data science is downstream of those things, right? It's downstream of those third party, first party data that we have. And that's where we actually start to build out the prevention models, those propensity models.
+
+00:33:51:54 - 00:34:12:06
+不明
+We're going through this. Those propensity models are are connected to that guide. And they're flowing into our martech stack. We work closely with our stakeholders. So they they know exactly what models we want to build, bringing us back to what we talked about earlier, where we're generating those models per nameplate. So we have that high degree of targeting, and then finally those that flows into our martech layer.
+
+00:34:12:11 - 00:34:24:27
+不明
+So that's where we're going to go and bring those into platform and make all those things available from a audience. CDP age perspective as well.
+
+00:34:24:32 - 00:34:49:46
+不明
+So I want to talk about this a little bit. We're doing all these things at GM today, or we're in process and doing all these things at GM today. So I'm going to walk through how we are like, leveraging those real time models, for real time CDP for audience creation, activation. We're going to talk about how we want to run tests so that we can understand how those models are performing in market, and that drives a feedback loop for all of our, data science models as well.
+
+00:34:49:51 - 00:35:04:01
+不明
+And then finally, we want to talk about how do we learn from what's happening from our activation layer in the CDP, so that we're always bringing data back to those sources and always improving everything that we do?
+
+00:35:04:06 - 00:35:40:28
+不明
+So we've kind of gone through this a few times now, but for the visual learners out there, this is exactly what we're doing today. One of the things that's really cool is my team has deployed over 200, models, from from our data science team into the CDP. And we're able to do activations like this where we can target someone for media, or we can bring them, put them on a journey so that they're activated across, you know, personalization, any, anything like that where we want to go next with some of the functionality that you saw today, is starting to bring those models and be able to test against, and actually
+
+00:35:40:28 - 00:35:59:06
+不明
+be able to move more quickly. And so if we are identifying an opportunity and market, we start to look at it, you know, in in CDP, we're getting a recommendation. Hey, we can be more targeted with this, this segmentation that we can do. We want to test and learn that, and we want to bring all that data back, to our CDP.
+
+00:35:59:11 - 00:36:27:16
+不明
+Sorry, to our modeling teams. And then finally, this is where we see the opportunity to learn, find what we're doing in the CDP. When we're running campaigns, we're going to generate, that's the source system where we're generating our insights. Right. And we think there's a, huge opportunity for us to bring that data back. So part of our implementation of the CDP is actually building contact histories, behavior histories and all those things that flow naturally back into that Databricks system.
+
+00:36:27:28 - 00:36:33:27
+不明
+And you're going to see that illustrated right here.
+
+00:36:33:32 - 00:36:55:42
+不明
+So we talked about the customer supply chain. We want to talk about feedback loops really quickly I'm sorry I'm going off mike a little bit. So the the first feedback loop we have is really in platform optimizations. This is where you're actually in-market. You're running a test and you're seeing in real time if that's actually effective. Was it was the AI giving me a good recommendation.
+
+00:36:55:47 - 00:37:15:52
+不明
+The next one is bringing those signals back to your data science team. Hey, we ran your test or sorry, you train your model against the customer AI model and we're seeing this disruption in results. We want to bring those insights back so we can start to think about how do we continuously improve those. And then finally we're going to have product enhancements.
+
+00:37:15:57 - 00:37:46:44
+不明
+I'm convinced we'll have Uber cruise eventually. And I think Uber crews will be an example where, where, hey, we have more source data that we want to bring into the system. And then finally, there's always going to be, new lines of business, maybe, new partners that we want to bring on. And the the key thing to note here is that building this content supply chain or sorry, data supply chain is critical so that you are constantly evolving this this has to live with your marketing strategy.
+
+00:37:46:49 - 00:38:05:09
+不明
+All right. And so what I want to do next is take you on a little bit of an eye road trip. I want to tell you from my first hand experience what you can start to do to build against this so that you can have a strategy, and get get some of these things in market, quickly.
+
+00:38:05:14 - 00:38:24:12
+不明
+So we're going to take a little road trip from Detroit. We're going to and we're going to go to, we're gonna go to Las Vegas and, one of the first things I want to call out is that or reiterate, is AI is not a strategy. Right. And so it's as soon as you can your strategy is not going to be my strategy.
+
+00:38:24:21 - 00:38:47:11
+不明
+Probably close because it's kind of boilerplate, hey, we want to do more with less. We want to drive more sales with less work. Right. But it's extremely critical that you're, designing your AI approach around what you're trying to do. You might not care about the data that I care about you. You need to partner with your teams so you can align on those key objectives.
+
+00:38:47:16 - 00:39:15:52
+不明
+The next thing I want to talk about is, getting legal. So getting your license. So AI is a new area for legal teams, and they are going to be very uncomfortable with, you know, I just being able to do whatever it wants in, in your system. And so what's really important is for you to start identifying any example where you want to use AI and work with your legal team to get them on board with how this is how this will be integrated into your business.
+
+00:39:15:56 - 00:39:37:47
+不明
+For, GM in my some of my friends in the audience here, we have this as a high barrier GM as a high barrier when it comes to the legal approval of things like this. So we're already starting like the second we see a new, AI opportunity agents, this is this is me recommending. Go talk to your legal team and get started on some of these things.
+
+00:39:37:52 - 00:40:00:15
+不明
+One of the things I would recommend, though, is that you have really clearly defined use cases, but also bring your Adobe team in with you. Adobe's been talking a lot this week already about responsible AI, and so I think they have a really good position in that way. So bring them along so that when you're talking to your legal team, you're, you know, able to take advantage of that, you don't want to get pulled over, right?
+
+00:40:00:17 - 00:40:18:38
+不明
+Without your AI license. You know, the second year, you know, about to deploy a feature and then legal steps in, and then you're waiting six months. That's a kind of disaster, right? Stop, stop. Before we get started, this one is kind of beating a dead horse, right? You get a pack for your road trip? I've showed you all the data.
+
+00:40:18:53 - 00:40:41:09
+不明
+I've shown you examples of the data. We have so much more data that we're bringing in CDP. So Matt mentioned the BCG quote, which was, hey, if you're not doing AI right now, you're doing it wrong, right? You better run home and start getting it. I actually think that getting your data and getting that prepared for your AI journey is one of the most important things you can do.
+
+00:40:41:13 - 00:41:03:24
+不明
+It took us quite a long time, two years, right? That I've been a GM. We've been working on getting that data the entire time. So this soon as you can start to think about what are those use cases and started getting that data all packed up, the sooner you're gonna be able start using things that are really cool, like agents in the system, in order to be able to, you know, to, generate those audiences.
+
+00:41:03:29 - 00:41:20:59
+不明
+All right. This is not a fever dream. I have a I have an explanation for this slide. You want to get your team on board, right? So a lot of people are kind of afraid of AI. Is they going to take my job? Is it going to do, you know, is it going to create an army of robots that are going to take over civilization?
+
+00:41:21:04 - 00:41:46:49
+不明
+One of so one of the things a really important is that you want to get your marketer on board with those use cases. You want your marketer to feel like you're building AI for them. You want you bring your marketer to leadership. When you're asking to buy an AI feature or implement something is extremely important for everyone to sort of know why you're doing these things and to be on the same journey.
+
+00:41:46:53 - 00:42:09:58
+不明
+All right, this isn't really specific to AI, right? You shouldn't probably be doing anything in marketing if you're not measuring it and you're not looking at it. But one of the things I want to call out here is, you know, absolutely making sure that you're measuring. But more critically, if you're starting to roll out AI functionality at scale, you're rolling out, you know, audience, that you haven't done before, creative, that you haven't done before.
+
+00:42:10:12 - 00:42:25:39
+不明
+You want to be extra diligent at looking at your metrics, especially when you're running new campaigns in real time, right? If you're used to looking at the end of the campaign, I certainly wouldn't do that if I was deploying brand new feature functionality.
+
+00:42:25:44 - 00:42:48:44
+不明
+And then the last one here, adjust if the weather changes. So, you know, there's a lot of hype and I, there's a lot of, you know, things that you're going to try that might not work. And so I think you should have your destination in mind. But if you start to things to see things not working as you expected or, you know, the the metrics aren't there, remember that you don't.
+
+00:42:48:57 - 00:43:13:42
+不明
+These things have to be tested. Things are going to fail. And the ideal state is you fail fast and you put a new destination in place. If you, aren't getting the results that you wanted. So now I'm going to pass it back to Matt. He's going to take us home. Yeah. As with any any road trip and especially this one that's kind of standing between summit content and happy hour, I'm sure everybody's thinking, are we there yet?
+
+00:43:13:48 - 00:43:36:03
+不明
+Right. So, so here we go. Let's just wrap things up really quickly. One of the goals, Mark and I had when we set out to this session, is we hope to drive the outcomes related to these, to these three principles. So first, we wanted to make sure to highlight, the opportunity of AI, both from Adobe's standpoint as well as from GM standpoint and customer standpoint.
+
+00:43:36:08 - 00:44:00:04
+不明
+Wanted to make clear what those three common workflow patterns are within real time CDP. If you're not exploring all three of them, hopefully you're able to leave with some inspiration to do so. And then most importantly, wanted to provide the inspiration and the tips that Marc just shared. Based off of his experience at General Motors and in retail prior to joining General Motors on how they're leveraging and thinking about this opportunity.
+
+00:44:00:09 - 00:44:23:12
+不明
+I would encourage you to start thinking about implementing these AI capabilities, in your roles, if you haven't already. And I'll reiterate the title of this session, you're in the driver's seat, right? You are the person who gets to determine how these sorts of tools get used at your organization for your workflows. You know, Marc just made the very important point to bring key stakeholders like legal on board.
+
+00:44:23:16 - 00:44:47:17
+不明
+I'll add to that and say that, you know, the models in real time, CDP and in experience platform are they're built to expand upon one another, and they're trained off of your own data that's sitting in the platform. So there's this compound benefit where the sooner you get started, the better your output will be later on, especially as we start to release new capabilities like agents later this year.
+
+00:44:47:22 - 00:45:17:19
+不明
+So if you haven't yet explored using AI assistant, for example, I would encourage you to do so and here at summit is the perfect time to get started. So we had this session highlighted in red. There's been a couple other sessions earlier today. Perhaps some of you came from those, and then we have a number of sessions tomorrow and on Thursday I'll just call out a couple of them if you're, more of a technical persona and you want to go deeper into how all of this works under the hood, I would encourage you to check out this session tomorrow at 8 a.m..
+
+00:45:17:23 - 00:45:37:34
+不明
+S653 under the hood of Adobe's Gen I innovations. If you're eager to get your hands on the tool, and you really, you really want to join a lab? We had we had a lab that took place right now. Which which you're not in. Unfortunately. But we have another one coming up, on Thursday, in the in the late morning.
+
+00:45:37:38 - 00:46:02:56
+不明
+Another key thing to check out while you're here is the zone at community Pavilion. Down in the pavilion, there's a dedicated area with our product managers where you can see these things in action. You could ask questions, and you can really think through their application within your organization more broadly. Taking a step back from the AI topic, we have a lot of great sessions on real time CDP while you're here.
+
+00:46:02:56 - 00:46:25:35
+不明
+So these are the sessions taking place tomorrow. One of our most popular sessions is always the the one that's listed first here, which is the organizational component. Right? We all know that you can't deploy a system like real time CDP without bringing the whole family on board. And so we have a great case study, with Kristen from Marion and how they've tackled that challenge.
+
+00:46:25:40 - 00:46:47:27
+不明
+We also have sessions tomorrow on real time CDP collaboration, which, as I mentioned earlier, just recently launched at the end of February, including a lab on real time CDP collaboration. I know a lot of hands went up about B2B. I'll also call attention to the Vanguard session tomorrow afternoon, where they're going to talk specifically about what they've been doing in B2B edition.
+
+00:46:47:32 - 00:47:08:21
+不明
+And then on Thursday, more sessions. There's a dedicated session on audiences, there's a dedicated session on trust, and some of those governance capabilities within real time CDP. And at the end of the day, Chris is going to share with us how they're thinking about bringing B2C and B2B together in a single tool. At Red hat. All right, one last slide.
+
+00:47:08:21 - 00:47:26:25
+不明
+We're almost at the the end of the road. That one is a automotive and a boys to men reference. So two for one. Yeah. Thank you for your time today. I know I made the joke a moment ago. Like, thanks for not starting happy hour early on day one of summit and spending time with us about this session.
+
+00:47:26:30 - 00:47:46:19
+不明
+Mark and I were both really excited to bring this to you. There's a lot of great programing, and we appreciate you choosing this one. If you have a minute, please take time to fill out the survey. Somebody in this room will win a Starbucks gift card, and you might also win a set of headphones. So I think we probably have a couple minutes that we could hang out and take any questions following the session.
+
+00:47:46:23 - 00:47:47:53
+不明
+But thank you all and have a great summit.
+

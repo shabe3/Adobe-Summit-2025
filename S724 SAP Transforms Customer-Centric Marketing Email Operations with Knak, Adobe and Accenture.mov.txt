@@ -1,0 +1,404 @@
+00:00:01:24 - 00:00:39:23
+不明
+Welcome. Thank you. If you could take your seats. That'd be great. Thank you. Good to go. Everyone ready? Yeah. Yeah. Woo! Okay. Great stuff. All right. Hey, everyone. My name is Brendon. I'm, co-founder. Chief evangelist. Nac. I'm really excited to be here with you all today. And look, I know everybody says that, okay, in every session, but I am actually really excited.
+
+00:00:39:23 - 00:01:00:59
+不明
+And I think that I've been to a lot of Adobe summits, a lot of conferences, a lot of sessions like this one. And the last thing we want here is for this to be boring or a waste of time for anyone. Okay. So I really want to make this, an exciting session. I want to keep the excitement up, okay?
+
+00:01:00:59 - 00:01:33:57
+不明
+For everybody. So I have I. Yeah. All right, so I have a challenge for everyone today. Okay. Throughout the session. All right. Is everyone ready? Everyone ready for a challenge? Yeah. Okay. It's going to happen. So every time anyone on stage says customer centric okay. That's one word. It's hyphenated. Just so everyone knows everyone. Any time you hear that, I want everyone to cheer and applaud.
+
+00:01:34:02 - 00:01:59:52
+不明
+I want all the rooms around here to feel like, wow, we're we're having a great time in here because I know that's going to happen. That's why we're all here to be excited, right? And to get something valuable out of this session. So, you guys ready? Yeah. Let's go. Okay. This session is very customer centric. We. All right.
+
+00:01:59:57 - 00:02:14:56
+不明
+Great work. That was good. I'm not even going to test you again. There. That was that was excellent. Okay, so, with that I think we're going to open up and do some. You guys are going to do some intros as well here. So thanks for coming.
+
+00:02:15:01 - 00:02:33:26
+不明
+Hello. I am Jacqueline Hurdle. I am, the senior director of audience strategy for SAP. And today we are going to talk about how SAP has started down the path for evolving our customer centric.
+
+00:02:33:30 - 00:02:47:30
+不明
+Foundation. We're starting with email. So we did this in partnership with Adobe, Accenture. So I'm going to hand it over to her, introduce herself, and then we'll get started.
+
+00:02:47:35 - 00:03:12:16
+不明
+Hi. My name is her young. I'm here representing some amazing work done as a part of Accenture. You may think of us as a consulting company. Our motto is let there be change. So in my role as a marketing transformation specialist, every day is about creating more relevant experiences for my customers and for their customers and for their employees.
+
+00:03:12:31 - 00:03:28:33
+不明
+So this was an exciting project for us to embark on together. Thank you all for coming to the session today. So. Customer centricity.
+
+00:03:28:38 - 00:03:52:10
+不明
+Is a really nice idea. Everybody wants to be more impactful, data driven, creative, but it's more than just passion and excitement. It's more than a great leader or a great team. You really need some tools to help those teams get where they need to be.
+
+00:03:52:14 - 00:04:21:50
+不明
+Okay, so let's get into it. SAP has been on a journey to provide a seamless experience for customers. Cross-Channel. This has required putting the customer at the forefront of every interaction that SAP has with them throughout the customer lifecycle. So from there, we've been able to ensure that we are operationally efficient so we can scale, and we're making sure that we are able to create partnerships with others who are industry standard.
+
+00:04:21:52 - 00:04:43:43
+不明
+So we can always innovate with the needs of their customers, our customers, and grow together. So by taking this focus, we were able to take the first step in enabling a strategy first landscape that has reduced email operation sales by up to 60%, depending on the complexity and the use case. And that's what we're really going to focus on today.
+
+00:04:43:48 - 00:04:54:27
+不明
+So if we take a step back and look at the big picture, we have to look at the principles of a customer centric.
+
+00:04:54:32 - 00:05:19:55
+不明
+Marketing foundation. And so those are very clear when we need to provide a scalable, personalized experience where data seamlessly flows for, consistent activation, we need to be able to then measure the impact on the engagement while being able to continue to focus on what matters by being more efficient. So in order to accomplish this tall order, is understanding our customer.
+
+00:05:19:59 - 00:05:41:01
+不明
+What are their pain points? What are their needs? What are their wants? Who are they? What are their demographics? Their thermographic? Their preferences? How do we meet them? Where they want to be met with unique customer experiences? Then how do we satisfy them and delight them? By optimizing the experience and measuring performance. So clearly we need to take a step back.
+
+00:05:41:01 - 00:06:08:39
+不明
+We can't boil the ocean, can't do all of that at once. How do you go channel by channel. We really we're looking at what is the most tangible thing for us to start with. And for SAP, like many of you, it's probably email. We love email. SAP loves email, and email is great. It is a legacy, channel, but it is something that needs to evolve with everything else as it's evolving.
+
+00:06:08:51 - 00:06:35:16
+不明
+So this is where we decided to start. So as we looked at email, here are a few things that didn't align to putting the customer first. So the first set of challenges were more about backend operations and platforms. So if we start with some of those review process less than ideal exporting emails, sending them over email, going through a project management platform felt like we were in 2013, just not good.
+
+00:06:35:20 - 00:06:55:11
+不明
+Then it put us in a position where we were slower, but also put us at risk for human error more than we needed to be. So then we had a nonstandard Marketo set up. We couldn't scale, optimizer grow. It just the way the platform had to be rolled out. We had to do it a certain way for business continuity, and we didn't have room to grow.
+
+00:06:55:16 - 00:07:14:29
+不明
+We had 220 engagement programs. We maxed out the system. I have never had that happen before, but we started to have to use default programs, mix things together, and then we had to take a serious look at now that we're running. How do we take a step back and put ourselves in a position to move forward in a scalable way?
+
+00:07:14:33 - 00:07:35:25
+不明
+Then we had multiple email builders. We had one tool that was custom for our other automation platform, didn't speak Marketo. Then we had a new one built that did speak Marketo, but it couldn't integrate very well and had some scale problems. And in order to get where it needed to be, we were building the plane while flying.
+
+00:07:35:30 - 00:08:02:26
+不明
+Not great. Then we had a disconnected data flow. We had to then go into the Marketo editor after using these other platforms to add personalization, which again slows us down, makes it where there's room for mistake. And then we also are missing the information platform to platform to move forward. So we knew what our challenges were. So then we had to take a look at what did we want, what did we need as we peel back the onion.
+
+00:08:02:30 - 00:08:26:05
+不明
+So we have a handful of things that were requirements for us to move forward. First, powerful personalization. SAP is a complex organization where we talk to many, many countries, many languages, and many variables within the business. Different revenue bands need to be able to get within what they need. We also needed something that was walk up in use.
+
+00:08:26:06 - 00:08:47:01
+不明
+We needed something that was more intuitive. It was easy for people just to understand, and then we needed the platform to be able to scale. We need to be able to swap out templates. Modules. What's the purpose of the email? What's working? What's not? Then we needed a way to collaborate better. We had to get out of this motion of constant back and forth.
+
+00:08:47:01 - 00:09:10:23
+不明
+That didn't make a whole lot of sense for us. And then finally, we needed strong partners to help us continue to grow and build as we move forward. So with that in mind, we went in search of a tool to meet those needs. And during this is when we found NAC and we learned a lot about them which met our needs, like the ability to have advanced dynamic content, super critical for us.
+
+00:09:10:28 - 00:09:39:43
+不明
+We were able to save a lot of time, but also be able to introduce a lot of the what we're looking for, delighting our customers, giving them experience is where they want to be met with personalization. We then had a no code creation walk up and use easy to go. And then governance guardrails, branding modules, all of that put in place where we could pick and play, while also seamlessly collaborating in the tool.
+
+00:09:39:48 - 00:10:01:06
+不明
+One of my favorite things about it, because it does speed up time and efficiency so much. And finally, we were able to get together, once we met with NAC, shortly after, we learned Accenture as an implementation partner, and we were able to really figure out how do we bring this to life. So with that, I will hand it over to Brendan to talk about how we implemented.
+
+00:10:01:11 - 00:10:38:44
+不明
+Awesome. Thanks, John. Glenn was that was great. A lot of, very customer centric. There. I'll view Jacqueline. That was great. Who here has heard of NAC before? Okay, everyone. Okay. I think that concludes my portion of the presentation. So if you haven't heard of NAC before, NAC is an email and landing page creation platform helps streamline creation processes to create that foundation for customer centricity.
+
+00:10:38:49 - 00:11:03:36
+不明
+So that's and I'm just going to go through some of the my parts really brief here. You won't hear much from me. I'm excited to for you to hear about some of the the actual results that SAP is seeing. Here. So, give me two minutes here. But, one of the things that we learned with SAP, was the kind of one of the first things that we did with them was actually take a look at their process.
+
+00:11:03:37 - 00:11:37:43
+不明
+That's what we do with every customer, is we crack open their existing creation process for campaigns, how they go all the way from design to execution and everything in between. And really, what we learned was their requirements, their constraints within their process. And we helped define a new process along with SAP and Accenture, to where they needed to to go, taking into account all of those, constraints and requirements that they had, for infrastructure.
+
+00:11:37:43 - 00:12:03:50
+不明
+They had, a number of in-built home built tools, that they had, some of which NAC replaced, others NAC integrated with. So it was that was a big part of our implementation, with, with SAP. And like any great partnership, there's a lot of learnings on both sides, or on all sides, maybe, across all the partners involved.
+
+00:12:03:54 - 00:12:25:49
+不明
+SAP was really looking to do a huge transformation here. And they were really pushing the limits of some of their platforms and capabilities. And so it was really fun to work together to, you know, really push the envelope in a number of different areas. Right. Sap really likes to do that at their scale.
+
+00:12:25:54 - 00:12:51:16
+不明
+And complexity, which is great because everybody learns something and we all get better that way. And one example of that, I think, Jacqueline, you mentioned, the, the limits on, on Marketo programs, another limit you guys bumped into with your scale was around kind of the amount of dynamic content that they wanted to do and the complexity of that at their scale actually push the limits of Marketo as well in that area.
+
+00:12:51:16 - 00:13:30:55
+不明
+And we worked with them and Adobe to really kind of break through those limits, those limitations, and kind of achieve what they wanted to achieve at their scale. So, really great learnings, for everybody there. A lot of integrations in their environments. We integrated with their commercial tools that they already had, like rake, am assets, etc., and their internal tools, which again, really kind of because of their requirements in the way that they did things, they kind of pushed the, the limits again, kind of on, around, you know, support for those integrations and it made our API capabilities and integrations even better, around what they were looking
+
+00:13:30:55 - 00:14:16:47
+不明
+to do. So with NAC. NAC is, an AI powered email and landing page creation platform, like I said. And just to take a step back, we really go all the way from the design phase through creation, optimizing and testing, collaborating, reviewing, translating and localizing, and then finally executing your campaigns. And again, like what we do with every customer is we take a step back and we look at their current processes around this, and we we really streamline them into, a much more efficient process, which can be the foundation for doing pretty, pretty amazing things, like being very customer centric.
+
+00:14:16:51 - 00:14:20:19
+不明
+You.
+
+00:14:20:24 - 00:15:00:51
+不明
+Yeah. So if you want to learn more about NAC, this week, come, come see us at our booth and how we're using AI to kind of power that efficiency and creation, empower, you know, personalization and great content creation and learn about some of the things that we're launching. Actually, this week, like an integration with Figma, on the front end from your design team to, to make that even more streamlined through the entire end to end process as well as something we're calling Nax send, which can kind of go that extra mile and even do some of the sends, in particular for, internal communications teams and things like
+
+00:15:00:51 - 00:15:33:04
+不明
+that. So our approach generally as, as a platform is to integrate into not just your process but also into your existing technology stack. And we have APIs that connect to all of your existing platforms, whether it be project management platforms, translation platforms, personalization platforms, of course, your marketing automation platform, and whether you're on Adobe, Marketo or AGL or maybe both.
+
+00:15:33:09 - 00:15:56:31
+不明
+Anyone? Yeah. Number view, right. Or you're not even on an Adobe platform. We don't have to talk about the names here today, but a platform that starts with an S maybe, or an O or something else. We also integrate with those, right? We are completely agnostic platform and work across all not just Adobe products, but others as well.
+
+00:15:56:31 - 00:16:22:51
+不明
+And all at the same time. Eight years ago I moved to a new city, got a new job, and started partnering with SAP. And somehow I'm still here today. I can't help but be personally invested in all of the work that I do with SAP because of this long relationship that we have. I was able to meet some lovely partners through summit.
+
+00:16:22:51 - 00:16:48:36
+不明
+Just yesterday. Someone told me, I've always thought of you as a part of a sap. I appreciated that. Thank you. My team has been working with SAP marketing for, I think, 14 years, and Accenture also does, partner work and, non marketing support for project product engineering and things like that.
+
+00:16:48:40 - 00:17:15:13
+不明
+So we have our complex requirements for a future facing market lecture. Accenture's job was to realize all of these goals and to execute on them. The key to all of this, everything that I'm going to take you through in terms of the details, is really amazing teamwork. I've said it before, but we have some lovely partners here in the room.
+
+00:17:15:13 - 00:17:24:06
+不明
+So thank you all so much for the great teamwork that we were able to accomplish together.
+
+00:17:24:11 - 00:17:36:28
+不明
+Our goal is not just to implement a tool, but to activate on those principles of a customer centric foundation.
+
+00:17:36:33 - 00:18:08:14
+不明
+Where you think about the long term, not just dropping in at all and leaving, but making sure that you're enabled every day to reach your goals in the future. So just to revisit those principles were a scalable, personalized experience, seamless integration, measurable impact, and efficiency. So in order to reach these goals, I focused on powerful personalization capabilities, standardization and automation, and a smooth business transformation.
+
+00:18:08:18 - 00:18:32:06
+不明
+Now these three priorities cross, you know, implementing the tool, training people, migrating existing operations over managing budget and resource capacity. All of the fun details. And our transformation actually went beyond just dnac. This phase allowed us to revisit what are we doing today, and is it the right thing to do? And how can we make that better?
+
+00:18:32:06 - 00:18:43:49
+不明
+In order to make sure that when we integrate our processes with dnac, that it's what we actually want to be doing in the future and not just what we have been stuck in.
+
+00:18:43:54 - 00:19:10:16
+不明
+So NAC has multi variant and multi element personalization capacity that exceeds most industry standard email builder. So thank you for that. What this means. And I'm sure many of you are very familiar with dynamic content. So please bear with me while I explain. For some people who may not be so familiar, dynamic content is a, tool that Marketo uses to personalize emails.
+
+00:19:10:21 - 00:19:39:27
+不明
+So, for example, if I'm sending a sports related email and it's about my platform, whatever I'm selling here, it's relevant to all different sports, all different teams. So I could choose a very generic sports image. It's not offending anyone, but it's not appealing to anyone either. With dynamic content, you can have Marketo recognize that this particular customer lives in Philadelphia.
+
+00:19:39:32 - 00:20:06:09
+不明
+So let's make the email a little bit more relevant for him. And show the Phillies the baseball team now is multivariate dynamic content. You can add another variable. So not just where does he live? We might be able to know that he's actually a football fan. So instead of a Phillies, our aim is is going to show the Super Bowl winning Eagles team.
+
+00:20:06:14 - 00:20:24:45
+不明
+So when this customer opens the email, compared to a stock image of an athlete tying his shoes up, you're going to get something that he really cares about. And that resonates with him and is going to be more memorable as a personalized experience. Multi element just means that you can now do that in multiple places in the email.
+
+00:20:24:45 - 00:20:45:34
+不明
+So not just the picture, maybe also your header text or your body copy. And one thing that's really key to making this all work is the fact that Mac was integrated with all of the segmentation that's already in Marketo. You don't have to go back and forth and defining, what am I looking for? The sports teams and the the geography of where this customer is.
+
+00:20:45:34 - 00:21:00:37
+不明
+It's built into Marketo and NAC can pull that really easily.
+
+00:21:00:42 - 00:21:38:50
+不明
+We standardized our marketing set up. Jackie mentioned we had 220 programs. We were just trying to make it work. When we started that structure, it it was what made sense but got out of hand a little overwhelming. So instead of 220 programs, some of which are engagement programs and some of which are default programs, we moved to 38 engagement programs, which, if you don't know, are a lot more powerful than default programs, a lot more you can do with how you're going to nurture someone beyond just dripping in email and then building those default programs into the engagement program.
+
+00:21:38:50 - 00:22:03:04
+不明
+So it's a little bit complicated in terms of a set up, but overall, we have a lot fewer programs that we need to be paying attention to and maintaining. We also now have much more capacity. Jackie mentioned we were maxed out. 38 is not maxed out. Now. We can expand use of programs. We can add new, tactics and initiatives and campaigns to Marketo.
+
+00:22:03:13 - 00:22:21:09
+不明
+And I want to specify going from 220 programs to 38, we did not remove any campaigns. This was not a consolidation or a elimination effort. We were able to support this still the same amount of marketing that we wanted to.
+
+00:22:21:14 - 00:22:47:20
+不明
+We integrated NAC with five different platforms, some of which were those big brand logos that you saw earlier and some of which were built by SAP. The importance of integration is about reducing manual processes. Let me paint a picture. You get an email and someone says, can you please review this? And they have a SharePoint link. Great collaborative tool.
+
+00:22:47:25 - 00:23:09:31
+不明
+You click on the link and you have to request access. You say, I can't open this. Can you try again? They send the email again, but this time they've attached it where we're not going to fiddle with share links because that can get complicated. I guess. You open up that word document and you start editing, but you can't.
+
+00:23:09:31 - 00:23:31:06
+不明
+It's in protected mode. Okay, let me save as I don't know what folder I want to put it in because I'm never going to look at this again. I'm just going to save it somewhere, make my edits, rename it, dash, my initials H, y, or maybe V2. Save it. I'm going to reply to the email. I have to attach that, but now I don't remember where I saved it.
+
+00:23:31:11 - 00:23:57:44
+不明
+Figure it out, attach the email, send it back, and then they send it back with more edits. And now it's, you know, document five Dash JH and you go back and forth and then it takes days sometimes because it just sits in your inbox. Integrations reduce a lot of that because it puts the information where you need it and when you need it.
+
+00:23:57:49 - 00:24:13:49
+不明
+Integrating with your existing tech stack isn't the only way that NAC creates efficiencies. So I'm going to give you an example that's not necessarily, an integration with existing tools, but it's an integration of a feature.
+
+00:24:13:54 - 00:24:44:57
+不明
+Email render testing. Does everyone know what that is? Basically just making sure that your email looks the way you want it to look. For as it's really complicated, I remember asking the NAC, engineer, can we reduce some of the the scenarios we're looking at? And SAP was like, our customers are using all kinds of email clients, all kinds of platforms, and we need to we identified the top scenarios that we need to test.
+
+00:24:45:07 - 00:25:08:06
+不明
+And it was over 50. Like this is already the cut down list. These nurture emails go to hundreds of thousands of customers every month. This is what email testing and NAC looks like. It's clean. It's pretty. This screen is only one click away from your email building screen. You're editing an email. I want to check what it looks like.
+
+00:25:08:06 - 00:25:26:30
+不明
+You click one button. It's cut off because I want you to be able to see some detail here. But if you were to scroll down, you would see all of your desktop scenarios as well. You can take a quick look if you don't like what you see, you hit that exit preview in the corner. Go right back, edit it again.
+
+00:25:26:35 - 00:25:47:41
+不明
+If you have an external tool that you use for email testing or for render testing, you might have to build your HTML in a in your email building platform, download it, and then upload it into your testing tool. If you don't like what you see, you have to go back to the drawing board, download it again, test it again, back to the drawing where this takes seconds and it's not.
+
+00:25:47:46 - 00:26:04:37
+不明
+I haven't saved you a week. I haven't saved you days. But you can multiply this efficiency across a lot of those five integrations that I mentioned. And these feature integrations as well.
+
+00:26:04:42 - 00:26:15:44
+不明
+Smooth business transition requires the transition of operations. And that can be tricky.
+
+00:26:15:49 - 00:26:36:51
+不明
+We have two brands set up in NEC which are access restricted and brand restricted. So you can set different colors and typography. And you don't have to have the same people working in each. We have 12 templates and 37 modules, your content blocks. And this allows people to get into that and start building really quickly. They don't have to overthink.
+
+00:26:36:51 - 00:26:57:25
+不明
+How does it work? It also allows them to actually customize based on their own needs, because it's so easy to mix and match and plug and play. These templates in their brands, they also build in a lot of governance. And it's it's easy because they're guardrails like you can't accidentally change the color to something that you're not allowed to do.
+
+00:26:57:25 - 00:27:13:49
+不明
+You can't accidentally, accidentally on purpose upload a picture that hasn't been approved by the right people. It's integrated with the existing dam with your existing digital libraries, so you can only use the things that you're allowed to use.
+
+00:27:13:54 - 00:27:45:42
+不明
+So we went through a migration period. Migrations can be sensitive because transition is hard. Change is scary, but in this time we took the opportunity. Instead of being afraid of change, to use it as an opportunity to make our nurture campaigns better, more powerful, more future facing, we refreshed 18% of those 220 campaigns, new content, new logic for how it's going to go and who it's going to go to.
+
+00:27:45:47 - 00:28:15:14
+不明
+And that doesn't even include the fact that we had to rebuild it over 2000 emails. I think it was. And when you're rebuilding all of those emails, you get to update the visual guidance that may have changed in the last six months to a year when you originally built that email. So we get we got to update our emails and our programs through this migration period and use it as an opportunity instead of something to fear.
+
+00:28:15:19 - 00:28:21:37
+不明
+And as mentioned, we reduced Sla's by up to 60%.
+
+00:28:21:42 - 00:28:37:07
+不明
+I know you want to know more about the 60%. Everyone likes efficiency. Let's quickly touch on why efficiency is important for customer centricity.
+
+00:28:37:11 - 00:29:00:27
+不明
+If you want to be customer centric, you have to learn. You have to learn. You have to test and experiment. And you can't do that when you're sitting and waiting for most of your career, you need to be able to optimize with nimbleness. And if you want to be strategic, you need to make sure that your marketers are not bogged down by tedious operational waste.
+
+00:29:00:32 - 00:29:23:36
+不明
+And our production teams, SAP's production teams have always been fantastic, but you can always improve and I think I can pretty confidently say that the execution teams involved in using that today are really happy with what we have accomplished and the way that things are going.
+
+00:29:23:41 - 00:29:58:43
+不明
+Are they're here. Because they in order to transform our processes, we had to train people. We trained 125, super users as well as stakeholders. And we did that through modular training content, making sure people were getting what was specifically their needs. Making sure that we phased out those training so that it was at the most relevant time for each of those audiences, and also so that we could learn from our own trainings and make sure that every subsequent training was going to be a little bit better.
+
+00:29:58:48 - 00:30:13:44
+不明
+Change management, of course, is important because we wanted to make sure we were bringing people along as supporters of a journey rather than here you go, we did something. You have to deal with it now.
+
+00:30:13:49 - 00:30:29:47
+不明
+We actually completed our migration and that transition period 33% ahead of schedule, which means we could get back to business as usual more quickly. We could tell our stakeholders that everything was back to normal. And you can. You don't have to worry anymore.
+
+00:30:29:52 - 00:30:55:22
+不明
+So at a high level, the process of developing a campaign and the emails can be described in four steps. Email request tracking and parameter QA. And let me preface this assumes that we've already done the strategy of the email. We already have our content, and then you build the email and back and you keep it. You build the program in Marketo and QA and then you can launch.
+
+00:30:55:34 - 00:31:19:54
+不明
+Now, I know this is a very pretty little graphic and swirly lines, but this is actually a really complex with people from over five different teams coming together and collaborating for this. So with those handoffs, with those processes, and with all the different platforms involved, it's not as easy as it looks. So looking at campaign tracking, optimization, we optimize our campaign tracking strategy.
+
+00:31:19:54 - 00:31:49:59
+不明
+So what we did was we found what are our low impact tracking strategies and we retired them. Instead, we're using more powerful Marketo reporting. Marketo reporting can give us what we need instead of wasting time on tracking too much. And that supports. Still, we do still have a primary tracking code strategy. That change resulted in 50% less time spent on creating and cueing those codes.
+
+00:31:50:04 - 00:32:02:36
+不明
+SAP also leverage third party support to manage all of those operations, and we were able to reduce those costs, time and money savings.
+
+00:32:02:41 - 00:32:27:17
+不明
+In the email build process, we observed 20% less time spent on the actual building. And that's conservative. Quite a few people estimate up to 50%. I know a lot of now customers see even more dramatic results. We had the benefit of our legacy tool, at least we had some modules and templates that definitely helped.
+
+00:32:27:22 - 00:32:51:41
+不明
+And the reasons for that optimization for SAP was the ease of use, responsiveness and those integrations that I mentioned. But the biggest improvement that we saw is to the review process. We have lots of rounds of review that our emails have to go through before they can go to customers, and we saw a 60% faster time to approval using the in tool collaboration feature.
+
+00:32:51:45 - 00:33:18:13
+不明
+So let me explain why the collaboration feature is so powerful. So this is an example of a template that you might see a neck. You've got your blocks for images for, text for links, and then you get a window on the right where you can edit certain things but not everything. So in this example we have clicked on that CTA button.
+
+00:33:18:18 - 00:33:40:31
+不明
+You can't change the color of the button. But you can add your URL and there's URL tagging already built in. Super easy. You can't break it where we're making it easy for you. So someone who is new to email building or a little bit less experience will be able to come into this and very easily, within minutes, create something that looks like this.
+
+00:33:40:36 - 00:34:06:17
+不明
+So here's where we look at the collaboration feature. Now if you look at the top bar you see we're in collaborate instead of create. What this means is these two windows are just a click apart. We're not in a different tool. We didn't have to load something brand new. We just click to the next page. You can add location based annotations that get added to the comments or add on the sign.
+
+00:34:06:21 - 00:34:31:07
+不明
+You can reply to comments. You can resolve a comment. You can even tag someone. Now when you're using the collaboration feature, you can send your email to people who aren't even trained in that. That's how easy it is to use. They can't accidentally edit anything. It's it's a preview mode. But that means anyone if you need someone's input, if you need someone to review, you can have them come and take a look.
+
+00:34:31:12 - 00:34:50:22
+不明
+You can tag them, make sure they're answering your comments, and then if they approve, it goes to the next person. The next person can see all of the comments that were already there. That kind of communication is really important in efficient collaborative optimization. I need to change this. I need to change this. Why is this here? Would it be better if we do this?
+
+00:34:50:22 - 00:35:29:46
+不明
+You can complete that kind of a conversation in minutes instead of a back and forth of email. That kind of seamless dialog is how we see 60% quicker time to approval for our emails. Those simplified Marketo program builds, well, complex but simplified builds represents an 83% reduction in the number of programs that you actually have to maintain. And that means optimization is easier if you need to update your program, you're not going to all of the different versions of campaigns that you own that fall within the scope.
+
+00:35:29:53 - 00:35:46:19
+不明
+It's they've all been built together, and it's much easier to waterfall your changes. And again, as I mentioned, scalability. We can use Marketo in new ways and in more ways because we made room for it.
+
+00:35:46:24 - 00:36:07:37
+不明
+So efficiency for us has enabled more learning opportunities. We have more time to focus on new personalization tactics and more strategy and how we're going to actually improve our emails, in the way that we want to in the future. And we don't have to define what that means today, but we've given you the tools to go forth.
+
+00:36:07:42 - 00:36:28:49
+不明
+One of our marketers said, the way I work has significantly improved from time, save to easy collaborative optimization of my emails. Dnac makes it simple to use dynamic content, and I'm excited to launch our new personalization strategies. And I think that's the biggest win for me with this work, is that the people I worked with were excited. At the end of it.
+
+00:36:28:49 - 00:36:45:31
+不明
+They were happy with what we had accomplished, and they looked forward to what their job was going to bring. So we were able to empower our our teams and our colleagues. And that that is priceless.
+
+00:36:45:36 - 00:36:53:38
+不明
+So how do we continue our transformation to customer centricity?
+
+00:36:53:43 - 00:37:18:46
+不明
+What's next? What do we do next? How do we think about it. So we need to start by looking at what worked. Well, what did we learn? We learned that we were able to effectively optimize email programs. In a way it's easier to review, optimize, refine, and set up. So this allows us to be more responsive and faster in how we meet the customer, where they want to be met.
+
+00:37:18:51 - 00:37:42:59
+不明
+Data flows now in a way that allows us to track campaign engagement, where we can optimize faster by getting those signals faster. And then we also have been able to focus more on what matters by streamlining things so we can get the right message to the right person at the right time. Key things. So now we're also not spending as much time manually reviewing emails, doing a lot of things that were just a time suck and not a good use of people's time.
+
+00:37:43:03 - 00:38:01:14
+不明
+And we were able to free up resources by eliminating a lot of these barriers to entry. So now that we've looked at what worked well, how do we apply it for the future? What are we going to do next? As we move into the future, we're going to start looking channel by channel. How do we go deeper so we can have an audience centric framework across channels?
+
+00:38:01:29 - 00:38:26:30
+不明
+This is so we can give a consistent experience across the board. There's nothing worse than coming to a website and getting one experience, getting an email with a different experience, and getting an ad with a totally different experience. It tells me you don't know me and you don't know what I mean. And so these are the things that we're taking the next steps to make sure that we are as future facing and as audience centric as possible.
+
+00:38:26:35 - 00:38:41:41
+不明
+So as we go through the tech stack, we need to make sure we have this connected experience. And we are going to continue to go down the path channel by channel, so that all of these processes are streamlined for success. And so we'll take these learnings, apply them to the next channel as we continue through this transformation this year.
+
+00:38:41:52 - 00:38:44:48
+不明
+All right. Well, audience or customer centric.
+

@@ -1,0 +1,204 @@
+00:00:01:56 - 00:00:35:19
+不明
+All right. Good morning, everyone. Thanks for showing up early. My name is Neil Tolbert from one trust. Sorry. Global vice president responsible for our content and preferences offering. Been with one trust. Almost eight years. Marketer by education. And then, fellow of information privacy through the IEP. And excited to spend this morning talking about consent and preference management and how we see that, playing into how you think about your strategy around CDP.
+
+00:00:35:24 - 00:00:52:42
+不明
+Probably won't take the full hour. So this will hopefully be about 30 minutes. Should I put any on time for questions? Actually very willing to answer questions throughout the presentation. So if you have a burning one or you want me to double click on a specific topic, please feel free to to raise your hand, and ask those questions.
+
+00:00:52:47 - 00:01:16:36
+不明
+And hopefully it's, it's engaging and interactive. So, obviously you guys are at Adobe Summit, so I'm not telling you anything you don't know. That data is driving everything modern organizations are trying to do. From monetization standpoint, from a customer engagement perspective, everything around how they're trying to drive revenue, increase their, their market share, outcompete their competitors.
+
+00:01:16:40 - 00:01:41:59
+不明
+Data is at the core of what businesses are trying to accomplish. And there's a couple things that are in direct conflict with that. So, this is this is actually a bit of an outdated stat because we're in 2025. But we are seeing not just expanding but accelerating regulation from a privacy standpoint. So safe to say everyone in this room, has customers that are protected in some capacity by privacy law.
+
+00:01:42:04 - 00:02:03:09
+不明
+And you have also we're also seeing a massive shift in the sources and quality of data that you can use to drive personalization, most of which is driven by this modern privacy movement. Now, all that to be said, consumers are not reacting any differently to personalization. So I talk I always talk about when we had this kind of this modern era of privacy law.
+
+00:02:03:14 - 00:02:22:34
+不明
+Oh, okay. That it was best. And something up. Thank you. That it wasn't that all of a sudden the world became private. We just consumers started to get a better understanding around how their data was collected and used. And so we so we saw these laws put in place, as a, as a mechanism mechanism for consumer protection.
+
+00:02:22:39 - 00:02:43:35
+不明
+And when we think about regulation, I usually break it up into a couple of different categories, all of which are going to impact how you collect and use data. And most of them have requirements around some level of permission. So obviously there's there's a massive wave of privacy regulation that is both, country specific state or Providence specific.
+
+00:02:43:40 - 00:03:04:04
+不明
+You've got consumer protection laws. Like the tcpa here in the US, like castle in Canada. Laws that are typically older than the than the privacy laws and much more grounded in reality of application. So you think about the concept of do not call way more simple than trying to figure out how to comply with some of these privacy regulations.
+
+00:03:04:08 - 00:03:41:04
+不明
+And then you've got sectorial laws that are still consumer protection nature, but are designed very specifically for industries or or types of businesses that might have particularly sensitive data or, laws that were put in place to, to react to, to market demands, like the financial services sector. All that to be said, and what that means is that every time you interact with a customer, especially every time you're collecting or using data that represents both a risk and an opportunity to everyone in this room, represents a risk in the sense that you have obligations to comply with, with any types of regulations.
+
+00:03:41:07 - 00:04:01:53
+不明
+I just I just went through. But it also starts to give you an opportunity to create a better relationship with those customers through transparency and through choice that actually allows you to collect more additional data and start to build a propriety free data asset within your business. That again, leads you to a point where you can outcompete your peers and drive better personalization.
+
+00:04:01:58 - 00:04:22:52
+不明
+So when we talk about permission, this covers a pretty wide swath of your customer journey. And so, raise your hand if you've been on the internet recently. All right. You guys are here. Thank you. There's the unknown side, which typically we would refer to as the cookie banners. Right. This is an unauthenticated visitor on a digital property.
+
+00:04:22:52 - 00:04:50:00
+不明
+Whether that's a website, mobile app, connected TV. And you're starting to collect choices and preferences around, how they're tracked, what type of data you're allowed to transmit to third parties. And these are usually, again, anonymous permissions to where you haven't necessarily authenticated that person or you don't really know who they are. You know, they're a person and you're starting to build profiles and drive engagement to try to create outcomes, but you still have enough identified them.
+
+00:04:50:05 - 00:05:13:07
+不明
+What we're seeing a massive shift in the market, especially as it relates to permission, is trying to drive that authentication faster and really get to the known side of permission or consent and preferences. This is where the opportunity lies. So this is where you're getting more granular marketing preferences better. Subscription preferences. This is also when you think about some of the complexities of of privacy law.
+
+00:05:13:11 - 00:05:37:52
+不明
+When we think about the concept of do not sell, do not share, especially here in the US. A lot of companies are interpreting that requirement that if you can link an unknown visit to a persistent profile downstream, you should be honoring that choice downstream. And obviously, I think the broader world doesn't understand the fact that most organizations can actually triangulate who someone is, even if they haven't logged in yet.
+
+00:05:37:53 - 00:05:56:53
+不明
+There's a lot of there's still a lot of digital technology out there that can do that. And so we think we feel very strongly that this should be, a problem tackled across that spectrum. When we talk about consent and preference management, I'll get into and the just a second how we do that. And then I'll wrap up with how we, we push that into systems like CDP.
+
+00:05:56:57 - 00:06:18:22
+不明
+So when you think about what a consent record needs to be, most regulations, I'll have relatively similar core tenants on what makes consent valid. And I'm going to use consent and preference interchangeably. Consent has a definition from a regulatory standpoint, but these are all consumer choices. And so for it to be valid it has to be informed.
+
+00:06:18:27 - 00:06:37:51
+不明
+It has to be revocable. And it has to they have to what informed means is they have to understand what they are opting into. And it has to be specific. So we have we have departed the world where you could have a single checkbox and a really broad, lengthy policy that allowed you to basically opt someone into everything.
+
+00:06:37:56 - 00:07:04:37
+不明
+And we are starting to see a much clearer definition and test around that informed choice. So, I was going to do my best to not say I in this session and be the only session here that didn't. But when you think about, like, you trying to build data assets that you can eventually put into, into AI, how do you and how do you properly communicate to someone that you might use their data for that?
+
+00:07:04:42 - 00:07:28:09
+不明
+And when you think about all the other things you're doing, the data, how you're sharing it with third parties, how you're, want to find new and creative ways to use it. That transparency, that transparency test is, is something that is should be very intentional. And the more granular you get with permission, the easier that transparency becomes. So what we've seen, with within our clients is that that's how you drive higher opt in rates.
+
+00:07:28:14 - 00:07:46:05
+不明
+I'm not saying them. I'm not saying be, overly verbose in how you describe what you're going to do with the data, and you don't need to give them every option under the sun. But with the right amount of transparency, the right amount of granularity and choice. That's where this we see the highest opt in rates, both on the unknown and known side.
+
+00:07:46:10 - 00:08:05:23
+不明
+So when you think about how you're going to make an enforceable signal in your CDP, from a consent or preference standpoint, there's a handful of things that you need to you need to consider. You need to know who opted in. So how are we identifying them and that we can have identifiers for unknown visitors? Just doesn't translate to a known profile downstream.
+
+00:08:05:28 - 00:08:27:44
+不明
+We want to start to define the choice they're making off of a purpose structure. So purpose is is a concept that was started in GDPR. But it's basically the intent with which you plan to use the data. Having good purpose structure makes enforcing the data governance that you want to have based off of your intended use of that data downstream, way easier.
+
+00:08:27:44 - 00:08:49:36
+不明
+So when you just manage consent as a checkbox in a system, you don't have any of the context around what that means. And it doesn't even necessarily define the subset of data in that profile that you can or can't do things with. You need to understand the status of that choice. The other hard part about consent is that it is not a static data point, so it's constantly evolving.
+
+00:08:49:41 - 00:09:20:23
+不明
+I mentioned earlier every consumer interaction that that your customer, every interaction, your customers have with you is an opportunity and a risk. And one of the risks is that their their status as it relates to, willingness to be marketed to and a particular channel interest in specific types of content, that evolves over time. And so being able to think about consent as in more of a linear fashion and understanding what the current status is, but what it was previously, especially for a lot of the consumer protection laws, is really important.
+
+00:09:20:28 - 00:09:40:23
+不明
+From a regulatory defense standpoint. You want to know where it came from and you want to know where it came from so that you can be confident. And with the language and disclosure they saw when they provided it. So when you think about if you were contacted by a regulator, hopefully not if you ever are, they're not going to ask like, did you have consent for this person?
+
+00:09:40:24 - 00:09:55:49
+不明
+They're going to ask for you to prove that you had it, and then they're going to start to ask you to prove that it passed all the tests that I talked about. So being able to say it happened on this date, on this website, this was the version of our privacy policy at the time. This was the language they saw when they took that affirmative action.
+
+00:09:55:54 - 00:10:23:26
+不明
+Having that that record trail, not only allows you to have a really strong regulatory defense, but it also means that as regulations change, being able to surgically identify which of your consent records you have to go and get consent for versus invalidating an entire data set becomes really important and drives a ton of value. And then obviously all the time and date stamps, that, that give you that record along that one year transaction log.
+
+00:10:23:31 - 00:10:43:22
+不明
+So the way this works in one trust, you have the what we call collection points, which is anywhere those interactions happen. And as your customer starts to go through that journey, they're going to start making choices. So maybe the first choice is that they enter an email to sign up for a specific newsletter type of content. And so you start to get that first level of authentication or identifier.
+
+00:10:43:27 - 00:11:06:27
+不明
+We store those in a data subject profile, which is basically our holding place for all of the answers to all of the questions that are defined by all the purposes that you would want to configure. And as someone continues through that journey, we're starting to be able to combine those identifiers together. We don't do identity resolution, but one of the hard parts of, enforcing consent is you're trying to push it into systems that are ID dependent.
+
+00:11:06:32 - 00:11:27:20
+不明
+So when you think about, okay, you have a question, agreeing, awesome. Put that on the survey, please. So you're starting to you're trying to take a signal and push it into a system that requires it to be communicated in a very specific way for that system, because all of these martech technologies were not designed to look outward.
+
+00:11:27:25 - 00:11:46:17
+不明
+They're all designed to think inward. And so one of the things we were very intentional about early on is being able to link identifiers together, both for the purpose of consent collection, because a customer doesn't know the five IDs that you house on them. But also, and maybe more importantly, for the downstream enforcement of that signal.
+
+00:11:46:22 - 00:12:07:50
+不明
+So someone continues to go through this customer journey, and every time could be the same identifier could be a different one. They're making all of these choices. They're updating choices that they made. And you're starting to build you're starting to progressively profile them from a choice standpoint. This is also a really great time to think about first party data collection, because it's contextually relevant to the consumer.
+
+00:12:07:55 - 00:12:28:47
+不明
+So we had a client that actually one of the initial, returns on investment that they got as a part of standing up a preference center. They were validating contact elements for the specific channel someone was opting into. So if I'm opting in for email, what a great time to make sure you have the right email for me or that it's the email address I prefer.
+
+00:12:28:47 - 00:12:57:43
+不明
+If you have multiple emails. And so thinking about how first party data inherently becomes a part of what you're doing from a consent preferences standpoint not only makes the the channel engagement that much more, expected. And relevant for the consumer. But it also gives you the ability to start building more of that. You know, proprietary data asset that you can then use to outcompete your peers and drive better engagement.
+
+00:12:57:48 - 00:13:25:04
+不明
+So, I talked through how we collect and how we think about storing consent and what and preference and what that is. The real value of this comes when we can push it into all of the downstream systems, like, real time CDP and any of your other martech platforms or data platforms. And the way that we think about doing this, again is using the identifier that is relevant for that system and sending it in a signal that is consumable by that system.
+
+00:13:25:09 - 00:13:45:45
+不明
+So that's everything from when you think about, wanting to block cookies on sites for people that have opted out of a specific, specific behavior. We're going to take that as signal and apply it to your tag manager. When you think about on the known profile side, we're going to take that signal and apply it to a data governance mechanism within something like real time CDP in a language that it can interpret.
+
+00:13:45:50 - 00:14:15:14
+不明
+And then every time those choices get updated across that entire litany of of customer journey touchpoints, we're providing that delta update into those downstream systems. What that does for organizations is it means you get the maximum use out of the tools. You've invested a lot of money and resources in like real time CDP. It also means that you can have a lot more agility with what you want to do from a campaign, from, an engagement from a program standpoint, because you're not having to do all of these, like, last mile checks, right?
+
+00:14:15:14 - 00:14:40:09
+不明
+You're not trying to hit against some database to say, are we okay to message these people? Your permission to engage them is inherently now part of the data. Which again, should speed up innovation creates compliance as a beneficiary, byproduct of you guys maximizing your ability to have a trusted, data driven relationship with your customers. The way this works specifically within Adobe is we are integrating directly into the profile.
+
+00:14:40:14 - 00:15:00:56
+不明
+If you have the data governance mechanisms set up already, we're actually communicating into the data use labeling, which again, should speed up how you think about activating, those different data groups within the CDP, and maximizing the output of that investment. I have a few customer stories that I can talk through, but I'll pause here.
+
+00:15:00:56 - 00:15:31:25
+不明
+Are there any immediate questions? We'll have plenty of time for questions at the end. If no one's brave yet, we'll get there. So first example, we had a, fashion retailer, B2C, and one of their biggest issues was they were trying to comply with not just privacy regulation, but very specific and numerous privacy laws, which the hard part there is, on one hand, you want to be specific to the regulation because not all of the requirements are the same and they don't give you the same benefit.
+
+00:15:31:28 - 00:15:53:18
+不明
+So you don't want to take a universal, stance, because maybe it limits you in certain jurisdictions where you don't have to be that limited. But you still have to make sure that you are compliant again, compliant again against both privacy law as well as consumer protection law. Direct marketing, consumer protection law. Ultimately, what they were able to realize is a much larger marketing list.
+
+00:15:53:23 - 00:16:19:28
+不明
+Typically when companies think about doing a consent management program, they expect their addressable market to shrink. That is not always the case. And again, what they found here was by offering more choice, they actually saw a much higher opt in rate, to both SMS and email marketing. They automated their compliance concerns. So they had a reduction in FTE, for their legal team, or at least, the resources they were obligating to support the marketing team.
+
+00:16:19:33 - 00:16:56:06
+不明
+And they were able to drive a lot greater personalization in the email channel by having granular preferences, like content. Whether that be like gender or specific products. They were also able to do frequency preferences, which we can talk about if someone has a question around that. Probably the hardest preference to honor. But they actually built specific campaigns based off of each subset of, of frequency category, and drove a lot of value through their other example, is a large media company that had a litany of different experiences.
+
+00:16:56:11 - 00:17:19:31
+不明
+Both, consistently branded and sub brands or subcategories of their brand, and being able to manage consent across that entire customer journey where they could think locally and act globally, as well as have the option for someone to manage their preferences across all of those experiences. While, minimizing the the impact that privacy obligations had on UX.
+
+00:17:19:35 - 00:17:38:17
+不明
+So one of the things we talk a lot about is doing cross-device across domain consent, where if you give if you have the ability and you give someone the choice to manage their preferences across that entire customer journey, you shouldn't be asking for their preference every time they get to a different step in that journey. Which massively drove up, the, the UX there.
+
+00:17:38:21 - 00:17:58:53
+不明
+And we were able to solve problems for how they think about complying with, complex regulations around the globe. So last slide here, and then I'll open it up for questions. We are the largest provider of content and preference manager around the globe. What this scale means for our clients is both, this is a hard thing to do.
+
+00:17:58:53 - 00:18:24:34
+不明
+It's it's still hard for us to do, it's a complex, concept. And instilling it in your organization requires a cultural change in how you think about using data. But because of the scale and size that we're doing this around the world, all of those challenges we've been able to overcome and we've been able to develop a really, really powerful product, alongside our customers, especially as all of these regulations and requirements change.
+
+00:18:24:38 - 00:18:47:49
+不明
+The other the other data point I'll call out is I talked about that data subject profile. I can say with total certainty that everyone in this room has a data subject profile and one trust. We're managing 6 billion of them today. And I like talking about that 6 billion number, because when you think about the value and the return on investment in the consent tool, it is not about regulatory compliance.
+
+00:18:47:54 - 00:19:09:33
+不明
+Yes, that is a value of doing it. But this should be an opportunity oriented thing that you pursue within your businesses. Because that is a data subject profile that's unlocking personalization. That's a data subject profile that's driving better engagement. Increasing performance in specific marketing channels and creating a ton of value for your organization. Something we're really proud about.
+
+00:19:09:33 - 00:19:26:45
+不明
+We're working with some of the biggest and and most consumer for brands on the planet. A number of the experiences, if you did any of the interactive ads in the Super Bowl, we're all powered by one trust. If you own a smart TV, everything you opt into when you power those smart TVs up is powered by one trust.
+
+00:19:26:45 - 00:19:41:30
+不明
+If you use a lot of the the very common streaming services, we are unlocking their ability to drive better engagement and a better experience for for each of you. And yeah, I hope this was helpful. Happy to answer any questions that that may have come up.
+

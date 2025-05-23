@@ -1,0 +1,160 @@
+00:00:00:10 - 00:00:32:04
+不明
+Welcome to Adobe Summit. My name is McInnis Aram, and I'm an expert solutions consultant for Adobe's real time customer data platform. You may have heard about real time CDP collaboration and other sessions, but today in this session, we'll do a deeper dive into the features. As a refresher. Real time CDP collaboration is a clean room application that empowers brands and publishers or partners to be able to discover, activate, and measure on high value audiences for their campaign initiatives.
+
+00:00:32:09 - 00:00:58:35
+不明
+We'll go into the product capabilities later on in this session, but let's begin by setting the stage. Let's first discuss the current landscape and today's realities around audiences. Brands today facing challenging reality, they must engage their audiences across more channels than ever before. From connected TV on streaming platforms to display and video ads in DSPs across multiple social media platforms.
+
+00:00:58:35 - 00:01:32:29
+不明
+And as of recently, the emergence of retail media networks, it's a complex and demanding task. But the real challenge reaching and engaging their audiences effectively. And here are a few statistics that highlight the current state of play. First, 70% of the internet is unreachable through third party cookies despite their availability. This underscores how the evolving browser policies and privacy shifts have forced brands to rethink how they collect and target first party audiences.
+
+00:01:32:34 - 00:02:04:03
+不明
+Next. 86% of U.S. adults say data privacy is a growing concern, with 49% of US adults actively taking steps to limit the collection of their personal data. Whether it's opting out of cookies, avoiding specific channels, or using nest browsers, consumers are prioritizing privacy more than ever. And lastly, 63% of decision makers plan to consolidate their technology stack as part of their IoT strategy.
+
+00:02:04:08 - 00:02:33:34
+不明
+Brands are increasingly focused on simplification and integrations to address inefficiencies within their current ecosystem. These stats paint a clear picture of the challenges that brands face today, but with challenges come opportunity, especially for those forward thinkers. Savvy brands and marketers haven't been idle in the faces of these challenges. They've been actively adapting to the changing environments as evidenced by these trends.
+
+00:02:33:39 - 00:03:11:08
+不明
+First party data 78% of companies have adopted customer data platforms, with half focused on first party activation. This shift highlights the growing importance of owning and activating first party data as the foundation for effective audience engagement. Next is address ability. 80% of marketers are shifting dollars to platforms and channels like connected TV and retail media networks. By forging those direct partnerships with publishers and Rmbs, brands can unlock more control over their targeting and measurement strategies.
+
+00:03:11:13 - 00:03:45:27
+不明
+And lastly is emerging technologies. 66% of data and ad professionals are using data clean rooms due to regulations and signal loss. Clean rooms are emerging as a critical solution for privacy compliant collaboration by having a safe space for joint audience insights and measurement. Clean rooms are becoming an indispensable tool for modern, data driven marketing. Data clean rooms have become the latest industry buzzword, as highlighted by numerous publication headlines.
+
+00:03:45:32 - 00:04:14:26
+不明
+As you can see from ad exchanger to AD Week to IAB to Forrester and MarTech. But the question still remains are today's data clean rooms? The silver bullet? And the reality is that traditional data clean rooms often come with significant challenges. They're complex to implement and operate. They require substantial technical resources and expertise, which can truly be a barrier to entry for many organizations.
+
+00:04:14:31 - 00:04:45:34
+不明
+Customers need to engage it and engineering teams to do basic clean room functions. This not only adds to the complexity, but also to the turnaround time of launching campaigns. Limited interoperability. Traditional clean rooms struggle to work seamlessly across clouds, across regions, and across other critical data, identity and tech vendors, just further limiting their effectiveness. Their slow, costly and duplicative technology.
+
+00:04:45:39 - 00:05:23:49
+不明
+These inefficiencies other solutions just add to the total cost of doing business, creating friction for teams. And last but not least, data privacy concerns and tedious data sharing agreements. These hurdles often prevent widespread adoption at scale, as brands and publishers remain hesitant to commit data sharing agreements and legal obstacles. Often times, holdup collaboration efforts. It's clear that brands need an easy to use, data clean room solution that's focused on speed, interoperability and collaboration, and that's exactly what Adobe has brought to market.
+
+00:05:23:54 - 00:05:52:25
+不明
+We're introducing real time CDP collaboration as part of the real time CDP portfolio. This solution is compatible with an existing Adobe CDP for connected full funnel marketing, or can function as a standalone tool for executing data collaboration workflows without the complexity that comes with traditional data. Clean rooms. This diagram explains how it works, and I'll walk through it at a high level.
+
+00:05:52:29 - 00:06:24:31
+不明
+First, both the brand and publisher onboard their audiences into the collaboration application. The interoperable architecture allows you to not only onboard audiences from your real time CDP instance, but brands can also onboard directly from data warehouses, cloud storages, or CSV uploads. They then begin a collaboration project. Within the project, they could view audience overlaps at hover over speed across multiple match keys.
+
+00:06:24:35 - 00:07:01:41
+不明
+The agnostic framework allows for matching across hashed PII device IDs, and even partner based IDs to help extend your audience reach. The desired audiences are then activated to the publisher's ad tech ecosystem and can run across their inventory channels. And to close the loop, the publisher can ingest ad logs to review campaign performance and generate insights. So to connect this workflow with the customer benefits, let's move over to the next slide to explore what sets Adobe's real time CDP collaboration apart from the competition.
+
+00:07:01:46 - 00:07:39:58
+不明
+First and foremost, a radically simple, marketer friendly UI. We built an application for marketing and advertising personas so that they could do their job without waiting on data engineers or data scientists. With just a few clicks, you could onboard your audiences, start collaborate, meeting and planning your next campaign. Agnostic and interoperable architecture collaboration is built to deliver flexibility so that our customers can scale the work they want to do across clouds and with vendors of their choice, and don't feel so locked in into any one solution.
+
+00:07:40:02 - 00:08:04:07
+不明
+The architecture innovation in this space is enabling us to deliver audience insights at hover speed, and doing all of this without moving any underlying customer or identity data. And lastly, the opportunity to bring together martech and ad tech and extend the value of your Adobe investment and do more with the data that has already been organized within our solutions.
+
+00:08:04:11 - 00:08:31:14
+不明
+And all of this is underpinned by a foundation of privacy centric technology. This solution is designed to empower brands and publishers to collaborate seamlessly while adhering to the highest privacy standards. So now that we've explored the clean room landscape and the realities of today's ecosystem, let's take a deeper dive into the key capabilities of Adobe's real time CDP collaboration app.
+
+00:08:31:19 - 00:09:05:11
+不明
+We break these capabilities down into three core areas discover, activate, and measure, and we'll take some time to explore each in more detail. First is discovery. This capability is where you identify and better understand high value audiences available for engagement and campaign planning across collaboration. Partner. Once a brand has onboarded their audiences into the collaboration UI, they can visit the Discover dialog to start planning next campaign.
+
+00:09:05:16 - 00:09:33:34
+不明
+This is an interactive gallery featuring available publishers and partners. Each publisher has a dedicated tile providing key details such as inventory, channel, available audiences, and a brief description of their offering. These projects are where the true power of clean rooms come into play. Offering transparent audience planning and real time audience insights. Traditional clean rooms are often complex and slow.
+
+00:09:33:35 - 00:10:08:35
+不明
+But here, audience overlaps can be analyzed across multiple audiences instantly. And this benefits both parties. Advertisers can plan campaigns more effectively using insights that weren't previously available. And publishers can enhance monetization by making these insights accessible. It's truly a win win scenario, enabling seamless and effective collaboration between brands and publishers. Next is activate. Once a collaboration is established and the audiences are confirmed.
+
+00:10:08:40 - 00:10:39:27
+不明
+Brands and publishers can seamlessly activate the audiences out of the collaboration UI. Audiences can be sent into their ecosystem for advertising and marketing campaigns across key channels such as connected TV, commerce, media, walled gardens, digital audio, and DSPs. And these key benefits include secure activation indicate target audiences for publishers and partners to activate without moving underlying customer data.
+
+00:10:39:32 - 00:11:20:04
+不明
+Increase address ability, prospect, engage or suppress premium audiences across critical channels like connected TV and retail media networks and first party data. Extensibility. Leverage audiences in real time CDP or integrate with other cloud storage solutions. Seamless, ensuring optimal use of customer data by providing a seamless and privacy centric way to activate audiences. Real time CDP collaboration eliminates traditional roadblocks and enables brands to execute efficient, data driven marketing campaigns with greater accuracy and scale.
+
+00:11:20:09 - 00:11:51:29
+不明
+And lastly is measure to close the loop and optimize for performance on future campaigns. Publishers and partners are able to ingest ad log data back into the collaboration UI. Those data points can be matched to advertiser conversion events from Adobe applications or other systems. To generate insights on how well the campaign has performed, the first iteration of this dashboard will provide key aggregate metrics like impressions, reach conversions, and frequency management.
+
+00:11:51:34 - 00:12:25:41
+不明
+But this will evolve quickly. So now that you have a better idea of the capabilities of real time CDP collaboration, let me jump into a demo and show you the tool in action. Here is the real time CDP collaboration UI, and what you're seeing on this first screen is a brands organization page. The customer will be able to come into collaboration, build an organization to define who they are and show how they want to be represented to any of the partners that they would like to work with.
+
+00:12:25:46 - 00:12:51:50
+不明
+In this demo, we'll be representing a fictitious brand called Fresh Pet, and they will be acting as the advertiser. As you can see, I have established my brand as the advertiser role, the industry of my brand, which is retail, and the region which is us. Thus, this is a data collaboration application. By default, we only provide access and privileges to partners in which companies want to opt into.
+
+00:12:51:55 - 00:13:13:44
+不明
+So at the bottom of this page, you'll see what use cases and identity match keys. Fresh map would like to work with. The first house shows use cases and they would like to engage across campaign measurement, audience sharing and audience discovery. We'll talk more about these use cases a bit later on. And lastly, you'll see the established match key settings.
+
+00:13:13:49 - 00:13:43:19
+不明
+In this example, the match keys include hashed email, hashed phone, and hashed IP. But coming soon in 2025 is the ability to match across partner IDs as well. The advertiser will then go through simple workflow steps to onboard their audiences. And once that is complete, the can be found in the My Audience tab at the top. As a reminder, audiences can be sourced through Adobe Real Time CDP or other source systems like data warehouses.
+
+00:13:43:24 - 00:14:13:23
+不明
+This is where they could see all of their onboarded audiences, along with the identity volumes and the connection settings of each. So now that this step is complete, it's time to start collaborating. This is the Collaboration Publisher Gallery, which displays all publishers that have onboarded the audiences and are open to collaborating. As you can see from this screen, we have numerous fictitious publishers that have opted to be discoverable on their publisher card.
+
+00:14:13:28 - 00:14:39:27
+不明
+We could identify the media types they support, the additional details they've decided to share, and if you see a publisher you wish to collaborate with. You can click Connect. The publisher will be notified within their instance and by email. Once they accept your invite, you may negotiate and work to establish connection settings. The connection settings will allow you to work towards data sharing agreements.
+
+00:14:39:30 - 00:15:10:08
+不明
+The duration of the collaboration, as well as billing splits. So let's take a look at an active connection. Here's an active connection with a publisher TV tube. On this screen, we can identify the total projects and days I've been connected. TV tube is a mac CTV media company who is monetizing their audiences to personalize connected TV. If you scroll down, you see the projects that have been created between Fresh Pet and TV2.
+
+00:15:10:13 - 00:15:43:50
+不明
+A project is often synonymous with a campaign. So let's go into the Q1 25, adopt the Thon project and see what lives in their within a project. Here is where you see those three distinct workflows that we highlighted in the first half of this session. The ability to discover, measure, and share. If we click into discover on this screen, we're greeted with a top bar for audience insights, quickly helping us identify high value audiences that TV2 has made available to fresh pet.
+
+00:15:43:55 - 00:16:17:10
+不明
+This is what we call the audience overlap. Reporting. This is powered by our patent pending Adobe Clean Sketch technology, which allows real time insights to be generated with audiences. So let's use this example. Let's select the 2025 new Dog owners audience and compare that against TV tube's interest in pet enthusiasts. Audience. You can add hover over speed, see the identity counts associated to each audience, as well as the overlapping identities, which in this case is 22%.
+
+00:16:17:14 - 00:16:46:08
+不明
+This used to take marketers weeks, and they would often have to work with their IT team to generate new overlaps and insights. I could also see how my fresh pet audience compares to TV tubes by identity. This allows me to understand the scale by hashed emails or any other identity match key that's been selected. Additionally, the collaboration UI will also provide recommended audiences based on overlap percentage and will be scroll down.
+
+00:16:46:15 - 00:17:12:00
+不明
+You can see how any one fresh pan audience overlaps across every TV2 audience. This gives the advertiser a full picture of overlaps, and can quickly identify high value audiences. To target for the upcoming Adopt a Fan campaign. After the advertiser has run the overlaps and identified the audiences to target, they very easily share those audiences over to the publisher.
+
+00:17:12:05 - 00:17:38:33
+不明
+The publisher then receives those audiences, and you can very seamlessly export to their adtech ecosystem, whether it's being sent to an S3 for pickup or directly to their SSP or ad server. We're building all of those pipes for each of those patterns within the UI. This is a data collaboration app, and so we've incorporated numerous privacy enhancing technologies throughout this entire process.
+
+00:17:38:38 - 00:18:04:05
+不明
+When an audience is activated and it'll only be activated for mutually shared identifiers that have been filtered for consent across both parties. So there's much more peace of mind when collaborating. And finally, as measure, this is how the advertiser could get insights about how the campaign performed. You could also see summary level insights like impressions, unique reach and average frequency.
+
+00:18:04:10 - 00:18:35:10
+不明
+And we're building and more conversion based measurement into the tool as we speak. This is how both parties can close the loop on the investment that's been made with each other. So now that you've seen the product, I'm hoping to discover, activate and measure features and key differentiators are clear. We truly built a marketer friendly application that is extremely easy to use and does not require it, or any support to gain collaborative insights.
+
+00:18:35:14 - 00:18:59:58
+不明
+And don't just take our word for it. We've been working on this product for well over a year with partners like NBCu, various brands including our own Adobe Account marketing team and their agency group AB. We've had amazing feedback across all of the dimensions that I mentioned, but simplicity and interoperability were common. Threads called out a few times by our customers.
+
+00:19:00:03 - 00:19:25:16
+不明
+So let's pull out some of those highlights from each of these quotes. Refine their brand media bias to reach qualified and relevant audiences, increase lift on conversions, and increase match rates with collaborators. And my personal favorite is the unmatched ease of use and faster execution. We're getting feedback from these brands that they want to do more of their media planning through this type of tool.
+
+00:19:25:20 - 00:20:05:40
+不明
+To continue on the momentum, which is really exciting for us. So I know by this time you've watched multiple summit sessions and getting inundated with content, but this is a great takeaway slide that sums up everything nicely. If you don't remember anything, please remember this real time CDP collaboration is a marketer friendly and interoperable data collaboration project. It's built on speed and allows you to discover high value audiences, buy real time identity overlaps, activate those audiences into publisher partner ecosystems, and measure the performance of those audiences to better close the loop to close.
+
+00:20:05:45 - 00:20:17:53
+不明
+I hope you all enjoyed this summit session and I was excited as asked about this product launch. Hope to have conversations with many of you in the future and please don't hesitate to reach out. Thank you for.
+

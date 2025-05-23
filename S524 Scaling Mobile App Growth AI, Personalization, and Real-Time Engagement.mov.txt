@@ -1,0 +1,404 @@
+00:00:01:10 - 00:00:28:03
+不明
+All right everyone. So we're going to get started. I wanted to first off thank everyone for coming today morning after bash. And hopefully everyone's had a great some experience so far. But we're really excited to talk to you guys today. We have, a lot of great content scaling, mobile app growth, AI personalization and real time engagement. So we're really excited to be with you this morning.
+
+00:00:28:08 - 00:00:52:26
+不明
+Just to kick off some introductions, my name is Brant Kostek, senior product marketing manager for B2C Customer Journeys here at Adobe. So I focus on experimentation, optimization solutions and with me, I'm very excited. We have, Julian here from the Acrobat team. So I want to let them introduce themselves real quick. Everybody, I'm Julian Friedland, I'm a senior growth product manager.
+
+00:00:52:26 - 00:01:22:10
+不明
+I work on the Document Cloud app. So specifically Acrobat Reader. So we're going to dive into some engagement and retention, use cases for the reader app. And one of the most exciting parts of this presentation for us, for Adobe is you got a lot of different clouds business units at Adobe. We are always really, appreciative of having some customer zero use cases Acrobat, Adobe Experience Cloud, and Document Cloud coming together for this presentation.
+
+00:01:22:10 - 00:01:45:04
+不明
+So we we see it as a way of service to one another in terms of these, these products that, we're driving some growth with, but also, a really great use case that we can present to our customers, of what we've learned through that, it through through that experience. So as far as agenda today, we're going to cover, a few topics around trends, the vision for personalized engaged engagement.
+
+00:01:45:09 - 00:02:07:12
+不明
+A little bit of the setup here for foundation for mobile app growth, what we see as some pillars and core values, that, Julian's going to get into in terms of how they've innovated Acrobat over the years. Some of the strategies through those use cases, the blueprint that you can take away for, for this growth initiative that we're talking about here, and then we'll summarize some key takeaways.
+
+00:02:07:17 - 00:02:37:27
+不明
+So the mobile landscape as we know is is rapidly evolving. There's a lot of customers that are thinking about mobile is not just the channel anymore but a way to drive innovation. In in think about mobile as a way to craft innovative customer journeys. We, we talk about this as mobile first engagement, but it's really becoming a dominant force of, differentiation in the market to stay competitive.
+
+00:02:37:31 - 00:03:02:15
+不明
+And we see this in the next five years driving a lot of the innovations that we have across different teams marketing teams, product management teams, experimentation teams coming together and really identifying the ways that they can lead, product led growth initiatives. And a lot of the scalability here for delivering personalized experiences that customers crave, that they want to keep engagement and loyalty with.
+
+00:03:02:20 - 00:03:27:59
+不明
+So as we're thinking about the critical component of mobile, Adobe has a lot of research here. We've we've talked to customers. We know it's critical. We're seeing this from both the sides of consumers preferring to engage with their favorite brands on their mobile channels. And we know that when we have personalized experiences built into these user journeys in the mobile app, it's, driving a lot of the customer satisfaction.
+
+00:03:27:59 - 00:03:51:19
+不明
+It's deepening our customer relationships. There's a lot of impact that we can see here. And a component of this is real time engagement, right? We we hear about this all the time. We know from a platform experience and some of these tools and technologies that teams are leveraging, the force here is that we've come to a point where a lot of customers are in a position to take to capitalize on this.
+
+00:03:51:19 - 00:04:30:08
+不明
+Now, these use cases that Julian's going to be walking through with Acrobat, I think tells the story perfectly. On where the value is. But we're still seeing challenges, marketing and product teams are met with the challenges of of scaling this beyond activation. So I like this model here. This is taken from a concept of, of really around this plg or product led growth motion, where you're seeing out of product engagements, married to the end product, in-app notifications and interactions from a point of of the full customer journey from acquisition, activation, engagement and loyalty.
+
+00:04:30:19 - 00:04:54:49
+不明
+So we know from paid media advertising, direct mail, everything is kind of at this point of acquisition. But beyond this, what are we doing to capitalize on some of the use cases that we're going to be walking through here? How Acrobat, invaded their business to identify this value gap, this area of optimization. And that's really around what key features we're thinking about.
+
+00:04:54:54 - 00:05:18:16
+不明
+What are some, motives that we can use this, this, mobile channel for that's really driving into an engagement or customer loyalty state. And there's really innovative use cases. I just talked to a customer, that we were we were looking at how they're, you know, thinking about mobile, and it's less about mobile as a channel, thinking about the in product engagements, but using it in a creative way.
+
+00:05:18:21 - 00:05:44:30
+不明
+They were testing different content for, different, experiences in from a media and entertainment site in their parks, but using content in using in-app user engagement to identify what the next park should be theme wise. So it's a really cool loop here that you get into from what you're doing outside of your your mobile app, and then using mobile as a channel to inform those user journeys.
+
+00:05:44:34 - 00:06:23:53
+不明
+So as marketers, we we love shaping experiences. We love having the this this idea of what the user journey should be and how to optimize that. So one of the key takeaways today is not seeing mobile as a channel, seeing it as a tool to help guide the user journey to inform this transformation that we are all talking about here, at summit around intelligent customer orchestration and really personalizing these experiences in a way that our mobile app is guiding, ourselves and our teams and driving collaboration in the process.
+
+00:06:23:58 - 00:06:46:44
+不明
+Just to introduce this as well, I'm not sure if everyone here has been engaging with some of the more, use cases and stories that we are driving here at Adobe. But Plg product led growth, this is really a template that, I'm really excited for Julian's, walk this through for for Acrobat. But Adobe has truly innovated the acrobat business.
+
+00:06:46:44 - 00:07:15:49
+不明
+The, the the product itself. And there's key components to this that we'll talk about through these, these use cases in this story here. And it's combining user journeys, experimentation. It's identifying the ways and strategies that we can identify the value faster in-app. And this is an initiative that has been spanned across different business units. We have some really strong leaders at Adobe leading the efforts here for product led growth, within our business units.
+
+00:07:15:54 - 00:07:52:46
+不明
+And it's a really, engaging, method and framework that we can, take through some of the key takeaways and learnings today. So before we get into some of these strategies and use cases, foundation for product led growth, driving some of these, innovative, customer journey experiences, we see these four components, and one we just reviewed in terms of, the innovations that we see for product led growth, identifying what's happening inside of, you know, the mobile app to inform, the next best action or strategy for our users.
+
+00:07:52:51 - 00:08:18:42
+不明
+Repeatable blueprint and strategy. Second one here. And I think this is where a lot of our customers have, they've matured. They've gotten to a point where they're identifying, the strategies behind audience segmentation. They're being informed from data governance and having these real time user in app usage and history of the users in app inform some of these, components of of of a unified platform.
+
+00:08:18:46 - 00:08:41:25
+不明
+Experimentation is a huge opportunity being a product manager here where we're talking about optimization and driving AB testing in the tool and the apps, those are it's a very important piece that we'll be talking about from both optimizing decisions and then informing some of these user journeys and experiences. And then the last here is just the fact that we want to embed some of these strategies natively within these channels.
+
+00:08:41:25 - 00:09:07:55
+不明
+Right. So a single canvas, how we're looking at this from both the authoring and workflows and how these components connect into some of these, examples. So one slide here, just thinking about taking actions on some of these components, I like to think sometimes, coming in from B2C customer journeys in some of our product capabilities here at Adobe, the the canvas might be blank.
+
+00:09:07:55 - 00:09:31:42
+不明
+We have a lot of product organizations, product management teams might be owning the responsibilities of what the requirements for journey might be. Over the course of the customer lifecycle, if you think about a canvas being blank and different components of of painting that canvas, same concept that we think about for, different types of tools, right? From, from painting where you have fine tip, paint brush, flat brush.
+
+00:09:31:53 - 00:09:58:53
+不明
+There's different components and tools to, to create something beautiful. Right. Same component here for different capabilities in, in your mobile application we have in-app messaging, really catering to identifying ways that we can engage in real time in the moment, depending on what our users are doing. Driving a lot of components around, in-app history, device location, real time moments.
+
+00:09:58:53 - 00:10:20:57
+不明
+Talked about some of the customer examples of how they're defining these user journeys around what might be happening outside of the products. Right. At parks or different, branches for financial services, content cards is a really great, way to think about how your non-intrusive engagement inside the app. So, cards might be a component that you're familiar with.
+
+00:10:21:01 - 00:10:43:44
+不明
+Again, persistent messaging that's connected, that's consistent. And then of course push notifications, SMS. There's a huge innovation right now around RCS in, secured protocols for health care. A lot of customers are thinking about how they're tying in and connecting some of these components across the user journey, combining, you know, push notification with some sort of content card in the app.
+
+00:10:43:55 - 00:11:14:36
+不明
+So these are your components. This is really kind of the foundation of what a lot of these strategies that Julien's gonna be walking through behind the scenes are being leveraged experimentation, optimization. Another core area where now we're in the concept of not just, having a problem with with content velocity. There's a lot of components now in market that are innovating in the content space, but simple AB testing all the way to identifying some of these, you know, AI algorithms and decisioning and applying this automation to those, those concepts.
+
+00:11:14:36 - 00:11:38:31
+不明
+And now just not what content is driving some engagement or interaction that's moving the needle in app. But how are we measuring different methods to deliver that content. And that might be, a ranking formula or a rules based model might be an AI model that, we're driving in from different third party sources. There's a ton of, of, of utility here in just experimentation.
+
+00:11:38:45 - 00:12:00:34
+不明
+And there's maturity levels and variations of how our customers are thinking about that. And the last component here is just journey path and where, some of these examples from Acrobat, you can see that in forming, a lot of components of, of where they're thinking constructively across the entire customer lifecycle. So with that, there's four foundational pillars.
+
+00:12:00:34 - 00:12:20:43
+不明
+I think this is a really good concept. And hopefully teeing up Julian's acrobat story here really well, but it's exciting area. And again, I think the course of some of these components not being, maybe familiar with, with folks in the audience, but from a player or product led growth combined with a lot of the in-app and delivery that we're seeing.
+
+00:12:20:43 - 00:12:40:03
+不明
+Is mobile being a force multiplier when you're thinking about journey centric, and customer orchestration, it's a really powerful, way that we're seeing a lot of customers with Acrobat, take advantage of it. So I'm going to pass this over to Julian to walk through some of the strategies and examples with the Acrobat business. Thank you.
+
+00:12:40:12 - 00:12:44:49
+不明
+Awesome.
+
+00:12:44:54 - 00:13:09:18
+不明
+Thank you. Brant. Everybody. It's really awesome to be here. This is actually my first summit. So it's been really great to soak in all of the energy here. Yeah. Thank you so much for joining us. I'm going to kick off with a little video so you can get some. The story of Adobe Acrobat started back in 1990, at a time before Google DVDs and text messaging.
+
+00:13:09:23 - 00:13:42:33
+不明
+It was in this year that Adobe co-founder Doctor John Warnock launched the paper The Digital Revolution, with an idea he called the Camelot Project. This thing developed into the Portable Document Format, or PDF To You and Me, which officially launched on the 15th of June 1993. Over the next ten years, we added a ton of new features, including password encryptions in 1994, fill in forms in 1996, and Cross Document in Porting in 2001.
+
+00:13:42:37 - 00:14:14:55
+不明
+Fast forward to 2011 and we changed the game for good with the introduction of our much awaited e-signature service, Adobe Sign. Although it only feels like yesterday, we hit the cloud in 2015, allowing our users to access their PDF files whenever and wherever they pleased. In the last few years, we've really ramped up our user experience, introducing the Acrobat offerings liquid mode for easy mobile use, and a simplified skew line up.
+
+00:14:15:00 - 00:14:31:34
+不明
+Today, our online tools let the whole world convert and edit their PDFs for free. 30 years of Adobe Acrobat have flown by and we couldn't be more excited for the future.
+
+00:14:31:39 - 00:14:52:57
+不明
+All right, so I think it's pretty wild watching that video to think back to a time when we really only had printed documents and stacks of paper on our desks, and now that's all really transformed into a digital experience. And so since then, we've had over 400 billion PDFs that have been opened across, Acrobat desktop, web and mobile products.
+
+00:14:53:02 - 00:15:15:43
+不明
+But today, I know we're here to talk about mobile specifically. So just to give you a little more background around what the Acrobat Reader mobile app offers, we are a subscription based product. We offer, a free download. So you can use tools like fill in sign, you can read and consume PDFs, annotate, some of the more basic features.
+
+00:15:15:48 - 00:15:28:19
+不明
+But for a premium subscription, which we offer in a month, a month or yearly basis, you get access to tools like editing, exporting, binding, etc..
+
+00:15:28:24 - 00:15:48:09
+不明
+So let's get into some more interesting stuff here. So, we're going to talk a little bit about crafting our customer activation. I know that you've probably seen some version of this slide, in the last few days, but we're really going to dive a little bit deeper into what happens after we've acquired a user and they've downloaded our mobile app.
+
+00:15:48:14 - 00:16:13:52
+不明
+How are we going to go about engaging our users, making sure that they discover value immediately once they've come into the app? How do we build habits to make sure that users are coming back over and over and continuing to find that value? Additionally, what happens when users fall off? What happens when users cancel their subscription? How can we reengage, engage those users and bring them back?
+
+00:16:13:57 - 00:16:37:05
+不明
+All right, so this is an example here of some activation metrics that we actually use on Acrobat Reader Mobile. And the way that we go about creating these activation metrics is by putting together three different components. We look at our data, we look at our user feedback, and then we use our own product knowledge and intuition to define these metrics.
+
+00:16:37:10 - 00:16:57:21
+不明
+This setup and habit moment is really what leads to a user becoming, a retained user over time. And so the way that we came up with these metrics is we started with something with a North Star metric around what does a retain user look like to us and UN Acrobat Reader mobile, that's a user who retains by month six.
+
+00:16:57:21 - 00:17:32:44
+不明
+This is a North Star metric that we set. I'm sure this would look differently for your product or your subscription based on whatever you're offering. But once we have that North Star metric, we can see what is common about these users. That is not common with the users who don't retain at this time. So we can look at what is a successful user look like and then work our way back to the first month to see what did those users do in the first month, because that really tells us, well, maybe that's what led to these users becoming, more of a, of a retain user.
+
+00:17:32:49 - 00:17:59:13
+不明
+So in Acrobat Readers case, this is users who have been active for four or more days in their first month. And so this has shown us that those users are developing a habit, and then we can take it even a step back and say, well, what did those users do in their first week of having a subscription? And in Acrobat Readers case, this is users who engage with two or more tools and their first week of having a subscription.
+
+00:17:59:18 - 00:18:21:43
+不明
+And then from there we have our set up moment, which is we can't have users engaging with any of the tools that we offer if they don't even open a document. So it's really important that we focus on, setting up that moment with document open. So this gives us a little bit of, a pathway to success with our users and helping them discover value.
+
+00:18:21:48 - 00:18:43:52
+不明
+Okay, I know there's a lot of text on this slide, but this is an example of what an overall customer journey might look like from the second that they subscribe or start a free trial all the way to the end of their subscription, where they're either hopefully renewing or in this case, we might have somebody who turns off auto renew or potentially cancels their subscription.
+
+00:18:43:57 - 00:19:12:07
+不明
+So I just want to show you kind of what, a journey with multiple touch points looks like. But today we're really going to focus on three different points in the user journey one, onboarding and activation, which we already touched on to a seasonal, inflection point, during month to month 11. And then lastly, what happens when users cancel and unsubscribe?
+
+00:19:12:12 - 00:19:34:28
+不明
+Okay. So how might we support activation during those first 30 days and work on building habits with our subscribers? We know that we, are working towards helping users to discover tools in those first couple of app launches to realize the core value of the app.
+
+00:19:34:33 - 00:20:04:46
+不明
+All right, so an example of a setup moment. So this is an example of a test that we ran where we were running a survey to different users. Once they first downloaded the app. And this survey allowed us to do two things. One, it allowed us to help users surface access to tools quicker. By being able to select a tool, they were able to jump right into their document and continue their workflow and realize, there moment sooner.
+
+00:20:04:51 - 00:20:28:43
+不明
+Additionally, we found that we were getting, really high response rates to end product surveys that were like this or asking about user intent around their profession. And these were totally new marketing insights that we had never had before. Our email marketing team has tried to ask questions like this and was not receiving the, the type of response rate that we were getting in app.
+
+00:20:28:48 - 00:20:50:55
+不明
+And so, one thing I want to leave behind is that you can really utilize the app as a learning point for, using the traffic that comes into your app to learn more about your customers. Okay. So for the moment, this is an example. On the left is the very first iteration of a test that we ran.
+
+00:20:51:00 - 00:21:23:15
+不明
+Around promoting tool usage in our document viewer. And then on the right this is actually the final version. And as you can see, it's gotten a little bit cleaner and more built into our UI here. And so our first small scale test was just a drop down banner promoting the combine tool. And then, after we saw success with this, we were able to, we are able to work with our designers to say, hey, we're seeing really great engagement with this singular banner, which actually you can run something like this in.
+
+00:21:23:20 - 00:21:45:54
+不明
+So it's pretty quick to implement. Once we saw success with this lightweight test, we're able to work with our designers to actually build this into the app experience itself. And this and you can also see here that we have three different banners. They're hidden on the right. But, we have even more tools for users to discover in their first couple of document opens.
+
+00:21:45:59 - 00:22:07:25
+不明
+And this led to a 5% increase in overall tool usage and a 1% increase in our overall subscriber retention. And we're even working with our data science teams to personalize the recommendations that we show here, so that each individual user is seeing tools that are most relevant to their use case.
+
+00:22:07:30 - 00:22:34:27
+不明
+All right. So when it comes to building habits, these are some examples of push notifications that we've been running an app. And recently we kind of, reevaluated what our push notification strategy looked like because, we were promoting tool usage. We had a whole lineup of push notes that were coming out in the first month of a user's journey, but we weren't quite seeing the app engagement rates that we were hoping for.
+
+00:22:34:31 - 00:22:55:01
+不明
+And so we kind of took it back to the basics and looked at what is the content that we're promoting in those push notes. And one test that we ran recently, this was literally a couple of weeks ago, that we concluded that test is focusing on the day of the week as a jumping off point to bring users back and, complete their tasks for the week.
+
+00:22:55:06 - 00:23:26:24
+不明
+And just by tweaking the language and the the context of our push notifications, we found a lot more success. And actually getting users to come back and, use the app. So the set of 4.5% increase in app launches, which was, really great result. There. Okay, moving on from activation, let's talk about seasonal success. Acrobat Reader mobile.
+
+00:23:26:29 - 00:23:51:27
+不明
+Tax season is a very exciting time for us. I know it's not probably for most other folks, but tax season is a very important part of our business. A lot of folks are engaging with all of our tools during tax season. And, it wasn't. So over the past several years, our email and acquisition team have, focused really heavily on promoting Acrobat Reader during tax season.
+
+00:23:51:27 - 00:24:12:43
+不明
+And one thing that we were actually missing was an in-app component. So we were able to acquire our users. They were coming from the App Store, they were coming in from email, but once they landed in the app, there wasn't anything that was really carrying them through that full experience. So in this case, this was in 2023, and we're still continuing this program today.
+
+00:24:12:55 - 00:24:49:39
+不明
+But we introduced in-app messages and push notes that went along with our our acquisition and email efforts. So how might we unify messaging across our channels? We hypothesized that if we could surface, tools during for text document management during tax season, that we could increase our app launches by 5% and purchases by 1 to 2%. And to our surprise, we had a wild success with actually promoting these tools in the app.
+
+00:24:49:44 - 00:25:15:45
+不明
+One one big takeaway of this test was that we were able to test, or we were able to run over 20 different tests and be able to look at different copy images, calls to action, as well as promote different tools. So we had this amazing playground for basically learning different things about what actually worked. And didn't within the app, and what tools were users engaging with after they saw these in-app messages and push notes.
+
+00:25:15:50 - 00:25:49:09
+不明
+We also learned that tax season is a really fantastic upsell opportunity. As you can see by the results that we reported here. And lastly, one big takeaway was that our users were really engaging with the fill in sign tool organically, and this was actually not something that our LCM team was promoting or our acquisition team was promoting. And so because we saw this uptick in users engaging with fill in sign in the app, we were able to pivot our strategy to actually include fill in sign, as part of our promotion during tax season.
+
+00:25:49:13 - 00:26:13:55
+不明
+And so, I think having a platform and engagement platform, like, really allows you to make those quick pivots that maybe you couldn't do if you're dependent on an app, or at least for something like this. So, great. When there and here we just have kind of the overall workflow of what it looks like to go from maybe an ad or an email to a landing page and then into the app.
+
+00:26:13:55 - 00:26:21:56
+不明
+So we've got this full, full, cohesive user experience.
+
+00:26:22:01 - 00:26:26:48
+不明
+All right. Let's talk about when back.
+
+00:26:26:52 - 00:26:47:08
+不明
+So in this case when I say win back we are talking about users who have canceled their subscription or let their subscription expire. Our team worked really hard over several years to be able to offer a discount to our users. This is something that requires new skew creation. Working with the App Store to make this possible.
+
+00:26:47:13 - 00:27:06:04
+不明
+And we hypothesized that if we offered users a discounted subscription within 30 days after they cancel that they would be more likely to renew their subscription. And spoiler alert here this did not work. It was a flat result.
+
+00:27:06:09 - 00:27:30:13
+不明
+We found that even when we offered a discount, this wasn't offsetting, the benefit of users who were just coming back and purchasing at full price. And as you can see on the left here, we utilized all pretty much all of our touchpoints. Possible push note in our message. We have a dynamic paywall here. And there's also a content card that's not shown here, but we really utilize all of our channels to promote this in-app.
+
+00:27:30:18 - 00:27:54:38
+不明
+And so what we learned through running this test was that our users maybe aren't as price sensitive as we thought. Maybe, maybe users are only going to come back when they actually have a task that they need to complete. So this helped us realize that maybe prompting 30% off immediately after canceling isn't maybe the right time or the right messaging.
+
+00:27:54:43 - 00:28:17:27
+不明
+So we kind of took a step back and reevaluated what is the messaging? What is the timing of this test that we're running and so for the the follow up test, what we decided to do was focus more on the value of the tools rather than a discount or the price. And to our surprise, this actually did better than the, 30% off discount.
+
+00:28:17:27 - 00:28:50:42
+不明
+People were more responsive to our value first messaging, and we're more interested in coming back. We had a 7% increase as a 7% increase in purchases. At full price when, we promoted, renewals through this in-app message and push now, additionally, another learning we took away was that the further we got away from or the further time progressed after a user canceled their subscription, the more responsive they would be to this messaging.
+
+00:28:50:47 - 00:29:24:18
+不明
+So it kind of debunked, the idea or the hypothesis we had that you should, offer a discount as like within 30 days of a user canceling and that it's actually could still be relevant to continue promoting re subscription. Later, once the user, might have a use case for the app again. And lastly, here, we still have a ton to learn in terms of discounts and, promoting sales because, there are hundreds of tests that we could probably run around testing price and testing, timing, visuals, things like that.
+
+00:29:24:18 - 00:29:33:07
+不明
+So we're really just kind of scratching the surface with these, discount and went back offers.
+
+00:29:33:12 - 00:29:54:59
+不明
+Okay, so to recap, these are three great takeaways from these different examples that I shared with you. One, we should leverage our in-app visits for personalization and insights that we can bring back to the rest of our marketing teams to inform, you know, what are we going to do as our next test? Or what do we do next year at this seasonal point?
+
+00:29:54:59 - 00:30:20:42
+不明
+What tools are we going to promote next year during tax season? The other is build, platform journeys during peak seasonal moments. I'm sure many of you are focused on doing things like this already, but hopefully we have, maybe a new level of inspiration to really bring those experiences into your app experience. And then lastly, test your way to the right offer at the right time.
+
+00:30:20:42 - 00:30:39:47
+不明
+I can't emphasize enough how much testing, has really helped us drive our product growth at Adobe, and I hope that these learnings have been helpful for you today. And I'm going to pass it back to Brant.
+
+00:30:39:52 - 00:31:25:10
+不明
+Thanks, Julien. I've seen these slides multiple times, but every time I go through them, it's it's really cool how Acrobat has, grown into an icon when we think about product growth. So just a few, additional sections here we wanted to cover, Julie had mentioned some recap, but these, these core principles that we reviewed today informing them into your own strategies and taking away some blueprint, right, to understand, some of these components, thinking about the use cases for Acrobat and then applying them to your own business, and getting these teams aligned so we, we thought about actionable next steps.
+
+00:31:25:15 - 00:31:49:32
+不明
+What are some key takeaways? What are some values here that we can take back in to inform? And the first is, is really we'll be kind of identified upfront that value gap. So whether it's form fills up front from a mobile app, first touch where you're driving some insights, you're identifying, ways that that users are engaging with with new tools or features.
+
+00:31:49:37 - 00:32:10:46
+不明
+There's, there's a lot of value and utility, I think, from understanding, and marrying that to customer states. And I really loved how, learning more and more about the product growth team from Acrobat and how they're really thoughtful in terms of qualitative and qualitative, data around their customer states and what an engaged user looks like and what that means.
+
+00:32:10:51 - 00:32:35:22
+不明
+Again, thinking about these, these, alignment from LCM lifecycle marketing teams campaign email campaign teams. When I was getting into some of these, concepts with Julien, it was the, the, the moment where I realized a lot of customers that we speak to, they're going through this transformation. Now, it might be a single channel team that's focused on on mobile optimization.
+
+00:32:35:22 - 00:33:01:54
+不明
+They've been, you know, a customer with Adobe for a long time, and they're just starting to piece together how they can start working with other teams, other channel teams, bringing the formalization, if you will, for, what they're identifying in terms of peak season campaigns and what they're doing within each component of of their product or mobile application testing and refinements, talked about experimentation.
+
+00:33:01:58 - 00:33:32:51
+不明
+Just have show of hands. I'm curious, who in the room runs some sort of experiment? A B test, familiar and close to experimentation. More than half. That's great. It's it's a huge opportunity. I think that's both driving, insights back to the team, but and again, informing a lot of the, refinements to where these segments are in the journey and how we're identifying, best practices and validating those decisions.
+
+00:33:32:56 - 00:33:55:39
+不明
+One of the really, unique opportunities building products. And what I've seen in Adobe is there's a ton of teams, right? We have research teams that are off doing their own, quantitative analysis and qualitative research. We have user design teams that are running their own programs with customers. They're they're doing heat mapping. They're they're doing a user insights.
+
+00:33:55:44 - 00:34:21:11
+不明
+Julian's example of how from what they, had in the tailoring unique preferences to users went back to the design team and they said, look at what we're seeing in the app. Let's work together to build this and refine that, and bring these teams together. And I think that's very powerful, but yet sometimes hard thing to do within, multiple different business units and how you guys are scaling your brands.
+
+00:34:21:16 - 00:34:42:52
+不明
+We had to have some sort of cycle or growth loop. And I promised Julian I would make this slide valuable enough to keep it in the deck from a visual. I really like this concept. Right, because the we're working with a lot of teams, from our product side in Acrobat is is obviously one of the standout customers of ours.
+
+00:34:42:57 - 00:35:12:22
+不明
+And they're doing this really well. But the value is is really in applying, the continuous cycle around some of these concepts and informing what that might look like from either re-engagement, churn, customers or users. How your, thinking about the scalability of where to start from foundation, onboarding or welcomed, offers in terms of a first user in your mobile apps and then defining that around to, these habit loops and, and optimizing those baseline journeys.
+
+00:35:12:26 - 00:35:43:19
+不明
+So, when you think about going back to your teams and kind of having some additional, research of yourselves, there's a ton of information out there and a lot of innovation in the market right now around what growth loops can look like and how you apply those into your business, models, whether it be subscription business, whether it be, other forms of, of of monetization, there's a lot happening in the space and mobile is at the center of it, which is really exciting.
+
+00:35:43:24 - 00:36:13:37
+不明
+A little bit of use cases to take away, too. We talked a little bit about, how acrobats defining their, their onboarding journeys. Subscription freemium to pay journeys. There is a lot of, customers that were thinking about account creation and form submissions in the app, but applying that back to the web and a lot of their anonymous traffic, and I think the the component of email was really important from the Acrobat standpoint, because we have a ton of brands and customers saying, hey, we're doing a lot of of email focused campaigns.
+
+00:36:13:37 - 00:36:36:52
+不明
+We have a lot of, maybe click through rates that they're measuring. They're based off conversion. They're they're thinking about email, but they're not always connecting it back into how that informs, the activation standpoint, maybe account creation. You're thinking about the onboarding and what that looks like from, referrals in, in maturing into more loyalty cases.
+
+00:36:36:57 - 00:37:06:54
+不明
+But this is a really nice kind of maturity curve to get more into how we're seeing more and more components of what Adobe's offering, to some of these, maturing use cases, order status updates, we're, getting really close to a launch for iOS live activities. So for thinking about broadcast use cases, ways that you're informing, continuous updates just on the mobile lock screen or the, dynamic island in the mobile app.
+
+00:37:06:59 - 00:37:30:29
+不明
+Huge opportunity. Real estate value to to take some of these concepts in in new ways and delivering those experiences and app and then loyalty limit of time promotions seeing retail customers getting now and really creative having some sort of homepage banner on their website offering, you know, flash sale or discounts. But you know, you have to get the mobile application to, to apply those discounts.
+
+00:37:30:34 - 00:37:55:27
+不明
+And then right when they get some sort of new user activation for, that discount they have that tailored to their to the rest of the journey. And they might be offering membership discounts, credit card loans, applications if you're in retail. So there's a lot of ways to connect that back advanced in third tier here is is really where we are thinking about the concept of of real time triggered journeys.
+
+00:37:55:31 - 00:38:17:12
+不明
+Based on business signals, events that are happening. I mentioned the customer, the media and entertainment customer. I thought that was so cool. I'll bring it up again. But the fact that they have a ton of traffic in their mobile apps at the park, but they're also informing what that might look like from their executive and business teams to drive themes around what what they might build next.
+
+00:38:17:16 - 00:38:37:34
+不明
+In based off the trigger applications or recommendations of where they're, in the park or what they're ordering. It's all kind of bringing back the personalization aspect in terms of some of these, these teams that are focused on mobile. And then of course, loyalty and driving a lot more customer success, throughout the journey. So key takeaways.
+
+00:38:37:39 - 00:39:06:06
+不明
+One more slide here for concepts. Onboarding activation, understanding how these user insights and real time engagement metrics in mobile app can drive and inform the rest of your user journey. Little green boxes down here to apply to how, we've seen so much success with the Acrobat business. Aligning touchpoints, multichannel strategies here, omnichannel thinking about how you're bringing together these teams.
+
+00:39:06:10 - 00:39:28:37
+不明
+Show of hands. One more question. How many of you all, have a lot of cohesive alignment to, different channel teams? So you might be campaign manager, you might be a mobile app team. Are you seeing those connections to, hey, our mobile teams work in some sort of product squad. We have user design, we have lifecycle marketing, marketing ops.
+
+00:39:28:48 - 00:39:54:10
+不明
+You see a lot of alignment and collaboration. Now, are you kind of getting into that phase within the business? Just curious if you have a lot of alignment between teams at your company. Whoa. Okay. Well, we'll follow up with the presentation just on that, but we have a lot of good content. That's the great part of Adobe. We we're constantly putting out content around org readiness concepts around how you're building your teams.
+
+00:39:54:25 - 00:40:16:01
+不明
+So think about people process, not just about technology. Didn't expect that one. I'm glad I asked. And the final one here is is again that if you walk away with one thing and you're on the plane ride home or the drive home, you're like, oh my gosh, I have been thinking about mobile as a channel. This is a huge greenfield opportunity to drive innovation in the business.
+
+00:40:16:06 - 00:40:37:13
+不明
+I think we we did our job today. Content, I promise you this. I kind of team myself up there on purpose, but we have a great, a lot of new, net new content. So this will be in the slides, the PDF slides after the presentation, you can scan some QR codes here. But the concept that we're talking about here, just for mobile, it's a part of a larger strategy within our teams.
+
+00:40:37:13 - 00:41:04:01
+不明
+And it's reimagining what we're doing across the entire customer journey. Mobile being a very dominant force that is transforming a lot of the single channel, static campaign type mindset into real time orchestration or what we're calling intelligent journeys. And then we have two new ebooks. Someone, really inspiring on my team helped put together the Crafting Customer journeys, e-book.
+
+00:41:04:01 - 00:41:23:31
+不明
+It's awesome. It's got a ton of great, benefits customer examples in there. And then of course, the mobile, front. We we put this together leading up to summit, and got a lot of great examples there that kind of connect back into points that we discussed throughout the presentation. So help yourselves to follow up on the content, guys.
+
+00:41:23:31 - 00:41:43:57
+不明
+That's it. We really are appreciative of having, a lot of folks here today. There's a survey in the app, Starbucks gift cards, headphones opportunities. Hope you guys had a great time at summit, and we hope to see you again very soon. But thank you so much and let's give it up for Julian. Awesome. Awesome job from Acrobat.
+

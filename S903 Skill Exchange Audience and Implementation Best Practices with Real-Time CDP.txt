@@ -1,0 +1,372 @@
+00:00:00:01 - 00:00:20:30
+不明
+Skill exchange is an implementation best practices with real time customer data platform. Thank you so much for being here, especially after a night of fun with us. I suspect that some of you guys stayed up late last night to enjoy the festivities, and the super cool experiences are on hand. And after a couple of days of being here at summit that you've attended some top notch sessions.
+
+00:00:20:34 - 00:00:41:53
+不明
+I really appreciate you guys being here this morning with me to spend the final morning of Summit with me. And, I suspect that the is on me to make this session the best one yet. We are covering, our CDP and audiences. Both of these elements are core for digital transformation from both a capabilities and a strategy perspective.
+
+00:00:41:58 - 00:01:03:34
+不明
+In this session, I will share with you guys tips and strategies for how to effectively transform your marketing organization into the future of marketing while saving money. We have a diverse base of attendees in this session today from MarTech leaders, product and project managers, system administrators, marketing managers, and a wide range of backgrounds with, from different industries.
+
+00:01:03:34 - 00:01:21:49
+不明
+So whether if you're in the planning process of implementing your CDP or looking to build out an audience center of excellence, or if you're in a more advanced phase with defined audiences, I want you to know that you've come to the right session. My goal for you is to leave this session feeling reassured that the work is simpler than it may seem.
+
+00:01:21:54 - 00:01:43:36
+不明
+If you're getting started or confident that you're on the right track, if the work is already underway in this session, I will share with you my experiences and provide you with tips and strategies for how to implement. Our CDP leverages the capabilities with very limited resources. Secondly, I will tell you how to establish an audience center of excellence.
+
+00:01:43:40 - 00:02:06:37
+不明
+These insights will help you and your organization save time and money while avoiding costly mistakes. One housekeeping note before we get going, please take. If you're like me and you like taking pictures, taking pictures of slides, please take as many pictures as you would like. Just keep in mind, just, that a downloadable deck and a recording of this session will be available on the summit website for you to reference later, so fear not.
+
+00:02:06:37 - 00:02:38:28
+不明
+If you miss taking any picture, you will have that, that material for you to reference later. All right. Before we get going with our content, let me tell you a little bit about me. So I lead audience as an experience as I, Qualcomm, and I manage Adobe Experience platform, Customer Journey Analytics and target. I have about a decade worth of experience with Adobe Experience Cloud tools, and have been through two RTC CDP implementations, with both being done, uniquely different.
+
+00:02:38:33 - 00:03:00:28
+不明
+I can program in a couple of different languages, and, have been fortunate to lead digital marketing operations at several fortune 500 companies. When I'm not busy messing around with Adobe tools and my day job, I love to have fun. And as you can see, there's some fun facts on the slide and on the next slide. Some pictures for some of the activities that I love to partake.
+
+00:03:00:28 - 00:03:22:14
+不明
+And most. All right, now let's talk about what we'll cover today. First, we'll give you a background of our journey from Qualcomm's perspective and our martech, journey there. Then we'll talk about audiences, then cover customer journey analytics. Then finally close out with operations. Now let's dive in into our content. First, we'll give you some background about Qualcomm.
+
+00:03:22:19 - 00:03:43:48
+不明
+Then we'll talk about some of the issues that we faced. And then we'll talk about some things for you to consider from both the strategy and capabilities standpoint. All right. So Qualcomm's heritage is being an ingredient brand in the high tech industry sector. We started off in mobile phones and have traditionally been operating in B2B markets over the past several years.
+
+00:03:43:49 - 00:04:10:46
+不明
+We started to leverage our Snapdragon brand as primarily a consumer brand, and we have diversified our product portfolio into sectors that we operate in, including auto, audio, XR, IoT, modems, laptops and many others. For example, these metal glasses that I'm wearing here today are equipped with a Qualcomm chip. There's a high chance that everyone in this audience owns at least one device that is powered by Qualcomm.
+
+00:04:10:51 - 00:04:46:03
+不明
+We also have partnerships with major brands including Mercedes AMG, Petronas F1 team, the San Diego Padres and being the front of shirt sponsor for Manchester United. As a result of our operating model, we have a very diverse audience base across B2B and B2C market spectrums. Just like the diverse industry backgrounds that we have represented in the audience from, in this room today because of how we are set up to operate, these are the key differences that we must consider for our go to market motions.
+
+00:04:46:08 - 00:05:18:54
+不明
+In addition to that, go to a go to market complexity that I highlighted on the last slide before our CDP implementation. We had issues that needed to be addressed that likely some of you are also experiencing in your day to day from having undefined audience taxonomies, operational gaps with our digital marketing best practices and constraints with limited resources and funding to address these issues and modernize our capabilities to interact with our ever growing audiences and be audience led.
+
+00:05:19:01 - 00:05:28:41
+不明
+We invested in CDP for its valuable capabilities, and here are some of the things that we valued most.
+
+00:05:28:46 - 00:05:51:24
+不明
+We initially kept our use cases very straightforward and simple. We focused on, a use case for one of our core audiences, developers at the time, we didn't have an audience taxonomy built out that led our marketing org to establish more stringent standards for the audience definitions that we have across the organization and become an audience led, company.
+
+00:05:51:28 - 00:06:28:32
+不明
+I'm sharing this with you guys because it is crucial to define those audiences, to inform the use cases that you're looking to build. And so successes of the adoption. Additionally, defining these audiences will allow your organization to develop strategies around them and journeys that align with the audiences that are being developed in CDP. Keep in mind that during the implementation, especially in the early phases, your stakeholder stakeholder goals will evolve as you continue to build out your capabilities, scale meaningfully while executing on the agreed upon use cases.
+
+00:06:28:37 - 00:06:55:01
+不明
+Avoid early in the project phases of Avoid unknown unknown risks by managing your resources wisely. Avoid scope creep by adding too much and taking on too much on your plate, and include risk buffers for unaccounted risks. Begin with a very clear and simple use case and our situation. We built our use case around executing and one channel and then then expand later and you can expand to multi channels afterward.
+
+00:06:55:06 - 00:07:05:53
+不明
+My one takeaway here is to keep in mind that integrating digital marketing tools will require some time. So we have to be patient with it.
+
+00:07:05:58 - 00:07:33:45
+不明
+Along with having defined use cases, you must consider a robust data collection and measurement strategy. Why? Because having a sound data collection practices enriches and expands your audience base. And it also starts with having an end in mind. You must ensure that the performance data that you need to measure the results for those use cases improve the return on the investments is available there for you to do those measurements.
+
+00:07:33:50 - 00:07:55:45
+不明
+Simply put, my one takeaway from this slide, if there's anything for you guys to remember, is to have an ABC mindset. Always be collecting data based on your audience and campaign strategies. Let's continue the conversation into data and double click further. B2B, B2B and B2C markets have data sets that are similar and data sets that are completely different.
+
+00:07:55:49 - 00:08:21:45
+不明
+Some will likely have additional data sets that are unique to your industry, including healthcare, communication and banking. For example. Now let's double click further on the data collection and activation topic, specifically the identity graph. This is the heart of CDP. It is imperative for you and your organization to determine which cookies can be collected, and the method for you to use them for activation.
+
+00:08:21:50 - 00:08:45:00
+不明
+Keep in mind that some third party cookies can be collected only using a DMP like Adobe Audience Manager. For example, the Trade Desk ID can only be collected there and stored in the identity graph for audience manager. For some cookies to be visible, you must enable ID sync, and you can do that by contacting Adobe Support.
+
+00:08:45:05 - 00:09:15:33
+不明
+Now implementing an CDP is a journey and Qualcomm situation. Since our resources are slim and limited, it can be at times a lonely one too. My message to you here is to stress finding the adoption champions and collaboration collaboration partners at all levels within the organization. You would be surprised that when you collaborate closely with these partners, that they have a strong interest in the capabilities, and they will champion and advocate for, for them, for you in meeting rooms when you're not there.
+
+00:09:15:37 - 00:09:45:52
+不明
+My one takeaway here is that leading is leading. Change in martech and martech operations demands both technical know how and very strong people skills, and an essential element to scaling these capabilities with CDP and implementing new audience and implementing new processes with audiences is communication. You must keep the R the organization informed along the journey because frankly, not everyone is aware of what you're doing and some resist change.
+
+00:09:45:57 - 00:10:02:22
+不明
+Keep in mind the old adage is that success leads to more success. The more that you broadcast your message, the more that your organization is aware of the capabilities. And they were they will start to leverage them. And any news is is better than nothing. There are so many different ways for you to interact with your stakeholders.
+
+00:10:02:36 - 00:10:30:09
+不明
+You can do that in meetings and chat groups, newsletters, quarterly announcements, roadshows, what have you. For defining our core audiences. We use this practical approach that you can apply your organization immediately. First we interviewed with our we interviewed our stakeholders and we defined our core audiences. We surveyed what existed in our tools. Then we mapped the audience, the segments to audiences and audiences.
+
+00:10:30:09 - 00:10:55:12
+不明
+TV to be use confirmed the mapping with leadership, and then confirmed it with analytics that were able to measure those audiences then started doing some of the work by migrating the audiences from the different systems into our CDP. CDP, and then operationalized our audiences into our operational workflows. For audience requests and campaign requests. And in our situation, we leverage work funnel.
+
+00:10:55:17 - 00:11:17:24
+不明
+And then finally, we defined a set cadence where we would review our audiences based on the shifts in the external environment and changes in our strategies. So in our situation, we determined to do that on a yearly basis. And here are the audiences that we defined in our playbook and operationalized.
+
+00:11:17:29 - 00:11:40:28
+不明
+Now, like I mentioned earlier, we kept our initial use cases very simple and straightforward. We just executed in one channel. And this is how our architecture looked like after completing completing the initial phases of our use cases without CGA. And here are the high level statistics after completing our initial phase of the implementation.
+
+00:11:40:33 - 00:12:04:00
+不明
+Then during last summer, we replace our tag management system with data collections and enabled CGA. After operationalizing our capabilities, we now have a more connected martech ecosystem for better fidelity and engagement with our audiences across all the marketing funnel stages.
+
+00:12:04:04 - 00:12:26:24
+不明
+As a result, we increased our count of customer profiles and activate activated audiences significantly. Now, before we double click on the audience topic, let me pause for a quick question from me. From me to the audience that we have represented in the room today. Please think about the answer carefully, because there is a prize in it for you.
+
+00:12:26:29 - 00:12:36:00
+不明
+And raise your hand. Don't blurt out the answer. What is the consumer brand for Qualcomm?
+
+00:12:36:05 - 00:13:05:42
+不明
+Go ahead. All right. Perfect. We have a winner. Susan will take over I give for you from our partner Manchester United. Thank you Susan. And thank you for participating. All right let's now double click on the audience topic and dive deeper into it. Let's start off by tackling a definition for audiences and segments. In the past, you may have heard the term segment be interchanged with audiences.
+
+00:13:05:47 - 00:13:34:36
+不明
+What I believe is the correct definition for audiences is that audience is a group of people with unique characteristics, and a segment is dividing that group into smaller, unique parts. Let's take, for example, what you see on the screen here. What you have a B2B to B2C market example. Let's say if you're an ingredient brand and you produce goods for a more finished product, and you have a defined list of your top tier accounts that you want to go after and sell to.
+
+00:13:34:41 - 00:13:57:07
+不明
+We we divided that audience further into segments by breaking them down into marketing funnel stages. In this example, it's based on the purchase and awareness stage. Then we broke down the purchase stage even further and divided that into subsegments by those, based on the web activity. For those that did download a document versus those that did not download a document.
+
+00:13:57:12 - 00:14:17:10
+不明
+Whatever you guys decide to call them, just agree on the definitions across your organization and have that be standardized. Now let's talk a little bit more about the data and the types of data that's available to you to build an audience. You can think of this slide as Lego blocks or building blocks of characteristics for you to build audiences.
+
+00:14:17:15 - 00:14:46:05
+不明
+You can use this information to build. Net new audiences, build lookalike audiences, or retarget existing ones. And here's an example of an audience that you could potentially build if, let's say you're me and you work with, you work at Qualcomm. As you can see in this example, we did something a little nifty here by combining two different audiences and leverage different data types as building blocks to build them.
+
+00:14:46:10 - 00:15:07:26
+不明
+Now, I've worked on many campaigns over my career and from my experience here, these are the common data requirements that you must gather for your use cases. If you're not sure where to start and you're looking for for some inspiration, there's a use case playbook that's available on the Experience League, and it's also embedded in the UI for CDP.
+
+00:15:07:28 - 00:15:34:37
+不明
+So you don't have to click out of it. And here's the build of our IoT developer audience that we reviewed as an example in the past. Slide. As you can see, we have a very strong audience base with over 217,000 profiles and counting. And here's the example of the Manchester United and combined Snapdragon Insider audience that I shared with you earlier.
+
+00:15:34:42 - 00:15:58:16
+不明
+Now, let's talk about the capabilities in our CDP and explore how you build audiences. I will share with you some key tips and tricks for my. From my experience of using CDP for many years and building an audience from soup to nuts. But before we dive into the UI, you must get familiar with these essential building blocks, attributes, events, and audiences.
+
+00:15:58:21 - 00:16:26:15
+不明
+Think of attributes as record data that is time independent. So that could be your profile data. Account data. Look up data. For events. That is time series data. So anything that includes a timestamp. When did somebody abandon a car? When does somebody log in? So on and so forth. And then finally audiences audience, could be audiences that you've built already in CDP or audiences that you migrated from another system.
+
+00:16:26:27 - 00:16:49:16
+不明
+You would see all the audiences here, and you can do some additional things by combining them. Splitting them and so on and so forth. Now, this is one of my favorite features in the UI. Before you even start building, you get a lot of useful information and things that would help you with your build. In this you are in, before you start building the, your audience.
+
+00:16:49:22 - 00:17:17:39
+不明
+You can scroll over to the information icon and you can get detailed information in terms of the data path and confirm that you're using the right field in your schema. In addition to that, by hovering over on the information icon, you can see the data distribution and the data values that are available for that for that field. That way, you can gauge what sort of audience build or how much you would get in terms of the audience that you build out.
+
+00:17:17:43 - 00:17:33:00
+不明
+Now let's review the different methods that are available to you to build an audience. We'll start by reviewing the core way to build an audience, which is using the build rule. Then we'll segue over to compose audience.
+
+00:17:33:05 - 00:17:55:21
+不明
+The build rule has a drag and drop, user friendly UI. In the canvas, you can use logical operators containers nested to build nested cruise inclusions and exclusions. A couple of things for you to keep in mind. Make sure that you include the look back period in this view. This would be the lookback period that you defined in your audience requirements.
+
+00:17:55:26 - 00:18:25:52
+不明
+If you're in the planning phase of your implementation and you intend to bring in Adobe Analytics data, if your organization has multiple reporting suites, make sure you use common user friendly names across all those. Report suites. Finally, there's a bulk upload feature. This feature simplifies simplifies entering large quantities of data. Let's say for example, you work at a retail company and you got a request to build an audience for those that viewed 600 SKUs.
+
+00:18:25:57 - 00:19:00:49
+不明
+And that's part of your criteria. So in this example, what you could do is create three CSV files and upload them based on the maximum 250 values for each. You would upload them into the UI, and that will save you a significant amount of time. Instead of ranking each one. Let's watch this video on the next slide for a quick example in terms of how you would build an audience.
+
+00:19:00:54 - 00:19:33:56
+不明
+All right. As you can see, I'm stepping into the UI and there are the available fields that we talked about attributes, events and audiences. And I'm looking for the email field based on my requirements. And I'm pulling in the email field with a condition that any email that exists in my criteria. And then toggling over now to events to pull an event field.
+
+00:19:34:01 - 00:19:53:21
+不明
+And as in this example, I'm pulling in sixth sense company field name.
+
+00:19:53:25 - 00:20:15:43
+不明
+And changing the criteria to something similar with a value that does exist. And then finally changing my lookback period based on the criteria that I received. And to close refresh the audience estimate just to get a read in terms of the audience build and what the audience count, that I expect to make sure it's in line with my expectations and waiting for that audience to build.
+
+00:20:15:48 - 00:20:22:19
+不明
+And we have a number north of 32,000 that we can target in this campaign.
+
+00:20:22:24 - 00:20:51:06
+不明
+All right. Now let's double click on the Audience properties pane that I showed you on the last slide or on the last video. There are a couple features that I wanted to highlight here. Let's start off with a sample count of the audience. This capability is super powerful and useful for you to get an early read on the audience count and make sure you're building the audience properly, but remember that it's based on a sample size of that day's data, and it's not 100% accurate.
+
+00:20:51:10 - 00:21:16:00
+不明
+You can apply it. You can also apply axis labels to better manage what users can do with the data. Based on your data governance standards in your organization. I know that we have several attendees in this session today, from the financial services sector and health care industries who work with highly sensitive data on a regular basis, and everyone else is really in this room, is looking for a better way to comply with the ever changing data laws.
+
+00:21:16:04 - 00:21:39:24
+不明
+This feature is crucial for you to implement for effectively managing and protecting your sensitive data. You can also apply tags to better organize your core audiences and make them more searchable in the UI for your team. Additionally, you can get a text summary of the audience logic, and this is super useful for you to grab that audience. Grab that text summary and paste it in your requirements docs.
+
+00:21:39:28 - 00:22:00:58
+不明
+Or in our situation, we have our requirements and work front so you can grab that, paste it and work front so everybody's aware of the logic that you use to build that audience. Finally, you choose the audience evaluation method. More on the audience evaluation method in the next slide.
+
+00:22:01:03 - 00:22:30:38
+不明
+In terms of audience evaluation, there are three methods for you to choose from, but you are limited to the choices that you have available based on how the data source that contains the data that you're looking to use is configured. What does that mean? Let's take for example, if you have transactional or data science data that gets updated nightly or monthly, you must then choose batch data because that data is coming in in batch as your evaluation method.
+
+00:22:30:39 - 00:22:59:31
+不明
+If you're using data from those sources, let's take for example, when you would use ad segmentation. Let's say if you work for a major sports league and your objective is to grow your audience and inform them about the upcoming season that is about to kick off and the new merch that's supposed to drop your campaign strategy with ad segmentation would would be potentially to personalize the landing page that drives visitors to it from the prospecting campaign that you've launched.
+
+00:22:59:36 - 00:23:25:52
+不明
+This approach would involve modifying the generic page content based on the target audience and their location to display personalized, local team content on the landing page. So in this example, if I was an NFL fan and I was doing some of this activity here, I would see Raiders content. Now let's review how. Now let's review the compose audience feature, how you would use it, and some tips around it.
+
+00:23:25:57 - 00:24:01:46
+不明
+The compose audience capability is great for stacking audiences or refining those audiences. A couple of common use cases where you would leverage these capabilities is for adding suppression audiences, removing audiences, or segments that overlap. Just keep in mind that the audiences must be published for you to use them. Let's take, for example, you're in. If you're in the banking industry and you have a parent audience that includes all active customers, and you want to target, and you have a campaign that's supposed to launch for a new credit card that you're looking to promote.
+
+00:24:01:51 - 00:24:27:09
+不明
+Part of the criteria and the campaign that your campaign requirements that you received would be to potentially exclude those that have a mortgage and those that recently applied for the credit card. You can easily pull in those audiences in the sky and exclude those that you should be excluding, and build an users workflow to build that audience. Now let's discuss the import external audiences feature.
+
+00:24:27:14 - 00:24:55:28
+不明
+Let's say if you work for a major company in the financial services sector, and your team recently attended a conference to promote their enterprise services to various organizations. Traditionally, in these conferences, these teams usually get offline Excel sheets that contains a list of the prospects that they talked to at that conference, and a follow up strategy would be to interact with those that attended the conference and that from that list and contact type and contact them.
+
+00:24:55:33 - 00:25:21:20
+不明
+So what you can do is use this capability to upload that ad hoc list and attach additional CRM fields if you wish to, and include them in your retargeting retargeting campaign to follow up with them after the conference. Keep in mind some file size limitations and field requirements that you said, that should align with your schema. Now, we've covered now that we've covered how to build audiences in the UI.
+
+00:25:21:25 - 00:25:35:13
+不明
+Please consider these additional tips to include in your audience SEO and how you leverage CDP capabilities.
+
+00:25:35:18 - 00:26:02:49
+不明
+Now let's talk about data destinations and where you're sending the audience and activating them. A couple of tips to keep in mind is to make sure you use the PII identifier for activation, that is, either the hash field in your schema, or apply encryption transformation during the activation workflow. To be sure to keep your PII data secure. Keep in mind that if the doesn't, keep in mind if the destination connector is being
+
+00:26:02:54 - 00:26:28:50
+不明
+Keep in mind the destination connectors, are being managed by the destination partner. So for example, if you have a Google 360 connection that you're looking to enable, you must review Adobe documentation and Google's documentation for you to be successful with enabling that destination. Provide your audience accounts based on the identifier that you're using for the activation platform.
+
+00:26:28:55 - 00:26:51:36
+不明
+This is super important because when you're working with a bunch of different stakeholders to execute a campaign, you must give them a read in terms of the expected audience count for them to receive it. On the other side on the activation platform. We know the counts are going to be different because we're not going to match the audiences one for one, but it's super important for you to read to provide the audience count based on identifier that you're using.
+
+00:26:51:46 - 00:27:15:43
+不明
+So for the Google example that I shared, it would be email. So you would provide counts based on that identifier. Once you build an audience and confirm it was sent to the destination, keep in mind that it may take for the audience. It may take some time for the audience to accumulate and show up as a whole. Now let's extend the conversation with activation into extensions.
+
+00:27:15:48 - 00:27:41:35
+不明
+Extensions allow you to better manage audience journeys based on the event triggers that you and your organization determine. Are important to trigger another marketing action. Let's say if you're in a health care industry and you have an active campaign that informs your audience about the seasonal flu and getting vaccinated for the winter, that's live on Instagram. You may have captured event data for, for your audience that just recently got vaccinated.
+
+00:27:41:40 - 00:28:05:12
+不明
+You can send that event data to remove them from the active campaign, or trigger a brand new content based on your marketing strategy, based on their qualification rules set in that Instagram campaign. If you're unable to find a destination out of the box, no need to worry. You can potentially enable the destination through ad cloud or they'll be audience manager.
+
+00:28:05:16 - 00:28:27:49
+不明
+And if you can't, if you can't find a solution there you have options to create a completely custom solution with your team based on the needs of your marketing. Org. Another thing to keep in mind is reach out to your Adobe account team for support. If the destination is not available in CDP. They will likely have some solution available for you there that you can consider.
+
+00:28:27:54 - 00:28:49:27
+不明
+Now that the audience has been built ship to its destination and the campaign launched. What's next? You must temple ties how you share results with your stakeholders as your scalar capabilities and your audience really? That way they get familiar with the way with, with an approach, with how to consume the information. And you establish trust with those stakeholders.
+
+00:28:49:31 - 00:29:19:30
+不明
+As I shared earlier, you provide results based on the agreed to KPIs, then work with your stakeholders to determine the next touchpoint. Because we know audience journeys never stop. Now let's dive into CGA and how Qualcomm leveraged it and the capabilities based on how we are structured as an organization with our limited resources. For Qualcomm, enabling CGA was essential because it streamline the process from insights to activation.
+
+00:29:19:35 - 00:29:43:18
+不明
+And another thing that keep in mind is we had limited, limited resources in terms of audience, in terms of dedicated audience developers. We aim to bring marketers closer to the data and the insights for decision making. To raise awareness of these capabilities. We started the build to build a bunch of audience dashboards for those core audiences and shared them with the respective marketing teams.
+
+00:29:43:22 - 00:30:07:28
+不明
+For them to have a continuous source of insights that they can leverage. Additionally, we love we we value the benefits of combining our Web and Marketo data to have a more holistic view into our audiences, and we're looking to add more, more data to have a more comprehensive view into those audiences. Now, let's talk a little bit more about the audience creation feature in your IR.
+
+00:30:07:33 - 00:30:27:24
+不明
+This is one of my favorite features to cover with you all, as I talked about earlier. This is a very powerful capability that improves workflow efficiencies and decision making based on insights. Keep in mind that it may take some time for the audience to build based on their audience query, and how large the data is that being processed.
+
+00:30:27:28 - 00:30:36:33
+不明
+Let's watch the video on the next slide for an example on how you build audiences with CX.
+
+00:30:36:37 - 00:31:05:37
+不明
+All right. So this is going to move real quickly. I right clicked on a selection for the web behavior that I have in mind to build an audience. And now I'm quickly building an audience. And now that Ions is being sent to App, I got a notification that the audience was sent to App. So I'm now toggling into app.
+
+00:31:05:42 - 00:31:25:07
+不明
+And now I'm just searching for the audience to confirm it was sent, to app.
+
+00:31:25:12 - 00:31:31:00
+不明
+And there it is.
+
+00:31:31:04 - 00:31:54:07
+不明
+All right, let's continue further. As I said earlier, after we defined our core audiences, we equipped our marketing teams with dashboards for those audiences that they manage to get them closer to the insights in these dashboards. A couple of things for you to keep in mind. Number one, include a top line summary for your stakeholders so they understand the insights that they're supposed to get from those from that report.
+
+00:31:54:12 - 00:32:21:25
+不明
+Use visualizations because they tell a very powerful story. Finally, share the reports and dashboards in an accessible and friendly format for your stakeholders. Here are additional tips for a day to day operations and management of the platform. I want to call out the data dictionary and highlight some tips there. The data dictionary is a window into data quality and how you manage it.
+
+00:32:21:30 - 00:32:51:24
+不明
+You can see if there's no data, remove duplicates and see the data distribution of the values. There. Another thing that I want to call out is data retention. For those of you in the planning phase of implementing a, make sure that you determine how much data is needed to power you. Use cases. For example, I know that some of you are in the hospitality business and customers have long journey cycles for those audience based based on seasonality.
+
+00:32:51:28 - 00:33:18:38
+不明
+You may need to consider bringing in data based on, that's longer than the traditional lookback period, let's say 12 months. All right. Now we'll cover our final section. In this section, you'll learn more about operational best practices and tips to operationalize the capabilities and the audience. Center of excellence. Here are some best practices that you should consider operationalizing in your operation to keep things manageable.
+
+00:33:18:43 - 00:33:50:08
+不明
+Number one leverage folders and tags and CDP. You can apply changes in bulk. So you can do this more efficiently. This keeps things organized for your, for your team. And it's a much clearer UI defined standard audience, naming conventions, using the metadata and the name that you need to roll up into reporting. Keep in mind the character limitations for those audiences that you're sharing across all the different systems that you have in your martech stack.
+
+00:33:50:13 - 00:34:04:05
+不明
+Purge CDP and CGA on a regular basis just to keep a clean workspace for your team. And then lastly, enforce that it uses policies to avoid risks with data compliance issues.
+
+00:34:04:10 - 00:34:25:43
+不明
+Now we know our use cases and our audiences are only as good as the data that powers them and enables them and enables us to create them. You must review and monitor data on a regular basis to ensure that data jobs run successfully. My recommendation to you is to establish a reoccurring process where you monitor the data flows on a regular basis.
+
+00:34:25:48 - 00:34:46:30
+不明
+There are three different ways for you to monitor data. You can visit the monitor UI and app. You can subscribe to Proactive Alerts instead of having to visit the monitor UI. And then lastly, you can get more in-depth information using postman to see if they're the failed job, to see if there's a failed batch and look into the details.
+
+00:34:46:30 - 00:34:49:41
+不明
+There.
+
+00:34:49:46 - 00:35:20:10
+不明
+As we wrap up, let's wrap up now. Let's now review the key takeaways for the strategies and tips that I shared with you, with you, all that you can implement in your organization immediately. We talked about strategies for implementing CDP. The main message is there is operate a use case led approach and let that inform your roadmap. Consider enabling CGA to make the insights more accessible in your organization and to make the insights to audience development the process much more streamlined.
+
+00:35:20:15 - 00:35:52:14
+不明
+In terms of building an audience, SEO consolidate your audiences into CDP. So you have one place to manage them and delete duplicates. Add the defined audiences that you've worked with your stakeholders into your operational workflows for change management. And in our situation, like a certain earlier, we operationalize that into work from. And then lastly, create audience dashboards for your marketing stakeholder and stakeholders to become an audience led team.
+
+00:35:52:19 - 00:36:19:10
+不明
+And then finally for tactics and audience activation, cookies have not gone away yet. So plan for the data collection that you need to do. And the means for you to activate against those cookies. Lastly, determine the data and the destinations and the extensions that you need to include for your use cases in your marketing organization to power the audience journeys and the experiences that you're looking to build.
+
+00:36:19:15 - 00:36:36:48
+不明
+Now let's look ahead and share with you what else we have planned on our roadmap for the topics that we covered. As we wrap up this session. I'd like to thank you for your time and attention today with me this morning, and I wish you a safe journey back to wherever you're visiting from. Awesome. Thank you. Well, that's all we have time for today.
+
+00:36:36:48 - 00:36:44:18
+不明
+Thank you so much for attending Abdul's session, and we'll stay behind. Thank you everyone. Thank you guys.
+

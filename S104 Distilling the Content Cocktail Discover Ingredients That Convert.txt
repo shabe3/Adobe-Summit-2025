@@ -1,0 +1,432 @@
+00:00:00:36 - 00:00:23:54
+不明
+but I'm super excited to talk to you about some content today. So I'm Jennifer work Meister. I'm a senior product manager at Adobe. I've been with Adobe for over five years now. And for the last year, year and a half, I have only thought about content. So very excited. Hey, you guys, this is albino with Verizon.
+
+00:00:23:54 - 00:00:45:56
+不明
+For more than eight years now, have been doing Adobe Analytics even before that. This is about fifth summit I'm attending. Very excited to be here. In the presenter role to show you what work I did with Jennifer here. Great. So just to set the stage a little bit, the problem that we're all looking to solve.
+
+00:00:46:01 - 00:01:06:32
+不明
+Organizations are spending a lot of money on content. Now. Content is everything. It's what good. It's what groups interest. It's what creates engagement. It's what converts. But it can be incredibly expensive to create, manage and serve all of that content. So just to give you a bit of an example, this is, a real example from a real Adobe customer.
+
+00:01:06:32 - 00:01:29:58
+不明
+And they have around, you know, a thousand products and they have around 25 images for those products. And that's, that's actually pretty modest. So if they're going to alter those images in any way for any of the 15 global regions that they're operating in, that already has ballooned up the number of images that they have to manage to 375,000.
+
+00:01:30:03 - 00:01:55:31
+不明
+Now, imagine if they try and personalize that for any number of different customers or customer contexts. That usually becomes millions. Now, that's obviously not feasible for a lot of organizations, but we all know that AI is going to help start, helping organizations meet this demand for content. So G&A is going to help. Content is going to balloon, is going to meet that demand.
+
+00:01:55:44 - 00:02:19:30
+不明
+But marketers are still going to be left with these questions. We need some sort of measurement solution to scale with the way we're scaling content creation. You still need to understand how that content is actually performing. What do you actually need to prioritize as you're creating that content? What's the ROI on those efforts? It's still not free. And are your personalization efforts actually worth it?
+
+00:02:19:35 - 00:02:41:48
+不明
+So we've been hearing this a lot from customers, and this is the questions that have been keeping me and a pretty large team at Adobe up at night for a while now. So I'm super excited to introduce you to Adobe Content Analytics. So the whole point of this solution is to help you measure the ROI of your content within the context of your customer journey.
+
+00:02:41:52 - 00:03:06:47
+不明
+So what it does is it leverages AI derived attributes to help you to understand all of your content at a super granular level, and then measures that content, comprehensively across your site. So once you understand how content and content attributes are actually resonating with your different users and impacts their journey, you're going to be set up for better optimization and personalization.
+
+00:03:06:52 - 00:03:24:38
+不明
+So let's get into a little bit of how that's actually going to work. So all of this really hinges on the AI, ML services that are helping to break all of your content down into those little granular pieces. This is something that would be impossible to do manually. So let's talk about those pieces and kind of how they all ladder up together.
+
+00:03:24:39 - 00:03:46:02
+不明
+So first there's the experience. And you can think of the experience as just a unit of content. And a specific arrangement at a specific point in time. So for most of this, presentation, I'm going to be focusing on the web context, because that's where we've started with content analytics. However, keep in mind that we will be expanding to other channels here very soon.
+
+00:03:46:03 - 00:04:02:48
+不明
+But for now, I'm mostly going to focus on web. So right now we're defining the experience as the entire web page. And we absolutely understand that you think of content units as something maybe a little bit smaller than that. And we're working on making that more granular. But just for now, bear with me. Think of it as an entire web page.
+
+00:04:02:52 - 00:04:24:16
+不明
+So if you have a home page and you have that home page running as it is for about a week, that's an experience. However, if you change out the banner or change out any of the content on your home page now, it's different. That now counts as a different experience. So within an experience you have text and you have images.
+
+00:04:24:16 - 00:04:40:32
+不明
+And let's be real, you have other content like videos and we are getting to those. But for now we're going to focus on text and images. So of that text, it breaks that text down into all of the attributes that you could want to know about that text. So that's going to be obvious things. All the counts you could possibly want.
+
+00:04:40:37 - 00:05:01:15
+不明
+Word count sentence count. Paragraph count. Emoji count. It also has obvious things like keywords. But what I'm really interested in is when you start getting into things like tone of voice, persuasion, strategy. Here it is. This is what's going to help you dial in. How do I actually speak to my customers? What voice is connecting with them?
+
+00:05:01:28 - 00:05:27:16
+不明
+What persuasion strategy do they respond to? Okay. So then also within experiences you have assets. And I'm going to use the word asset and image pretty interchangeably. So assets we have a bunch of attributes on them as well. So you have things like the subject matter obviously background scenes foreground colors, background colors, overall tone. We even have down to the camera angle for the photograph that was taken.
+
+00:05:27:21 - 00:05:53:57
+不明
+If it's not a photograph, we also have photography style or image type. So each asset gets an asset ID and so the asset ID is associated with the URL. However, we've found from the customers that we've been working with and sort of early applications of this and in betas that they actually have the exact same image occurring all across their site that for one reason or another, has different URLs assigned to it.
+
+00:05:54:01 - 00:06:15:09
+不明
+And so these assets also get something called a perception ID. And what the perception ID does is it looks at app assets that are visually the same and says, hey, this is the same image. We're going to assign it the same ID. So now you can look at the performance of that asset as a whole, even though it's coming from different URLs.
+
+00:06:15:14 - 00:06:23:42
+不明
+You can also then break the performance of that asset down by the different placements and context of where it appears.
+
+00:06:23:47 - 00:06:44:40
+不明
+And for those of you who are interested, who maybe are already with us with analytics or customer journey analytics, I'll get a little bit into the architecture of how this works. So the content, it's extraction and the events that happen with the content, that's going to be the impressions, that's going to be, the clicks, any interactions with that content that's going to be collected by the web SDK.
+
+00:06:44:45 - 00:07:03:10
+不明
+Now, I know some of you may not have migrated to web SDK, and that's totally okay. You just have to be okay using the web SDK to collect those additional content events. If you are using Adobe Analytics still, and you're sending that through the app, you can do that to. So the web SDK collects all these events and it's all sent into app.
+
+00:07:03:12 - 00:07:29:48
+不明
+That's the Adobe Experience platform. And from there it goes to the Featurization service or the content identity and feature service. We have it here. And so that's going to be what assigns things like the perceptual ID and all the other AI ML stuff, assigning that the attributes, etc.. So now you have the content and its full metadata profile and all the content events sitting in app alongside your customer journey, event data and any other data that you've collected in an app.
+
+00:07:29:52 - 00:08:04:48
+不明
+And so that's now available for analysis and analysis. Workspace and C-J. Now the reason why this architecture is important, and the reason I'm showing it to you today, is because AEP is the foundational architecture on which other Adobe DCS applications sit. And so what this is going to do is it puts us in a good position to start ingesting content data sets from other channels and in the future to provide integrations between content analytics and the places where content authors marketers exist, because we know they are not always stepping into analysis workspace.
+
+00:08:04:52 - 00:08:27:50
+不明
+So all right. Yeah. So one of the questions that I get asked a lot is I'm talking to customers about content analytics. Okay. Now we have all this extra data. How do I think about it in the context of what I'm already doing. How does this fit with, for example, an AB test? So up until this point, we haven't had this scale of information or this granularity of information.
+
+00:08:27:50 - 00:08:46:55
+不明
+And so the AB test or even a multivariate test has been one of the only ways that you can figure out what content is actually working. But with content analytics, I'm going to ask you to think a little bit beyond the AB test. So we're going to go through a little exercise today. So let's AB test these two cocktails against one another I think cocktails are a good analogy.
+
+00:08:46:57 - 00:09:09:52
+不明
+You have all these different ingredients together. They make a whole just like a content. And for my dry people buy cocktail, it doesn't necessarily have to have liquor. It can totally be a dry cocktail. I come from Utah, the dry cocktail scene is thriving and it's pretty awesome. Okay, with that said, raise your hand if you're more interested in the cocktail on the left.
+
+00:09:09:57 - 00:09:24:04
+不明
+Okay, raise your hand if you're more interested in the cocktail on the right. Okay. It's pretty even split. I think the cocktail on the left one, I did make this presentation before I quizzed you all, so. Good thing.
+
+00:09:24:09 - 00:09:42:20
+不明
+So we know the cocktail on the left is a winner. And if you asked me, I would have said yes. I like the cocktail on the left. It kind of looks like an old fashioned kind of thing. You know, I like those. But unfortunately, marketers are not like bartenders. Bartenders find a winning combination. They put it on the menu, they serve it again and again and again.
+
+00:09:42:25 - 00:09:58:27
+不明
+Marketers, you can't do that. Content has to be fresh. You're constantly having to come up with new content. So now what do you do if I ask you to mix another drink? And all you know is, I like that cocktail, what about it was successful? Was it the underlying liquor? Was it the cherry? I do like a Luxardo cherry.
+
+00:09:58:31 - 00:10:22:09
+不明
+Anyone? Is the blood orange? You don't know. And then when you mix it with other ingredients, how is it going to react? How do you know how to make a successful cocktail? Well, obviously, if you served me a bunch of cocktails, you may not. You may start to notice, you know, trends over time. You'd find that I like both that margarita looking thing and the old fashioned looking thing.
+
+00:10:22:13 - 00:10:44:53
+不明
+You wouldn't have known that if you just ab tested it, but I like both. I also like that mojito looking thing. And so you might suspect, she might like citrus, but to really understand how I'm going to react to a new cocktail or what cocktail to make for me, you'd really have to keep track of many, many cocktails and carefully itemize all the ingredients in those cocktails and how I had responded to them.
+
+00:10:44:58 - 00:11:09:43
+不明
+Now, if you had done that, you could say with some level of confidence of like, yeah, most of the cocktails with whiskey in it, she likes she also likes some gin or tequila, depending on what they're mixed with. And so if you had a pretty good idea of that across not just the base liquor, but the fruit, the garnish, the glass, you would have a pretty good idea of how I'm going to respond to a new cocktail with any mixture of those things.
+
+00:11:09:48 - 00:11:36:15
+不明
+You'd also have a pretty good idea of how to mix a new cocktail, especially for me. So that's what content analytics does. So it's not a replacement for the AB test. You may still want to mix two new cocktails and test them against each other, but now you have a lot more information going into what you're creating and what you're testing, because it collects the ingredients across all of the experiences, all of the content on your site.
+
+00:11:36:19 - 00:12:00:45
+不明
+And because it's overlaid with that customer journey information. Now you have that sort of comprehensive view. You can start to correlate what are the elements of the content that are resonating with customers, not just resonating with customers. How do different customers respond to different content? And so this is one of the things that's really exciting to me. Historically, we have grouped customers based on things that we think makes them alike.
+
+00:12:00:50 - 00:12:26:21
+不明
+And from that we've tried to understand again, like what content is going to resonate with that group. But what if you could group people based on what they are, what they prove they're interacting with and resonating with? So think of a thinking of the other way around. So with these insights, you're going to be, again, in a much better place to optimize your content, to personalize your content and for any kind of real time activation.
+
+00:12:26:25 - 00:12:47:04
+不明
+So I get really jazzed about the attributes in the personalization concept, because this is a new granularity that we really have not had access to before, but content analytics has value on multiple levels besides that. So when I first started this content journey and talking to customers, one of the levels that I really overlooked was just where are the assets appearing?
+
+00:12:47:09 - 00:13:07:58
+不明
+Am I overusing or underused assets? Most of our customers are really flying blind when it comes to content, and so even just an inventory of where on my site did disappear is something that hasn't been available to them, because we're able to capture those accurate impressions. We can tell you what remaining page that image is still existing on the second.
+
+00:13:08:00 - 00:13:26:56
+不明
+And I think of this as kind of table stakes for any content analytics solution is just what is the engagement with this content? So what's the average click through rate for certain assets or even at the attribute level, certain attributes. And how can I tell if an experience is still effective. You know, maybe if you serve content, it's really effective in the beginning when it's still fresh.
+
+00:13:26:56 - 00:13:52:15
+不明
+But we know that content gets stale. How do you know when it's stale? The third level. This is where I start getting excited. And this year it's really magical to overlay that content granularity with your customer journey. Event data is really getting to not just what content lead to engagement, but what content led to conversion. So we've had a pretty good time so far of a of tracking like click through.
+
+00:13:52:26 - 00:14:12:27
+不明
+And you know, customer journey is down the way to conversion. But what happens when someone just sees an image. Maybe they don't click on it. Maybe there's no way of registering what the engagement was with that image. Well, now you can accurately capture that impression and you can attribute, having seen that image back to any other action that you're wanting the customer to take.
+
+00:14:12:31 - 00:14:39:26
+不明
+So this is really great. If your images are non clickable assets. It's also overlaying it with that customer journey data that's going to get you to the ROI. So if you're tracking revenue that comes through on your site, you're able to attribute that revenue back down to the individual asset level or the individual attribute level. And then of course, what I think is the most exciting, what I really want to see at use for more is this idea of personalization.
+
+00:14:39:27 - 00:14:57:14
+不明
+Again. Now with AI, we are in a much better position to actually personalize content for customers. So when we talk to customers, there's sort of two different paths that we see them taking in personalization. The first is hey, content is still really expensive to produce. I know I have to personalize, but please tell me, like where I absolutely have to personalize.
+
+00:14:57:23 - 00:15:17:08
+不明
+You know, if I test this piece of content with this market, in this market is it okay for both or do I have to make a tweak? And then you have the customers that are all in on personalization. But they still need to understand how like how are you supposed to personalize it. And so this helps them to understand what are really the opportunities for personalization within their content.
+
+00:15:17:13 - 00:15:35:57
+不明
+So for those of you who are already familiar with customer journey analytics, so this is something that already allows you to pull in all of your customer journey data at an event level. You may ask, okay, what is content analytics providing me on top of what customer journey analytics already provides? And so this is it in a nutshell.
+
+00:15:36:01 - 00:15:57:38
+不明
+You're going to get new metrics and dimensions. So like I said all of the counts of those things also, you know, all the clicks, all the impressions you're going to get, the experience ID, the asset ID, the perception entity. And as I mentioned, all of the different attribute categories and their dimension items, all there in the left trail for analysis and workspace.
+
+00:15:57:43 - 00:16:22:41
+不明
+Also you're going to get that automatic attribute association. So it is incredibly labor intensive to try and tag all of these assets yourself. This gives you a comprehensive, out-of-the-box way of tagging all of the content that appears in your, on your site. And I've mentioned before, and I'll double down on it. It's the accurate impressions. So we have customers that have been getting to impressions in different ways.
+
+00:16:22:46 - 00:16:54:40
+不明
+But typically this has to do with specifically tagging and implementing on, you know, a specific unit of code on their site. It usually has to do, like when it's loaded with the page. When we talk about asset impressions, we're talking about the image actually being viewable within the viewing window. So if you have rotating content, if you have rotating assets on your page, some kind of carousel, what it's actually doing is it's looking for new asset URLs showing up on the page, and it only counts as being viewed if it's 75% viewable within the viewing window.
+
+00:16:54:41 - 00:17:21:07
+不明
+So assets that are appearing below the fold, you know, for instance, on your product pages, maybe they're not even getting seen. And so this lets you have that actually accurate, impression count so that when you start attributing actions down, downstream back to those asset impressions, it's correct. And the last is that perceptual deduplication. So as I mentioned, we have customers that have the same asset appearing from different URLs.
+
+00:17:21:12 - 00:17:43:12
+不明
+All over the place. This helps you to bring that down to a single ID for that asset. This is the same asset in understanding it's performance and aggregate. One of the things that we're doing is looking at how we can expand that definition of perceptually the same. So right now it gets it if they're exactly the same. But what happens when it's just a little bit smaller lower resolution has been cropped a little bit.
+
+00:17:43:12 - 00:18:02:40
+不明
+Or maybe there's a little border around it. We're looking at how we can, expand this definition so I can capture all of these as it's basically the same asset. And so when you want to consider its performance, you want to consider its performance in aggregate. Okay. So I've talked a lot about what it can do for you and the art of the possible.
+
+00:18:02:45 - 00:18:26:01
+不明
+But let's get into a live demo. So let me preface this by saying this is a live project and this is live data. This is from our own Adobe store. So Adobe employees actually like shopping and buying things in the Adobe store. So say a little prayer to the demigods for me. If you all could say the prayer to the demo gods one more time, that would be great.
+
+00:18:26:05 - 00:18:43:28
+不明
+Okay, so this is a slightly tweaked version of the template that we're going to be providing to all content analytics users. And so I'm starting here with just experiences. And I'll be honest with you, the Adobe store was recently redone. So we're working with a pretty short window of data. And we see that there's a drop in click through rate.
+
+00:18:43:28 - 00:18:59:48
+不明
+The experience. So that's just going to give me an idea of the engagement on the site, a little bit of what to to look for. And that drop is not surprising to me. Having spent some time with the Adobe store, I could see that people are buying a lot of merch prior to summit, and in the last week, not so much.
+
+00:18:59:52 - 00:19:20:00
+不明
+So scrolling down, I have all of the experiences that have been viewed the most in the last week. I have them ordered by views. And I would typically expect that to be mostly our homepage. And I do see that here. We see several different instances of the homepage. And remember, an experience is how that homepage appeared in a certain way at a certain point in time.
+
+00:19:20:00 - 00:19:40:23
+不明
+So as we trade out content, as we trade out different, Adobe objects that we're promoting, you're going to get a different experience. And so if I wanted to see what, you know, version of that homepage I'm looking at, I can click the little info icon. And it pops up this little window. So I have a a bigger thumbnail.
+
+00:19:40:24 - 00:19:59:34
+不明
+It doesn't show me the whole page, just a little snapshot at the top. But that helps me to quickly visually understand. And what version of the page was this? I can also see how many impressions it's had of all time. I can see the first time that experience appeared, and the last time that experience appeared, and I can see how many assets were within that experience.
+
+00:19:59:34 - 00:20:17:50
+不明
+So I see that there's 18 here. If I go ahead and break it down, it's going to pop me out of that window and it's going to do the breakdown right in the table, so I can see all of the different assets that occurred in that experience. And so with that, I can start to understand how those different assets contributed to the success of the experience.
+
+00:20:17:51 - 00:20:44:12
+不明
+Here I have orders. I'm using a linear attribution model because it's workspace. You can obviously use whatever attribution model fits you the best. But I can see that. Curiously, this top image on our homepage is actually looks like it's contributing to a lot of orders. And all that means is that people see it. And for the number of times it's been seen, there's a lot of orders that have been attributed to it.
+
+00:20:44:16 - 00:21:06:43
+不明
+So that's a good way of looking at experiences. But I know what the Adobe store, we're actually rotating content like a lot. And the same product will appear multiple times, like all of the different pages. So it makes sense for me to scroll down and look at my assets. So here I have the assets actually sorted by the orders that are attributed to them.
+
+00:21:06:48 - 00:21:27:34
+不明
+And here again I see curiously, this first image on our homepage actually contributing a lot to orders. The second one, however, let's go ahead and zoom into that. So this is funky little fanny pack. It's getting viewed a lot. And while it's still contributing to a lot of orders, comparatively less that that first image on the homepage.
+
+00:21:27:39 - 00:21:54:04
+不明
+So this starts to give me an idea of what assets are actually really making a difference. Now what we see typically is particularly with this particular attribution model, the number of times that an asset has been seen, it tends to be correlated with, you know, a similar, number of order conversions, but there's always outliers. So one of the great things, because this is the workspace and all of these dimensions are available to use, you can actually start dropping them into visualizations.
+
+00:21:54:09 - 00:22:21:16
+不明
+So here I actually have a scatter plot where I've plotted the asset views on the y axis and the orders attributed to them on the x axis. And you can see there's a very strong correlation line, and that's what we would expect. But for the opportunity occurs for us as marketers is in those outliers. So here in this bottom quadrant I can see that there are assets that are not being viewed very much, but are associated with comparatively a lot more orders than most of the assets.
+
+00:22:21:21 - 00:22:40:21
+不明
+So I'm just going to pop open this little table here. And if I hover over this bottom asset in that quadrant, like, again, not that many views, but a lot of orders, I can see that it is that top asset on the home page. Again.
+
+00:22:40:26 - 00:23:00:38
+不明
+So let's talk a little bit more about the attributes because again, that's the exciting thing. That's the secret sauce. So I've talked about the different attribute categories foreground colors, background colors, background scene subjects, etc.. But one of the things that we've also done with content analytics is we've smooshed all those assets together. So we have one dimension for all of the asset attributes.
+
+00:23:00:43 - 00:23:26:12
+不明
+And so by plotting them here on what are the top converting asset attributes, I can start to see which of those attributes really matter. So maybe background colors don't really matter unless it's something offensive like lime green or orange. I don't know. So again this is limited data. So the insights from this are not awesome yet. I don't actually think like overall tone neutral is what's driving Adobe employees to purchase a lot of product.
+
+00:23:26:16 - 00:23:48:29
+不明
+But you can imagine how over time this is going to give me a really good idea of what does and doesn't matter. I've plotted what the percent changes over time and again, imagining that this is happening over a longer time frame. Thank you for redoing the Adobe store. If this were over a longer time frame, I could look at these different attributes and say if there is a big percent change, something was spiking.
+
+00:23:48:34 - 00:24:07:48
+不明
+I could look into that particular attribute and very quickly identify, is this a spike or if that line graph were ever to populate? There we go. Is this actually a trend? Is this something that I, as a marketer, can capitalize on?
+
+00:24:07:53 - 00:24:27:18
+不明
+So let me go ahead and show you something else that's kind of cool. So let me back out of here a little bit. If I were to look at just one attribute category, so say asset foreground colors, I can also very quickly identify, what's changing and what's popping. So again, orders are generally down. We're all coming here to summit.
+
+00:24:27:18 - 00:24:47:24
+不明
+Too late to order anything more. Not as many orders. But I do see that green is contributing to comparatively more orders just in the last week. And so this is different than the way everything else has moved. And so, again, because everything is available here in the left rail, what I can easily do is drop in the asset ID and I can see exactly.
+
+00:24:47:24 - 00:25:06:25
+不明
+Okay, you said green. Do you really mean green? What kind of green? What assets are contributing to that green? And I can see there's mostly this weird little palm tree and this ecosystem. But you see there's a problem here. If I expand this, you can see that it's collecting that palm tree and that eco sign a whole bunch of times.
+
+00:25:06:25 - 00:25:18:43
+不明
+And that's because on the Adobe store, just like many of your websites, it's actually for some reason, coming from a different URL. And so that's where I want to use the, perceptual I.D..
+
+00:25:18:48 - 00:25:48:56
+不明
+And so if I drop that in instead, it's going to take that from ten assets down to four. So we still have two of those little green eco signs. If you look really closely, they are very slightly different. But this has helped me to really reduce that information. And I can see, yes, it is still mostly this one green eco scene, eco sign, that's appended to a bunch of the Adobe products that for some reason, in the last week, Adobe employees are responding to more.
+
+00:25:49:01 - 00:26:09:27
+不明
+One more thing. Before I conclude the demo, I want to show you something that's really fun. And kind of interesting to do. So imagine I am optimizing the Adobe store for the different regions. We have Adobe employees all over the country, all over the world. If I look at asset foreground colors and I look at associated orders, I can sort it then by Adobe.
+
+00:26:09:27 - 00:26:32:40
+不明
+Employees that are in the, are in California, got a huge office in California or my home office in Utah, and I've just done a real quick percent change between those two just to kind of get a quick visual. You know, conditional formatting, what's popping, what's not. And I know that there's 75% less employees in the UTA office than, the California office.
+
+00:26:32:45 - 00:26:56:44
+不明
+So I'm using that as a baseline. But if I scroll down with this conditional formatting, I can very quickly see, like employees in the Utah office have been purchasing or purchasing after seeing assets that are all of assets that are dark green and less so after seeing assets that are mustard or assets that are brown. So you can imagine, again, I don't think that that's necessarily true because this is like a week's worth of data.
+
+00:26:56:49 - 00:27:18:48
+不明
+But you can imagine how over time I could see some real trends in what are the preferences between different offices, different locations. And so if I wanted to optimize the Adobe employee store for the different offices, I could actually pick and choose what products I'm showing based on those preferences. So here we go. And so for that, I actually want to turn it over to Abhinav.
+
+00:27:18:48 - 00:27:45:19
+不明
+So he's been working with us in the early days of content analytics production. And, he's been an awesome beta tester. And so he's gotten a little bit of a preview of what content analytics can do for Verizon. And his insights are way cooler. Thanks, Jennifer, to show us the power of content analytics. Yes. So as Jennifer was saying, we at Verizon started, getting into the beta for content analytics.
+
+00:27:45:19 - 00:28:05:58
+不明
+When Robbie mentioned Jennifer mentioned that this is something is coming. We jumped on it. We were very happy and excited to see what we can do with content analytics. And that's what I'm going to share here. Yeah. So before content detects how things have been working historically, it's not like we are not capturing content or not tracking content.
+
+00:28:05:58 - 00:28:37:15
+不明
+We are. But because you can understand how many images assets show on the site, right. We have to go and tag them or track them in in a particular way. Again, if one image is showing on the site at one place, there are carousels. We are we are, updating our let's let's stick to home page here. So home page is updated at least once a week, maybe more, depending on new product launches, depending on your offer launches.
+
+00:28:37:15 - 00:28:58:57
+不明
+Right. So, we, we update Carousal on one image showing in one place of a carousel, the same image showing at a third place at a carousel, after after a week, it it constitutes two rows. Because we capture locations, positions, we capture the name of the image, we capture everything, all the impressions for an image. We put it into a list where it shows up into its own row items.
+
+00:28:58:58 - 00:29:22:51
+不明
+Yeah, that's how it has been working. Now, you can't do it for each and everything on the site. We can understand that, how big it is going to be. So we we do it most of the marketing landing pages and the home page and, we and then it comes to reporting, right when we have tracked it all, we have to build reports on it, which again is another complex us because you see on there this is the all the data is redacted.
+
+00:29:22:51 - 00:29:45:25
+不明
+But if you see the blue ones are all segments. Yeah. So so the analysts have to build segments based on locations based on positions based on the names of, of, of the asset they want to report on. Right. The mark is the hero app that knows everything and in accordance with the metrics. Right. So how the mark is performing today versus the market, which has changed, two days later, how is it performing?
+
+00:29:45:25 - 00:30:09:41
+不明
+We put them side by side here. So this is how it is working today. Labor intensive, both in terms of implementation and reports. Impression clicks. We can do it, but not the best way, how it should be done, how, content and tricks can do for us. Okay. Moving on. So what contractors can do for us now?
+
+00:30:09:41 - 00:30:32:46
+不明
+Yeah. So, first it gets visibility for everything, all the assets. Right? I mentioned we do it, but we can't do it for all. Yeah. Content analytics and do it for all because we do not have to go and put everything, as a tagging. We it's implementation is easy. Jennifer showed, we picked the assets.
+
+00:30:32:51 - 00:30:56:47
+不明
+We put it into a P, we build a schema, push it into K. Yeah, as simple as that. Moving on. Accurate impressions. Right. So, currently, when the page loads all the tiles, images, whatever, you call it today, they load above the fold. Below the fold does not matter as the page is loading.
+
+00:30:56:47 - 00:31:18:41
+不明
+We are capturing all of that. Yeah. Content analytics as per the definition, if you measure 75% and, above on the page document, it's going to track it. So your impression will only increase for that image if we're just coming on the screen. Not every time it's loading. On the page. Yeah. Next one asset groupings. Yeah.
+
+00:31:18:41 - 00:31:37:39
+不明
+So, Jennifer showed in the great demo that, you, you don't have a different line item for all these assets which are very similar. They can they can be grouped together, same as showing on the home page, showing somewhere in the body to somewhere else on site. Can be grouped together. Drop it down your page name on it.
+
+00:31:37:44 - 00:32:04:22
+不明
+Break it by page name. You will see how that asset is performing on the home page versus maybe on the product page itself. Yeah. Okay. This one is again, I love, you just saw on the demo that you can see the image actually on the content analytics here. So imagine it this way. You build a report today that says your market is performing x, y, z.
+
+00:32:04:27 - 00:32:23:20
+不明
+Your image on level two, position one is performing great. But then how do you know what that image is? You go on to the site, you look at what is that image, and then you make that connection. Yeah. And imagine your remote, analyst report is going to then execute it. Yeah. So you tell them that our hero image.
+
+00:32:23:20 - 00:32:42:12
+不明
+Yes. Last week was performing way better than our hero day. They don't have a clue. What was the last week's, you know, image, today's hero image. But when you have it on the on your report on the workspace, click on it. You will see you can expand the thumbnail. You will see all the thumbnails of the images showing on your report.
+
+00:32:42:12 - 00:33:06:46
+不明
+Yeah. So great way to say it. Great way to analyze it right then and there to make the connection that what this image is performing better than this image. Yeah. Yeah. What did I miss? Yeah. Let's let's move on. So that's that's where we are here we have these images, you see, similar images on the left on the light.
+
+00:33:06:55 - 00:33:36:34
+不明
+Right. We are showing some phones. One in red, one is yellow. The what team did, working on content analytics beta. They put some images out there on the homepage. We came out of very, straightforward, realization with our insights that, yellow is performing better than red. Yeah, we do not know why, but the images, the the data is showing, it another one which we saw is a trend.
+
+00:33:36:39 - 00:34:02:17
+不明
+We expect, being a phone company, we always expected assets, showing for phones. We have way more, we we we, build the report for the assets. Obviously, phone showed up, showed up when? Then we built a report for for the convergence. For the assets. Phones were up. We we, put them in an ascending order for the conversion rate.
+
+00:34:02:22 - 00:34:30:06
+不明
+Suddenly, watches popped off. Yeah. And it's not content analytics, but visually, you can see that all the top images for the conversion, showing less, converting more were watches. Yeah. This can be used in, in, optimizing the site again. Yeah. Another one. Right. Color images converting better as compared to something like a black or a gray or a neutral color.
+
+00:34:30:10 - 00:34:53:33
+不明
+So we have multiple inside multiple examples out there which this can be used not just color. It can be a tone. It can be whatever by channels, by devices. You can see, as Jennifer was mentioning, it is a part of your J. So you can drop your devices there. You can see what colors work on mobile phone versus what color works on desktop mode.
+
+00:34:53:38 - 00:35:19:03
+不明
+Yeah. Another great, development. What I am waiting for again. And the vision that. What channel? What images. What better. Yeah. Same image, working on an email versus on a banner adversary on the site. Yep. So where where where where we are going from here, right. The future. We all are hearing about content in this summit, keynote.
+
+00:35:19:08 - 00:35:38:28
+不明
+What is that, another tool we have Jen studio. Yeah. And, yeah, the density gen studio. We are everywhere. We are pumping out content. I is pumping out content. There will be millions and millions of content out there. Which we can't track. Yeah. And, you have seen this image, plan what you have to do.
+
+00:35:38:31 - 00:35:56:36
+不明
+Create. Deliver what? How to report it. Yeah. There is no point of creating and delivering, without tracking on it. That's the content analytics in. Yeah, yeah. The more and more you deliver, the more and more images you bump out. You go on the screen, you personalize, the more tracking you need it you have, the more reports you need it.
+
+00:35:56:36 - 00:36:14:34
+不明
+What images working better are we creating? More and more images just for the sake of it. Are we creating? Because I can do it. Are there images outlying out there which which is not converting, which is not generating any clicks? Yeah. So these kind of metrics inside you, we need to be generating in some time very near future.
+
+00:36:14:49 - 00:36:30:07
+不明
+And that's where the content analytics which is going to start helping us hopefully. Yeah. So Jennifer, do you want to take some example use cases for me. Yeah. Thank you. Thank you so much. Sure.
+
+00:36:30:12 - 00:36:53:10
+不明
+Again, huge, huge thanks to Abby for working with us. It was so cool to see this work on Verizon data. And some of those insights were super unexpected. You know, like, I just I could not have predicted things like, oh, like and saw the watches showing up as performing really well across all the pages. And because of the visual nature of the UI, like it was just super, super obvious.
+
+00:36:53:15 - 00:37:22:48
+不明
+Just real quick, other examples that we're hearing from some of the customers that we're working with, just use cases again, evaluating assets that are being overused, underused, understanding if content is getting stale. Both from an attribute perspective and from, an asset perspective. You know, being able to understand like how the location, how the context of where that asset is placed, impacts its performance.
+
+00:37:22:48 - 00:37:52:57
+不明
+So again, you can see the performance in aggregate, but we all know the context matters. And so being able to break it down by that context is super helpful. Being able to verify which creative attributes across all the images are seeing the most engagement, easily identifying the ROI for your content. So again, we were working with another customer who was actually tracking their revenue, and they were like, wow, being able to attribute an actual like dollar sign amount back to individual assets, like that's everything.
+
+00:37:53:02 - 00:38:13:17
+不明
+And also being able to remove creative that has symptoms of content fatigue or that you need to get off your site for other reasons like that, you can actually figure out where they are. Well, they are having a party. Oh. Taking notes. So I mean, whoever you are, whatever industry you're in, like content is going to matter.
+
+00:38:13:17 - 00:38:32:33
+不明
+We know this, right? And so my my hope and my vision is that now, by understanding what it is about content that actually matters and is driving those actions you want your customers to take, you're going to be able to use content so much better, so much smarter is not going to be a guessing game anymore. You're going to be able to really engage your customers.
+
+00:38:32:38 - 00:38:52:12
+不明
+So I'm super excited to announce that this is going to be released for general availability next week. I and a huge team at Adobe has been working very, very hard on this. So we are very excited. And just like we had some really unexpected insights, at Verizon, I'm really excited to see like how this is used with other customers.
+
+00:38:52:17 - 00:39:11:17
+不明
+So this is going to be super cool. With that, I'm going to open it up for questions. But but as I'm answering questions, please go into your Adobe Summit app. Please rank the session. You win Starbucks gift cards. You can also potentially win a pair of those headphones. I wear them all the time. I live in them.
+
+00:39:11:22 - 00:39:28:05
+不明
+They're worth it if you haven't used them so please rate the session. And with that, I'll open it up to questions. Thank you so much for joining me. I know it sucks to sit in a presentation after lunch. So thank you.
+
+00:39:28:10 - 00:39:32:27
+不明
+Thank you, thank you. You.
+

@@ -1,0 +1,432 @@
+00:00:00:27 - 00:00:30:27
+不明
+So. Hi, everybody. We're going to start, momentarily. So thank you for being here today. Welcome to the, the session driving retail innovation with, Adobe Edge delivery service. My name is Gabriel. I am the head of strategy, Advantech. The, innovation company. We support and enable our client through digital transformation. From multiple, verticals from retail CPG manufacturer, automotive.
+
+00:00:30:32 - 00:00:52:26
+不明
+And today we're going to talk about fountain tires and their, digital transformation and their journey. Before we go further, let's, present and introduce the panel. We are with us today. Ladies first, if. Stephanie, do you want to present yourself? Stephanie. Priscilla, director of brand and customer experience at Fountain Tire and Digital Transformation falls under, my team.
+
+00:00:52:26 - 00:01:15:56
+不明
+And we've been working on all things from web to internal. And we'll get into it more. But, everything from brand to digital to customer experience. That's amazing. And hi everyone. I'm Chris, Rob and some of the VP of technology advertised for the Americas. So I oversee how we work with our experience and commerce technologies. With Adobe being a key part of that portfolio.
+
+00:01:16:01 - 00:01:43:04
+不明
+So now that you all know us, let's dive right in, guys. So, Stephanie, can you explain us? What are the business drivers that led her to pursue this digital transformation? Before we dive into the tech. What were the different business drivers that, that encourage you guys to do it? The reason for digital transformation is we're currently under an ERP transformation as well, which is going to enable us to just go further, farther.
+
+00:01:43:04 - 00:02:08:13
+不明
+But we needed the other tools that we're going to end to integrate and work with it to be just as on the front end, enable us to do more. So we run systems, we had multiple systems, we had antiquated systems. We had a lot of technical debt in the back end. We knew from both statistics and customer reviews and whatnot, we were losing a lot of customers over the top of the funnel.
+
+00:02:08:18 - 00:02:29:24
+不明
+We were not delivering the experience that they would like, and we were losing opportunities both on the retail and the commercial side. So we needed to replatform we needed to replatform starting with the home and then what are all the different things that we need to add on to it? So, we started with the home first, which was the websites we have for websites.
+
+00:02:29:29 - 00:02:51:10
+不明
+Wow. And if, I understand well, the business drivers and all this applies to the transformation, I like to often take those and bring to key challenges that are associated with those drivers. So do you have any challenges that made the cut or did top priority that, encourage you guys to invest and make this digital transformation cost, cost to customers, the big ones?
+
+00:02:51:10 - 00:03:16:25
+不明
+So we had a lot of external agencies that were very we were hands off and that we didn't have access. We didn't have, an understanding of what the sites could and couldn't do. So it was very high level in terms of our direction and our ability to be able to update and maintain and transform those websites. So it was very costly is a very long time to go to market.
+
+00:03:16:30 - 00:03:38:40
+不明
+We were very strapped with not being able to do things from both a technical level and a skill set level. So content, was a big one in that we were very limited in what we can do in content, and it was also very layered and time intensive to be able to update it. So cost, time, access, technical debt.
+
+00:03:38:45 - 00:04:04:22
+不明
+That's very interesting. And I think it speaks to a lot of people in the room and at this summit. Question for you, Chris. So how did Volvic align with Fountain Tire in terms of vision and strategy and technology to answer those challenges? Yeah, so we had a long series of discussions with Fountain Tie leading up to to kicking off the project and going through our discovery process about the vision and the goals of of the program and what we're going through that, discovery process.
+
+00:04:04:22 - 00:04:27:16
+不明
+We we realized that they needed a, to to match their growth objectives. They needed a solution, that was going to give them a second to none, business experience, to business agility, matched with that technical agility, to, to deliver these goals. And that was going to power that second to non customer experience that we wanted to to to give to their customers.
+
+00:04:27:21 - 00:04:53:31
+不明
+So arrival took our discovery process. Really works to marry the business and technical stakeholders. Throughout a series of really targeted workshops. So we want to make sure that we're covering all aspects of that program, and that all sides are well represented, in the requirements gathering and then into the solution design phase. So the franchise program really features more than just a one and done project, right?
+
+00:04:53:31 - 00:05:19:52
+不明
+This is a multi-year, enterprise transformation project. So together we're we're bringing that multi-year program with plans to roll out multiple experiences targeting different areas of the business through commercial retail and covering that B2C and B2B element of the of the business. So given this, we felt that, you know, building on a headless front end with that composable architecture was really the right fit to set that up early in the transformation.
+
+00:05:19:57 - 00:05:44:53
+不明
+To give them that sort of flexibility, that agility, and to deliver on the business and technical requirements that they were looking at. So with the timing, the release of edge delivery services, it really made the stars align on how we were solution and setting up this project for for long term success. The other advantage we have with edge delivery services is not just the timing, not just the solution itself, is the simplicity of the solution.
+
+00:05:44:58 - 00:06:14:22
+不明
+And given, you know, cost was a key element here in upfront cost of the solution, but also the long term total cost of ownership, through edge delivery services with the improved developer experience. So developers are up and running faster with this technology, we're able to iterate, able to release, updates to to that experience independent of, the backhand systems, in addition to improved content authoring workflows, which was key for our entire as well.
+
+00:06:14:27 - 00:06:34:16
+不明
+So were able to streamline those processes, we can cut down on the time to market for the initial build. We're up and running extremely quickly with this, initial phase. But then giving them the agility to, to release content faster, to push our campaigns faster, and build out those experiences that they're really pushing to their customers.
+
+00:06:34:21 - 00:07:03:52
+不明
+That's very interesting. And I think it encompasses the why before we touch the how, it's the why, of Duty's transformation and how Volvic supported that quick question, Chris, that's off script, but I think it's important to to mention here this portion of building the technology roadmap and discovery process. We found the entire what was the timeline of the time span for that period before we touched the how and the build to gather all the information you just mentioned, what was the time span to to get to that with some time leading up to the initial.
+
+00:07:03:52 - 00:07:23:13
+不明
+So it was a long discussion we'd have with found time on this program. I think the initial period was something like 12 months just to get that project established and kicked off. But then once we got into our discovery process, it's a pretty streamlined process. It's something around the eight week period, we go through all those individual targeted workshops, bringing those stakeholders into the room.
+
+00:07:23:18 - 00:07:41:13
+不明
+And it's really quite, quite nimble getting through that agile process and into the delivery phase itself. That's amazing. And on your side, Steph, for those eight weeks, what kind of stakeholders that you have to gather, within funding in order to, bring that project to life and get all the whys, put together for the project?
+
+00:07:41:18 - 00:08:04:34
+不明
+Definitely the business stakeholders. So, the first one that we were working on was our commercial website for all of our commercial locations across Canada. And so we brought in sales, we brought in operations, we brought in it security, we brought in information architecture, the marketing team, some legal and all of that. But really the main stakeholders were those that were going to be able to use it as a sales tool.
+
+00:08:04:39 - 00:08:20:36
+不明
+I didn't mention in one of the business drivers before was for one of the first, projects we had out of the gate. Our front end sales team were actually their words were we're embarrassed by the old website, and they're like, I won't use it. I'm not going to talk about it. It doesn't put us in a good light.
+
+00:08:20:36 - 00:08:43:00
+不明
+It's old. It has wrong information. And so we knew that to have them at the forefront of the stakeholder engagement, we needed to build something that they would be proud of because it was going to be their tool in front of their customers. So they were almost customer one. So they were an important part of it. And then we had the, the IT marketing, implementation and stuff like that.
+
+00:08:43:04 - 00:09:00:06
+不明
+I find it very interesting that in order to, to summarize the why, to start a project like this in a transformation like this, you brought in the end user as well as the business, and they brought the strategy, but also the technical side to bring all this together. And within eight weeks that was that was figure it out.
+
+00:09:00:10 - 00:09:29:53
+不明
+So now let's start to dive into the orchestration and how to build this and to not, you know, see what we use. I think the title of this session will say that as delivery service was selected. But let's dive into the why and the purpose and how as delivery service enable this transformation. So I'll turn the question to you, Chris, is can you explain a little bit how Adobe Azure to be service, enable this transformation for Phantom Tire and maybe even what?
+
+00:09:29:58 - 00:09:50:46
+不明
+Well, robotic played with Adobe into bringing edge delivery service, to life in projects in North America. Yes. So the first phase of this project we worked on last year was really focusing on a really light brochure style website. It was non transactional to start with. It was bringing that catalog online, to build out just that sort of product discovery experience.
+
+00:09:50:51 - 00:10:24:14
+不明
+Providing product information, for their commercial partners. So getting up and running on delivery services is faster and easier than, you know, previous Adobe Commerce. Projects that we've worked on. We see that building out that front end is much more nimble for our development team to get up and running and really push that front end live, combined with edge delivery services, giving us that front end experience, giving us those content management capabilities, we're building those fully decoupled, APIs into the catalog service assessor service that are available from Adobe.
+
+00:10:24:14 - 00:10:49:12
+不明
+So we're powering that edge delivery service front end with the SAS APIs that live search capabilities to make sure their product discovery is really strong there. So that's bringing in live search that bringing that catalog services as a product recommendations APIs from Adobe. And with that, the entire catalog, the microsite that we built, that commercial side that we built has zero API calls into the Adobe Commerce back end.
+
+00:10:49:12 - 00:11:10:35
+不明
+So we're incredibly fast in that experience. We have subsecond, load times on that catalog experience. And we don't have to worry about scalability or stability issues because the entire experience has run from the edge, using those scalable SAS APIs. So we don't have any stability issues. So we're running the home page. We're running all of that blog content.
+
+00:11:10:35 - 00:11:31:30
+不明
+We're running our store locator, our product listing pages, our product detail pages. They're all powered by edge delivery services and those SAS APIs. So it's giving us really fantastic performance. Our home page, we're seeing a 100 and our white House was, and we're loading in. I think it's half a second point seven second to the speed index for these pages.
+
+00:11:31:35 - 00:11:59:03
+不明
+So with the need for greater, content velocity as well, and speeding up new experiences and having those campaigns in mind, Greg will deliver a microsite in addition to the, the commercial side there as well, on edge delivery services. So we leverage the same block library, we leverage the same code base, and we're able to spin up a new microsite, in a matter of weeks, instead of months that would have taken typically to sort of set up microsites and, and push them live.
+
+00:11:59:07 - 00:12:23:03
+不明
+And that's thanks to the DevOps pipeline that we had, the, the block library that we already had and the flexibility that found I have from a content management perspective, they're working SharePoint. They can push that content out themselves, much faster than ever before. The independence of content management was something that was important. It is something that relied on partners, before previously to help them push out that content.
+
+00:12:23:04 - 00:12:44:29
+不明
+It was a challenge. So now we're enabling that entire team to be more agile, be more nimble, independent in the content management and curation of, that overall experience. So with that in mind, we're seeing excellent performance across this site. And as we know, performance is key. From a commerce experience, we know that speed performance has a direct correlation to key side metrics.
+
+00:12:44:29 - 00:13:14:08
+不明
+Things like average order value, conversion rate, bounce rate, and overall customer satisfaction with our site. So research from Google, from Cloudflare, from consultancy as well. They've shown that there's that direct relationship there. If your site is loading in around five seconds, your bounce rate will be 35%. Something in that area. Right? As soon as we drop that, page load time down to one second, our bounce rate drops to about 7%.
+
+00:13:14:13 - 00:13:41:00
+不明
+So it's a massive change in just dropping a few seconds off that, every second count, every millisecond counts. When we're delivering our commerce experiences and edge, delivery services from Adobe is how we're sort of tackling those challenges for the customers. I think it's very interesting because we all been part of multiple conferences and keynote during the summit, and we hear our, content or customer experience orchestration is at the center of everything in Adobe.
+
+00:13:41:00 - 00:14:00:25
+不明
+But I like what you're bringing here is this starts with the technical foundation, and you start with metrics and performance metrics that are the key to provide this experience to, to the customer. Right. So I think it's very interesting to tie the these performance metrics and how they changed the experience for the customers, but also I think for funding as well.
+
+00:14:00:37 - 00:14:25:12
+不明
+So I'd like to know from you, Stephanie, this transformation is choice to go with Azure to be service. What benefits did you see within the entire and the organization out of it? On the technical side? Yeah, we it's fast. It's incredibly fast. We went from like red circles of under 30 lighthouse scores to green 100 circles, like in the matter of the day that we launched it.
+
+00:14:25:17 - 00:14:50:46
+不明
+So definitely, our technical performance, our SEO performance and our accessibility for sure. Also, I would say the biggest thing for our team is to be able to have a fast, well laid out, informative, great content website so that our sales team can be proud to be able to use it with customers. But then as marketers, our ability and the trust in being able to update it is we can make changes fast.
+
+00:14:50:51 - 00:15:15:38
+不明
+We can work with our sales team. Can you develop this? Can you change this? We can not do that ourselves. And that was part of our business case, as we wanted to bring it more internally and be less reliant on agencies to be able to manage the website at the speed that our business partners needed us to. Looking at how because we run it off of SharePoint with, democratized authorization in word documents, which blows my mind still to this day.
+
+00:15:15:43 - 00:15:30:22
+不明
+To be able to show our stakeholders, like, sit with them in a meeting and go, okay, I know you want this and you want this, and to be able to update it and show them and publish it right there in a meeting. Like our stakeholders now have trust in us that they never had before. They have new ideas.
+
+00:15:30:23 - 00:15:49:37
+不明
+They're coming forward. Can we do this? Can we do that and stuff like that? So we've gained a lot of credibility within our teams. We have delivered more information and education as per our content strategy to our end customers. We've been able to, show through, analytics and whatnot that we're driving more traffic to our stores.
+
+00:15:49:42 - 00:16:09:28
+不明
+We have 167 stores across Canada, and we have been able to say, like, we drove these, phone calls, these emails, these clicks for directions to show them, like, this is what this website is doing to drive traffic through your doors. So we didn't have those things before. So we went from a site that they were embarrassed about and wouldn't talk about to.
+
+00:16:09:28 - 00:16:36:33
+不明
+Now they're giving us ideas. We can measure how it's impacting their business, and they're just part of the team now to make sure that we're consistently updating and, delivering on new experiences. That's very interesting. And I like that when you have conferences like this, you hear the technical side, you hear the business side, you hear the the value and the benefits and all impacted different, sections or segments of the business and even your executives and your stakeholders that are not proud of what they're doing.
+
+00:16:36:37 - 00:17:01:58
+不明
+But I like to put, our customers and our teams on the spot a little bit. We talked about the eight week for, the why and the discovery, and gathering those requirements was a time to market, to, to deploy the solution from discovery to deploy. Yeah. We were less than six months, I believe. And did that include I think I was eight weeks at discovery and then the rest was, four months to delivering when we launched it.
+
+00:17:02:13 - 00:17:16:00
+不明
+Do you want to add something to this? No, it was a 3 to 4 month mark to get live discovery, which is, I think, one of the fastest Adobe commerce sites we have got up and running. That's from a ground up build from the commerce back end to the front end. Everything was brand new. And yeah, I've been 3 to 4 months.
+
+00:17:16:04 - 00:17:37:22
+不明
+I had one thing to add is that in in the whole process, both, discovery and then also what we've gained from it is including it as a stakeholder and informing them of what the technical solution was and what it was going to deliver. The other thing we gained was a lot of confidence in our from our team and what we were going to build and deliver on because we were in that.
+
+00:17:37:22 - 00:17:54:51
+不明
+We are still just about done, in the middle of an ERP project. There was a lot of don't touch, we're busy, we can't get involved in this. So we only included them in what they needed to, but they had confidence in what the technical solution was. They had confidence in what it was going to do and how we were going to manage it.
+
+00:17:54:55 - 00:18:15:30
+不明
+And we've gone from having, change advisory boards for a button. We'd have to go through like a week long process to change a button previously to now they're like, you're fine because it's decoupled. They're confident in the security. There's a confident, confident in the code. That is a huge part that we've gained internally to go to market.
+
+00:18:15:30 - 00:18:37:32
+不明
+And just that relationship we have with it. That's interesting that you bring it and those parallels with other projects like ERP and everything that's going on it, it's going to bring me like if we do the math together, like we talked about that eight weeks to four months, about six months. We're here today talking about it. So if we start tracking back and even there's a sales cycles and a decision process of choosing the technology.
+
+00:18:37:37 - 00:19:02:55
+不明
+So that brings us back to early 2024. So I'm going to turn the question to you, Chris, is as delivery service early 2020 for brand new technology on the market, your RV technology for all the e-commerce and digital experience in the Americas, what got you guys to select to be service as a solution, and what was the reasoning behind it?
+
+00:19:03:00 - 00:19:25:41
+不明
+Timing. It was really the timing was perfect for where we were at with the stage of this project. It was summer last year. We were just wrapping up our discovery and the big announcement of of age was there. So, you know, as consultants, as engineers as well, tech, we want to make sure that we're putting forward the right solution for our customers, not just for the short term, not an interim solution, but setting up for long term success.
+
+00:19:25:46 - 00:19:46:49
+不明
+And because this is a multi-year transformation project, we wanted to make sure we're establishing that solid foundation on which we're building everything, not having to go down and refactoring 12 months or 24 months or something like that. So legacy development, concepts with Adobe Commerce, where legacy. Right. We didn't want to be approaching that anymore, that monolithic style, development.
+
+00:19:46:49 - 00:20:07:48
+不明
+Right. We didn't want to put that in place. So we wanted to give them the agility again. But also from like a growth, cost and growth perspective, edge really won out across the board. So we developed an ROI calculator as well, which helps to go through and identify the uptick in conversion in order value in organic traffic as a result of performance.
+
+00:20:07:48 - 00:20:27:54
+不明
+And that's one of the key sort of areas of edge delivery is delivering that performance. So we can predict and we can show what the benefits are going to get of implementing a technology in that. And while you said it, it was new at summit. It was it had actually been around for about a year, before summit, but more in a simple kind of approach.
+
+00:20:27:54 - 00:20:49:01
+不明
+It wasn't as widely adopted, but somewhat less. You really put edge delivery services in front of everybody with the integration to and with universal, it. It really brought it to the forefront and a really sort of established edge delivery services as a key element of Adobe's unified content and commerce roadmap. Right. So it wasn't a temporary solution.
+
+00:20:49:01 - 00:21:12:20
+不明
+It was really foundational to how Adobe was evolving their, content and commerce, experiences. So we'd been working, for a few months on developing our expertise around delivery services. We'd build out our acceleration. We enabled and trained up our developers prior to summit. So we felt that we're in a really good position to make sure that we were skilled to be able to execute on a project.
+
+00:21:12:25 - 00:21:33:05
+不明
+We don't want to go and recommend a technology that we don't know how to work with. Right? We want to make sure that our developers, our solutions accountants, know what they're talking about, to be able to deliver that. So we'd gone through the process of R&D leading up to summit and, we had really good discussion with that entire summit last year around the adoption of this, and we demoed the solution to them, walk them through the process.
+
+00:21:33:05 - 00:21:57:32
+不明
+How do I manage content? What do I get from that? And analyzing some of those pros and cons. Part of the project was working with Adobe as well, to make sure that this solution was up to date. It was still in development, especially with the drop ins, which powers and product listing page, product detail page. So we're closely aligned with the Adobe product team to make sure that it is structured in a way and set up that we can actually deliver for our entire.
+
+00:21:57:32 - 00:22:16:43
+不明
+So that was a really good, relationship we had there. But we could also see that the evolution of Adobe Commerce was really moving in this direction. Right? They had a renewed focus on, Adobe Commerce. So moving to this edge, we really made a lot of sense at the time. Overall, there's been a shift to composable architectures across the board.
+
+00:22:16:44 - 00:22:35:53
+不明
+We see multiple technologies adopting this kind of concepts, and Adobe has really revolutionized their platforms to make sure that they're fitting in with this sort of modern approach to delivering content and commerce, which is great. So we have App Builder, we have the sass API, as we have all these new things that are available in this headless storefront.
+
+00:22:35:58 - 00:23:00:36
+不明
+We could see that Adobe's moving forward towards this sort of sass approach, to how we're delivering out of process extensibility, moving code out of that core, platform as well. And with this decision that we made 12 months ago to adopt edge delivery services, go that decoupled front end, we're now really well positioned to move into the next phase of this project, and start to adopt cloud.
+
+00:23:00:41 - 00:23:24:27
+不明
+Right. This new product that you saw announced this week, we've already been looking into this and planning a future phase to move across, to this, cloud service technology. The great thing here is the front end is completely reusable. So we've set up the project because of this decision we made 12 months ago with set this project up for long term success to be able to take on and adopt these, revolutionary, technology changes from Adobe.
+
+00:23:24:32 - 00:23:43:00
+不明
+We can leverage App builder, to handle our integrations. We didn't do a lot of PHP code development, in this initial phase as well. So we don't have to go and refactor the back end. The entire front end is used, across this new, sass platform as well. So that was really important to establish that long term success.
+
+00:23:43:04 - 00:24:03:18
+不明
+That's amazing. I'm, I'm throwing you off script and asking you a little follow up question, because I find it very, very interesting is that was 12 months ago. Now we're there. We talked about the importance of performance score. We saw what edge did. And, let's be honest, you have a very agnostic approach because you cover multiple with tried multiple verticals, multiple technologies.
+
+00:24:03:23 - 00:24:19:14
+不明
+On a strategic standpoint, in my role, I have a lot of conversation with our clients and multiple people in the industry about the future proofing of technology. Do you feel that edge to be service fair in terms of future proofing a year in right now? And, do you still think today that it's still the right choice?
+
+00:24:19:19 - 00:24:46:10
+不明
+100%? I'm a massive proponent of edge delivery services. I'm taking it to multiple customers. I've had conversations about adopting edge delivery services, not just with Adobe Commerce or Experience Manager, but across other competing commerce platforms. Right to improve the content workflows that customers are saying with edge to improve that front end performance as well. We see with the release of Commerce Optimizer, Adobe are thinking exactly the same thing.
+
+00:24:46:10 - 00:25:07:06
+不明
+Right edge is so powerful that it shouldn't be exclusive to just, you know, the Adobe commerce. But Ernie Commerce platform should be able to adopt this technology and we're really seeing benefits of it. That's very interesting. Thank you guys for opening like this to, to the strategic transformation into the tech part and the success of the benefits you saw in the business.
+
+00:25:07:06 - 00:25:28:39
+不明
+So we covered the why, we covered the how. I like in conferences like this. And maybe different than others that, that you've seen. I'd like to, to strip the, the facade and maybe go into the strategic partnership and open the good, the bad and the ugly that we learn from sometimes because I didn't know they transformation like this.
+
+00:25:28:44 - 00:25:51:34
+不明
+They're successful because of the partnership that you foster in a you you do with your client or with your vendors. Right. With your partners. So I think that should be the, the next section. And, for you, Stephanie, the question I have is what made Volvic, the partner that you decided to go with? And how different was it with other vendors that you might have had in the past?
+
+00:25:51:34 - 00:26:16:54
+不明
+And I know you've been in the digital transformation. Sphere for a long time. And maybe, how was it different than others and what made it successful? A lot of questions. Yeah. I'll start with, who we are, because that as a as the front end of it. Because that explains a lot. So our who we are is, tire and automotive service, but we also we are 50, 50 partners with those 167 local stores.
+
+00:26:16:58 - 00:26:39:52
+不明
+And so partnership really is a foundational hub, key word for us. We are partners together as associates, partners with our stores. We are partners financially with Goodyear. We are also partners, with the vendors that we we do business with. So partnership is important. We have to have shared values. We have to have a common vision. And we have to work well together.
+
+00:26:39:57 - 00:27:02:51
+不明
+Having fun is one part of our, our, characteristics. So we like to have a little fun with our partners as well. So when we were going through the business process, some of it had been done before I joined Fountain Tire because I came from another organization. When we were sitting down between the Adobe platform with Val Tech versus another competing platform with a different integrator going through it.
+
+00:27:02:56 - 00:27:22:54
+不明
+There's obviously capabilities approach. What does the, integration or the development process look like? How involved are you? What do you do if you need to make changes and stuff like that? So we needed to make sure that that fit felt okay, because sometimes it's hands off and you don't have much control. And then sometimes you're in the weeds.
+
+00:27:22:58 - 00:27:47:35
+不明
+So it also needed to be right for our small but mighty team. It also needed to be, flexible and approach. So when we were going through discovery, we decided to adopt a crawl, walk, run approach, which was what we sort of brought to the table through the process. We appreciated, the strategic consultancy coming back and more asking questions.
+
+00:27:47:40 - 00:28:06:46
+不明
+I've talked to a couple people and we were talking earlier. Is, as a client, you never want to feel like you're sold to like that. Just it just always just makes my my skin crawl is I don't want to feel sold to. I want to feel that I've been given a choice, informed, given options and what would be best and stuff like that.
+
+00:28:06:46 - 00:28:28:08
+不明
+And so we, we needed to have a vendor that made us feel like that, that listened and gave us choices. And then it was still our decision. Cost and approach and flexibility definitely cost as well. But through the process, one of the things that working with Val Tech stood out was I'd never had a vendor ask, so many times, did we hear you correctly?
+
+00:28:28:08 - 00:28:50:40
+不明
+We heard you say this. This is what I like. Did we get all of your questions? Can we answer any more questions? And that was multiple steps throughout both the RFP, RFP phase, discovery phase, and even implementing phase. So I can't think that there was very many points where I didn't feel that the team you're working with didn't understand exactly what we were going after and what was going on.
+
+00:28:50:45 - 00:29:21:32
+不明
+So that's huge to a partnership. And then we were on time and we followed the, the timelines, we were on budget and stuff like that. And that builds trust with an organization. Because this is a multi year multi website, multi customer experience, project, it gained a lot of trust internally with Fountain Tire, with both our executive, our IT department, our internal stakeholders and whatnot, that what we were doing was really going to help them deliver.
+
+00:29:21:32 - 00:29:42:50
+不明
+And we were all going to get, what we were seeking out of it. So that partnership has been instrumental, but it also it's who we are. Like it's that's partnership is a big part of that entire. Very interesting thank you for for saying this. And I think that at the end of the day, we have to understand that when a vendor's goes in to help like this delivery is our currency, right?
+
+00:29:42:50 - 00:30:09:38
+不明
+It's how we deliver and it's how in time on budget and all that. But the reality is it's it's you, Chris and your team that has to make sure that this happens in terms of technology and implementation and discovery. So the question I have for you is how did you make sure we hear all these things? But how did you make sure that the technologies selected and the process were seamlessly integrating with their ecosystem, their needs?
+
+00:30:09:43 - 00:30:32:08
+不明
+You know, our transformation, it was ongoing at the same time. So how do you ensure that what you just mentioned happened? So when we started this project was really that like sort of brochure catalog style website that there wasn't a heavy reliance on downstream systems at the time. But we wanted to make sure that we were setting up for long term success in the decisions we were making in our solution design.
+
+00:30:32:13 - 00:30:50:56
+不明
+And even 12 months ago, we knew this day through 65 transitions was happening, that ERP transition was happening. So it was setting up the right sort of tooling, the right processes in place to make sure that we be able to integrate to that when it was ready to, to go live. So, the flexibility in the authoring options, right.
+
+00:30:50:56 - 00:31:17:52
+不明
+With edge delivery services, we have the ability to select how we want to develop our content, whether it's document based authoring through Google Drive or SharePoint or with, Avid Universal Editor, and Fountain Tie being a Microsoft organization, we're able to leverage, SharePoint. To set up that content authoring option. So simplifies a set up of, of that, that SharePoint repository, but also simplifies the onboarding of users into the authoring environment.
+
+00:31:17:52 - 00:31:41:12
+不明
+Right. They don't have to go in, understand and access a different environment. They're already set up with their Microsoft account. They're already in SharePoint. So you can easily just control access to who has, you know, right permissions on certain documents within that authoring environment. But now that we're embarking on that sort of second phase of the project, we're adding transactional elements to the site with B2C, B2B capabilities.
+
+00:31:41:16 - 00:32:11:37
+不明
+So now we have to consider, oh, now we have to implement, that integration down to do 365. And one of the advantages that we have with Adobe Commerce and App Builder is there is a integration starter kit available for D3 65 F5. No. So it gives us an acceleration into integrating to those systems. And that's one of the key things that we have with App Builder is that we have some pre-built, workflows and pre-built integrations that we can use as a starting point and then natively integrated to Adobe Commerce as well.
+
+00:32:11:42 - 00:32:32:02
+不明
+The great thing about using something like App Builder as well is that all of our custom development is done outside of the commerce platform, so we don't have to go in and modify any of that core code. We have to write PHP code and deploy that anymore. We write our integrations, we write our extensibility within that app builder environment, and that's available directly in today through 65.
+
+00:32:32:02 - 00:32:52:52
+不明
+Or we're able to expose additional entire services through the API mesh into the front end. So we have things like, tire and fitment APIs that are going to be available. We also have booking and appointments capabilities for a third party service. And we're able to handle the integration through the API, mesh and App Builder functionality that Adobe Commerce and Adobe gives us.
+
+00:32:52:57 - 00:33:14:44
+不明
+So we don't again, do that core customization that increases complexity on commerce platform, but also increases total cost of ownership with maintenance and upgrades and that kind of stuff. So switching to this composable architecture, we have these sort of microservice based integrations that give us more agility and maintenance of those and reduce our overall, total cost of ownership.
+
+00:33:14:49 - 00:33:43:27
+不明
+And again, because of this decision we made 12 months ago to go with edge, with future proofing the integration to these additional systems. Right. And for future proofing the move to something like a cloud service by not doing the development directly in that core technology anymore, using App Builder API management, I like that it also like you say, it helps to build upon something and build those blocks, I think over time, so you don't have to wait until everything is ready or perfect to start the project.
+
+00:33:43:31 - 00:34:07:03
+不明
+Which brings me to the, I want to piggyback on this. Steph is by doing this, and I know you mentioned earlier quickly that there was an ERP implementation that was ongoing. What got you guys to decide to not wait until all those third party features or doors, commerce features or e-comm features were were ready to be rolled out because of your technical ecosystem and modernization that you were doing.
+
+00:34:07:08 - 00:34:31:25
+不明
+What got you to decide to start right away with content and build upon it versus waiting and doing it all in one shot. The business couldn't wait. Like the business couldn't go two years without updating a commercial website. The business couldn't go without us getting ready to update our retail website. We would lose sales. We had further degradation of trust within within our business and with our, store partners and whatnot.
+
+00:34:31:30 - 00:34:48:52
+不明
+From a marketer and business decision, that part was easy because we would lose out to our competitors and we would just lose business, period. So when we were starting the, RFP and discovery process, it was like at a, at a table, we're like, well, why don't we just start with content first? We can get everything ready.
+
+00:34:48:52 - 00:35:11:40
+不明
+We don't have to have a lot of integration or reliance on it and all that, because they were very busy and they were like, we can't help with that. So let's start with the content first, which is mostly on the marketing team and our on our vendor side. And then we'll be more ready. We're about to launch our European six weeks, and that's going to enable us to be able to go further, further, because of all of the stuff that comes with it.
+
+00:35:11:45 - 00:35:33:24
+不明
+So now we've gotten all of that foundational work done and all of that laid out. Now we can start to build on it. And we're further, faster. So easy answer. We just couldn't wait. The business, would lose out. That's a good reason. That's a good reason. What would be the, what does the future hold for for the entire.
+
+00:35:33:29 - 00:35:56:33
+不明
+I know you're rolling out your ERP in six weeks. We have all those commerce and third party features building on this composable and decoupled environment. What does the future hold in terms of your roadmap with Adobe and your whole tech organization? Well, next up is our retail website. And so we're going to bring over the retail website with all of the, it has more, sticky, integrations that we need to put into it.
+
+00:35:56:38 - 00:36:23:16
+不明
+So the retail website, we're building up portals, so portals for both B2C and B2B, where customers can access information, where they can transact, where they can connect, with either stores or sales associates and whatnot. So portals are is going to be a big part. We also have a wholesale division. And they're already on a, a different system we'll bring over into Adobe, but they already have integrated procurement and punch up models and stuff like that.
+
+00:36:23:16 - 00:36:46:56
+不明
+So we're going to bring them in last after we build out all of the foundation for portals. So then all of our businesses will be on the Adobe platform. And we'll have enhanced experiences for that. The next step is we're working on CRM and marketing automation. But after that, we also want to work on a customer experience where within those portals and that Adobe environment, how can we service more on the B2B side?
+
+00:36:46:56 - 00:37:10:14
+不明
+How can we service them in the moments of truth, like after our service or, on site maintenance and stuff like that? So if we can work with the portal, and the tools and deliver on an experience within this platform to be able to manage that with them, that will be a huge game changer. And then after that we also have like a telephony customer contact part.
+
+00:37:10:19 - 00:37:29:21
+不明
+What else am I missing? That those, those are the big things that are coming up for us. That's a massive undertaking. That's great. Thanks. Chris, I have a question you mentioned earlier, for a team and a lot of people here, heard it in summit that Adobe Commerce is going from a path to a SaaS, service.
+
+00:37:29:25 - 00:37:51:38
+不明
+You've, embarked on that technology strategy, leadership in this project, 12 months ago with ancillary service. How do you see this role, Matt? Stephanie just mentioned and, this new discussion in our we're having a summit right now about going to a SaaS model for Adobe. Do you foresee any technical data? Will you be your approach to, to comment on that?
+
+00:37:51:43 - 00:38:14:08
+不明
+Yeah. So moving to the new Adobe Commerce as a cloud service is going to be quite simple for our entire, which is again, because of that decision we made so long ago, using that decoupled front end, it's not like we have any, monolithic front end experiences that would be deprecated or removed as part of this. I would do to handle that, from a future proofing perspective.
+
+00:38:14:13 - 00:38:40:37
+不明
+And again, from that initial build phase, we really focused on low level of customization, using out of the box functionality, not introducing too much custom code, too much development, too much technical debt there. And yeah, we've really set up for for success there. The other advantages we started to adopt, I filter for customization. So instead of again, using PHP code in the core that has to be deployed into that pass environment.
+
+00:38:40:42 - 00:39:01:24
+不明
+Anything we develop and customize within App Builder is future proofed into that new SAS technology because it's using those events, it's using those webhooks. They can just move across to that that new platform, which is excellent for us. That's amazing. Thank you for clarifying this. I think it's very useful information. I think through, through this discussion.
+
+00:39:01:24 - 00:39:38:11
+不明
+So again, if I wrap up, like we understood what made this strategic partnership successful, the transformation, the future proofing, edge delivery, how it applies into a digital roadmap that you guys have and how you iterated this qual walk, run. But I applied for you and your reality. I would enable your marketing team as well. And maybe on that Stephanie I we could do like a final word, a final word, all of us and then move on to, to questions, in terms of operational efficiency and what you suckers, it's great to talk about the it on the side, like how all this enables your team to be more efficient and operationally
+
+00:39:38:11 - 00:39:59:13
+不明
+efficient in the e-comm and marketing side. And also, if you have a last word for, for the audience before we move on to questions, it's fast, it's clean. We have the trust of our teams. We can now take more control of our own domains and stuff like that. And we can go further, faster. And it's going to be easy to go further, faster.
+
+00:39:59:13 - 00:40:26:03
+不明
+If I was to just put in a few words, clean, fast, easy, flexible. That's great. Chris. I mean, for me, working with Fanta, I have been absolute pleasure, right? Everyone I've worked with, I've found, has been amazing. The conversations we had last year at summit again, this year's summit and everything in between. The enthusiasm they have for the transformation is amazing, but also their willingness to, adopt these new technologies.
+
+00:40:26:07 - 00:40:46:55
+不明
+Even though they are relatively new, they're, you know, they're seeing the benefit of adopting them now and integrating them into that, multi-year roadmap. So I think this the enthusiasm movement I have to, to work on this project has been great. That's amazing. And I think guys like you saw the title of this panel being Driving Retail Innovation with Font and Tire.
+
+00:40:47:00 - 00:41:15:34
+不明
+I hope that you saw how as delivery service was really capturing the innovation part of the future, proofing into a technology foundation that really ensures this customer experience orchestrates that, Adobe is talking about. And, also, I must say, just to be a bit cheeky, but I think it's interesting, there's something that, that is interesting is, for fun that tell you were talking about all the different branches and the franchises and how you work into this partnership.
+
+00:41:15:39 - 00:41:29:29
+不明
+There's a slogan that you guys have, and that is where on this road together. And I think that is really something that we have to understand and make sure when you, undertake such a big transformation with a new tech, that's only a few years old. Thank you. So.
+

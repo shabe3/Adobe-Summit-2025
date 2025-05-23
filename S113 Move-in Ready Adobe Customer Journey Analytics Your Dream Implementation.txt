@@ -1,0 +1,448 @@
+00:00:01:11 - 00:00:34:03
+不明
+8 a.m.. Look at you. Your bosses would be proud. You got up. You're still at the conference. We appreciate it. My name is Dave McNamee. I'm, glad that you're joining me today to talk about move and ready customer journey analytics. Your dream implementation. I've been with Adobe for about 13 years. My role in Adobe, I'm the director of product management, responsible for data collection and data processing for all of our analytics products.
+
+00:00:34:46 - 00:01:10:41
+不明
+And I'm gratified to see so many friends in the audience. People from work. People from home. People from Iceland. Shout out to my friends over here. Thank you for coming. And, hopefully this this session is useful to you as you think about your implementation of customer journey analytics. So we're all pretty conscientious people. You wouldn't be here at 8:00 am for a session about implementing CGA if you were not conscientious people.
+
+00:01:10:46 - 00:01:36:47
+不明
+And we're analytical people as well. I bet that many of you have spreadsheets for managing different parts of your life or making different decisions, in your life. Life decisions? I do that too. How many of you have a document or a spreadsheet to keep track of your requirements for a dream house? Okay. A few of us do.
+
+00:01:36:48 - 00:01:58:17
+不明
+Right? I have one to, this is the actual screenshot of my spreadsheet. So you can kind of look through that and see what's important to us. So the way that it works is, so we've been in our current house for ten years. It's been a great place to live. We've got four kids. They're getting older.
+
+00:01:58:31 - 00:02:23:19
+不明
+The first ones left the house, the next one's about to. So it's, you know, it's getting a little big. So our requirements are changing. Obviously, we have multiple stakeholders that we have to satisfy. So the idea is we we made this spreadsheet, and captured requirements. And you see that there's a column for what comes for me and what comes from my wife and what comes from both of us.
+
+00:02:23:23 - 00:03:00:56
+不明
+And the rule is, is that we create this spreadsheet. And any time there is a, mutually exclusive requirement, the one provided by my wife wins. Totally fine with that, right? She's. She's the boss of that kind of stuff. Her comfort is of my utmost importance, so I don't mind that at all. And also, I don't really care because she doesn't care about the one crazy requirement that I have on my spreadsheet, which is to have a workshop big enough to build an airplane, which is totally crazy, but that's the thing that I want in the next house.
+
+00:03:01:01 - 00:03:23:22
+不明
+I want to be able to build an airplane so she can have whatever requirements she wants. But, you know, just to kind of get the juices flowing and get some interaction here. What are your most important requirements for your dream house? Scan this QR, QR code, get out your phone. We're going to be scanning a bunch of QR codes today, to get you engaged.
+
+00:03:23:27 - 00:03:51:25
+不明
+I'm actually going to advance it to the next slide, which will have the same QR code. So don't fear. It's up in the, upper right corner. But, tell us what your most important requirements are for your for your dream house. Ooh, a pool. That's fun. I've resisted a pool. Like that's not on my list. Private remote, fast internet yard for the dogs.
+
+00:03:51:26 - 00:04:19:32
+不明
+Big backyard space. You can kind of tell. Like life stage of Americans based on what they put on this list. Like, I have a big yard right now. I want a smaller yard right. Pool. It's been up upvoted a bunch of times. Excellent. Schools. Yeah. So, easy commute. Right? Location? No HOA. I agree with that. No HOA.
+
+00:04:19:36 - 00:04:56:47
+不明
+HOA fees are, magnets for petty tyrants, but large trees, workshop for woodworking, easy commute weight, vamp weight, bamboo sushi, boat. What was that big kitchen space from theater? I lost that bamboo sushi boat. Somewhat. Someone has to speak up. What was that bamboo sushi boat thing? Anybody. Anybody on that, lake view? That's nice. How about. Woodshop.
+
+00:04:56:48 - 00:05:22:38
+不明
+Oh. Bamboo sushi. Boat track into courtyard. Okay, I don't know what that is, but it sounds amazing. That sounds great. Okay, so we all have our requirements, right? And, we have the things that are important to us. You know, and similar questions apply when we're thinking about a move from whatever your current analytics tool is to customer journey analytics.
+
+00:05:22:38 - 00:05:50:00
+不明
+And I would presume that most of you have Adobe Analytics. You know, think about your current analytics tool as the house that you've been in for ten years. You're comfortable. It's it's met your needs, but your requirements are changing. You know, where everything is. It may be cluttered, you may have 5000 segments, but you kind of know what's important.
+
+00:05:50:00 - 00:06:22:31
+不明
+You know where everything is. And, you know, it's it's been your home for a long time. And think about CGA and implementation of CGA as a dream home for those who put pool pool, I think got the most upvotes. So this, house might be attractive to you. So you have new requirements, and the the industry is changing.
+
+00:06:22:31 - 00:06:51:24
+不明
+Digital marketing is changing. There's a greater drive for visibility across all the interaction channels, that you have with your customers across digital and, non-digital channels. In, a need for greater flexibility and require error in reporting capabilities. Right. Greater power and reporting capabilities, being able to restate history, being able to do all the things that customer journey analytics enables you to do.
+
+00:06:51:33 - 00:07:13:53
+不明
+Customer Journey Analytics is the dream house that we want to move into now. It's it's a think of it as kind of a style of house, but you have to decide what your house looks like. You have to decide what the requirements are. Right. And you, it's also, you know, thinking about the process of designing and building a custom home.
+
+00:07:13:53 - 00:07:41:16
+不明
+There are lots of things to consider, right? You have, you have to think about the layout. You have to think about, what rooms you need, how big they need to be, whether you want multi-level or not. So layout is critical. So spending time thinking about, those requirements at the outset will save you heartache later and save you frustration when you wish that there was a closet here instead of over there.
+
+00:07:41:16 - 00:08:12:09
+不明
+And, a different, different layout. You also want to use modern construction, techniques, and materials. You have to get approval, and, get, buy in from authorities on the plans that you have and what you're building, and then finally have to execute the work. Right? So it's it's a it's a daunting thing, to build a custom home.
+
+00:08:12:13 - 00:08:24:48
+不明
+It can also be somewhat daunting to implement customer journey analytics because you have many of the same problems that you need to solve, many of the same things that you need to think through.
+
+00:08:24:53 - 00:08:53:47
+不明
+So, it's also likely that your new house, that you'll have a lot of the same requirements in your new house that you had in your old house. Right? So you're going to move your whole family. You're going to move all your users. You're going to need to be able to support all of the same use cases that you've been supporting in your existing digital marketing analysis tool, whether it's analytics or something else.
+
+00:08:53:52 - 00:09:17:43
+不明
+So it's not just. Net new capabilities, but you've got to meet existing requirements. You know, think about if you're building a new house, you'll probably want to, bring along the same furniture that you had in the old house. You're going to, you know, you're not starting completely from scratch, but it might be an opportunity to maybe get rid of some of the stuff that you wanted to get rid of.
+
+00:09:17:55 - 00:09:44:28
+不明
+Same thing is true with moving from analytics to customer journey analytics. You have a lot of the same requirements. It's an opportunity to declutter and to but still you need to meet the meet the requirements that you had in your existing analytics tool in order for it to be move in ready. You don't want to build a house and then discover that, it doesn't meet your requirements.
+
+00:09:44:28 - 00:10:11:43
+不明
+You can't move it. You still have to keep the old house and live in the old house while you're trying to figure out what to do with the new house. So same thing is true with your customer journey analytics implementation. It needs to be move in ready? And it needs to meet. Net new requirements. Some of them may seem kind of crazy, like this is a picture of one of my wife's requirements, which is a kitchen with two islands.
+
+00:10:11:48 - 00:10:39:03
+不明
+What do you need two islands for? I don't know, but she wants two islands. If I get an airplane workshop, she can have her two islands. So it's going to be just fine. But you have net new requirements, new fancy things, right? Fancy things that your business has identified as a way to achieve. And so you need, need to be able to build your two islands in your kitchen.
+
+00:10:39:08 - 00:11:11:01
+不明
+So let's engage again. What are your most important requirements for your implementation? Think about just think about the top thing. As your as you're moving to create a what's the top thing that your business is expecting you to do with your implementation data accuracy? I think, Walter, that I think that was a typo. Visitor identity, data accuracy, unlimited dimensions and metrics.
+
+00:11:11:10 - 00:11:47:04
+不明
+Yeah. That's awesome. Capability of a, continuity of, existing requirements. Visitor and customer identity. Combining different data sources. I'm gonna I'm just going to let you guys, add some of these, and then I'll scroll through it. What's your two islands? What's your airplane workshop? Right. Thinking about what you need to have in your CJ implementation for that investment to really pay off reliable stitching, ease of use?
+
+00:11:47:09 - 00:12:00:53
+不明
+I think continuity of existing and improved reporting. Yeah, these are great limited custom code connections to add platforms.
+
+00:12:00:58 - 00:12:36:48
+不明
+Parity with analytics. Continuity. Low sustainment overhead. Fully encrypted data before server calls sent. Querying event data warehouse capability. Clean and focused. Continuation. I assume that means continuation of existing analytics capabilities. No significant disruptions for new to old platform enrichment on the fly device stitching data, collected data first before sharing the car. A lot of customers are doing that.
+
+00:12:37:09 - 00:13:01:43
+不明
+Create metrics a report time. Yeah, these are great. Let's see what else popped up at the top. CDP agnostic. So a data accuracy got uploaded the most. Obviously, you have to have accuracy in your data for users to trust it. So, and there are we're not going to go into details on data accuracy in this session.
+
+00:13:01:43 - 00:13:43:59
+不明
+That's the topic in and of itself. But that is a critical requirement combining different data sources, all the data in as real time as possible, drive fields, omnichannel analytics. Yeah. CDP agnostic sticking online and offline data. Scalable. Great. Yeah. So these are your, two islands in the kitchen or airplane workshops. So with the rest of this session, we're going to help, you know, how to create a move and ready implementation of customer journey analytics and it's a short amount of time.
+
+00:13:43:59 - 00:14:12:49
+不明
+This is a very in-depth topic. So we're going to hit the highlights and give you some key, capabilities. Key takeaways that can help you plan out your implementation. So we'll talk first about following best practices. Three different types of implementation projects for CJA. Data as a product, thinking about it as a product, getting full coverage of your data identity stitching.
+
+00:14:12:49 - 00:14:40:25
+不明
+Then we'll talk about creating a roadmap, how you need to own, your roadmap. It needs to be something that you come up with in your business and that you drive, using a new tool that we're releasing called Analytics Inventory, as well as a new CX upgrade guide that will hopefully help you think through your CGA implementation roadmap and then executing the implementation, leveraging services.
+
+00:14:40:25 - 00:15:26:29
+不明
+We'll talk about, implementation partners, planning for an iterative approach to implementation, planning for data validation and then operating Adobe Analytics in parallel for, a limited amount of time. So let's start with best practices. So when you think about customer journey analytics, there are, you know, complicated conversations that happen within your business to, justify the purchase and then to talk about ways to demonstrate value as quickly as possible.
+
+00:15:26:34 - 00:16:05:42
+不明
+And so we see projects before implementation kind of fall into three different categories. The first is the proof of concept, where the purpose is to demonstrate capability, writes proof of concept. It's a focused use case, typically limited roll out. It can use the analytics source connector. So if you're new to Adobe Experience Platform and CGA, we have a, connector that allows for a customer to ingest their Adobe Analytics data into a yep, to power use cases.
+
+00:16:05:42 - 00:16:35:35
+不明
+They're, and this is a tool that helps accelerate, like initial implementation of use cases. That said, it's sending data from Adobe Analytics and from the data collection and data processing pathways in Adobe Analytics. So, if you are buying CGA as a replacement for Adobe Analytics, it is not a long term solution. It is a temporary solution.
+
+00:16:35:35 - 00:17:05:57
+不明
+It's not something that you can build a full implementation and a full migration. To adopt CGA. So it might be worth, taking, doing a, an interim project, like a proof of concept and leverage analytics, source connector data to power that proof of concept. But you will need to plan to get an implementation that uses other data collection, other data ingestion methods.
+
+00:17:06:17 - 00:17:33:15
+不明
+A similar flavor of project is an interim multi-channel use case. So let's say you're not calling it a POC, but you, you you're buying CGA because your two island kitchen is, it's maybe it's like stitching your contact center data with your digital data to demonstrate, the success of the digital channel in deflecting, calls to your contact center.
+
+00:17:33:20 - 00:18:09:03
+不明
+Right. So you may your, executive leadership may have an expectation that you're going to demonstrate that use case rapidly. So it's, a possible pathway to use analytics source connector to demonstrate that multi-channel use case rapidly. While you're planning for your full implementation. So you're essentially building a like a temporary kitchen with two islands to show, hey, here's a really cool kitchen with two islands.
+
+00:18:09:08 - 00:18:39:39
+不明
+And then you need to plan the construction of the full dream House, the full implementation of CGA. So think of both of those. The first two boxes here as interim solutions right? A full implementation, is one that you're going to base your full move. It's your dream house, right? You're moving everything over into CGA. And it supports, obviously analytics and multi-channel use cases.
+
+00:18:40:11 - 00:19:06:24
+不明
+You've got an iterative rollout to all of your users, and you're moving your analytics, users and practice over into CGA. And it must use either direct collection into ATP, via web SDK or some other event data set ingestion method that pulls the data directly into, into ATP to power CGA. This is your pathway to full adoption.
+
+00:19:06:29 - 00:19:29:38
+不明
+If your business is doing a POC, if your business is thinking about like proving out a. Net new multi-channel use case, you also need to be thinking about and planning for the construction of your dream house. Okay, so we're not saying don't ever do those things, but you're not going to be able to fully move in to your dream house until you build it.
+
+00:19:29:42 - 00:20:03:12
+不明
+So. Let's talk about data as a product. So many of you are, using Adobe Analytics and have data coming out of Adobe Analytics through data feeds. And you're powering data science. You're powering your data warehouse, downstream analysis using the data from Adobe Analytics. Whether you've thought about it this way or not, to this point, that data is a product that's important to your business.
+
+00:20:03:31 - 00:20:29:48
+不明
+The same thing is true, with CGA. So you need to think about, as your as you're planning your implementation of CX, it's useful to think about data as a product and what's going to come out of CGA and how, CGA data will power a closed loop of insights and experience activation, insight generation and experience activation.
+
+00:20:31:00 - 00:20:55:42
+不明
+You need to think about, what what secondary users of the data are there who is currently dependent on your Adobe Analytics data? How does that change as you move to CGA? Right. And then design your data pipelines with activation and data science in mind, thinking about what data needs to be collected and how it how it comes out of CGA.
+
+00:20:55:46 - 00:21:29:59
+不明
+Start from a set of MVP use cases, and then iterate to meet those requirements. So it's not just your users that are accessing analysis workspace within CGA, right? It's not just your reporting users, it's all of the consumers of data downstream from CGA and ATP. So it may feel daunting, especially if you have like a data feeds implementation that's been in place for like ten years and you don't know how it's being used out of the data warehouse.
+
+00:21:31:01 - 00:22:12:24
+不明
+To start from known use cases, start from like lighthouse customers within your business to say, okay, data science team, your, your, running models against data. Talk to me about that use case. Talk to me about what you need from CGA. As, as you think about that implementation. Okay. Full data coverage. So, if you're new to ATP, ATP uses, schema standard called experience data model, and event data sets.
+
+00:22:12:24 - 00:22:44:17
+不明
+Experience event data sets are the foundation for, multi-channel reporting. So you need to think about your use cases and iterate on your experience data model design to to identify the variables that you actually need. Adobe Analytics, we all of well, probably most of us know that, you know, there's kind of funkiness with variables. And that restriction on the number of variables and the types of variables.
+
+00:22:44:17 - 00:23:13:00
+不明
+All that goes away with CGA. So we don't want you to propagate your Adobe Analytics limitations into your CG environment. That would be a shame. We want you to think about your your data from a new perspective and, iterate through use cases to design schemas that support your needs. Obviously, you need to collect or ingest event data.
+
+00:23:13:18 - 00:23:47:30
+不明
+API, web SDK for, direct data collection is the most common pathway. Web SDK is the preferred implementation method for Adobe Analytics today. So a migration to web SDK. Can happen independent of your implementation of a and it's a way to, adopting tags, and web SDK as a way to position yourself to execute implementation projects, down the line.
+
+00:23:47:48 - 00:24:12:42
+不明
+But you need to have direct collection, right? As I mentioned before, the other two implementation project types that use analytics, source connector, those are kind of a temporary, learning spot, right? You need to have, direct collection, or you can use streaming ingestion into AP or batch ingestion. There are APIs and mechanisms for bringing data in.
+
+00:24:13:07 - 00:24:39:07
+不明
+Some of our customers, I think there are some, at least from that, survey, some of our customers do their own data collection and then ingest the data into, into AP via one of those pathways. One really cool feature of analytics Source Connector is the ability to pull in historical data. So, it will automatically do a backfill of 13 months.
+
+00:24:39:07 - 00:25:18:38
+不明
+Now the backfill period is configurable. So it's possible to use analytics source connector to ingest historical data and to stand up, separate connection and data view for people to be able to use that data in CJA while you are accumulating a history of data, via a direct collection or direct ingestion method, the data that comes from Analytics Source Connector is going to have much of the same structure and, schema as in in Adobe Analytics.
+
+00:25:18:43 - 00:25:44:04
+不明
+So you can't merge. It's we don't recommend you attempting to merge the, the historical data from analytics Source Connector with that new data that you're collecting. Think of it as just a way to, to pull that data in. It's it's also a way to experiment with, fulfilling analytics use cases in this environment. So there's there's a lot of uses for it.
+
+00:25:44:04 - 00:26:09:02
+不明
+But as you operate in Adobe Analytics in parallel for some amount of time, you will be accumulating a history of data in, in a that's in your new format using your new data ingestion or data collection method. And over time, the, the, historical data from analytics will, will age out of your analysis. Practice.
+
+00:26:09:07 - 00:26:39:50
+不明
+And then, you need to think about other data types that you're ingesting there. There are three other data types that CJRs supports besides the event data. You've got lookup data, profile data, and summary level data, lookup data. Think of as classifications campaign data. It's a way to augment the, the dimensions that you have in your C.J implementation and then profile data is what it sounds like.
+
+00:26:39:50 - 00:27:16:29
+不明
+And there's I've heard some confusion. Some people believe that you can't ingest profile data into C.J. Unless you have a license to real time customer data platform. That is not true. It supports. Excuse me. It supports profile data independent of any other license. So, like, if you were using customer attributes to ingest, essentially a way to classify the visitor ID with additional dimensions if you're using customer attributes to do that, profile data supports the same capability with C.J.
+
+00:27:16:34 - 00:27:48:51
+不明
+So you plan your, the addition of data sets to support use cases as you're adding them. And these are the different data set types. Okay. Identity stitching. So this is a key differentiator for C.J. There are two flavors of identity stitching, field based stitching which you use when you have a single authenticated ID in the data that you're ingesting or collecting.
+
+00:27:49:21 - 00:28:16:05
+不明
+And what happens is, the stitching mechanism will add that customer ID when it sees a login event, it will add that customer ID retroactively to hits that, that match that ID, so you get a retroactive view into what that user was doing. And there's different lookback windows and details. Matt Thomas is the guy to talk to you about the details for both of these stitching methods.
+
+00:28:17:17 - 00:28:49:09
+不明
+Field based stitching is available in select Prime and Ultimate kDa. Okay. Graph based stitching is used when you have multiple IDs across different data sets. You have an identity graph. This is the mechanism for stitching that's used by CDP. So this is this is consistent with CDP. And again, the the person ID is applied to hit as log in events happen as the graph is applied to to the data.
+
+00:28:50:02 - 00:29:11:20
+不明
+So this is this is the power, right? You've got event data sets from different sources. You need to, to determine your identity strategy. And, whether you need, graph based or field based stitching. Graph based stitching is available in Prime and Ultimate. So you need to be on one of those licenses to be able to use it.
+
+00:29:11:20 - 00:29:38:27
+不明
+But field based stitching is from select on up. And we recommend that you implement stitching early, to prove the value of omnichannel analysis and to help your users adapt to, a baseline. Right. Talking with the customer this morning about how they're seeing a different conversion number because the, the denominator changed because you've got stitched identities.
+
+00:29:38:27 - 00:30:12:21
+不明
+So it takes people some time to get used to that. Usually it makes it makes the numbers look better. Right. Because you've got fewer identities across conversions. Excuse me, but, we recommend that you implement stitching as early as possible in your, adoption of. Okay. So let's talk about creating a roadmap. I, I believe strongly that it's important for customers to not outsource the roadmap completely.
+
+00:30:12:21 - 00:30:46:24
+不明
+You have to have a vision for full implementation. And adoption of this is a significant journey, and it often involves external services and an iterative approach. You're establishing a new omnichannel analysis capability and data product, and you have to have a base of leadership within your business to be successful. If you don't have that, then you'll you could end up wandering, you could end up like focusing in on an engagement and implementation engagement to maybe implement, a set of use cases.
+
+00:30:46:24 - 00:31:09:56
+不明
+And then once that's done, if you don't have a roadmap that you're working against, you may wonder what's next. I've talked to to customers who have done initial implementation and for, for specific use cases, and then they're like, okay, well, how do we get all our users over? How do we, you know, how do we make sure that we're supporting all their analytics use cases?
+
+00:31:10:00 - 00:31:42:39
+不明
+You gotta have an internal compass in your business, which means creating a roadmap. We do recommend using services to increase velocity and probability of success. However, the vision for the end state must come from within your business. Develop a roadmap and be strategic about where you use services to accelerate your success. And you can refine your roadmap in collaboration with an implementation partner, leveraging their experience to fill in details and confirm best practices.
+
+00:31:42:39 - 00:32:04:55
+不明
+But like you got to have a vision like I'm moving to CJA. This is what my analytics practice looks like today. This is what it's going to look like when I'm done. These are the new use cases. This is how I iterate. Like having that plan and articulating that plan will, engender confidence in your leadership that you know where you're going.
+
+00:32:05:04 - 00:32:27:36
+不明
+And it will also will we'll talk about this. I'm getting ahead of myself. We'll talk about services and kind of how how we think about how you should engage with services, but don't outsource the roadmap. Start from something simple, and then build on it as you learn, as you engage with partners, as you, you know, consume resources that we provide as well.
+
+00:32:27:41 - 00:33:01:25
+不明
+Let's talk about some of those resources. So, there are two tools, one that's already been released and one that releases next month. The first tool that I want to talk about is analytics inventory. This provides a view of your Adobe Analytics implementation across report suites and workspace projects. Up until this tool, it, you know, our consulting services and client care would have to be engaged to help people figure out like what is their analytics implementation look like.
+
+00:33:01:44 - 00:33:24:29
+不明
+So this should reduce the time required in gathering information about your analytics implementation. To be able to prepare your CX implementation. And it will serve the two tools that I'm going to show you will serve as a foundation for additional innovation in implementation capabilities that we're working on. But these are these are what we're releasing right now.
+
+00:33:24:34 - 00:33:50:49
+不明
+So the QR code right here is for a survey about additional features that you may want to see in the analytics inventory. Scan it if you want. I'm going to show you what's there right now. You can you can give us your feedback on what additional pieces of information you think could be important for us to include in the survey or in the analytics inventory.
+
+00:33:51:01 - 00:34:25:50
+不明
+So let's pop out and do a quick demo of the analytics inventory. Okay. So this will be released early April. It's available to analytics admins. It will be accessible underneath this the admin menu at the bottom analytics inventory. And it'll give you a count of project segments, calculated metrics. Obviously, your numbers will be much higher than these guaranteed, but this is a little a little demo environment.
+
+00:34:26:36 - 00:34:51:15
+不明
+And it'll tell you how many report suites and users, you have this little analyze button right here that when you click it, it will show you the list of report suites. And then you can go into the details on the dimensions and metrics in those report suites. So it gives you a view into, your, your analytics implementation.
+
+00:34:52:30 - 00:35:28:09
+不明
+You'll probably see report suites in here that are defunct, that you can like, ignore in your implementation. But this would be a good place to highlight your key report suites that, that are currently being used for some of your most important use cases so that you can then kind of look at the, the, the variable usage in those report suites and start to plan out your schema for, for implementation to be able to test out those use cases with users.
+
+00:35:28:44 - 00:35:36:06
+不明
+The survey actually might go back to that QR code.
+
+00:35:36:10 - 00:36:03:20
+不明
+The survey, goes into a lot of additional details, and we have, thoughts about what else we should add. But please tell us, what you what you think would be important for us to add to the analytics inventory. Okay. This one I'm really excited about. CD upgrade guide. This is already released in production. Anyone with the CD log in?
+
+00:36:03:25 - 00:36:28:12
+不明
+You don't have to be an admin, but anyone with the CD login can access this tool today. I'm joined by two of our docs writers who were instrumental in making it happen. Raise your hands, Russ and Luke. They're awesome. This tool is intended to give you a way to iterate through our recommended approach for your CJA implementation.
+
+00:36:28:17 - 00:37:08:28
+不明
+It includes a questionnaire to capture details about your business, about your requirements. And then it will add steps, for you to consider to account for those requirements. And then it provides links to documentation for those specific steps and where applicable, deep links into the product to actually go do some steps. Now, a note this, this upgrade guide, it, it accounts for all the steps to implement CJA.
+
+00:37:08:45 - 00:37:40:35
+不明
+What it doesn't do is describe how you may want to create iterations to go through and accumulate the capabilities and test out and validate the capabilities and rule them out. So and we'll talk more about iterating here in a minute. But we didn't want to make it so complicated. It was too hard to follow. It's really just like a brainstorming guide a way to help you think about, the details of your business and of your implementation, to be able to then form a plan.
+
+00:37:40:40 - 00:38:06:57
+不明
+Okay. And as I mentioned with the inventory, this guide is going to serve as a foundation for additional innovations that we're going to make in implementation workflows. So today it's just a way to help you build a roadmap in the future. My vision is for it to be in the AI assistant, and then you can interact with it and ask questions and have it do stuff for you and have it know more about your implementation.
+
+00:38:06:57 - 00:38:31:46
+不明
+So think about the analytics inventory information known by the LLN. So already knows all the details about your implementation and then being able to interact with them and ask it questions and have it give you recommendations and have it be able to do some steps for you. That's that's where we're headed. But today you've got these, these two tools.
+
+00:38:31:51 - 00:38:42:22
+不明
+So let's pop into a demo for the CGA upgrade guide. And I need to pace myself here.
+
+00:38:42:26 - 00:39:14:41
+不明
+Okay. So it's in CGA. It's under learning this upgrade the customer journey analytics. If you have a Q login anyone who has a CGA login, you can pull it up right now if you want to, upgrade to customer journey analytics. And it gives you some instructions. First of all, this link here links out to kind of a standard CGA implementation document that has been revised by our our fine docs people, revised and updated.
+
+00:39:14:41 - 00:39:37:29
+不明
+So that's a good way to kind of like kind of get your head in implementation mode. But then this guide will help you add to that. So like gather your team, think about who needs to be involved in answering some of these questions. Talk talk about your goals, what use cases and how you want to implement CGA and then get together.
+
+00:39:37:35 - 00:40:07:37
+不明
+Fill out the upgrade guide for a specific digital property, a specific implementation. Right. So you probably have like web, mobile, probably multiple reports suites, different, different use different parts of your business with different implementations. Focus in on a specific implementation. As you think about these answers, complete the questionnaire and then it will it will output steps, that then you can use to plan and think about your CX implementation.
+
+00:40:08:23 - 00:40:36:17
+不明
+So it starts off with some default steps. These are not these don't represent like a full, default implementation of CGA, but their default steps. So let's go through and look at the questions. So the first question, is to get a sense for what your current Adobe Analytics implementation is. And you've got lots of different options here, including a non Adobe Analytics product or I don't know, okay.
+
+00:40:36:17 - 00:41:00:52
+不明
+So you don't have to have all the details at your fingertips. Let's say in this case we're using the Adobe Analytics extension with tags okay. And that that took off two steps from my what I had already. Because now we know that we have tags implemented, which is great. Right? Okay. So now I'm going to click to the next step.
+
+00:41:01:31 - 00:41:44:45
+不明
+Okay. Now it's asking to know what analytics features did I have that I care about. And don't think of this as oh I want I it's just going to you know, it's 1 to 1 right. There are different ways of accomplishing the use cases that these features accomplished in CDA compared to Adobe Analytics. So as, as an example, if I click marketing channels, it will add a step down here for creating a marketing channel to right field so I can expand this out and see that there's a link to an Experience League document specifically for that step gives me some guidance on like how long it might take to to
+
+00:41:44:45 - 00:42:14:45
+不明
+do that work. And then a deep link into the UI to accomplish that. But the point here is that, like marketing channel definition happen in in one way in Adobe Analytics and it happens with the right fields, which is a different method in CGA, but it helps you kind of map those capabilities and know how you address those capabilities in, in a classification data, classification data is look up data set ingestion.
+
+00:42:14:45 - 00:42:44:54
+不明
+Right. So it's same capability actually better capability, different approach. The next question like okay thinking about CGA. What's your two island kitchen. What are the things that are important to you. Right. So tie collected data with data from other sources. It's a very common thing. The other thing to note here is that you have these little tooltips that will give you more information and links to documentation about what about those steps.
+
+00:42:44:57 - 00:43:11:35
+不明
+I actually want to show you a different tooltip. So when I added that collected data it added, add additional data sets to your connection and customer journey analytics. We'll go to the next step. Okay. So now it's asking, right. What do you know already about how you want to implement CGA? First of all, do you plan to move completely off of analytics and on to CGA?
+
+00:43:11:39 - 00:43:39:19
+不明
+The answer to this question is going to be nearly always yes. So we'll select that. This next question, select how you want to configure your customer journey analytics schema. It's either I want to use a schema tailor by my tailor to my organization, or I want to use the default Adobe Analytics schema. This is where the tooltip really comes in handy because it will tell you this option is recommended.
+
+00:43:39:24 - 00:44:01:22
+不明
+This option is not recommended for these reasons, right? So when in doubt, click and in the tooltip. It'll give you some guidance, give you ways to think about it, give you link links to documentation that will help you then think through how you want to do your CX implementation. So in this case, we're going to use a schema tailored to my organization.
+
+00:44:01:27 - 00:44:30:05
+不明
+And we're going to use tags since we're already using tags. And now it's created my upgrade steps okay. Now I can click next, I can review my selections and the steps and click finish. Now this is it. I'll be honest, this is a simple tool. All this is going to do is give you this list either in the UI for any CJA user.
+
+00:44:30:10 - 00:44:57:59
+不明
+So you can share, copy the link and share it with anybody with the CGA login. And they can pull up the same answers in the same roadmap or the same list of steps. Or you can export a CSV and use that as a foundation for a planning document. The CSV will include all of your selections, all of the steps, all of the links to documentation, all of the deep links to, to product pages to actually accomplish these tasks.
+
+00:44:58:04 - 00:45:24:27
+不明
+So, it's it's just the beginning, but it's a way for you. It's a tool for you to think through your CGA implementation. And we're excited about it. It's been a great way to have conversations. And it's think of it as a way to facilitate conversations within your business as well. Okay. Final category execute the implementation. Let's talk about leveraging services.
+
+00:45:24:31 - 00:45:53:43
+不明
+Let's face it. Like we're not resourced. You guys aren't resourced to be able to execute a full implementation of a. Net new multi-channel analysis tool while servicing all of your internal users. Services need to be brought to bear to to augment and navigating ATP app implementation. You're just it's much better to have a guide. You're not going to get yourself in as much trouble if you have an implementation partner.
+
+00:45:53:43 - 00:46:19:33
+不明
+This makes me think about climbing mountains. You can climb it on your own, but you could potentially get yourself led out somewhere. You have to backtrack and come back around. So think about services and look for experience with app apps. Look for, omnichannel journey analysis, expertise, expertise in Adobe Analytics, data strategy and analytics to track or track record of success.
+
+00:46:19:38 - 00:46:43:07
+不明
+This QR code will pull up our, Adobe Solution Partner directory. I can't figure out how to make it not check specialized, so it shows customer journey analytics and then specialized. It filters if you uncheck specialize, it expands the list to all the partners that that deal with CX. So go talk to them on the floor. We have people from partners here today.
+
+00:46:43:07 - 00:47:11:03
+不明
+Thank you for your support. Go talk to them on the floor. Find out what they think about your implementation pathway. Okay. But again, don't outsource your roadmap to them. You have to have a vision. And you need to iterate. Okay. Thinking about iterating based on use cases like take an agile approach, you're got use cases, they've got requirements, those requirements.
+
+00:47:12:04 - 00:47:40:50
+不明
+Suggest a data structure, create a schema for that data structure, ingest data, configure create a do acceptance testing. And then very importantly showcase that success rate. You it's going to be a journey and there may be some fatigue within your business. You need to showcase successes as you achieve them and get your organization excited about the new capabilities are rolling out right?
+
+00:47:40:50 - 00:48:09:02
+不明
+Thinking about like you're hitting them every week or two with net new use cases, net new capabilities. That's going to create excitement and momentum around your CX implementation. But iterating is important. Don't think about it as a waterfall thing, okay? Think about how you break it down, whether it's by use case or team or some other way, but you need to break it into chunks and then think about, how you validate data and reporting.
+
+00:48:09:33 - 00:48:35:04
+不明
+This is a part of the, acceptance testing step. You can validate data in app using query service. As a lens and data lake. And then, you know, CGA and Adobe Analytics are different architectures, different reporting engine. So you can expect some variation, some minor variation in reporting. And if you take a use case approach, you can talk about those variations as you roll out use cases.
+
+00:48:35:08 - 00:49:03:28
+不明
+But you'll need to, work with your, customers to or sorry, with your users to get them comfortable with the new the new approach. And if you if you start from stitch data, some this is another thing that I've been talking with customers about. If you start from stitch data, they're more likely to accept the fact that there's going to be variation because they didn't have stitch data in Adobe Analytics.
+
+00:49:03:49 - 00:49:28:14
+不明
+Right. And there's experience lead documentation about data validation and explaining differences. And then you're going to need to operate Adobe Analytics in parallel, temporarily. Like I said, you need to iterate. So you'll move teams or use cases into a move them off of Adobe Analytics. And then decommission Adobe Analytics as you get all of your users off.
+
+00:49:28:14 - 00:49:58:14
+不明
+And as you decommission other integrations that you may have with, with Adobe Analytics, such as, scheduled reports or data warehouse reports or, triggers, audience, the audience core service, data feeds, these are all, integrations you'll need to think about and how you move them into the new app ecosystem. Okay, so, that was like, just super high level.
+
+00:49:58:14 - 00:50:22:49
+不明
+And I'm sorry, we only only have an hour. Hopefully that's been useful. But if you if you take this approach, you'll have a much greater chance of success in building your dream house and making it move and ready. So, you know, what you have right now has met your needs for a long time. I think about the last time we moved.
+
+00:50:22:54 - 00:50:42:55
+不明
+My wife is super organized. I love her to pieces. And she had color coded tape on each box. And then signs in the house with tape the same color. So you didn't even have to speak English. You just take a box in, follow the tape, put it down. We had bunch of neighbors show up. We had all the stuff moved in.
+
+00:50:42:55 - 00:51:08:54
+不明
+So like thinking about how you put tape on the boxes and guide use cases to the right rooms is going to help you accelerate. It's going to get people excited. We, the people that volunteered to help us move in, were so excited. It was like a game because they follow the tape. It was fun. But taking a thoughtful, deliberate approach like that will help you with your, migration.
+
+00:51:08:59 - 00:51:44:30
+不明
+Okay. One last thing I want to mention. As I mentioned before, we are developing a genetic workflows to, to accelerate these steps. We are testing a prototype here at summit of a new genetic workflow to accelerate schema design. I have reserved testing slots for tomorrow for you. I've had scores of customers want to sign up for this, and I've kept Thursday open for you guys since you came to my session.
+
+00:51:44:35 - 00:52:10:15
+不明
+So if you want to meet for a half an hour tomorrow in the afternoon, scan this code, fill out the form. It's really just the Thursday afternoon. Slot that's still open if you want to meet after the show, when you're back home, indicate that as well. We want to get your feedback. We want to accelerate development of, a genetic workflows to help with implementation.
+
+00:52:10:20 - 00:52:32:20
+不明
+So, also, two things. I'm sorry I didn't mentioned this in arrears, but yesterday there was a session called control out shift. Moving to customer journey Analytics from Ben Gaines and Zac Hazel dying and also a rock star customer, Erica Ulmer. Watch the recording of that to see the second half of the story. Like I've talked about building the dream house.
+
+00:52:32:24 - 00:52:55:50
+不明
+They talk about moving into the dream house and putting tape on the boxes. So. And then, I will also mention, though I think both sessions are full. Are they both full? They're both full. Okay, hopefully you've signed up already for a lab that's happening tomorrow. Carson Jones in the back corner, there is one of our presenters of a lab where you will actually complete implementation steps.
+
+00:52:55:50 - 00:53:11:00
+不明
+Obviously not a full implementation, but they'll they'll use the upgrade guide and they'll walk through, walk through various implementation processes. So that'll be a great resource for you as well. You.
+

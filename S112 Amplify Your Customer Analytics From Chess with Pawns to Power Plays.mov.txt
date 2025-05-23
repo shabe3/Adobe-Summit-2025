@@ -1,0 +1,532 @@
+00:00:01:53 - 00:00:28:57
+不明
+Hey everyone. Welcome. While you're just getting settled, a few items of housekeeping. If you walked in and you want a magnetic chess board and you didn't get one, there's should be some still at the back of the room. If you want one. It's great for travel, game with your significant other or friend or children or or your dog.
+
+00:00:29:09 - 00:00:53:40
+不明
+Maybe cat on the beach would be the perfect place to play some chess. If you came to the chess club today and you're in the master's group, you're in the right spot. Yeah. There you go. Thanks, Rick. I appreciate it. Yeah. No. Welcome. Thank you for coming to summit. Summit is, such a unique place.
+
+00:00:53:40 - 00:01:20:31
+不明
+So much energy. I can feel the energy coming through the ground, up through this table. And there's a lot of exciting announcements of summit. So as we get kicked off, I just want to get some context, of what I hope you get out of this session. So, the way I spent my last year since being on this stage last year presenting on a similar topic.
+
+00:01:20:36 - 00:02:00:49
+不明
+I wanted to make sure that when I came back this year, that the content stayed extremely relevant. Some things have not changed since last year. Some some things, things absolutely have changed since last year. You saw some of it this morning. You're going to continue to see that tomorrow. And so what I hope you get out of this session is it's it's the same thing I approach every one of these with is I hope that when you go back to your office on Monday after a week in Las Vegas and hopefully a fantastic time here, with Adobe as your host, and partners as your hosts and so on,
+
+00:02:00:54 - 00:02:23:04
+不明
+that you take something back on Monday, something that you can do something about. So I really hope there's action that can be taken. When, when you get back to the office on Monday. And I also hope that while some of this content is going to be very strategic, it might just be the start of some action that you take.
+
+00:02:23:09 - 00:02:52:17
+不明
+That you also have some very specific actions you can take that are more granular, more focused, and can help you build momentum. So with that said, and maybe just one more bit of context. I spent 42 weeks on the road last year. With you all in, in rooms with with you listening to your requirements, listening to your goals and aspirations, listening to the changes that you're, undergoing, the challenges that you're trying to execute against.
+
+00:02:52:17 - 00:03:15:11
+不明
+And also with your C-suite. I was able to meet with 40 CMAs last year and talk about the challenges around measurement, around analytics, and really about, the challenges around executing marketing in the modern age. And so this content comes from that. I hope it reflects back to you what you're seeing and hearing, and what you want to accomplish.
+
+00:03:15:16 - 00:03:42:05
+不明
+So with that, I'm going to get started. I'm just going to flash up to, to, Firefly Images. I created them using Adobe Firefly. I'm going to flash up two images, and they're very different. They're both about chess, but they're very different. So the first image is this one. And I just first of all, I love to say, hey, take a second and let me know how this image makes you feel.
+
+00:03:42:07 - 00:04:02:21
+不明
+Don't let me know. But just sit sit on that one for a minute. How this image makes you feel. Just the feeling of it. What we see is upon staring down the opposite side of the board, that appears to be very outnumbered and isolated. So that that's the first image. The second one I want to flash up is this one.
+
+00:04:02:25 - 00:04:26:47
+不明
+Now, how does this image make you feel? That's a whole different story, right? I think there are lots of parallels between what we do in, as analysts and as marketing teams, even across, when we reach across the aisle to our, our stakeholders in the data office or in business intelligence or in customer experience, that we really want to feel like this.
+
+00:04:26:56 - 00:04:55:22
+不明
+We really want to feel united, collected, like we're playing with a full set of pieces. But the last couple of years, maybe the last 5 or 6 years with privacy pressure, cookie life, first party cookie life, and some other factors have, I think made us feel, especially as as analyst teams that work in marketing like this not aligned sort of a little bit isolated.
+
+00:04:55:33 - 00:05:13:27
+不明
+A couple of other reasons why we might feel that way. We talk a different language than the enterprise data teams. We talk a different language than the folks who work on enterprise data. We have to use, typically we have to use terms like vars and props and events, and that feels like a very much a foreign language.
+
+00:05:13:31 - 00:05:36:31
+不明
+So this session is about getting alignment. It's about building, building trust and getting access to data so that you can feel like this. Let's make that work. There you go. Okay. Another parallel. And I'll sort of not. I'm not going to beat this one. Over the head too much. But there are some definite parallels between analytics and chess.
+
+00:05:36:36 - 00:06:05:56
+不明
+I love this quote by Annie Duke. She has a chapter in her book, Thinking at Bats. That's basically like a comparison between chess and poker. And poker is a game of, clearly a game of luck if you, also skill. Of course, reading people psychology, making decisions, doing math. But you're subject to lots of different things as the cards turn and as the hands are dealt, and so Annie said something like this when she was comparing chess to poker.
+
+00:06:05:56 - 00:06:29:54
+不明
+She said, when I go up against an absolute master in chess, I can lose a beginner. Can go up against a master. Did I say chess? I met poker when she goes up against a master in poker. She she can win or lose on any given turn of a card. I totally beginner, can go up against a world champion poker player and win a hand or win a lots of money against, a master poker player.
+
+00:06:30:07 - 00:06:53:53
+不明
+But in chess, if you go up against the master or Grandmaster, you're not going to win as a beginner. You just not. And so I think there are definite parallels, because, outcomes for us correlate to decision quality almost all of the time. And I think the goal is for analytics, as we think about modernizing analytics is to, to get better and better decision quality.
+
+00:06:53:58 - 00:07:26:54
+不明
+And let me just draw one parallel. When we think about, measuring devices and measuring sessions and behaviors and sessions on web and mobile, that is actually just a proxy for the truth. Decision quality can be of a certain level of trusted level. And I think we all probably make decisions at a, at a trusted level. But as we get the measurement, closer to the person to the customer, we get better decisions, we get better quality data, we get more insight about what's going on, and it can be quite a bit more.
+
+00:07:26:56 - 00:07:49:58
+不明
+I'm going to show you some case examples a little bit later. So we're going to cover five, five main sections of this. The first is the value of the queen. I think you'll, you'll quickly get my parallel to the queen on the chess board. The. Whoa, that went ahead very quickly. Hold on. Back up. The value of the queen.
+
+00:07:49:58 - 00:08:07:54
+不明
+Okay. Knowing all your pieces. Controlling the center of the board, valuing your pawns and making bold, data driven moves. So that's what we're going to go through today. They're all broken up into into discrete sections. The first thing we're going to cover often is the value of the queen.
+
+00:08:07:58 - 00:08:27:25
+不明
+But before we do that, I want to I actually presented this last year in a form, and it's updated. It's changed. I want to just sort of cover off on some of the fundamentals, the baseline, sort of concepts that I work with. As a, as a consultant at Adobe, consulting you and that I think will resonate with you.
+
+00:08:27:39 - 00:08:49:06
+不明
+I want to talk about the conditions that we're working under in terms of how we're trying to drive, digital experiences and has especially how Adobe developed software against these challenges. And I want to just lay out some sort of the foundation of what we're really going for. The first part of this is, we are dealing in a world, more than ever, of omnichannel experiences.
+
+00:08:49:06 - 00:09:11:47
+不明
+And I just don't think we I think if you're just doing device, based analytics, that there's just no way to keep up and there's very real competitive, competitive advantage being won or lost against trading our customer experiences as omni channel and measuring them that way. The second one is I presented a version of this last year called it The Great Digital Migration.
+
+00:09:11:47 - 00:09:35:03
+不明
+My my colleague in our digital strategy group came up with this to, give another name to to the Covid 19 global pandemic. Right. We we changed we changed behavior significantly with digital because of the pandemic. This thing that was an accessory is now very much an appendage. And mobile is a major factor in how we operate and how we, engage with brands.
+
+00:09:35:07 - 00:09:57:39
+不明
+Milliseconds matter more than ever. But it's not just that. I have been in the room with, my B2B customer base a lot over the last six months. And when they think about the great digital migration, they're thinking about, and many of you are in the room today, you're thinking about a buying group or buyers that are younger than ever, and they're very much digitally savvy.
+
+00:09:57:39 - 00:10:23:07
+不明
+Everyone is dealing with that, but particularly as affecting, B2B, businesses. So I think that's a major, a major factor around how we're developing solutions, specifically CX, a genetic generative AI and AI assistance of course, which you saw, the announcement of a few a genetic AI solutions today. You'll see some more tomorrow. Is a major factor.
+
+00:10:23:11 - 00:10:31:07
+不明
+And then lastly, privacy and governance as a forethought, not an afterthought.
+
+00:10:31:12 - 00:10:57:21
+不明
+Shantanu shared this, when he kicked off the session and he says it, very eloquently. But we are developing solutions for customer experiences in the era of AI. That there should be an arc of content, a content supply chain, that that, results in effective journeys to your customers. And there should also be a data supply chain that results in effective journeys for your customers.
+
+00:10:57:34 - 00:11:26:06
+不明
+And that look, I believe and we believe at Adobe that journeys, and customer experiences are the competitive landscape. So with that, I want to cover off on a couple of imperatives and then just give sort of a broad example of what what I think we're really trying to go for just, again, to set the canvas. I think the, the every, great chef would say mes and plus a couple of these slides are the measures in place?
+
+00:11:26:11 - 00:11:53:38
+不明
+First, imperatives for modernization are around first party data. I think that's clear. As you engage with Adobe, we are absolutely focused on, first party data, sequenced events in real time, and we process events in the trillions. And so real time is extremely important to us. And I think it's extremely important to you first party data strategy requires purpose and purpose built, tools aligned to enterprise data strategy.
+
+00:11:53:40 - 00:12:18:07
+不明
+I'll crack that one. Open some more today. That's our piece around controlling the center of the board. Identity is a major factor in what we're doing, and I will spend the bulk of our time today talking about identity, adaptable retroactive identity and stitching capabilities are critical, especially for marketing, especially as we think about how to complement the enterprise data strategy as a truly complementary data set.
+
+00:12:18:12 - 00:12:42:11
+不明
+Real time profiles, traits and behaviors. This one, is going to get really interesting. Unified holistic customer journey context all the time. I believe that's an absolute imperative to be competitive. That all of our analysis as marketers should be about customer journey context. I'll crack that one open a little bit more. Zero copy optionality.
+
+00:12:42:16 - 00:13:05:30
+不明
+I think is something you'll see a lot more of over the next couple of days. If you've visited the booth, there's a demo at the booth for that. Or at least talks about it. Shelving tech debt from legacy solutions is imperative as we think about convergence, privacy and governance as a forethought. The two the zero copy optionality and privacy and governance go very much, hand-in-hand.
+
+00:13:05:34 - 00:13:27:52
+不明
+Actionability. Actionability actionability. We are not a cost center. We're not a cost center. We can drive revenue through these solutions directly. Our insights and analysis can drive revenue by creating discrete audiences that can be actioned on that are insight driven. In fact, before I, when I came into the room, there was a group before me that they were, rehearsing.
+
+00:13:27:57 - 00:13:54:54
+不明
+It was the Lenovo session. And, the woman at Lenovo said she's she's in charge of personalized personalization. She said something like, well, yeah, it all starts with data driven personalization. Actionability is all all about that. And we should always be thinking that. And I think when we start to align with enterprise data strategy, we have to be thinking of our unique value proposition in marketing and how we complement the experience office, the data office, and the information office.
+
+00:13:55:06 - 00:14:22:39
+不明
+And it is really that that we can drive insight to activation and rapid iteration. The last one is of course purpose built AI. And this is what's different than last year. Resource upskilling. The virtual assistant is live and general availability. In AP. So if you're an AP customer, whether it's a CDP or a Joe or mixed modeler, the the virtual assistant is in there, I use it the other day to help a customer, run a report in Customer journey Analytics.
+
+00:14:22:44 - 00:14:41:37
+不明
+I got a sort of a phone, a friend, somebody called me and said, how do I do this? My customer was asking. I said, well, have them go into the virtual assistant and type this question in, and it will tell. It will say everything and how to do it. That was wonderful. Instead of me having to type that out, I tell my, my family I'm their personal IT consultant that I'm not smarter than.
+
+00:14:41:51 - 00:15:05:13
+不明
+I'm just better at virtual assistants. Productivity, acceleration and rapid iteration are are these imperatives of modernization? So this, as we lay it out, this is what I, I consider to sort of be the gold standard. And I generalize this. I can customize this for per industry, per customer. I do it often. I customize this slide per industry per customer.
+
+00:15:05:18 - 00:15:26:13
+不明
+The sort of tells all this time is definitely inquire, acquire, engage, convert, retain and grow. But we can work within those confines to define series of events that your customers are going to go through. And so as we think about the content and data needed at scale and generative AI or a gigantic AI to drive the value you want.
+
+00:15:26:18 - 00:15:48:03
+不明
+We have to think about this in several categories. One of them is if we that doesn't show up very well on the screen, but audience segmentation, you can still, of course, use third party behavioral data. You need to have channel response data compelling, inspiring, differentiated content and high speed authoring. As we flow through this and we get into the engaged part, we have to have an active profile.
+
+00:15:48:18 - 00:16:10:35
+不明
+We have to be able to reuse copy for those profiles that are relevant and in time. And lastly, as we think about converting retention and growth, of course your your customer journeys can be quite a bit more specific than this. And I will give a couple of examples by industry of, of a version of this. So, just know that I'm going to build on this, and I think modern orchestration looks like this.
+
+00:16:10:37 - 00:16:32:12
+不明
+It's not just data supply chain. It's not just it doesn't just start with great analysis. It has to result in something activation and action. Okay. So with that we're going to shift topics. I'm going to spend a good chunk of time on the value of the coin. And that is the move to customer analytics putting customer at the center.
+
+00:16:32:16 - 00:16:51:38
+不明
+What I'm going to do over the next handful of slides is point out if there are a couple of other sessions that I think you need to go to. If you're if this is interest area. So I'm going to call out that session and say if it's not full, sign up for it. But but it's very much relevant to, to this topic and then a couple of other topics that I'll go through.
+
+00:16:51:43 - 00:17:13:31
+不明
+The customer data set, if you're using customer journey analytics or if you choose to use it, is incredibly unique. And I'm approaching this not as an Adobe salesperson. I don't I'm not a seller. I am a technologist through and through. When we look at, enterprise and step back from it and say, okay, you've got an enterprise data hub, you've got a customer data set, they should be absolutely complimentary.
+
+00:17:13:31 - 00:17:36:33
+不明
+And it will be incredibly unique and powerful. First of all, moving from device based analytics to customer analytics is a strategic and competitive imperative. Customer journey analytics will almost assuredly be the only fully correlated data set around the customer. Now you can you can write SQL against enterprise data hubs all day long and compute all day long.
+
+00:17:36:34 - 00:18:03:34
+不明
+But to have a uniquely defined customer data set that operates at high speed, including real time, and also is a no code solution is incredibly powerful as a complement to an enterprise data strategy, especially when it's not a cost center. So with that, understanding your enterprise customer IDs is critical for success. Be thorough here. I have had customers who adopted customer journey analytics who have tripped over customer ideas.
+
+00:18:03:39 - 00:18:22:40
+不明
+And my key learning over the last 18 months is to guide any customer who is interested in CJA to be very thorough about the ID strategy. So what that really means in practice is as you approach other teams for data sets that you want to build this customer data set around, then you have to know what IDs are on those data sets.
+
+00:18:22:53 - 00:18:42:02
+不明
+You have to know what IDs are the primary key. You have to know what IDs if they're customer related, and what IDs might be foreign keys or might be written in as as transient identifiers on a data set. So being thorough there is going to be absolutely critical. Aligning customer data strategy to the enterprise data strategy is also critical.
+
+00:18:42:07 - 00:19:06:09
+不明
+It earns you access as you build trust to data sets. But be purposeful. I would say, the number one thing I hear is from a customer who wants to build a CGA data set is just give us all the data and we'll figure it out. And I'm not a fan of that practice. I think you should absolutely be be purposeful in, in building customer, this customer data set.
+
+00:19:06:14 - 00:19:22:00
+不明
+And then once you have it, you'll be able to pivot and move in any direction for your business. I know n is a bold statement. I set it anyway because the data will always be up to date. If even if you're batching data and it will always be up to date and can even be real time.
+
+00:19:22:04 - 00:19:36:51
+不明
+Again, it's a very unique structure to have sitting side by side your enterprise data strategy. And it's also something that can be accomplished with no code, no SQL, no data crunching, and democratized.
+
+00:19:36:55 - 00:19:58:06
+不明
+So with that, I'm going to give you a quick primer on identity and how Adobe, uses identity. This is the graph based stitching primer. And I give you a few points. Just one point on, on, field based stitching and some and some, guidance there. So, first of all, if you want to know more on graph based stitching and do a deep dive, they did a session last year.
+
+00:19:58:06 - 00:20:20:24
+不明
+It's an updated session this year with Matt Thomas, who's the product manager on, graph based stitching. And that's session 109. Graph based stitching is, is the best place to start if you have multiple data sets starting like with customer journey analytics, you know, it's more than just clickstream data. It's more than just your CRM data.
+
+00:20:20:29 - 00:20:31:27
+不明
+You know, you're going to have three or more data sets. You should start with graph based stitching. Thank you. Appreciate that.
+
+00:20:31:31 - 00:20:51:33
+不明
+Field based stitching is best to start if you're moving just from clickstream device based analytics to one data set, or if you have a golden idea. I would I was going to say raise your hand if you know you have a golden idea already. Yeah, it's maybe a couple. Yeah. There are a small handful of customers who already have a golden idea.
+
+00:20:51:37 - 00:21:12:06
+不明
+So you can kind of see where I'm guiding you is there are two paths, two forks in the road. And, you should absolutely be digging into your ID scenario. Okay. Last one, a well understood ID strategy will help you collect first party. Will help you. Collect first party data in new ways.
+
+00:21:12:10 - 00:21:38:03
+不明
+And what I mean by that is, I think you've probably heard Adobe talk about this. When we think about customer experiences and value exchanges, our our digital strategy group, they talk about value exchanges all the time, not just loyalty programs. But there are many other ways to create a value exchange. And that value exchange results and something the customer wants that they value, but also results in you getting a piece of first, first party data back.
+
+00:21:38:07 - 00:21:56:13
+不明
+And I like to think of this as turnstiles, not doors. Privacy first of course, but turnstiles, not doors. Right. We don't want them to walk up and have to use an ID and password to get some value exchange, to create an account, to get a value exchange. That's that's very 2015 digital, right? We want turnstiles, not doors.
+
+00:21:56:20 - 00:22:15:54
+不明
+I can give you examples later. Of course. And just a quick image. You'll see more tomorrow if you decide to go to the ID wrangling session. But this is just a general, sort of view of how Adobe's, graph works. This works, by the way, as a central function in AP, not just for CGA. It works for CDP.
+
+00:22:15:55 - 00:22:39:46
+不明
+It works for agile. It works for CX. So it's centrally located as a service that can help you bring multiple IDs together in a in a, table in an ID mapping table, give you a stitched ID that's useful to write on to every column of of the of the clickstream data set. Once you have that written on to every column, that's called replay of the clickstream data set.
+
+00:22:39:55 - 00:23:16:24
+不明
+You can see what a customer was doing, what they were browsing, what they were interested in before they created an ID with you, before you ever saw one ID, let alone multiples, and replay what was happening when they were completely anonymous. That that tool in and of itself is incredibly powerful. So let's go through some examples. A semiconductor company using graph based stitching, multiple identifiers over a long customer consideration cycle to acquire the customer, but also to do ribeyes, right, for various projects, across multiple devices and source data.
+
+00:23:16:24 - 00:23:44:44
+不明
+So source data being CRM, being the data hub, other back end systems. They did have a golden ID, they had an account ID that was, that was solid, that had undergone master data management. They improve their time to stitch from three months per run at a significant compute hours per run to, live stitch, which is a real time stitching of the of an ID on to, the cookies and then a seven day full replay.
+
+00:23:44:49 - 00:24:12:34
+不明
+And they went from a modest just close to doubling their lives stitch analytics data set, which is useful for real time use cases to 93% of a match rate when they ran the full when the graph was was fully running 93% is extremely powerful. To be able to operate on and again to have long buyer cycles. So they really need to have a high match rate to do effective marketing to customers.
+
+00:24:12:39 - 00:24:34:19
+不明
+A multinational retailer use graph based stitching for cross-device and cross-platform customer analytics. So web and mobile, basically, they collapse the mobile app data set using a couple of identifiers. They collapse the web data set using a couple of identifiers and across domains and geos and with that they achieved, customer base data set with live stitch and one day replay.
+
+00:24:34:19 - 00:24:55:07
+不明
+They chose a different replay window because they have a lot shorter buying cycle. They were able to go from 0.3% match across those domains on their on their web data set to almost a 40% match rate on their web data set alone. They also were able to go from 60 to 90% match rate on their mobile data set.
+
+00:24:55:12 - 00:25:14:45
+不明
+What what that means when they go to talk to a customer like they know them in mobile, to do a push message to that customer, is that they can hit 90% of customers based on recent data. That's real, that's active, that's relevant, and it's timely and they can do that after a day if they want to send a message with trust in the data, up to 90% of customers.
+
+00:25:14:52 - 00:25:35:16
+不明
+So that's the real power here. That's why I say this is the Queen moving around the board. When you get to this state. This is where you have full action ability across the chess board. Okay. Did I go back? Oh, a US based retailer, using omnichannel customer analytics. So that's web, mobile and store. We'll get to that in a second.
+
+00:25:35:20 - 00:25:59:03
+不明
+Yeah, collapsed web and mobile data. And Union was store sales. They were able to achieve parity, and create a customer base, based data set. And they were doing this in a data science sort of, data hub, before. And they were able to achieve parity in terms of the numbers to their, their, data hub, within three months of implementation.
+
+00:25:59:07 - 00:26:24:11
+不明
+And stitch, get a fully stitched data set, match rate from 40 to 50 plus percent. So they were doing a good job in the data hub. But this this unlocked going to 50 plus percent match rate. And it's not just for consumers. There's account based sales in there as well. So it's a little complicated. They were able to get to 50 plus percent match rate and, and then again have a fully democratized data set.
+
+00:26:24:16 - 00:26:42:43
+不明
+Take action on this insight right now. Activate this customer base, activate this audience, etc.. So, I have a couple of other examples, that I want to walk through. And they're not they're not these case examples. They're more like what we, what I think in the rooms I've been in. What I think we're trying to measure.
+
+00:26:42:43 - 00:27:01:08
+不明
+So I just want to sort of round out the conversation around, some examples. And there are across industries. So the first one is a sr, quick, quick service restaurant. Think like, some of these brands might be in the room, but they're the first ones I think of, like Chipotle or Starbucks or Panera. Or chick fil A, for example.
+
+00:27:01:08 - 00:27:18:51
+不明
+So those are the types of QSR, as I'm thinking about, and one of the common tactics they want to offer is, is something based on affinity, loyalty program or something you've done recently. And they have contact info so they'll, they'll market to you. And if they can do that in a personalized way, even better.
+
+00:27:18:55 - 00:27:47:54
+不明
+They want you to, to create a mobile order. A lot of the time. Not every time. In fact, I was talking to a QSR who definitely didn't want mobile orders. They wanted to to talk to their staff. In fact, they think their staff is their superpower. But so in in any case, there's an order, in fact, that CEO sat across the table from me and he said the number one problem I have is when I have a great ad campaign and we get their order wrong, we execute, we get the orders, we build customer loyalty, and then we get an order wrong.
+
+00:27:47:54 - 00:28:10:25
+不明
+What, what can I do about that? And we just talked about measurement. We just talked about measure of the service inquiry. That might be not in your not happening in your mobile channel. Measure that bring it together. Use a graph to pull it all together so you can measure it all effectively. Measure when you give them points, double points or something to as a, remuneration against the issue.
+
+00:28:10:30 - 00:28:32:57
+不明
+And then measure if they executed a personalized offer after that. Here's another one for a hospital system. Similar flow. So you can follow the flow very easily. Hospital systems don't market to people outside their operating locale, right. But when they do market to people inside their operating locale, they want to be the provider of choice for for all of a family's needs.
+
+00:28:33:01 - 00:28:54:39
+不明
+So when they do that, they offer tools. They create tools like search tools, radius tools, provider to, search, rating systems, things like that, to help people find the provider of choice. And then what happens if there's no appointment? Click what happens if there's a service inquiry calls? The office says, do you take my insurance? I just want to confirm that sort of thing.
+
+00:28:54:50 - 00:29:26:44
+不明
+These are the things that I see customers measuring now. These are all omnichannel. Another one for wealth management. So, for my B2B folks in the room, wealth management typically has intermediaries, institutional investors and individual investors. They've kind of a complicated scenario. And so they're taking common B2B strategies like, sending out targeted ads on, on LinkedIn, for, for target audience, chatting with experts.
+
+00:29:26:49 - 00:29:44:06
+不明
+That's a turnstile, not a door. I can collect your email address and say, hey, here's the value to you if you finish this chat or if you somehow don't finish this chat, I'll email you the transcript. In fact, I'll give you an AI summary of the transcript of what you chatted with my expert about. So, turnstile, collect the email address in the background.
+
+00:29:44:16 - 00:30:07:43
+不明
+Let's say if there's no call to action, click. We have personalized self-service content. Now that we can drip out on a drip campaign around very specific strategies for for what that area, that product of interest was and so on. So you can see how what we're really trying to measure over the life cycle of a customer. Now, this might be like a six month time frame to get an investor to, to actually click in and engage.
+
+00:30:07:48 - 00:30:28:14
+不明
+So it's a long, long sell cycle. One more for SAS. You can see that it's very structured in a very similar way, but we see a lot of SAS high tech where again long sales cycle. And they want to hand off the sales directly. They want an mql at the end. They want to measure mql. We want to measure even better than Mql is like sells accepted leads.
+
+00:30:28:19 - 00:30:49:01
+不明
+Not just not just sales qualified leads are marketing qualified leads. Maybe even better. Like marketing qualified buying group. A note about that. There's a session begins tomorrow. You'll have to check at session 108. Where, I think it's a show that showed property and I can't remember whose co-presenter is, they're going to talk about agile. I think it's maraca angle.
+
+00:30:49:13 - 00:31:10:23
+不明
+They're going to talk about agile. Or sorry, a B2B edition. And what, what that solution looks like. I just have a couple of screenshots to tease that out. That I show, kindly gave me. But it is about expanding past just mql or lead based, analytics and account based analytics into opportunity and stage based analytics.
+
+00:31:10:28 - 00:31:45:48
+不明
+So that's an expansion. I think what you're going to see over the next couple of slides is there's a theme here about what customer journey analytics really is built to do. Now, I started with the Queen and talked about customer analytics and how important and strategic that is. But let's talk about a couple of other topics. First of all, for sure the move away from data provider ship to data ownership, it's absolutely critical that we make that move, that we make that shift in our enterprise, that we build trust with data teams and we build, not just alliances, but value propositions with the CXOs office, the Chief Data office, the Chief Information
+
+00:31:45:48 - 00:32:11:55
+不明
+office, so that marketing sits at the table eye to eye and not feeling like a pawn. Looking at the rest of the power tools on the board. So I would highly recommend when you have conversations with your counterparts. Focus on customer identity. Focus on aligning data layers even to enterprise schemas. That's where there's a lot of opportunity. And I'll give you a, teaser of a couple of tools that will really help you there.
+
+00:32:12:00 - 00:32:35:42
+不明
+In a second. Focus on KPIs and reporting context, directional versus truth that's still going to come up. That's still going to it's been something we've talked about for ages as Adobe Analytics, operators. But directional data versus, source of truth, you've got it. You've got a secret superpower that's sitting behind that, and that is that you can take action on reports directly if you have the right tooling set up.
+
+00:32:35:42 - 00:32:54:07
+不明
+And that doesn't just mean app it, of course, it means app if you have that. But if you have other solutions in your stack, there's still ways to get these insights out to those solutions to take action. We can talk about those later. Or if you want to grab me in the hall, certainly have ideas about that. So KPIs, reporting context and Actionability.
+
+00:32:54:12 - 00:33:21:36
+不明
+I think the value accelerators for you that you bring to the table, not just as conversation pieces, but these for me are the value accelerators you have. I agents and assistants working on your behalf. Now in a democratized data set, you have the potential for bearing or zero copy to read from a data hub. You have rapid iteration NoSQL, and you have the ability to unify across channels and create insights that nobody else get gets access to.
+
+00:33:21:36 - 00:33:44:56
+不明
+I think those are your accelerators. And they are they're, extremely important. I, spent some time with, a customer of mine in New York City about three months ago, and we were chatting and I just wrote down this note that she said, she said, I've gone from being a data provider to having a very real stake in our enterprise data strategy.
+
+00:33:45:05 - 00:34:06:09
+不明
+That's incredibly empowering when we think about just making it's not just adopting a tool like cookie, it's all the other things that came around it where she now feels like a data owner. Okay, speaking of adopting a there is a brand new, I call it the time to value tool, but it's TGA implementation guide. There's a session on this.
+
+00:34:06:09 - 00:34:30:32
+不明
+There's actually two sessions. One is moving ready at step McNamee session 113. And the other one is navigating your evolution. That's a lab. That's lab 122. The folks who are running those sessions are are so deep into this. They care a lot about you getting value. They've thought about the challenges from end to end. They've listened to me, they've listened to you, and they truly are building tools that will help you get value as quickly as possible.
+
+00:34:30:43 - 00:34:51:06
+不明
+They also have an agenda, an implementation prototype that if you want to scan that QR code, you can sign up for it. That's really about helping you build your schema. And so if you're interested in energetic AI getting into a beta, getting into the prototype, Dave. Will. Oh, did I skip it? Hold up. There it is.
+
+00:34:51:10 - 00:35:17:38
+不明
+There it is. Yeah. There's an identical AI prototype that's available for for, testing. Now, Dave and the team would love your feedback and would love to you to be involved in that. Okay, a couple more topics, and, and I just want to hit on, as we sort of start around the corner, preserving response now, I had a couple of sections.
+
+00:35:17:38 - 00:35:39:39
+不明
+I, was deliberating on whether I should which one I should keep in here because I, we only on so much time. So I decided to keep this one. There is a session that you can go to. It's been in session, and I'll flash up the session, number in a minute that we'll talk more about, evolving, customer journey analytics and laddering up your behavior, behavioral analytics.
+
+00:35:39:54 - 00:36:01:54
+不明
+But first I just want to kind of do a quick comparison between CGA and Adobe Analytics. For reference, I used Ometer site. Catalyst 13 was my first tool that I use. There might be some people in the in this car who who I go back further than 13, but it's pretty far back. So I've been using the tool since about 2009.
+
+00:36:01:58 - 00:36:22:08
+不明
+And I, I love Adobe Analytics. It changed my life. It changed my career. What really happened as I read the book Moneyball. And then I decided to apply that thinking to my, I was a product manager to my product management and use Adobe Analytics. The first metric that I use in Adobe Analytics was the return visitor report with return frequency.
+
+00:36:22:21 - 00:36:40:22
+不明
+So I wanted to see how soon they came back after they were a second visitor. And what I was trying to calculate was I knew that the return visit report showed me that then I needed three sessions for them to come back and finish the job I was trying to get them to do as a product manager. I needed three sessions, so any session I saw that had two.
+
+00:36:40:22 - 00:36:57:05
+不明
+I knew I was losing money because I spent about 600 bucks to get a customer end to that funnel and get them complete that job and if they only got the two sessions, I was losing money. If they got to three, I knew I was making money, and providing them value. So that would that's my backstory, in case you wanted to know.
+
+00:36:57:05 - 00:37:19:26
+不明
+But I love Adobe Analytics. I also the more I work with and I've worked with CJA for six years, the more I work with CGA, the more I see it truly as, a platform for analytics and not just a tool or a point solution for analytics. And here's why. And how. First of all, you saw the AI agents and assistants, start to leak out in today's session.
+
+00:37:19:26 - 00:37:38:18
+不明
+You're going to see more tomorrow. So that's a major differentiating factor. The fact that you could do mirroring from a data hub, is also going to be incredibly valuable. And a major unlock for you, fully correlated actual customer data. We talked about that one, a lot. You can still do customer, user and visitor experience.
+
+00:37:38:18 - 00:38:07:44
+不明
+So you're not leaving anything. Customer journeys, customer journeys, customer journeys, measure them, measure them. And I can give you some ideas as to how to measure them. I have a slide here in a second. That kind of gives you a view of the journey canvas and a view of form, flow reporting, behavioral analytics. Now, instead of using events and props, using data context, that's aligned to the overall enterprise data strategy, where there's no translation, not you don't have to talk in words that people don't understand.
+
+00:38:07:44 - 00:38:38:30
+不明
+You don't have to be a data provider. Just providing a data warehouse feed or a or a clickstream data feed to the data team, for them to handle, you can use that data, be complimentary and be aligned to enterprise data, speak their language. In fact, I think you can be a lingua franca. I truly believe that, that you can do behavioral analytics that is like a lingua franca across your enterprise because you can bridge people who care about customer retention, people who care about loyalty, people who care about acquisition, of course, marketing spend and so on.
+
+00:38:38:34 - 00:39:01:16
+不明
+So I believe you can truly be a lingua franca, content analytics, which you'll see more of. I'm going to tease it out in a second. But you'll see more about content analytics with experience, not just asset ID, experimentation, analytics. That goes beyond Adobe Target. And I love Adobe Target, but you can do experimentation analytics with any testing tool, including homegrown testing tools.
+
+00:39:01:21 - 00:39:24:12
+不明
+And lastly, product usage and adoption. And really lastly, lead account opportunity and and sales stage analytics. If B2B is is your jam. So let me just come back to that slide for a second. Like this is why I think that that, we are at an inflection point. I said this last year, but I'm saying it even more this year.
+
+00:39:24:23 - 00:39:43:45
+不明
+We're at an inflection point. As marketers, we truly need to have strategies that drive us into the next 5 to 8 years. Of of our value curve. Okay. So you can see I flashed up this, this report example of of using the, journey canvas. I think this is a phenomenal release that came out last year in customer Journey Analytics.
+
+00:39:43:49 - 00:40:04:57
+不明
+It can align to customers who are doing, journey orchestration with any tool. Of course, that can align. And one example here is you see that I'm using, our journey canvas to reflect what's happening with, with ticket sales, with our Journey Optimizer tool. But it doesn't have to be that. So I always like to come up with different case examples, because I know a lot of you in the room represent different companies, different industries.
+
+00:40:05:02 - 00:40:28:55
+不明
+So this, this case example is shop engagement with ticket sales. Okay. The session that that's been gains session control shift. That's session 111. Again, some of these might be full, but, if you have interest in these areas, I encourage you to sign up and do the overflow if you need to. Digital analytics represent 80% of the interactions any given customer will have.
+
+00:40:28:55 - 00:40:51:56
+不明
+And the merging of those behaviors with your customer data sets is where the real power is. Shift to thinking and journey orchestration and all roads lead to optimization. I used to say with Adobe Analytics, all roads lead to optimization or a ditch. It's like I drove my my optima. I drove my analytics car to that. It's so many times, but the only goal was to stay on the road and optimize.
+
+00:40:52:01 - 00:41:11:43
+不明
+Okay, a couple of last things. I'm just going to give you a quick preview of content analytics. This session that Jen Work Master is doing for content analytics is, session 104, I believe that's tomorrow. I tried to look at all these times and memorize them, but I had a lot going on. It pairs perfectly with Am sites and assets.
+
+00:41:11:43 - 00:41:34:37
+不明
+Customers are Jen Studio, Jen Studio for performance marketing customers being able to measure those experiences that you're serving up, I would encourage you to go buy the booth. There's an experience, a content analytics demo at the booth. We have experts there who have spent the last year, with our teams, understanding what continental does, how it works, what you can and can't do with it, and the nuances there.
+
+00:41:34:42 - 00:41:55:17
+不明
+But I can tell you this, quick, quick one. The Adobe team who runs our marketing, who ran Jen's studio, they were using our tools to to market to customers. And a story they told us was, was really compelling. There was this thing about. And I hope I described this right. Well enough for you to understand.
+
+00:41:55:30 - 00:42:16:37
+不明
+There was a story about. They were marketing imagery, generative imagery of cake, like pieces of cake. And this imagery went along with our, you know, creative, tools and clearly spoke to creatives. It looks delicious. It's enticing. Anyway, there's this thing about cake and how many clicks they would get from this content, and I loved it.
+
+00:42:16:37 - 00:42:34:36
+不明
+I love the story. But as an analyst, the first thing I said was, what? What what was it doing? Was it driving clicks to what? To what product? Which part of our business was it driving clicks through? Was it selling things? What what sold? You know, like I have 92 questions I'm going to ask now. Now that I know cake is the thing that people love right now.
+
+00:42:34:40 - 00:42:53:38
+不明
+And then is it going to change? Is it just seasonal? Did did it change in the summer when it was pie season or ice cream season? So anyway, you get it. But the power of being able to take those insights from the marketers that say, cake is the thing right now this is really working. And for us as marketers and analysts to go deeper and say, oh, it's working this way.
+
+00:42:53:40 - 00:43:13:54
+不明
+It's working on these products, it's getting these page views, it's getting these searches after these page views and so on and so forth. So that I love the power of of content analytics so much because it does, merge our two worlds, the creative world and of course, marketing and marketing analytics, chess players who think rationally about what's next, right.
+
+00:43:13:58 - 00:43:34:04
+不明
+Okay. So with that, I just want to go through a couple more examples. And this is about unlocking, customer experience. Right? We have, a lot of us have, CXOs, office or somebody, a VP of experience who's only focused on customer experiences. It's sort of a net new function over the last couple of years in our enterprise.
+
+00:43:34:04 - 00:43:53:33
+不明
+So I just want to just walk through what, how we think about this with customer journey analytics. First question, we can ask legitimately, because we can use a survey data source or some data source to say, how do our customers feel about our experiences? Are they positive, neutral or negative? Is there a CSat score related to this? And then we can say, okay, is the journey actually working?
+
+00:43:53:33 - 00:44:12:18
+不明
+And you can see that I'm just using a fallout report here. Just a simple follow up report. But I'm using cross channel data for that follow up report to see if it's actually working. Can we optimize? Can we do better? Is there some spot that's sticky or lots of fallout? Lastly, is there an audience we can address of high value?
+
+00:44:12:18 - 00:44:33:57
+不明
+And you can see my example I put up here that the, the, diamond, the platinum folks who moved to diamond status made us $3.64 million over this period that I'm reporting, just by nudging them along this value curve to do this thing. Right. So these are the types of questions we're really asking in customer journey analytics.
+
+00:44:33:57 - 00:44:54:56
+不明
+Now they look a lot like Adobe Analytics questions don't they? We are playing chess for sure. But they're just more powerful because I've got this customer centric. I'm calling back to those slides where I talked about those three customers who got 60, 70, 80, 90% match rates on the customer data set. There's a high trust in saying what they're actually doing here.
+
+00:44:55:01 - 00:45:20:34
+不明
+Last but not least, around, B2B, the types of questions that thus the CRO will be asking. What about pipeline efficiency? Am I driving rep productivity? Am I lowering the customer acquisition costs while driving better mql or even better marketing? Qualified buying groups? Am I addressing the full customer lifecycle? I know micro asked all the time. Renewal.
+
+00:45:20:34 - 00:45:44:53
+不明
+Upsell? Cross-sell? Yes. What's customer value look like? Like that's what. That's what micro is asking all the time. And these are the tools to unlock that. Okay, last but not least, I've got two more slides I want to present and then a survey. And what I'll say is for the survey, look, I really value I really value the survey course.
+
+00:45:44:58 - 00:46:02:24
+不明
+I value just your honesty in the surveys, in the scoring. So, I'll pop up the survey, it'll show you how to how to do the survey at the end. I'm not going to say five. Perfect score that I want. Maybe I will, because I want, I want, but if I earned it. Okay, that's all I'll say on the topic.
+
+00:46:02:29 - 00:46:43:33
+不明
+Okay. So look, power plays come when you put, all the pieces in the right place. And I think this slide does a really good job of sort of expressing where we fit in the ecosystem. Pseudo pseudo architectural is what I call it. So you can see it driven functions with data sources like CRM, data sets, app data sets, email data sets, like the data or call center data set that sits in a very specific group, more IT driven cloud infrastructure, master data management data hubs like Snowflake or Databricks or Google Cloud Platform or Azure, some other, tool that you might be using for or AWS.
+
+00:46:43:42 - 00:47:10:34
+不明
+Right. Like you might be using Azure Data Hub technology. It's going to sit in much more of an IT infrastructure and serve the entire enterprise. When we think about the customer data that we need to accelerate customer conversations and accelerate customer value, they need to live proximate to our engagement tools. Now, Zero Copy helps us to make a smoother transition between data hub, for example, and where do you want to do analysis for customer driven action?
+
+00:47:10:39 - 00:47:33:15
+不明
+But it's still you can't be hollering out from the back office trying to have customer conversations, trying to normalize data for personalization, for emails, and so on and so forth. So just just knowing that A is going to sit not in the AI driven space. Yes, you have to build trust with them, but it's going to sit in the marketer driven space adjacent to your tools.
+
+00:47:33:19 - 00:47:54:48
+不明
+In fact, collecting data directly from the engagement tools and then pulling data from the back end when it needs to. This is why I said it needs to be person. Needs to be purposeful. So just a couple clicks forward. Like, I think these are the sort of, imperatives restated after I've covered all the content needs to be real time and definitely unified or mirrored or both very purposeful in that regard.
+
+00:47:55:03 - 00:48:12:34
+不明
+It needs to be governed, of course. We are dealing with customer data in a privacy era. It needs to be orchestrated or or at least that we can orchestrate from it. Like that's an another imperative. We have to ask our data teams all the time, hey, can I orchestrate from it? We have to ask and build trust around orchestration.
+
+00:48:12:39 - 00:48:46:43
+不明
+Interoperability is key. You never have to integrate things that were never disintegrated in the first place. We're thinking interoperability, not integration. Gent, generative AI assistants and so on. So, I can flash that, slide back up and just give a cap that again. From a strategic perspective, when we look at the layout of the enterprise data strategy, it should go from enterprise data focused, serving the whole enterprise to customer data focus, serving the customer.
+
+00:48:46:48 - 00:49:04:54
+不明
+Let's play to win. Truly. You didn't show up for the Masters session of the of the chess club. And and but what you did show up is, is to win. So, look, I've got one last piece, that I want to show. And again, I think, the content is king, but data is queen.
+
+00:49:04:58 - 00:49:24:07
+不明
+And, you're going to win the game by putting customer at the center. And so I put a couple of things down that if I were in your shoes and again, spending the last year, with you in conversations, what I think the strategic imperatives are what I would do next. These are just ideas on what I would take back to the office on Monday.
+
+00:49:24:12 - 00:49:46:14
+不明
+I would be hyper focused on enterprise, aligning on customer. It is absolutely the understanding the enterprise customer ideas, understanding what's in those data sets, maybe getting a sample of the data set, just seeing what that looks like, controlling the center of the board through data ownership, I would be all about changing my leverage from data provider to data owner.
+
+00:49:46:19 - 00:50:11:26
+不明
+I would be using the new tools, including probably that I prototype that Dave McNamee he's going to talk about tomorrow. I'm all about that, accelerating functions using AI. I would be thinking about the AI agents and the AI assistants, and rapid iteration because, again, I think that's your unique proposition when you look back at your enterprise and say, here's what we can do for you, here's how we can do this.
+
+00:50:11:31 - 00:50:32:19
+不明
+And last but not least, I would definitely be thinking about the impending, announcement and, and release of, mirroring. And I don't know the official name, but that's what I'm calling it. Zero copy, federated data, whatever you want to call it. I think it's really called data mirror. So if you're interested in that one, go by the booth and check that one out a bit more.
+
+00:50:32:24 - 00:50:47:25
+不明
+So, okay. The last slide is my survey slide. And what I'm going to do is just look at the time. I think we're good. Thank you so much for your time, your attention, your attendance. Really appreciate it. And I hope you have a wonderful summit.
+

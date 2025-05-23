@@ -1,0 +1,452 @@
+00:00:13:06 - 00:01:19:41
+不明
+New Zealand's Prime Minister, Chris Hipkins, has described the flooding in the country's largest city, Auckland, as unprecedented.
+
+00:01:19:46 - 00:01:44:35
+不明
+Well, Marina and I go to, And that means. Good morning. And. Hello, everybody. And Maori, which is the native language of New Zealand. My name is Paloma Vivanco, and I'm the digital channels manager at Auckland Airport. And I'm joined here today by Marvin Gareth, who is the senior global product manager for Agco. And AI assistant. And today is all about AG and the power of AI assistant.
+
+00:01:44:40 - 00:02:03:00
+不明
+We're going to split the session up into two parts. So I'm going to share with you our experiences and our journey with Ijo within Auckland Airport and also our recent trials with AI assist. And then I'm going to pass you over to Amara, who's going to go through in a little bit more detail, the product roadmap for for AI assist.
+
+00:02:03:05 - 00:02:24:13
+不明
+Before I start, I guess I have to acknowledge, you know, the video that I just played you. And apologies, because it is a little bit somber for first thing in the morning. But it really does set the scene and it is really where our story does begin. So two years ago, around about now, Auckland actually was hit with a devastating climate change event, and it was actually the worst climate change event that we've had in our recorded history.
+
+00:02:24:17 - 00:02:58:28
+不明
+So in just 48 hours, Auckland received the same amount of rainfall that we would typically receive across an entire year. So you can imagine that one year's worth of rainfall just in two days devastated all of Auckland, but also had a devastating impact on Auckland Airport. Now I was just new into my role. I literally just started it was my first two weeks in the role, and so it was a real baptism of fire and a real crash course in trying to understand our systems, communication systems, our databases and how we could quickly, attend to customers and reach out to them.
+
+00:02:58:33 - 00:03:21:43
+不明
+Now, fortunately for me, the conversations around upgrading to or a bit of a, communications platform were really in flight. And so when this event occurred, it actually was kind of the final trigger for us to be able to really go and instigate some organizational change. So that's just a, I guess a little bit of context, around that video, a little bit about Auckland Airport.
+
+00:03:21:48 - 00:03:41:56
+不明
+But actually before I start on Auckland Airport, maybe a little bit about New Zealand. Hands up anyone who's been to New Zealand or know where it is. Oh, fantastic. All right. Okay, so we're a little island off the South Pacific. We border Australia. We've got a population size of around about 5 million. 2 million of which resides in Auckland, which is the largest city.
+
+00:03:42:01 - 00:04:04:55
+不明
+And because of our geographic, geographic location, we're not really a transit or transport transport hub. You know, we're very much an in destination. So people's journey either starts or ends in New Zealand. So Auckland Airport really is our, I guess, our gateway, into New Zealand, into the country. We have anywhere between 400 to 500 flights daily coming in and out of our terminals.
+
+00:04:05:00 - 00:04:32:42
+不明
+And any one year we could see between 10 to 15 million passengers come through our terminals. And we offer a range of different services from parking, VIP lounge, e-commerce, retail, and most recently, outlet shopping malls. Now, unlike other airports around the globe, we are not actually government owned. We're privately, mostly privately owned. And so with that comes a real commercial lens and a commercial focus on everything that we do.
+
+00:04:32:47 - 00:04:52:35
+不明
+And off the back of this tragedy and this event that occurred a couple of years ago, a management team came up to marketing and said, hey, look, we've got to do a better job of having a direct communication and a direct relationship with our customers. We have millions of people that come through our terminal, but we have a disproportionate number of people that are actually in our database and that we can actually talk to directly.
+
+00:04:52:40 - 00:05:11:22
+不明
+So that was the challenge that, management gave us at the time. To meet that challenge, we had to look aromatic systems and see what we had in place. And it's fair to say that it was a pretty substandard, you know, at the time, we had a very fragmented and a very decentralized approach to the way that we managed, marketing communications.
+
+00:05:11:27 - 00:05:32:37
+不明
+Every business unit was talking to customers in their own way. We had no centralized subscription center or any way to kind of centralized preferences opting in and opting out, which actually was leading to quite high exposure or data exposure and data privacy. We had obviously limited, personalization, and not so much because we had limited data sources.
+
+00:05:32:38 - 00:05:49:32
+不明
+We just weren't doing anything with them. We were quite restricted in terms what we were doing, all of our data points, and we only really talked to customers in email. You know, that was the only the only way that we reached out to customers. So we had a number of challenges. So to get us on our road path, we, implemented IJA.
+
+00:05:49:40 - 00:06:07:52
+不明
+And that was our first real step change. So on the left hand side, I guess, was our old paradigm. And this is a very simplistic view of our architecture, but we were really only ingesting one main data source, and that was CRM. And CRM was fantastic. I mean, it's got a lot of rich data for us, but it didn't have a lot of behavioral data for us.
+
+00:06:07:53 - 00:06:30:54
+不明
+So that's where our limitation was for us. And as we moved to age zero and our new paradigm on the right hand side, we are now able to ingest a lot more data channels, websites, app. And soon we're going to be ingesting, Wi-Fi usage. And we're also increasing the number of channels that we're speaking to customers with as more of our customers obviously use their mobile when we're in an airport terminal.
+
+00:06:30:59 - 00:06:48:07
+不明
+So what's that help to unlock for us? Well, it's helped to unlock quite a few things for us, actually. Firstly, it's, it's really now we're able to do far richer, engaging customer experiences than ever before. And this is a just a very typical user case and user journey that we, that we set out for our customers.
+
+00:06:48:07 - 00:07:06:25
+不明
+And this is a typical parking journey. Example here is a chap called Mike. You know, he might purchase a car park with us. And we know that because that ends up in AJ. So we can see exactly what product he's bought. We know that this might be a bit of an average mid-tier sort of parking product. And so we want to upgrade him.
+
+00:07:06:25 - 00:07:27:44
+不明
+You know, we want to give him the experience of valet. So we're going to send him a little confirmation email saying, hey, Mike, how about trying a new valet service? We're gonna offer him a 50% discount on whiskey. Why whiskey? Well, because we know, based on his browsing behavior that he's frequented our catalog, our whiskey catalog, we also can see in our transactional data that he's purchased whiskey before.
+
+00:07:27:44 - 00:07:51:50
+不明
+And again, all of that goes into AJ all. So Mike takes us up on the offer. He pops the whiskey into the shopping cart. But he's a busy man and he's got to pack for his travels. So he forgets about it. He walks away. But again, that's okay because when Mike arrives to our terminal, we can see that he's come in with a parking information that comes into Ajio and we can serve him a little welcome email saying, hi, Mike, welcome to Auckland Airport again.
+
+00:07:51:55 - 00:08:11:20
+不明
+Don't forget your 15% off your whiskey and you can use this voucher now physically inside duty free. So we now been able to cut I guess you know close the gap on you know every part of that that journey with with Mike. And at the end of all of that, when he comes back from his travels, we might want to send him close it out with a nice little survey at the end saying, how did it go for you?
+
+00:08:11:25 - 00:08:29:33
+不明
+So this is a reality now for us. And a new paradigm shift to where we were, you know, a few years ago. I guess the biggest step change for us is that we've moved away from kind of working in these, what we call individual silos or individual swim lines, you know, where everybody was kind of being spoken to by every business unit.
+
+00:08:29:38 - 00:08:57:56
+不明
+We really look at everybody just as a single customer of you. And today Mike might be a business traveler, you know, purchasing his whiskey. But tomorrow Mike is a family man, you know, and he's going away on holiday. And so his, his his circumstances are quite different. And so as a result of being able to appeal to his different preferences and know what his trip is about, we've actually been able to really increase, our database size and all of our preference options.
+
+00:08:58:01 - 00:09:20:31
+不明
+And over the course of the last two years, we've been able to increase our database size by 48%. As a result of these little step changes. So how that's resulted in, in revenue? Well, that's actually had a direct impact in revenue for us. So in year one, since implementing IPO, we've had a 75% increase in automation in campaign revenue.
+
+00:09:20:36 - 00:09:41:13
+不明
+And, you know, recognizing that obviously our baseline was fairly immature and fairly low, you know, we realized that there was going to be quite a big uplift in year one. But in year two, which is where we're at now, and we haven't quite finished our financial year, but on current run rate, we're looking at an increase in 50% in automation in campaign revenue, up from last year.
+
+00:09:41:18 - 00:10:07:08
+不明
+So all hitting and and sort of the right direction. So how does I kind of play a role in all of this? And I guess, you know, to start this story, I guess we've got we're going to go back a year. And it was actually right here at summit, where we were having conversations with the AI product team, and they were telling us a little bit about the enhancements and the improvements of aging through AI system.
+
+00:10:07:13 - 00:10:25:10
+不明
+And we got very excited, and we put our hand up to be part of the the beta program that was being offered at the time. But, unfortunately, when we've been back to, headquarters, and in Auckland, you know, that wasn't that well received. You know, there wasn't a lot of appetite for trialing AI products at the time.
+
+00:10:25:15 - 00:10:42:00
+不明
+And the reason for that is that we just didn't really have any guidelines and policies in place. And really, we were just fairly immature in that journey. So that was a bit of a problem because, you know, we had to figure out how we were going to get on the, the AI train. But we needed to get the business to kind of get behind us.
+
+00:10:42:05 - 00:11:09:21
+不明
+And so what we did is we, engaged internal communications to put together an internal awareness campaign around AI usage within the organization. We suspected that people were already using AI in some size, shape or form just because we didn't have policies and guidelines. That meant that people were not using it. And so we worked with corporate comms to develop a series of surveys, to try and figure out, you know, what that that usage was like.
+
+00:11:09:21 - 00:11:39:31
+不明
+And as we suspected, there was a lot of AI usage happening already. You know, a lot of people were dabbling there, were trialing. But I think the alarming thing was that there was a lot of unauthorized tools that were being used across the organization. And so I guess our kind of theory was, you know, if we could kind of present the case that actually, you know, it was infinitely better for us to be working with a trusted enterprise grade partner to do a form of AI trial where we knew that our company data was going to be safe and secure.
+
+00:11:39:35 - 00:12:03:30
+不明
+So so that was really it. And that was the trigger point, for the organization to, start developing the policies and the guidelines. So it worked very closely with legal and HR. And about eight, nine months ago, we released our our AI policies. Now it was on the base on that basis, by having those policies in place, that we can then go and sign the agreement with Adobe to then kick off our AI assist trial.
+
+00:12:03:44 - 00:12:22:38
+不明
+So that's really how it all happened. It's worth mentioning as well that at the time, we were also looking at a major corporate rebrand and repositioning. So there've been a whole series of, you know, brand library and photography that had been developed. And there are a lot of questions around, you know, how is I going to play a role in that?
+
+00:12:22:38 - 00:12:44:02
+不明
+You know, when would we use proprietary, company imagery? This is, you know, what I was generating. And so that was a really big debate and a big topic that was discussed between brand and, and the legal department. And where we landed with that was that the company was very open to using AI imagery. But if and when we could properly reference and we could cite it.
+
+00:12:44:07 - 00:13:03:39
+不明
+And so we came up with this idea of citations, references, which is, you know, as long as we use the tagline. This image was developed with the support of generative AI. All this content was developed with the support of generative AI. Then actually the business in the organization was what it was okay to bring it forward. So moving on to the trial.
+
+00:13:03:39 - 00:13:28:25
+不明
+So we've got our policies in place. Tech. We, signed our agreement with, the product team Tik. We now set out to do our trial, and management gave us sort of three areas to look at. When testing AI system. So the first was campaign development. So, you know, what sort of efficiencies and gains could we get using AI assistant, and how could we get things out to market a lot quicker and a lot faster?
+
+00:13:28:29 - 00:13:49:53
+不明
+The second was looking at imagery development. And again, within the context of what I was saying with our brand library, you know, what could we, develop ourselves versus what I would develop? And was it on brand and, you know, was it compliant? And then the third area, which was probably the most exciting for us was, you know, could AI assistant actually deliver a commercial return for us?
+
+00:13:49:58 - 00:14:09:47
+不明
+You know, I mentioned to you before that we are mostly, privately owned and so had getting a commercial return on everything was is really important for us. So those were the three areas that we were looking at as far as campaign development was concerned. I mean, this was a bit of a no brainer. I mean, I was incredibly intuitive and very easy to use.
+
+00:14:09:52 - 00:14:33:34
+不明
+Customers, you know, market is simply, you know, put in a couple of prompts, you get delivered for different variations, you can choose tonality, you can choose the length. And you know of your of your email, whatever it might be. Subject lines, quarter actions. And the best thing about it is that you pick one of these variations, you forward it to your stakeholders, and they can give you feedback about, you know, how that content's coming along.
+
+00:14:33:39 - 00:14:58:48
+不明
+So from that perspective, very easy and very straightforward to use. The other area that we looked at was, you know, could I and five five with an AI assist help to replicate some of our existing newsletters and templates. And again, this was really effective. On the left hand side is what we call our base communications. On the right hand side what I came up with, and I think you can agree that actually it's a pretty good, you know, comparison.
+
+00:14:58:53 - 00:15:17:02
+不明
+You know, we put in a prompt there about a coffee cup of coffee in a coffee cup and it's come up quite well, a prompt about an Asian lady holding a red handbag, wearing a red dress that's come up very well. It's actually, it's a pretty good job of simulating the same thing. The only gaps that we're still seeing is when it comes to logos.
+
+00:15:17:07 - 00:15:43:48
+不明
+And you can see at the bottom there that we obviously need to use logos for our liquor brands. And that's one of the limitations currently. Still with, with Firefly. But where we think we're going to get probably the biggest gains with AI assist is certainly with our emergency communications and our service comms. So this is communications that has to be done very quickly on demand, often at very unsociable hours of the night or morning.
+
+00:15:43:53 - 00:16:08:11
+不明
+And so I just is really good at being able to do very direct communications very quickly. Where there's probably, I would say, less subjectivity involved, right, where you just have to be very factual about what it is that you're trying to communicate. And we've timed it and we've kind of gone through the workflow process, and we think that we can shave off around about 30 to 40% of email production and execution time using AI system.
+
+00:16:08:16 - 00:16:29:37
+不明
+So that's where we think we think we've had some good wins, I guess on on campaign development now looking at imagery development. And again, as I said, this is a bit of a hot topic and a very sensitive one, at the time. But what the brand team wanted to know was, right. If we feed, AI assist with some prompts around our brand library, you know, what can it come up with at the other end?
+
+00:16:29:41 - 00:16:52:28
+不明
+And then here, the prompt we put. Okay. At an Auckland airport, at an airport car park. Mother and children loading car, ready to go on holiday. And look, we tried lots and lots of different variations. And this one here, I just have to show you because it's, put a smile on my face. So obviously there's nuances there with the hands, but, you know, being on a live runway is a little bit dangerous.
+
+00:16:52:33 - 00:17:15:58
+不明
+So, we unfortunately can't use imagery like this, for brand. But I think where we've learned with this is that, you know, we're very open to using, AI imagery and photography. We think it's got a little way to go still, and we're working very closely with the AI team until we get there. But I think it's something that's deeply personal, and,
+
+00:17:16:02 - 00:17:33:40
+不明
+Yeah, we just because it's, you know, brand and image is quite important to us. We have to make sure that this is really bright. Where it does work very well, however, is with inanimate objects. And this is a campaign that we ran, using five flight AI system. I think you'll agree. It's a really beautiful execution.
+
+00:17:33:44 - 00:17:50:02
+不明
+We use this digitally across lots of different platforms. And then we also took this to external, outdoor media. And that was very effective. So coffee cups, backpacks, those sorts of things, you know, very happy to continue using AI system.
+
+00:17:50:07 - 00:18:10:51
+不明
+Right now looking at commercial effectiveness, which is I think where everyone gets quite excited is, you know, how can I assist, help us to deliver some kind of return? And in these, trials, what we were looking at was to say, okay, let's do a baseline, let's do an AB split test. On the left hand side was what our, marketing teams would develop on the right hand side.
+
+00:18:10:51 - 00:18:29:22
+不明
+What I is to help us to come up with. And, this one was very simple. We just asked ISIS to change some subject lines for us. And through just a very, very simple changes, modest changes in this campaign, the AI variant delivered five times the number of sales conversions. So that's incredibly high. And so we looked at that one okay.
+
+00:18:29:34 - 00:18:47:52
+不明
+That might just be an anomaly. Let's do some run some more tests. But when we look at it it's it's quite interesting if you look at the wording that ISIS has used there, it's actually very direct. You know, on the left hand side, we've been quite abstract with our definition of of wines and spirits, but this has been very direct and said, look, it's about New Zealand wines and spirits.
+
+00:18:47:52 - 00:19:11:01
+不明
+And here's an icon, an emoji of a wine. So there's probably no surprises there that it probably got high click through and high open rates. In our second test, we ran this one with our outlet shopping mall. And in this test we asked I asked us to actually rewrite the whole thing. So not just the subject line, but also the content, the copy in the middle, and also the call to actions.
+
+00:19:11:05 - 00:19:31:55
+不明
+And again, we had a higher, conversion and and click through rate with the AI variant. So now this particular campaign didn't have commercial revenue attached to it, but had it of had commercial revenue, a 2% increase would have been actually material for us. So again, we thought this was a really effective campaign.
+
+00:19:32:00 - 00:19:53:15
+不明
+Enough third example. We, ran a campaign with our parking team. And they're always quite keen to get people to book parking in advance. So this campaign was about making sure they did that. On the left hand side, A-B split tests, what we came up with on the right hand side, what I came up with, and again, and changing also the call to actions.
+
+00:19:53:20 - 00:20:14:51
+不明
+This particular example, we actually received a 30%, more converted sales in the standard one, which again is phenomenal. So I think where we've landed with us is that we're at the point where, you know, we've done our testing and, we're really comfortable. We're with I assist and we're really quite ready to start making it a part of that everyday muscle.
+
+00:20:14:56 - 00:20:30:14
+不明
+And, and also our marketing team, I think that the good thing about these tests in these trials is that our marketing team have come on this journey with us. I think it's fair to say that when we started, there was probably a lot of reticence from our designers and from our social team, because I didn't really know what it meant for them.
+
+00:20:30:14 - 00:20:51:34
+不明
+Right. But now because they're a part of this and they see that actually this is just an extension of them, and it's actually ultimately helping them to make their lives a lot easier. They are a lot more supportive and willing to use the tool. So that really kind of concludes our test. And I guess as far as, you know, looking ahead for us, we've got a lot of really cool, developments happening this year.
+
+00:20:51:48 - 00:21:13:12
+不明
+The first and exciting one for us is that we're doing a big migration of all of our websites and am so we can now have a really nicely connected ecosystem with all of our Adobe suite, and continue that whole concept of a single customer view. And the other thing is that we are about to transition ourselves out of that, a loyalty kind of program and loyalty scheme, which is quite points based and accumulation based.
+
+00:21:13:17 - 00:21:35:33
+不明
+And we're moving to one which is more about customer engagement and real time rewards and instant rewards. And so it's is going to be front and center, in that program, and I think that it's probably fair to say that overnight, we're going to have so much more content and offers and material that we're going to have to develop, and we can't see our marketing department getting any bigger to be able to service that.
+
+00:21:35:38 - 00:21:58:33
+不明
+So we're going to have to rely on, you know, tools like AI serves to help us deliver that content. We just won't be able to do the scale up by ourselves. So I guess in summary, that's that's kind of really it that's that's, the trial that we ran. What I would say is that, you know, I've spent a lot of time talking about the kind of the cosmetic side of AI assist, you know, the content and the imagery and all that kind of thing.
+
+00:21:58:33 - 00:22:19:55
+不明
+But I think where some great value will come out of AI, this will be in the, the ability to use natural language to develop audiences, identify audiences and segment groups, and also develop journeys. So once we start to do that, we actually start to make the tool a lot more accessible to the rest of the organization, which is something we really want to do.
+
+00:22:20:02 - 00:22:38:22
+不明
+We want it to be more deeply entrenched into other departments, not just marketing. So we're really excited to continue working with the buyer and the product team on that. And yeah, I can't wait to see what the future roadmap looks like. So of the, I take look.
+
+00:22:38:27 - 00:23:06:43
+不明
+Thanks, Paloma, for that. You know, wonderful hearing, the journey, the transformation journey that Auckland has been through. I'm glad to see that, you know, you've been able to leverage AI assistant and then get value out of it, for organizations, you know, who, and we've seen with organizations, right, that are early adopters. And then there are laggards in terms of adopting AI, for organizations who are, you know, just kickstarting their AI campaign content creation workflows.
+
+00:23:06:48 - 00:23:25:34
+不明
+Do you have any recommendation, tips and tricks basis your experience the last few months? Yeah, I mean, I think the first thing I'd say is if you already have a Jo, then absolutely go sign your addendum to unlock AI assistant. I think that's a no brainer. It doesn't cost you anything. And it's there for you to use.
+
+00:23:25:38 - 00:23:45:40
+不明
+And the second thing I'd say is that, you know, bring people along on the journey. I think that's probably the biggest lesson I've learned. We make assumptions that everybody has the same common understanding of what I can do for us, but it is actually very, very different. So I think the more you get people involved and you bring them along, the journey and make them part of trials, I think, you know, you have much better success in adoption.
+
+00:23:45:44 - 00:24:06:50
+不明
+It's great, great. Thanks, Paloma, for the advice. What I will do is, you know, over the next few minutes, walk you through assistance, for content generation, specifically its current capabilities as well as, you know, what we are planning for in 2025. Now, it you know, I need not, you know, sort of be affirm, right.
+
+00:24:06:50 - 00:24:31:20
+不明
+The importance of generative AI when it comes to content generation. You would have heard quite a lot, during the last 2 to 3 days at summit in terms of, you know, how marketers are leveraging, gen I, for their content creation workflow, right? It's not just in terms of the volume of content that Gen AI is able to help marketers with, marketers, you know, these days are under a lot of pressure to churn out quite a lot of content.
+
+00:24:31:20 - 00:24:50:02
+不明
+Right. And these content needs to be hyper personalized as well. Gen AI is able to understand context and then be able to, you know, give them multiple different variations. Marketers sort of struggle with, lack of bandwidth. You know, they need to coordinate with design team copyright copywriters to be able to come up with all these variations as well.
+
+00:24:50:11 - 00:25:19:48
+不明
+It's a constant struggle for them, right? Churning out a lot, lot of content. This is another area, you know, where where in had helps. There are also scenarios, you know, wherein brands needs to send out omnichannel or multi-channel communications. It's important that the way in which or the manner in which you communicate across all of these channels remains consistent and when you do it manually, obviously, you know you can do that, but, you know, there would be a little more to and fro, a little bit of review cycle that happens that sort of elongates that entire process.
+
+00:25:19:53 - 00:25:41:36
+不明
+Where I can also help is, you know, in terms of getting feedback. And then it's not just with the initial variation of content that you create, right? When you run campaigns, obviously you have to iterate on it. You know, you take feedback in terms of how customers are interacting, interacting with the content basis that, you know, if there is a possibility, then you try and define some of those content as well.
+
+00:25:41:47 - 00:26:08:54
+不明
+That way you're able to, you know, make, better impact on your marketing KPIs. This is another area wherein gen AI helps, now bases at least I know I've been speaking to quite a lot of market as of late in terms of, you know, their adoption of gen AI. A lot of organizations, if you see, they are still in the path of, you know, adopting enterprise gen AI within their organizations.
+
+00:26:08:54 - 00:26:34:58
+不明
+Right. But if you speak to marketers individually, most of them do use, you know, some sort of tool, you know, that helps them with their ideation. Maybe not in production, but at least with their ideation, initial, content versions, and then they sort of refine on, right, the challenges with using, you know, base models, you know, generally models is, one is, these models, you know, may not have contextual, data related to your brand.
+
+00:26:35:00 - 00:26:58:22
+不明
+Right? Typically brands would have a tone of voice, for example, in terms of, you know, how they communicate with their customers, right? There would be brand guidelines in terms of what is, allowed, what is not allowed those things until unless, you know, you are able to, you know, manually, train the model or give it provided additional context, it won't be able to come up with an initial version that sort of aligns with this.
+
+00:26:58:24 - 00:27:20:02
+不明
+Obviously, you know, you can iterate with the prongs, you know, go through multiple iterations and get to a state, but that takes, you know, a little longer for you to get there. The other one is, you know, individual users using tools separately without any governance in place. Just, you know, elongates your review cycle. Right? All brands would have a review cycle, you know, before they send out communication.
+
+00:27:20:07 - 00:27:43:31
+不明
+There would be chances of errors creeping in. You can avoid all of that. You know, if it's more governance, if it's more centrally aligned. And then there is a workflow that is put in place to ensure that, the content creation process itself is streamlined. The last one, the data itself, you know, if individual users, you know, start putting in company related data or related data into some of these models, it might be used.
+
+00:27:43:31 - 00:28:03:36
+不明
+I'm not saying it would be, but it may be used, you know, in some scenarios, you know, to retrain the model, which means, you know, this data goes out. These are, you know, some of the, existing, generative AI capabilities, you know, that is already available in AG or today, right, that you can leverage, you know, for your content creation workflow.
+
+00:28:03:41 - 00:28:28:12
+不明
+It allows you to generate content across multiple channels in Geo. So be it email, SMS, push landing pages, web content. And when I say email, you know, it's not just, you know, full fledged, full HTML version of the email. One of the examples that Paloma's showed, it could also mean, you know, individual text blog images, combination of text and images, just subject line, pre head.
+
+00:28:28:17 - 00:28:55:22
+不明
+It gives you complete flexibility in terms of choosing individual components, content components and then getting suggestions for it. The other one is, you know, pulling in restrictions. Right. So, adhere to today allows admins or brand, administrators to ensure that certain sections of the email are locked so that marketers or content creators, when they actually create the final version of the email, they don't modify certain sections.
+
+00:28:55:22 - 00:29:19:59
+不明
+Brands need, you know, such governance in place to ensure that their brand guidelines are met. You know, before sending it out. Now assistant owners these you know, it wouldn't allow you to modify sections. You know that is already logged in. Next one is, adherence to brand guidelines, right. Again, in terms of the content creation workflow, this is one of the areas, you know, wherein the other is a lot of to and fro review that happens.
+
+00:29:20:03 - 00:29:37:47
+不明
+Create the content. You know, it needs to get approved in certain scenarios by legal, in certain scenarios, by brand teams to ensure that the content is aligned with the overall brand guidelines. Right. And this could, you know, be across multiple things. You know, it could be across the color, typography that is used, the tone of voice in a certain language.
+
+00:29:37:47 - 00:30:03:38
+不明
+That's the copyright across multiple different categories. Today, you know, as a media capability, you have the ability to upload your brand guideline. It automatically extracts out, content from your brand guideline, categorizes it into, you know, different categories, subcategories across writing and visual. And you would be able to leverage that. When you generate content, it automatically ensures that the content is in line with whatever is defined in your brand guideline.
+
+00:30:03:42 - 00:30:21:14
+不明
+We also have an upcoming capability, you know, that would be released next month in beta that allows you to do a quick validation against your existing brand guidelines. So if you have set up a brand that is published and you have a content in place, instead of doing a manual review, you can ask AI to do a quick review.
+
+00:30:21:14 - 00:30:38:23
+不明
+It will automatically give you an overall score of how compliant the content is. Against your brand guidelines. It will give you details in terms of where exactly there is a mismatch, and it would also be generating a recommendation for you. That would be an easy fix for you to apply. There are also approval workflows built in.
+
+00:30:38:23 - 00:31:08:58
+不明
+Again, a key component in terms of creating campaign marketers need or brands need governance in place to ensure that the content is checked before sending it out. So you would be able to create content, ensure that the content is approved by different stakeholders before actually orchestrating the campaign. Last but not the least, you know, you would also be able to run experiments in which showcase the different experiments that they did, the test that they did, and wherein they were able to find value.
+
+00:31:09:03 - 00:31:29:51
+不明
+You would be able to create different variations using AI itself. You know, you can either on an AB test against, manually created copy or use multiple different variations itself that generated by AI, and then run this AB test and automatically scale the the one that is performing better, which gives you more ROI in terms of the campaign itself.
+
+00:31:29:56 - 00:31:59:54
+不明
+What this leads to is you know, what you find here on the left hand side is, typical process, campaign creation process, which includes multiple different steps, multiple different stakeholders, lot of to and fro that's happening between, you know, different stakeholders who are involved at these different stages. And on the right hand side is a much more streamlined workflow that you could eventually get to, wherein you use a single tool to, you know, sort of handle all of these campaign creation tasks in one single flow, right?
+
+00:31:59:54 - 00:32:31:24
+不明
+Right. From creation of content, assembling of different contents. You know, you Joe has today fragments in place, content templates in place. You would be able to leverage each of them, assemble your content, have the necessary personalization added in, go through an approval workflow aka workflow. Once that is done, you know, you can, deploy it and then orchestrated, want also wanted to highlight, you know, some of the key capabilities, you know, that we are launching that is going to help you, you know, fast track some of these I related capabilities within.
+
+00:32:31:35 - 00:32:51:35
+不明
+So, like I said, brand and other checks, is already available as a beta as of Feb. So in case you know, you want to use it. Yeah. You know, you just have to sign the agreement and then it would be available for your organization. There is also ability to create content in non-English language. Multi-language support is there.
+
+00:32:51:48 - 00:33:17:20
+不明
+So you can, key in a prompt in your native language and generate content in your native language. You can key in a prompt in English and then generate content in native language. All the flexibility exists in terms of creating content. You are also going to be integrating, with content analytics. Later. The intent here is, you know, marketers needs to go deeper in terms of how every component within the content is performing.
+
+00:33:17:20 - 00:33:41:01
+不明
+Right? There could be various attributes related to a content, images, for example, in what colors, are users responding to, you know, in terms of the copy itself, you know, how is the tone of voice, what tone of voice are users responding to? You would be able to gather feedback and then, feed that back into AI so that the content generated is much more in line personalization, script helper is another capability.
+
+00:33:41:06 - 00:34:01:08
+不明
+Ideal. You add a lot of personalization to the email that you send. We are releasing a capability that will allow you to use natural language to be able to generate these personalization scripts. Editing with express is something, you know, that we are going to be releasing, in March. It will be available as of, next week.
+
+00:34:01:13 - 00:34:22:33
+不明
+What it allows you to do is, you know, you can use AI, the examples Paloma showed in terms of image generation, you can create those images. And the ads that we have had from a lot of marketers is the ability to edit those images in line itself. You know, before sending out the, email, you will be able to use express within the editor to open that image in express and edit it out.
+
+00:34:22:33 - 00:34:39:07
+不明
+It could be as simple as, you know, you adding a text overlay over the image, right? Removing the background, you would be able to do. All of that gives complete autonomy to marketers to be able to do that. Within the context of the content itself. They are also going to be releasing themes as a media capability later in April.
+
+00:34:39:12 - 00:35:04:38
+不明
+Themes is, you know, more aligned towards your style guides. Right? Most brands will have style guides in terms of what colors should be used across different components. You know, be it button be the divider, h1, h2, paragraph, what font should be used? What font sizes should be used? You would be able to define all of these centrally, as part of themes and making it easy for you to apply these themes across any component within the content.
+
+00:35:04:38 - 00:35:13:33
+不明
+Right. It could be at an email level. It could be at a fragment level, it could be at a template level, gives you complete flexibility to do that.
+
+00:35:13:38 - 00:35:42:46
+不明
+This is a short demo video of the existing GA capability. Assistant. This is, simple example of a marketer creating a full fledged version of an email including subject line and then, pre header using a simple prompt. Right. Comes up with two different variations. And the marketer can choose one of these variations, you know, if they need it or they can iterate on it, change individual components or keep refining the content before they get to the final version.
+
+00:35:42:57 - 00:36:11:27
+不明
+This is another example of generating a simple text variation, not a full fledged email. You can select individual text block key in a prompt, tweak some of the parameters in terms of tonality communication strategy. And it comes up with multiple different variations. They can continue to refine this or choose the one that is most appropriate, and then insert it into the edu email editor right away.
+
+00:36:11:32 - 00:36:40:26
+不明
+All these quick action options in terms of refining the content, readily available in the editor. Another example of using, image generation, in the image generation capability, you know, you can individually select images and then generate them. What you can also do is, you know, you can provide style references in case that are style references and ensure that the image that is getting generated is aligned with the uploaded, image, that you have added as a style reference.
+
+00:36:40:26 - 00:37:10:03
+不明
+It will keep the style in check. Comes up with four different variations of the email with the same style. I also wanted to quickly show you, you know, a demo of, the brand guidelines capability in Azure, which is a beta capability. What you have here is, you know, revile coffee is a fictitious brand. There is a simple, brand guideline document that I've kept there.
+
+00:37:10:08 - 00:37:30:05
+不明
+It includes, you know, different guidelines, do's and don'ts, things that the brand needs, the copywriter needs to take care of while creating the content. Things you know that they shouldn't be, including within the copy of the email. Certain examples in terms of, you know, how the content would look like, these are examples. That is that the document is in the form of a PDF.
+
+00:37:30:10 - 00:37:46:50
+不明
+And most brands, you know, do have these guidelines in place. All that you need to do is go into Azure. There will be a section for brands, you need to upload the PDF.
+
+00:37:46:55 - 00:38:15:12
+不明
+You're creating a brand here. Just drag and drop the PDF brand guideline document that you have. Takes a few seconds for it to extract out all of the content from the PDF into different categories that exists in your brand guideline document.
+
+00:38:15:17 - 00:38:38:16
+不明
+And once it's extracted out, you can review the extracted out content. In case you need to make modifications. Add additional guidelines. You can do that. Or else you know quickly check the guidelines. It's structured the entire content across multiple different categories that is available including examples. So the examples are, you know, something that the users to learn in terms of how the brand communicates with the and consumers.
+
+00:38:38:16 - 00:39:02:47
+不明
+Right. Once that is in place, then what you can do is and this is similar example for imagery as well. Right? So you have both writing related guidelines as well as examples related to imagery. How should the image look like when we leverage Firefly to generate these images? There are certain guidelines around lighting. You know, if people are there in the image, where should the focus be?
+
+00:39:02:59 - 00:39:28:02
+不明
+All those guidelines are automatically extracted out and these are going to be leveraged, you know, when the images are going to get created, within the content. And once you have set this up, what you can do is, you know, when you create, an email, this is an example. There is already an existing template. You, within the, email editor, you, on the assistant role, that would be an option for you to pick the brand.
+
+00:39:28:15 - 00:39:50:16
+不明
+You can pick the brand and then key in the from the content that gets generated would be aligned with whatever rules have been defined as an example of, you know, two separate emails being created. This is one created without the brand guideline. You can see the text copy there. And then the image there. The lighting is not aligned with the images that you saw there.
+
+00:39:50:16 - 00:40:09:05
+不明
+And then the rules that was defined related to lighting in the images. This is another variant that was generated with the brand guideline. You can see a stark difference in terms of the imagery as well as the copy that got generated with it.
+
+00:40:09:10 - 00:40:32:42
+不明
+I also want to stress, couple of things related to the principles of responsible AI, right? I know that that's incorporated into the models as well as the feature that's deployed. One is, the feature itself. Is not a, made available to your or until unless, you know, you explicitly asked for it and, you know, go through the legal agreement process.
+
+00:40:32:47 - 00:41:06:02
+不明
+There are also permissions, checks in place. It's not made available to users. The customer admin org needs to manually assign these permissions. You know, a lot of organizations are a little apprehensive initially about deploying AI. We want to be very mindful of, organizations consciously taking this call of implementing AI within the organization. There are also access controls in place, roles, you know, that have been defined or given permissions, would only be able to access this feature, and then the feature is separate as well.
+
+00:41:06:06 - 00:41:31:08
+不明
+Couple of more things. You know, the data, from your generations as well as the problem that you key in are not used, you know, for retraining the model. We also have restrictions put in place in terms of the third party LMS not using this data. There is also content filtering that is set up for you across multiple different categories, both at the prompting level as well as for the overall content.
+
+00:41:31:17 - 00:41:54:21
+不明
+That's been generated. Sort of summary. For you, all the capability that I showcased, the, the initial versions, not, not the ones in the roadmap. Right. These are all available as a GA capability for you to use right away. We can turn it on. Might not be turned it on, for your account.
+
+00:41:54:26 - 00:42:29:54
+不明
+In case you need this to be turned on, reach out to me directly. We can work, to ensure that the necessary agreements are signed off from a legal perspective. And then you are ready to go. This is available for all prime and ultimate customers. Like I said, gen AI system for content generation can be used across multiple different channels SMS, email, push landing pages, and there are a bunch of, upcoming features that I talked about that's going to help you create more on brand content.
+
+00:42:29:59 - 00:42:55:37
+不明
+Q suggestion for organizations who are just starting off start small, maybe with a small group with a couple of use cases, a simple use case such as an AB testing with the subject line once the dog's more comfortable in terms of using AI, deploying gen AI across, org wide, that's when you can sort of expand and then start using it for multiple different use cases.
+
+00:42:55:42 - 00:43:32:05
+不明
+That's it. From us, questions specifically. You know, you can either write to, me, my email ID, anything related to assistant enablement. You can write to me. I'll be able to help you with any of those questions. Any questions related to Auckland's implementation? I've, given Paloma's idea as well. You can reach out to her, and then she would be able to clarify any questions you have related to the implementation is actually a QR code to, a playground link that we have on the documentation portal Experience League.
+
+00:43:32:05 - 00:43:41:29
+不明
+So if you want to just quickly try out a system, you can scan the QR code. It will redirect you to the experience link portal. And you would be able to, you know, try out the feature on your own.
+

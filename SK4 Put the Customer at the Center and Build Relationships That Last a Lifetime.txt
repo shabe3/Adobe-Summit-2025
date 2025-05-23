@@ -1,0 +1,732 @@
+00:00:00:00 - 00:00:22:17
+不明
+Is so, so awesome to be back here in Vegas. And thank you. Thank you so much. My name is Andy Parsons. So I run product for Adobe Experience Platform and our Data and Journeys portfolio of applications. I know my voice is a little raspy. I am super excited to be here, but I'm going to sound a little robotic because I want to keep pace and get through the session.
+
+00:00:22:19 - 00:00:46:22
+不明
+What a summit we've had so far. We heard Shantanu talk about Adobe for business and this morning we had Angela talk about customer experience, orchestration and the experience platform agent orchestrator. And also we had Angela and Hillary showed us the vision for a unified customer experience. And wasn't Hillary also?
+
+00:00:46:25 - 00:00:51:16
+不明
+Say, hey Hillary.
+
+00:00:51:19 - 00:01:18:15
+不明
+That was awesome. Awesome. Hillary. Now we all know the world has changed. Okay. And to do our job and to get to where we need to be next in driving those customer experiences, what got us here is definitely not going to get us to where we need to be next. And we're going to double click into all of that, focusing on how we can put the customer at the center of everything we do and build those relationships that last a lifetime.
+
+00:01:18:17 - 00:01:43:22
+不明
+So here's all the sessions going to go. I'm going to expand on what Angela shared about unified customer experience in the ER. In the era of AI and agents. Then I'm going to have on stage Chris Norton, senior vice president of marketing, data activation and personalization at Marriott. And he is going to walk us through Marriott's remarkable success and their partnership with Adobe.
+
+00:01:43:24 - 00:02:03:19
+不明
+And then I'm going to have Vasanthi whole camp. She is the VP of engineering at Adobe, and she will walk us through the latest innovations. And guess what? We all need to see some product, right? We're going to see some amazing demos done by Karthik and Shelly. So before we start, I want you to indulge me for a minute.
+
+00:02:03:21 - 00:02:34:18
+不明
+I want to talk about two mythological Greek figures, Sisyphus and Proteus. And you probably have seen this right since it was his famous for being condemned for life, to push the same boulder up the hill literally forever. And maybe some of you feel like you're living that life. I do sometimes, but have you heard of Proteus? Now Proteus can see the future, but he only answers to those who can truly, truly capture him.
+
+00:02:34:21 - 00:02:58:26
+不明
+To be protean. And we all know this means to have flexibility, versatility, and adaptability. And today, I want to talk to you all about how to stop being ciphers and start being Proteus to change your life. Or at least it'll make you and the rest of us a better marketer. Now, for years, we all have talked about customer experience nirvana.
+
+00:02:58:26 - 00:03:22:18
+不明
+You've heard it. And we at Adobe, we've talked about it. And today we are on the cusp of a transformation in how we engage with our customers. It feels like a Cambrian explosion right? Now we have a powerful new ally who can supercharge her endeavors to push that metaphorical boulder up the hill to get to true 1 to 1 personalization.
+
+00:03:22:20 - 00:03:45:12
+不明
+Now, you've heard about Jenny, and the genetic are here at summit, these cutting edge technologies. They've made it possible to not only reach the newly raised bar, but in many cases, I truly believe we can even exceeded. We can stop being Sisyphus and start being Proteus, or at least make Proteus our best friend.
+
+00:03:45:14 - 00:04:15:16
+不明
+Now let's look at a few stats. Okay, I'm going to start with this one. A recent study shows. That consumers, on an average receive 5000 messages every single day. That means about 2 million messages a year of Jamie here. I was joking with her. If you all could remember all these messages that come at us every single day, there's not a whole lot of memory left for remembering birthdays, anniversaries, movie codes.
+
+00:04:15:19 - 00:04:43:25
+不明
+You know what I'm saying right now? The key thing is, we all know consumers are highly, highly selective about what they hold on to. And it's very hard to break through. Right. Now there's another report that shows that consumers typically engage through six or more touchpoints as they engage with a brand. And at each point of interaction, they expect a seamless and an integrated experience.
+
+00:04:43:28 - 00:05:09:19
+不明
+There's a third stat now. 7 to 9% of consumers also say brands have to show that they truly understand and care about them before they even make their first transaction. So what's the bottom line? Consumers remember and cherish rewarding relationships over a plethora of individual, discrete messages. And we all know that. Now, my friend Doug, where is Doug?
+
+00:05:09:22 - 00:05:37:24
+不明
+He said I can pull this off. Okay. But seriously, when I looked at it, he said he just wants to have some fun at my expense. Doug, by the way, your Photoshop skills suck, right? All right. All right, moving on. So the mission, should you choose to accept it. Okay. Creating a unified customer experience in today's hyper online Mega-Producer and jump code world can truly feel like Mission Impossible.
+
+00:05:37:27 - 00:06:03:28
+不明
+But that's all we've all signed up for, right? Just like in any endeavor, whether it's football, soccer, cricket, or playing the piano, we all have to master. Like Hilary said, the fundamentals, right? The blocking and tackling. If you are truly going to capture the attention of the consumer in those micro moments and hold that attention throughout the lifecycle, three things must come together.
+
+00:06:04:01 - 00:06:30:07
+不明
+The data that's connected with the experience and in the context of the customer journey. And we all must do this for millions of consumers that we serve at any given time. And that's where I can truly become our ally. So let's talk about the Adobe Digital Trends report. And that shows that organizations actually are reaping benefits from accelerating with AI.
+
+00:06:30:09 - 00:07:00:13
+不明
+64% of organizations with scaled I actually are reporting measurable productivity improvements. Also, when it comes to content creation, there's a lot more acceleration and agility that they see in bringing new content to market. And you do get strategic advantages that go beyond just operational efficiencies like enhance decision making and measurable revenue growth. AI is enabling better customer experiences and creating engagement and better value.
+
+00:07:00:16 - 00:07:32:01
+不明
+Now it's also becoming a very strategic tool, and it's evolving from being a novelty at Adobe. If you use this expression right from prototype pre-production. Right. And I think in certain cases that actually is driving business outcomes and organizations that truly push beyond the pilot stages are seeing tangible and scalable rewards for these investments. By the way, we do this study every single year, and we look at the trend, the ROI that companies are getting to the AI investments is getting better and better.
+
+00:07:32:03 - 00:07:55:28
+不明
+Later in the demos, we'll show you some of the amazing AI capabilities that we have built into our products, and that's going to come to you and your teams very soon. So I want to now double click into the three pillars. I talked about data, content, experiences and journeys. Before we talk about data. I want to make something very clear.
+
+00:07:56:00 - 00:08:19:09
+不明
+We know this. Consumers want value, not just some basic personalization, but we get that. And personalized moments that do drive through value improve willingness of the consumers to share more data, both consumers and B2B buyers. As you can see here, indicated that they would be almost twice as likely to share information with an organization when they actually do get value in return.
+
+00:08:19:11 - 00:08:41:26
+不明
+So with that context, let's jump into data. Now here's the reality check. When it comes to growth of data, the volume of data generated worldwide is growing at an unprecedented clip. And we all kind of know that, right? But here's the stat by the end of this year, the global data sphere is going to get to 175 zettabytes.
+
+00:08:41:29 - 00:09:12:28
+不明
+By the way, I stop keeping track of the zeros. And guess if you're wondering a Z, a byte has 21 zeros in it. Now this number is up almost 60% from 2020 while the data growth is just exploding. The growth in jobs obviously in data management and in analytics is not keeping pace. According to the World Economic Forum, data analysts and data scientists are among the most in-demand roles across various industries.
+
+00:09:13:01 - 00:09:37:26
+不明
+But the talent pool is not expanding quickly enough to meet these needs. And that's where that's another place where we believe I can definitely step in and help. Now we at Adobe, we are seeing enough evidence and you saw and your talk about this, that predictive AI in conjunction with generative AI can enable us to get more semantic understanding of data much faster.
+
+00:09:37:29 - 00:10:05:00
+不明
+We can minimize the need to literally manually schema the data. And I'm sure many of you can relate to this. That's a long project. Any time you bring you data sets, schema ization is a very fairly manual process. And I can definitely help. And third, activating the data through a simple conversational interface for practitioners. So thereby we can truly democratize access to data for everyone in the marketing team.
+
+00:10:05:02 - 00:10:32:04
+不明
+And less time spent on data projects and more time spent on marketing campaigns. And you'll see some advances in the demos. Like, for example, how can you optimize your media planning? How can you acquire new customers through emerging channels like all connected TV platforms, retail media networks, all done with a privacy first mindset? Next, let's switch gears and talk about content.
+
+00:10:32:06 - 00:10:55:28
+不明
+Now, content is always the the quintessential. Lemme talk about pushing that boulder up the hill. Let's take a quick example and see you know how this content actually explodes. Let's say there's a modest product line with eight products that you want to promote. And as you can see on this slide here, right as the combinations grow with languages, with global activation, that number just keeps going on and on.
+
+00:10:56:01 - 00:11:26:11
+不明
+Now, how do you shift from being obsessive to being truly protean in this world that actually is going crazy with generative AI? When applied strategically, we can solve for these challenges and create step change improvements in productivity, efficiency, and scale. Now, for creative teams, we're seeing them use AI capabilities to accelerate ideation and creation of high quality content.
+
+00:11:26:13 - 00:11:57:02
+不明
+We've seen some companies get almost 12 x productivity for tasks like image editing. And for marketers, we're leveraging this Genii capabilities to empower them to be self-sufficient while staying on brand. And we're going to show you some of these amazing capabilities to help you create, to activate and to measure your content performance. In the demo, and we also will show you how I can proactively identify, suggest and optimize your websites to.
+
+00:11:57:04 - 00:12:24:12
+不明
+Last but not least, let's talk about journeys, more touchpoints, and also more opportunities for personalization. Unified journey orchestration throughout the consumer lifecycle is the foundational capability that we all need to build those long lasting and memorable relationships that I talked about, from acquisition to engagement and to loyalty. Now you can see this is a busy slide, right? There's a lot going on here.
+
+00:12:24:14 - 00:12:44:07
+不明
+But that's the whole point, right? I'm sure many of you in your own teams have pulled these slides together. Right. Or I mean, you really think about journey management. How do you bring it all together? The big challenge is that while you design, these consumers decide their own course through the journey. And brands always have to keep up.
+
+00:12:44:07 - 00:13:13:05
+不明
+They have to adapt at scale and still stay relevant. So how can I help? Let's start with experimentation. The cost of I would submit to you all. The cost of creating variance for experimentation is expected to go down dramatically. But consumer attention in this hyper competitive world is shrinking, right? So there's a dilemma there. In other words, the name of the game is not just about running more experiments.
+
+00:13:13:07 - 00:13:43:14
+不明
+It's about running the right experiments. You can absolutely leverage AI to recommend the best hypotheses to test for the biggest impact. I can look at past performance engagement data and the associated experiences, and proactively recommend ideas that are backed by evidence and seamlessly connect the steps from ideation all the way through to execution. Whether experimenting channels, content offerings, or even time.
+
+00:13:43:17 - 00:14:05:12
+不明
+Second, the potential for AI and machine learning to design journeys through simple conversational prompts is also very, very high. Gone are the days of staring at a blank canvas and constructing a journey manually from scratch. Based on a campaign brief with a simple prompt that includes your goals and constraints. And I talked about this in the keynote this morning.
+
+00:14:05:19 - 00:14:33:11
+不明
+I can design journeys with the next best offers and get you almost 80% of the way, enabling you and your teams to do more with less. Last but not least, running journeys in order is not a one and done endeavor. I can absolutely help track your journeys. I can goals and proactively alert the practitioner and your teams when deviations are observed.
+
+00:14:33:14 - 00:14:55:10
+不明
+No, I think I lied. There's a fourth leg. I want to add the fourth leg to this stool. Right. And I'm also, I think, mixing metaphors. So t barrier to personalization is not just about technology. We also have to adapt organizationally. Right. So there's a bunch of stats here. And I'm not going to read through all of them.
+
+00:14:55:13 - 00:15:16:21
+不明
+The key thing though is all these stats are on staffing and on training and our expertise and incentives. It just shows that there's a lot more work that's yet to be done. The bottom line is organizational change is hard. And by the way, we at Adobe, we face the same challenge too. So we're in this together. And I want to show you some examples.
+
+00:15:16:22 - 00:15:47:02
+不明
+We actually are going through the same painful process to change the way we build our products. And let's admit AI is not a shortcut, right? The hardest thing, maybe sometimes is not adapting. A change is in some part of the organization, but also changing our own selves. So here's some examples. First off, we actually are using tools like cursor AI for rapid prototyping of new ideas to really shorten the creative cycle.
+
+00:15:47:02 - 00:16:11:11
+不明
+When we think about product designs. And I kid you not. These design processes that include, you know, designers and product managers and some engineers write lots of meetings you should take between 2 to 4 weeks. Now we're able to get those prototypes built in literally four hours. We also built an AI tool to reimagine the way we develop and deploy product documentation.
+
+00:16:11:14 - 00:16:34:07
+不明
+And that's giving us a five year improvement in delivery cycles. And we're also using AI assistant to drive how we deliver customer support. And also we're going to be improving the way we serve your customers. And we're seeing A5X improvement in the time that is spent getting to the heart of an issue, the root cause analysis. And I'm sure many of you experience right.
+
+00:16:34:13 - 00:16:51:05
+不明
+You log a ticket and go through a whole bunch of layers. And then finally we get a bunch of engineers to look into these issues, and we get to the root cause, not talk about actual fix. But just to get to the root cause, it takes time. And we, like I said, right. We're saying A5X improvement in that time.
+
+00:16:51:08 - 00:17:24:01
+不明
+Now, we do know that change is inevitable. And together let's work through these challenges. The future is definitely bright. And I can hear that. I can feel that in all the meetings that are out here and also over the last 12 months, the experience maker for the next decade will be independent and will be enabled by AI powered marketing technology across all parts of the ecosystem.
+
+00:17:24:03 - 00:17:44:03
+不明
+Functions. We truly believe that there's a change that's coming and that's going to be good. And we at Adobe will be with you every step of the way. And we're going to bring a lot more innovations to your teams via the applications that you use every single day. Okay. So let's switch gears. I'm so excited about what's coming next.
+
+00:17:44:06 - 00:18:08:26
+不明
+You going to have a true rockstar of marketing of personalization and data activation, which also, by the way, happens to be a job title. Okay. Chris Norton, Senior vice President for marketing, data activation and personalization at Marriott, is here. And you heard from his colleague Hillary earlier today on Main Stage. Chris is going to double click into Marriott's remarkable success.
+
+00:18:08:28 - 00:18:29:24
+不明
+And after that, Chris and I will, you know, sit down for a few minutes and have some have a bit of a Q&A. So please welcome on stage Chris Norton.
+
+00:18:29:26 - 00:18:47:26
+不明
+Hello, everyone. It's nice to be back here at Adobe Summit. I know many of you probably heard my colleague Hillary Cook talking on main Stage today. I did want to point out that I gave her a lot of pointers that she should have brought to her presentation. She ignored every one of them. And she was right in doing so.
+
+00:18:47:26 - 00:19:14:08
+不明
+So I'm going to commit all the flaws. I was in court encouraging you to do. I'm here to share a little bit about our journey along our personalization, maturity and our customer centric sort of pivot that we've been making over the last several years. And, I have several of my colleagues sitting here. I want to start off by acknowledging that none of this is possible without the collaboration of our marketing teams, our tech teams, our analytics teams, our data teams.
+
+00:19:14:08 - 00:19:33:23
+不明
+And together, we've been able to achieve these really remarkable things. With Adobe as a as a key partner in that journey. And one of the key things I'll talk about and learnings that we've had is sort of the models that really make all these things possible. So one of the first things I want to talk about, however, is, you heard from Hillary, who we are.
+
+00:19:33:24 - 00:19:55:20
+不明
+We have 30 brands, 9000 hotels, over 1.5 million rooms. But I actually want to talk about some of the complimentary products that we've been developing in conjunction with how we think about the travel journey more broadly. So we've launched Homes and Villas by Marriott Bonvoy, which is a home share business, over 140,000 different homes and villas available throughout the world.
+
+00:19:55:23 - 00:20:11:20
+不明
+We now have a growing retail boutique, so if you love the sheets, you don't have to steal them anymore from the hotel room. You can buy them. And if you hit one of these people up in the front row, they'll actually maybe give you their employee discount code. You can get mattresses, the sense that you smell in our hotels.
+
+00:20:11:23 - 00:20:42:14
+不明
+We've now expanded into apartments. Apartments by Marriott and and finally, a real interesting entry into the luxury high end cruising space. Ritz Carlton yacht with three yachts, cruising, the Mediterranean and the Caribbean. And it's with these additional products that we're really trying to understand the, the a person's journey, a guest journey through, through travel. And we're really trying to put them at the center of all those things, not only with those new product extensions, but also on how we orient ourselves to their needs.
+
+00:20:42:14 - 00:21:04:20
+不明
+And that's that's really the fundamental thing that put us on this journey, is a recognition of that. Now, I would posit that most people don't travel to go to a hotel, maybe some high end resorts that you love and go back to. But for the most part, people are traveling because of a passion that they want to pursue, a place they want to see, or people they want to visit.
+
+00:21:04:22 - 00:21:32:20
+不明
+And while I'm always suspect of taglines, I think this one for Marriott Bonvoy is quite good. And you've heard it earlier today. But really, Bonvoy is about enriching your life and connecting you to those people, places and passions. And we like to talk about this journey on this page, which is a very purposeful journey that we set up to understand what are the the growth points in our relationship with our customers when they first engage with us, when they stay with us, when they become a member of Bonvoy?
+
+00:21:32:22 - 00:21:54:22
+不明
+More and more, we're looking at our app as the key entry way, not only into booking, but also how you interface with our hotels, talking to them even in the future, how you might operate your room. And, we call this our journey from love to money and and really, what it means is we're trying to break the dynamic of loyalty, where it's transactional, meaning you earn points and you redeem them.
+
+00:21:54:25 - 00:22:12:23
+不明
+And really think about Marriott and Marriott Bonvoy as your pathway to experiencing all the things you love in life, and that we're there to help you do that. And to do that, we need to know about those things with you. So we've spent a lot of effort getting to know our customers, gaining their trust so that they'll give us this information.
+
+00:22:12:25 - 00:22:29:13
+不明
+And now we're really thinking about, okay, how do we activate on all that? And up until a few years ago, that was exceedingly challenging, at least challenging to do it at scale, but with new new martech investments, with all the investments in the Adobe stack. And and I'll talk about one of the key ones here in just a minute.
+
+00:22:29:15 - 00:22:49:08
+不明
+We've really been able to leverage that information to personalize what we're doing with our our our, our customers. And we're also trying to align the org in new ways. And I'm going to share at the end of this today the key lessons that I've learned. We have learned about how to make this go better, because the Sisyphus example is a good one.
+
+00:22:49:08 - 00:23:09:09
+不明
+And I felt like that many times in my career, pushing that rock up and never seeming to make any progress. But one of the important first lessons I want to share is, is thinking about narrowing the set of KPIs that you are going to pursue, and if you're really intent on being customer centric, you need to think about customer centric KPIs as being core to your business strategy.
+
+00:23:09:12 - 00:23:32:21
+不明
+And we have several of them on our corporate scorecard, things like intent to recommend Net Promoter Score, Customer Lifetime Value, and with those we find an orientation in the company to to make that customer pivot. Our significant investments in Adobe, really started to accelerate when we went down the road with, with AP about two years ago.
+
+00:23:32:23 - 00:23:55:25
+不明
+And, I like to say that historically, we did our marketing that looked like the way we went to market was our org chart. We had siloed marketing teams with siloed campaigns, siloed goals, siloed content going out to siloed customer lists, not audiences. And that was a very Marriott centric way to sort of approach the world. It's not customer centric at all.
+
+00:23:55:27 - 00:24:18:22
+不明
+And the pivot we've made is now we have the ability to really develop, analyze, create audiences, make them available throughout the world. As a global company, we have five distinct regions around the world where we need to democratize the access to that data. And that really was made possible with with AP. And really along with that, there's some other key activities.
+
+00:24:18:24 - 00:24:40:28
+不明
+Just having audience data isn't enough. One of the things we had to start doing was doing much more regimented test and learn. We talked about this morning experimentation, and that's really at the core. And a lot of times we're in the process of getting things into market. We're not actually really taking that middle step between understanding and audience, understanding what those audiences needs are, understanding what we want from those audiences.
+
+00:24:40:28 - 00:24:59:15
+不明
+Do we want more of them? Do we want more share wallet? Do we want them to be stronger advocates for us? And and really understanding that test alone tells us the tactics that achieve those things. And then we use those tactics with our marketers to take those to market. And that's almost a 180 degree reversal about, I think, from how most marketing organizations, really operate.
+
+00:24:59:18 - 00:25:20:00
+不明
+And I'm going to tell you, this is hard. It's really hard. It's both technically and organizationally difficult. And I'm going to come back to sort of the awk part in just a second. I like to use this analogy of the iceberg. We all know the iceberg that sank the Titanic. I'm not saying Adobe is the iceberg that's going to sink all of your businesses.
+
+00:25:20:02 - 00:25:42:17
+不明
+Quite opposite. Actually, but the iceberg has a smaller part of its structure above water than below. And, you know, I want to equate the above water part to all our martech and our Adobe investments. And those are necessary, and they're the visible part of it. But really, if you miss the hidden complexities of how you bring those things to bear at scale, you will fail.
+
+00:25:42:20 - 00:26:03:16
+不明
+And I think a lot of that specificity and that's a word, pushing that rock is a result of companies under investing. And in these four areas, one talent, these types of changes in technology and operating model require a different skill set and talent. And we have to have the courage to actually address that, moving people to where they might be better suited.
+
+00:26:03:19 - 00:26:24:07
+不明
+Finding that talent in the marketplace that knows how to bring these things to life. Second, content acceleration. We've talked a lot about that. Sandeep just talked about it. Hillary talked about the millions of versions we're moving moving towards. But you need to address your content supply chain, your content acceleration, dynamic content assembly. And you need to be able to do that at scale.
+
+00:26:24:08 - 00:26:41:28
+不明
+And of course, you need the tools to do that, of which Adobe has several tools that that are great at it. This is maybe the biggest lesson that I'm sure all of you know, but I'm going to I'm going to hit on it at least twice because getting your data foundations in order is the most important thing you can do.
+
+00:26:42:00 - 00:27:04:17
+不明
+Garbage in, garbage out. Doesn't matter how good your targeting models are, doesn't matter how good your martech is. If you don't have your data house in order, it is all doomed to fail. And we spent five long years in a concentrated effort to create a customer centric database, that has all of the data that we need to do our marketing and have it at our fingertips and then act available through platforms like app.
+
+00:27:04:20 - 00:27:30:02
+不明
+That was hard. Our leadership test a lot of questions about why does this cost so much, when am I going to see the benefit from it? But this has to be the first thing that we really do. And then finally, really thinking about ways of working and our model. This is a passion point for me and my team and my my colleagues in that we've had to really look ourselves hard in the mirror and say, how can we go faster and work better together?
+
+00:27:30:05 - 00:27:49:17
+不明
+And one of the ways we've done that is with the use of pod structures where we, mandate a certain outcome from those pods, take, representation that are designated from those pods from different parts of the organization and have them work towards a common goal. And you need to be really purposeful about that. But also all the great work that Hillary leads around.
+
+00:27:49:17 - 00:28:12:08
+不明
+Process refinement is super important in the ways we work. And there's great, great benefits to doing that. She used to always say process is a capability and I used to actually laugh at her and say, oh, haha, that's something that McKinsey would say. And but it's so true. And I've adopted it as is something that I believe in now because I've seen the real proof and you saw the results from from earlier today.
+
+00:28:12:10 - 00:28:32:21
+不明
+All right. My last slide here, I want to talk about sort of five lessons that I've learned on our path to customer centricity. It is a hard road, but it's worth it. And I don't want to I don't want to underestimate the hard part of this, because I know many of us today have good wins, but maybe we're struggling to reach that bigger vision that we have.
+
+00:28:32:23 - 00:28:57:02
+不明
+But it requires significant organizational alignment to, to achieve that. So lesson one is sell the vision but set the expectations, within reason. This is a journey it'll take multiyear. You heard that. I'm calling it a five year time horizon. We've been at that a lot longer than that with other things, but a real concentrated five years to sort of get where we're at with some of the maturity you're seeing today.
+
+00:28:57:04 - 00:29:18:19
+不明
+It will take a multiyear commitment from your SLT and from your finance people to build this vision and build these capabilities in both time and dollars. It will require the help of all those other teams. And we all know the sort of dynamics can be at play with competing power centers and politics. And you really have to work in an organization to align people to common goals.
+
+00:29:18:25 - 00:29:37:20
+不明
+That's where some of those customer centric KPIs, I feel, are so important from the top down that people align to. And you need to stress with your senior leadership team that this is a journey that's never truly done. And I've gotten that question. You've spent tens of millions of dollars, Chris. When are you going to be done? And I say we're never done and you will never be done.
+
+00:29:37:21 - 00:29:57:04
+不明
+There are ebbs and flows of investment and time and updating and at the pace of technology investment that happens. But this is you need to sort of let everybody know that if you're serious about this and the results that we've started to share, show that for us like this is worth it to set audacious goals, to drive excitement.
+
+00:29:57:07 - 00:30:15:10
+不明
+But really balance your approach with wins along the way. We purposely, when we started, setting up all of our martech, highlighted use cases that both guided how we set it up. And also, we knew we could deliver in the near term so that our senior leadership could see the benefits of their investments and keep them engaged in the ongoing efforts.
+
+00:30:15:10 - 00:30:35:20
+不明
+And we're creating that customer engagement. We're creating that that understanding of customer need. And we're making money at it. We've set incremental goals in the billions on these efforts, and we're seeing those results come to life already in very significant, measured ways. And we'd like to say if we can't measure it, we're not going to do it. And we're seeing that value.
+
+00:30:35:22 - 00:31:03:28
+不明
+Number three, I think beyond the martech, I know that may be sacrilege here at an Adobe conference. But those below the waterline marks are what will sink you every time. And you have to sort of concentrate on those things. Hillary joked about taxonomy. And what is that? I mean, that is that is something. Absolutely. That is a key unlock in understanding performance, understanding what we have in a market in a, in a matrix, distributed global organization like ours, transforming your marketing ops.
+
+00:31:04:00 - 00:31:22:02
+不明
+Again, very important that you take a hardened look at this gets them out and outside help to do that. We had no idea the complexity of our process until we actually analyzed it all to look about it. I talked about those pod structures, which were a really key unlock for us and, really have the courage to break down your org silos.
+
+00:31:22:05 - 00:31:42:18
+不明
+We just completed a very large reorg in our marketing organization, and it was painful but necessary. And you have to have the courage to do that to get the talent in the right place and align yourselves to it. Fourth one is focus on the what, but empower your teams to figure out the how. And I have a great example here, in our pod for personalization.
+
+00:31:42:21 - 00:31:59:07
+不明
+We wanted to re-envision the pre-arrival experience. And one of them was that we wanted our hotels to be able to ask our customers and manage it themselves what they needed on their stay. And we wanted the customers to be able to answer it online and go flow right into the hotel, into their systems that they need to to fulfill on those things.
+
+00:31:59:10 - 00:32:18:26
+不明
+And we did that by identifying that as the use case we wanted to pursue. But then the team actually figured out that we had this thing, Adobe App Builder, as part of our package that we had not used at all. They figured out how to utilize that to make this happen and get that that that super important customer to hotel communication piece in market in just a matter of weeks.
+
+00:32:18:29 - 00:32:44:07
+不明
+And that was really their own ingenuity and creativity that allowed that. So foster that sense of of entrepreneurship in your teams. And then finally, align the org to stay the course. And I think there's a lot, especially with changes in business performance, macroeconomics, sometimes it's hard to get off this course, but set that expectation. As I started to talk about about how you need this is a journey and you'll be multiple years.
+
+00:32:44:09 - 00:33:15:17
+不明
+Adopt those true customer centric KPIs and and really think about what a formal, audience led approach can mean with you. And I would say that's maybe the hardest pivot that we're making right now. I think other things to consider in this, this, staying the course or understanding you need to communicate with your customers where they are. And as new channels emerge, you need to be in them, whether that's SMS for customers in Asia, WeChat, WhatsApp, etc. we've been adding those channels within our Adobe ecosystem for true omnichannel, for true orchestration.
+
+00:33:15:20 - 00:33:38:10
+不明
+And then finally, you know, what are the outcomes of all of this for us? Well, as I said, you know, we've been on this journey now for years. My predecessors were on it before me. We're really now seeing the benefits roll in that pre-arrival experience we directly tied to an uptick in it. So we know our guests actually are experiencing it and then saying, hey, I like the experience I just had.
+
+00:33:38:10 - 00:33:55:16
+不明
+I understand that that you took my needs and actually fulfilled on them. And now the question I really get for my leaders isn't like, when are we going to get done? But literally now all I hear is, how do we go faster and how can we do even more? And that's really like what you want to hear from, from the support of your senior leadership.
+
+00:33:55:18 - 00:34:05:18
+不明
+So with that, I thank you all for listening. And thanks for Adobe for having us here at Summit.
+
+00:34:05:20 - 00:34:28:28
+不明
+Thank you guys. Thank you. I will say this. We've been working with Chris for a very long time. And as you can see from his presentation and slides, he always keeps it real. So so thank you. The iceberg metaphor. You know everything that we don't pay attention to all day all taxonomy rocks right. Sexy. Oh sorry. Taxonomy is sexy, right?
+
+00:34:28:29 - 00:34:50:29
+不明
+That's the. That should be the the hashtag. That should be by the way, that got the biggest cheer this morning. I did. Yes. So I want to share with you all one thing that I was, mentioning to to Chris. So proud. Platinum member Bonvoy. Thank you. And we spend quite a bit of time. So my family now, everybody in my family, I was 70 year old son and a 30 year old daughter.
+
+00:34:51:02 - 00:35:20:06
+不明
+They all have the Bonvoy app. And you will be pleased to know that anytime. Anything, travel. My daughter doesn't say hotel. She says Marriott or Bonvoy. So? So it worked. It works, it works. So my first question for you, Chris, is, first of all, that's an amazing story, the five year transformation. And stay the course. And you know, the way you kind of laid out the the path and the key key tenets to get to that was, you know, grounding on one end, but also very inspirational.
+
+00:35:20:08 - 00:35:44:04
+不明
+Talk to us about your leadership style. How do you set your team up for success and how do you drive change that is so transformational across the organization? Yeah. It's interesting, I, I've always prescribe to the low ego model of, of of leadership and and, and really listening to, to the ideas that your team brings to you.
+
+00:35:44:07 - 00:36:17:24
+不明
+And, I think partnering even with those teams, maybe that, historically, you know, it's the traditional business i.t sort of conflict that happens. But I think we found a way to really work well together. I'll mention that pod structure again is something I think that really creates the alignment that that we seek. And, you know, clear goals, realistic expectations, but also challenging the organization when I set the dollar goals for our personalization efforts two years ago, I think I almost got laughed out of the room.
+
+00:36:17:26 - 00:36:36:10
+不明
+But not only are we halfway there. But I think we'll get there before we even even the amount of time that we set to to achieve it. So it's it's real. And we're seeing it not only in the dollars, but as I said, we're seeing it in how customers are actually relating to Bonvoy and and understanding that it is that vehicle for them to experience the world.
+
+00:36:36:12 - 00:36:58:04
+不明
+That's awesome. Thank you. All right. Next one. All the accomplishments that you and your team have is kind of shared with us. Is is fantastic right. So do a double click and tell us about, you know, when it comes to internally aligning your teams and to accelerate the growth at the pace at which right. What kind of capabilities are there to set your teams up with?
+
+00:36:58:06 - 00:37:17:09
+不明
+Yeah. There's a lot of things there. I talked about several of them, you know, concentrating on those below the water line items is super key. I think, one of the lessons I've learned also about keeping the organization on, on, on sort of commitment path for these types of efforts because they are costly, they are hard, they cross across.
+
+00:37:17:09 - 00:37:54:01
+不明
+So many parts of the organization. They often have an operational component in our business in the hotel. But I've learned to, like, be a secret, like PR, like guru, like internal PR bring your success. And and doing it repeatedly to the point of nauseum. You know, I have found helps people understand the message. I try to evangelize that message, by, you know, going and speaking with other teams so they can see the progress and they understand how it all fits in with what we're trying to achieve overall and being, you know, so customer centric and putting Marriott Bonvoy, at the center of how people think they can experience the world
+
+00:37:54:01 - 00:38:12:01
+不明
+and feel that. So, you know, Adobe, I, I want to understand the importance that Adobe has has been in this journey. I've been working with Adobe for close to, I think, 12 or 15 years now. I was at Starwood Hotels for many years and did the agency side for a few years with publicists, and then I boomeranged back.
+
+00:38:12:01 - 00:38:36:06
+不明
+I'm on my second stint at Marriott, which many of us seem to to come back and like to do. It speaks to the power of the hospitality industry that it draws you back. Once you've been gone. But Adobe, you know, has really been a partner that, we've, you know, at times been frustrated with. Sometimes when I look at my annual bill, I'm like, wow, that's that's large.
+
+00:38:36:08 - 00:39:01:22
+不明
+But I look at the results working out the results that we're achieving, you know, make every, every penny worth the investment. And I really think, we have we have challenged and, you guys to lean in with us, to help us really achieve the potential of the products. And I think we've been gratified and and benefited from your willingness to do that.
+
+00:39:01:24 - 00:39:25:20
+不明
+Awesome. And to finish the sentence, the ROI was there, I kid. All right, so we've talked about I think some people say the AI drinking game started about, what, a year or two years ago, right. The hype cycle, so on and so forth. And one question that pops almost in every single discussion meeting is, and you talked about the five year horizon, right?
+
+00:39:25:20 - 00:39:48:12
+不明
+If you look the next five years, right, with some of this new technology is how do you set up your teams questions like those reskilling your teams and, some changes and change management in some cases. Disintermediate. And so how do you think about setting up the organization in the era of AI and gen AI? So the AI drinking game is that is that what happened to me last night?
+
+00:39:48:14 - 00:40:29:18
+不明
+Yes. Yes. I didn't really last two nights. I didn't realize that, I mean, clear these are clearly these are exciting tools. And, I think, you know, there was so much excitement two years ago with the potential of Gen AI. We jumped in just to experiment with a lot of things. But now that's matured to the point where we're actually putting in market this year, advanced capabilities around content generation, content variation, content translation, content personalization, dynamic content assembly, decisioning capabilities that, that, that, that Gen I, and general AI are really sort of driving I think, you know, as I look forward the next five years, I, I know that's it's been talked
+
+00:40:29:18 - 00:40:50:09
+不明
+about endlessly here, but I talked about and we all many people talked about AI as a, as a, you know, full step sort of, up in capability, maturity. And I think it genic AI, you know, with its autonomy, autonomous sort of features, its task driven sort of architecture is, is really going to change how we are structured, how we go to market.
+
+00:40:50:14 - 00:41:21:25
+不明
+And I think it's just really exciting. And I think, you know, I think one of the hardest things we do, you know, within Adobe products is, is that journey management, it's not easy, especially with a business like ours where there's not one journey. There's a lot of journeys, right. How do you identify them? And I think, again, I really poses the opportunity to create, adapt and iterate, customer journey management and in far quicker, better, faster ways that, we couldn't really conceive of as people doing it all.
+
+00:41:21:28 - 00:41:51:20
+不明
+And, I really think that's going to be a key focus area. And then just, you know, at scale, when we talk about the millions of versions, we talk about the 200 million plus members that we have and being able to talk to them uniquely about what we are learning about them. I come back to that passion based notion of of if we know that if they're going to trust us to give that, we better use it in ways that are authentic to them, and earn their trust, but also earn the sort of wow of like, wow, Mary, that really gets me.
+
+00:41:51:20 - 00:42:11:14
+不明
+And they connect me to these things I had no idea I could do, whether it's through being a member, through being an elite, or just traveling the world and staying in hotels. And I really think the automation that I will, will bring to us will allow us to do that at that 1 to 1 level. And, and the speed to market and the results will drive.
+
+00:42:11:14 - 00:42:32:24
+不明
+And then for me, it's really about, a key step that I think we'll finally be able to achieve that true love based loyalty, which is so hard to break through, in the loyalty sort of space. And I think these tools in particular are going to get us there. Thank you, thank you. I will say this over the many years that we've partnered together, we all use the word partnership.
+
+00:42:32:27 - 00:42:50:19
+不明
+But, you know, if you really get to the core of it, like you called out, right? So stay true to first principles, right? Be flexible in the short term, but be firm on the long term. Right. Things like that. And also the way and I'll say this right. So Chris and Tim, they give us feedback. You know, they you your teams have made a product better.
+
+00:42:50:22 - 00:43:11:02
+不明
+But you also come into the partnership. So I really want to thank you for your time, for, you know, spending time with us and sharing, you know, your experience, your teams experience and all the exciting stuff that you're doing. So thank you. Thank you so much.
+
+00:43:11:04 - 00:43:49:03
+不明
+All right. So next up I'm a product guy and I use this expression the product is the protagonist, not PowerPoint. So to talk about how Adobe can help with the customer, the center, everything that we do, please welcome the whole camp of engineering to talk you through the latest innovations and also show some demonstrations. So V, over to you.
+
+00:43:49:06 - 00:44:15:29
+不明
+Q Sandeep, thank you, Chris and the Marriott team. It is inspiring to hear their story. The investment that Marriott has made to deliver unified customer experiences and to deliver on the personalization mission. I'm. I hear you're a fan of Adobe Journey Optimizer. Chris, I know you're backstage. It makes me proud to see the success you've had using Adobe Experience platform and applications.
+
+00:44:16:01 - 00:44:48:17
+不明
+I too am a fan of Bonvoy. Like Sandeep said, and the transformation you've made there, Marriott is nothing short of amazing. You have created a personalized, engaging application that delivers on loyalty, retention, and customer lifecycle. You've had many software backends to work with and we are all familiar with that. It required top down alignment to pull off from board all the way down to the working teams and across all industries and geographies locally.
+
+00:44:48:20 - 00:45:17:01
+不明
+Thank you Chris and Marriott. We really appreciate the partnership. Now to our customers in front of me, what can I say? Just deeply grateful for the journey we've had together over the last six years. Our platform and apps has been growing and operating at global scale. I know showed some big numbers during the keynote yesterday. These are some numbers from Adobe Journey Optimizer and real time CDP.
+
+00:45:17:04 - 00:46:01:22
+不明
+Every single day we processed 17 trillion segment evaluations, 50 billion daily profile activations, and 5 billion daily personalized experiences. And with Journey Optimizer and with Adobe Campaign, we've delivered 100 billion outbound communications just over the holiday season. And Black Friday was special. We had 2 billion emails go out that day. So you get it. We also serve across many GEOs, North America, Latin America, Europe and Asia Pacific, and across many industries financial services, retail, travel, health care, media, entertainment.
+
+00:46:01:24 - 00:46:29:05
+不明
+As we continue to operate at this global scale, one thing is clear and we hear it from you. Businesses need agility and productivity. Agility means different things to different people and engineering where my specialty lies, it gives me the power of fast iteration. It's not about getting things done just on a specific time. It's also about trying things multiple times to get it right.
+
+00:46:29:07 - 00:47:05:26
+不明
+So to bring agility, we need to all start working smarter. So how can Adobe help our brands work smarter, not just harder? So we believe, as you've heard throughout in the summit so far, that AI and automation together will bring a step function improvement to every role in the marketing enterprise. I will do the low value tasks while you do the high value tasks, so I'm super excited to share with you the product innovations in the Unified Customer Service Experiences category.
+
+00:47:05:26 - 00:47:30:05
+不明
+And you've heard some of this from Unreal and Unreal earlier, but we'll go into some more detail. Let me introduce you to three people in the marketing organization. These are personas that each of you have relationships with either in the current organization or in some job category. Pat, the paid media expert and customer acquisition expert. He has the budget.
+
+00:47:30:08 - 00:47:55:13
+不明
+He has. He has the need to acquire new customers. He's very frugal, though. He doesn't like to spend his dollars that easily, but he wants to spend it with care. Christina is all about customer experiences. She wants to deliver a consistent message, she wants outcomes, and she wants to convert her customers to trusting, loyal and repeat customers. Dave is a data expert.
+
+00:47:55:16 - 00:48:23:03
+不明
+He on boards data. He analyzes data. He's that test geek. He will not take any answer that does not go through a formal experiment. Now let's see how we can help Pat, Christina, and Dave with our brand new product innovations. So here's Pat. As we said, he is a paid media expert. He's a customer acquisition expert. Let's say that Pat wants to acquire new top of funnel customers.
+
+00:48:23:05 - 00:48:46:26
+不明
+Pat would likely start with the goal with the new Adobe Mix model, a gold space planning tool. From a goal, he'll generate an investment plan, and that plan will tell him which channels gives the best returns. He can also understand the overall return on investment based on his goals and budget. Pat is still looking to acquire new customers.
+
+00:48:46:28 - 00:49:13:08
+不明
+He loves using the real time CDP collaboration that we released earlier this year. He likes that it connects his brands to publishers to discover and activate new audiences. He loves it. It provides a privacy centric environment so that no customer data is exposed or transitioned removed. And all of this is possible with just a few clicks. We're expanding these capabilities with exciting new features.
+
+00:49:13:10 - 00:49:46:29
+不明
+Retail and commerce. Media networks now will be supported brand to brand partnerships to power core marketing efforts, while keeping the user experience simple and easy. Using insights from the newly acquired audiences, Pat can now spend his dollars judiciously and to acquire highly targeted customers. Now, frugal Pat can be happy and confident with his acquisition and plan for Pat, we automate the mundane and accelerate the meaningful.
+
+00:49:47:01 - 00:50:24:01
+不明
+Now it's Christina's turn. Christina has to act on these newly acquired audiences. As a marketer, her focus is the best customer experience she needs to ensure that the audiences receive a consistent message and an engaging first onboarding experience. So she starts with her brand's website to lock in the customer acquisition using the Adobe Experience Manager Site Optimizer. She can ensure better SEO, improving search results, matching content with the visitor intent, improved lead generation with AI optimization.
+
+00:50:24:03 - 00:50:53:20
+不明
+Do you see that book Now button? That's a call to action for conversion. So behind that button is the power of Adobe Commerce Optimizer and its capabilities. She was able to create a full experience with site optimizer and and Commerce Optimizer. Now Christina must turn to her operational team. She has hundreds of audiences and journeys in play. She needs to adjust these to the new plan.
+
+00:50:53:22 - 00:51:21:11
+不明
+I don't fret, we have two new agents to turn her trudge into delight. The first one is the audience agent. It offers audiences from natural language, as you saw in the keynote earlier, allowing marketers to describe things in a prompt. It also recommends the best audiences for the best channels, which is really cool, and it also provides rich insights to help improve the ideas and convert the idea to action.
+
+00:51:21:13 - 00:51:51:10
+不明
+With agility. With audiences ready to go, Christina must now work on her customer journeys. She has 50 plus journeys running in production, and Christina's team has concerns about adjusting these journeys. Don't worry, journey agent will support her all the way. The journey agent can be her assistant to offer new journeys from a natural language prompt, analyze and adjust running journeys and recommend actions.
+
+00:51:51:12 - 00:52:18:03
+不明
+I know all of you want this because I have personally talked to you about this. It's identify and resolve conflicts to ensure message consistency across customer journeys. Using audience agent in Journey Agent Christine, this team has saved hours of tedious work so I will handle the grind while Christina handles the growth. Now let's talk about the third persona.
+
+00:52:18:05 - 00:52:44:04
+不明
+Dave is the data expert. He's the data analyst for Dave. Data decides, not opinions. He's all about testing, learning, and scaling data warriors like Dave in the audience. I know you battle with data each day. We've got you covered. There are four new innovations we want to talk about experimentation, agent, data insights agent, data engineering agent, and content analytics.
+
+00:52:44:07 - 00:53:10:21
+不明
+Let's go through these today. Earlier we announced the Journey Optimizer experimentation agent. It's a game changer guys. It's an agent that recommends experiments and tests so you don't have to guess. It looks at past performance and helps practitioners decide which one to run with a click. You can enable this in Adobe Target or Adobe Journey Optimizer for those Adobe Target fans.
+
+00:53:10:27 - 00:53:38:28
+不明
+I know you're there in the audience where launching a brand new user experience and target that will seamlessly connect target with the experimentation agent. Now Dave likes to experiment. That's his DNA, but part of his job is to answer questions on his data. He manages data. Answering these data questions can be tedious, and it takes time. Wouldn't it be great for a self-service system?
+
+00:53:39:00 - 00:54:04:11
+不明
+Well, what do you know? Dave has the data insights agent to rely on. It's a marketer friendly tool that works with customer journey analytics. You can use natural language to access information hidden in your data. Gone are the days Christina has to wait in line, and her team has to get answers from an already busy Dave's team. They can ask the Data Insights agent directly.
+
+00:54:04:13 - 00:54:35:11
+不明
+Now, let's not forget where all of this started. Six years ago, we released Adobe Experience platform and real time CDP and agile and solved the biggest challenge. Then how do we bring data together and craft that unified intelligent profile system? Now the data remains unified, but it's not static. It's always evolving and it's dynamic. Keeping the data in shape is much like keeping ourselves in shape isn't easy.
+
+00:54:35:13 - 00:55:10:23
+不明
+You start with the best audiences. Everything's organized and structured. You go to the gym each day and then summit happens, and then a few messy things happen and life happens and you have more data entries that sneak in. There's extra redundancy, there's missing values. You get the idea. No more excuses. We will have the data engineer use the data engineering agent that is designed to help manage data with the natural language, and imagine AI supporting you with all the crazy things like fields and schemas and mapping and relationships.
+
+00:55:10:25 - 00:55:17:21
+不明
+Data warriors are scarce and the AI will boost their capabilities.
+
+00:55:17:24 - 00:55:44:22
+不明
+Dave used to have a blind spot when it came to content performance, but not anymore. I'm happy to announce content analytics so Adobe Content Analytics. Imagine if we take the power of Journey intelligence in customer journey analytics and apply it to every piece of content in your organization. It not only gives you insights on your content, it also tells you which attributes make the customer conversions happen.
+
+00:55:44:25 - 00:56:16:04
+不明
+It'll tell you, for example, if it's text or image or tone or color, etc.. So Dave, the data expert now has tools for experimentation, data insights, data engineering, and content analytics with AI and automation, data gets the upgrade from tedious to triumphant. Well, we've been through the entire full lifecycle of marketing. Through the eyes of these three personas, we can acquire new customers with real time CDPs.
+
+00:56:16:04 - 00:56:46:17
+不明
+Collaboration we can plan better with Adobe Mix Modeler. We can optimize more with Adobe Experience Manager Sites Optimizer. We can bring commerce capabilities, Commerce cloud, simplify data tasks with the data engineering agent with your way through audiences, through the audience, and create great unified experiences using the journey agent and democratize asking data questions with the data insights agent and an experimental agent that tells you what experiments to run.
+
+00:56:46:19 - 00:57:02:01
+不明
+Let's not forget content analytics, which will give you a lot more information about the content in your enterprise. Wow, a full lifecycle of marketing using automation, AI, and intelligence.
+
+00:57:02:03 - 00:57:44:29
+不明
+Unified experiences in the modern era is about boosting the power of marketing personas using AI automation to bring together data, content and journeys. And also using the power of our products, Adobe Experience Platform and Application and Experience Cloud, and much more to drive productivity, speed, agility, and to deliver awesome customer experiences. To show you the product innovations in action, I'm excited to invite Karthik Muralitharan, Group Marketing Manager on to show us some more cool demos on customer acquisition and planning.
+
+00:57:45:02 - 00:57:50:21
+不明
+Thank you for some time.
+
+00:57:50:23 - 00:58:11:07
+不明
+On the keynote stage earlier today, you saw a wealth of new features coming to Adobe Experience Cloud. This was shown through the lens of Marriott, where their goal was to incentivize business travelers to extend their work trips for leisure. I'd like to show you a deeper glimpse into how Marriott was able to deliver this experience. First, I'd like to thank Marriott for allowing us to use their brand for this vision demo.
+
+00:58:11:09 - 00:58:37:23
+不明
+All data and workflows are fictitious to protect the privacy of Marriott guests. As recently mentioned, I'm going to play the role of the demand gen marketer focused on paid media at Marriott. Like any good marketer, I need a plan for my acquisition budget. I'll start the process. An Adobe Mix modeler, our application focused on optimizing advertising budget across all channels paid, owned, earned, digital and offline.
+
+00:58:37:25 - 00:58:57:15
+不明
+I'm excited to show a new feature called Goal Based Planning, coming soon to Adobe Mix Modeler. I'll first start by defining my marketing goal. Since I'm focused on top of the funnel acquisition, let's aim to increase the number of new Marriott Bonvoy members.
+
+00:58:57:18 - 00:59:08:11
+不明
+And now, rather than building the plan simply based on my budget, I can build a plan based on my conversion goals.
+
+00:59:08:13 - 00:59:19:21
+不明
+The results will define an ideal budget and an optimized marketing plan for my time frame. From here, I'll optimize based on cost per acquisition.
+
+00:59:19:24 - 00:59:41:17
+不明
+And use our most recent model to drive leads. Then it's as simple as entering the target number of conversions. We'll use 8 million. Before I let the algorithm run to provide me with a plan.
+
+00:59:41:19 - 01:00:05:20
+不明
+The results look great. The plan is expected to achieve our target. I can now assess this AI powered response curve visualization to better understand spend efficiency or identify areas for even better ROI. I'll accept the recommendation, which includes significant spend on connected TV, and be confident in our plan to increase the top of the funnel for Marriott Bonvoy members.
+
+01:00:05:22 - 01:00:15:22
+不明
+Now that we've got our marketing plan in place, let's get ahead and start prepping for that connected TV suggestion.
+
+01:00:15:24 - 01:00:46:21
+不明
+If you haven't heard, real time CDP collaboration is now available to all us real time CDP customers. So if you have Primer Ultimate, start collaborating today. As for Santa, shared real time CDP collaboration is a clean, room agnostic solution where brands can connect to publishers to discover or identify new audiences, all in a privacy centric environment. Here we see a connection from Marriott to TV tube, where a number of audiences have already been shared for activation.
+
+01:00:46:23 - 01:01:10:05
+不明
+We can dig deeper into our business travelers audience and see that they're converting nicely with lots of new bookings. Great. With this success and our plan to increase top of the funnel acquisition, let's see if we can leverage TV tube's reach to find new potential business travelers. To do this, we'll use a new feature coming soon to real time CDP collaboration called Lookalike Modeling.
+
+01:01:10:08 - 01:01:23:26
+不明
+This uses artificial intelligence to identify TV2 profiles that are similar to my audience, which is business travelers. I'll simply apply to lookalike model.
+
+01:01:23:29 - 01:01:28:21
+不明
+Confirm the audience size. Estimate.
+
+01:01:28:24 - 01:01:43:25
+不明
+And add it to my connection for further activation. What do you think? The something that I get the job done properly. Hey Karthik, that was bonus worthy. What do you think? Give him the bonus.
+
+01:01:43:28 - 01:02:02:17
+不明
+So given that we've acquired new audiences, can you show us how practitioner Christina might start with the website optimization service? Let's do just that and optimize our website.
+
+01:02:02:20 - 01:02:30:10
+不明
+As you heard on the main stage keynote, Adobe Experience Manager Site Optimizer is our new application to help optimize web experiences. Site optimizer uses experience telemetry data to track traffic acquisition, engagement, site performance, and more. Oh, and if you're an experienced manager site customer on the cloud today, you have access to this data. After purchase, Site Optimizer can be turned on and immediately start delivering you value.
+
+01:02:30:12 - 01:02:54:03
+不明
+Sites optimizer has identified a number of opportunities for us to improve our web experience. Let's take a look at has broken backlinks opportunity. This is important because this could impact our SEO ranking as well as result in a loss of traffic from external domains. This list is illustrative of sites that are pointing back to Marriott potentially, but we're not getting that traffic due to these broken links.
+
+01:02:54:05 - 01:03:20:27
+不明
+Now I could review this list, determine the issue, and write in the correct URL, but the agent already recommends the correct URL for each broken backlink. For me, I can simply review the list and they look good to me. From here, I can deploy the fixes directly from the application with no need for a developer or technical resource, so I'll do just that.
+
+01:03:21:00 - 01:03:56:00
+不明
+And done. Another interesting opportunity is that visitors from social media seem to be bouncing at a high rate. When I click through, I get some smart guidance, a potential explanation on why, and a pre-built content variation that would help me resolve this issue. With this content variation, I can kick off a test to determine if it'll improve the site experience, or if I'm really confident I can publish the variation as is, which I'll go ahead and do.
+
+01:03:56:03 - 01:04:18:00
+不明
+And there, my variation has been published. The last thing I want to show Insights Optimizer is our success stories. This shows the history of actions taken by the site optimization agent, and the progress we've made together in improving the site experience with the on stage with me. Maybe I'll share it with her and my manager before my next quarterly check in.
+
+01:04:18:03 - 01:04:52:21
+不明
+With that, I've shown you new technologies to help plan, advertise to, and optimize the web experience to help Marriott acquire new Bonvoy members. It seems like my job here is done. Thank you. I think he is really working on his bonus. Thank you. So we saw the role of parts being played. You saw Adobe Mix Modeler planning real time CDP collaboration for customer acquisition, and also a little bit of the role of Christina creating the Sites Optimizer websites.
+
+01:04:52:24 - 01:05:21:00
+不明
+So I love it when a plan comes together. So let us now show you audience, agent and journey agent through the eyes of Christina, a marketer persona. To do that, I'm excited to bring Shelly Wang on stage. Shelly is a principal solutions consultant for Adobe Experience platform. Shelly, all yours. Thanks, Santi. I'll be taking over from Karthik as the role of the Customer Experience expert focused on audiences and journeys.
+
+01:05:21:02 - 01:05:41:22
+不明
+My goal is to improve our stay and explore journey, which promotes offers to business travelers to extend their business trip with additional nights for personal leisure. Now with my new partner audience Agent, I can ask questions such as how is the business travelers audience trending?
+
+01:05:41:25 - 01:06:14:08
+不明
+Audience agent responds by letting me know that the business travelers audience is unfortunately stagnant. But we have an opportunity to improve this audience by layering in a newly recommended audience. Luxury travelers. Now I can see that my luxury travelers audience has a sizable profile count of nearly 5 million profiles, with a 72% overlap with our business travelers. They've also got a great propensity score of 89, which means that if I add in this audience, my business travelers audience will increase as well.
+
+01:06:14:10 - 01:06:49:26
+不明
+Now I'm loving the look of this audience already, but I'll never miss an opportunity to further refine my data. When I click refine, audience Agent presents me additional opportunities for my luxury travelers based on performance goals. My first option increases the reach of my profiles, but unfortunately at the expense of relevance. Since propensity score is down, my second option increases the focus on those profiles most likely to engage, but that narrows down my target audience size a bit too much for my liking.
+
+01:06:49:28 - 01:07:15:02
+不明
+My final option focuses on those profiles most likely to convert, and features a nice boost in both profile size and propensity score. Yes, Goldilocks found her perfect audience after all. So now that we've got our audiences optimized, what next? Let's go ahead and put our Journey manager hats on and see how we can optimize our journeys for our business travelers.
+
+01:07:15:04 - 01:07:39:01
+不明
+Journey agent is working with Audience Agent to recommend that we use our newly created audience in our current state and explore journey. So here I have my conversion focused luxury travelers audience that I just optimized with. I let's take a look at the details. Oh, looks like I can get a nice bump in ROI if I add this audience into our existing journey.
+
+01:07:39:04 - 01:07:53:18
+不明
+I like the sound of that, so I'm going to go ahead and apply that recommendation. Next I'm going to ask Journey Agent a new question. What is the top concern with the customer journey flow right now?
+
+01:07:53:21 - 01:08:20:17
+不明
+Seems like some of our guests are having trouble, booking a hotel room or an excursion for some reason, and that's actually decreasing our conversion rates. Never fear, a concierge is here. We can go ahead and deploy the Adobe brand concierge to help guide our guests through some of the more challenging decisions. I'll go ahead and apply this recommendation as well, and check to make sure the concierge is in the right place in the customer journey flow.
+
+01:08:20:19 - 01:08:41:25
+不明
+Perfect, right where we need to support those undecided guests. Next, I also want to deploy this concierge in my mobile app. Well, doing so is as easy as asking could you activate the concierge feature on the mobile app as well?
+
+01:08:41:27 - 01:08:50:03
+不明
+And that was seamless. I think we're ready to publish.
+
+01:08:50:05 - 01:09:22:18
+不明
+Oh hold on. Journey agent has identified a potential issue with this journey. Seems like our audience is in multiple campaigns running simultaneously with overlapping messaging, which could be creating a confusing customer experience. Not a problem. Journey agent can help resolve this conflict by either delaying the campaign or separating our audiences. Now, I want to give both campaigns the maximum audience opportunity, so I'm going to go ahead and resolve with the first option and enforce that delay.
+
+01:09:22:20 - 01:09:48:06
+不明
+Boom. Conflict resolved. So with our audience is optimized and our journey is refined. This is my work here. Done. Nice job deploying those agents. Shelly, do me a favor and can you show the audience the role of the final persona? Dave, the on data agents sure thing was launched. Now, as the data expert, I am thrilled to show you experimentation agent.
+
+01:09:48:09 - 01:10:13:14
+不明
+This is a living knowledge base of all of the experiments in Adobe Target and Journey Optimizer. It keeps tabs on what worked, what didn't, and what we should be testing next. Here I can see a high level overview of everything experimentation happening in my business. And when I drill further down into a specific metric, such as revenue, which is currently running across 14 different experiments, I can see additional details.
+
+01:10:13:17 - 01:10:39:11
+不明
+I can see that my experiments are driving a noticeable lift in revenue, and I can better understand which experiments are proving most effective. There's also additional opportunities to improve my revenue. Seems like there's a high probability of lift in performance if we promote rooms with dedicated workspaces in our booking options. Now, this sounds perfect for our business traveler, so let's go ahead and add this experiment.
+
+01:10:39:14 - 01:11:08:19
+不明
+Now I can generate a new treatment for this experiment using AI, but I'm just going to go ahead with the recommended content and add to our journey. And we're all set. Launching new experiments has never been easier. So with our journeys optimized now, I want to better understand my end to end journey performance. When I open up my reports and journey Optimizer, I can see that my guests are now successfully flowing through the journey and conversion rates are going up.
+
+01:11:08:21 - 01:11:24:10
+不明
+Now I can open this exact same report in Customer Journey Analytics and dive even deeper into my data. With Data Insights agent, I can ask new questions such as analyze bookings by journey name.
+
+01:11:24:12 - 01:11:45:25
+不明
+Okay, this is awesome! I can now see which journeys are most effective in driving bookings. To take this a step further, we can do something that's completely new. Coming to customer Journey analytics viewing multiple dimensions in a flat view. So first I'm going to go ahead and find my asset Tags dimension, which is a part of Adobe Content Analytics.
+
+01:11:45:27 - 01:12:09:03
+不明
+This allows me to automatically analyze key details about the assets on my website. When I drag this in, I can now see multiple dimensions in the same table. Analysts out there, you're going to love this. So this is perfect. I can see my journeys and I can see that leisure focused content is really performing well. Let's go get it.
+
+01:12:09:03 - 01:12:45:25
+不明
+Let's go ahead and give our colleagues a heads up about this data. In Analysis Workspace I can create a new comment that imagery with pools, bars, restaurants and outdoor locations resonated well with our business trip extension campaign. Such a seamless way to democratize data across teams. So you've now seen how Marriott optimizes everything for their guests, from tracking website performance to identifying upsell opportunities with audiences and journeys to ideating on new experiments and even interpreting complex analysis.
+
+01:12:45:28 - 01:13:07:14
+不明
+I'm so excited to have these new capabilities by my side, and I hope you are too. Thank you so much. And something back to you. Thanks, Shelly. That was amazing. And thank you to Karthik and Shelly for awesome demos. Now I'm going to welcome back Sundeep Parsa to the stage.
+
+01:13:07:16 - 01:13:29:25
+不明
+That was an awesome session. One more time. And that. All right, I know we are a little over time. Oh my God, we you also into this thing. Doug? What's going on, buddy? Okay, we're going to talk anyway. So.
+
+01:13:29:28 - 01:13:46:27
+不明
+Thank you so much. Excuse me. To get most of the summit, please do visit the pavilion and also get all your questions answered. And do take the survey from the app and win some fabulous prizes. Thank you so much and enjoy the rest of summit. Bye!
+

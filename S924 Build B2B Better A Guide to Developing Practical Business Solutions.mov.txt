@@ -1,0 +1,384 @@
+00:00:00:01 - 00:00:23:40
+不明
+Okay. Hello, everyone. Thank you for coming. We're happy to have you here. This is Build Me to Be Better, a guide to developing practical business solutions. My name is Catherine Coppola. I am a senior field engineer here at Adobe. Subject matter expert on Marketo Agile and our CDP B2B. I'm Emile MacQuarrie. I'm a principal field engineer.
+
+00:00:23:42 - 00:00:47:26
+不明
+I cover Experience Cloud and Adobe Experience platform. And we are super excited to have you here today to talk about B2B use case development. So this is a quick overview of our agenda. We're going to start with the problems of solution capability versus business use case. Then we're going to jump into the architect share overview, discuss how B2B is different.
+
+00:00:47:31 - 00:01:10:30
+不明
+Then the meat of our presentation is going to be the B2B use case template and example. So we're going to walk through very closely some good and bad examples of use case writing for technical implementation. We'll connect that back to our entity relationship diagram, the ERD, and hopefully close out with why you need to write a B2B business use case.
+
+00:01:10:35 - 00:01:56:19
+不明
+Great. So in the last few years, as we are helping clients work through their implementation for Adobe Solutions, we discovered that many of them have been finding themselves a few months after they launched the solution, having to restart again. And clearly they're having a lot more fun out there. I don't know what are you doing here, but, having said that, the reason we found when we looked into it that most of those accounts did not have a very clear business use case defined early on, did not know what their audiences that they're going to go after or activate against should be, or what activation channels they're going to go after.
+
+00:01:56:24 - 00:02:34:12
+不明
+And the biggest part of it all, they didn't point out any of this into their ERP when they designed it. While we're when we created this, we wanted to begin or help you begin with the end in mind. That's what will give you success. So another thing that we discovered as we work with these projects, when you work on an EP project or Marketo project, you are going to be in a room within a large number of, your team teammates from different teams, and each of them have a different take on the language that you use day to day.
+
+00:02:34:13 - 00:03:00:13
+不明
+So because we come from different backgrounds, because we come from different solutions and, technologies. If I say attribution, what do you think about that? When I hear attribution, I think of program acquisition fields in Marketo. Very good answer. But when I think about attribution, I think about the revenue, the end goal. What is the conversion and how did it all start?
+
+00:03:00:18 - 00:03:23:38
+不明
+How did I bring the the top funnel folks come into my, my ecosystem. So that could be email. As you just said. But there could be social media or paid media or other systems or other channels, I should say. Okay. What if I said to you email, we really need to focus on scoring. What are you thinking about?
+
+00:03:23:51 - 00:03:49:50
+不明
+I think about Real Madrid, Real Madrid, the soccer team, soccer scoring. Okay, sure. Maybe we're talking about soccer. Hey, maybe we are talking about soccer, but I'm thinking about lead scoring and Marketo or using AP for our lead scoring rate. But if I'm talking to the events team, they might be talking about Net Promoter scores. So the idea is that we need to talk to each other because we have all these different, all these different words.
+
+00:03:49:51 - 00:04:16:01
+不明
+Yep. That's right. I'm not going to bore you with much, but oh is it anybody knows what that is. Oh yes. ROA s letters in English maybe. Anyone know that one. Return on investment or revenue line. That's. Oh, that's the easy one of the room. How many we are here? 100 and 2010. One of us knows what it is.
+
+00:04:16:06 - 00:04:43:43
+不明
+So. Thank you. I don't have any prizes today, but I'll shake your hand after. So the point as as Kat said, you guys are a large group. When you sit in a large project as market or app or other solutions, you will have at least 20, maybe more folks from different teams in your company working on it. Just try to break the silos when we say, solution capabilities versus business use cases.
+
+00:04:43:48 - 00:05:11:30
+不明
+And that's very important because the first thing when you work with ultimate success, our team, the first thing we're going to ask you as you're going into this implementation, what is your business use case? And I found out that not many of our clients agree on the definition. So I did a little bit of search and I found that it says a functional use case describes a functional requirement of a system from the end users perspective.
+
+00:05:11:34 - 00:05:42:52
+不明
+Usually it points back into a system or a solution capability. So things like segmentation or create unified profile or activate an audience against the destination, send an email or send an offer. All of these are capabilities. You purchase the solution because it does that. So when we ask for the business use case, it should be not that these are already included with your package with the solution.
+
+00:05:42:57 - 00:06:13:36
+不明
+Here is a contrast for a business use case. Because we're at summit. During summit, I'm going to send a message to the account director when one of you folks that is part of a buying group goes into and scans their, their, their ID at a booth, tradeshow booth or attend the webinar. The point here, or my goal in doing all of this, is to shorten the purchase lifecycle as I capitalize on your interest in the near real time.
+
+00:06:13:40 - 00:06:44:23
+不明
+Now that's a business use case. The definition of a business use case. It focuses on the potential financial or operational gain for your organization. And it is going to have to be including business objectives. And those objectives are not going to be related to a solution. They will be related to your business. It's a business objective, and you will need to define how you want to evaluate those business objectives.
+
+00:06:44:24 - 00:06:57:47
+不明
+What are the KPIs, not just what their KPIs are? You're going to need to tell me if you do not meet that goal against the KPI. What is the risk to your business?
+
+00:06:57:52 - 00:07:18:02
+不明
+The next thing is the target audience. As you write your use case, who are you trying to to go after or who are you trying to communicate with? And then specific to Adobe solutions like Marketo and AB, you will need to define where is the data coming from, your data source, and where are you going to activate the audience.
+
+00:07:18:07 - 00:07:38:53
+不明
+Now I give this question. I kid you not, not less than a few times a week from different accounts. Why do I need a business use case? I want to send an email. I have a contract. I need to cut out the other system. I don't want to spend the money on the other system. I need to send emails as of the beginning of April.
+
+00:07:38:58 - 00:08:01:16
+不明
+Obviously, that's not going to happen if you're starting today. But to answer that, I need to take you a little bit. I'm not going to try to read the whole architecture with you, but I want to show you a little bit about what our architecture looks like. On the left here, you see all the systems, all the touchpoints where data is generated and likely stored.
+
+00:08:01:21 - 00:08:25:45
+不明
+On the right you will see where where you're activating the audiences. In the middle are all the operations that happen in ERP. So then the other thing I'm going to point out here is that we have a server here called edge that will come back in a couple of slides. Another server which we call the hub. And then we have the data lake.
+
+00:08:25:49 - 00:09:05:17
+不明
+These are three instrumental sets of servers that our infrastructure all built are built on. In our system when you are bringing any type of data, it will all land in the data lake. Eventually it may go first to the edge or the hub and then land in the data lake. It will The data lake will act as the storage for all the upstream and downstream systems, and our method of data ingestion for the data lake is going to be, append and not update.
+
+00:09:05:22 - 00:09:34:28
+不明
+In our customer profile, real time customer profile, we have two different data stores. One of them is the profile store, which will host all the data fragments, including attributes. And behaviors and supporting entities. So any time you're sending data doesn't matter what the data ingestion method, if it's in able to relate to real time profile, it will be stored in the profile store.
+
+00:09:34:33 - 00:10:00:51
+不明
+The second part is every data that every piece of data, every fragment you're sending to AP will have to have at least one ID. If you have two or more ideas, then I start to form a relationship between them, and I create the ID graph based on storing those relationships in the ID store. This is important because we do not store the profile as it is.
+
+00:10:00:55 - 00:10:29:46
+不明
+It is called real time customer profile because when you ask if any of the services is you real time city or city, not city, but real time city view or ego for activation. When you ask for an audience, it will go and run that job in real time, looking at all the IDs related to that audience and looking at all the data relevant to that segment or audience that you're looking at.
+
+00:10:29:51 - 00:10:59:21
+不明
+So first point is that the fragments are stored in the profile store the identities and relationships in the ID store relationships, not the identities. Sorry. And then important to remember, as I said, because we do not store everything in the profile all the time. What's here? A subset of what's in the data lake. Everything that you inject is going to go back to the data lake eventually.
+
+00:10:59:25 - 00:11:45:27
+不明
+Now coming back here to our, architecture again, the first thing the first data ingestion method I have is with the, the SDK or the API to our edge network or edge servers, which allows you to do segmentation on the edge with, real time activation within seconds. The second way is streaming, which comes into the hub, and then it will make its way to real time CTP and eventually to Azure as well, where it may take a few minutes, but you will be able to stream it, and within few minutes you can activate against it.
+
+00:11:45:32 - 00:12:13:01
+不明
+The third is when you patch data into our system. It will go first. If it is able to profile, it will go first to our profile, and then it will land in the data lake. And that the evaluation on that I'm going ahead is going to take 24 hours. Another point to point out here is your entity relationships or your entity data is going to make its way to easier.
+
+00:12:13:13 - 00:12:50:17
+不明
+B2B and easier B2B. You can create the, audiences based on, buying groups. And then from there you can either activate it through Marketo or you send it back to real time city before activation. In other systems. The next is as the events take place using either the the streaming, ingestion or the edge. It will go through the the pipeline and then within minutes and streaming fashion, it will come to be to be empowering in near real time activations.
+
+00:12:50:22 - 00:13:12:40
+不明
+And the last thing I'm going to call out is you have a Am Assets Essentials that connects to Azure for, content creation. Now as you you bring the data into AB, I mentioned for you three different types of data ingestion. Two of them, are one of them is streaming and the other is batch. And then we have the data.
+
+00:13:12:45 - 00:13:42:12
+不明
+And to edge, the important differences between streaming and batch are as you batch data, you can bring a lot of data all at once, but then you're not going to be doing that too frequently, where as you bring data with streaming, it's going to be smaller in size and it will be much, higher frequency. On the other hand, the latency of the data availability for activation with streaming, it's low latency.
+
+00:13:42:12 - 00:14:09:15
+不明
+With batch, you're going to going to need to wait for the evaluation, which happens every 24 hours. This is important because when we talk about the types of audiences available to you and AB, one of them is audience that you can create on the edge. On the edge server that I pointed out a few minutes ago. There you can create simple logic and with real time activation to the next page.
+
+00:14:09:19 - 00:14:34:41
+不明
+But on streaming you can go a little bit more complex, and then you can also have a little bit longer look back window up to 24 hours and you can do activation near-real-time on the batch audiences. You will be able to use all the data in the data lake, but then the the latency is going to be 24 hours.
+
+00:14:34:46 - 00:14:52:37
+不明
+Now, before we get any further, we would like to tell you a little bit about how B2B is different. So I think hopefully you picked up on a lot of what I'm talking about. But needless to say, it's complicated and B2B is a little more complicated. The data structure changes and we'll go over that in the era portion.
+
+00:14:52:37 - 00:15:18:16
+不明
+But how is B2B different? We have longer buying processes. We have longer relationships with the customers and longer decision making processes. These are group. Oftentimes we're dealing with group decisions and consensus and executive sponsorship, which means that different people have different roles in approving the purchase of our goods. Additionally, this also makes things more complicated data wise is believed to sell cycle.
+
+00:15:18:16 - 00:15:38:55
+不明
+So there's a marketing sales hand-off. Sometimes there's a handoff back from sales to marketing as well, aligning on mql skills. Definitions like that really matter. And then there's the latest and greatest right, which is account based marketing. And maybe you heard earlier today buying groups. Right. So these are the newest ways to segment for your B2B use cases.
+
+00:15:39:00 - 00:16:06:10
+不明
+There's many stakeholders. There's varying levels of influence within the account. So to put it more simply, in B2C the end users often making a purchase decision for themselves, they're purchasing on behalf of themself. I I'm oversimplifying our B2C use cases, but if I go to the store and I buy toothpaste, my decision might be quick and my relationship to the organization is over until the next time I decide to buy toothpaste.
+
+00:16:06:10 - 00:16:30:07
+不明
+Whereas in B2B we're making purchase decisions not on behalf of ourselves, but on behalf of a business. That means that if I leave the organization, you still have a relationship with the account, right? So they're similar, but they're not the same. And so I wanted to bring up I realize that there's a lot of text on the slide, but I do think it's important we're going to I'm going to skip over what individual audiences are.
+
+00:16:30:07 - 00:16:56:15
+不明
+That's when you just are marketing to a person. Let's focus on account and buying groups an account as an organization. So you're doing your marketing and your segmentation based on the organization that might be the industry vertical, the number of employees, the region of the headquarters. This is B2B with account based strategies. And the target your target marketing is based on the account level.
+
+00:16:56:20 - 00:17:21:38
+不明
+Buying groups are different because it's for the stakeholders within that organization. So it's group level, stakeholders for a specific buying decision. Or we could think of that, some of us as an opportunity. It's way more, complex. And it might include things like engaging not only the practitioners, but the sponsors, the I.T, the finance department, the legal department, things like that.
+
+00:17:21:43 - 00:17:51:20
+不明
+So just to, illustrate for you, well, they're all technically implemented very differently. And so just to illustrate that for you, this is an example. So everyone you see on the screen is a member of the account Acme. But let's say I'm Adobe and I have a lot of different products. Right? I have Photoshop, I have am an artist CDP, and not everyone at Acme is going to be involved in every purchase.
+
+00:17:51:25 - 00:18:16:14
+不明
+It doesn't make sense for me to market Photoshop up to the VP of engineering, but it does make sense for me to market and to the VP of engineering. I can create different buying groups based on the product or the the opportunity that I wish. So it really allows you to tailor more closely. It's super helpful when you have multiple opportunities on a single account.
+
+00:18:16:19 - 00:18:38:03
+不明
+And that's what brings us to the meat of our presentation, our business use case template. So we're going to teach you how to write a good business use case. So we'll go over the template. And I do have paper copies of this template. If anyone wants one after I can give it to you. Or you can get in touch with us and we can email you a copy later.
+
+00:18:38:07 - 00:19:04:19
+不明
+But with that, I'll hand it back over. Thank you. All right. One of the things that we would like to remind you of, please state your clearly the, as possible, as clear as possible. What is the objective? What is what does your business want to execute on at this point? We don't want you to think about the technology or which solution is going to deliver it.
+
+00:19:04:24 - 00:19:32:03
+不明
+We just want you to state what your business needs to do. We broke it up in a little bit into sections. The first section can see it there, but the first section in yellow is where you give it a clear name. Define what you're trying to do in the summary and again define your business objectives. On the second section we're going to cover it a little bit in more depth on the next slide.
+
+00:19:32:07 - 00:20:04:48
+不明
+But this is where you define your audiences who's going to be included into the activation and when or who's going to be excluded. Even if I'm included at one point, should I stay there indefinitely? Likely not. You want me to take an action when I take it you want me out? And then? Then the third part of this is I didn't write in natural language what you are trying to do, so your data engineers can actually understand where to get the data from.
+
+00:20:04:53 - 00:20:26:01
+不明
+And then the last part on this slide is the data sources. Where does the data live today. So when you're defining your audience you're going to have different levers to work with. First thing I want to point out when you're activating an app or activating against a profile, which is a person that are attributes to the person, including that email and phone number and what have you.
+
+00:20:26:06 - 00:21:02:49
+不明
+But that person belongs to an account, and that account has one or more opportunity, and you may have one or more pain group. Each one of those categories has different characteristics that you can play with. To define a concise audience, the relevant to your use case and give you hopefully the goal that you're you're going after. So as you work through your, defining your audience, think through all of these elements and define it well enough to be relevant to your your use case.
+
+00:21:02:54 - 00:21:31:54
+不明
+That's exactly right. And you'll think of it this way. If you write incorrect requirements and they're implemented per the requirements, it doesn't help. Right. So we need to write the requirements clearly so that it can be implemented correctly. And that brings us to the the activation portion. So in this phase I don't want you to try to design, I just the the team should be thinking about what do we have available, what do we have licensed.
+
+00:21:31:54 - 00:21:54:23
+不明
+Do we have Marketo. We have agile B2B, we have target some other third parties. What are the, what are the channel solutions that we can activate on? But don't go further than that in the designing. Then, we need to articulate the the user journey touchpoints. So describe, you know, in as much detail as possible how you're going to interact with the customer.
+
+00:21:54:23 - 00:22:15:59
+不明
+What emails are you going to send messages. We're going to send all of that. It is required to make sure that it's it's viable for the data structure. The next part is the personalization components. And it's it's kind of small on the screen, but it's actually really important. It's super important for when you're design and implementing. Right.
+
+00:22:15:59 - 00:22:40:48
+不明
+And I like to think of personalization is really two parts. There's personalization of the journey. That's when do you receive a message. If you receive a message, you know what channel it's on, how it's served. And then there's the personalization of the content. Right? That's what's inside. So for example, in an email it might be an account number or it might be a sales reps, information things like that.
+
+00:22:40:48 - 00:23:11:49
+不明
+So there's the journey personalization and the content personalization. And it's really important that we're writing out what we require. Don't worry about designing it. Just what you're required to execute the campaign after that. There's routing automation, right? This is a little B2B specific, but what types of sales routing needs to occur? And when. So do we need to get, certain record to sales in a certain amount of time?
+
+00:23:12:00 - 00:23:33:23
+不明
+That brings us to speed, to lead. What is the speed at which a qualification must occur? Must we send the email within minutes, or can we send it tomorrow if they fill out a form? How how soon do we follow up? It might seem like a minor detail when we're executing the campaign. And do we send it right now or do we send it tomorrow?
+
+00:23:33:27 - 00:23:58:55
+不明
+But it actually makes a really big difference in the implementing ation. And then of course, we have KPIs and and success evaluation. So the what the KPI, what we're going to set out to achieve, we're looking for numbers here. If you have an expectation that your CTR is 20%, we want to know the expectation is 20%. Right. Because we want to know if we're meeting that as well as the conversion.
+
+00:23:58:55 - 00:24:25:57
+不明
+So there should always be some sort of meaningful conversion. That really indicates the success evaluation. So with that, let's do an example together. Now I did write this example, purposely to make a meals blood boil. So this is a bad example that we're going to go through. And let's see how mad we can make a meal.
+
+00:24:26:02 - 00:24:50:35
+不明
+Imagine I came to you and I said, okay. The marketing team wants to recreate their existing campaign. It's called welcome, nurture, Dash, new Dash 2019 new and 2019. It's it was new at the time that we made it. And, we're going to we're going to do a simple lift and shift onto the Adobe technology. I won't be helping with any lifting today.
+
+00:24:50:40 - 00:25:16:27
+不明
+We told our executive sponsor that we would go live by the end of the month, and we just need to get this on board. We need to get it going. That's a very realistic timeline. And because of that, the audience is going to come out of the CRM. It's going to be fine. I'm just going to upload a CSV so that we can get this going, get this off the ground, and we will figure out the audience and the segmentation later.
+
+00:25:16:31 - 00:25:43:14
+不明
+What goes into the CSV? I have an Excel spreadsheet. It's all up here. So okay. This is very important. In our old solution, we had, virtual habits and they belong. Love that movie. Have you guys seen it? The hobbit? The virtual hobbits belong in the lowest content block. We've used them in every single campaign, their mission critical.
+
+00:25:43:19 - 00:26:03:35
+不明
+We need to. By the end of the month, rebuild this feature functionality in our new solution. So we have to get the virtual hobbits up and going. Okay, great. And then, of course, we need to include an advanced lead scoring program. Also mission critical. We need that for the sales team that's got to go in as part of the welcome nurture.
+
+00:26:03:38 - 00:26:32:35
+不明
+And we're back into soccer now. Yes. And the goal is to make our new members feel as warm and welcome as possible. Anybody needs a blanket. And when I get warm, okay, so let's look at the red flags. All right. I mean, the first thing I've been trying to be a little bit funny there, but the first thing you're telling me, it's new, but it's 219 that they don't go together.
+
+00:26:32:40 - 00:26:56:10
+不明
+Also, never, ever expect a project moving from one system to another to be lift and shift each system has its own architecture. Each system has its own data structure. If you are going to lift and shift, I will guarantee you 3 to 6 months later you will come back and ask us why is it not working? All right.
+
+00:26:56:15 - 00:27:14:58
+不明
+The next is manually uploading and figuring out the segmentation later. So at this point, the marketing team should not be assuming anything about the design. So don't worry about if it needs to be uploaded or how the segmentation is going to work. If you tell me that you can upload a CSP, it tells me that you have the data somewhere.
+
+00:27:14:58 - 00:27:36:19
+不明
+You must have a query somewhere. And so that is what I'm looking for is what attributes are you using to create your CSV? Don't worry about how it's going to actually work in the system at this point. We'll get to it later. The next is the virtual habit. Now hopefully you realize I'm being funny, but what is a virtual habit?
+
+00:27:36:19 - 00:27:52:53
+不明
+It's something. It's a feature that you loved about your old solution and you want to recreate it. Yep. Just tell us what exactly does it do and will tell you how to what's what parts of our system can do it for you. Right. So what does it do? What did you like about it? What did you rely on.
+
+00:27:52:53 - 00:28:20:58
+不明
+So trying not to rebuild old functionality in new function. But you know, see what we can do to meet the requirement itself without the design yet the next is lead scoring. This is mixing use cases. What more likely is that this nurture will in Flint influence a scoring program. And that is something we should account for. But we shouldn't jam it into the same use case.
+
+00:28:21:03 - 00:28:49:41
+不明
+And the last warm and fuzzy is a very good feeling, but I can never quantify it. I cannot measure it. So yeah, you can use that language, but quantify what that means as you go through it. And I'm getting ahead of myself here. Okay. So with that let's write this better. Okay. So the first part we're going to call out here is we are naming it Welcome Nurture Campaign for new.
+
+00:28:49:46 - 00:29:25:16
+不明
+Customers. The goal here is to yes, get or create a warm experience. I want to personalize the experience, make it warm for my visitors, and educate them about the solution they just purchased. Create. Establish trust and encourage them to complete the, relevant content and touchpoint. You can use the context of saying, this is our old campaign that has been successful since 2019.
+
+00:29:25:21 - 00:29:57:27
+不明
+We want to move it from the old system to the new system. Definitely include that context. We don't want to lose track of our previous success. But as you define your business objectives, you're going to tell me that you would like to encourage or have new customers finish their onboarding paperwork. You're going to educate them about the new features and the new offering drive early stage engagement with the potential, the personalized content.
+
+00:29:57:32 - 00:30:18:03
+不明
+Much better. Thank you. So this avoids a lift and shift mindset. It adds context of our past success that we're not going to forego. And it sets clear objectives for the use case. Now, moving on to the audience descriptions, and the data sources. So here you can see and this is the part I think, that trips customers up the most.
+
+00:30:18:03 - 00:30:36:43
+不明
+And I've, I've read a lot of your use cases. I've been in a lot of your environments and talked to many of your, your team members and some of you yourselves. This is what trips customers up, is that they can't articulate who they're talking to. They don't know what data fields they use. Right. And that's where we work with them.
+
+00:30:36:48 - 00:30:57:23
+不明
+Okay. But here, a clear description would be that has an opportunity closed one in the past two days as a member. Of our opt in. It's true. Visited onboarding pages in the past two days and registered or registered for our welcome webinar. So we're saying, okay, who is in this audience and then who do we exclude.
+
+00:30:57:36 - 00:31:20:19
+不明
+So let's say in this case we're targeting our new practitioners. So we're not going to include anyone from the executive sponsorship buying, role in the buying group and profiles who are unsubscribed because it's technically marketing. And let's say for a certain line of our product, they have a different onboarding program. So we're going to exclude anyone with those closed one opportunities.
+
+00:31:20:24 - 00:31:42:37
+不明
+Of course, if they changed companies and if they've already filled out the onboarding paperwork, we're going to exclude them as well because they've already met the goal. And then of course, you give the, you know, you can give some definition, some context. Don't forget, you're basically writing instructions for a design, an architect to design and to design your implementation.
+
+00:31:42:37 - 00:31:58:42
+不明
+So talk to them like a human and try to express what you need, because that's where the conversation happens, where it might be that, oh, we're not going to use this opt in field. You might want to use this one. And we can refine the use case. Right. And then of course I'm going to list my data sources.
+
+00:31:58:53 - 00:32:19:46
+不明
+That's very important for the implementation. We need to know where the data is being sourced from. Because it goes back to the architecture that Emil was showing earlier, that complicated architecture. We need to know where it's coming from. And how fast you need it. So how did I do with that one? Great. You defined the audience very well.
+
+00:32:19:46 - 00:32:50:31
+不明
+And what, attributes you would like to use to define the segment and also the events. You also clearly articulated your objectives. So you've done great. Great. Okay. Let's keep writing this use case. Our activation channels and solutions. That's what we have available. You would be surprised how many times you might see that your, your team's confused about what they have available to them or they didn't know they could use certain licensing.
+
+00:32:50:36 - 00:33:19:46
+不明
+And then we're going to talk about the touchpoints. Right. And this when I'm reading through this, what I'm also doing is walking through in my mind that architecture diagram and the ERP. And we're going to look at the era together. But as they enter the journey upon qualification, they receive an email for for four weeks driving them to relevant web pages, and the sales rep is going to check in on them personally via phone, and invite them to a meeting at the tradeshow booth.
+
+00:33:19:51 - 00:33:42:37
+不明
+The components of personalization are based on previous email web interactions, and if the customer completes the necessary paperwork, which is a form hiding this message. If, for the remainder of their journey and the content is going to be a few fields that I've picked first name, date of onboarding and their sales rep information, the routing also important, right.
+
+00:33:42:37 - 00:34:09:04
+不明
+Because we need to the when we're designing, we need to know where we need to get the data and how fast. So as the customer completes the process, their lead score is updated by one. And then for every webinar they get ten. We're trying to gauge how well they're introduced to the new product with the score. And once they reach 15, the salesperson is notified that this part of the journey is completed and if they do not engage, will have a follow up in a few days.
+
+00:34:09:09 - 00:34:26:19
+不明
+And then the speed to lead. How fast do they need to receive their first message? Do they need to receive it within minutes, or can we wait a couple days? Right. And that'll make a difference to our design as well. And then of course sales alerts. How fast do we need those. Usually pretty fast. What do you think.
+
+00:34:26:24 - 00:34:51:46
+不明
+Great. Now you've stated the solution. Which solution you will be, involved in, in the activation, your sales. You stated, I'm sorry, the type of, touchpoints, you highlighted the personalization requirement, which is very big. When we talk about, they are they will come back to it and you clear you, you identify the clear routing and speed expected.
+
+00:34:51:46 - 00:35:20:03
+不明
+So. Okay, next part is mine. I forgot that, but, we said many times that you need to define your KPIs and not just what the KPI is, but also the goals you would like to reach. So here we're saying we want to have 95% complete onboarding paperwork with seven days, within the, the seven days. And we want to reduce the call center follow up by 35%.
+
+00:35:20:07 - 00:35:57:06
+不明
+We also want to have 30% attend the own onboarding webinar. And we want to see a greater than 50% open rate to all the emails. Very clear, very measurable. And it will be quick to to evaluate on our system. Our goal is or the way we will evaluate our our use case. Successful campaign will automate the process of onboarding paperwork completion, alleviating the the required, follow up emails or follow up calls from the call center.
+
+00:35:57:10 - 00:36:22:25
+不明
+Much better. We now have measurable KPIs and a clear understanding of what success looks like. But what about my ERA team? Okay, we're going to look at more. We're going to look at two very simple versions of the Irad. And before we get to it, this is a color coded version of the RTC, our TCD, CPA, B2B edition.
+
+00:36:22:30 - 00:36:47:49
+不明
+Data model. Right. So if you just do the out of the box model, this is what it looks like. These are the objects I've color coded it. So what I want you to do is follow along with the colors. I'm going to tell you a story that you can extract just from the data model. Cat is a field engineer at Adobe since December 2nd, 1982, the first day of Adobe's founding.
+
+00:36:47:51 - 00:37:16:30
+不明
+That's my relationship to the account. Adobe. The account is headquartered in San Jose and has more than ten employees and is interested in purchasing a product, not just the account is purchasing the product, right? Okay, so Kat will influence this decision, this opportunity, along with other employees of Adobe, she does not influence every opportunity we have with the company.
+
+00:37:16:35 - 00:37:45:24
+不明
+She visits a web page, she fills out an interest form, and she fills in all of this information. Now she subscribed. She's a member of our product marketing list, and because she's a member of the list, she's invited to a, to a certain webinar. When she registers, that's an event. We're going to send her an email and after arriving, record that she has attended and note her program success.
+
+00:37:45:28 - 00:38:12:18
+不明
+So it's a little silly and confusing, but it helps you understand. I hope what you get out of this is that you can tell a whole story. Just by looking at an ERD. So now how many of you have seen an IRA before? Work with them regularly. Okay, some of us. Okay. Now for those of us who have never done that, let's look at this ERD.
+
+00:38:12:23 - 00:38:44:55
+不明
+What I have pasted at the bottom is just the requirements. Don't take a picture of it yet. You want to take a picture. The next one is the requirements of the campaign. Now I read a good use case. I have my ear d and I know the architecture. That email showed me how many people think that based on my use case and my ear d I can achieve my goal.
+
+00:38:45:00 - 00:39:12:47
+不明
+How many say yes, you can achieve your goal. You can achieve your goal. Why anyone? No. Yeah, there's something really key missing. Here is the opportunity that was we forgot to include the opportunity in or your D right. Everything is related to the person. But we're segmenting based on the opportunity. So that would not work. So Amiel can you please fix this?
+
+00:39:12:52 - 00:39:33:07
+不明
+I'll do my best. So we just updated the RDA. We included, the opportunity and the opportunity relationship. Do we think now this is going to work? How many say yes, this should work.
+
+00:39:33:12 - 00:40:00:42
+不明
+Okay, I think it would work. And look at all that content we highlighted there. You can see clearly that with the B2B activity, you can find the event that tells you that there was opportunity across the last two days, you have in the person table, you have your, marketing option equals true. And I have web page activity that tells me the beach names.
+
+00:40:00:46 - 00:40:28:26
+不明
+So if I visited three onboarding pages, you will be able to see that there in the last two days. And, if I register to a webinar, you also can see that in the B2B activity table. What I hope you get out of this is we showed you three key elements enterprise architecture, valid requirements. And in D and you you should you should try to proceed with all of your use cases.
+
+00:40:28:39 - 00:40:50:20
+不明
+Having all three of these because and the requirements are at the basis of it. Because you can't check your ERD or your enterprise architecture against anything if you don't have your valid requirements. So we read the requirements and literally sometimes I'll read your requirements and I'll circle and I'll say, okay, that's there, that's there. And can I get it streamed, can it be batched.
+
+00:40:50:20 - 00:41:14:19
+不明
+All of those things? Yeah. Now we really hope by this moment we've been going at this for 40 minutes that you can answer this question. Why do I need a business use case? First you need to know what data you will. You will need to identify your audience and where are you going to activate them. The other is where are you going to activate them?
+
+00:41:14:24 - 00:41:38:08
+不明
+Which channels? How fast do you want to act on it? If somebody scans their batch in a post, you want to reach out within five minutes or within five days. What type of audience are you going to need for that use case? Is it going to be edge streaming or batch? Or maybe a combination? Well, the data you need be available when you need it.
+
+00:41:38:13 - 00:41:49:28
+不明
+All of that is important before you start loading your data into into the system. So that is why you need the business use case okay. Thank you. Thank you guys.
+

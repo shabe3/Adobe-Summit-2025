@@ -1,0 +1,432 @@
+00:00:01:19 - 00:00:26:55
+不明
+Welcome everyone to the session that is described in your catalog as the Marketo Engage and Adobe Journey Optimizer B2B edition, roadmap and innovations. That's a long name for basically B2B customer journeys. Intelligent orchestration in the AI era, which is also a long name. So you basically didn't gain anything by changing it. But, what this tells you is what we're going to focus on today.
+
+00:00:26:59 - 00:00:47:55
+不明
+You'll notice for all of you who are in the B2B track, that there are three roadmap sessions this year, not just one. This is the first one in the B2B marketing track. And here Niranjan and I are going to talk about, the high level of what, is going on in B2B customer journey, both Marketo Engage and Journey Optimizer B2B.
+
+00:00:47:59 - 00:01:04:43
+不明
+And after we get along the way, as we tell you the highlights, we're going to dive deeper into some of the AI capabilities. But if you really want to go deep and all the things that are coming in Marketo, you can go to the 230 roadmap, deep dive for Marketo. And then there's an B2B deep dive at 4:00 today.
+
+00:01:04:47 - 00:01:30:29
+不明
+Excellent. So I am Badshah Mukherjee and I am in the product management team for B2B customer journeys. Hey everyone! First of all, welcome to the session. My name is Niranjan Camby. Look at these champion jackets. They are so cool. They they're distracting me. Anyway, welcome to the session. So good to see, so many familiar faces.
+
+00:01:30:34 - 00:02:04:20
+不明
+Great. So let's get into it. Just a quick overview. Since we're the first. First session up in the B2B marketing. So we have a lot of different sessions for you this year. First of all, tomorrow, first thing in the morning. The inspiration keynote is going to feature B2B front and center. And then at 1 p.m. tomorrow, you're going to have, the strategic keynote address, which is, entitled B2B Reimagined Data, that you are here right now in the yellow the B2B customer Journeys roadmap.
+
+00:02:04:31 - 00:02:26:04
+不明
+And then I told you about the deep dive at 230 for Marketo, and then the Journey Optimizer deep dive at 4:00. We have 21 breakout sessions there, five hands on labs. Who signed up for a lab, by the way? Awesome. Excellent. Those are always very useful. You'll get some hands on experience in the application, like learning about buying groups or troubleshooting Marketo.
+
+00:02:26:09 - 00:02:45:01
+不明
+And, we have booths. So please visit our booths. This is a picture taken this morning. And you can see that we have four booths. So when you go in there, you'll see an AI booth for B2B. On the right side you'll see Marketo engage in Marketo measure. On the other side of that one is Journey Optimizer B2B.
+
+00:02:45:14 - 00:03:04:41
+不明
+And then finally in the middle, we actually have a special station where ServiceNow story is being told to everyone. The B2B story, and you'll hear ServiceNow tell their story tomorrow at the strategy keynote address or actually on the main stage. Great. Okay. General reminder, the safe harbor statement. You know, this is all future stuff. Dates can change.
+
+00:03:04:42 - 00:03:27:02
+不明
+Scope can change. Please don't make contracts based on this information. And as I always say, always take everything a product manager says with a grain of salt. All right. Let's get into it. So first, some background on what's going on in B2B as we see it. So it's going through a generational transformation. So first there were stone tablets and then paper.
+
+00:03:27:07 - 00:03:57:00
+不明
+And then fast forward to the 20th century. Everyone here may remember the time when CRM became a thing, right? But customer relationship management started out mostly with Salesforce automation, which makes sense because in B2B, right, Salesforce is your key channel historically. But it was mostly taking what you had and roller rolodexes, right. And moving those records digitally and didn't usually go beyond the initial sale.
+
+00:03:57:05 - 00:04:33:08
+不明
+B2B toward Marketo came into play, right? End of the 90s, early 2000. We started automating marketing. Right. Digital marketing starting from, batch and blast email marketing to full lifecycle management of your lead engagement programs. Nurture. Right. Now we're, ABM was kind of an evolution of that. So account based marketing suddenly gave you a new way of targeting specific accounts and doing more hyper personalized engagement with the members of those accounts, who we now are automating a B2B 3.0 with what we're calling buying groups.
+
+00:04:33:21 - 00:04:53:04
+不明
+So now the present day, what do we have? Journey optimizer B2B edition is part of a new transformation where we're saying, don't just do lead based marketing and don't even do old fashioned account based marketing, but now figure out who the right people are and do buying group marketing. We also have, along with that, a lot of innovation, right?
+
+00:04:53:16 - 00:05:20:04
+不明
+AI is changing the world, and we're trying to incorporate all of that into our technology now. The thing is, even though a lot of you are doing B2B trade out or starting to explore it, doing proof of concept in some cases, and you're trying to get it done and implement and whatnot. It is hard, and we recognize that it's not easy with all the data challenges and integration challenges.
+
+00:05:20:09 - 00:05:47:47
+不明
+You have disparate systems, distributed teams bringing it together. So yes, even profitable growth by being efficient, right. Doing more with less is hard. Connecting all those systems is hard. And also trying to manage and engage with accounts, spying groups, contacts throughout the whole customer lifecycle across all your use cases. Cross-sell, upsell, new sale, advocacy, retention. Loyalty is difficult, right?
+
+00:05:47:52 - 00:06:18:15
+不明
+We've been trying to solve a lot of these challenges with Marketo for years. Right. And we've done a decent job. Maybe it's not 100%, but, but now we're trying to find better solutions in the new way, and I can help with that. So that's where we're at today. So, your engine. Yeah. But when you say we are going from B to B 1.02.023.0, that sounds to me like going from fast food to fine dining.
+
+00:06:18:17 - 00:06:45:29
+不明
+Does it sound right? It does. And I'm glad you chose food as your metaphor, because that's important to me. Yeah, I know that. That's right. So it's like it's like going from quick transactions to building deep relationship with customers. And that starts by bringing all the data about your accounts, about that engagement, not just marketing and sales engagement, but also all the other thing that you collect in, you know, after the sale is made.
+
+00:06:45:30 - 00:07:25:37
+不明
+You know what is the account? What is the, you know, how are they using the products, what products to their own? So that's exactly what we are building with this new unified platform for go to market orchestration, where we bringing all of that data, both pre-sales as well as post sales data into one platform where you are able to continuously listen to all the signals that you are getting from the customer, whether it's your web behavior, marketing engagement, or other things that are happening within within the account, under one unified platform that you can then use to connect deeply at a personal level with, with the customers, with the individual persona within those accounts.
+
+00:07:25:42 - 00:07:48:20
+不明
+So let's talk about our portfolio of B2B products. Obviously it has expanded. We started with Marketo Engage, which is the flagship product we have. We are not only investing more in Marketo, we are doubling down on the Marketo innovation. You know, you may have heard of several things that we have shipped this year, including the new email designer.
+
+00:07:48:25 - 00:08:11:55
+不明
+You will hear a lot more in this session as well as in the market. A deep dive, of how we are bringing Adobe Experience Platform capabilities into Marketo engage. You will hear about the new Journey designer, lots of generative AI capabilities and capabilities coming to Marketo. Beyond Marketo, we have started building purpose built applications for specific use cases.
+
+00:08:11:59 - 00:08:37:57
+不明
+Adobe Journey Optimizer B2B edition is what we will talk about today. In this session, along with Marketo that's focused on automating your buying groups, creation of the buying groups, nurturing those buying groups, and hiring canning those qualified buying groups to sales. We obviously, have real time CDP, B2B edition that helps you unify the data, segment the accounts, listen to all those signals from various different channels.
+
+00:08:38:02 - 00:09:03:07
+不明
+We are announcing two new products at summit this year. Super excited about these two products. One is Adobe Brand Concierge B2B edition. This is your. This will revolutionize your website experience, where it will use all the signals that you're collecting and help you personalize your web experience and connect and drive those meetings. And second is Adobe Customer Journey Analytics B2B edition.
+
+00:09:03:12 - 00:09:27:26
+不明
+We know that analytics and insights is super critical, and you want to go deep into understanding how your customers are engaging with your brand. So Adobe Customer Journey Analytics B2B edition is a new product that's also getting launched at summit. Let's take a moment to talk about AI, Adobe's vision for customer experience orchestration. You heard at the main stage and you spoke about it.
+
+00:09:27:26 - 00:10:06:41
+不明
+Shantanu spoke about it. Is powered by purpose built AI agents that enables every customer interaction to be seamless, personal and impactful. And it's not only, you know, being personal, but delivering it at scale. That's what Adobe excels at. They're designed for the marketers, you know, adapting in real time and automating all the repetitive tasks so that you can focus on more creative aspects of your job and, you know, delegating all the repetitive tasks to AI, from data and insights to tailored content.
+
+00:10:06:46 - 00:10:36:07
+不明
+They do all the heavy lifting so you don't have to. Now let's dive into our key investment areas. The three pillars that we have here are meant to address the mass of your data, the chaos of personalization through journeys and content, and the grind of sales alignment. Let's go into the first one AI for Data and insights. So marketers today are stuck with too many leads, accounts and not enough focus.
+
+00:10:36:07 - 00:11:03:53
+不明
+You know sales always complaints. There's marketing complaints that, missing the real players, the real decision makers, the drive, the purchasing decision. And it's hard to find the right accounts, the right people, the right buying groups to go after. Think of building a buying group is like forming a band. You need the drummer to set the pace. You need a pianist to set, you know, add the depth and all the players to play and sing.
+
+00:11:03:53 - 00:11:28:19
+不明
+So you create the right music. Otherwise it's all just noise. So creating, buying groups and nurturing them and qualifying them and delivering it to sales is very similar to that. So let's see what are the product innovation that we are bringing to market. Unlock all of those capabilities. So the first announcement announcement that we have is audience agent with the skill of buying group creation.
+
+00:11:28:24 - 00:11:51:54
+不明
+So what this does is, you know, when we speak to many of our customers, Adobe Journey Optimizer today offers the ability to automate the creation of buying groups using both behavioral thermographic signals as well as behavioral signals with first party intent. What this will allow you to do is bringing unifying all of the marketing and sales engagement, tying it with all your historical data.
+
+00:11:51:55 - 00:12:17:04
+不明
+You know, you have all your opportunity data, deal data, and CRM. It brings all of that data. And we know that CRM data is messy. It's not clean. Salespeople do not enter all the opportunity contact roles. So we use AI to tie the deal data with the marketing and sales engagement to unlock the insights that are embedded within within that data, to tell you which accounts to prioritize who within those accounts, you need to prioritize.
+
+00:12:17:11 - 00:12:48:16
+不明
+What persona do they play, what role do they play for a certain product, and when do they engage? Do they engage in the early stage, middle stage, or the later stage of the sales cycle? And this is really important for marketing to create that first version of the bank. Obviously you need feedback from sales to, you know, because they work with the account you need, you need sales to provide that feedback, but you need all of these insights to create that first draft of the buying group and start nurturing.
+
+00:12:48:21 - 00:13:13:41
+不明
+The next thing is, you know, you've composed the buying groups you started nurturing through the account and buying group journeys. Now, how do you how do you track whether your campaigns are working or not? Your journeys are working or not. Account Progression Insights is provides you with rich insights about the buying groups accounts, the intent, all of those rich capabilities that helps you understand whether your journeys are making a difference or not.
+
+00:13:13:42 - 00:13:34:44
+不明
+Where do you need to double down? Where do you need to pull back? What accounts are surging? What accounts are not? Which ones need attention? It's kind of a radar for your pipeline. So that means your next move is always on point. Delivering the right content based on the interest customers are showing. So let's see these two capabilities in action.
+
+00:13:34:49 - 00:13:58:26
+不明
+So the first one is the buying group, creation agent within the audience agent skill. So so here is the buying buying group, creation capability within the audience agent. So what you do is you go to this conversational capability where you can type in, hey, I'm trying to sell a certain product to a set of accounts, help me prioritize accounts within this segment.
+
+00:13:58:31 - 00:14:28:46
+不明
+And based on the interest and intent, it starts analyzing all of those accounts, surfacing the right persona and showing you a preview of of the accounts, the contact coverage within those accounts, and helping you create those buying groups at scale. The next capability, that we want to dive into is the account progression insights. So this has several rich insights to help you analyze whether your journeys are working, how your accounts are progressing through the funnel.
+
+00:14:28:51 - 00:14:52:28
+不明
+You will see, you know, buying group stage progression. This is for you to understand which buying groups are at what stage of the life cycle. It also has natively built first party intent. You know, we know that all of you use some form of third party intent that scans for the the behavior on the web. What we have also use done is integrated AI and generative AI into the product.
+
+00:14:52:28 - 00:15:23:13
+不明
+Better analyzes all the the behavioral signals, whether it's your web engagement, email engagement, your chat, webinar to analyze and surface the first party intent and tied back to the products that you sell. That's what you care about the products and solution categories that you sell. There is also contact coverage that you see. This is pretty important because paid media and event spend are one of the biggest budget line items, and customers are always looking for optimizing that span.
+
+00:15:23:13 - 00:15:41:41
+不明
+So this helps with identifying who do you have in the account? Who who are you missing so you can optimize your paid media content syndication spend to acquire the right contacts that are missing from the buying groups. And we always hear from customers, hey, how do I know if there are people from multiple, you know, across multiple buying groups?
+
+00:15:41:54 - 00:16:14:28
+不明
+So we also have a report for that that shows you people that are in multiple buying up, so you can apply the right tactics for people that criss cross across different, buying groups and solution interests. Just to recap, the first capability that we talked about is buying group discovery and creation. This helps you uncover insights from all the data marketing engagement and tying it with the CRM insights that you have from all future historical deals, and creating those buying groups at scale.
+
+00:16:14:32 - 00:16:43:49
+不明
+And next is the account and Buying Progression Insights. This provides you deep insights into how your buying groups and accounts are progressing through the funnel. Identify ING risks early on and applying your whether it's paid media dollars or content syndication or journey spend at the right accounts so you can progress those high priority accounts through the funnel, that's not, as Bashar said, there will be much more covered in the deep dive sessions, both in Marketo Deep Dive as well as B2B.
+
+00:16:44:00 - 00:17:09:47
+不明
+But I want to highlight two quick things that are not necessarily AI related, but are very important. One is we hear from all of you that Marketo is reporting is broken. It doesn't scale. So we have completely reimagined advanced PII analytics in Marketo from the ground up. It's new infrastructure with a new user interface that provides you this deep insights into program, performance.
+
+00:17:09:52 - 00:17:42:45
+不明
+This will start rolling out soon. And second is the completely rebuilt Salesforce CRM sing along with the dashboards. The CRM sync is heavily used by all of you. So we have, you know, double the speed of CRM sync, which will start rolling out soon to all of you. But we are also surfacing some important insights that provides you visibility into the sync sync status, sync failures, that are critical for you to make sure those hot leads are delivered to your sales counterparts.
+
+00:17:42:50 - 00:18:09:14
+不明
+Match up. Thank you. Niranjan. So, Yunjin, you know, if Ruby 3.0 is fine dining, what you're saying is that the audience agent basically is like a chef who brings together all your data, ingredients to prepare your recipe, which is a fantastic engagement experience. Is that right? Yeah, that's exactly right. Okay. Awesome. But you know what? I need to think about what?
+
+00:18:09:19 - 00:18:28:51
+不明
+How easy or hard it is to do those journeys. Yeah. So, but before we do that, I want to do a quick exercise. Okay, everybody, you heard about the CRM thing. Say it together with me. Self-service, self-service CRM sync. And I'll say it really fast. Self-service here in sync. Now I can't say it okay. Now you can.
+
+00:18:28:56 - 00:18:48:56
+不明
+That will be stuck in your head for the rest of the day. And that's the kind of influence I like to have on people anyway. It's always negative anyway. So let's talk about customer journey. So it's all great to think about customer journeys. Right. But they are becoming increasingly complex. And that is a challenge for marketers.
+
+00:18:49:01 - 00:19:17:22
+不明
+So for example and if we look at the three reasons why, right. Then you could see, first of all, ticket audiences, audiences are getting more complex. So it used to be that you'd basically do lead generation, lead acquisition, lead marketing, right? That was the bread and butter of Marketo engage for years. And then with account based marketing, people started identifying target the countless right ideal customers, etc. but you really didn't have account based orchestration.
+
+00:19:17:27 - 00:19:35:27
+不明
+So now you have to engage accounts as a cohort. But not only that, that's too big, right? So now you have to think about okay, well who in that account among the 10,000 employees actually matter. That's your buying group, right? For a given product or service that you're selling. And then within that buying group, who are the different roles that make up the buyer?
+
+00:19:35:27 - 00:19:56:58
+不明
+Who's the decision maker? Who's the influencer. Right. And that's going to be important when you create an opportunity in sales. So that's complex. You also have complexity and content. So if you think about your audience how do you do hyper personalized engagement through journeys. Right. The right content for the right person in the right buying group role. So that's also increased in complexity.
+
+00:19:57:03 - 00:20:14:32
+不明
+I also hear from all of you that, when we talk to you that you have so much content, you don't necessarily know what the right content is, that you should put in front of your users. Right? And it's kind of arbitrary sometimes to pick the right thing at the right stage in the journey. And then the third complexity comes from channel.
+
+00:20:14:32 - 00:20:40:48
+不明
+So you know, used to be of basically email. And then we got into other types of messaging channels. And now we have paid media ads. Right. But I looked at a study and it's and I saw that there are customers who are telling us that certain B2B buyers could be engaging with your brand in through up to 12 digital channels.
+
+00:20:40:53 - 00:21:03:18
+不明
+So you could see how complex that becomes when you're trying to target and engage with a complex audience, with all this different kinds of content through all these different channels. How are you supposed to manage that as a marketer? Right. So these are some of the things we're trying to tackle and solve for, to help you out. First let's look at content.
+
+00:21:03:23 - 00:21:44:10
+不明
+Before we look at what's coming on the roadmap, I'd love to highlight what has been what had just come out. How many people have started using or looking at the new email designer and Marketo engaged? Fantastic. Do you like it? Okay. It looks better than the old email editor, right? And so not only is it modern, but we've also included in it the AI system for content generation, so that when you turn that on, you could use generative AI to generate the text for your, subject line or body, etc. and then soon we're going to have abilities to incorporate Firefly capabilities when you embed Adobe Express in the email designer.
+
+00:21:44:11 - 00:22:05:52
+不明
+So you could generate images too. And image editing using Quick Actions. And that's also on the roadmap today. And then finally, for those of you who have Adobe Express, you can actually get an embedded Adobe Express, interface with all the capabilities within this email designer. You don't have to go somewhere else, even if you don't have an Adobe Express license.
+
+00:22:06:03 - 00:22:25:55
+不明
+Image editing is possible inside the emerging designer. So I encourage you to explore all of those features. By the way, it's the same one that's also in Journey Optimizer B2B edition. So you have a common experience and you can choose where you want to do it. It's available to all customers today. And anybody here use Adobe Experience Manager assets as your digital asset management system.
+
+00:22:26:00 - 00:22:47:04
+不明
+So you'll be happy to know that we have a lively connector, so you can have your assets within the email, tied to the source of truth in your digital asset management system. So these are all exciting things, but, you know, you don't really want to bias product manager to blabber about these things, right? You want to hear straight talk from an actual customer.
+
+00:22:47:18 - 00:23:14:56
+不明
+So I'd like to welcome on stage our surprise guest speaker, Victoria jabar Bey. Please come up on stage. How about a warm marketing nation hand? Good to see you, Victoria. Likewise. Thank you for having me. Absolutely. So you've been looking at the new email designer, and I'd love to hear your first impressions, especially thinking about what is the first use case octa is going to start with.
+
+00:23:15:01 - 00:23:36:52
+不明
+Because, you know, as an octopus and actually you've been a veteran of Marketo for many years, right? You've been working in everything. So you've had what, like five instances along the way? Actually six instances. Wow. And your database sizes range from like 50,000 leads to how many million? 1616 million leads. Wow. So you've seen it all. So now you're seeing this email designer.
+
+00:23:36:52 - 00:24:04:06
+不明
+What's the use case that I'm just looking at right now? Yeah. For us I think the new email designer really came in at a really clutch time. And this is because Okta earlier this year, we announced a new go to market specialization for our two product brand platforms, which requires support for creative assets, landing pages, new email editor that you know would have taken a lot longer to spin up, but with a low code and ease of use of the new email designer.
+
+00:24:04:19 - 00:24:26:05
+不明
+I think we'll be able to bring to market a much, faster time to market for a new email template to support our product brand. So I am very thankful for that, for the time saving elements. Excellent. And you've tried out the AI system for content generation? I have, I've been playing around with it. Yes. Now when you look at that, most people, when they think about generative AI, they think about it as a time savings.
+
+00:24:26:07 - 00:24:45:29
+不明
+But I think you've been thinking along the lines of more than just time savings. Definitely. Well, I think time savings is kind of the given. And the expectations, right, as end users. But I think for us, the power of the AI in the email designer is going to be allowing the team at Okta to better adopt a testing culture.
+
+00:24:45:34 - 00:25:12:22
+不明
+And what I mean by that, I think, as you know, people in the Mops team, you guys could probably relate to this. You are busy executing, right? Like the requests never ends. And oftentimes, I think testing could feel like a luxury that you just don't have time for. But if you can give it a prompt and say, hey, I'm trying to do x, y, z with this email, this is my goal, and I can quickly get different calendar versions in the body, the button or whatnot.
+
+00:25:12:26 - 00:25:34:56
+不明
+It will allow us to do more testing and kind of like test out, dip our foot in that and get started quicker. Wow. Excellent. So the variance capability is great. And you can do variants from all different dimensions. That's great. So when you think about those kinds of impacts, how would you measure that in this world now and and justify the ROI or demonstrate the value to your stakeholders?
+
+00:25:35:02 - 00:25:55:47
+不明
+Absolutely. I think, you know, to go from executing to be able to proactively suggest, test, share the results, to see how we can optimize the channel. It will really shift the perception of a Mops team from, you know, someone who's just executing your work to be able to be that strategic advisor that we all know that we are right.
+
+00:25:55:53 - 00:26:20:06
+不明
+So going to your stakeholders and leadership and saying in this quarter, we did, you know, this amount of test. And as a result, this all of us are learning and we are able to optimize the email channel by X. That's that's invaluable. Fantastic. So not only does the new designer and the Jedi AI spark creativity, but it sparks new ideas about value and business process and workflows.
+
+00:26:20:11 - 00:26:43:01
+不明
+So we've talked about the email designer, you've had a peek into our roadmap. What are some of the other things that excite you about, Marketo roadmap? Yeah. Well, there are a lot of goodies in there, but I'm just gonna quickly touch on two things. The first thing to kind of complete the lifecycle of an email workflow is the ability to do asset request approval, right, with the Marketo.
+
+00:26:43:06 - 00:27:10:51
+不明
+So today I'd like to yes. Thank you. We send out our emails to a third party. Or maybe you're just sorting in your inbox, doing an old school to all your stakeholders to get comments and approval. Keeping that workflow within the platform just makes sense, right? So I'm excited about that. And to shift gears, the second thing I'm excited about is the CRM connector or should I say self-service CRM, self-service answering, self-service CRM, sync.
+
+00:27:11:02 - 00:27:32:11
+不明
+That's fast enough. I think the under the hood, and improvements are really crucial because at Okta we have north of 12 million records in our database. And when you get into that size, you know, the efficiency and the optimization is really critical to all the admins into the business for delivering delivering your leads to sales. That's great to hear.
+
+00:27:32:16 - 00:27:51:09
+不明
+And you'll hear more about some of these things at Marketo. Deep dive at 230 as 207 right here. Well, before you go, I have to ask you to put in a plug for your session because you're talking on Thursday. Yes, I am. If you're going to be around, I would love to see you this Thursday at 9 a.m..
+
+00:27:51:14 - 00:28:12:25
+不明
+I'm going to be focusing on how to increase the speed to lead of your organization, and to eliminate some of that operational chaos that's happening in Marketo using the three tier executable campaigns. We'll also talk about how to measure your speed to lead of of the overall lifecycle, and to prove value to your leadership with your operational work.
+
+00:28:12:30 - 00:28:39:30
+不明
+Excellent. Well, thank you very much, Victoria. It was really great for having me talk to us today. Thank you. Thank you everyone. Victoria Jabar Bey from Octa. Excellent. Good job. All right. Let's talk about journeys again because I love journeys. Before I talked about journey agent, let me talk about something else that we're slipping in under the radar, and then you'll all see it very soon.
+
+00:28:39:35 - 00:29:02:56
+不明
+Today in Marketo. Engage. How do you do customer journeys? You use a bunch of different marketing programs and smart campaigns for the orchestration engine. Right? And your audiences are divided into smart list. The challenge is as powerful and flexible as it is for certain use cases. You would like to be able to visually see the end to end engagement of what the lead will go through.
+
+00:29:02:57 - 00:29:22:01
+不明
+Right? Well, in Journey Optimizer B2B edition, we built journeys for accounts and buying groups. And anyone who's seen that, you know that there's a visual designer for a journey. You can build it on the canvas and then go into the details for every channel, every action, every event. Wouldn't it be great to have that for leads as well?
+
+00:29:22:06 - 00:29:43:28
+不明
+Well, you're going to get that really soon. So we're announcing person journeys for Marketo. So now you'll be able to. So how many have used the engagement map and have complained to me about the fact that you can't editing edit anything in there. Okay. We purposely didn't do editing an engagement map. And it's not just you make you upset.
+
+00:29:43:33 - 00:30:01:45
+不明
+It's because we were built. We're building this. So this is what you really need. You don't want just a smart campaign to be visualized. You want an end to end journey for the lead. And that's what person journey is. Now we're going to have two types of journeys. Now person journeys and Marketo Engage account and buying group journeys and Journey Optimizer B2B.
+
+00:30:01:54 - 00:30:28:46
+不明
+Complimentary. Right. ABM lead marketing. What is a journey agent? What they skill for B2B journey creation could help you speed up the creation of these journeys. Fragment by fragment. Right. Let me show you what that's going to look like. By the way, if you if you see any of our, ages ago B2B a journey optimized be to see our counterparts, what they're delivering, they're going to talk about journey agent two.
+
+00:30:28:51 - 00:30:49:06
+不明
+So get used to the Adobe vernacular. Now you're going to have these agents that perform certain types of roles, like a journey agent helps a map specialist, and they'll have different skills. You can have a B2C journey optimization skill B2B journey creation. So we're talking about B2B journey creation. Let me show you a demo. This is a person journey in Marketo engaged.
+
+00:30:49:20 - 00:31:25:20
+不明
+You could see how you can do various branches based on different lead attributes. You can take actions and whatnot. Now what I'm doing on the right side in the AI assistant is I'm typing in a natural language output, and I'm saying something like send an email to, you know, this part of my audience. And then I'm able to preview, I returns to me a fragment, and that preview shows you with the icons, all the different nodes that it's going to add to the journey action response, split paths to branch and and personalize, merge the paths, fill out form.
+
+00:31:25:20 - 00:31:43:42
+不明
+What happens there. You see these examples. This is all generated by AI based on what you requested. So this is going to be the first version that we're coming out with. And then if you accept it you can apply it. And it adds it to the actual canvas. That saves you a ton of time rather than manually adding the nodes.
+
+00:31:43:47 - 00:32:08:09
+不明
+Now that's just the first generation. We want this to evolve, to look at all your historical data and then recommend the next best journey fragment. Looking at price performance optimization. And then eventually we want the journey agent to help you optimize the journey in progress so that it can prioritize. Say you have an overlapping audience. Which one should they be directed to so they're not bombarded with emails from all directions?
+
+00:32:08:21 - 00:32:31:38
+不明
+This is where we're headed. Attorney agent. The next one I want to highlight is, image to HTML converter. Imagine if you have a picture in your mind of what you want the email to look like, and you draw a picture of that email layout, you upload it and it converts it to an actual structured email in the system, HTML markup and all.
+
+00:32:31:51 - 00:32:59:29
+不明
+That's what this is. And then in the email designer you can continue modifying what is the output manually through the regular email designer. So that's what HTML image takes HTML converter is. The next thing is we haven't named this yet, so you can variably call it website personalization website designer. Website personalization designer. What it is is it's different from Marketo web personalization.
+
+00:32:59:34 - 00:33:25:56
+不明
+Let's suppose you have an existing E-Com website for your corporation or for your business area. You take any web page, you bring it into our system, into this tool, and it will allow you to personalize in the tool that web page. So you can now use AI assistant for content generation to generate variations of the content on that website for buying group roles accounts.
+
+00:33:25:58 - 00:33:52:57
+不明
+All the data that you have in your system, and then it will store all of those variants for your content and for sensation in our database. So it's not for building a web page, but it is for personalizing an existing web page, which will be very powerful because you could rapidly convert your generic vanilla website into variations targeting specific people who visit the website.
+
+00:33:53:02 - 00:34:12:41
+不明
+And I am not going to go into this demo. But, let me just do a quick recap. So we were, so you saw that I talked about person journeys and a journey agent that will use the power of AI to help you create, and in the future, optimize your customer journeys, both account journeys and person journeys.
+
+00:34:12:46 - 00:34:41:32
+不明
+Email to image status, email converter. Picture something, convert it into code. And then finally, the new email designer is very exciting. But you're also going to have the ability to personalize your website, your web pages using this new tool. But not just that. There's more. Act now and you will get for free as a marketer. Customer capabilities, which are that is as exciting as this flashing flashy.
+
+00:34:41:32 - 00:35:07:44
+不明
+But, how many marketing operations specialists are here who actually work in Marketo? Engage day to day. So you will definitely not care about things like this, for example. And you will not post on LinkedIn about things like this, for example Picklist management. Wouldn't it be nice for your admin to be able to define, the field values that are valid for any given field and enforce that for data consistency and quality?
+
+00:35:07:49 - 00:35:35:45
+不明
+See, I knew you wouldn't care about that. You won't care about my tokens becoming shareable across your subscription either. Globally or across workspaces. Define it in one place. Share somewhere else. They hate this stuff. Okay. Smart campaign, trigger token. So take all that activity data you have in your activity log. How about using those attributes in smart campaigns for your actions?
+
+00:35:35:50 - 00:36:01:04
+不明
+So that's what trigger tokens are. So you can trigger based on activity data. And then finally and this is just some of many that Stephen and John will tell you about at 230. But enhance possible duplicate. So right now when you search for possible duplicate leads first name, last name, email. Boring. How about you're able to extend that ability to many more standard attributes and almost every custom attribute.
+
+00:36:01:08 - 00:36:25:17
+不明
+For example, an external lead ID, system ID, or an alternative email address. All of that lead data. Now use that to search for possible duplicates. So we're expanding the possible duplicate filter. So and then for those of you who obviously love, interactive webinars, which is a very popular feature, dynamic chat and also oh, content approval.
+
+00:36:25:17 - 00:36:53:57
+不明
+So the content approval. Victoria, I told you about that one. Right. Embedded collaboration and workflow. It's like a mini workflow inside of the email designer. In interactive webinars, we have stuff coming like Genii and On demand. Right. So that you can generate, summaries of your meetings. If you're a host having a help assistant to quickly tell you how to do stuff, interactive webinars using AI, dynamic chat, conversation, scoring by the agent, demand based integration.
+
+00:36:53:57 - 00:37:19:10
+不明
+So you could bring a wealth of profile information in from another database to help the agent know more about the person they're talking to in the chat. So this is all part of what's coming. That's not necessarily AI stuff. All right. That was, some good stuff. Thank you. But so first of all, you may have observed that we are you know, when we talk about experience platform, it's more than data, right?
+
+00:37:19:13 - 00:37:58:20
+不明
+So it's all the technology, whether it's related to AI agents or generative AI content creation, channel experience authoring, you can see how we are bringing all of those capabilities into Marketo, but also into the new, native apps like B2B. So, batch, I wanna hit up on something that you shared. So what I heard is, you know, with all the channels that we are adding and the new person journeys, customers can go from random acts of marketing to coordinated, experience optimization for the different roles and the buying groups with the right message across all the channels they care about.
+
+00:37:58:35 - 00:38:23:02
+不明
+Is that right? That is correct, because if you think about it, B2B buyers are like food critics and they're very particular about their dining experience. So we would love to provide them with that. But you know what? There's one problem, though. If I go into a restaurant, I'm always upset when the bill doesn't match what I ordered. So don't you think B2B buyers are gonna be struggling if marketing and sales are not aligned?
+
+00:38:23:03 - 00:38:45:41
+不明
+That's exactly right. What are we doing for the sales persona? Let's dive into that. See what I did there? So you know that sales teams are always drowning with leads, with not enough, clear way to sift through the flood. They do not have visibility into who are the right stakeholders they need to engage with. And marketing engagement doesn't always reach them.
+
+00:38:45:46 - 00:39:04:31
+不明
+You know, one customer told me that when sales receives a lead, all this, all the sales and media ask is the last campaign touchpoint, and that's not going to help them. And then marketing complains like, why sales not acting on the leads right. So the the effect of it is leads and deals and accounts stay in the pipeline.
+
+00:39:04:31 - 00:39:33:59
+不明
+The drop off, you know, they just drop off from the pipeline. So how do we address this. So three things. First is Brand concierge B2B edition. So we know that significant amount of research happens self-serve on B2B websites. What if you can deliver the same experience that you deliver to your best customer on your website? Medium Brand concierge B2B edition this is your conversational companion for the for your website.
+
+00:39:34:13 - 00:39:55:17
+不明
+It's like a virtual salesperson that understands what your customer is interested in, what problem they are trying to solve, but because it can engage with them in a natural language way, it underst. It connects to the account and buying group and all the person profile attributes that you have collected. It knows which account, which industry are they part of a buying group?
+
+00:39:55:17 - 00:40:18:25
+不明
+What products have they expressed interest in? Who are the other people in the buying group and what are they viewing? So it can process all that information and deliver the right content on the spot. And it's also goal driven. We know that designing, you know, conversational agents is not easy like you have. You know, traditionally you have to go define rules to engage and drive towards that meeting.
+
+00:40:18:30 - 00:40:43:59
+不明
+This brand conscious B2B addition is goal driven, so it can drive towards that meeting. Bookings that your speakers and sales teams care about. Next, we know that if the SDR and leaders that are monitoring your lead queue, if marketing engagement is not visible to them, you know the deals drop off the account qualification agent is your SDR bidders secret weapon.
+
+00:40:44:03 - 00:41:08:36
+不明
+So this is a conversational interface that allows them to ask the questions that matter about the account. They can ask who is engaged, what content they're engaging with, what channels they're engaging with, what should they talk about when they meet with the when they call the customer who should they call? So it surfaces all those insights that is embedded and locked away in the data.
+
+00:41:08:41 - 00:41:36:48
+不明
+It also tees up the next best content and even drafts that next killer email that they need to send to the prospect. And finally, what about the account teams that are in the field talking to your customers day in, day out? You know they are. They are not logging into CRM all the time. So we have a we are shipping a mobile app that services all those rich insights in real time to the account executives and the account teams that are in the field.
+
+00:41:36:59 - 00:42:05:35
+不明
+So they they can look up this information on the go. They can ask they can use the same concierge agent experience to ask those questions about the account. So let's see what we are shipping in action. So so we have sales alert, which is already in the product that allows you to send, emails summarizing all the account engagement to the sellers from a B2B canvas.
+
+00:42:05:39 - 00:42:26:49
+不明
+The same set of insights in a much deeper fashion is available within B2B, where you can look and go into an account. You can see all the engagement highlights. You can see who which buying groups are within the account, who is engaged, who is not engaged. The agent will also recommend missing persona, but because it analyzes all the engagement activity.
+
+00:42:26:54 - 00:42:52:57
+不明
+And then we are also bringing this to CRM because we we have heard over and over again from customers that we need this data in CRM so that salespeople can access it. So that was the sales experience within CRM. And we also are shipping this mobile app that provides access to the same insights on the go where they can pull up this mobile app if they have a meeting coming up with the customer and they can ask questions, why is this person not engaged?
+
+00:42:52:58 - 00:43:16:15
+不明
+What can I do? And if there is an upcoming meeting or an event or a bootcamp, it will recommend that it will also draft an email for for them to invite the, the prospect and send it out. So that's everything that we are shipping soon for sales and media teams to make that successful. So just to recap, we have Brand Concierge B2B edition.
+
+00:43:16:20 - 00:43:46:30
+不明
+That's your, conversational companion for B2B websites. It's going to revolutionize your B2B experience on the website, where it understands and personalize that the web experience and takes it to the next level. The account qualification agent is available in many form factors. It is available as an independent standalone app, of course, but it is also it will also be available within CRM where they can go in and ask the deep questions that matter to engage with, an engaged stakeholders.
+
+00:43:46:35 - 00:44:08:20
+不明
+And finally, for sales teams that are on the go in the field talking to customers, meeting with them, there is there will also be a mobile app that services all those rich insights on their mobile phone on the go. So that's, everything that we are doing for sales. But do you want to recap? Sure. I'll, So now I'm going to go through each of these things in detail.
+
+00:44:08:23 - 00:44:32:23
+不明
+No, I'm just kidding. So you're going to see a lot more throughout this summit, things we're going to announce. Many things happening in, in B2B. And we're really excited. We hope you are to to see all of these things. Yes. Take a picture. But if you want to learn more. Yeah. Okay. As I keep touting 230 and 4:00, this is happening at 230.
+
+00:44:32:25 - 00:44:55:59
+不明
+Learn more about the Marketo roadmap. You know, ask questions about each of those things like Picklist management and self-service CRM. Think dashboards. And then at 4:00, Mitch Olympic are going to tell you about what's happening with Journey Optimizer B2B edition, future of ABM, buying groups, all the buying group, intelligence and agents that you I heard Niranjan tell you about and that's coming on later afternoon.
+
+00:44:56:03 - 00:45:06:35
+不明
+Thank you everyone for. Thank you everyone stuck around for the questions. Okay. Really appreciate it. And, please do go to all the other sessions. Yes. Please enjoy the rest of the summit. Thank you.
+

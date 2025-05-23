@@ -1,0 +1,384 @@
+00:00:00:01 - 00:00:22:53
+不明
+So it's an honor and privilege to be here. I'm going to kick us off. I, first, I'm presenting that Katie and I are tag teaming. We have a unique relationship. A little bit about me. I am new to Marriott. I celebrated my one year anniversary yesterday. Thank you, thank you. But not new to Marriott's marketing orchestration, but working operations.
+
+00:00:22:53 - 00:00:50:07
+不明
+I've been involved for ten plus years. Various capacities. Way back when, we stood up Adobe campaign. Remember what version it was in 2015 or 2016? So I'm your marketing ops or marketing stack guy. And I just recently inherited the work front practice and work front SEO. So super excited. This stuff is neat to me. I've been involved from the beginning in the metadata standpoint, in the back end of the database.
+
+00:00:50:07 - 00:01:14:24
+不明
+Now I'm learning the front end and the power that can can be accomplished with work front. Now. So I think we touched on this. Let me talk about our ways of working with my fabulous and lovely partner, partner in crime, Katie Calvert. So Katie's superpower. Anybody knows her is she is an innovator. She. What's a new term we we learned today CIA from the co guy.
+
+00:01:14:29 - 00:01:48:32
+不明
+Chief innovation agitator. Katie is an agitator in its highest form. In its highest form. Katie and I've worked together for ten plus years. But one of the things that Katie does is she pushes. She always wants to be testing what you're about. Always be testing. So I simply try to keep up in most cases. But what I have to do is make sure I tag along behind and make sure that we can apply a scalable ops model to what do I usually call it, your wild ass ideas.
+
+00:01:48:46 - 00:02:13:28
+不明
+Yes, we're going to keep this PG 13. We've got two swearwords. Okay. It's only two and only two. We figured it was 430, so it was okay to have swear words. And our priest and Katie is going to give her bona fides in a second. But we do a couple housekeeping things. So? So the people in the audience that know me raise your hand, people in the audience that are surprised that I own a sports jacket, raise your hand.
+
+00:02:13:33 - 00:02:39:00
+不明
+Awesome. Everybody raised. Everybody raise their hand. So we want to keep this interactive. I know it's late at 4:00 Wednesday night. So any time that I say the word work front, I'm going to say work. You're going to say front. So let's practice. I say work. You say rest. Awesome. That was good. That was awesome. He may sprinkle it in, but it's more in my presentations.
+
+00:02:39:05 - 00:02:59:40
+不明
+And what are the thing in the essence of time, we've got some of the typical questions that we ask ourselves as we cycle through some of the core components. They're probably going to be rhetorical at first, but no fear. If you want answers, see me after class. We'll answer them. But we're going to make sure we stay under the 60 minutes because we both struggle with brevity.
+
+00:02:59:45 - 00:03:26:01
+不明
+Most of you can attest to that, and I accidentally forgot to start the timer, so, you know it was my job. Oh, but you didn't do it. We're we're doing great. Yeah. Hi, everyone. I'm Katie Calver. I've been with Marriott for about 12 years now, and I've been focused in roles, around integrated strategy and activation, for pretty much the whole time across all of our channels.
+
+00:03:26:05 - 00:03:51:59
+不明
+As Frank said, I'm a pioneer. Or at least that's what Deloitte tells me. And I like to challenge our status quo by asking questions like why and what if? And can we can we do that tomorrow? Frank Ocean is one of my favorites. And our mission really is to create impactful capabilities for our marketers while also creating game changing experiences for our members and guests.
+
+00:03:52:04 - 00:04:26:13
+不明
+When we think about what is needed to deliver those experiences, we have to recognize that Marriott has evolved significantly over the past century. What started as a hotel company, or if you're really going it has to be a root beer stand, has grown into a global organization with a vision to connect people through the power of travel. Today, we proudly represent 30 brands, driving revenue for 17 diverse products, including those 10,000 hotels, credit cards, homes and villas, tours and activities and experiences across 70 markets worldwide.
+
+00:04:26:18 - 00:05:03:30
+不明
+As our footprint has expanded, so has our need to market it effectively. Our team is dedicated to innovating personalized and orchestrated experiences across six channels. That's a little conservative. It's really owned channels for us, but you take paid into account. It's much larger, in 24 languages, and we're constantly being asked to grow and do more. We support over 3000 stakeholders from properties all the way up to our HQ teams, and we help them drive more than 350, which I also think is conservative.
+
+00:05:03:30 - 00:05:26:06
+不明
+It depends on how you define a campaign, which we'll get into with campaign metadata. Each year it's a dynamic and exciting challenge for us, and we're committed to making every connection count to make sure I can use all my tools. So we're going to get into, marketing orchestration. So let me read you the Apple II definition of marketing or orchestration and how it translates to what we do.
+
+00:05:26:11 - 00:05:50:10
+不明
+So if you're not an Apple person, sorry. Marketing. Orchestration is one strategic approach to coordinating activities across multiple channels, all while ensuring personalized customer experiences while improving its efficiencies. But to us, marketing or orchestration is much more. There's moving content in the market, right? It's the lens by which we gauge how effective we are in our workflow. Automations.
+
+00:05:50:14 - 00:06:20:26
+不明
+Our goal is to enhance the customer and the associate experience. We want our marketers to have it, have it easy. As anyone else. And you're going to hear me reinforce this using metadata to be efficient, efficient, and cost effective. Metadata is the key. I love metadata, I love it. How do we do this? Through seamless data integration, through technical optimization, team synchronization, and refined marketing activity optimizations.
+
+00:06:20:31 - 00:06:53:33
+不明
+First, okay, that's a lot of you guys are a rough crowd at 4:00. You got a couple of us. Yeah. So tying this part off, you must have alignment with key stakeholders, because you can imagine through Marriott, we have a lot of fingers in the proverbial, marketing pie. Right? So you got to get alignment there. By bringing these elements together, we create a more connected, impactful, and efficient marketing system that drives better outcomes for both our customers and our business.
+
+00:06:53:38 - 00:07:12:03
+不明
+So one of the key questions we had our ask ourselves as we were going down this journey or jumping on this train, is are we going to be centralized or decentralized? You can read from this slide centralized, decentralized or hybrid? We are a combination. We are both. The reality is Marriott operates at a hybrid approach level.
+
+00:07:12:08 - 00:07:44:06
+不明
+We are not fully centralized. No, we're not fully decentralized. This isn't by accident. It's by design for a global organization, by like Marriott. Hybrid approach isn't the only is is not an option. It's the only option. We we govern from the center and we make sure that we are pushing out that are we let our local regions have flexibility while we govern from the center and, and maintain inputs and outputs.
+
+00:07:44:11 - 00:07:57:03
+不明
+This is an ongoing process and evolution to roll out new features. And then we make the decision. Do we keep it in the center or do we push it out to give flexibility to our.
+
+00:07:57:08 - 00:08:31:06
+不明
+So we had to take a hard look at how we went to market, especially as we aim to support this hybrid interaction model. Frank. Just head on between our HQ centers and our regional teams. And let's be honest, marketing at any big matrixed organization is already challenging enough. But when you add in the need to market our efforts and make them less like one size fits all billboard batch and blast campaigns and more like personal conversations where we're considering regional nuance and audience segmentation and content and message variations.
+
+00:08:31:20 - 00:09:03:14
+不明
+It gets even trickier. So about 18 months ago, we embarked on an exciting journey with our partners at Block and Tackle to evaluate our marketing practices, or candidly, lack thereof, and identify opportunities across people, process and technology to make our marketers paths to activation less full of friction. We started with the end in mind, defining what success look like from the outset, which is something I don't know if you experience us, but I hadn't seen a lot of and projects I've worked on in the past.
+
+00:09:03:19 - 00:09:29:15
+不明
+By setting those clear success metrics, we could measure our impact along the way, and the journey has provided us with a lot of key learnings that are helping us transform our marketing operations for the better. Our first big learning after our discovery was that Marriott had actually never documented our end to end. We're sharing a lot of Steve's secrets here, go to market process across channels.
+
+00:09:29:20 - 00:09:59:00
+不明
+So when we looked at that process and you can see it real tiny in the bottom right there, when you blow that up, it is complicated and overengineered. And we realized that it was very complex, but also we had never really scrutinized it before. Rather, over time, years, in our case, we just added to it as new people or new technologies came on board instead of continuously evaluating it for improvements.
+
+00:09:59:05 - 00:10:32:35
+不明
+As we dug in, we found that we actually had we think Hillary had on it this morning about 45 mini processes, and they were all semi related kind of not. They all felt like their own little special snowflakes and most operated on their own islands. And we saw that sometimes they conflicted. Sometimes the activities were ignored altogether. Some had arbitrary dependencies that prevented them from even starting, and only pieces of it were actually documented.
+
+00:10:32:39 - 00:11:05:27
+不明
+And there was a false assumption that the process runs linearly. As we talked with our stakeholders and thought about what our process should look like. We found that it flows much more like on the right. It's living and dynamic, functioning more like interconnected components that relate to each other but are not necessarily dependent upon each other. We then drilled in to each component to understand the activities and the key inputs and outputs that are needed at each section, and we spent time understanding the handoffs, which are really important.
+
+00:11:05:32 - 00:11:18:52
+不明
+This exercise resulted in the definition of our North Star optimized process that we have calculated will result in about a 75% improvement in our speed to market.
+
+00:11:18:57 - 00:11:43:28
+不明
+As we considered the value our work would bring to the organization and where to focus our efforts to drive the most impact for Marriott and our marketers. We anchored our work in two key measurable categories. After all, enhancements are don't improve our process, aren't really enhancements at all, so was important to us to measure them. The first category emphasizes the importance of data as our foundation.
+
+00:11:43:33 - 00:12:09:47
+不明
+In case you didn't get it from Hilary earlier, we are data geeks. We love it, which means we like the details that data give us. But to get those details, we need to ensure its quality, its accuracy, its completeness, as well as establish a single source of truth and meaning. All of this helps us achieve our goal of data, data driven decision making and optimization for our marketing efforts.
+
+00:12:09:51 - 00:12:40:21
+不明
+The second category spotlights our need for efficiency in how we go to market. I'm not sure how it works in your organization, but if you're like us getting something into market can be unnecessarily hard. We are really good at overcomplicating things, and I think we heard that as a theme also in our keynotes this morning. We have too many manual steps, too many documents, too many handoffs which introduce friction risk for error, and ultimately a lot of extended timelines into the process.
+
+00:12:40:26 - 00:13:04:00
+不明
+To accelerate our speed to market, we needed to address those activities and make significant changes. But first, we had to figure out where to start. I mean, where do you start when everything needs to be addressed? Everything is a hot spot across the process and no one is really happy. We settled on three areas that emphasized foundational improvements.
+
+00:13:04:13 - 00:13:34:15
+不明
+We we looked at that not the most glamorous things, but definitely the most important things. The first area of focus is on the standardization of our campaign details, followed by the automation of manual process via a workflow management solution. Work prior. You're still with me? Night. Stay awake. That's. I think that's my only one. And finally, the importance of centralizing where we collect campaign information, ensuring our teams have what they need to start their work.
+
+00:13:34:20 - 00:13:59:01
+不明
+And we'll cover these three in more detail in the upcoming slides over the next few minutes. We'll talk through these areas, and we thought it would be a good idea with our Dynamic Duo partnership over here to tag team between the business problem we're trying to solve for those marketers who, like me, may know enough to be tech dangerous, and the way our operations and tech teams choose to solution against it.
+
+00:13:59:09 - 00:14:44:43
+不明
+For those marketers like this guy who love to get in there and understand the how and the mechanics behind it for this first business problem, our marketers, myself included, really struggle to get a comprehensive view of how our campaigns are performing at the level of granularity where we can derive insights for future activations. We as marketers are really sick of finding out too late that we can't understand performance because we didn't set up the campaign for that level of visibility, and our analytics teams are tired of having to find ways to stitch all that data together to get us a view of performance, because there's no standardization and consistency, our marketers are asking for granular
+
+00:14:44:43 - 00:15:05:20
+不明
+levels of data to help us create more sophisticated marketing efforts, and we needed a solution that can address that need. So we went to Frank for that problem and asked him to end all of our meetings to smarter people. But yeah, so we're back to the theme where I thought I told you that campaign metadata is key. Metadata is the foundation for stop.
+
+00:15:05:25 - 00:15:32:25
+不明
+Metadata becomes a signals in which we act. Our workflow, processes. And in the old world we had different metadata definitions and relied on human intervention for metadata definitions. And a lot of times those naming conventions resulted in varying ways to about messaging, measurement and talking about the same thing. And this would, as Katie mentioned, would drive our analytics teams nuts, no consistency all over our website.
+
+00:15:32:25 - 00:15:58:09
+不明
+So we address that. So now getting into the why the why in the how the what is a cross-channel campaign element hierarchy. We call it CCH. Sometimes that confuses it's travel very well. Essentially it's a taxonomy tactic or a taxonomy path or a drill path inside a campaign. The why this enables global consistency and global metadata. And the how is by we worked across teams.
+
+00:15:58:10 - 00:16:27:06
+不明
+We created standard metadata definitions. So getting into now here's some of the rhetorical questions. Campaign metadata is usually organized in what is what is is taught is called taxonomy. Hillary actually said taxonomy is sexy this morning in the keynote I can I completely agree. So let me see a show of hands if you know, if you have taxonomy in your current workflows, do you like it?
+
+00:16:27:06 - 00:16:50:06
+不明
+Do you not like is it consistent? Is it hierarchical? Is it what we call network where it's multi-dimensional combination of both. So we obviously recommend multi-dimensional. It gives you more layers to drill into. But what I'm gonna do is I'm going to I'm going to address the first question. So how do you know if you have campaign metadata?
+
+00:16:50:10 - 00:17:17:06
+不明
+You can determine that if you have campaign metadata by checking for this structured data associated with your marketing campaigns, here are a few ways how you can do that. You can check your marketing platforms. Check your marketing or an analytics tools for campaign attributions and performance metrics. Review your data feeds. If you have campaign data stored in a database data warehouse or dare I say, spreadsheets, you can check their, review your data feeds.
+
+00:17:17:10 - 00:17:44:18
+不明
+Sorry. Scroll up. Go. My partners let me down. Sorry. Examine your tag tagging strategy. If you use UTM parameters or tagging, those often contain metadata definitions or aspects of the campaign, so you can use that as well. And then finally looking at your report dashboards, if you have dashboards aggregating campaigns, performance metadata is usually used there to filter segment provide insights into your campaigns.
+
+00:17:44:23 - 00:18:04:09
+不明
+If you're missing metadata, see me after class. We'll talk through that. I'm really surprised if you guys don't have metadata in your at least in your business or your work. For us, it's more about drilling into it, making sure it's and having system consistent standard definitions that can be used across multiple channels. Because anytime you you enter the human touch it gets becomes a wild, wild west.
+
+00:18:04:09 - 00:18:27:04
+不明
+And then really and you have the analytics folks do not like that at all. So we just hit on all the data that we need and we want to standardize it, make it consistent, make it available, but it has to move through our systems. Right. And and I always say it should move. There are systems automagically. And then there's somebody behind that who says it doesn't happen automatically.
+
+00:18:27:04 - 00:19:01:12
+不明
+And I say, well let's try we're getting it. But we are really manual and we're not set up to support that to get marketing out the door. We have a million stats, often managed through touches like email or calls or SharePoint or word documents, and this approach made it really hard to see how marketing was activated. It wasn't standardized, and it was managed everywhere and nowhere, exacerbating our inefficiencies and creating duplicative information across our ecosystem, sometimes significantly extending our time to market.
+
+00:19:01:16 - 00:19:21:54
+不明
+And on top it up, to top it off, we often have to work with ten plus teams repeating our same requests based on their planning cycles, which don't always add up. When we finally documented those steps, we saw that we had many of these processes and they were actually very similar, not the special snowflakes that they claim to be.
+
+00:19:21:58 - 00:19:45:19
+不明
+So when we outlined that Northstar optimized process I mentioned earlier, which aimed to streamline and simplify our activities, identify and remove those manual steps, and create a centralized place to hold all of this information rather than storing it in Excel. No offense to Excel, it just has a different purpose. And and also in email, back and forth also has a different purpose.
+
+00:19:45:31 - 00:20:07:06
+不明
+Marketers don't want to spend the bulk of our time as project managers. We want to be strategist. We want to be ideating and creating innovative campaigns. So once again, I turn to my partner in crime, Frank, and said, how can we solve this problem and agitator as well? So you definitely need a centralized tool to optimize and enforce your process.
+
+00:20:07:11 - 00:20:34:31
+不明
+But if you but if you if you're gonna take anything away from this presentation, if you have a bad process, it will it will be reinforced inside your workflow. Automation of anything sticks from this. Please lead with process first you must lead with process. And because again, if you have a bad process, work right. We'll police that for you free of charge.
+
+00:20:34:36 - 00:21:04:25
+不明
+So so the what is a centralized tool that accommodates workflows or process steps providing visibility to status pipeline and any related issues? The why? It streamlines processes, supports forecasting and with likes. And we oh sorry monitoring resourcing needs the how is we started with activation workflows. We pilot with less complex processes. And again always remember process first.
+
+00:21:04:29 - 00:21:27:21
+不明
+It's take anything away process first. Yep. Wow. So this is one of my favorite slides. And again new to the transformation game. But this walks with me everywhere. What we we actually needed a roadmap or an artifact. We could socialize to everyone to see our plan and how they can progress. And workflow automation. We developed this as our guide.
+
+00:21:27:26 - 00:21:55:04
+不明
+We also refer to this as a workflow maturity scale or curve. This artifact guides the process and it guides our partners. This visual follows a structure progression, starting with independent work that requires minimal governance, collaboration, automation, and then it progresses through various stages to complete automation. We're going to briefly drill into each one of these things. Again, this is my favorite artifact that we built, and we take this everywhere with us.
+
+00:21:55:09 - 00:22:25:15
+不明
+So the first is to do list or manage independent task. At this stage it gets our users in the tool. And what I like to say in a southern accent, tooling around to a little rambling around and provides some light but effective stock features. Go ahead. The next is project templating or collaborator and repeatable work. At this stage, it's our users first intro or taste of templates and the possibilities of collaboration.
+
+00:22:25:20 - 00:22:58:40
+不明
+Here's where we get them hooked. Typically got question question metadata. The next stage is metadata augmentation or forms that initiate and facilitate. At this stage, it furthers our users journeys into collaboration and introduction, introduces them into usage and the power. Again, here we go again. Metadata capture. Metadata is everything. Next. Workflow automation logic replaces manual step manual steps at this stage.
+
+00:22:58:45 - 00:23:23:31
+不明
+This is where our end users maximize the power of collaboration, metadata and automations. This is where the AI overlords will replace us as markers. Just kidding. Just kidding. Not my joke when I'm using. It's a great one. This is, this is basically where the process takes all the manual shit off our plates. That's number two. We're still PG 13.
+
+00:23:23:35 - 00:23:48:43
+不明
+This is the highest level of maturity from our perspective. So in closing this out, we I often use this for our partners. Are you are here as you progress through your maturity inside workflow automation or work. Come on. So get work right. Good job. Okay. So we use it. You are here. We keep we keep them grounded and keep them prepping for the next stage.
+
+00:23:48:47 - 00:24:14:56
+不明
+Some teams are still very content. Happy being in the to do list and having the freedom to do whatever they want. But again, we centralize them with the inputs and outputs at the core. I will tell you, there is sorry, there is value in every step. So yeah love again, it's my favorite slide. So workflow automation in work.
+
+00:24:15:01 - 00:24:39:43
+不明
+Yes. You guys are getting better. Does this make sense. There's a resonating to you at least our artifact and how we're walking our partners through a slow progression on kind of unfettered do your to do list your checklist little regulation little governance, little collaboration to all the way up until full automation or nirvana or but if you have any questions about that, see me after class.
+
+00:24:39:47 - 00:25:02:58
+不明
+We really want to focus on the automation. Automation is key to me. The definition of automation is where collaboration and data capture and data flow are invisible to our end users. We want that. How many of you people use automations today? Have concept of automations like some of it. Like at least like it's like some of em don't like it.
+
+00:25:03:02 - 00:25:21:26
+不明
+If we we really are stressing that as part of a value prop for work front end workflow automation. Okay, how are we doing on time? Okay, we are killing it.
+
+00:25:21:31 - 00:25:52:33
+不明
+Hilarious. In addition to our process that's housed everywhere, our marketers also manage the actual marketing development across various platforms, operations teams, and across different time horizons email and PowerPoint word documents, Excel meetings, and even in our heads that also sound familiar to anybody in the room. We gather our information over time as we build our marketing plan, and we flesh out what is needed for actual activation.
+
+00:25:52:38 - 00:26:29:43
+不明
+But because we're working with so many teams who request information differently, this approach often led to redundant inputs, which would then often be interpreted different differently by our recipient teams. They manage the request with their own manual, often inconsistently applied activities coming back to us when we would leave fields blank because of where we were in the planning cycle, and somehow, once they finally had what they needed and we stopped making changes because we are guilty of making late stage changes as marketers, we get marketing out the door.
+
+00:26:29:48 - 00:26:55:09
+不明
+And I think Hillary had on the days with about 110 on average, when we set out and evaluated at. So what we really needed was a place to hold all of the components of our activation from ideation through measurement, across all of those teams involved. So from my perspective, brief is a fast follower, number two, to how important metadata is centralized, right.
+
+00:26:55:09 - 00:27:27:31
+不明
+It contains the metadata needed to describe what is my experience. And it connects it with the automations to drive the activation to effective for effective again, metadata capture and analysis determine not only how has my campaign or experience perform, but how have different components performed. That's when you get into the network metadata, because something that is we've shifted from a mindset at Marriott is especially in the email channel, we were only focused on clicks and email activity data at that high level.
+
+00:27:27:31 - 00:27:46:42
+不明
+Now we're moving toward we can actually see the efficacy of a content block, which is super cool. You know how see how cost effective that is. We can use that content is successful. We can use it all over the place. So that's what that's what the metadata does. That's what the CEO does. That's what's really key to us moving this forward.
+
+00:27:46:47 - 00:28:09:48
+不明
+Getting into the what's why and how. Katy mentioned we came up with a standard campaign brief beginning at the activation process with high level inputs just to get the ball rolling. The brief is a living, breathing mechanism, if you will, that gathers inputs throughout the process, and it always allows for changes. The why is because activations. And I was feeling this multiple sorry I was filling in some host.
+
+00:28:09:53 - 00:28:29:39
+不明
+We're beginning with incomplete information and anybody that has any experience with activating on any channel. If you have incomplete requirements or set up, it drives you crazy and it was leading to less than ideal process you can imagine. We know marketers, no offense Katy, don't have all the data at the beginning and we gather inputs along the way.
+
+00:28:29:39 - 00:28:57:06
+不明
+So we made it easier for Katy to be continue to change your mind as we go through. Yeah. I'm fickle. Yeah. Go. So how is we? We created what we're calling the progressive brief in work. Right? We work. We do about ten more times. People are so fast. Yeah. You don't. You're doing great. Well. Yeah. So here's some more questions.
+
+00:28:57:06 - 00:29:19:05
+不明
+Let me see a show of hands. How many of you have briefs as part of your work front? Do you have a bunch of briefs? Do you have a consolidated some of the things we were asking do should we centralize again? See me after class. We'll go through some of these specific questions, but we all we always recommend consider having a unified brief.
+
+00:29:19:05 - 00:29:29:02
+不明
+And a lot of times it's easier said than done. Right? You're gonna have to get input from everyone where you can consolidate it and make it consistent.
+
+00:29:29:06 - 00:29:50:12
+不明
+So some of the questions, I think we've got enough time. We'll dig in. Do you use the same brief for multiple, multiple campaigns or should you? Many teams often reuse the same brief for multiple campaigns, either after starting point or after standardization template. But should we? On one hand, using consistent brief ensures alignment and prevents duplicate offers.
+
+00:29:50:17 - 00:30:17:50
+不明
+On the other hand, each campaign has unique objectives, audiences, and strategies. So while reusing the brief might seem efficient, it can also lead to gaps in customization. Is it a document captured as metadata? We hope so. Additionally, campaign briefs have been standard documents, often in word PDFs or even an email change. That's the worst. However, modern workflows demand more dynamic structures.
+
+00:30:17:55 - 00:30:39:01
+不明
+Capturing brief details and metadata within a shared tool allows for greater scalability, searchability, and integration with campaign execution platforms. With metadata, we can track versions, automate approvals, and maintain a single source of truth for campaign details from.
+
+00:30:39:06 - 00:31:13:36
+不明
+Where is the brief developed? Understanding where your brief is develop is critical to ensuring efficiency and collaboration. After we. After drafting briefs and isolated documents or in shared platforms, where should you document them? Is there a centralized hub for input from all stakeholders? This is key. Marketing, creative, media and analytics teams a shared tool provides real time collaboration, streamline approvals and a clear version control to avoid confusion and delays and rework a conclusion.
+
+00:31:13:41 - 00:31:39:48
+不明
+A shared mechanism for campaign activation workflow can transform how we manage briefs, from static documents to dynamic integrated workflows. By addressing these key questions, we can ensure that our campaigns are not only consistent, but also agile, adaptable, and data driven. And we want our marketers to come back to that brief. So often when it was in a word document, they would just pass it over the fence, right?
+
+00:31:39:53 - 00:31:55:47
+不明
+And then you would never come back to it. And as soon as it was, as soon as you did that, it was obsolete, right? Because you started thinking about more things. So work fronts enabled us to have that dynamic thing that we go back to. We evolve. We build upon and we learn from, and then it's stored for the future.
+
+00:31:55:47 - 00:32:17:23
+不明
+So if we want to repeat that campaign or we want to take learnings that we have from it, we have a central starting, starting place to do so. We'll get back to my personal frustration from an activation standpoint is getting incomplete requirements dynamic brief does is it it's just the core questions right from an activation standpoint, from a content standpoint, from a measurement standpoint, you're not getting that being email being incomplete.
+
+00:32:17:23 - 00:32:34:34
+不明
+Again, I love our marketers a death, but some are better than others. And some of some of our marketers will pretend they're not very tech savvy or don't know the data, but they really are. And they'll they'll spoon feed the information. But this actually crafts it in a consistent manner that we can use and teach people. So again, I think metadata is number one.
+
+00:32:34:34 - 00:32:42:17
+不明
+But the you know, the consolidated brief has been huge.
+
+00:32:42:22 - 00:33:05:23
+不明
+So we've come a long way from when we pitched this idea, I don't know what, 20 to 18 months ago that we could change the way Marriott goes to market, even with our existing people and technologies, while we looked at new technology on the horizon, and while some days I will admit it does feel very daunting. We are optimists, right?
+
+00:33:05:28 - 00:33:39:17
+不明
+Yes. Okay. Just double checking. I'm always to ask for the front row here. When asked if we could use our tools, better challenge our processes and improve our marketers lives so they can focus on really cool and innovative activations to sell Marriott and to delight our guests, we took the leap. As Frank noted, we were all in when now, 18 months later, we continuously realize meaningful change and are addressing the real problems that our marketers have faced for years.
+
+00:33:39:22 - 00:34:03:51
+不明
+I should know as a former campaign manager, that's how I cut my teeth at Marriott. I know where all the skeletons are buried, which is why I guess I'm a little tech dangerous. But we're now supporting those marketers, myself included, at the level of sophistication I'm looking to do. And that answer the hypotheses I'm looking to test. And here's how everyone talks about having so much data.
+
+00:34:03:56 - 00:34:36:08
+不明
+We've been capturing it for years, but it's really hard to actually use it when it's not organized. Or in some cases, you literally can't find it. We've made everything we touch data. I said, we're data geeks, right? So seriously, are mantra is everything is data, and we've structured it to support not only our campaign level performance analysis, but our operational measurement for our products and platforms so we can improve them, as well as to drive and control our process in work front.
+
+00:34:36:13 - 00:34:58:14
+不明
+Second, we've up to ended the way we work with, literally lifted the table and threw it over, not lifted and shifted. Oh no. No lifting and shifting. Just like through brand new ways of working. It's very good. And we've done that by manual lever moving processes and understanding what marketers actually need. We're giving teams whole new ways of working and thinking.
+
+00:34:58:21 - 00:35:21:57
+不明
+Hillary had a one example with pilots. Gail back. Some people don't like to be in pilot. It makes them really uncomfortable because you're taking the shackles off. But some people really love it and some would prefer to be in and like their steps in their tasks. And all of that's great. But we introduced that to help teams understand it, and we're delivering value and encouraging constant collaboration.
+
+00:35:22:01 - 00:35:52:19
+不明
+And we've taken it beyond HQ into our regional teams. Global collaboration isn't always easy or even clearly defined. It's not just working together or translating campaigns or meeting and talking about roadmaps from HQ or roadmaps from the continent. It's about co-creating strategies and capabilities that flex to meet global and regional needs and goals. We're not just building something and handing it off.
+
+00:35:52:28 - 00:36:26:05
+不明
+Instead, we're working together to figure out what we need, how our tools can support it, and where we still need meaningful ideation to define new, local, localized strategies that collaboration and the conversations are different now. The result makes Marriott a true global marketing powerhouse. Yes. Now I think we've established an add on that. It's not easy. We literally lead slides with our problem statements, not when you have over 43 processes and 310 steps for just two channels.
+
+00:36:26:10 - 00:36:52:07
+不明
+And we've definitely sat in virtual team rooms with 300 plus grumpy marketers asking, when are we going to be finished? They don't like their current process, but they also absolutely refuse to let go of the security blanket it creates. So I want to share just a few reflections of what we've learned so that if you take on this journey, you won't have the same blind spots that our entire team has had.
+
+00:36:52:12 - 00:37:19:39
+不明
+Our work is transformative, but it doesn't have to carry the weight that is often tied to mass change. Big multi-year timelines, waterfall project plans, massive budgets and resources. You can find a path to big change that is manageable, measurable, and meaningful, right? Secondly, we found that sometimes we're adding more steps into the process. But more here isn't a bad word.
+
+00:37:19:39 - 00:37:45:57
+不明
+It's not our third curse word. We found simplicity, yet we found simplicity in those steps because we're layering in automation and flexibility. And while it's built for what exists today, everything we've built is modularized to power a programmatic future that can support those 1 to 1 conversations we all really want to have with our customers, but probably aren't quite there yet.
+
+00:37:46:01 - 00:38:06:07
+不明
+Lastly, and I will emphasize this, and I will talk to anybody who wants to talk about it. Change management is critical. That is one of the biggest lessons I learned, and it should be at the forefront of everything you do versus as an afterthought, oh. We got to send outcomes to let people know that this change is coming.
+
+00:38:06:07 - 00:38:27:46
+不明
+It should be the first thing you talk about. If you lead with vulnerability and empathy with your teams, and you guide them through the pit of change, despair, as we call it in some of our meetings, and you help them see that what they'll have on the other side, you'd be surprised at who becomes your biggest adopter and advocate in the organization.
+
+00:38:27:51 - 00:38:52:09
+不明
+And then just a couple final thoughts will leave you with most organizations and processes are more complex when you write them down and you open them up and you scrutinize or challenge the way you think, you should always plan for the unknowns and the unexpected. You'll find some skeletons and some spiders. It's to be expected, but you can work through them.
+
+00:38:52:14 - 00:39:06:49
+不明
+All right, what's ahead? What's ahead? And in closing, so the journey is not over for us by any means. We still have a lot to do, and we have not done this alone. So I want to do a little exercise. In closing. If you have jumped on this train with us and you're in the audience, please stand up.
+
+00:39:06:49 - 00:39:31:05
+不明
+You know who you are. Stand up, stand up and I can stand up. Give yourself a hand. So it's not just us. It's not just us, but a lot of help. A lot of valued partners, a lot of valued internal executives, sponsors that are great. But a final reminder. We have a lot of a lot more work to do, a lot more refinement.
+
+00:39:31:05 - 00:39:50:55
+不明
+We want to come back here next year with a bigger and better story. Just looking at what we have, at least on our roadmap, enabling global visibility. We want to automate more workflows and we want to integrate workflows. And one of the things you're going to see as a theme here is we want to empower our regions, right.
+
+00:39:51:00 - 00:40:14:17
+不明
+Traditionally, we have started everything in HQ and start in state at HQ. One of our global missions from our leaders leaders is we need to have centralized, controlled flexibility out to our regions. Hybrid power them that hybrid model rather than waiting on. So just to acclimate everyone, we say HQ, it's the people in this room out of Bethesda, Maryland.
+
+00:40:14:17 - 00:40:35:25
+不明
+We want to enable our regions to put their own flavor on their marketing, their own content. So that's going to be one of our big focuses. And that's why we're talking about that hybrid model and work from is going to be at the center of that, going to be at the center of that. So we did great. We talked awful fast.
+
+00:40:35:30 - 00:40:45:47
+不明
+So thank you. So if you have any questions we're happy to answer them. We're to Frank's point. You can see us after class after.
+

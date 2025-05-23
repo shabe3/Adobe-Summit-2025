@@ -1,0 +1,504 @@
+00:00:00:01 - 00:00:22:34
+不明
+Everybody I'm guiding. I'll be conducting the first part of the session and then making Powershare with a much cooler name. We'll be doing the second part. Quick shorthand. How many of you guys are admins or have admin like functions? Ooh, I got the right audience. Cool. Just remember that all slides are available on demand after summit.
+
+00:00:22:35 - 00:00:44:10
+不明
+I do have some reference slides in here that we won't go over in detail, so no need to take pictures. Everything will be available for you. Quick intro about me and my company. So I'm originally from Grenoble, France. Heart of the Alps. But I've been in the California Bay area for about 20 years, and I've been an Adobe Analytics enthusiast for most of those.
+
+00:00:44:15 - 00:01:10:09
+不明
+I'm married with two kids who take a lot of my time, which is one of the reasons for these tips. And I love sports and I love record collecting. My company is Gen Digital. You may not be familiar with it, but it's an umbrella brand for seven well-known, trusted cyber security brands including Nortonlifelock, Avast, BGC, CCleaner, reputation, Defender, and Avira.
+
+00:01:10:13 - 00:01:45:00
+不明
+I've been there almost no more than 16 years, so I've seen a lot in 16 years. Like really a lot. And over there, I'm a one person team for anything and everything Adobe Analytics. So implementation, reporting, administration, documentation, user management, you name it. And we have nearly 1000 users in the platform. So I have zero absolutely 0% chance that somebody doesn't need me every single day.
+
+00:01:45:05 - 00:02:14:21
+不明
+Which is why I came up with these four tips for overworked admins like myself. And like a lot of you. So one thing to note is I'm a very operational, pragmatic person. These are not rockstar ideas. That session is at 1 p.m.. I highly recommend that you go. But this is not it. My goal here is to give you quick, fast, easy ways for you to better manage your workload and just save time and frustration.
+
+00:02:14:25 - 00:02:42:52
+不明
+Maybe a lot of you have built similar things already. Or you know, you've I don't know, you've done like similar things for your companies or you've had these ideas. But from talking to a lot of people, I feel like it's not the case. If you are not an admin, please don't be afraid. You can just take these tips to your admin or you can build these, for your business units and other business units will follow.
+
+00:02:42:57 - 00:02:51:16
+不明
+So with that, let's get into the first step which is build an FAQ dashboard. My absolute favorite tip.
+
+00:02:51:21 - 00:03:09:08
+不明
+So a lot of times I get the same question from different users again and again and again. And like I said, I've been in my company over 16 years, so this really just drives me absolutely crazy. And what happens is, most of the time I'm going to dig through my emails and be like, where did I write this?
+
+00:03:09:09 - 00:03:28:03
+不明
+I did this two weeks ago. Who did I send it to? And I end up being like, am I going to spend more time looking for this and outlook? Or is it's just going to be faster to write it from scratch? I also get people like Debbie here. She likes to ask me the same question every two weeks.
+
+00:03:28:03 - 00:03:55:27
+不明
+She'll ask me and then she'll ask me two weeks later, and then she'll ask me two weeks later and she'll do that until the end of time. Stop answering. These people. Build an FAQ dashboard. So just put your answer directly into workspace. Nice and clean, detailed once and for all. Then next time you get that question right click Get Visualization link.
+
+00:03:55:31 - 00:04:22:55
+不明
+You will get this nice little pop up with a cute vanity URL. It copy. Boom. Done. No more long answers, no more typing forever. No more disparities in what you're saying. No more wasting your time and energy. So how do you build an FAQ dashboard? So simple. Just use text visualizations. Type out your answer. Give the FAQ a title that makes sense.
+
+00:04:22:57 - 00:04:50:53
+不明
+Nice short question. Formats is what I like. Collapse them all. Put the most popular ones at the top. Share that dashboard with the whole company. Very important to note is when you send one of these cute vanity URLs like it'll bring users not only to that fake dashboard, but it will by default. Expand the FAQ in question so people know exactly which FAQ you're sending them to, even if they're all collapsed when you send them there.
+
+00:04:50:58 - 00:05:14:22
+不明
+They know which one you're referring them to. You don't have to use text visualizations. You can use freeform tables, Venn diagrams, flowcharts, whatever you want. Just right click at the top edit description. Put your content in there and then collapse it. So just some tips every time you're writing out something and you're like, hey, I answered this two weeks ago, when's the next time I'm going to have to type this out?
+
+00:05:14:27 - 00:05:30:10
+不明
+Or you feel like, hey, I'm going to have to type this out again in like three weeks, or you just, you know, every time you type out something long and you feel it's beneficial to the company, just stop and put it in an FAQ instead, just build it out little by little. You don't have to do it all at once.
+
+00:05:30:10 - 00:05:51:36
+不明
+I think I took like 2 or 3 months to build mine, and then when I had enough content and I felt like it was enough, I shared it with the whole company. I do build on it continuously and I maintain answers as things change so people trust it. So why, as an admin, you should build an FAQ dashboard now.
+
+00:05:51:41 - 00:06:16:01
+不明
+Save time, save frustration. That's my favorite thing. Over time, you're training users to go to a FAQ dashboard instead of reaching out to you or just to get their answers faster. I'm trying to build trust in the platform that it has everything that people need just directly built into it. It's simple, but it's a free and easy way for you to organize your knowledge directly in Adobe Analytics or create.
+
+00:06:16:06 - 00:06:39:16
+不明
+In my experience, when you send people to conference spreadsheets, word docs, etc., they either a don't go or b they bookmark it and then they don't go. So if you just give them less steps, like it's just more likely that they'll actually go there. Having these FAQs also allows you to link them in other dashboards, other reports.
+
+00:06:39:18 - 00:07:03:58
+不明
+You can be like, hey, for more info, see this RFQ or also link your FAQ together like for related info. Also see this have AQ. So very simple idea, but it has genuinely saved me a ton of time and frustration and I use it every day. Quick spoiler alert for my three other tips like they're all in the same theme.
+
+00:07:04:03 - 00:07:25:37
+不明
+So with that, let's go to build overview dashboards. So what is an overview dashboard? Why do you need these? A lot of times people look at Adobe on like social media and they're like, what's in this thing? How is the data organized? How is the business split? New users are often super overwhelmed. They see this huge list of reports.
+
+00:07:25:37 - 00:07:50:15
+不明
+They don't know where to start. They don't know what to do. Executives are always like, hey, why do we have this tool? How much is Adobe Analytics costing us? And as an admin, I'm always like, how am I supposed to have the bandwidth to help so many users? So overview dashboards can help you. You can, show an overview of the business and how it's split.
+
+00:07:50:20 - 00:08:16:28
+不明
+They allow you to show the right data to the right people, and they let people dive into each property, like each piece of your business as an admin. Save time, save frustration. Let overview dashboards help you out. This is just a quick reference slide on like using property tags. I have an experience leak article on there. This is just my most loved dimension that I use like every hour.
+
+00:08:16:33 - 00:08:37:27
+不明
+And it's just a way that I split out my domain, subdomains, mobile apps, all that. So just a slide for you after summit, what types of overview dashboards should you create? So the goal is to show a basic breakdown of your business and understand like each area, each piece of your business. So think like brands your sites or subdomains your mobile apps all that.
+
+00:08:37:31 - 00:09:05:13
+不明
+Do not go too granular. Don't start looking at localization, etc. etc.. Do start with a basic master overview dashboard that shows all the pieces of your business together. This is especially important for executives, but then based on that, dive into each individual piece or your, each individual overview dashboard. So think like all your brands or your domains, all your subdomains that have a specific focus.
+
+00:09:05:15 - 00:09:23:58
+不明
+By that I mean like cart support account log in, mobile apps, channels like paid search affiliates as SEO or by tool. If your company does a lot of that like video feedback, tool, chat.
+
+00:09:24:03 - 00:09:49:44
+不明
+How to get started again? Just start. Build them out little by little. You don't have to do everything all at once. Do start with that master overview dashboard and then from there like create a clickable list of all of your dashboards. I'm going to get back to that in a minute. Absolutely. Save time and cheat. So if I build like I spent a lot of time building an overview dashboard for one brand, and I have a brand that's even somewhat similar.
+
+00:09:49:44 - 00:10:03:38
+不明
+Instead of starting from scratch, I do project Save as I rename the thing right? And then I just tweak it for that brand so you don't have to recreate the wheel every time. Like do cheat.
+
+00:10:03:43 - 00:10:32:09
+不明
+Also, you can copy whole visualizations from one overview to another, like if you've built a complex table or a complex chart or whatever, just right click Copy visualization. Go to your new dashboard paste visualization. Do share these with the whole company. You may think like, hey, support! People don't care about mobile apps and vice versa, but it's really important for you to show like your whole business and to show how these pieces are all together.
+
+00:10:32:09 - 00:10:54:16
+不明
+You'd be surprised how business people have no idea how big or small they're a piece of the businesses. So have analytics be the tool that ties everything together. When you share, give people edit copy access only that way they can't mess up the original. Only you get to pull that one off. But they can create their own copies.
+
+00:10:54:16 - 00:11:19:17
+不明
+So like project save hours and then they can build like a version just for France or a paid search version. This also lets Debbie take your project, save as, put her name on it, and pretend that she's so cool. Just let her do it. It's fine. Just let her do it. It also lets your users take like whole tables, visualizations and just do copy and, you know, put them in their report.
+
+00:11:19:17 - 00:11:41:22
+不明
+So you're also saving your users a lot of time. Do tag these as overview dashboards, use company folders, whatever your system is. Just make sure they're easily findable by everyone and do link them all together. If you don't know how it's in blue on the slide. So here's that clickable list of overview dashboards I mentioned. Real simple.
+
+00:11:41:22 - 00:12:05:42
+不明
+It's just a text visualization. And I have vanity share links to create like this list of all my overview dashboards. And with my having this, I let users dive into each piece of the business without needing me. So I post this thing everywhere. FAQ, dashboard, news and announcements, dashboard all over the place as you can see. Like my example is on the right.
+
+00:12:05:42 - 00:12:28:05
+不明
+Again, I have a very complex ecosystem in, one report suite. So I have my seven brands. They all have different mobile apps this that. For me it's like really critical that I can show all the pieces of the business together. Some tips for creating your overview dashboards do keep them real, simple and basic at the top. Use summary numbers.
+
+00:12:28:10 - 00:12:51:34
+不明
+Simple trends. I like to think like, would my mom understand this? Okay, this real simple. Then you dig into specifics. For that property after those basics do make the data easy to consume. By that I mean add context right to your stuff, like so. Right click edit. Description is one of my favorite things. You know, explain the user flow.
+
+00:12:51:34 - 00:13:16:48
+不明
+Explain, you know, illustrate like the table right. Illustrate the data. Also, I love to hide the underlying data. So if I have a complex table and I'm building like a visualization, I hide the data that the table so that my, overview dashboard isn't overwhelming. And you know, I'm not like frustrating my users do tailor each overview dashboard for like the specific team in question.
+
+00:13:16:48 - 00:13:43:55
+不明
+So for example, the support team, they probably don't care about revenue creation. They care about like keeping escalation costs down. Are people using internal search? Are they reading or knowledge based articles. Mobile team they care about like crashes, upgrades, launches per user, etc. so just different teams have different goals, cater to those. And then when you create an overview dashboard, keep that thing well maintained and well updated so people trust it.
+
+00:13:43:55 - 00:14:13:51
+不明
+Like you're trying to get people to to trust like your dashboards do not make them overwhelming. Resist the urge to put 55,000 reports in your over dashboard. So nobody wants to see that. If Debbie wants a detail that only she cares about, the answer is no. No Debbie, no. If you have very specific flow goal dashboards that, you know, are specific to something like, that's cool.
+
+00:14:13:51 - 00:14:32:30
+不明
+Just create like, you know, cool reports for you to check out list. But, you know, be critical of what is an overview dashboard and what is not. Here's a very simple example of my master overview dashboard. This is just the top. My goal is just to show you how basic it is. Right. So anybody can understand this.
+
+00:14:32:34 - 00:14:53:04
+不明
+All fake data. I got my seven brands like at the top traffic conversions. And then I have my clickable list of over the dashboards below this. I dig into more specifics, but as you can see, like you can look at the brands and be like, I want to learn more about this brand and click on, you know, the related brand on the right.
+
+00:14:53:09 - 00:15:16:22
+不明
+This is an example of one of my individual overview dashboards. So real simple at the top. And then I dig into, you know what is special to that property. What countries do people coming from, what products are being sold, etc., etc.. So if you're lacking inspiration or you just need like ideas for your overview dashboards. I have three reference slides here.
+
+00:15:16:22 - 00:15:44:51
+不明
+This is for after summit. Like just for you to get like ideas, to, to build your own master overview dashboard, individual dashboards, more specific overview dashboard. So why as an admin you should do these, you know, build these now like after summit. One is build trust in the platform. That's really important. You're eliminating that initial learning curve that comes with Adobe Analytics or CGA.
+
+00:15:44:56 - 00:16:09:04
+不明
+There's no need for all of your users to be analytics experts. They just need to know how to log in and click twice, and they get a bunch of really cool info, and you can show off like how how cool Adobe like A is and all the powerful, powerful stuff that the platform can do. You're building trust that the data is well organized, the tool is well managed.
+
+00:16:09:09 - 00:16:39:25
+不明
+That's the goal. As an admin, you save time, save frustration. These do take some work upfront, but they answer like 80% of the questions that I get as an admin. So they really help me out. I'm giving users an easy way to just, you know, dive into properties without any handholding. So without needing me, that's the goal. And also I get a lot of vague questions and requirements, as I'm sure a lot of you do, and I'm able to redirect those here.
+
+00:16:39:30 - 00:16:52:07
+不明
+So before I spend an hour with Debbie figuring out what she wants, I just center the overview dashboard and tell her, like, hey, be more specific.
+
+00:16:52:12 - 00:17:16:09
+不明
+So tip number three is build a news and announcements dashboard. I don't know how you guys are getting your news out to, you know, your users about Adobe Analytics figure, maybe you're sending a newsletter I don't know, I tried that, it never worked very well. So if yours works, that's great. But, if you're sick of creating this thing and wondering like, hey, does anybody read it?
+
+00:17:16:13 - 00:17:42:40
+不明
+You can build a news and announcements dashboard instead, or you can do both. So basically my point is that I'm just keeping everything within workspace. I keep everything directly in workspace. And I use that to keep everyone informed. So anytime I have a new site, a new app, or like I have a new feature, a new release like, hey, we just started tracking payment method, check it out here.
+
+00:17:42:45 - 00:18:06:35
+不明
+Or anytime Adobe puts out a cool feature. I as the admin know this. I don't expect my users to keep up to date with everything Adobe is doing, but I like to communicate to them so that they can use the latest features. Any large code updates? I do new overview dashboards. I create all that. I also incorporate my known bugs and changes.
+
+00:18:06:35 - 00:18:26:48
+不明
+Log in here so you can have a separate dashboard for this. I just stick mine at the bottom of my news and overview dashboards. But basically I used to have an Excel file and nobody ever read that thing, and I barely did. It was a pain to maintain. And, now I just in workspace, I just have my bugs in chronological order.
+
+00:18:26:52 - 00:18:34:34
+不明
+And when somebody tells me, hey, why did Traffic tank? Last week, I just go, hey, check out my bug log.
+
+00:18:34:39 - 00:18:54:52
+不明
+So how to build this thing? It's so easy. Just text visualizations, bullet points. Have a report per year. I keep my previous years in there, and then just collapse them. I have like a specific format and I share it with the whole company. So anytime there's an update, it floats up to the top of their workspace list. And I'm trying to train people to just look at it.
+
+00:18:54:57 - 00:19:15:59
+不明
+Again, just start to just start now after summit. And you know, before you know it, it'll be quarter end and you'll have a ton of stuff in there working whatever historical data you have and then share with the whole company when you feel like there's enough. When you start, though, do keep it well maintained and updated and, keep everything real short and simple.
+
+00:19:15:59 - 00:19:37:46
+不明
+So do not, you know, try to get credit for updating a measurement version like nobody cares. Absolutely nobody cares. Do not do like a full review of a bug in this thing. Just like real nice, short and simple. And then link all your other content in there. So put your clickable list of overview dashboards in your News and Announcements dashboard.
+
+00:19:37:46 - 00:19:58:12
+不明
+Put your cool reports to check out list you know, right click at the top edit description. That's my favorite thing. Put all your info in there. So I warned you mine is real simple, real ugly. But it does the job right. So I can just use this thing. It doesn't have to be like some some crazy pretty thing.
+
+00:19:58:17 - 00:20:23:46
+不明
+So why? As an admin, you should build a news and announcements dashboard. Now is save time, save frustration. It's my favorite thing over time, you're training users to keep an eye on this, and you're building trust in the platform. So it's just a free and easy way for you to organize everything directly in workspace. My last tip is build an admin monitor dashboard.
+
+00:20:23:51 - 00:20:49:45
+不明
+Same operational stuff with me. There's really no surprises. I just use this to keep track of all my reoccurring issues in a single place. It's just for me, the underappreciated admin and I don't share it with Debbie. I just use alerts for each issue. And, every time I get an alert, I just go to that section and I can check out, like, the details of the issue.
+
+00:20:49:49 - 00:21:09:16
+不明
+So, the goal is that I'm not, like, starting from scratch every time I get an alert to figure out what's going on. A very, very simple example, I get an alert that one of my unspecified values is going up, and then I just go to my monitor dashboard and I can see, hey, my classifications are out of whack.
+
+00:21:09:21 - 00:21:37:27
+不明
+So some examples of things I keep track of server call usage, visitor ID not being property set, my property tag not being properly set, user agents and bots stuff I'm decommissioning my classifications working those pesky and specified values distinct count. I really love that one. Like I have that for all my dimensions. So it tells me if, you know, all of a sudden I had like 50 items in one dimension, and the next day I have 50,000.
+
+00:21:37:31 - 00:22:00:00
+不明
+I know some developers started sending like, get in there or something like that. So that's very helpful. I also have checklists for all my repeat tasks in there. So like every time I'm setting up a new site, mobile app variables like remember to do you know this like update interface, update SDR, etc., etc.. I have my QA checklist in there, like when I'm checking a cart.
+
+00:22:00:00 - 00:22:11:06
+不明
+Here's what I check and even like copy paste for emails like new user accounts or whatever. So just things for me to make less mistakes.
+
+00:22:11:11 - 00:22:32:38
+不明
+Here's, some of the stuff that I track. So it's just all my panels collapsed. So just an example of some of this stuff I track. You know, the song. Why should you do this? Save time, save frustration, monitor your stuff faster. Don't recreate the wheel every time. And again. It's just free and easy. Like you can all do it.
+
+00:22:32:38 - 00:22:56:04
+不明
+You don't need anything. So that's it for me. Do remember that all slides and references are available on demand after summit, and, these tips are real simple, but they have genuinely saved me like a ton of time. And I hope that you can go home after summit and save time as well. So the session is not over yet.
+
+00:22:56:13 - 00:23:06:56
+不明
+Get ready! Get excited for making.
+
+00:23:07:01 - 00:23:34:27
+不明
+Thank you Krystal, that was amazing. Thank you for helping us all defeat Debbie's at our company. And if there's any deputies in the office in the audience, I am so sorry. Go to the back. Kelsey and Sean will give you money or something to make up for it. So sorry. All right. Who is ready to learn about comprehensive tagging strategy?
+
+00:23:34:31 - 00:24:01:41
+不明
+Okay, just a couple nerds here. That's fine. That was expected. All right, next up we have Megan Powers from CarMax. Will you please join me in welcoming Megan up to the stage? All righty. Who went to bash last night? Heck, yeah. It was awesome. This is, the last time I spoke at summit was also the Thursday morning after bash, so I need to talk to Justin about getting a more favorable time slot.
+
+00:24:01:46 - 00:24:30:43
+不明
+So, so, Krystal just did an awesome job talking through, how to be more efficient and tips and tricks for workspace. We're going to take a little step back, and talk about how we get the data there in the first place. With tagging requirements. So, a little bit about myself. I'm a three time, Adobe champ and, on the Experience League community as an advisor.
+
+00:24:30:48 - 00:24:49:30
+不明
+I wasn't planning on making this, I went to women, Mary. And we are the second oldest college in the US, but one of the few that have never been to the NCAA tournament. But our women are playing tonight for the first time. Go, tribe. Yep. Very excited about that. I love playing lots of different sports.
+
+00:24:49:35 - 00:25:17:31
+不明
+Lots of different boarding activities. I've been at CarMax for a little over nine years now. I lead a team called Digital Data Strategy. There. We are responsible for, capturing every piece of digital data on every CarMax digital property. So carmax.com the apps our auction sites, many internal facing sites etc. we also capture all of our third party tags.
+
+00:25:17:31 - 00:25:44:00
+不明
+Our team is have analysts have developers. We're a centralized team. And a little shameless plug for that blog post I wrote a couple years ago about forming a centralized tagging team, if you're interested in that. But what that means is we do all the tagging, but we don't own any of the code bases. We're not the team building the tests, and, you know, we help with analysis, but also, teams are doing that.
+
+00:25:44:00 - 00:26:04:37
+不明
+Search teams are coming to us all the time with their tagging, needs. And it's up to our team to figure out the best, way to give them those tagging requirements. All right. And so this is the agenda we'll walk through. And, I'll just give a shout out to my team. I'm the one up here representing digital data strategy.
+
+00:26:04:37 - 00:26:23:22
+不明
+But, those folks are really the ones day in and day out doing the work, and they do an awesome job. Shout out to, my colleague Amanda and Ben here back home. Who, do these requirements day in and day out? This is that representing all their great work. So let's talk about the intake form.
+
+00:26:23:22 - 00:26:45:51
+不明
+We use, why did we start using an intake form? Well, like many of you people were reaching out to us all the time. They were pinging my team members individually. And you know what happens if someone goes on vacation, right? That kind of falls through the cracks. They weren't giving us all the information we would need to come up with hints of tagging requirements.
+
+00:26:45:55 - 00:27:14:48
+不明
+It wasn't always ready. It wasn't ready for that and have screenshots. We couldn't help them proceed. And things were falling through the cracks. So we came up with this intake form, that help solve that problem because they are now required to put in all of that information that really helps them think through exactly what they're asking for and make sure that the information we're getting is in a state that's ready to be, create the tagging requirements.
+
+00:27:14:52 - 00:27:37:12
+不明
+And, helps them think through the priority of it as well. So the process that we use, teams will then fill out an, intake form. We use ServiceNow, with new tagging enhancements or, bugs that they may find, that automatically puts a card on our board. This may look different for you all, but, you know, we use Azure DevOps.
+
+00:27:37:12 - 00:27:58:30
+不明
+You may use JIRA or some other ticketing system. It also automatically emails our entire analyst team. So we all know and are aware of it. And someone will pick it up for requirements. And then we acknowledge receipt of that to the submitter by starting a thread in our teams channel. And we make sure to link the team's thread with the card on our board.
+
+00:27:58:30 - 00:28:18:27
+不明
+So we have that, historical tracking. So some of the fields we use, of course, you know what, what is the request type. What's your your site or tool or URL? Is this an enhancement or a bug fix that's going to change the priority of it in the way we approach, that request? Also, of course, who's the team?
+
+00:28:18:27 - 00:28:41:45
+不明
+Who's the point of contact we can reach out to with questions? What's the priority and deadline of that request? Of course, that's going to change how soon we get to it. Any background details are important. We like to ask for the impact or the value that, It helps us prioritize it. It also gets our developers really bought into the importance of, you know, why we're doing that?
+
+00:28:41:45 - 00:29:04:07
+不明
+Tagging. We also like to know, is it a permanent change or a test that's going to approach, that's going to change our approach for tagging and then any steps to get into that experience. Is there a QA link, is there certain account credentials that we need, etc.? Screenshots are always great or even better, a link to just go in ourselves.
+
+00:29:04:12 - 00:29:25:03
+不明
+And then lastly, sometimes one team will submit several requests in a row. We just kind of like to call that out with them and say, hey, you've submitted five requests, which would you prioritize these for us? So they're making that decision, not us. Yep. All right. Just a screenshot here. That's just contains all the information I just talked about on the previous slide.
+
+00:29:25:03 - 00:29:49:37
+不明
+But that's what it looks like in real life. All right, so next let's talk about okay, we've gotten this intake form. We've gotten this request. How do we approach the tagging? We take a pretty methodical approach. Like I said, this is what Amanda had been on my team do day in and day out. They, the first thing we start with is referencing any, former or current requirements documents.
+
+00:29:49:42 - 00:30:10:03
+不明
+I'll show that, document in a couple slides. But that's where we start with, like, what do we already have tagged? What do we know about this already? Let's go and add that to that same document. We then we'll also often go through the site with our dev tools open, click around, see what's firing, grab screenshots.
+
+00:30:10:08 - 00:30:31:05
+不明
+Add it to our spreadsheet again, which I'll talk about in a minute. We start with page load tagging. So what should fire on page load? As that page load. And then we move on to click tracking. For us, we pay special attention to any of our KPIs on our site. So for us that's a lead.
+
+00:30:31:10 - 00:30:43:01
+不明
+Or people get into search or other unique aspects and we pay special attention to any links that might lead to one of those places and add unique tagging to it.
+
+00:30:43:06 - 00:31:05:28
+不明
+Right. So let's take a look at some of the documentation we use. So first is our variable map. So if you've been Adobe Customer for a long time this might look familiar to you. I didn't come up with this. So, this is all Adobe. You this is our global source of truth. This lives on an external team site where everyone in the company has access to it.
+
+00:31:05:33 - 00:31:28:39
+不明
+This is where everyone on my team goes to update it. This is where all of our internal customers go to see, every single custom, every prop or event for every single site that we own. So each tab on this spreadsheet, represents, a unique site. You may notice some, some color coding on here.
+
+00:31:28:39 - 00:31:45:54
+不明
+So some of the fields we capture, of course, the event either prop number and name, where is it hit or any notes about it? What date was it added to? Adobe. That helps us know how far how far back in time we can go to pull that data. And then some of the color code in here.
+
+00:31:45:54 - 00:32:03:06
+不明
+So, pink for us means, okay, it's not being used anymore. We can repurpose this yellow is, you know, some like, okay, we need to go in and add that date field. You may notice on the left, we've got that green. Most of those are in green. That's because that means we've added an alert for it in Adobe Analytics.
+
+00:32:03:10 - 00:32:26:46
+不明
+We try to have, custom alert in Adobe for every single event. An event problem. We also capture the implementation information. So is there context data that's particularly important for our apps? What's the launch or tags were? I'm never going to get used to calling it tags, by the way. What is the data layer value.
+
+00:32:26:51 - 00:32:46:54
+不明
+Or if it, it lives in a processing rule, what is that processing rule? Name? Also, we send all our data, like many of you, probably, through data warehouse to our internal data warehouse, our enterprise data warehouse. So we do that mapping here as well. Again, this is our global source of truth. So what are the table names?
+
+00:32:46:58 - 00:33:09:18
+不明
+How do those columns match? What are the column names. What is the date added to those tables. Because that might not always be the same as the date it was added to Adobe. And then lastly the configuration information. So these are all the Adobe admin settings right. The type the serialization. Is it always or once per visit etc..
+
+00:33:09:23 - 00:33:31:44
+不明
+All right. So now that requirements template that I mentioned before, this is our version of this that we came up with after some, you know, trial and error. This for us this works best with for both our analysts and our developers to be able to interpret those requirements. So you can see here we've got screenshots.
+
+00:33:31:44 - 00:33:56:10
+不明
+That's always really helpful. We have separate tabs for page load versus clicks. We have separate tabs. You know, if there's multiple pages on any given microsite will probably have separate tabs for each of those as well. We also have a separate tab for QA often just so we don't muddle this kind of source of truth view.
+
+00:33:56:15 - 00:34:22:19
+不明
+The QA tabs are really helpful when, my team is right now migrating everything from measurement over to, the web SDK. And so that usually requires a pretty extensive into end testing process. And our QA, shout out to her. She's awesome. To Khadija, she'll go in and create a whole separate tab and really, mark everything with a fine tooth comb.
+
+00:34:22:24 - 00:34:46:39
+不明
+So yeah, the included items, right? Screenshots, pages, load verses, click. What's the Adobe variable and value? Any special notes about it? What's the data layer value that helps our developers? We also include third party tags here so we can see, where those fire as well. Again like our variable amount. This is also the source of truth that lives externally on teams.
+
+00:34:46:39 - 00:34:55:32
+不明
+And anyone can go access this and see what's firing. What should be firing, on any given site.
+
+00:34:55:37 - 00:35:25:18
+不明
+All right. So now I'm going to move into a section where I'll talk about some of the tagging, best practices we use in general on our site. Right. So starting with page naming, we take a pretty customer centric approach to page naming. What I mean by that is, you know, each organization, each site is going to have their own way that they like to organize it or how different teams divvy up the pages or the sites.
+
+00:35:25:22 - 00:35:39:24
+不明
+And it may be tempting and there's if that's the way your company does it. Nothing wrong with that. It may be tempting to kind of say like, oh, well, this is the team that owns this page, so we're going to name it that way. This is the team that owns this page. So we're going to name it that way for us.
+
+00:35:39:28 - 00:36:02:26
+不明
+Because, you know, the reason we do the tagging in the first place is to capture the customer's interactions. That's the the point of view we like to take. We're tagging like if a customer is on the finance section, they get the finance page, level details. It doesn't maybe matter that one paid one team might own one page, one team might own the other.
+
+00:36:02:31 - 00:36:22:45
+不明
+It just helps get everyone speaking the same language internally. So we take a three tier approach from the customer's point of view. So we use the out of the box channel or site section at the highest level. So in this example a customer's on the research section of our site. We also capture that in a custom IVR.
+
+00:36:22:49 - 00:36:46:46
+不明
+Because that lets us do some more slicing and dicing and have more stickiness, with that channel level. Next we use a custom prop for the subsection. Not every page, you know, might might not have a sub section. This particular section of our site does, where we've got lots of different content articles related to research about cars.
+
+00:36:46:51 - 00:37:10:06
+不明
+So this is the trucks section of our research channel. And then lastly, we use the out of the box page, for the lowest level or most granular, and we again also use a custom either for that, so we can do that slicing and dicing and get that stickiness. So you can see here that the the best trucks in the research section is, is what our page name is going to be.
+
+00:37:10:06 - 00:37:39:22
+不明
+They're the most granular level. Okay. Moving on to click tracking. So we use this same method globally. And not just on ComicBook.com, but every single digital property that we own, we like to tag where all possible, every single CTA on our site. This is going to vary for everyone else depending on, you know, your server call budget and what's important to you.
+
+00:37:39:27 - 00:37:56:58
+不明
+But I often find that, of course, the more you tag, the more context you're going to have to compare that data to something else, right? It's not super helpful here to know how many people clicked on the viewed button. If you don't also have tagging on the searched button, it's not. You're not going to have a frame of reference to know if that's good or bad.
+
+00:37:57:03 - 00:38:21:42
+不明
+So we use a series of props on every single CTA. On our site, we capture the page, dynamically in a prop. We capture the link text dynamically in a prop. We captured the link position in a separate prop. I'll talk more about that one on the next slide. And then we use a prop to concatenate all those things to get the more most granular level.
+
+00:38:21:46 - 00:38:43:11
+不明
+And what that allows us to do is, slice and dice that in a lot of different ways. So we can look at all the links on one page together, or all the links named this thing across. Doesn't matter what patron. Or for prop five. Like if we do the header, like we can look at the header, clicks again across the site.
+
+00:38:43:16 - 00:39:06:34
+不明
+We also add timestamp and URL to every single click. I mentioned how we use prop five. So by default prop five will take the name of the page. But there are a lot of reasons we use a custom prop five for the link position. One is when you have the link with the same name on the same page.
+
+00:39:06:39 - 00:39:33:19
+不明
+So in this example we've got several different get pre-qualified links. We want to be able to understand which which exact link got clicked. So we'll use a prop five position. You know we have one for header, one for personalization and one for the to, for to understand, that uniqueness. The second reason we might use a custom prop five is when there's a lot of links in the same section.
+
+00:39:33:19 - 00:40:01:21
+不明
+So, we don't want it. You know, if our analyst is trying to look at big sections of the page and it gets clicked on the most, we don't want them to have to go in and add up 50 links in this research by Brand section to understand that customers are clicking in that section. So we use a custom prop five to say like, okay, you're in the header, you're in the footer, you're in this, link farm, all over our site.
+
+00:40:01:26 - 00:40:22:34
+不明
+A third reason we might use a custom prop five is to capture a customer selection on submit. So, for example, in this first one, we've got our finance form. We're asking, do you want to add a co buyer? This is a radio button that's selected, but the final value isn't really selected until someone clicks that submit button.
+
+00:40:22:39 - 00:40:46:25
+不明
+We don't want to waste server calls clicking every single time someone's clicking yes or no. When that's not going to tell us anything. That's also not going to be there like checkout stage, right? We only want to know do they need a co buyer when they hit submit? Yes or no. Similarly our Sign-In page here, we've got the option that says keep me signed in.
+
+00:40:46:30 - 00:41:05:47
+不明
+We don't need to know if a customer is clicking and then clicking that button. We just need to know their choice when they're clicking that sign in button when they check out. So we'll use prop five to capture that status. From that form. And if you have multiple things like that in the form, you can click that need those and classify them on the back end.
+
+00:41:05:47 - 00:41:31:07
+不明
+If you want. Okay. So general click tracking best practices. So no your KPIs probably goes without saying. But we like to tag any link that leads to a KPI with a finding method. So I mentioned leads are important for us anywhere on the site that we have a link that goes to a lead. We say like this is the lead initiation method.
+
+00:41:31:12 - 00:42:02:51
+不明
+So we can measure conversion rates from all those different CTAs. We use one event for initiation of any KPI and one for submission. If you maybe have a, like, a lead form like us, to so we can measure conversion rates, and completion rates for those forms. You can also if you have a form that has multiple pages in it, you can use other events, or a custom prop to measure if there are multiple pages in that form.
+
+00:42:02:56 - 00:42:20:30
+不明
+Accordion dropdowns. Some of you might have things like this, like FAQs on your site. We only fire them on open, not close. That's going to save you. Server calls. But it's also, you know, if you're fired, finding open and close, you're double counting. And what are you going to do with knowing that customers close?
+
+00:42:20:31 - 00:42:43:25
+不明
+And if you, you know, your situation might be different. But that's one of our best practices. For any, item like this where you have calculator fields, similar to the prop five thing. Right? Like we don't capture it. Click on each time a customer is interacting with each of those different fields. But instead on submit, your use case might be different.
+
+00:42:43:30 - 00:43:05:22
+不明
+But again, that's not they're checked out state. If they're clicking multiple times on their, you know, credit score or down payment, they might be playing with this calculator on purpose to try to find the best rates and we only really want to know what they checked out with when they click that shop with budget or Get pre-qualified link.
+
+00:43:05:27 - 00:43:30:00
+不明
+We use global variables for IDs again. So consistency, right? Having a both anonymous user ID and an authenticate ID, user ID and keeping those the same across any site. Even if the I ID is different, whether it's a dealer ID or customer ID, but we have a anonymous and an authenticated in the same inverse across all our sites.
+
+00:43:30:05 - 00:43:46:49
+不明
+And then some of these are our team has started doing, lately, which I've been a big fan of, is we are reserving some variables and events for testing. So we've started giving each team like one event. In one event we say, hey, anytime you're building a test, you can go plug whatever you want into those things.
+
+00:43:46:49 - 00:44:12:27
+不明
+This is your evolver. This is your event. That way we're not building permanent tagging each time they're running these, you know, these tests, sometimes every couple weeks for each team. That saves our analysts and developers time, and it saves them time. And lets, we're not a blocker for them getting their test out. All right, let's talk about events so different serialization helps us answer different questions.
+
+00:44:12:32 - 00:44:43:16
+不明
+So events one through 500 we fire every single time that event happens. And the same corresponding number in 501 2000 fires only once per visit. That helps us, answer different business questions. Like, how many times did X happen? Well, we used the first, you know, 500 level one. But for us, you know, we have a car page that's our most popular page on the site, not people who look at car pages tend to look at a lot of them.
+
+00:44:43:21 - 00:45:03:34
+不明
+But we know that not everyone looks at a car page. So if we try to answer the question, you know, what percent of visits to the car page, we can't divide event three by visits. We'll get over 100%. So we have this 503, which tells us that they looked at at least one in that visit. All right.
+
+00:45:03:39 - 00:45:27:27
+不明
+Lastly, I'll talk about how to keep your requirements consistent, across sites and globally. So, you want to use the same variables and events across properties. Again we have a bucket kind of set aside at the end for each site is going to be a little different, right. They're not going to have all the same things. So we have this a bucket set aside for all the custom things.
+
+00:45:27:32 - 00:45:48:43
+不明
+We use the same variable map, and structure for each one. We for us, one helpful thing is we use a combined, report suite for iOS and Android apps and use virtual to separate them some of the benefits. This is easier for analysts, users who may be analyzing, multiple sites, different customer interactions.
+
+00:45:48:43 - 00:46:14:04
+不明
+And our omnichannel world helps them know that each of our six is our anonymous visitor ID across any site that they're looking at. It's easier for my team to manage. And remember, we know that each of our six is the anonymous user ID. Any time we see that, in theory, you're already using best practices on one site, you might as well apply them to all the sites that you own.
+
+00:46:14:09 - 00:46:44:22
+不明
+This helps our native app team compare their data to outcome. You know, they're constantly kind of how how is the app turned into Broadcom? Having all the consistent variables helps them very quickly make those, determinations. It's easier to set up tables in data warehouse. I mentioned we send that data down to snowflake. If you're using the same variables at events and column names, that's going to be a lot easier again, for your entire analyst community to go in and analyze.
+
+00:46:44:27 - 00:47:10:10
+不明
+And then, yeah, it's easier to stitch your omnichannel journey together. Look at your whole sales funnel measure in both Adobe Analytics UI and the downstream. All right. So key takeaways. For this you cannot over document I know documentation is tedious and it's boring. And not everyone's favorite job. But if you do this as you go, it's going to make your lives easier.
+
+00:47:10:10 - 00:47:35:30
+不明
+Your team's lives, your analyst lives a lot easier. And you'll always have that source of truth document. Know your KPIs. You might probably want to give special tagging consideration to any KPIs on your site. Again, we approach from the customer point of view, that it just helps everyone in the company speak that same language.
+
+00:47:35:34 - 00:47:52:19
+不明
+And lastly, consistency is key. And that's, going to help your analysts and your users be able to really quickly, analyze, your omnichannel, journey across sites. All right. Thank you. That's what I had to share with you today.
+

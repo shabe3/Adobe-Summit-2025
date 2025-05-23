@@ -1,0 +1,316 @@
+00:00:00:14 - 00:00:14:42
+不明
+Well, thank you all for coming. My name is Jeff Rennie. I'm the chief revenue officer of Clara Vine. We are a data standards company, which I promise you'll know what that means after we're done. I have the best job because I get to work with some of the biggest brands, their agency and partners in the world.
+
+00:00:14:42 - 00:00:39:31
+不明
+And through that, I've got to meet our good friend Mark, who's with Colgate. I. Whoa. I forgot to tell him in the back. I have a pretty loud voice. Hi, everybody. I'm Mark Dominic. I work at Colgate. My remit is, around, media activation, reporting, for, for analytics. And, through that role, we've managed to discover, clarify, and you'll hear of, some of that journey today.
+
+00:00:39:36 - 00:00:58:24
+不明
+So we kind of name this presentation a lot of things. How many folks show of hands were at the keynote this morning and heard Hilary Cook from Marriott speak? So you heard her say taxonomy is sexy. That should have been the name of this presentation which like she had me at hello the minute she said that. Or we could have named it Brand Control the chaos.
+
+00:00:58:24 - 00:01:23:12
+不明
+Chaos with the K Mart. It's it's the Get Smart reference. Sorry for those of you, I'm I'm. Yes, I'm I'm going to date myself as well. Show of hands. How many folks early on remember the the, game Oregon trail on the apple to it. Okay. So for those of you that we're not an Oregon Trail user, it was a simple game you had to get from one side of the east coast of America to Oregon.
+
+00:01:23:16 - 00:01:42:50
+不明
+Perfectly linear, right? Well, inevitably your oxen would die crossing a river. Your party would get dysentery. You need bad blueberries or something. I had a very close friend of mine that's on the marketing side. Tell me this is how it is to launch a marketing campaign. So just to kick things off, I'm going to talk a little bit about what we see when we talk to our brands and our partners in the world.
+
+00:01:42:50 - 00:02:01:41
+不明
+And then Mark's actually going to show you how Colgate has evolved their data standards practice globally with some amazing success. But many of you marketers in the room, you've got a big challenge ahead of you, right? Or you have a big challenge in general just internally launching a campaign can be very complicated, arduous. You've got silos with your teams.
+
+00:02:01:46 - 00:02:30:51
+不明
+The average marketer has 90 to 120 SAS applications. So even if you have integrated Adobe almost full scale, you still probably have dozens of SAS applications across your marketing technology. Org and if you're a global marketer, I mean, even if you're a regional marketer with multiple years, you've got to deal with this data chaos at the global level, the regional level, the local level with different needs from different teams across different business units, using different technologies.
+
+00:02:30:55 - 00:02:50:33
+不明
+And so this misalignment can lead to massive problems for everybody. You know, back to the Oregon Trail before you cross the river with the OCS. And maybe you didn't realize that the wrong creative got trafficked or your campaign goes live and you don't even realize that things were named or the tracking was in was inaccurate for six weeks in your campaign.
+
+00:02:50:33 - 00:03:11:51
+不明
+Right. So at the best, best case, you're probably losing some money on that data loss. Worst case, you've got a lawsuit on your hands because a piece of creative went out that wasn't supposed to go out with an offer in a region that shouldn't should have been in that region. So that's the internal problems and process issues in silos that most of you in this room were dealing with.
+
+00:03:11:51 - 00:03:30:49
+不明
+But then, of course, we're all dealing with all these market dynamics, and I'm not I'm not going to go through all this is the top. We've been dealing with this for for years. The continued signal loss, the massive evolution and transformation we all had to go through in the pandemic. Three years ago at Summit, that's all everybody talked about, was this massive digital transformation that people had undertaken in months.
+
+00:03:30:54 - 00:03:53:01
+不明
+The proliferation of channels. TikTok wasn't even really a channel that people were investing in five, six years ago. Now it is the walled gardens of retail media. Now, more than ever, you have to make sure that all your data when you launch a campaign or you're, appending data to a piece of creative, you have to know exactly what you did before it goes on to these environments, because you're only going to get a certain amount of data back.
+
+00:03:53:06 - 00:04:16:12
+不明
+But, I mean, we have heard nothing but I these last two days, right? It is one of the most exciting things, if not the most exciting thing of a lifetime. But it's also going to come with challenges, right? That everybody in this room, I guarantee, was using some form of AI five years ago, four years ago. But then the ChatGPT moment hit in the last two years, all we've been talking about are LMS agents, Gen AI.
+
+00:04:16:12 - 00:04:40:10
+不明
+And again, I could not be more excited for this, but it's also going to create a treasure trove of data that we can all take advantage of. But if we don't have a system in place and we don't have a process in place to capture that data, collect that data in a standardized format, it's going to be the old garbage in, garbage out adage of virtually for any any system that you use that is going to be leveraging gen AI.
+
+00:04:40:15 - 00:05:04:34
+不明
+So that's the problem for what are data standards. What are we here to talk about. So data standards are the most simple thing. I mean Hillary stole our thunder this morning. Taxonomy is sexy right? One of the most important fundamentals, fundamental things that you all could do when you leave this room and leave summit is just think about your data standard strategy and how important that data foundation is to everything you do optimization, measurement, analytics, business decisions.
+
+00:05:04:39 - 00:05:21:48
+不明
+But when we use that term data standards, it can be many things. It could be your common data language, your data dictionary, your taxonomy. One of the most important things that we always talk about with, with, data standards is metadata. That's another term. Two years ago, you hardly heard it at Adobe, at Adobe Summit or any conference.
+
+00:05:21:48 - 00:05:39:01
+不明
+I think I've heard it a thousand times. Right. Metadata is the context around your data. It's the data about the data. The best example that I've heard is you might have a giant sheet of seven digit numbers, but you have no idea. Is that some random ID or is it a phone number? Unless you have metadata associated with those numbers.
+
+00:05:39:01 - 00:06:07:55
+不明
+So metadata is going to become more important than ever, especially in this world of AI. The other reason that data standards are so important, more and more marketers, I'm sure many of you, if not all of you in the room, were using campaign IDs or creative IDs. If you have your data standards in place, you can start to append all of this data, your data dictionary, your taxonomy to this simple IDs, and have a treasure trove of data to look into to make business decisions.
+
+00:06:08:00 - 00:06:33:47
+不明
+So before we actually show this in practice, just a quick example. Everybody here, unless you're local, you probably flew in and you know, the airlines are a great example of a, an idea that is actually used to extrapolate data standards. There's a p r, which is your passenger name record and pro tip for Mark, if you ever have trouble at the airport, never mention your SkyMiles number or your your, flight number mentioned your PRR and think you're a pro right away.
+
+00:06:33:52 - 00:06:53:40
+不明
+But with your P and R from that one number, any airline can figure out who you are. Dietary restrictions, the seat you're in, the pilot, your last five destinations, all of that through one I.D. and all of that. Because in the back end, they've got a great test data standard system, and they're using this to do personalization at scale every single day, some some better than others.
+
+00:06:53:40 - 00:07:20:10
+不明
+Obviously. So before I hand it over to Mark, data requires collaboration and connection. So just as you could have an amazing process and you could have an amazing taxonomy and standards in place, you've got to think about collaboration. Because one of the things that we run into all the time, you can have the best system and processes in place, but just as much of a problem is as 90 to 120 SAS applications that are in your in your tool chest.
+
+00:07:20:15 - 00:07:46:28
+不明
+Also, you've got other partners, you've got partners. It might vary by region. You've got systems integrators, consulting a consulting firms, your media agencies, which we're going to talk about a great example of of alignment with the media agency here. You need collaboration. And so our whole point here is that you really need a system in place to create that collaboration and get the needs and the collaboration and the data standards propagated out through all of these teams in a uniform way.
+
+00:07:46:33 - 00:08:19:14
+不明
+Otherwise you're going to have some real challenges. So Mark is going to actually walk you through the evolution that Colgate's been on. And we're going to wrap it up in a little bit. Thank you, E.J.. Thank you all for coming. Taxonomy is a hack right. Essentially putting a lot of metadata in a title. And, you know, in a, in a naming box where the systems aren't governing it, is essentially a hack because all these systems that we use, the one thing they probably have in common is a free form text field.
+
+00:08:19:19 - 00:08:41:49
+不明
+They don't care about it. So they let us do what we want. What do we do? And I want to define the term of as we've been talking about metadata and taxonomy is a pre agreed upon naming convention. Or we use those words interchangeably naming convention that allows us downstream after after activation after one system touches the next which is next which we're going to talk about in a second.
+
+00:08:42:00 - 00:09:12:03
+不明
+But it allows us at the end to know, oh, that's where that came from. Okay. We found ourselves and this is not a Colgate specific thing. This is really pretty universal. Consistently fixing metadata when it came back to us after activation, it was manual. It was time consuming. My friends at VML may know that, the lead media, director on the account would spend her weekends doing exceptional reports just to get that data to to align afterwards.
+
+00:09:12:03 - 00:09:33:42
+不明
+It's not where we want to spend our time. And because we really couldn't get over that hump, our analytics was limited. So we recognized we needed we needed to own this change and make this change. And I really try to balance, this revolutionary versus evolutionary, because this was a really a key to what we were able to do.
+
+00:09:33:46 - 00:10:01:40
+不明
+The change we made in the process was almost nothing but the change we got to our data was and is and continues to be really unlimited in terms of what we can report. Right. And that was one of the our success factors which we'll talk about was that we didn't I've been through all host of I spent most of my career at media agencies of all host of media agency transformations and transformations are hard and change is hard.
+
+00:10:01:55 - 00:10:25:06
+不明
+But at the end of the day, the transformations that always work are the ones that change the least amount of what people are doing in their day to day. There's, you know, so there was fragmented reporting. There was, you know, each region was doing something differently. But at the end of the day, right, you we really trying to balance the revolutionary result with the evolutionary change to the impact.
+
+00:10:25:06 - 00:10:47:03
+不明
+Okay. Another term that I'm going to define here, and it's a little controversial how many people work for agencies or have media experience other than my friends over here at WPP and VML? Okay, here's the secret for the rest of you. Okay. It's customary and pretty much all media operations around the world that you get to grade your own test.
+
+00:10:47:07 - 00:11:11:22
+不明
+Right? And the teacher doesn't come in until after you've rewritten the essay based on what the essay was supposed to be, meaning that the buyer gets the data from the buying system, looks at all the data coming out of the report, and corrects the paperwork mistakes that they made on the inbound. That's really universal, right? So the buyers are going in to say, oh yeah, I remember I did that wrong, now I have to fix it.
+
+00:11:11:34 - 00:11:43:57
+不明
+So the buyer tells me your reporting system doesn't match what my reporting system says. I guarantee you there's an Excel spreadsheet somewhere with a lookup and a and a replace to to match everything up. Right. So we define and my remit is global consolidated automated reporting, which is defined from the time the buyer's hands leave the keyboard until the time I can see it in our, in our dashboards, there is no need for human intervention.
+
+00:11:44:02 - 00:12:03:07
+不明
+You know, every agency at every agency I've gone into, for the few, I guess I've worked for the big three or however many there are. Oh, sure. We doing automated reporting? Can you show me? They log in, they download something from a UI, they bring a CSV into an Excel, and they run some macros. That's not automated reporting.
+
+00:12:03:12 - 00:12:24:31
+不明
+Okay, I'm totally not exaggerating at this point. In all of the times that you've ever been to presentations like this, right. And I've been to many, right? There is a moment where everybody takes out their phones to take a picture of the slide. I want it to be in the shot. When you all did that.
+
+00:12:24:36 - 00:12:56:11
+不明
+So that now when you take this picture, maybe you'll remember me for a second. And this is the mess, okay? Or this is the mess. And honestly, this slide maybe 15 years old with very little change. Okay, this is a media operation and a really good media operation. I mean, really good. And we love our agency partners. As a former WPP employee for ten years, I have a very a soft spot in my heart for our partners at WPP.
+
+00:12:56:25 - 00:13:24:48
+不明
+A really tight media operation is going to input a media plan between idea and activation five times manually, hands on keyboard in a different format. I'm going to have my idea. Then I'm going to put together my tactical plan and a flowchart. Then I have to probably get an authorization to buy, which is different than the flowchart. Then I actually have to go into a buy management system in the US it's Prisma or something like that, but globally there are many, many more systems.
+
+00:13:25:01 - 00:13:47:25
+不明
+And then if you don't have the US version of the Prisma CM connection, you're now putting it into a traffic system five times manually from idea to execution. That's without the back end change that I just talked about that these buyers are making. Right. This is I want to say this is an accident waiting to happen. This is a thousand accidents waiting to happen every day.
+
+00:13:47:25 - 00:14:09:07
+不明
+We spend $1 billion in a year in advertising globally at Colgate, and we're reported over $1 billion a year in advertising at Colgate. And at the end of the day, we're spending that money a nickel at a time. Right? You have to understand the throughput of that so you can able to report out there. So again, the from the beginning I have an idea.
+
+00:14:09:07 - 00:14:31:21
+不明
+What does that plan look like. That's really a high level. I'm going to come up with an audience like, I don't know, whitening moms or something like that. And and you create personas and a brand plan, but then ultimately you have to get to a tactical flowchart that has money attached to it. So I know what my day part makes is that, again, you're going to have to do an authorization measure, usually by quarter, by vendor, depending on the size of what you're doing.
+
+00:14:31:30 - 00:14:52:44
+不明
+Then all of these individual systems are separate standalone systems. The TV systems and the digital systems don't speak to each other, right. They're done completely different. See legacy systems. That's just the way it works. And each country has their own way of activating. Sure, we can all use campaign manager collectively globally, but then you're going to have you also have meta.
+
+00:14:52:44 - 00:15:20:19
+不明
+You also have other ad servers that are going on. And ultimately at the point of execution, a number of things come together. Okay. My if it's done correctly at the point of execution, I'm going to have my let's call it my campaign. Right. That overarching campaign idea, I'm going to have the tactical placement right, which is where the where the where the negotiation with a particular vendor happen.
+
+00:15:20:24 - 00:15:48:28
+不明
+Then I'm going to have an audience. Right. How did my whitening moms translate into my deliverable media audience? And I'm going to have creative. I have four things that are going to converge at the point where each one of us is served up an ad on the screen, and if you have all those things organized in such a way, in a homogeneous way, in a globally homogeneous way, in an organized way, you're going to have a tremendous amount of data that's actionable.
+
+00:15:48:37 - 00:16:18:25
+不明
+How did my creative work against my audience? How did my audience work against my creative, which is different, right? When you flip it around and all of those things happen at the point of execution, ultimately, the analysts need a seat at the table when you're having these discussions about taxonomy. Otherwise, when it comes back through the pipes, you'll never be able to to to reconcile what the analyst needs to be able to analyze.
+
+00:16:18:30 - 00:16:38:04
+不明
+Right. The analysts need a need a seat at the taxonomy table, because without that they're really going to not have the value. And that goes for one liners. That goes for market mix modeling, that goes for whatever you're going to do. The more the analysts can drive what's in the taxonomy, the more you can thoughtfully approach your taxonomy.
+
+00:16:38:04 - 00:16:50:06
+不明
+I don't really need my creative execution in my, in my in my placement name, because that's going to converge at the point of execution.
+
+00:16:50:11 - 00:17:16:48
+不明
+Ultimately, the idea is to create the connected view. So if you remember from the previous slide, this is a generic purchase funnel. You might have a McKinsey curve. Every brand has their own flavor of what that purchase cycle looks like when McKinsey loop. Everybody has their brand, right? And ultimately we know a lot of information. Once the user clicks on an ad, once the user served up an ad.
+
+00:17:17:02 - 00:17:44:22
+不明
+But the question is, how do I take the information on the click and tie it back to my whitening moms in my high falutin media plans to be able to establish the tactical media audience that I delivered is really this ephemeral media art media audience that we thought about in advance. So the first thing now is in our journey, we established data and text, taxonomy, ownership.
+
+00:17:44:27 - 00:18:21:36
+不明
+This seems so simple, but this is where a lot of the challenges come. And I think that our approach disarmed the challenges. So I'll give you an easy example. I'll do it anyway. The your finance teams decide which countries belong, in which regions, right. And as much as there might be people in Washington who think Canada is the 51st state and is part of the United States, it's a no no judgment.
+
+00:18:21:41 - 00:18:41:29
+不明
+As much as that might be true, the finance team says Canada is Canada and it's part of North America. And nobody, no media planner is going to now say no. I think Canada should be the 51st state. It doesn't happen. Right. But that thing that's true on a lot of things that we don't consider right products. Right.
+
+00:18:41:29 - 00:19:04:06
+不明
+I got a request a few weeks ago for a Latin America team. They wanted to add a product to our global product list that we have stored in, clarified what product they want to add. It was called ETB. So in order to add a product, I'm a gatekeeper now. Because the only way to do it is to have a bottleneck is, at least for now, is because otherwise you get a lot of things.
+
+00:19:04:06 - 00:19:25:42
+不明
+And here's a perfect example. There I go. I want to see a picture of the product. In order to get a product added to the list, I want to see a picture of the product to make sure the product really isn't in the 14,000 products that Colgate-Palmolive produces, it's not really there already. So she shows me what ETB is ETB anybody electronic toothbrush I got one second.
+
+00:19:25:55 - 00:19:47:05
+不明
+We have a category called power toothbrushes and she says but in Latin America we quality TB. And I said, now you call it power toothbrushes. It's not my decision. It's not her decision. We have a product team that owns the product names. Right. And it becomes less controversial because it's not me who was saying no. If you want a product ad, go here.
+
+00:19:47:06 - 00:20:10:22
+不明
+The product team. Right. It's just the way it works because I don't have a hope of one day. Close your ears. Tying back creative to SKUs. Unless at least I can agree on what the product is called, right? You have to build that trust. And by the way, that holds true for campaign names and initiatives, right? It's not the buyer that decides the campaign name.
+
+00:20:10:22 - 00:20:30:55
+不明
+It's the planner that decides the campaign. Him. Anybody want to know how many different ways you can spell the word traditional was? There were a few and and we I love that this is an example I've been using for four years, and the first year it really works is that if it's a back to school campaign, right.
+
+00:20:30:55 - 00:20:53:15
+不明
+How do you write Back to school? Is it back to school? Is it BT's? We love our abbreviations at Colgate. Right? No, the planner is calling it back to school. The buyer gets to pull down the list that says back to school. There's no more freeform in our taxonomy. It's all established upstream now on paper. At the beginning it was very controversial.
+
+00:20:53:29 - 00:21:20:25
+不明
+But again, ultimately I think when you hear the way I'm explaining it, it becomes a lot less controversial. And at least you're not taking the blame. So understanding data and taxonomy ownership is super important. Creating a unified, customized data dictionary. I've heard a number of times in a number of sessions today. You know, normalizing those definitions. If I have, what we would call always an always on campaign.
+
+00:21:20:25 - 00:21:42:30
+不明
+Is that a campaign? Is that an initiative? Is that temporality? You just it doesn't matter. But everybody just has to agree going in that this is the way we're going to do it to get consistency we're using now. We're now using clarifying as a sort of workflow where the placements are built on the campaigns and the creatives are built on the creatives.
+
+00:21:42:30 - 00:22:17:51
+不明
+It's a whole hierarchy, a hierarchical approach in TER and clarifying has enabled this to to have a hierarchical approach so that we have an entire meta database that sits in snowflake of all of our metadata and all of our activations. It's a very powerful tool, because even if you're going to pull directly data from a platform, being able to have that lookup to be able to say, oh, here's where the metadata mapping is a hugely powerful tool.
+
+00:22:17:56 - 00:22:40:04
+不明
+This is not a set it and forget it process. You need to maintain data standards over time. You can start. We've started now loosening the reins a little bit. In terms of who gets I mean it literally when we launched, when we relaunched 2025, our campaigns and our placements in our audience, there were three people who had access to make changes globally.
+
+00:22:40:19 - 00:23:02:56
+不明
+Again, $1 billion in media. Three people got to make changes to the data set. We're opening it up a little bit more on a case by case basis. But ultimately the idea, as I said before, established the rules up front. What do I want to know from my brand plan all the way up front? How am I going to chase my whitening moms down on a delivered tactical execution?
+
+00:23:03:07 - 00:23:38:11
+不明
+You need to understand that process in year one, when we when when WPP signed on with Clarifai and we were at 20% compliance on campaign names, which means 80% of our campaigns in this system needed to be corrected, right? That was I don't think that's a crazy number when you think about it. If you know how these systems work, by the end of year one, which is, let's say 7 or 8 months, we finish the year at, over 95% compliance with meaning no exception reports, which then gave us the now the you know, the gumption to go ahead.
+
+00:23:38:11 - 00:24:03:07
+不明
+Okay. Now it's not just campaign names, it's placements, it's audience. And now tackling creative. So it's a huge that foundation enabled us to have the confidence that our word, the confidence to go ahead and take the next step in our journey for better metadata standards with good metadata, good reporting and analytics is easy. With bad metadata, it's impossible.
+
+00:24:03:12 - 00:24:30:48
+不明
+And there's not a lot of middle ground. We also as a team and again, it's us partnering with, primarily with, our global team at WPP, and then our regional teams at WPP. We understood the areas in which we can compromise, whether it's specific taxonomies or use of specific fields, and also understood where we weren't going to compromise.
+
+00:24:31:01 - 00:24:49:19
+不明
+You don't get to decide Canada as a part of the United States and sorry, go talk to the CFO. There are certain areas where we just not willing to compromise. We've gotten to a point where we we care globally. We care a little bit less about specific taxonomy uses. As long as it comes through clarifying, we're able to do it.
+
+00:24:49:19 - 00:25:16:37
+不明
+And by the way, I think we talked about this. Klara Biden has, integrations built. So I can actually use Clarifai to track everything sitting in campaign manager and make sure that's all compliant. And people didn't bypass. So building in our flexibility in our process and knowing what our priorities were, and we've really come a long way. We used to have multiple taxonomy.
+
+00:25:16:42 - 00:25:43:55
+不明
+Whoever did the taxonomy would come up with their own way. Even within teams. I could be looking at programmatic reports out of Europe, and the same team is doing it multiple ways. We're still here. And our 2025 relaunch, which happened in November with one single campaign named standard, I'm not sure that I still believe that we have multiple different versions of placement name because of all the different systems, but they all tie back to the same record.
+
+00:25:44:00 - 00:26:06:07
+不明
+It was a huge change. The values are established. As I said, super important values need to be owned by the people who own the values, right? It almost seems simple, but it really isn't. Everything should be linked where possible. Use it, use a process flow to understand who does what for first, who knows what, when, and get it to be captured.
+
+00:26:06:16 - 00:26:28:40
+不明
+You wouldn't expect the ultimate. The person who's putting the trafficking instructions in for a placement to know that this ties back to a whitening mom audience. It's not something you would expect them to know. We did not have incomplete governance, and now we have a much more robust governance system in place, which we continue to build on. So that's sort of, you know, and we have our official review committee.
+
+00:26:28:40 - 00:26:54:16
+不明
+Everything gets vetted and everything gets checked by a central team. Right? That's that's the story, the results. I mean, the truth is, one of the most immediate results is you're not filling out exception reports every week or you're not chasing down people more accurately to fill out exception reports every week. Right. It allows as I started, it allows the data flow to flow without human intervention.
+
+00:26:54:21 - 00:27:25:26
+不明
+It really when you bring the analysts to the table, it really enables them to have a voice and the things that they want to analyze. And again, I think even with all of our construction, we have a pretty agile global taxonomy that was always great. But so just a couple a couple quick things before we wrap up and up to questions, a couple key takeaways, number one, this is something you cannot afford to ignore, especially with this explosion of gen AI and all the exciting things that are about to happen.
+
+00:27:25:26 - 00:27:46:00
+不明
+Just take a step back and think about your data standards, your process, the collaboration that happens with your partners. But as we think about what's next, you know, Mark talked about the complexity with campaigns. You did touch on creative. I think that is one of the biggest opportunities, data standards for creative making. Sure you've got the right metadata, the right naming conventions, right IDs in your dam.
+
+00:27:46:04 - 00:28:04:19
+不明
+And with the exciting announcements that Adobe made this week about content analytics, you're going to have to have your data in order to really get the value out of those tools. The number one thing, take the time to think about this, because it's the old adage of garbage in garbage out. Especially with AI and models. Make sure that you've got the data in the right format, in the right structure.
+
+00:28:04:19 - 00:28:23:01
+不明
+You take the time to do that. You've got collaboration globally, globally, across all the folks that touch the data, which seems like a daunting task. And we'll get that get to that in a second. But this is going to be your engine. This is going to be the fuel to everything you do. I was and if you get a head start on, that'll give you a leg up on the competition.
+
+00:28:23:06 - 00:28:46:23
+不明
+So finally, just key takeaways before we open up to questions. I cannot stress this enough. It's the commitment and the drive to get a global alignment and mark said something so vital get the right people to the table. Make sure your partners, your agency partners are at the table. Make sure the analysts are at the table. Make sure that everybody that should care and touch the data standards are at the table to help drive this forward.
+
+00:28:46:28 - 00:29:03:25
+不明
+Invest in a source of truth. So a lot of the folks that we talked to, they use spreadsheets or they think that they've got this, set and standard, but make sure that you do the diligence and you invest in a source of truth, a platform that can help you get that consistency. See that collaboration and that governance.
+
+00:29:03:30 - 00:29:25:30
+不明
+I'm going to touch on the last two. Sure. As I said, you have to balance the evolution and the revolution. I think the revolution will come in at the end of the process in terms of what you can do with it, the evolution people. The change is hard. And again, I think some of the biggest change is the mindset of the practitioner that they don't get a chance to grade their own paper.
+
+00:29:25:35 - 00:29:47:34
+不明
+I mean, that's a really big change. An organization has to make. And and also as part of the process, what we ended up doing is we sat down with, multiple of our agency partners, but certainly mostly with WPP over the course of a couple days, of workshops where we actually watched all the handoffs of the whole process of the data.
+
+00:29:47:47 - 00:30:09:30
+不明
+This is what I do in Prisma. This is what I do in campaign Manager. This is what I do on meta. Each of the teams came in so we could see what we had to capture in taxonomy and what we could rely on the applications themselves to capture as well. Also, realizing that there are a lot of global differences you're going to have across the process and seamless measurement takes planning.
+
+00:30:09:30 - 00:30:28:43
+不明
+There's a line that I coined when I started working a number of years ago on AT&T. I need to spend eight months so I can answer every question in eight minutes. The only way you're going to be able to hit a button and get the answer is that there there is prep for that answer. And that takes that takes planning.
+
+00:30:28:48 - 00:30:45:50
+不明
+And there's no other way around that. There's no there aren't a lot of shortcuts. Great. All right. Well, if you'd like to stop by where? Booth 371. Mark and I are going to be there all day to day. I'll be there tomorrow. If you want to talk about Oregon Trail two, I'll be. I'll be there. But thank you all great questions.
+
+00:30:45:50 - 00:30:47:13
+不明
+Appreciate the time. Thank you.
+

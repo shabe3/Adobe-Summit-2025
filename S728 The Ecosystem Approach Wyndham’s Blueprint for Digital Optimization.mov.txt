@@ -1,0 +1,640 @@
+00:00:00:52 - 00:00:22:37
+不明
+And thank you for joining us. Bright and early. Everybody's favorite session time of 8 a.m.. Today we have a really great presentation for you on the ecosystem approach. So it's Wyndham's blueprint for digital optimization. And we're going to go through, how Wyndham leverages a heavily integrated data ecosystem, to provide an optimized digital experience for our customers.
+
+00:00:22:42 - 00:00:38:38
+不明
+I am Daniel Harvey. I'm head of travel and hospitality for Quantum Metric. Sorry, I sound like this. Two dates in Vegas trying to talk about restaurants, and I've got about half of a voice. So bear with me over the next hour. The good thing is, I'm talking the least of all three of us. So, I'm joined today by my colleague Adam Daly.
+
+00:00:38:52 - 00:01:00:43
+不明
+He's our head of engineering. And then we are joined also by Aaron Boyle, from Wyndham Hotels and Resorts. I'm going to let Erin introduce herself and Wyndham. Awesome. Thanks, Danielle. My name is Aaron Boyle. I'm the director of product analytics and optimization at Wyndham. I've been there for about nine years and I lead a product analytics, marketing analytics, digital optimization, and digital data governance.
+
+00:01:00:48 - 00:01:24:07
+不明
+For those of you that don't know, Wyndham, we are the largest hotel company, in over 95 countries with 9000 hotels. And we welcome 135 million annual customers, to one of our hotels in our ecosystem. So what we're going to be talking about more is how we at Wyndham try to use everything, that we have in our ecosystem to help make our customer experience that much better.
+
+00:01:24:07 - 00:01:49:39
+不明
+The customer is the heart of our business. We want our goal is to make travel possible for all. So how we're able to execute that efficiently. So, prior to joining Econometric, I spent my entire career, career client side. So I was 16 years in digital and customer intelligence. I actually spent 11 years with Wyndham, but was very focused on about a ton of technology I've been through.
+
+00:01:49:39 - 00:02:20:06
+不明
+I don't know how many digital transformations. And ultimately, I spent a lot of my time trying to make sense of data. And when data and systems are siloed, that can create some, some serious inefficiencies with very real impacts to, things like your time, resources and costs. We did some research recently and actually found that, the average digital team is wasting two entire months, a year on issues that have absolutely no impact to their business at all.
+
+00:02:20:11 - 00:02:36:16
+不明
+And many are spending more than two weeks just trying to actually manually reproduce issues. So this is both like surprising and not surprising to me as a person who has spent a lot of time doing this kind of work. But when you see a rolled up like that, like the impact of that in your businesses is substantial.
+
+00:02:36:21 - 00:03:00:52
+不明
+And so then as we asked leaders, you know, how are they thinking about spending and investing, going forward when it comes to technology? They're very focused on tools that are going to streamline workflows, that are going to help them basically make decisions, faster, really understand the issue faster. And so that doesn't just apply to buying new technology, or it also applies to making the most of the technology that they have today.
+
+00:03:00:57 - 00:03:28:36
+不明
+So often that means integrating. And that's where our story comes from today. So, when you integrate your technology, right, you get tangible benefits out of that. So you're getting usually faster time to identification or remediation of issues. You are getting better collaboration between teams. And as a result been more productive teams. And then in general, a better ROI on both of those platforms that you've integrated because you're leveling up those insights, you are essentially unlocking more value and more power from those products.
+
+00:03:28:40 - 00:03:41:26
+不明
+So, as I said, if we're going to prove out today, Aaron has some great stories. Then we're going to do like a little bit of show and tell demo from Adam so you can actually see what it looks like. Hopefully leave with some really solid, understandings of how you can do some of this yourself.
+
+00:03:41:31 - 00:04:05:08
+不明
+But I'm going to hand it over to Aaron to do a little bit of foundation setting, share a little about the, the challenges that you face, that one of them that I can started her on her journey today. Awesome. Thank you. So raise your hand. Who's felt like this poor woman on the screen before? Well, I'm trying to answer an analytics question from your senior leadership at eight a am on a Monday morning, and you're like, I don't have the brainpower to do this or the capability to do any of this.
+
+00:04:05:13 - 00:04:25:31
+不明
+So I feel like this is me on a daily basis, sometimes hourly, sometimes basis. But some of the things that we at Wyndham before we went into our integration with quantum, we were getting questions that we just could not answer. So some of them was what content is important to a user? Some of the other ones around.
+
+00:04:25:31 - 00:04:48:10
+不明
+Is the new design user friendly? Is it? Are we improving the experience? A lot of the other ones are around. Does photos make a difference? Do our photos important? What copy? And most importantly, it's. Tell me why something's happening. We were so good at telling what was happening, but we couldn't really explain the why something was happening.
+
+00:04:48:19 - 00:05:07:48
+不明
+So why is the front end not doing something that we're expecting it to? Was it due to a backend issue? We can have that full view story before. So these were a lot of the dreaded questions that start us on this path. Over the last three years to try to help answer this question and most importantly, the tell me the why.
+
+00:05:07:53 - 00:05:32:12
+不明
+So going into the Wyndham toolbox, this is our digital tool stack that we have. So just going through we have imperative, which is our customer data platform or our CDP. We have user testing for our UX research medallia as our voice of the customer. Datadog for that monitoring and API. Tool that we have and then analytics and Adobe Target for AB testing and optimization.
+
+00:05:32:16 - 00:05:52:24
+不明
+With all of these, that's a lot of tools for my team of at the time. Three. To help manage and understand the data, to tell that story to our senior leadership of why something is happening. So there is still the gap. So I'm going to use the Grand Canyon as an example. We're in Las Vegas. So the Grand Canyon was the gap that we were trying to fill.
+
+00:05:52:26 - 00:06:15:48
+不明
+We couldn't get all the data together, but with quantum we were able to integrate with everything. So I'm going to go back because that was the Hoover Dam, not the Grand Canyon, but I swear I'm smart. The Hoover Dam, obviously, when we were going through all the different tools, Datadog saying one thing to targeting another thing, the voice of the customer saying a completely other thing.
+
+00:06:15:48 - 00:06:45:36
+不明
+And we couldn't get these insights together. Quantum allowed us to break the Hoover Dam, and now the insights are flowing once we started to integrate with all these different tools. So once we integrated with all six, we have more insights than ever before. We're able to tell that true, one story from a digital perspective to our senior leadership as a holistic team, instead of this owner of this tool says this versus I'm saying that, and it's made us more collaborative and more, efficient and trying to improve that customer experience.
+
+00:06:45:41 - 00:07:05:39
+不明
+Like I said in the beginning, the customer is the heart of our, business. We want to make that customer experience from start to finish the best. And we know the the first touchpoint is the most important to a customer as well. So we need to make our digital platforms as that first touchpoint. For some customers, the best it can be to have the best journey across the board.
+
+00:07:05:43 - 00:07:28:42
+不明
+So. Oh that's me. Yep. You got it. So we're going to dive, a bit deeper now into each integration. We're going to start with application monitoring. Application performance monitoring. So we may say APM because it's less words. And observability platform. These help it and engineering teams monitor performance digital platforms. But they typically focus heavily on the back end.
+
+00:07:28:42 - 00:07:54:00
+不明
+Right. So they're looking at things like or they're watching for issues across like servers, APIs, services. And while they're incredibly helpful and important in diagnosing what's happening, the challenges is that they're often pretty noisy. So it makes it kind of difficult to figure out where teams should really focus how to prioritize things. And then it's also usually not easy to understand if that backend issue is actually having an impact on your front end customer experience.
+
+00:07:54:05 - 00:08:15:58
+不明
+Vice versa. Right? How many times have you found an issue in Adobe Analytics, and then you have difficulty tying that back to a root cause? And so that's where integration comes in really handy here. If you integrate, econometric in your APM tool, you can actually link directly between the two platforms. So you can easily pivot between those back end impacts and the actual impact on the front end.
+
+00:08:16:03 - 00:08:38:08
+不明
+You can then as a result, right, quickly and easily identifying if that backend issue is having an impact on your customer experience. And then in addition, quantify whatever that revenue impact is. So the, the ideal then, the result. Right. You are identifying what's happening easier understanding if it actually matters and then and ultimately fixing your issues faster.
+
+00:08:38:13 - 00:08:58:25
+不明
+Thanks, Daniel. So this is our most recent integration that we just completed with quantum. And it's tying into Datadog. So that APM tool that we have to be fully transparent, I do not own Datadog, so I can't talk about anything on the Datadog realm, but bringing it into quantum has allowed us to get more insights from just the digital product standpoint and for analysis.
+
+00:08:58:25 - 00:09:19:21
+不明
+So our goal at Wyndham was to deliver a seamless digital experience, to improve that customer satisfaction that's going to be probably on every slide. I'm going to remind you what our goal is here. But the challenges that we were having is that there was no smooth journey across all of our digital platforms from, front end frustration and then to the back end issues that we were trying to track.
+
+00:09:19:26 - 00:09:36:36
+不明
+So like I said before, one of the challenges of is the front end working correctly or what's causing the front end to not have the goal that we're trying to obtain? So this integration is allowing us to try to answer this challenge that we have. So the resolution we were integrating with quantum metric, and Datadog.
+
+00:09:36:36 - 00:10:00:12
+不明
+So this approach allowed us to have more insight into that back end monitoring an observable. Well, observability, into, quantum metric around that back end system. So what the what everything did it gave us the best of both worlds. So I am a big fan of quantum metric. I think they do great work with as far as real time customer qualitative data.
+
+00:10:00:12 - 00:10:18:47
+不明
+They have the session replays, they have the interactions, and they have all this insight that we're able to capture from that front end experience that no other tool can at the same time give. Datadog is really great, providing the deep visibility into back end performance tagging and infrastructure, which is really important to the IT team at Windham.
+
+00:10:18:52 - 00:10:43:08
+不明
+So what we did is we just said, let's make them work together to make one Windham Mega tool here. So we have a portion of coming from Quantum Metric, a portion coming from Datadog. So what they each do really well combining them to make this best of both worlds approach for Windham. So we're able to connect the dots by doing this from the front end to back end is the back end issue impacting the front end experience as a as a front end experience that might be causing some issues on the back end.
+
+00:10:43:08 - 00:11:10:54
+不明
+And it's allowing us to, create a faster resolution and prioritization with the team. Because I don't know if you guys have the same pain I feel sometimes of trying to get tickets prioritized in a backlog to get fix from a data perspective or from a digital perspective. But we're able to give this prioritization framework around, okay, let's focus on this backend issue because it's actually impacting the front end user experience to make that better UX experience for everyone.
+
+00:11:10:58 - 00:11:32:13
+不明
+So what this, integration looks like is we're able to send the quantum metric session replays directly into Datadog. So I don't know if you can see on the bottom there's a blue square. That is the highlighting of the session replay. With quantum, we have a 100% capture rate of all visits to the site. So we're able to get a session replay tied to every error, every event happening on the back end.
+
+00:11:32:13 - 00:11:50:11
+不明
+So our IT team can also see the session replays, just like my team can see in quantum metric without having to actually go into quantum metric, it will deep link them into this exact, session replay tied to this event or error. The next thing we have are there's these dashboards that we have for a DevOps perspective.
+
+00:11:50:11 - 00:12:14:09
+不明
+So giving that behavioral analytics signals if something looks down we can all the IT team can look into it and see what's happening on the back end. And kind of a back and forth communication between the tools. So what this has allowed us to do, integration gave us the full stack insights, with truly record breaking, resolution times and quicker turnaround times for long standing issues.
+
+00:12:14:24 - 00:12:40:24
+不明
+So there's three themes. I'm not going to read all of them, but one of the biggest ones that we wanted to highlight is that we have accelerated troubleshooting by 50%. So we have that's huge for us. Our teams run really lean. And trying to get issues resolved almost took an hour. Now it's taking close to 30 minutes, even less than that, depending upon the insights we're able to get from the session replays and from the signals from quantum.
+
+00:12:40:24 - 00:13:01:48
+不明
+So obviously there are some times we'll take a little bit more effort, but on an average time that meantime resolution cut by 50% is a huge win for the team. Another thing we were able to find is and again, I'm not an IT person. So these polluters were new to me. I didn't understand what polluters were. But there are polluters that keep the site and hit 45,000 console errors a day.
+
+00:13:01:53 - 00:13:19:08
+不明
+There is no way for the team to identify them, to figure out how we can stop those from happening. And this integration allowed them to understand what they all were. They were able to prioritize and fix them. And all of those, 45,000 council errors have been fixed in less than 30 days. So this is huge wins for us.
+
+00:13:19:08 - 00:13:37:37
+不明
+And just giving that full stack view there, there's another thing that we, I personally love the most about integrating. I'm an Adobe user through and through. We have Adobe Alerts set up an every metric, every event in our tool. We also have Datadog alerts. There were times where I would say, hey team, I got this Adobe alert.
+
+00:13:37:46 - 00:13:58:25
+不明
+They would say, I didn't get a Datadog alert, so we're not going to look into it. So this now we have quantum metric alerts. Now the unified teams have one source of truth of what alerts we need to look into. So there's no fighting back and forth around. I see it here. I don't see it here. It's that more unified team experience of getting the alerts from quantum metric.
+
+00:13:58:30 - 00:14:17:22
+不明
+Instead of going back and forth between Adobe and Datadog. So we're starting at the most technical of tools in the in the Windom toolbox. And I lead an R&D team, and I have engineers that work on my team and use products like this, and they're often kind of distracted by things like I'm looking at log entries that happen often.
+
+00:14:17:22 - 00:14:35:22
+不明
+I'm looking at servers that are hot, I'm looking at scaling things. And even at quantum, with the product that we build, we have to build in a little bit of, making them understand how those back end things actually have a customer impact. So I'll walk through how when them does this and how all of our customers that use an APM integration like this do it.
+
+00:14:35:27 - 00:14:54:01
+不明
+So I'm here in Datadog. Aaron already mentioned it. I can click this session replay link and move directly into Quantum Metric. When I get there. You can see the Datadog session ID in the Quantum Metric replay. You can also see that this is a two way integration. So I can move back from a quantum session replay into Datadog.
+
+00:14:54:02 - 00:15:11:19
+不明
+The other direction. If my analysis started in quantum. But if we come out here to the replay, we can take a step back and just talk about what quantum metric does, because we haven't we haven't done that yet. So our goal, Daniel mentioned it. Our goal is to get you to the why behind why things are happening on digital.
+
+00:15:11:24 - 00:15:31:44
+不明
+And, we we talk a lot, especially at a conference like Adobe Summit about trailing metrics. So we're talking about revenue and conversion rates and task completions and that sort of thing. But when one of those things goes wrong, where do you go to figure out why that thing is going wrong? And that's the place where quantum metric wants to live for you.
+
+00:15:31:45 - 00:15:49:31
+不明
+So I heard someone yesterday at the booth. One of our customers describe us as like the the diagnostic tool that you plug your car into when your car stops working. And I was like, okay. Like it's it's pretty good. I think we do more than that. But it's a good explanation of like that car stopping working for you is kind of like the trailing metric.
+
+00:15:49:31 - 00:16:15:13
+不明
+And it could be 20 different things that cause it to stop working on a metric and help you figure out why. So the first step to getting to that, why is one line integration of our SDK. It's available for web kiosks, iOS, Android and Flutter. You make that one line integration and immediately we're gathering every visitor to your site, every visit they make, every page they view, everything they click, every form they fill out, every API call they make.
+
+00:16:15:18 - 00:16:33:14
+不明
+And I stop here at the replay because this is the best place to see all of it and how it comes together in one place. Down the left rail, I can see all the pages viewed and events and things they clicked the same across the bottom and this is like a video player. I can click play and I can watch that user as if I was sitting there next to them.
+
+00:16:33:14 - 00:16:51:42
+不明
+Use the application that I built. So this is incredible for building empathy for our customers, understanding what it looks like for them to use the experience that we've built. But instead of watching it and using 17 minutes of our time here in this case, for this replay, we've built, with generative AI, something that we call Felix. I.
+
+00:16:51:46 - 00:17:09:15
+不明
+So I can click that little fox icon at the top of the page. And in just seconds, Felix AI is analyzing everything that I just mentioned that we collect in that data set, and it's telling me why the user was there. So why did they go to Wyndham in the first place? What were they trying to accomplish? And then did they reach that goal?
+
+00:17:09:19 - 00:17:25:40
+不明
+And if they didn't, what's that in their way along the way? So in this case, they were trying to book, super eight in Winnipeg, and they had a problem with the search button. And if I look in the left rail over here, you'll see if I get this where again? See, in the left rail over here.
+
+00:17:25:40 - 00:17:45:42
+不明
+I'm seeing API timeouts. There's. And put the whole picture together. We're looking at a problem on APM with some back end things. An API is now failing, and all the customer knows is when I click search, it doesn't work for me. So they're doing what we call rage clicking. They're clicking search. And it's just not happening for them.
+
+00:17:45:46 - 00:18:06:38
+不明
+And one more thing that I can do from Felix directly here. If we go to the bottom right corner here, there's a little button called quantify touchy. But there's a button there called quantify. I can take the issue that Felix identified and then I can look at it in the aggregate. So this is micro. The replay one session I can go aggregate and look at across all my sessions.
+
+00:18:06:43 - 00:18:27:57
+不明
+And I can see how much that single issue was costing Wyndham's business. Now you can also see a spike here in the middle. That's when something was going wrong on the back end and our API timeouts were up. That search button was being collected more often, and we've obscured all of Wyndham's actual financials here. But I promise you, under the dollar bills flying away emojis.
+
+00:18:27:57 - 00:18:49:30
+不明
+There's there's dollar impact of this issue on their business. So we've gone all the way from sitting in a technical, back end oriented product all the way to seeing how that back end problem impacted the user. And then to quantify the business impact. That's what we call the quantified Y at quantum. The true. So let's do the next one.
+
+00:18:49:35 - 00:19:13:37
+不明
+Or the next two are going to be quicker hits. We want to make sure we dedicate the time to do we target analytics. But customer data platforms, sorry. Again. They collect customer data from various sources, create a unified profile, which is then used for deeper customer analysis or marketing activations. Sometimes a challenge with that is that can be a little challenging to activate, but also to correlate with digital behaviors.
+
+00:19:13:42 - 00:19:33:25
+不明
+You can bring clickstream data in, of course, but sometimes the sheer volume of clickstream data can make it really difficult to understand. Like what? Within that, yes, that is actually important. What you really need to focus on and what's going to actually have an impact that matters. Where with quantum, you can ingest data, your offline data from a CDP or a data lake, other data warehouse.
+
+00:19:33:30 - 00:19:56:35
+不明
+Stitch that with your digital session data and just lend additional context to your user behavior so it can help you gain insight into, omnichannel experiences. And then ultimately, you can use that then as an input into your, orchestration of journeys. A lot of our customers will use like call center data, in store data you could do like LTV customer segmentation data.
+
+00:19:56:40 - 00:20:17:54
+不明
+But every travel and hospitality brand has a goal to shift more bookings direct to their direct channels in a way from third parties. So we actually started with, ingesting some of Wyndham's reservation data as well. Erin talked a little bit about how that went. Yeah. So we took our, reservation day, like Daniel mentioned, into quantum metrics so we could look at where our customers were booking.
+
+00:20:17:54 - 00:20:40:16
+不明
+Were they booking direct through a call center, digital or through OTAs or online travel agents? So what we were able to see is we identified differences in the browsing behaviors between those that shopped direct and then or those that booked ultimately through an OTA. So we have the journeys on the left through quantum, where we can see where the customer is at the endpoint, how they're navigating through the site.
+
+00:20:40:21 - 00:20:59:20
+不明
+But then we also have on the heatmaps you could see on the left that's the OTT bookers. They're more just looking to browse. They were looking at the pricing. They weren't really clicking our CTAs to get to the rooms and rates page to make that booking. But on the right you could see the people at Booking Direct were more likely to hit that book and pay later button.
+
+00:20:59:31 - 00:21:20:12
+不明
+That brings you to booking. So what we identified is that OTT bookers were more just browsing our website to shop around, ultimately going to an OTA to book, probably lower price if there is. OTAs have discounted rates. But we're able to identify this through this, bringing our CDP data into quantum to observe this different behavioral shift that we didn't see before.
+
+00:21:20:16 - 00:21:47:40
+不明
+So the the mechanism that, that Aaron is talking about for bringing in offline data can be used for more than, than just booking. That's her use case. Another one that we've seen people, use this for is to lower volumes of contact center. So calls and chats that are going into a contact center, the way that we do it is we bring in chat and call data into quantum, and we can marry that information with the sessions that generated those calls and chats.
+
+00:21:47:40 - 00:22:09:07
+不明
+So this boils down to there's huge volumes of call and chat reaches out to, support centers because the digital experience is not functioning like someone expected. So for example, how many of you have ever called into an airline or chatted into an airline because you needed to rebook your flight? You needed to change your seat. You needed to get reimbursed.
+
+00:22:09:09 - 00:22:30:58
+不明
+You know, that's the kind of thing that the digital experience didn't have the ability for you to do that. And so you had to reach out. So we can quantify the issues that are leading most often to calls and chats going into the support centers. And we can tell you the ones that you should work on so that you can have the biggest impact on reducing those calls, which is a huge cost driver for the business.
+
+00:22:31:03 - 00:22:54:43
+不明
+User experience research tools. So those help UX design teams, collect qualitative feedback on digital products and experience. So helps get early insight right into new experiences. It's usually on prototypes or wireframes. They don't have an analytics layer behind them. So then on top of that you have that challenge of watching and listening to all those individual sessions and then manually kind of collating insights out of that.
+
+00:22:54:43 - 00:23:19:06
+不明
+So it's time consuming. Distilling those schemas isn't always easiest. So an integration with kind of metric actually helps. You can expedite and simplify that analysis as you turn that qualitative into quantitative data. And then ideally you're validating your design decisions even faster. Yeah. So what this what. Thank you. So we added quantum metric session replays again into user testing.
+
+00:23:19:06 - 00:23:38:42
+不明
+You can see this is a theme for how I like to integrate. First is always bringing the session replays in. But we were able to get quick access. And for a UX team that does user testing as a team of one for our entire company. So helping her try to expedite these analysis sometimes would take her over a month to run a test for two days, analyze all the information, give it to a report.
+
+00:23:38:42 - 00:23:57:06
+不明
+So me on the optimization team could take that insights, then create a strategy. So there was a lot of work for her to do. So adding in this quantum metric session replay has allowed her to expedite that analysis a little bit more. So as you can see here on this replay, that step three of I have terrible I say I think it's 25.
+
+00:23:57:10 - 00:24:23:11
+不明
+They that's the prompts from user testing. So we she's able to watch one session replay that is able to then give her more insight into a macro level, experience of how, let's say, 10 to 20 users were doing on the UX test. So that we then created a dashboard for her. So we had the user testing, session ID so that we can take at a holistic level.
+
+00:24:23:11 - 00:24:41:43
+不明
+How did the test that Judy was her name shout out to Judy performed on her user testing. And it's all at a macro level. So of the 20 people, how many had this error or this event or had this back and forth, flow within the user test, and so she doesn't have to sit through and watch the macro level trends.
+
+00:24:41:43 - 00:25:03:02
+不明
+She can just go into the user testing and get more of those specific questions that she's looking for, instead of then rewatching everything again and going through and trying to piecemeal everything from a macro level across all the all the users she tested with. So I mentioned that my background is in R&D and engineering. So I know personally that engineers never make mistakes.
+
+00:25:03:07 - 00:25:24:55
+不明
+But just hypothetically, if this new experience that we're testing and user testing, isn't performing well because there's a bug that was introduced, this is a great time to find those issues before this new product goes to a wider release, to a bigger audience. And so we're tracking, just like I mentioned things before, we're tracking these issues that happen in the user test segment.
+
+00:25:24:55 - 00:25:49:48
+不明
+So we can figure out before that gets to bigger audiences, polish up the product and make it what it should be. So how about VOC risk the customer? Platforms collecting to analyze customer feedback. This service, insights can be extremely valuable, but the feedback is usually the vocal minority. Typically a very small portion of your user base, not always representative of that broader customer experience.
+
+00:25:49:53 - 00:26:13:39
+不明
+It's also frequently in the extremes. It's super positive or more likely super negative. Sometimes it's a rating with like zero context whatsoever and no kind of verbatim. And then like my favorite the ever helpful your site sucks. With like no actual actionable kind of information in there. And it's often one of the biggest culprits of those time wasters that I talked about earlier.
+
+00:26:13:44 - 00:26:32:19
+不明
+That impact your efficiency, unless you integrate with quantum metrics. So when you do that, you can understand exactly what your customer has actually experience. And then you can also quickly quantify how many are actually impacted by that. So is it like one person who doesn't really know how to use a computer, or is it 10,000 people and you really have a problem?
+
+00:26:32:24 - 00:26:57:06
+不明
+And then you can also use our gen AI summaries, to help essentially increase visibility into these issues. For folks that aren't in the digital team of your team, you can send that out, help give them insight into kind of the challenges that those customers are experiencing in a way that isn't super data heavy. Yeah. So for Windom Medallia, digital before was the most manual process I think I've ever had to deal with.
+
+00:26:57:10 - 00:27:21:00
+不明
+We had a team of one team of one again, to look at all of the feedback we were getting from, our customer feedback tool, and they would categorize into a digital bug product. Now, engineers are always right now, a digital bug that goes into the backlog or a UX opportunity that we could take with the UX team and try to do some optimization to try to figure out how to make that customer experience more important.
+
+00:27:21:05 - 00:27:42:25
+不明
+So it was a very retroactive experience. There was always a two week delay, very manual, limited view into what the site sucks means, or if they just gave us a bad rating or a good rating, but didn't give us any of that contextual feedback. My dad has always told me that feedback is a gift. If it's valuable and important and has more insights that you can action off of.
+
+00:27:42:30 - 00:28:08:01
+不明
+So what integrating with me or with Quantum Metric has done, we're able to get a more detailed view into the users comments. Because we added, again, this actually really links into our, daily exports from Medallia. And it takes the gassing out. So instead of this site sucks, we're able to then walk through and watch that session that the user was performing, because the session replay link is tied to that feedback.
+
+00:28:08:06 - 00:28:25:13
+不明
+So you can see they had this session replay link into Medallia for the voice of the customer team that owns Medallia tool. But me, selfishly, I'm lazy. I don't want to go into more tools and I have to. So we added the session replay links into our medallia readouts. But we also added in that field like say AI capability.
+
+00:28:25:13 - 00:28:49:18
+不明
+So I don't have hours in my day to watch session replays to try to figure out what the needle in the haystack was that the customer was experiencing to give us this feedback. So we added in the field, like, say, AI capabilities so that we can now just read this five sentence line, we can get some insights, and then we can able to quantify how many people also had a similar component within quantum metric.
+
+00:28:49:22 - 00:29:08:46
+不明
+So this has been super valuable for us because now a manual process of two weeks now takes us my morning coffee at 8 a.m. on a Monday to read through all the comments from over the week in about 15 minutes. So a little bitter light reading for your coffee on a Monday morning is a lot better than sitting through and watching through hours and hours of replays.
+
+00:29:08:51 - 00:29:36:30
+不明
+So what we're able to do is we actually integrated this with our call centers. So how does this work outside of digital? We have a member services team that are for our loyal customers, and we're able to give them this medallia readout with the Felix AI capabilities. And they're able to help improve the customer satisfaction. So before they were very retroactive, it would take them almost a week to reach out to a customer if they're experiencing an issue, to try to resolve that issue.
+
+00:29:36:41 - 00:29:53:47
+不明
+And at that point, it's almost too far gone. A week is way too long to try to fix an issue that a customer was having. So now with this Felix AI capability, they're able to get the feedback automatically as soon as they were submit submitted, and they could see in two seconds by reading what that customer was happening.
+
+00:29:54:00 - 00:30:20:04
+不明
+So now we're being more proactive or reaching out to customers at the exact time we're getting that feedback and trying to make that resolution a little bit more quicker and more proactive to help improve that customer satisfaction in the customer experience. So what this did was it improved our loyalty bookings and our digital direct conversion. So instead of, you know, that user just going to book an OTA or go out calling the call center, they're able to now fix the issue with member services.
+
+00:30:20:09 - 00:30:42:27
+不明
+And they actually booked more direct. So we have more increased conversions, which again ties back to our goal of digital direct contribution. We want that to go up. So this isn't just for our digital people, but also for call center. And specifically when Wyndham, our member services team. So Erin showed the path from Medallia, into quantum to do this, let's look at another path for the same thing.
+
+00:30:42:32 - 00:31:08:37
+不明
+I get, I get a ping on slack that a customer left one of these. Your site sucks service. Your site sucks is like the survey version of like, a drive by middle finger. You know? Yes. And so they didn't use their words here to tell us what is wrong. But just like Erin showed in Medallia right here in slack, I got the Felix summary next to the survey information, and I've got a session replay link, so I might be done reading that.
+
+00:31:08:42 - 00:31:28:26
+不明
+Felix, I summary, or I might want to dive all the way into the replay. And if I do that, what I got here is more rage clicking. So there's rage clicking here on this backdrop and this time instead of, from the Felix side, we can see how I can quantify this issue from the left realm of quantum.
+
+00:31:28:26 - 00:31:44:13
+不明
+And that lets me pick any item that's happening in the replay. In this case, it's an error, but I could pick an item that was clicked, a page that was viewed. Anything there, those data points that I mentioned that we gather and I can see more like this. And from here I would do the same thing that I did in the APM flow earlier.
+
+00:31:44:13 - 00:32:00:29
+不明
+I can quantify this issue. How many other people are experiencing it, how much it's costing Wyndham's business, and I've turned what was a useless survey into something that'll save a bunch of other users who are having that same issue that this survey respondent had.
+
+00:32:00:34 - 00:32:19:00
+不明
+Okay, I don't need to tell anybody in this room when target is most likely. But I'm sure many of you have been in a situation where you can't really explain the result of a test. And a lot of that is from. Right. It's hard to anticipate every way that somebody may engage with a new test experience.
+
+00:32:19:04 - 00:32:42:43
+不明
+And so making sure that you have everything tracked before you launch that, can be really challenging. And so sometimes your target reporting your A35 and. Right, they'll have some gaps in there. And then sometimes there's just some things that are too hard to honestly, analyze in those reports. And so if you integrate with kind of metric, we have some incremental features that can help you do more robust analysis around that.
+
+00:32:42:43 - 00:33:04:03
+不明
+So we've got, you know, session replay, as we've talked about rate heatmaps. They can help give you that additional insight into, understanding exactly how people are engaging. So you don't have to come up with like a list of 20 hypotheses and then try to put that into your backlog again. And then on top of that, too, we have, the capability of auto capture and then tag loss eventing.
+
+00:33:04:03 - 00:33:27:02
+不明
+So if you do launch and you don't have tracking in place, you can actually still capture that data after the fact. And you can basically, essentially, if you didn't anticipate something that's launched, still be able to answer those questions and get insight into your testing experience. So this is our, continuous product research and optimization workflow that we have at Wyndham.
+
+00:33:27:07 - 00:33:44:52
+不明
+So I'm sure you guys all know this, but there's a discovery phase, the ideation. So building what that strategy is the development of a test analysis of that said test. And then you can either route to the test is done. We or we want to iterate, or we can implement into the product fully. So these are just some quick goals.
+
+00:33:44:52 - 00:34:05:46
+不明
+We have six goals for digital optimization at Wyndham. A lot of them again ties back to the digital direct contribution. Increasing conversion, increasing revenue. You probably all have the same exact goals that we have. And this is what we try to frame all of our testing to. And we have a rice model that we're able to utilize to help prioritize those tasks with our testing partners.
+
+00:34:05:51 - 00:34:26:03
+不明
+So going into the discovery phase, I'm just going to go through an example. This is my bread and butter butter I love optimization. If you can't tell by more of my excitement of how we used our, quantum, this is the first thing we integrated with quantum, so we can get more insights for testing. So our current state and this is just an example of our property details test.
+
+00:34:26:07 - 00:34:42:48
+不明
+You can see on the left that's our home page here on property details. And we were trying to figure out how we can increase people to go to the next page of rooms and rates. We know the highest drop off rate and our flows are from property details to rooms and rates. So how can we try to figure out how to get more people down the flow?
+
+00:34:42:55 - 00:35:01:26
+不明
+When you get people down in the flow, we can go to the next issue to try to get them to convert even more. So this is a true test around, page progression and getting more customers in the flow. So what we're able to do, and we took and there's an opportunities tab in quantum, which I love so much because they highlight opportunities that they have.
+
+00:35:01:26 - 00:35:19:28
+不明
+And then they add in a revenue impacted number to there. So we can say this opportunity has this much revenue tied to it. So that also helps when we're trying to do prioritization of different strategies. Which ones do we want. Because we have this revenue tied to it. But from here we can look at interactions.
+
+00:35:19:28 - 00:35:40:16
+不明
+So this is a terrible screenshot. But I'm so sorry. But you can see how longer property details pages. You can see at the top is that red to the attention was so high in the top of the page. That dark purple? I hate that color within this screenshot, but you can see that only 0% of people scrolled 20% down the page.
+
+00:35:40:21 - 00:36:01:30
+不明
+That's terrible. 20% down the page. You don't even get to the featured amenities on that screenshot on the left hand side. So all of our information around check in times, the overview of where the hotel is, the maps of the area, the featured rooms and rates that we have all below the fold. 0% of people were seeing it.
+
+00:36:01:35 - 00:36:23:42
+不明
+So we want to figure out how we can bring this information up. So using quantum metric of tools around more interactions with heatmaps and just, you know, where people are engaging with on the site, we're able to come up with, areas of things we want to highlight from the key importance that users are looking for. So this is the ideation page that we came up with.
+
+00:36:23:47 - 00:36:42:03
+不明
+Isn't that design cool? The half info, half photo on our screen. This was one of the tests that we loved. We were able to take those insights. We brought up information around the check in time, check in dates, the featured amenities, and just certain elements that yes, we're looking for. So we basically just shrunk that home page here.
+
+00:36:42:03 - 00:37:02:42
+不明
+I brought the important information up that no one was seeing before, and now 100% of customers were seeing this information. So during the development phase, this is where we use content a lot. So we make sure we always create test segments. So we will test will create segments for the variant and the control. And then we'll then build it into an AB testing dashboard.
+
+00:37:02:42 - 00:37:20:17
+不明
+So during a test we can see how each variant is doing in our key metrics. So this is just an example of one of our most recent ones. Just allowing us to monitor in real time how our test is performing while it's live. So we don't have to wait until the test is over to see how things are doing.
+
+00:37:20:22 - 00:37:37:10
+不明
+But I'm sure you're going to be shocked when I say this. This test lost. We at Windham were to bet money that this test was going to win. We said we don't even need to test. Let's just implement. This is great. But it wasn't. It lost. It was, there was no, progression down to the flow.
+
+00:37:37:12 - 00:38:01:19
+不明
+It was literally negative and everything except for one metric. Out of quantum, we're able to see that there was an 18.9% lift in the photo carousel, clicked button. If we didn't have one it integrated, this test would have been done. We would have buried it, said lost. Let's try a new strategy. But with our integration with quantum, we got that key piece of qualitative data that we wouldn't have gotten elsewhere.
+
+00:38:01:24 - 00:38:19:35
+不明
+So what this meant and I will go to the next page. You can see the heatmaps, the control on the left versus the variant on the right. They were customers were going back and forth on both arrow carousels. So what what we're, speculating here is that once we shrunk the image, we didn't shrink the arrow sizes on that photo.
+
+00:38:19:49 - 00:38:36:29
+不明
+Now that it's all in one eye view, the users don't have to kind of swivel their heads to see the arrows they were going through and clicking back and forth on those photos. So that question, that dreaded question I had earlier, are photos important? This would prove out. Yes. They have this kind of metric, heat map that we have here.
+
+00:38:36:34 - 00:38:57:06
+不明
+So what this also is telling us is that users were not truly, focusing on that search rooms and go to the rooms and rates page because the arrows were almost distracting the users from going through the key. CTA here. So what we're able to do is we on the right is the iteration that we took from this quantum metric, qualitative insight.
+
+00:38:57:10 - 00:39:12:56
+不明
+And we just put a little camera icon with one out at 23 on the bottom. We got rid of the arrows and we're like let's just leave it on the bottom. Maybe this will help users progress a little further. So again the integration or the iteration of this test to see if it will prove out the increase in conversion.
+
+00:39:13:01 - 00:39:32:17
+不明
+So good and bad news. I love when tests, when I also love when tests lose because we're able to get some more insights here. But from this test, we saw that there the repeat visitors had an increase of 4%, in revenue at 91% confidence. So if you're a optimization person in this room, you know, that's a pretty good result.
+
+00:39:32:22 - 00:40:00:22
+不明
+91% confidence is kind of what we aim for, the 90% threshold. But what this means is that the repeat users really enjoyed this experience. The new visitors did not. So what we're taking back here is, okay, what do we need to improve on for the new visitors? So again, going back into quantum metric and user testing, trying to find that niche thing that that new visitors are looking for so that we can improve this experience for all of our customer base at Wyndham.
+
+00:40:00:27 - 00:40:23:56
+不明
+So Aaron talked about how how you can use dashboards to kind of report on A versus B and experimentation. And that's kind of like the, the trailing metric that I talked about before. It's like, did this experiment do better or worse? But one thing she was saying in there is like, there's a better or worse. And then there's all the minutia within that page that explains why it might be doing worse.
+
+00:40:23:56 - 00:40:50:15
+不明
+So testing is is such a experimentation is such a visual, visceral thing. She's talking about redesigns and re shifting things around the page. So we built an equally visual way of analyzing your page. And she's alluded to it to a couple times. It's called interactions and quantum. With interactions I can draw a box around any part of the page that I want, and I'm analyzing users who interacted with anything within that box.
+
+00:40:50:20 - 00:41:09:48
+不明
+Now, in Erin's case, she's going to she's going to analyze those users through the lens of booking, because that's her ultimate kind of like success of this flow. And she can say within this box. So she's looking at, say, the image carousel that she was talking about before. Are they getting to booking more or less than they did before on the image carousel?
+
+00:41:09:48 - 00:41:30:47
+不明
+And that's how she can get to the minutia to say, yeah, the test isn't doing as well. But within this variation, the actual image carousel is leading to better downstream conversion, better booking. And she can also, to compare left versus right, she can split this view here. She talked about building out her segments for a variation and B variation.
+
+00:41:30:52 - 00:41:49:03
+不明
+She can do the same thing that I just mentioned, draw her boxes on page and then compare left versus right right in the same view. And most importantly, she's doing it all right within the page that she's used to working in every day. This is this is her job. Like making sure that this product page works really well and she's comfortable with it.
+
+00:41:49:03 - 00:42:14:12
+不明
+She's not working in a dashboard staring at a stat or a chart. About analytics. Okay, that's a very much at least, Adobe Analytics. So again, not going to explain this one. I used Adobe Analytics for 16 years. I was just on a tour. So many never forget them for sunsetting ad hoc. Right. Like I lived in Adobe.
+
+00:42:14:16 - 00:42:31:50
+不明
+It was critical for me to be able to do my job. Well, but that doesn't mean that it was perfect, and doesn't mean it was the only thing that I used. So typical challenges that we often see, people faced with Adobe Analytics are that it's, it's usually good at explaining or kind of identifying what is happening.
+
+00:42:31:55 - 00:42:55:52
+不明
+But not always why it is. Data isn't real time, but analysts typically find themselves, using it for use cases where real time would be really beneficial. So things like live monitoring for, you know, site issues, you want to know if conversion is down right now, not if it's down, you know, 90 minutes ago. And then it's also just generally, you know, resource intensive to implement and maintain properly.
+
+00:42:55:57 - 00:43:18:43
+不明
+So quantum metric actually offers a couple of different ways to make that a little bit easier, help you unlock some more power from Adobe Analytics. For when you can send our data into Adobe itself, which can help you add that additional context, into your analysis. Better understand that. Why within Adobe itself, things like rage, clicks and errors, you can also capture the session ID itself.
+
+00:43:18:48 - 00:43:50:33
+不明
+So you can then easily pivot from Adobe into quantum. Really understand why something is happening in real time. And then again, that same auto capture and trackless eventing that I mentioned is helpful with target. It can also help when maybe you're struggling a little bit with your Adobe Analytics implementation. So, you know, think about like when any of our breaks and now it's full of unspecified or maybe, you know, product team released a feature and forgot to ask you for your analytics requirements or when you typically ran into was, you know, there was a project that had hit a deadline and had to cut scope and analytics was
+
+00:43:50:33 - 00:44:18:03
+不明
+asked to be a fast follower. You can essentially always make sure that that that data is there. So you're fortifying your data foundation. You know, things aren't falling through the cracks anymore. You really don't need to say, I don't know. So it's a kind of a nice complement to your interview analytics. Implementation. Awesome. Yeah. So the behavioral analytics frustrations, signals that we get from quantum or what we primarily use in our Adobe Analytics, workspace and different analysis.
+
+00:44:18:03 - 00:44:38:24
+不明
+So we're able to add in, those experiences around rage clicks or if there are any back end errors that we don't see in Adobe Analytics, but we get in quantum, we can bring it back to try to do a little bit deeper dive. Again, that full stack view is kind of what we're looking for. But you can see on the back, top left, we're able to break down rage clicks by the session replay URL.
+
+00:44:38:24 - 00:44:57:27
+不明
+Again, I love the session replay, so this is a fifth time I wish that we integrated with the session replay length, but it goes directly back into quantum. We're able to see quantify how many people are experiencing that same issue. We then look at the cohort analysis. So the retention. So that's a big thing for when one of our goals is getting repeat stays.
+
+00:44:57:37 - 00:45:17:40
+不明
+We want to make you a loyal member. We want you to keep coming back and keep staying with us and keep looking direct. So what we were able to look as I was clicking, affecting our customer retention. So not great. Only 2% of people come back a week later if they experience a rage click. So we we need to try to improve those rage clicks so we can get those people coming back.
+
+00:45:17:51 - 00:45:40:19
+不明
+So the retention definitely does drop off. And we were able to get this insight for a big project use case. And highlight how we need to improve that, you know, customer experience. Another one we have is just another sample of a workspace dashboard that ties in the rage clicks and the errors coming from, quantum and then adding it to our most holistic dashboards that we look at it on a daily basis.
+
+00:45:40:24 - 00:46:01:55
+不明
+One thing that Daniel mentioned is, you know, trying to get all of their analytics, one developed, two developed correctly, three getting the right values that you looked for in your requirements and for just making sure that doesn't break. So, Wyndham, you know, we have an analytics development team. Again, it's sometimes the first ones to get cut in a product.
+
+00:46:02:09 - 00:46:22:42
+不明
+So we don't have you into anything. With quantum, we're able to have every requirement in real time. So we have quantum as our main source of truth for some of our most recent enhancements. Any products that we're launching or any, functionality that we were trying to prove out, we go back into quantum for that because we just don't have it.
+
+00:46:22:42 - 00:46:42:00
+不明
+In Adobe Analytics. We're able to capture what we want from a requirements perspective in less than a day. I think it's four hours maximum. I think has taken my team to do something like this instead of with an analytics development. It takes a project, it takes money, it takes resources and a whole lot of time. And sometimes the times aren't even there to do.
+
+00:46:42:05 - 00:47:13:55
+不明
+So this has helped us still get the insights that we're looking for without having to rely solely on the Adobe Analytics implementation. And we just use that quantum metric, data that we're getting for those things. But what makes it even easier is that we integrate, all of our Adobe Analytics tickets into Jira. And with Jira, it's a lot easier to get issues, prioritize with adding in the session replays links again, and then adding in the revenue tied to that opportunity or that bug that we're seeing.
+
+00:47:13:55 - 00:47:29:17
+不明
+So that opportunities tab, I think my team lives in that on a daily basis, trying to highlight any new opportunities that the tool is surfacing to us. It's basically handing us on a silver platter. You should look at this and say, okay, let's go look at it. Let's add it into a ticket. Let's add it into a backlog.
+
+00:47:29:22 - 00:47:53:44
+不明
+And we are able to prioritize a little bit quicker. Because we're able to add that revenue in the session. Replays. My five least favorite words are I can't, resolve this or I'm not able to replicate. I don't know what this issue is. I can't replicate it when, you know, the teams are trying to triage and try to pinpoint what the issue is with session replays, I no longer hear that sentence, and it is the best thing that happened to my job.
+
+00:47:53:49 - 00:48:27:50
+不明
+We're able to watch everything. There's no guessing. There's no. I think this is it. It's we can see real time, the issues that customers were having and adding it into the Jira backlog and adding it into a prioritization. So now a resolution for bugs has been down to one week. It's sometimes has been up to three months, depending upon where the tickets were in the backlog order, but now being able to prioritize them more efficiently with a holistic team coming from insights, the qualitative insights from quantum from the back end in front end and everything we've talked about with all the tools we've been integrating, has allowed us to have a more, unified
+
+00:48:27:50 - 00:48:54:02
+不明
+approach across team with cross collaboration and trying to get these issues, fixed. Okay. So and, we're doing even more with analytics I'm incredibly excited about. So, as a person who is run analytics, where we were kind of talking about as the worst part of it is often tagging, it's also arguably the most important part of analytics because your analysis is only as good as you're doing it.
+
+00:48:54:07 - 00:49:18:28
+不明
+It's unfortunately incredibly time consuming. No analyst wants to spend all of their time in requirements and QA. Nobody wants to spend months and months and months, sometimes years, migrating to CGI. And so we have a few new ways to help with that. To basically help you unlock even more power from Adobe and essentially just help make what's typically the worst part of analytics so much easier.
+
+00:49:18:28 - 00:49:36:10
+不明
+And I'm going to take us through that. Yeah, we spent 50 minutes talking about improving the product, making life easier for the customer. And I think we all like to do that part, and no one wants to do what it takes to get there, which is tagging. So, talking first about something we've already been doing for a decade.
+
+00:49:36:10 - 00:49:57:31
+不明
+The reason that this is so fast and easy, like Aaron is talking about, I talked about a one line integration that you make with quantum. That truly is the only time you add quantum code into your application. And from that point on, you're creating any custom events and errors that you need to create from our platform. So you can open up a replay like this one, and you can mouse around and find the element on the page that you want.
+
+00:49:57:36 - 00:50:13:35
+不明
+And you can say, I want to create an event when that thing is clicked or when something appears. So I can create an event for the booking button being clicked or an error message appearing on the page. And I can give it a name and I can push done. And that definition of that event is pushed down to the clients that have quantum metric running.
+
+00:50:13:35 - 00:50:36:52
+不明
+And I'm immediately gathering the data about that event. So Aaron trusts us to answer a question that she has. It popped up right away because we can do this so quickly, and that's why she's able to get to us before she gets to Adobe Analytics. To answer that question. But we want to make tagging even easier. We want to make it so easy that maybe you don't even need to think about it or do it at all anymore.
+
+00:50:36:52 - 00:51:09:04
+不明
+So something that we've been working on that we call Felix Eye Tag, was the same technology that understand the page that the user was on super eight trying to book a hotel in Winnipeg. It understood. That's a site, to book a hotel, and it understood the structure of the page and why that user was there. It can also understand the structure of the page, and so it can scan the pages that are already coming through quantum through session replays, and it can find the items on the page that you should probably have invented, and it can recommend them to you.
+
+00:51:09:09 - 00:51:39:11
+不明
+So you get a ping from Felix. I tag Alice that there's an event that you should create on this page. You push a button and say you do want that one. And again through the same mechanism, it's down at the client being gathered. And importantly, Felix I tag Alice can maintain these events for you over time. So if you change something about the page that would have broken a previous event and you might not notice it for 2 or 3 weeks, if you look say I tag, it is going to be finding that event and the new definition for it, so that you have continuity in that event from old to new.
+
+00:51:39:16 - 00:52:03:49
+不明
+So if if all this is easier and it's already been easier than having your developer tag a page for a decade, what if we could use this to make the transition process the CJA easier? A lot of you are going through this migration path to a. And what if we could take advantage of the the ease of tagging in quantum metric to get you quicker to CGA?
+
+00:52:03:54 - 00:52:24:21
+不明
+So instead of re tagging everything that you've already potentially had into Adobe Analytics for years, what we're working on now is a way to map the data that you already have in quantum directly over into Adobe schema. Now, I'll mention here I don't have to have my Adobe schema created yet. I just need to know what I want to name that thing in Adobe.
+
+00:52:24:21 - 00:52:42:27
+不明
+So if I have, for instance, a booking event and it's got five properties, I do three things. The first thing I do is understand what data points I have in quantum metric already, and I pick out the ones that I want to map over into Adobe. I decide what I want them to be named and and again, the schema doesn't have to exist yet.
+
+00:52:42:32 - 00:53:09:59
+不明
+And then three is we do a bunch of magic. So we call out through the Adobe API to create the schema for you based on what you just mapped. And then we automatically send those definitions, those mappings down to the client, and we start to push them through the web SDK. Adobe's web SDK, into CX. So you've cut out an architect sitting in an Adobe app, building out a schema, and you've cut out a developer needing to go tag like Aaron.
+
+00:53:09:59 - 00:53:29:31
+不明
+Keep saying we we keep cutting this part of our process. You've cut out the need for the developer to go tag that to get it into. So you're going to spend time making life better for your customers and doing all the things that we've been talking about here, instead of worrying about the tagging that it takes to get to that end goal.
+
+00:53:29:36 - 00:53:52:10
+不明
+Okay. So to oh, actually, Aaron, did you want to add anything about your experience? Yeah. So that POC that we're doing has been utterly life changing. I don't know if anyone else is going through the agile migration like we are. It is very daunting. The unknowns terrify me. And, you know, we eat, sleep, breathe data. Adobe right now and we want to keep that as our, you know, source of truth for digital.
+
+00:53:52:22 - 00:54:19:14
+不明
+But what we're able to do is we're going through the process right now and it's we're in I think 6 to 8 months right now. We still have a few more months to go. But the policy of getting the schema set up, I think, took us two days due dates in two days. So we have two days and everything that we want from into CJA, we already technically can get so the two days is a lot better than eight months to almost a year.
+
+00:54:19:19 - 00:54:36:49
+不明
+But we're able to capture all of that stuff that we already have, like Adam said in quantum and including all that qualitative data that you're going to want anyway. So that was the first thing we're like, let's, let's do that. Let's add the, the qualitative data in there. And then also the hardest part, I think was figuring out what we wanted in the schema.
+
+00:54:36:54 - 00:54:55:54
+不明
+That was the most I want to say everything, but obviously everything is a lot. So trying to figure out what to prioritize to prove it out. And when I said it was two days, it's two days. So we're able to activate off of this real quickly compared to, again, getting more resources and time and everything to set that up.
+
+00:54:55:58 - 00:55:20:48
+不明
+So, so just to wrap up to the next slide. So again, just summarizing kind of key benefits. So Wyndham has realized, that really integrated data ecosystem, better connecting data sets has had those tangible improvements. I think one of the most exciting, right, cutting time to resolution and improving omni channel understanding, increase creation, democratization of data.
+
+00:55:20:52 - 00:55:41:02
+不明
+But really that fast for time to value in increasing kind of the power they're unlocking from Adobe, I think is has been pretty impressive and exciting. And if you're wondering, how do I do this? Aaron, we've got a couple here going to share a couple of recommendations for you. Yeah. So where to start? I look at your tool stack, we can quantum can probably integrate with everything.
+
+00:55:41:02 - 00:56:00:36
+不明
+Those are just the ones that we have at Wyndham. I'm not going to read through all these. So I know we're short on time, but what we do recommend is to drive by and you need to find that one other team member to help you prove out. Why are you to integrate? I'm sure you all don't own all of your digital tools, just like myself, but trying to find that other person that owns another tool prove out that POC.
+
+00:56:00:36 - 00:56:18:09
+不明
+So what are the goals they're trying to do? What are the metrics they're trying to improve on working together. Once they prove out their point of proof of concept, everyone else is going to fall in line. And that's what happened with us. Everyone else fall in line. We now are integrated with all six of our tools. And we're able to activate on those to have that unified story.
+
+00:56:18:14 - 00:56:38:56
+不明
+What I do recommend is doing more curated trainings based off those teams. You know, it doesn't really need to know marketing insights from an interaction or whatnot. But if there is a more of a use case that you can get from them, build that custom dashboard. If you're like Wyndham, everyone has Adobe Workspace sent to them on a daily basis, or they can log in and see an Adobe workspace.
+
+00:56:39:09 - 00:56:58:39
+不明
+We did the same exact thing. And quantum. So they have their own curated dashboards when they log in to quantum and they can see all of the insights that they have here. But my best piece of advice is to integrate with everything. It will only make the other tools have more value by integrating with quantum. So it's everything's lifted up at that point.
+
+00:56:58:44 - 00:57:20:19
+不明
+And it will allow for more cross team collaboration with insights continuously flowing. That dam has been broken at one dam and it is just flowing nonstop now. So again, I just recommend integrating with everything so you can get all the insights that we want. Haven't stopped getting insights since then. So, of course, take the survey.
+
+00:57:20:24 - 00:57:23:18
+不明
+Thank you so much for joining us today for.
+

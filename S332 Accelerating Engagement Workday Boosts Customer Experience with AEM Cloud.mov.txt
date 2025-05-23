@@ -1,0 +1,292 @@
+00:00:00:48 - 00:00:30:29
+不明
+All right. Hello, everyone. Good afternoon. I hope you had a great lunch. Hope you're not too full. Got a lot of great content for you. So welcome to the work day Adobe Summit session. We have a lot to cover today. I hope you walk away here with either two things. Either motivated to take on a cloud modernization journey like workday has done, or with more clarity on how you want to approach your modernization journey.
+
+00:00:30:34 - 00:00:52:26
+不明
+So who am I? Believe it or not, I am Peter Parker. I am senior manager of product marketing at Adobe. I had the distinct pleasure of bringing some of our greatest innovations to the cloud, to market. So I'll talk about some of those later. Like the new Am, hub. Excuse me. Experience hub. And, the AI assistant.
+
+00:00:52:35 - 00:01:18:09
+不明
+So I'll talk about those in a little bit. I also have the pleasure of taking and helping some of our customers adopt cloud service, whether they be on managed services, or on premise. I'm joined today by Robbie Hoody. At workday, he is a senior manager of digital customer experience there. And he and his team have really re-envisioned how workday does customer experience and engagement.
+
+00:01:18:14 - 00:01:42:02
+不明
+And I couldn't be more happy to share their story here with you today. So I want to take just a moment to talk about some of the incredible momentum that we're seeing on Am cloud service. So starting in 2020, and now five years later, we have over a thousand customers that rely on cloud service every day to drive the digital experiences for their brands.
+
+00:01:42:07 - 00:02:16:14
+不明
+And we're really privileged today to have one of those great leaders with us. Workday. So if you attended my session last year, I told the audience then that we were beginning to see that Gen I was driving cloud modernization. The organizations were getting a bit of FOMO, and pulling for their modernizations because of AI engine AI. I'm excited to share today that AI is the primary factor driving cloud modernization, with 90% of organizations saying that's the sole reason that they're pursuing modernization.
+
+00:02:16:19 - 00:02:38:42
+不明
+A third of those organizations are saying that it saves them time. And that's really the reason why is because AI is proving its value. And two thirds of these organizations are saying, that they're going to pull for their modernization into the near future. For that same reason. And yet and still, we know that there are so many challenges that remain for cloud modernization.
+
+00:02:38:47 - 00:03:08:17
+不明
+One of the challenges is we know that organizations that are on premise, or self-hosted, have this limited scale and ability to expand their customer experiences, and they find it often difficult to offload some of the manager responsibilities or security obligations that they have. And all of this means they get limited access to the latest innovations, and they ultimately have lower ability to respond to market changes and therefore reduce competitiveness in the market.
+
+00:03:08:22 - 00:03:31:59
+不明
+We've talked a lot at summit this year about intent aware experiences. Simply put, an antenna where experience is one that uses AI to understand, anticipate, user's needs and objectives and render and experience around those needs and objectives. Whether it starts with intent capture to decisioning, building the experience, or all the way to delivering, on the actions and insights.
+
+00:03:32:04 - 00:03:42:25
+不明
+Organizations are changing the way they construct or orchestrate and deliver digital experiences. In the era of AI.
+
+00:03:42:30 - 00:04:15:45
+不明
+So how then do we get to the cloud with all the challenges we just spoke about? I mean, the answer is that besides simply being a capability to unlock when you move to the cloud, Janai actually alters the cloud modernization value calculation. We're seeing that for teams that build their use cases into their cloud modernization. They're seeing an ROI of up to 110% and seven out of their peers who don't consider generic use cases when they're planning for their cloud modernization.
+
+00:04:15:50 - 00:04:21:00
+不明
+So something you want to be thinking about as you plan today.
+
+00:04:21:05 - 00:04:53:55
+不明
+So as I mentioned earlier, I wanna talk about a couple of the innovations that you may or may not have heard so far at summit. The first year's Am experience hub experience is the new home for all agent experiences in Am cloud service. This is a place where users will now see a tailored experience based on their persona, their objectives, and it's all built around delivering faster execution by surfacing the next best action to deliver more seamless execution.
+
+00:04:54:00 - 00:05:21:15
+不明
+The second one is our AI assistant. This is this isn't lives in context within Experience Hub and allows you to ask detailed product questions and receive and human language answers and guidance on using Am and resource location. Ultimately, the goal here is to increase productivity and ROI. The last innovation is what I'm particularly, excited to share with you, and it's really relevant for this session.
+
+00:05:21:19 - 00:05:40:28
+不明
+We have an early access feature called Experience Catalyst. You can see this demo to the Adobe booth right now. We're using AI services to do two really critical things. The first is to prepare content for you. Should I by vectorizing that content so that machine learning models can understand the context and the meaning behind the content.
+
+00:05:40:33 - 00:06:00:36
+不明
+And the second thing is to streamline the onboarding of that content to a cloud service. So this is an early early adopter thing. We're still working the kinks out. But there's some really exciting stuff here. You can scan this QR code. To sign up for the early adopter program, and be sure to stop by the Adobe booth and see a live demo of this feature.
+
+00:06:00:41 - 00:06:29:31
+不明
+So the the journey we're seeing, the organizations are taking today. So cloud maturity looks like this. All roads start with cloud modernization of applications and data. Once that data and those applicants are no longer siloed and on premise and legacy implementations, organizations are free to tap into a content supply chain and tools like gen AI, and ultimately to deliver the kind of intent based experiences that I was just talking about.
+
+00:06:29:36 - 00:06:50:30
+不明
+As you consider this journey, I want you to know all the tools and resources we have available to you to help to ensure your success. We have advanced tooling, things like the content transfer tool and the Best Practices Analyzer that are available within Cloud Acceleration Manager. We have incredible experts who have done dozens and dozens of migrations and modernizations with Adobe Professional Services.
+
+00:06:50:34 - 00:06:59:55
+不明
+And of course, we have over 350 solution partners, many of whom are here Adobe Summit. This year.
+
+00:07:00:00 - 00:07:24:40
+不明
+All right. So what you've all been waiting for? Workday. I don't think this requires a ton of introduction. At Adobe, we rely on workday every day to manage a global workforce of more than 20,000. Help engage them and help retain them. And what you may not know is that workday has over 11,000 customers around the globe, and we're driving it.
+
+00:07:24:45 - 00:07:48:27
+不明
+And his team have done, is to build out a better interface for their customer experience so that they can continue to deliver the kind of 1 to 1 customer engagement that they want to be able to do. All right. With that, I'm really proud to hand things over to Ravi at Workday. Talk about the incredible workday story.
+
+00:07:48:32 - 00:08:33:56
+不明
+All right. Post-lunch session. Yay! Thank you. Aaron. Thanks, Peter, for the wonderful interaction. My name is Ravi. Somebody. I manage the digital customer experience team within go to market Advocate. That roughly translates to we enable digital experiences for our customer experience team, right? So, what I'm going to talk about is not a migration journey, to from an existing, a platform to the cloud, but rather how we chose, to be on and, on the cloud, in order to solve a fundamental business problem that our customer experience team has been facing.
+
+00:08:34:01 - 00:09:02:37
+不明
+Right. And particularly one customer portal that I want to use, for this use case is Workday Resource Center. Workday Resource Center is a unified experience that is a single entry point for all our customers. Every customer touchpoint once you are a workday, customer has to go through the resource center where we are enabling a unified experience.
+
+00:09:02:42 - 00:09:26:19
+不明
+We do not want the users to to look for the content that they need in different locations. We are providing critical announcements and notifications. We are enabling them to self-serve as much as possible, and we are also automating their onboarding, which is largely, like in the past. And this experience is fully powered by AME on the cloud.
+
+00:09:26:20 - 00:09:49:01
+不明
+But as you could see, it also connects to all our workday downstream systems, creating a very frictionless and a unified experience. And these are some of the core teams that we work with. Are, product teams, marketing and obviously business technology go to market. And our infrastructure.
+
+00:09:49:06 - 00:10:27:56
+不明
+Right. So before I begin about what we did and how we got there, I want to talk about a few statistics of what, you know, being on on the cloud meant for us. We operate a highly personalized application with an average four second load time, which in general is considered performant. Our uptime is about 99.92%. This was a very critical factor given that we have centralized all our customer access and if we go down, our customers lose access to all their workday systems.
+
+00:10:28:01 - 00:11:04:23
+不明
+And today, about 500,000 customer community users actually access our application. And this is really important because, I'm going to circle back onto this by the time we are done so that, you know, it all comes together, right? So let's talk about like, why we got here, where we are. Right. So we we presented, you know, with a problem from our stakeholders where we about three, three and a half years ago, there was a fundamental problem of our customers experiencing fragmented solutions.
+
+00:11:04:28 - 00:11:28:14
+不明
+And I don't think that, that's an uncommon problem. I think everybody who was in customer experience across B2B have this because we we tend to build applications for different needs at different points of time and later realize that our customers are experiencing a pretty dispirited experience. We also want to scale and modernize our experience, especially digitally.
+
+00:11:28:19 - 00:11:53:33
+不明
+And then given where we are and how much growth we have experienced in the past few years, we've outgrown the white cloud onboarding model, and there was a need to digitize that process as well. And that gave us an opportunity to sort of think about how do we unify our customer experience across all the channels and all the properties that they're accessing, and how do we support customers to self-serve?
+
+00:11:53:33 - 00:12:16:50
+不明
+Because the modern day customer is very savvy. They don't require a lot of hand-holding as as much as as we anticipate, and they prefer to self-serve before they reach out to either the support or their customers in general. And we also want to eventually capitalize on a potential cross-sell opportunity if we are able to, you know, unify the experience.
+
+00:12:16:55 - 00:12:48:18
+不明
+And the solution that we came up with is to build that integrated portal experience that having showcasing earlier centralize knowledge management, search, create an insight driven, you know, customer experience and provide a guide for every customer of ours to go on a self-discovery journey right now in order to get there. I think we we sort of look at three building blocks, that I'm going to go through, on how we thought about this.
+
+00:12:48:23 - 00:13:29:03
+不明
+We wanted to bring, an experience that's more personalized and contextual, where every bit of application that the customer accesses is personal based. And it's it's for them, by that. Right. And we wanted this experience to be connected and transparent as they navigate away from this application across whatever the downstream systems that they need to access. And we want this application to be proactive and data driven because we as we work on changes and as we work on evolve, evolving this application, we want to understand what the customer actually wants and then release that as a feature.
+
+00:13:29:07 - 00:13:54:54
+不明
+Now with that, we obviously made a decision to actually transition to a AMM on the cloud. And I'd like to talk about why that decision was made. And today we are in the process. We are actually unifying around, a as our customer experience enablement solution. We chose, as I mentioned earlier, this is not a migration activity for us.
+
+00:13:54:59 - 00:14:18:43
+不明
+This is a net new decision that we had to take, that we chose to go with again on the cloud. And I'm sure there are numerous reasons, in order to be on it. But these are the five things that really matter to us, because when we looked at building this as a new consolidated solution, we wanted to futureproof it rather than build something that's on existing and later deal with, a migration activity.
+
+00:14:18:48 - 00:14:45:43
+不明
+And we also wanted to take advantage of some of the innovation capabilities that that you mentioned that you see here, that we've known for a few years ago. Now we are talking about edge delivery, generative AI, and, improvements in the enterprise them. But we knew this was part of the roadmap a few years ago. We also wanted something that we can go to market quickly with something that's secure.
+
+00:14:45:48 - 00:15:13:59
+不明
+And obviously for everybody who's managing a budget, you know, it has to be cost efficient. And yeah, from a maintenance standpoint, we want to get some early access to M features, have it have an ease of maintenance as we as we work through with it. Right. And we want to talk about how we, we sort of went through our enablement journey and sort of the four hurdles that that we took in order to get that right.
+
+00:15:14:04 - 00:15:51:36
+不明
+As I said, we chose to implement this as an implementation, and obviously that came up with our partner selection as well. And the decisions that we made, you know, pre and post ad bottle selection, it is also something that I want to highlight is it was a journey for us in understanding what are the do's and don'ts of working on the cloud, because it's something that's often often overlooked, because you are so used to building solutions on a system that you typically tend to understand, okay, this is an AMS based a Am instance.
+
+00:15:51:36 - 00:16:24:22
+不明
+When I migrate over, it's going to function. But the reality of it is not everything would work. And we also have to choose how we went with our implementation. And we chose a purposefully, content and an experience fragment based solution as we as we looked at it until and then came a pivot point as we were, we wanted to build and develop because I think as we started to be operational on M, we got to know that there is a certain amount of control, that you have to give up.
+
+00:16:24:27 - 00:16:43:39
+不明
+I think that's that's, we are all used to having a ninja in our team, you know, going in and, you know, saving the day in the last minute. But, you know, that is something that may or may not be possible. So it sort of puts you in a path to, to really test and verify your solutions before you go live.
+
+00:16:43:44 - 00:17:09:22
+不明
+But the plus side of things is, you know, you wake up knowing that you know, what is there on your production system. Is is what you want it to be. We also had to go through, refinement in how we built, and this also maps back to our understanding of do's and don'ts of what we did with cloud, and then also understand what works on cloud and what doesn't.
+
+00:17:09:27 - 00:17:37:12
+不明
+And there is also a thing that, that I want to highlight here is the decisions that you make in order to build your solutions on ehm, on the cloud has a direct impact on how your licensing is structured because of the subscription nature of this product. So it also helps you understand and build solutions the way you've, you know, the way the product is intended to work for and also the way you planned in your cycle.
+
+00:17:37:17 - 00:18:04:37
+不明
+Right. The other thing that I wanna also highlight here is, we've managed to create an operating model that that treats this entire application as a product and AI product manager who, who unfortunately couldn't be here, you know, has has come up with this model that I'm going to go through in a few minutes that essentially helps us build and deliver these experiences as if we are building a product.
+
+00:18:04:42 - 00:18:31:39
+不明
+And that essentially, look helped us or enabled us to look at this at a more scaled fashion where each and every solution that we are building out is thought out for a future use case. Right. And now we are in a position where, if we choose to and if our marketing partners to us to, come on, ehm, on the cloud, we have strategies to share solutions between programs.
+
+00:18:31:44 - 00:19:17:12
+不明
+We are working on a multi program strategy that allows us to operate independently, but also not duplicate across our organizations. Who and yeah, this is the product operation, operating model that that we were organizing around, which essentially defined the core experiences that we have enabled for our customer experience business partners. But it is it is organized across the stream where the solutions, not only cater for customer enablement, engagement and retention, but they are also capable of being adapted to some of the growth and expansion strategies as well.
+
+00:19:17:16 - 00:19:52:19
+不明
+Right. With that, all this journey has led us to this is where we originally started, before we went on and on the cloud. And as you could see, it's a very simple, like, you know, page that's probably built on octa. This is a first part of, like, you know, what it could look like. But as we went on to am this that you see and at the far end here is a highly personalized portal that is meant for you as you are customers.
+
+00:19:52:24 - 00:20:17:09
+不明
+Every bit of this application is customized for you. Your role and your account without it, so that you are not getting the information that you may or may not need, but you are actually receiving all the critical information that your account and your tenant needs and the enhancements that you often have to chase. Right. We saw this earlier.
+
+00:20:17:09 - 00:20:40:39
+不明
+As far as the the key results are concerned. But once we went live, once we were operational for about a year or so in the past year, we were able to achieve an average of 30% increase in monthly users. There was a 15% increase in case deflection. Our reliance on support, our customers reliance on support has decreased.
+
+00:20:40:44 - 00:20:50:08
+不明
+And most importantly, I was able to save 200,000 per year on operational costs.
+
+00:20:50:13 - 00:21:13:55
+不明
+Right. So a little bit about, how we operate. I'm not going to go into the details of like how this has been structured, but if anybody is in engineering, this is how hypothetically, the operating architecture, looks like, for my fellow engineering nerds. Yes, I know we are proxying through a and yes, there is a reason.
+
+00:21:14:00 - 00:21:45:38
+不明
+But, you know, essentially a we have structured our, model across, experience manager being the center of our web hosting platform where we are enabling solutions, but we are also working with our downstream systems as we look at this. Right. And from a content authoring standpoint, which which is another critical factor as we with as with any implementation, we started off with an API based content approach.
+
+00:21:45:43 - 00:22:19:09
+不明
+Other programs currently that are operational on a Am currently use the Adobe Page model, as well as the data topics for our guides. We chose to go to content Fragments and experience fragments so that it puts us into a pathway to leverage its delivery. And as we look at our personalization and later in the year, we are looking to leverage some of the generative AI capabilities and also start to generate some of our knowledge and support content, through an AI.
+
+00:22:19:13 - 00:22:47:44
+不明
+Right. As I mentioned today, we are on the side. We are operating as three separate cloud programs, and we are organizing around a multi program strategy that's built on some of the core foundational principles of what we're used to, then building things on a we are leveraging connected assets between our programs. We are working out a code sharing model in order to avoid duplication.
+
+00:22:47:49 - 00:23:18:15
+不明
+And we are defining a governance model that covers users, groups and permissions so that it we have some amount of audit as users, go across project programs. And what we are currently working on is defining digital asset manager, i.e. with and centralizing around the workday, a comprehensive taxonomy that marketing already uses. I don't know if anybody attended the IBM session yesterday.
+
+00:23:18:19 - 00:23:49:30
+不明
+I think as we look at, I think Betsy AI, she is the head of ibm.com. She mentioned this as well. And that that is one thing that I do want to highlight is. You do not want to get into AI without getting your AI done. I think that's that's essentially one thing that we are focusing on, on as more and more content gets migrated and starts to live on em, how do we define an information architecture?
+
+00:23:49:30 - 00:24:11:49
+不明
+How do we store content on em? How do we cache? How do we, you know, leverage external can't bring external content within AMP or render it. Any of these are things that we are working on defining them. And I, I want to say that that is really critical as you're building through a multi program strategy.
+
+00:24:11:54 - 00:24:56:13
+不明
+Right. What's next. This year's big bet for us on the side is personalization where we are turning on Adobe Target as if we go back a few previous slides. Right. The highly customized portal that that I showed a glimpse of is largely programmatically driven. And we are taking a step to move towards personalizing with Adobe Target, where we want to create offers in target and because of the fact that we chose to go to an experience fragment based solution prior to our implementation, it allows us to create some of the static content, or export some of our static content directly into target.
+
+00:24:56:18 - 00:25:37:41
+不明
+Right. We are working on integrating, our CRM data, to personalize experiences. And we want to leverage dynamic content personalization. And from here, we will eventually move to connecting our CRM data to our CDP. And this is something that workday already does across our marketing ecosystem. We want to look like models using the AI capabilities of what CDP offers, and we want to optimize our personalized, personalized offers through target and avoid any sort of a programmatic personalization.
+
+00:25:37:46 - 00:26:06:25
+不明
+Yes. Right. As you could see, the launch was a foundational investment. We defined an MVP. We went live with an MVP. We made some investments in order to make a lot of security improvements and architecture improvements. We've created a training and governance model, a customer experience portal that's geared for customers need to be very secure. So as we evolve our application, add new features came in to onboard.
+
+00:26:06:30 - 00:26:14:04
+不明
+There was a significant parallel investment that was made to make that application secured.
+
+00:26:14:09 - 00:26:50:33
+不明
+Today, we are in the process of going global with our customer experience solution, personalizing them. We are integrating this experience with our marketing ecosystem to deliver better value for our prospects and not just customers. We are also implementing a global customer journey, tracking that we want to understand all the touchpoints that a prospect or a customer takes before they eventually get to a point where they either convert or if you are already a customer, when do you reach out to support after you've exhausted all your options?
+
+00:26:50:33 - 00:27:16:50
+不明
+And this information is critical for us in understanding whether the content that we are providing to our customers is actually relevant for them. Because you know when you are going to support, in order to have a ask a question, that means that whatever you are receiving so far is not what you are looking for. And ultimately, we want to move towards an agent experience, across our KCS enablement.
+
+00:27:16:55 - 00:27:29:22
+不明
+On the engineering side, we want to create a modular architecture that's again set up for scale, and we want to continuously test and optimize our experience as as we want.
+
+00:27:29:27 - 00:27:51:44
+不明
+Right. Three key points that I want to highlight in our journey, as we've learned, you know, in the past couple of years, is when to use and not to use Am is a critical thing that you want to have in mind. Not every solution that you are trying to enable would be would be a perfect use case for them.
+
+00:27:51:54 - 00:28:39:05
+不明
+And understanding that and, you know, making a decision around that is really, really important. And I have also highlighted this earlier where you want to avoid legacy implementation, follow Adobe's best practices in order to implement, you know, whatever the application requires here to do. And lastly, this is this is something that that I clearly I mean, I originally comes from a partner side and I know this, it's really, really important to set an expectation that our solution partners, I highly recommend having skin in the game, work with their team, collaborate as a unit rather than, you know, as as great as partner ecosystem.
+
+00:28:39:05 - 00:28:55:55
+不明
+As. And I stand by it 100%. There is still some amount of like, you know, I mean, at least the control freak in me wants to exercise that amount of like, visibility as we are working with partners. And that's something that has worked really well for us.
+
+00:28:56:00 - 00:29:19:32
+不明
+Right. And I look at Adobe Partnership as also as working, you know, with partners and we've all had our fair share of, you know, interactions with Adobe support. Some of them were memorable, some of them were not to remember the what, but what we learned in our journey was, are we actually engaging, with support the right way?
+
+00:29:19:37 - 00:29:55:34
+不明
+Are we actually talking to them, explaining our problem, or advising our frustration? And, fortunately, we did move to ultimate success as workday. And that allowed us access to Adobe resources, who allowed at least created the opportunity to consolidate the problems that we are experiencing, escalate as needed and timely report on what's happening in on each other's programs, because there was a brief period of time where we were so busy with our own implementations that we didn't know what is happening across the other side of the aisle.
+
+00:29:55:39 - 00:30:32:20
+不明
+And we could have taken some of the learnings from there and adapted to our solutions that could have resulted in, in a better implementation or a quicker resolution to the problem. Right. With that, moving on to some of the key takeaways. When we started our planning journey, we started, in looking at it from a more modular, you know, system, state of the art, how can we create content anywhere and deliver that content to our customers?
+
+00:30:32:34 - 00:31:05:13
+不明
+That was our goal when we got there. But now with the advent of generative AI, as you're looking at planning your solutions and implementations, look for what capabilities that you want to enable for your customers, for your users, and plan for that in advance. As you're building your implementation. And again, I cannot emphasize any further, the being on the cloud requires you to trust that system, that it is going to do the things it's supposed to do if things are done right.
+
+00:31:05:18 - 00:31:27:01
+不明
+So there has to be an expectation internally that is set that you cannot do things that the old ways, once you are on the cloud, you have to be okay, you know, to let your engineering team not be able to like, you know, manipulate things on production, not save the day in the last hour. Like, you know, any.
+
+00:31:27:14 - 00:31:59:51
+不明
+But like I said, once it goes through a series of quality control checks before things go to production. And those are there for a reason, and they actually work if you follow them. And the last thing. Right. One thing that we've learned in the past couple of years with our implementation is not sit around with it because, as you build and as Adobe starts recreating or reimagining, some of the features are expanding their capabilities.
+
+00:31:59:56 - 00:32:23:33
+不明
+Let's, it's important for us to start looking at how do we continuously optimize what we've built for our customers, and how do we, you know, learn from what's released and how do we scale and integrate that within our systems? Right. That kind of hand it over right. Thank you Ravi. Okay. Thank you, thank you, thank you, thank you.
+
+00:32:23:45 - 00:32:27:29
+不明
+Yeah.
+
+00:32:27:34 - 00:32:28:07
+不明
+You.
+

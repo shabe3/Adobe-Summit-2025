@@ -1,0 +1,508 @@
+00:00:00:34 - 00:00:26:09
+不明
+Good afternoon everyone. Welcome to the Gen Studio for performance, marketing, innovation and roadmap session. Before we get into content, you guys need to give yourself a round of applause for even being in this room right now. Die hards like rays of hands. Like how many of you like this is the only session because you were really like brunching after bash and you're like, this is it.
+
+00:00:26:09 - 00:00:45:15
+不明
+Like, I can only get maybe 1 or 2 sessions in today and then I'm out. We really appreciate that you chose to give some of your precious final moments of Adobe Summit to this conversation about Gen Studio for performance marketing. My name is Ed Kennedy. I'm on the product marketing team. I'm joined by Nicole Germano, who is our director of Product management.
+
+00:00:45:19 - 00:01:04:52
+不明
+We're going to create a tag team here of going through all the latest innovations that Gen Studio for Performance Marketing has launched at summit, do live demos of our product and all the capabilities that are now available, and then talk about what our forward looking vision is for the rest of the year. So let's dive right into it.
+
+00:01:04:57 - 00:01:25:12
+不明
+Grab your phones, scan this QR code. And as we're talking and demoing, put in your questions and we'll come back at the end. You can upvote other people's questions. You can downvote other questions too. You know, let's let's see which ones bubble up to the top and then we'll come back at the end will answer your question.
+
+00:01:25:12 - 00:01:42:27
+不明
+So I'll give you a moment just to grab the QR code so you can start to see what the rest of the audience here is curious about. And then that helps us get a understand of the feedback that we're getting live on the product as we show it to you. All right. Does everybody see the little Slido now on your phone?
+
+00:01:42:32 - 00:02:13:27
+不明
+Okay, great. Good job. Audience participation check. All right. Let's talk about why we created Jen Studio for performance marketing. And you've probably seen this now a couple of times at Adobe Summit. The need for content is continuing to increase. If you take the number of products, the number of channels, the languages, the variations and the refreshes. There's just too much content that you need and all the channels that you're trying to reach consumers or businesses through to really keep up with the demand.
+
+00:02:13:31 - 00:02:50:38
+不明
+And so this is common for every business that we're talking to here at Adobe Summit. And as we continue on from here, the problem that marketers tell us, though, is that the experience of briefing an agency or an in-house studio team and waiting for content to come back is a bottleneck on the creative process that when I have to ask a team to create content and then I sort of wait a week, a day, a month or longer to get my content back, I can't deliver marketing performance at the level I need to.
+
+00:02:50:52 - 00:03:16:01
+不明
+I have to be able to personalize, get variants out there, and we're just seeing from the research data that marketers are kind of stuck with that feeling that the creative teams are overwhelmed by all of the intake of all the creative requests. And that's why Adobe goes to market with in our content supply chain. Adobe Gen Studio, it's the coming together of all of these major pillars of the content life cycle.
+
+00:03:16:06 - 00:03:35:33
+不明
+And today we're going to be talking about creation and production and the purpose built app that we've launched, Gen Studio for Performance Marketing, which many of you may be already familiar with. I actually recognize many faces who have been at our booth or working with us as our partners, so it's just really great to see everyone's interest in this product as we start to roll it out.
+
+00:03:35:38 - 00:04:03:45
+不明
+So Gen Studio for Performance Marketing is a purpose built workflow application for creative teams and marketing teams to come together to create high performing on brand content. Now, every product company in the world is trying to figure out how to add generative AI to their technology, and we actually see that generative AI isn't necessarily the differentiator anymore. Or in a in a product like Gen Studio.
+
+00:04:03:45 - 00:04:32:40
+不明
+Ironically, really what we've heard from marketing teams and creative teams is that generative AI is critical to scaling content production, but the content we generate has to pass brand guidelines. You have to be able to personalize the content to the audiences or personas that you're trying to reach. You have to get a positive feedback loop in the system, where you find what elements of your creative are performing best, and you initiate a new creative workflow from those insights.
+
+00:04:32:45 - 00:04:56:53
+不明
+And you have to be able to pass all of the regulatory and compliance checks that the enterprise workflow requires. So it's not enough just to give your marketing teams ChatGPT and send them on their way. You will rarely get back on brand content that you can use in your emails or your ads. So that's why we've built Gen Studio as a purpose built workflow application.
+
+00:04:56:58 - 00:05:20:58
+不明
+These are some of the results that we've seen from the work we've done with our initial clients. Adobe's own marketing organization uses Gen Studio for performance marketing. Lumin is one of our customers that's been testing creating ad variants. And Lenovo consumer electronic brand manufacturer has been creating web banners out of Gen Studio to personalize their gaming experience for their e-commerce channels.
+
+00:05:21:03 - 00:05:46:22
+不明
+And the drivers of value of using this product is creating more high performing content faster. That's where most of the clients we're working with are starting their hypothesis. I need more variance in less time. And in general, the math that we're seeing pencil out and then show in our initial trials and first customers is that we're creating four times the content, 75% faster.
+
+00:05:46:30 - 00:06:08:40
+不明
+And that's what you're seeing here three weeks to three days for Adobe being able to respond quickly to real time marketing moments and get fresh ads out into the ecosystem is absolutely critical. But then there's performance improvements that are coming off the back of that. It's not good enough just to create variance for their own sake. You actually need to show that those variants drive performance.
+
+00:06:08:40 - 00:06:37:41
+不明
+And that's where we're seeing lifts in email, click through rates or optimizing ad spend or onsite engagement rates. So all of this is about creating more content to drive better performance. And that's the standard that we hold ourselves to when working with our clients. And if you do end up working with us, that's the standard we want you to hold us to, is that we should be driving performance with this application, not just giving you a bunch of more content, because that actually can clog up the system itself.
+
+00:06:37:46 - 00:06:56:20
+不明
+So that's what I wanted to say, just to set the stage for why we built the app. Someone much more talented and smarter than me is going to walk us through this amazing product. Please give a round of applause to Nicole walking us through the latest features that we've launched. Hi, everybody. Thanks for hanging in with us so late on a Thursday.
+
+00:06:56:34 - 00:07:10:55
+不明
+Hope you've all had a good conference. So let's start to dig in and show you a little bit about, Jen Studio for performance marketing. We're going to go through a couple of different flows here. I'm going to tell you about the application, a lot of the enterprise guardrails that are available. So keep those questions coming in the app.
+
+00:07:10:55 - 00:07:30:16
+不明
+I'm watching them come through and it's great. All right. So let's talk a little bit about the landing page for creation. There's a number of different channels available. So you can see for email and banners for owned media. You have paid media available today for meta Google and Microsoft for display. And LinkedIn is one of the ones that we announced this week at summit.
+
+00:07:30:21 - 00:07:46:24
+不明
+And then you're getting sort of a super secret glimpse into some things we're cooking up. You'll see some labs labels on some of my channels. So we're going to preview some things that are a little bit skunkworks for us. And coming soon. So you all can kind of see how those work as well. All right. So let's jump into creation.
+
+00:07:46:24 - 00:08:04:12
+不明
+We're going to do a meta ad. And really you're going to get to see the full end and workflow. Because at the end of the day Jen Studio for performance marketing is a purpose built tool for a workflow to deliver your content. So when I go to create my med ads here, I have all of my templates that have been provided by my creative teams.
+
+00:08:04:17 - 00:08:24:06
+不明
+They have locked in certain things like the header, the footer, the logo, and then other parts can be generated. So this allows for those enterprise guardrails to make sure that your folks are staying on brand. So I'm going to grab one of these templates and it's going to bring me to my canvas where I can start to play around with the selections and use the inputs to my AI.
+
+00:08:24:10 - 00:08:46:52
+不明
+So here in the parameters, you'll see a number of what I'll call shortcuts. Here, the brand. You've heard a lot about the brand service this week where you can store your creative guidelines or image guidelines or channel guidelines inside of the brand, service and then it can be used across the content supply chain solutions. And so here I'm going to select my brand so that my creation engine is going to know how to stay on brand.
+
+00:08:46:57 - 00:09:03:45
+不明
+In addition you'll see a dropdown for models in the case that you're using fine tuned or custom models. And we'll talk about that a little bit later today. But here I have a persona that I've selected. So this is why I'm messaging two. And again this is a shortcut because inside this persona record has their messaging preferences and a rich description of that audience.
+
+00:09:03:50 - 00:09:27:25
+不明
+And then lastly my product. So images of my product a description of my product. So the the system is informed about what I'm going to be doing here. I'm going to select from my content repository. Now you do get an out of the box repository with Gen Studio, but it's so much more powerful with M assets. So you can connect directly to your dam for all of your final approved assets are available right here with the click of a button.
+
+00:09:27:30 - 00:09:46:17
+不明
+So I'm going to grab a couple of different images here to use. And then it's time to prompt. And so we're all sort of learning to prompt as gen AI has come online, what we see a lot of clients do in this case is copy and paste their creative brief in here or there. Campaign breaks. For me, I have a pre-built, prompt that I'm going to do.
+
+00:09:46:31 - 00:10:06:16
+不明
+So this is an outdoor apparel company. I'm going to create an ad encouraging people to get outside using the perfect apparel. And so the system is going to start to do is generate four different variations of copy and imagery together. For me to review and you're going to see something else happened. So this wheel that's turning in the top right hand corner is the brand validation.
+
+00:10:06:16 - 00:10:20:26
+不明
+And this is going to validate a couple of things. How close we are to our brand, how close we are to the channel guidelines for media and how close we are in accessibility. And so I'll show you that as soon as everything points. The other thing you're going to be able to do is you can edit this in line.
+
+00:10:20:31 - 00:10:36:07
+不明
+And so you don't have to go through a regeneration every time you want to change something, you can actually change words in the copy. You can swap out an image and we can actually resize as well. So there's a lot that you can do across the canvas. So here we can see we've got our images we selected. We've got some headers that it's generated.
+
+00:10:36:07 - 00:11:01:45
+不明
+So here you can see the ability to edit. You can actually regenerate pieces of the ad. So again you don't have to go through that whole flow. So it gives you a lot of flexibility to play with the canvas. And what you've created on resizing. So here I can select to resize. I can select all of the different variations that I want, and it will just start to expand across the canvas and give me more and more options.
+
+00:11:01:49 - 00:11:17:33
+不明
+I'm actually going to get out of here because I don't want to slow us down. All right, so our brand checks complete. We're pretty close to brand across the board, but if we wanted to make sure we were at a certain level, we can click here. Sorry. One click. And it's going to show us that brand channel and accessibility check.
+
+00:11:17:38 - 00:11:40:36
+不明
+And here I can actually see exactly what I've hit and missed on my brand. So if I view my and fix my issues here, I can see all the guidelines that I've passed. And then here I can see the ones that need review. I can quickly fix it and recheck any time. So this is going to allow for you to provide guardrails and for people to get to a point where it really is on brand and ready to go for review and approval.
+
+00:11:40:40 - 00:12:00:31
+不明
+So once we're comfortable now it is time to go for review and approval. So this is another integration point. So we do offer review and approval out of the box in Engine Studio for for performance marketing. But if you have work front again it's that much more powerful. So you can actually select your approval templates from work from proof that are already preset and it could get sent for approval.
+
+00:12:00:36 - 00:12:16:28
+不明
+For the sake of this demo, I'm going to be the master approver because that makes things really easy. And so when I send this off, the panel is going to open up. Just so same way that you see and work front, that's going to show me all the steps of my process. It's going to show me what's going on.
+
+00:12:16:28 - 00:12:33:28
+不明
+I can view my comments and work front. So when I do that, just to kind of show you the reviewer experience, they don't have to go into studio. They can stay in the work front proof experience. They get the same viewer that they're used to, and so they can go ahead and do their annotations, they can do their markup, they can make their decision.
+
+00:12:33:28 - 00:12:51:13
+不明
+And the really cool thing about this is they get the live canvas. It's not a snapshot. So they can actually interact with the brand check as well. So they can click here. They can see all of the guidelines. Same thing that I just showed you from a practitioner perspective. Your reviewers and approvers can also dig into that level of detail when they're doing their review.
+
+00:12:51:18 - 00:13:15:43
+不明
+So here I'm going to approve it. So again same work from proof experience. And then once that happens Jen Studio is going to be alerted that these things are approved. And then they're ready to be published and activated. So I can publish this back to my content. With all of the relevant with all of the relevant metadata. And then we're ready to activate.
+
+00:13:15:48 - 00:13:34:39
+不明
+So we're going to jump into the activation tab. This is something that we also announced this week. So activation to meta is available already. And then we've got other channels that are coming soon. The good news about activation to meta. And I'll kind of show you it allows you to select your experiences. It allows you to connect obviously directly to your meta accounts.
+
+00:13:34:44 - 00:13:52:19
+不明
+It also allows a tracking ID. And this is critical to make sure that you're tracking this ad throughout the process, to be able to measure the performance at the end of the line. And so here we're going to give you automatically a tracking code. Or if you use your own taxonomy we can support that as well. So from here I can go directly to launch this into meta.
+
+00:13:52:19 - 00:14:11:09
+不明
+And we're good to go. So the last part of the process is the performance insights we've created with activated. We want to see how it's performing. And if you haven't seen insights before, this is one of the most special and super awesome parts of the application. Here I can see all of my meta campaigns, regardless of where they were created.
+
+00:14:11:13 - 00:14:32:28
+不明
+So you don't have to create in Gen Studio. We'll pull everything in and we are featuring these ads. So if I come into this campaign, it's going to show me all of the assets associated with that campaign. And it's assigning it attributes. So pulling it in and saying, okay, this is laid back. This is the weekend brand. This is a conversational, ad.
+
+00:14:32:33 - 00:14:53:58
+不明
+This is a dark gray background. And so you can start to see that as we feature eyes and assign attributes, we can then show you how those attributes are actually performing. So if I jump to my media performance, as I mentioned, I can see across all of my assets how they're performing here. We're looking at CTR, but you could change that to another metric or bring your own custom metrics.
+
+00:14:54:03 - 00:15:09:13
+不明
+And then if we go into that attribute view, this is the thing that's really cool. I can go look at any one of those attributes that I showed you earlier, and it's going to show me how that performs. Oh, and it's not going to behave today for me.
+
+00:15:09:18 - 00:15:25:42
+不明
+There we go. So here you can see all of the attributes in the system. So I can see like is it better to show a mountain or to show someone hiking. You know how does that perform? And one little anecdote I'll share is the Adobe marketing team. One of the things that we found is cake and pastry does exceptionally well for us.
+
+00:15:25:42 - 00:15:44:06
+不明
+People love to look at baked goods, so you get those little tidbits and figure out how you can optimize and get better along the way. So that is sort of our end to end create flow. That I wanted to show you and make sure you kind of see how that goes from start to finish. You can also do that for email and all of the other channels that we took a look at.
+
+00:15:44:11 - 00:15:56:48
+不明
+And so I will pause for now, we're going to talk a little bit more in depth about some features. And then I'll show you some labs. Round of applause for Nicole during that pass through.
+
+00:15:56:52 - 00:16:15:34
+不明
+Okay. Well so now what we're going to do is we're going to kind of walk back through a couple of those features in a little more detail so you understand exactly what we've launched and then what's coming from here. So Nicole, if you can join me to talk about these innovations that are available today for content generation. So what do you want people to know about on brand image generation and what we've launched?
+
+00:16:15:39 - 00:16:35:16
+不明
+Besides that, it's super awesome. So we've had on brand copy generation for a while now since we launched and combining with with Firefly, we kind of get the best of both worlds. So we're getting image generation via Firefly combined with that brand check that I showed you. So not only now is your text going to be brand compliant, but it can assess the image against your imagery guidelines.
+
+00:16:35:31 - 00:16:53:38
+不明
+Make sure that that's also on brand. So you're actually figuring out as a whole experience on brand. You get that same score, same checks all along the way. So yeah, we're really excited about that one. Love partnering with Firefly. Custom models okay. This one is super fun also. So you're going to hear about a couple of different types of models.
+
+00:16:53:38 - 00:17:16:48
+不明
+Custom models is an offering from the Firefly services team. And this is really sort of training your own image models. So uploading tons and tons of images that are optimized that are on brand for you and training it to your own, brand. And so this you can actually use in that create flow. I showed you when I select the model, you can select different custom models that you want for your image generation.
+
+00:17:16:53 - 00:17:36:02
+不明
+And it will stay on brand and adhere to that specific model, with the same thing on the copy side. And we'll talk a little bit about that later. But this is one through Firefly Services that allows you to get even more on brand and compliant. So fine tuned LMS, this is going to allow you to do a lot more nuance around the copy.
+
+00:17:36:07 - 00:17:54:56
+不明
+So again, in the model selection that you saw on the screen, it will allow you to be very, very channel specific. And so it just is really a function of precision. So you have the option to use the base model inside of Gen Studio or train your own models inside of the UI. Subtle. Yeah. LinkedIn was a big deal.
+
+00:17:55:01 - 00:18:13:48
+不明
+So our B2B customers, number one, request was LinkedIn. And so you'll see us, you saw today we have LinkedIn and create. You're going to have the same end to end flow. So you'll be able to activate to LinkedIn. We'll be getting insights from LinkedIn. And so you'll get that end to end creation experience. And allow you to do that for not only LinkedIn but also organic LinkedIn.
+
+00:18:13:48 - 00:18:17:08
+不明
+This coming as well.
+
+00:18:17:13 - 00:18:41:28
+不明
+We talked a little bit about the channel and accessibility checks. Accessibility and channel are brand new. We've had the brand check for a while, but this allows you to stay true to the requirements of the platform. So meta etc.. And accessibility is also a really big one. Like one of the first things that we heard from customers when we started the beta was things like Ada compliance and accessibility, like making sure that your ads are not going to cause a problem.
+
+00:18:41:33 - 00:19:08:15
+不明
+So building that in has been a big win for a lot of our customers. And I think you're continuing on with us on activation. I am your favorite area. All right. So activation, we have introduced this for the first time since we launched in October. It was largely an import export situation. And so being able to allow you to seamlessly connect to the ad platforms and activate, there is a real big unlock not having to go offline.
+
+00:19:08:15 - 00:19:29:44
+不明
+We're not having to keep track of files, and you're going to see us expand these channels really, really quickly. And so Google cm3 60, we announced as well LinkedIn is coming second half of the year. We're looking at snap, TikTok, etc.. So this is a what's moving really, really fast. And we're super excited about it.
+
+00:19:29:49 - 00:19:55:37
+不明
+Yeah. My favorite things okay. First party Adobe integrations. This is a really fun one as well, because when we talk about the content supply chain in these connected workflows, it requires us to be natively integrated in making sure these workflows are connected. And so the integration with, Adobe Journey Optimizer campaign on Marketo. So when you create emails in Gen Studio, those are going to automatically show up downstream for activation inside of a campaign or a journey.
+
+00:19:55:42 - 00:20:16:50
+不明
+And you can also bring your templates in. So instead of recreating the wheel can pull your templates, you can pull your campaign templates in. And so it allows for end to end on email as well. I think I put these slides out of order. This is like the main announcement that's like not just Adobe Journey Optimizer, but any of our customer journey apps that are on our new email designer.
+
+00:20:16:55 - 00:20:35:20
+不明
+The templates that are in those that experience are available in Gen Studio, and then you can generate and publish them into all of these channels. So regardless of what Adobe Email tool you're on, we have a way to support you. I guess if it's one of these four, we have a couple more. Yeah, they exist out there, but I think this is a major innovation.
+
+00:20:35:20 - 00:20:52:58
+不明
+I think we were thinking like, maybe we could get one of them. And then you turned around one day and said, like, actually, we've got all. So I think it's a huge unlock for creating the emails and then activating them. Yeah. Anything else you want to add on our email? Nope. Not at all. Your turn. Okay. All right.
+
+00:20:52:58 - 00:21:17:21
+不明
+So I'm going to talk about extending the application because as you've seen the application is very much a workflow application. It's it makes you follow a certain process. You select a template, you use the generation tool, you send it for review and approval. It sort of guides you through a process. And that's by design, because we're hoping that marketers themselves can start to have some ownership over this creation process.
+
+00:21:17:25 - 00:21:41:18
+不明
+Now, as we talk to customers that have a large Adobe ecosystem or even other technology from other vendors, the need to extend this platform to meet industry specific use cases or support custom integrations is absolutely a requirement and something that we're committed to on our roadmap. So we want to bring the best of both worlds a SaaS based UI workflow tool.
+
+00:21:41:18 - 00:22:00:03
+不明
+But also have the extensibility to integrate to custom systems. So the first one that we've launched is the integration to work front proof. So you can do your review and approvals and work from proof and get results back. The next stage of this is to integrate also to work front planning. We'll come back and talk about that integration.
+
+00:22:00:03 - 00:22:20:20
+不明
+So in this year we'll have two integrations to work front for proof. Where are you an approval and planning for as you start to set up your campaigns? What I'm really excited, excited to announce is the support for App Builder Extensibility Framework. If you've come across App Builder in the Adobe ecosystem, you may understand what I'm pointing to.
+
+00:22:20:20 - 00:22:46:36
+不明
+If you're not, that's okay. This just means this is a way for you to within a no code and low code environment, integrate all of these capabilities into other systems. The use cases that we're supporting right now is if the customer that you're working with or you yourself have a different, excuse me, digital asset management system, we can use that as the source of images when we're assembling ads or emails.
+
+00:22:46:40 - 00:23:09:12
+不明
+I swear I wasn't drinking last night. It's just been a lot of talking. So being able to support custom dams is an example of using the App Builder extensibility framework. The other is the add the add on framework itself. So if you have a custom parameter that you want to include in your prompt, you can use our add on framework to include it.
+
+00:23:09:12 - 00:23:29:52
+不明
+So like Nicole showed, selecting a brand, a product, a persona. But there might be some other parameter that you need to ship with the prompt to make sure that the LM is writing copy around some restriction. And in the pharma space, this is a medical claim. In retail, this might be a certain price guideline on how we write copy for the price of the product.
+
+00:23:29:52 - 00:23:52:46
+不明
+So you can select the add on at the level of prompting. And then when you get results, you can start to extend from there. And so really the innovations that we've seen from our partner ecosystem here has been remarkable. They've taken this app builder framework and Gen Studio add ons and launched several specific industry integrations for some of the regulated industries.
+
+00:23:52:46 - 00:24:20:20
+不明
+That on brand check is not good enough. You have to pass very strict legal compliance requirements. So now you can take draft versions of emails or ads and send them off to these third party technologies. Our solution partner built extensions and get back additional checks on your content so you can pass medical, legal and regulatory review, Finra, SEC, all of those types of additional compliance check.
+
+00:24:20:27 - 00:24:39:39
+不明
+The user can now verify that their content is getting closer and closer to being compliant, but we never publish without final review and approval from a human. So all of this kind of gets the content to a better place and then you can ultimately launch. So I'm really, proud and excited to see this app ecosystem start to grow.
+
+00:24:39:52 - 00:25:07:30
+不明
+So we expect to do more partnerships with more third party technology vendors and our partner ecosystem to extend that canvas and do more and more add on integrations. And then the second part of our partner ecosystem that's allowing for extensibility. Our solution partners. We ran a program starting at Adobe Max in Miami until now. And I'm pleased to announce that the partners you see listed here have accomplished deploying a rapid deployment solution.
+
+00:25:07:30 - 00:25:31:25
+不明
+We've, put them to the test by giving them an instance of Gen Studio. They've worked with customers live, and they're really available to you to actually support you and understanding how to run through change management process design testing. So actually, if I could get the partners here that are in the room just to raise their hands, give them a round of applause for all the work that they've done.
+
+00:25:31:30 - 00:25:53:01
+不明
+If you have questions about Jen Studio for Performance marketing, please go see these people. I'm sure you're going to, you know, rush the stage, talk to Nicole. But there's also partners in the room that are now available, and that's part of the magic of the Adobe ecosystem. We think this app has the opportunity to be very transformational, but we also need the support of technology ecosystem partners and solution partners.
+
+00:25:53:06 - 00:26:12:52
+不明
+So, shout out to those partners that have worked with us. Okay. I feel like I've saved the best for this moment. Like so excited for Jen studio labs, we call this the Innovation and Roadmap session. I think this is where innovation really starts to show up. So, Nicole, do you want to walk us through your teasing it earlier, these lab labels in your instance.
+
+00:26:13:06 - 00:26:32:46
+不明
+What is that all about? Yeah. So, we have you'll see a couple of labels in here. So you'll see beta labels. So things that we've actually released that are just sort of early days. And then labs are things that we're truly experimenting with. So we create these various use cases inside of the system. We play with them when they are production ready, then we will release them.
+
+00:26:32:51 - 00:26:53:18
+不明
+But you are going to get a sneak peek at quite a few of them today, so pretty exciting. I'm actually going to start with on brand image generation, which is not a lab. It's in beta. So this was the Firefly integration we were talking about. And what I really love about this is the reference image. So here, instead of just starting with a blank prompt to do on brand image generation, you can start with a reference image.
+
+00:26:53:33 - 00:27:14:11
+不明
+So here I'm going to grab my water bottle in the woods with the beautiful green background. And it's going to reference fish as I start to prompt and create on brand images. So here you can see I can select my brand. So here I've got my weekend brand. My image category, the model that I'm using. So you can see fireflies here and my style references.
+
+00:27:14:11 - 00:27:31:55
+不明
+And the other really cool thing is whatever reference image you choose, it will start to fill the prompts with basically how you would create an image like that. And so for me, I've got a variety of products that I use in my weekend brand. So I can actually change this. So number one it's going to create a few different variations for me already.
+
+00:27:31:55 - 00:27:52:32
+不明
+So I've got four different water bottles in the forest. But let's say I wanted to change out my product and I wanted to make this my backpack look, can I spell backpack correctly first? And then we generate and it will regenerate. Still using that style reference and my weekend brand. But it's going to swap out for my other product.
+
+00:27:52:37 - 00:28:07:01
+不明
+And so it's a really cool way to sort of iterate an idiot and make variations using your style and your brand. So it's it's a super neat thing that we're doing. Firefly. So that is on brand image generation.
+
+00:28:07:06 - 00:28:29:13
+不明
+Now we're going to move over to the labs. So the first lab that we're going to take a look at is content production agent. And this essentially creates on brand experiences based on a brief. So here I'm going to browse through my files I've got a creative brief ready to go. And the agent on the right, we're going to keep an eye on because it's going to tell us what's happening throughout the process.
+
+00:28:29:13 - 00:28:36:24
+不明
+So it's super informative about how it's processing your brief and what it's doing.
+
+00:28:36:28 - 00:29:01:03
+不明
+So now I'm going to grab my brief. It's starting to process and analyze. It's going to give me four different campaign ideas to choose from that I can then start using in my create flow. So you'll see each step of the way to understand what's going on. It is giving you what it's understanding about your brief, and then it will give us the concepts that it's imagined based on what we've uploaded.
+
+00:29:01:08 - 00:29:23:02
+不明
+So here we have four different options. So we've got an Innovator's Insight series with sort of a proposal. The tactics we would use to deploy this campaign. And if I like any one of these, I can actually use this to start creating my assets. So this jumps me directly into a create flow from a brief. So now it's going to start creating assets for me across various channels.
+
+00:29:23:02 - 00:29:47:56
+不明
+Based on the concept I accepted in the brief that I uploaded. And Nicole, when when you created this or like this started, getting built when you said earlier, like people bring in their brief into that prompt, like, how can can you say a little bit more about, like how this is going to work, where or potentially work where we take the brief and like that starts acting as the prompt for like all of these generations.
+
+00:29:48:03 - 00:30:18:59
+不明
+Yeah. Because at the end of the day, you've get a little louder. The campaign brief is really the context that you want to be creating your ads. It has your objectives, it has your key messages, it has your personas, and all of that context is really what you need in order to generate everything. And so instead of having you have to select your brand, select your persona and make those selections, taking your campaign brief and frankly, your campaign record from work front and just bringing that into your create session saying create me emails, create me Facebook ad like choosing your channels and letting it sort of omni create based on your campaign.
+
+00:30:19:13 - 00:30:40:25
+不明
+That's where we're headed. Okay, so here we've got a couple of Facebook ads. It's created email variations for us. And so we can start to play around with these and, you know, decide what we want to be able to use. So this is our lab sort of brief to assets flow that we have right now. And as we get closer to production ready you all will start seeing it inside product.
+
+00:30:40:30 - 00:31:04:25
+不明
+Okay. Next lab. Video ads. So we know video is the big thing everybody's after and we're going after it very quickly. We know that even motion itself, not even a video changes conversion rates. And so showing something that moves is a very big deal. And so we'll talk about image to video in just a second. But I'm actually going to start with an existing video ad.
+
+00:31:04:30 - 00:31:09:58
+不明
+So here I'm going to grab my video file.
+
+00:31:10:03 - 00:31:31:00
+不明
+I like the skate park one. And it's going to bring my video into the canvas. And then it's going to allow me to again prompt for my overall, ad, but it's going to include my video assets. So if you've got existing videos you can add them here. I'm going to grab my prompt that I created earlier as a shortcut.
+
+00:31:31:04 - 00:31:46:30
+不明
+But you all weren't supposed to see. But that's okay. All right. We're going to generate an ad here based on our video. So this is going to give us a couple of meta sizes. Using the video I chose. It's going to give us some copy variations. And then we're going to have the same functionality that we have on the canvas.
+
+00:31:46:30 - 00:32:12:54
+不明
+So being able to swap out words you get a couple of different options here on the left hand side. But here now we're able to take existing video reuse and sort of remix for for different things. And this part of the workflow is normally very time intensive to take a full video and then bring it into like premiere and do cut downs and then layer text on top of this is, I think where we see the this product going.
+
+00:32:12:54 - 00:32:31:58
+不明
+So we might be sort of assembling copy for meta ads that are image. I think this is where this product is ultimately going to land on the creative production piece, as video is just such a key piece of how we're, you know, sort of envisioning that being used. And that brings me to the last lab I will show you today.
+
+00:32:31:58 - 00:32:54:45
+不明
+And this one is actually my favorite because as we mentioned, motion and the reuse of assets and trying to be more efficient and save time and save money, taking an existing image and just creating motion for it is a really quick way to refresh something and reuse it. And so here I'm going to select from my file. I'm going to use the same backpack image I've been using all day in the demo.
+
+00:32:54:45 - 00:33:15:58
+不明
+So it's that mountain background with the backpack in the front. And then I'm going to prompt for essentially some motion. So here we've got the backpack sitting in the woods. I'm going to generate. And it's going to give me a bunch of options on the left. So you can actually change camera angle. You can pan in pan out.
+
+00:33:16:03 - 00:33:29:07
+不明
+But this one kind of I was playing around with this yesterday was kind of making me laugh what it was generating. And the other great thing about this is you can do a first frame, last frames, if you wanted to start on the water bottle and on your logo, like your last frame could actually be a scene of your logo in the woods.
+
+00:33:29:07 - 00:33:45:06
+不明
+There's a lot of things that you can do with this, so we're having a lot of fun with it. It does take a minute to generate, but you can see it's filling in my prompt already. So this is telling. It's describing what it's seeing and what it's going to show me. So you really get that rich description and it sort of helps you learn how to prompt as well.
+
+00:33:45:10 - 00:34:00:14
+不明
+So the idea here that the user would get this prompt and then maybe make some tweaks. Exactly. So the first try, it may not be exactly what you're looking for, but you've got the full rich prompt built out that you can then start to edit and regenerate until you get what you want. And this is using the Firefly video model.
+
+00:34:00:14 - 00:34:09:02
+不明
+So again another touch point across products. So everything here is powered by by Firefly.
+
+00:34:09:07 - 00:34:27:26
+不明
+So while this shuts up we do have a couple of questions that are related here. So the most upvoted question is if you have the dam and work front, is this the only place that you have an AI or where is gen AI? And what you'll see across the product suite right now is Genesys being put everywhere.
+
+00:34:27:39 - 00:34:42:48
+不明
+So if you're a site's user we're going to give you AI there. If you are a work front user we're gonna give you Genii there. And they're not necessarily the same features and functions, but we're trying to infuse it everywhere that it makes sense. And so don't be surprised as you sit in your meetings and you're learning more things, like you're going to see gen AI throughout the product suite.
+
+00:34:42:48 - 00:34:49:32
+不明
+It's really, truly everywhere.
+
+00:34:49:37 - 00:35:06:58
+不明
+Is work front necessary for the approval process? No it's not. So there is native review and approval built into Gen Studio for performance marketing. So if you don't have work front, that's okay. You can use review and approval still. Second thing is, if you have a third party review and approval system, you can use the extensibility stuff that it was telling you about.
+
+00:35:07:03 - 00:35:19:03
+不明
+During the process. Okay. Thank you for letting me fill the silence with answering your questions. Let's see the video.
+
+00:35:19:08 - 00:35:33:34
+不明
+So that was my favorite one. I had two variations going yesterday. One, a man would pick up the backpack and it would be carried off. And the second one, the man disappears in the backpack, just like so. It's pretty fun. So you can see why it's in labs, but you can also see the potential, like start to make things move around.
+
+00:35:33:39 - 00:35:48:06
+不明
+And it gets really exciting, really fast and allows you to really get the most out of your creative and the most out of your assets. That's what's in labs today. Thank you so much, Nicole. A round of applause for Nicole and.
+
+00:35:48:10 - 00:36:24:22
+不明
+The labs features that we've launched on Thursday before summit. These were not here correct. These were not here like a few days before something we've been working on, like using that reframe API to do the video ads we had been working in type trialing. This idea of a brief being kind of building and assembling your campaign ideas. And I say that just to indicate the speed at which we're trying to innovate, like, yes, these are in labs, but any paying customer that uses Jen's studio and is licensed for it can access these lab features and use them for the value they create.
+
+00:36:24:26 - 00:36:45:41
+不明
+And our intention is to fully feature them in the workflow with brand checks, review and approval, and sort of make them fully available over the next several months. So, I've worked on many different product teams in my career, and I've never seen a team move as fast as the Jen Studio for performance marketing teams. So again, the product team is like my heroes.
+
+00:36:45:41 - 00:37:12:55
+不明
+I thank them every day for allowing me to get up and say, like, cool stuff that we're launching. Okay. So we did. We saw labs in action. This is just a quick snapshot of what we've gone through today on what is now available in Jen's studio for performance marketing. So these are the new things that we have launched LinkedIn creating Google Campaign Manager display ads image Jen the ability to fine tune the LM, integrate to fire fly custom models, create web banners.
+
+00:37:13:06 - 00:37:37:09
+不明
+Those channel and accessibility checks. So chatting checking for meta checking for accessibility activation. Meta. Arjo Marketo. See how to even have the campaign logo on there, because even that one shipped like that. Add Jen Studio add ons, the App Builder extensibility framework work around proof and then these new labs, the agent image to video and video ads.
+
+00:37:37:13 - 00:38:01:17
+不明
+So that's just a snapshot of what we've launched. Now I see a lot of questions coming in. We'll definitely we've got some time to get to them. But I also want to just take a step back and look forward to the roadmap. So if this is what the product does today, like where are we taking this overall? Because I'm sure a lot of you from different areas of either paid media or life cycle marketing and email or web marketing have lots of questions around how this is all going to stitch together and work.
+
+00:38:01:17 - 00:38:19:07
+不明
+So Nicole, do you want to take be the Brave one to talk about roadmap and sort of where we're taking this product always. Okay, so giant disclaimer you don't have to read it. All it says is that these are target dates. These are ideas we may or may not hit it. We're going to try our best. And you may actually get more than you actually see on the slide.
+
+00:38:19:12 - 00:38:37:55
+不明
+I guarantee you'll get more slide. Yeah okay. So we're doing a lot and I'm not going to read through every single one of these with you. I'm going to just hit some highlights. But feel free to take pictures and you can see everything that's coming. So expanding on brand content creation across channels, being able to use additional models.
+
+00:38:37:55 - 00:39:00:07
+不明
+But the big thing happening here is both translation and localization and multi-language are three. So the thing on multi-language and translation, we look at it in two different ways. So taking your existing ads in a language and being able to translate that for regional markets is one thing. The second thing is actually multi-language, meaning having your brand guidelines in several languages and being able to create in that language.
+
+00:39:00:07 - 00:39:19:55
+不明
+And so both of those things are going to be coming this year. Compliance workflows. We talked a little bit about that in the extensibility. But for highly regulated industries, being able to plug into your MLR, being able to, plug into your medical claims library. So a lot happening around compliance. So making sure that you're on brand and also legally compliant, you'll see a lot more coming in inside.
+
+00:39:19:55 - 00:39:36:31
+不明
+So not only just connecting to the channels, you know, figuring out how to give you true campaign insights. We're looking at that as well. And then on activation and insights, we've talked a lot about activation today. We talked about the automatic content tracking with the tracking code. That's again going to be that connective tissue across the process.
+
+00:39:36:36 - 00:39:55:43
+不明
+And we're going to support more channels for insights as well as bringing your own metrics. So all of the things that are most important to you and your brand. Third thing, we're leaning really, really heavily into, and I hope you're able to see that in the product today is first party Adobe integrations and making sure that they're not just sort of fusion connected, that it's truly a native integration.
+
+00:39:55:48 - 00:40:11:58
+不明
+And so we are going to be doing a CDP integration. So being able to leverage your segments to personalize your content even more, we're going to do a site's integration to make sure your long form content and your web pages, you're able to do long form as well. And the third thing that Ed touched on earlier is work front planning.
+
+00:40:11:58 - 00:40:29:44
+不明
+So being able to bring in your campaign context, your campaign workspaces, your extended schemas to inform content creation. So a lot, a lot happening on first party and then third party, of course, via our builder, partners who are building apps. Other folks who are building apps, being able to leverage that inside of Gen Studio as well.
+
+00:40:29:49 - 00:40:45:54
+不明
+So we have a pact year. You're going to hear a lot of announcements. Our next big, announcement will be at Cannes, followed by Max. So a lot happening. And as I mentioned, there will be even more than this that comes. So sort of stay tuned with us, hanging with us because there's a lot we're going to be doing.
+
+00:40:45:59 - 00:41:05:33
+不明
+Yeah. And a lot of the stuff that's under the hood here that's not listed on this slide is just the up leveling of all of the features as we can build them. I've been on product teams that, you know, they'll ship quarterly semi quarterly. You know twice a year the Gen Z or performance marketing team is shipping new features every month.
+
+00:41:05:38 - 00:41:31:13
+不明
+So like this. These are the big rocks on the roadmap. But there's always there's like new tweaks to how we make the workflow just a little bit better, how we boost performance. There's just so much, kind of love and attention going into making this of a product that you love to use. And I think that's something I've seen very refreshing inside of how this team is going to market is just the way that they're building the UI and making it very user friendly to actually scale the content.
+
+00:41:31:13 - 00:41:50:04
+不明
+Production would put a plus one on multi-language. I think that's going to be just an absolutely huge feature for so many global brands. And as we start to work with companies around the world, so yeah, we'll we probably got a bunch of questions now that we answer in Slido. So and if you are in Slido, keep popping in a couple more questions.
+
+00:41:50:09 - 00:42:10:48
+不明
+I think that is I'm on Q&A and next steps. This QR code will just take you to our web page, where you can learn more about Gen Studio for performance marketing. There's like a short kind of four minute demo there. We have a really cool marketing video as well that's like really awesome. My colleague who helped us design it is in the room, so she's a proud mama seeing her, seeing her video being up there.
+
+00:42:10:48 - 00:42:29:30
+不明
+So grab that QR code if you want to find out more. And just learn more about all of these features that we've launched. Everyone, thank you so much. I really appreciate the time. Thanks for going diehard all the way to the meet. We hope you had a wonderful Adobe Summit and we'll see you back here next year, probably sooner.
+
+00:42:29:31 - 00:42:33:00
+不明
+Thanks everyone. Thank you all for.
+

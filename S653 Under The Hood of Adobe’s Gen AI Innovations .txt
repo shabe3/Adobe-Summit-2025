@@ -1,0 +1,528 @@
+00:00:00:01 - 00:00:25:55
+不明
+Wonderful Wednesday. Welcome, everybody. It's fantastic to be here in day two of summit 2025. Always a pleasure reconnecting with our customers, partners and analysts. So thank you for being here so bright and early. Hope you all had your first cup of coffee. I had mine. And for those joining us online, thank you for we have thrilled to have you join us virtually.
+
+00:00:26:00 - 00:00:52:34
+不明
+So how many how many of you have seen all the big announcements and what were your reactions today? One. Awesome. Did you hear about the agents and the agent orchestrated? Did you soak it all in? Because this is a session where we are going to go under the hood of it. And so let's dig in. A lot has happened since we launched Adobe Experience Platform AI Assistant at Summit 2024, built right into your application workflows.
+
+00:00:52:38 - 00:01:17:29
+不明
+The AI assistant helps practitioners understand product concepts, gain in data insights instantaneously to questions like how do I double my audience sizes or even troubleshoot in a self-serve manner to issues like why are my journeys not triggering? So in just under a year, we have hundreds of customers and thousands of users embracing AI assistant, transforming how work is done inside of a business.
+
+00:01:17:34 - 00:01:52:50
+不明
+So before I assistant asking data related questions such as show me my duplicate segments or what are my best performing experience variants? And most importantly, why you should take multiple steps. Navigate dashboards and even wait for an analyst. But with AI assistant, natural language questions and data insights out instantaneously. And we are happy to hear that customers who have tried it have mentioning that what used to take hours and perhaps days waiting for an intermediary.
+
+00:01:52:55 - 00:02:16:39
+不明
+Now just a matter of milliseconds. And these data insight responses are fact based, data precision oriented. The grounded in customer data. And they serve with full transparency, explainability and data provenance. Now we are going into the next era of journey innovation inside of Adobe Experience platform. The agent orchestrator, which is going to be the focus of the session.
+
+00:02:16:44 - 00:02:41:11
+不明
+So I'm Neeraj, Innovation product leader for Adobe Experience platform, and I'm delighted to be joined by Julia Garner to know who leads a journey. AI initiatives. Together we are going to break down what Adobe really means by agents because let's be honest, there are multiple definitions floating around. You're going to get under the hood of the agent orchestrator, peel the layers, and most importantly, what it means for you and your business through real world examples.
+
+00:02:41:25 - 00:03:14:38
+不明
+So let's jump in. Now, why agents on day one mainstay Daniel Chakravarty had highlighted a pivotal shift. Customers in the era of conversational AI now demand and expect two way, real time, hyper personalized interactions that they are in complete control. So to meet these customer expectations, we must usher in the era of customer experience orchestration, where content, data, and journeys seamlessly work together to deliver dynamic, intelligent experiences.
+
+00:03:14:43 - 00:03:42:07
+不明
+But what should customers do in order to deliver customer experience orchestration at scale? What does it entail? It means orchestrating billions, if not trillions of personalized experiences while respecting customer's privacy and preferences amid tight budgets. And it is this tight budget that is stretching teams. Then content teams are not able to produce content fast enough to meet the growing demand.
+
+00:03:42:12 - 00:04:24:31
+不明
+Website teams have to manage thousands of pages, but bandwidth constrained means many pages are outdated or underutilized. And marketing teams aim for hyper personalization, but scale constrained means they end up sending broad generic campaigns missing opportunities for deeper customer engagement. And that is why to help your customer experience orchestration, scale, we have introduced ten intelligent, purpose driven digital agents across the entire customer experience lifecycle from planning to data management to audience optimization, to journey optimization, to experience optimization, to experimentation, to performance analysis, and much more.
+
+00:04:24:32 - 00:04:50:13
+不明
+And this is just the beginning. And these make work smarter, faster, and more effective. They are pre-trained at Adobe for a long period of time. The quality hardened by extensive betas, and they are turnkey. Once launched, these agents run seamlessly within your applications. Now let us break down Adobe agents. So I would like to highlight four key characteristics of Adobe agents.
+
+00:04:50:13 - 00:05:19:35
+不明
+And all of the agents pretty much follow these four key characteristics. Number one paramount to us is Human-Ai collaboration. So the agents collaborate and coordinate with the practitioner inside of these application workflows, just like a teammate. It is not human versus AI, but it is AI plus humans. So let's take the example of data insights agent. It takes natural language, analytical queries and transforms that into partial visualization.
+
+00:05:19:40 - 00:05:50:13
+不明
+Not only that, at every step it allows a practitioner to steer AI driven decisions, readjusting the visualizations, refining the analysis, and who is going to dive deeper into showing how the agent orchestrator interacts with the human in great detail through his demos. Number two Always-On intelligence. These agents are constantly running in the background, proactively surfacing optimization opportunities and flagging risk and issues before they impact the performance.
+
+00:05:50:18 - 00:06:20:22
+不明
+Managing thousands of audience segments is no mean feat. So team spend hours sifting through audiences, identifying overlaps, duplicate segments, monitoring audience health. This is where audience agent really shines. It proactively monitors audience health as an example. That is one of the agent skill. And it shows notifications right inside your AI assistant inbox, which is a new feature. Not only does this show issues, but you can drill down into the issue.
+
+00:06:20:23 - 00:06:46:03
+不明
+It shows detail, root cause analysis and guides on next best actions and even completes those so that you can increase your audience engagement and eliminate any audience fatigue. So you can go to the Gen Pavilion to see this in action. Now agents not only assist, but they also action. They perform work on behalf of the practitioner. The site optimization is an example that I would like to illustrate.
+
+00:06:46:08 - 00:07:16:21
+不明
+It's a game changer for marketing managers and product owners. It not only identify, but also success pitch, performance issues, issue efficiency issues, security risk and accessibility gaps, and much more. And it saves a ton of time for the website teams. Lastly, the agents process deep and broad agent skills and that helps them orchestrate across cross application workflows, breaking down application silos.
+
+00:07:16:26 - 00:07:47:40
+不明
+So take the case of the content production agent. It reads a marketing brief like a pro gleaning what is the who, what, and where to generate content that is relevant and tailored for that specific audience. Segment. It also guides and optimizes experience, layout and formats to suit for that specific channels. It knows your brand inside out. All the brand guidelines that you supply, it learns through it, and it's able to create a comprehensive brand object so that it can check for consistency.
+
+00:07:47:45 - 00:08:13:35
+不明
+So if the content, whether the content comes from studios, agencies or it's generated by AI, it reviews its course and it provides real time guidance to fixing the content content. And then when it's ready, it sends to Adobe. Look for an app for approval. So let's move on. We quickly saw how individual agents supercharge the practitioner. But just like we work in teams, the digital agents also work in teams.
+
+00:08:13:40 - 00:08:41:59
+不明
+Take the case of the Data Insights agent. It surfaces journey bottlenecks and drop offs contextually within the journey canvas and then collaborates with the journey agent, which in turn collaborates with the practitioner to adjust, simulate and fix the journey. So you can see this in action. In today's Wednesday afternoon Unified Customer Experience session. So the Adobe Agents basically is a talent multiplier.
+
+00:08:42:01 - 00:09:13:10
+不明
+It frees your teams to focus on what matters most, which is creativity, differentiation, and growing the business. Now agents are in just for expanding experience maker capacity. They also reshape how consumers and accounts and other teams, you know, interact with the brand. So we just announced this today. Brand considered an agent IC new application. It's a conversational interface that is available on a brand's web, mobile and messaging channels.
+
+00:09:13:15 - 00:09:40:03
+不明
+And it's two way real time and highly personalized and with brand consensus robotic interactions. The repetitive, relevant messages associated with traditional chat bots are a thing of the past. Why? Because conversations don't happen in silos. They require understanding the full customer experience lifecycle. And for that, the brand considers application as two agents. The product advisor agent, which is B2C.
+
+00:09:40:08 - 00:10:05:33
+不明
+It helps the consumer identify and discover the right products to meet their needs. And then there is an account qualification agent B2B that is nurturing the account, the buying groups and the leads and accelerates the sales cycle. So these agents know at any given point in time who the customer or the account is, the entire set of experiences they've had with the brand and where they are in their journeys.
+
+00:10:05:38 - 00:10:31:06
+不明
+And how is that even possible? Because they are integrated with real time, unified customer profiles. So if a customer comes requesting to check for an order the brand considers application immediately understands that the order is delayed. So instead of bombarding the customer with promotional messages, it either routes it to a support agent or offers a discount or better still, looks for faster shipping.
+
+00:10:31:06 - 00:10:56:26
+不明
+Option and recommends that. And all of this data and the signals that is contained in that rich conversation is also the insights are gleaned from that. And we perform longitudinal linguistic analysis to understand the intent sentiment. And this data goes and enriches the real time customer profile in real time. So what that gives you the result is a dynamic, intelligent, fully personalized journey.
+
+00:10:56:31 - 00:11:28:53
+不明
+And that's a big game changer. So that brings us to the third pillar of the agent strategy. Now this has been a conversation that I'm hearing in the last two days. You know, we know that you are also on your own agent journey. Either you are looking to build agents or are already building agents. So we are exploring multi-agent collaboration of how our agents and third party agents, whether those agents are built on top of agent, orchestrator or in any third party agent frameworks can interact with each other.
+
+00:11:28:58 - 00:11:52:10
+不明
+We see this as a very collaborative space, and we are seeking new partnerships that we can jointly identify the use cases and further this area. So we would like to do a quick poll. Where are you in your agent journey? Are you just getting started? Are you in the experimental phase? Are you scaling up? Are you fully operational?
+
+00:11:52:15 - 00:12:01:37
+不明
+One of the innovators. They're not started. But don't worry. Just exploring. So where are you? We would love to know.
+
+00:12:01:42 - 00:12:31:30
+不明
+We have around 50 responses from the room today. Most of you are saying just a second. So let's see the responses. Okay, so most of you are still getting started. That's 45% of you are still getting started. And then we have 19% who are experimenting. 13% of you are scaling up your actively building optimizing agent models. 4% of you are fully operational.
+
+00:12:31:31 - 00:12:51:47
+不明
+You have agent AI running in production. Seeing the impact and close to 20% of you have not started yet, you are not exploring yet, but want to learn more. Okay. Thank you. Looks like we have a great mix in the room. Whether you're just getting started or you're already building, we hope that this today's session is useful in your journey.
+
+00:12:51:52 - 00:13:20:13
+不明
+So let's move. Things are going to get interesting. Now let's peel the layer of Adobe Experience Platform Agent orchestrator. I would like to draw your attention to the purple box, the reasoning engine. This is the brain of the agent. Orchestrator is a new component. Upon receiving a request, it detects the intent, the goals, the constraint things and comes up with carefully crafted one or more plans, selecting the best plan at that point in time.
+
+00:13:20:18 - 00:13:56:33
+不明
+So if something goes wrong, it reassesses and readjust using a combination of reflection and backtracking, which is how humans approach complex problems. I don't know how many of you were in the Genius Strategy keynote session presented by Shivakumar or VP of engineering, and Aakash Maharaj delightfully went over this whole backtracking reflection using an intuitive example. So don't worry if you were not able to attend the session, who is going to take us through some very interesting use cases that's going to showcase the reasoning agent in action?
+
+00:13:56:38 - 00:14:20:46
+不明
+There's one aspect of reasoning agent that I would like to call out. It's the Human-Ai collaboration. The reasoning agent presents the plan for the practitioner to review and make any real time adjustments. So the reasoning agent then executes the steps in the plan, and for that it uses one or more agent orchestrators. And the agent orchestrator is deeply context of air and grounded thanks to Knowledge Graph.
+
+00:14:20:50 - 00:14:49:14
+不明
+So it's anchored in Adobe's rich marketing knowledge, customers data, documents, policies and procedures so that the responses are accurate, aligned with business rules, and trustworthy. And then it uses tools to invoke actions within of Adobe applications or third party applications. And all of those results and outcome come back into the Adobe Experince platform. So the agent orchestrator is continuously learning and optimizing.
+
+00:14:49:19 - 00:15:13:55
+不明
+Lastly, when it comes to AI, data security and privacy are non-negotiable for us. Customer data is isolated and protected. Business data is only used for training their own ML models, and nothing is shared. So with that, to really peel and get into the guts of the agent orchestrator, I'm going to invite my good friend who are here to take us through this, right?
+
+00:15:13:56 - 00:15:41:53
+不明
+How it works. What makes a person who really launched the AI assistant at Last summit, and he is now launching the Agent Orchestrator this summit and leading the evolution of how does Agent Orchestrator handle complex task? How does it optimize decisions and perform AI driven actions? Take us through the journey. Thank you Meera and welcome everybody. It's such a thrill to be here and show you the latest innovations that we've been working on.
+
+00:15:41:58 - 00:16:02:42
+不明
+As Mira said, I hope you got a chance to attend Shiv and Akash. His presentation yesterday when we introduced agent Orchestrator and then we went a bit deeper into a generic reasoning and customer experience language models. My goal for today is to use three examples to go a bit deeper and unpack each of these layers and really go under the hood.
+
+00:16:02:47 - 00:16:27:13
+不明
+And in order to do that and make it a bit more fun, I'm going to ask Mira to play the role of a curious and data driven marketer. And Mira, I loved your brand with the Adobe colors, so thank you for that. Channeling Adobe. Well, I will play the role of an agent, a sort of an expert mechanic.
+
+00:16:27:17 - 00:16:49:55
+不明
+I love I love your suit and I, I'm really getting into the character. I'm very committed to this under the hood bit. So as you can see, this took me quite a long time to find. I mean, I have it in my shop. Here's what I'm going to say. All right. Now, now I'm ready. Before I hand it off to Mira to introduce the scenarios.
+
+00:16:50:00 - 00:17:09:28
+不明
+I just want to say the examples I'm going to show you are focused on the audience agents, but the lessons are generally applicable. So with that, you know, how can I help you? All right. I'm excited to be a curious, data driven marketer for an online global retail company. Of course, I have a whole new idea for an engagement campaign.
+
+00:17:09:28 - 00:17:30:55
+不明
+Something fresh, something exciting. But I don't want to disrupt any of my ongoing campaigns. I'm looking for an untargeted audience, fresh, waiting for its moment. So how can audience agent help me find an audience that is not unused in any active campaigns? I think it's your camera. But don't take our word for it. Let's just ask the audience agent.
+
+00:17:31:06 - 00:17:53:04
+不明
+So here I have my problem. What engagement? Audiences are not used. And I'm just going to ask it. And I see that it came back with an answer very quickly. Let's zoom in a bit and see what this answer entails. So the first part of the answer you can see the nicely formatted table. I see a list of audiences that they seem to be engagement audiences.
+
+00:17:53:05 - 00:18:11:55
+不明
+I can also see the size of the hyperlink if I want to go dig in a bit more, and I can probably expand that. Then also download the full list as a as a CSV file. But the really interesting part for me is also what's what's under that table, right. Which where the audience agent has provided a list of verification steps.
+
+00:18:11:59 - 00:18:31:53
+不明
+The first one is telling me what it what it did try to do. Right. So starting with my prompt, it's telling me, hey, I'm trying to find segments of audiences that are labeled engagement that not are not used in a journey or destination or another audience. And then showing me the step by step of how it actually started to do that.
+
+00:18:31:58 - 00:18:50:15
+不明
+And finally, there's a link that if I want to see where it goes. In this case, we had to use a SQL query to click on that and see the annotated SQL query. If I'm technical and I want to understand even a bit more. So this is a huge part of of what it means to answer this question is not just the answer, but the verification steps as well.
+
+00:18:50:20 - 00:19:12:45
+不明
+So let's look at one of this in particular. Meera, it seems like you've created this audience a few months ago, and it's not used in any destination or journey. Would this be a good audience for you to use? Now I remember, it's perfect. I created this audience for, one time promotional campaign last Thanksgiving. It had very good conversion metrics, and I totally forgot about it.
+
+00:19:12:50 - 00:19:30:41
+不明
+This seems like a perfect audience for me, but this seems like a very simple insight question. So what's the complexity in answering this question? That's a great question, Meera. And that's a question I want to ask our audience as well. What do you think was the challenge in answering that question? And you have a few options to choose there from.
+
+00:19:30:46 - 00:19:54:25
+不明
+All right. Do you want to walk us through the results? Hey, things are still moving very fast, but I think most of you are landing either the first or the second bucket with close to 33% themes. US terms are still confusing or unclear in the question. 37% of you are think that you don't know where to find this information.
+
+00:19:54:25 - 00:20:21:59
+不明
+To be able to answer the question, 23% are not sure how to get started. And 9% of you think that it just takes too much time to answer the question. Awesome. Those are those are really interesting results. And the truth is that for a marketer, those are all valid concerns, right? Like they're all valid, including hey, I know how to do it, but it just just takes too much time for the audience agent though.
+
+00:20:22:04 - 00:20:27:00
+不明
+The first biggest one.
+
+00:20:27:05 - 00:20:47:02
+不明
+The first biggest hurdle that it has to to cross is the fact that the question was ambiguous, as some of you guys, have have noted for a it was a natural question for a human to ask. Right? It was a very simple one, but there's some ambiguity in it. What do you mean by engagement? What do you mean by not used?
+
+00:20:47:07 - 00:21:09:04
+不明
+In order for the agent to actually answer that question, it first needs to start specifying exactly what those terms means. Right? So the first thing it's going to do, it's going to have to say that, well, first of all, identify audiences as an entity in that, you know, an entity in that question. And I know that audiences are linked to journeys in destinations, and they're creating using data sets and schemas.
+
+00:21:09:05 - 00:21:37:37
+不明
+So that's the first piece of information that we need to identify. The second piece is that we know we need to translate not used into not used in a journey, destination or another audience. And then engagement is a semantic label that we have applied to a series of specific audiences. And that's something that Adobe can do or something that we're allowing our customers to do, because we know each of you might have different terms that you're using in your in your enterprises.
+
+00:21:37:42 - 00:21:56:45
+不明
+So that's step number one. Starting to specify this question a bit more. But I want to pause for a second and say, this is the beauty of an open ended conversation, right? Like if we were to restrict ourselves and remove the ambiguity by just answering a few, a set of canned questions, then you're not going to find it valuable, right?
+
+00:21:56:47 - 00:22:12:49
+不明
+Because you wouldn't feel like you're having a conversation with it. What needs to happen is that you need to be able to ask the question in your own terms, using the words you use every day. And the system needs to be intelligent enough to understand what you mean, or be smart enough to be able to ask for clarifying questions.
+
+00:22:12:53 - 00:22:29:34
+不明
+So now that we specify that question a bit more comes the next step, which is well, how do I actually get that? That answer that you're looking for in this case it requires, as I mentioned before, it requires a SQL query that needs to run. And for this we have a specific customer experience language model that you're using.
+
+00:22:29:34 - 00:22:53:17
+不明
+It's optimized specifically for this task. And it's going to be able to, you know, get provide us with the query to run and then execute the query locally in your own sandbox using all the constraints around your data. And, and then we have a reflection step. So because if the answer doesn't seem correct or does something off with it, we can go back, and try a different a different one.
+
+00:22:53:22 - 00:23:14:19
+不明
+Finally, one thing that I haven't shown you previously, but it's part of everything that we do, is the trust and governance layer. Is the user even allowed to ask that question? And if they're not allowed to, let's say, look at audiences or look at specific attributes in some of those things, do we provide a good enough answer back, informing them why the the query was not successful?
+
+00:23:14:20 - 00:23:36:00
+不明
+So trust and governance is core to everything that we do. Speaking of trust, how can I verify and validate if the audience agent is giving me accurate and trustworthy responses? We are asking a lot of open ended questions here, so how do we know if the system is actually working? How does it detect that it has made a mistake, and how does it correct itself and learn from it?
+
+00:23:36:05 - 00:23:53:26
+不明
+That's a great question, Meera. And that's core to our fourth pillar here, which is verifiability. This, this system is going to make mistakes. Like we all know that and it's just a fact of life and I have to live with it. But what you saw in the demo is that we are providing multiple layers of verifiability. So you can check if the answer is wrong.
+
+00:23:53:31 - 00:24:12:01
+不明
+Hopefully those layers of verifiability is going to are going to allow you to to figure out what what was going on. And that's not all we have behind the scenes. We have a lot of our scope detection models. So we don't answer questions that were not supposed to answer. And we have way so that the users can tell us, hey, you've made a mistake here.
+
+00:24:12:01 - 00:24:28:58
+不明
+Correct it so that we can recover and move on from there. So that's all part of the part of the verifiability layer. And actually allow me just a few more minutes to go deeper into this, because this whole thing is not going to work if you don't trust the answers. Right. If you don't trust that this can help you, it's not going to work.
+
+00:24:28:58 - 00:24:48:44
+不明
+So we're investing a lot of time in our continuous quality improvement process. Allow me just to unpack the three steps that typically we typically go through for this. The first one is quality measurement. So this is where we employ a variety of either human driven or ML driven methods to classify all the questions and answers and figure out where the errors are.
+
+00:24:48:44 - 00:25:09:32
+不明
+And in some cases, like for AI Twitter, if we have nuanced answers, we need to pair experts with, with the questions and answers and make sure that all the nuances are properly captured. Once we have this annotation done, we internally classify those errors into multiple buckets. The biggest one for us is what we call our severity zero error.
+
+00:25:09:37 - 00:25:27:50
+不明
+That's when the answer looks right, but it's actually wrong. And that's the one that keeps us up at night because that's the fastest way to lose trust in the system. And after we've classify all of that, we identify patterns in and figure out where exactly we can improve the system. And that takes us to step number three, which is quality improvement.
+
+00:25:27:50 - 00:25:45:02
+不明
+Right. And there's a lot of things you can do here. We can retain our models. We can enrich our knowledge base with extra information like new questions for the question bank. We can tune the reasoning engine or in some cases, we just simply have to build a new feature in order for us to to provide the answers that the user are looking for.
+
+00:25:45:07 - 00:26:01:46
+不明
+So that takes us to the end of demo three. I want to summarize a few key points. First of all, we believe there's a lot of value in, you know, in the open ended conversation interface, but that comes with the problems that we've seen before. So the architecture needs to account for them because the answers need to be correct in order for you to trust them.
+
+00:26:02:00 - 00:26:29:00
+不明
+And most importantly, we have to engage in this continuous improvement process because otherwise you're not going to use it. Mirror. What did you think of them? One oh, it was super, super interesting. It taught me how to engage with the agent so that it can help me modify my prompts, that it removes any ambiguity. And second, I really like how would check for permissions for certain Adobe Experience platforms that I don't have to reset everything.
+
+00:26:29:14 - 00:26:46:44
+不明
+That's the beauty of Agent orchestrator being part of the Adobe Experience platform. And number three, I really liked how it detected errors and how it was able to correct itself and learn over a period of time. I like all the tools in the in the quality tool box. Awesome. Now that we're done with that, what else can I help you with today?
+
+00:26:46:44 - 00:27:13:23
+不明
+Mirror okay, so I have a second challenge for my Monday morning is spent tracking thousands of audiences monitoring their health because every different audience means my spend and reach gets impacted and manually monitoring is tedious, time consuming, and potentially error prone. So can I let the audience agent proactively monitor my audience health? For me and also suggest actions and perhaps take them as well?
+
+00:27:13:28 - 00:27:33:16
+不明
+That's a really interesting question, Mira, and you'll get to see a bit more how the reasoning engine comes into play and how some of the interaction patterns are changing as well. And if you'll allow me the analogy of the mechanic, if the first demo was a bit like changing the brake pads on the car, this is more like a more complex task, like changing the the fuel pump.
+
+00:27:33:21 - 00:27:49:45
+不明
+All right, so let's dig in. I'm going to ask you a question. Can you monitor audience health for me. And I see that the system is thinking now. And it's thinking and it's coming back with the plan. So let's zoom in a bit on this plan. Right. So this is really interesting because I gave it a fairly ambiguous task.
+
+00:27:49:53 - 00:28:08:02
+不明
+And it's coming back with a plan. This plan is created by the reasoning engine, and it's fully specify to specify how exactly is going to accomplish the task that I asked it to. And this is a big deal because it's a lot of cognitive load to think of this plan to begin it. And we know you have a lot of complex tasks that you want to accomplish.
+
+00:28:08:07 - 00:28:27:43
+不明
+So the fact that now I have a plan and I can see that it's telling me like, exactly what is going to monitor and what's the significance of this change and how often it's going to run, and what is going to send me the notification. All of that are fully specified in the plan, and it's a big step up compared to the previous question and answer system that we saw in demo one.
+
+00:28:27:48 - 00:28:46:02
+不明
+But I don't like this plan yet. I think it's a great start, but I want to ask for some changes. I know that I have activated audiences and not activated audiences. I care a lot more about the activated ones. I'm going to reduce the threshold for that one, and I also want to get rid of the small audiences that I'm probably going to introduce a lot of noise in the system.
+
+00:28:46:15 - 00:29:07:33
+不明
+So I'm going to make this suggestion to the audience agent. I see that it's thinking again, and it's coming up with an updated plans, and I can see step two in the plan is is going to filter out the small audiences. And then I see that there's actually, a fork there. And it's just going to have different, thresholds depending on the, on the, on if the audience is activated or not.
+
+00:29:07:33 - 00:29:28:56
+不明
+So here's me working with the audience agent to draft the plan. That's exactly what I wanted to do. But how can I make sure that this plan is actually correct? So I'm going to just simply ask it in line. Right. Can you run this for me? And the system is coming back with the answer, and it's showing me to audiences that it has found one has increased, one has decreased.
+
+00:29:28:56 - 00:29:48:43
+不明
+I can see one is activated or not. And now this is a critical moment, because now I actually have to turn to Mira and ask her, because this is where the marketing needs to come in and verify that, hey, this is running according to the plan, that according to how I'm thinking that this this plan should work. So Mira, did those audiences the correct first of all and now the human agent collaboration.
+
+00:29:48:48 - 00:30:09:47
+不明
+Thank you. Audience agent. Yes, indeed. They look super accurate to me because yesterday I spent hours going over and monitoring my audience health manually, and these two were the suspects. So I really like how the audience agent instantly spotted these within minutes. This is a time saver for me. Perfect. And next time Mira logs into her. So I'm going to confirm that plan.
+
+00:30:09:48 - 00:30:28:15
+不明
+And next time Mira comes into the application that she's using, she's going to see a notification that, hey, something has happened with your audience right now. I can engage with it and see what has happened. So this is saving, like you're taking one task that you have to do, and now the audience agent is doing it for you and engaging with you when something is happening.
+
+00:30:28:20 - 00:30:49:37
+不明
+And we have a continuation of this demo. And if you want to see how Agent Composer comes in and how we can help you launch this kind of task across your organization, please come visit us at the booth. We have a lot more in, there for you. But going back to our demo, let's unpack a bit what just happened, because there's been a conceptual leap that that happened.
+
+00:30:49:42 - 00:31:09:53
+不明
+Between those two. So Mira is a marketer. This is she's focused on on audiences. The first demo that you saw was what we call a first technology leap, right? It allowed for open ended conversations, and it allowed Mira to ask questions that really helped her in the day to in her day to day job. But demo two was the second technological leap.
+
+00:31:09:53 - 00:31:29:20
+不明
+Now, I mean, I was able to give it a task and then the agent performed that came up with the plan. That plan is created by the reasoning engine. He came back with the plan and executed that plan for Mira. So now she now she can actually offload much more work to the audience agent. Wow, this is super interesting.
+
+00:31:29:20 - 00:31:48:37
+不明
+So are you telling me that I do not have to do question and answer kind of conversation anymore? I can share my goals and intent, and then the agent is going to think and come back to me with a plan and take my input that I think is going to be phenomenal for me, that that's exactly what I mean.
+
+00:31:48:42 - 00:32:04:26
+不明
+And it doesn't mean like sometimes you will still have questions that you need to ask, right? I'm not trying to say that the first the first part is not not important, but the beauty of of coming up with the task and then coming up with the plan for it is we think there's a lot, a lot of value there.
+
+00:32:04:31 - 00:32:24:57
+不明
+And the interaction patterns, as you see, have also changed. You went from a one question and answer type of interaction to now you're working with the audience agent. You're defining the plan. Once that plan is logged, you're letting it, run on a daily basis and now you're interacting with notifications. So let's unpack a bit the the demo.
+
+00:32:24:57 - 00:32:45:38
+不明
+Right. So what you saw in that demo, the structure of the demo was that I stated my goal. I got an initial plan, I provide the feedback, I got a secondary plan, then I tested it and then I confirmed it. And now the agent is running in the background then and every day is going to look up, going to run this task and give me notification if something has happened.
+
+00:32:45:42 - 00:33:08:23
+不明
+This is human plus AI decision making. This is humans plus agents working together to accomplish the task. And that's the core of what our agents are all about. Let's go one step further. So the first step in the process, as you seen, is creating the plan, right? This plan was created by the reasoning engine that's infused with all the Adobe marketing knowledge that we have.
+
+00:33:08:23 - 00:33:24:38
+不明
+We know we have complex tasks and the fact that we can help you get those tasks done by providing you with a starting plan is a fantastic value add. And it's not just our plan like you have to work with the agent and confirm that this is exactly what you want, but we're giving you a starting point and then you keep defining it.
+
+00:33:24:42 - 00:33:46:24
+不明
+Then comes the execution of the plan. This is where things get a bit more interesting. And some of the diagram that I showed earlier comes into play because now it's using various things like agent operators. Right to fetch that information, like how do I get those audiences. It's using tools like notifications to inform me, and it has to tap into the knowledge base in order to get that information that you want.
+
+00:33:46:29 - 00:34:05:32
+不明
+And for this to happen, different customer experience language models come into play. As you might have seen yesterday, the reasoning plan comes from a fine tuned I'm coupled to Adobe with the Adobe marketing knowledge. While some of these smaller tasks can be done by task specific language models, so we use the, the best tool available for this.
+
+00:34:05:32 - 00:34:26:31
+不明
+And it's a behind the scenes, a collection of language models that help us accomplish this goal. And while that was not present in the demo, there's also a lot of reflection steps in this as well. Like the as the plan gets executed. It's not a static plan, right? Like you go step by step, you reflect on what has happened before and you can change it as needed.
+
+00:34:26:36 - 00:34:44:56
+不明
+Third, there's a the beauty of all of this is that you can change that plan dynamically with without having to write one line of code, right? Maybe you'll get a notification tomorrow and you want to change something else in it. You can tell the agent to do that. Then the plan is going to change, right. So you're specifying exactly how you want that.
+
+00:34:44:56 - 00:35:08:47
+不明
+That's to be done. And that's a huge value add. And finally because now the agent is a bit more autonomous that too much. So in demo one we have to talk about guardrails. Right. The system that should be system. There will be system and customer specific guardrails, things around like limits on the compute time that you're using on the data that you're allowed to use and what you're allowed to modify.
+
+00:35:08:47 - 00:35:36:05
+不明
+And when you're supposed to get back to the to the user and ask for measure of this, all of this is what makes it possible. So let's recap demo one. First, you've seen how the audience agent now helps me not perform a task. That task is possible because of the creation of the dynamic plan and its execution, and the fact that because this task, you can continue to define those those plans, then the task gets executed exactly as you want it to.
+
+00:35:36:10 - 00:35:56:02
+不明
+So with that, let's go to demo three mirror. We have time for one more demo. We've helped you a lot today. What else can we help you with? Yeah. So the audience agent is helped me by providing insights that I could launch my engagement campaign. And now it's proactively monitoring my audience. And for me, this has saved me a lot of hours in my day.
+
+00:35:56:07 - 00:36:15:48
+不明
+But I do have a final challenge for the audience agent. So I have an upcoming campaign. In fact, it should run for the next 30 days. And it's about smart TV, and I want the audience to be very precise in this nature. Can the audience agent create based on my business goals? I do want to mention that I have a tight budget.
+
+00:36:15:53 - 00:36:39:44
+不明
+My reach is capped at 100 K audiences, and my conversion goal has to be at least 2.2%. Is audience agent ready to accept this challenge? That's a really interesting and complex question. Mira. I can't wait to see what the audience agent is going to come up with. And just to use my mechanic analogy one last time, this is akin to using my specialized tool to go deep in the power management system of the car.
+
+00:36:39:53 - 00:37:01:12
+不明
+So let's begin. I'm going to ask you a question. Can you help me build a highly targeted audience of 100,000 profiles for selling smart TVs in the next 30 days? So now the, the agent is going to think, and this might be a longer process of of thinking. And it's coming back with an answer for me. So let's let's unpack this answer first.
+
+00:37:01:17 - 00:37:23:27
+不明
+I can see that it's telling me, hey, because you've mentioned highly specific audiences, I suggest that we use a propensity model to build this audience instead of reusing existing ones. Then it's confirming some assumptions that I've specified in the prompt, or that in general generally knows. Right? This is told me that hey, the audience should be 100,000 profiles.
+
+00:37:23:32 - 00:37:50:03
+不明
+The goal that you have is selling smart TVs, and that's really important because if it misinterprets the goal and builds a propensity model for something else, that's not going to work. So this those assumptions steps are really important. It's telling me that the conversion window is 30 days and then it has a few more general assumptions that are not informed by the prompt, but by how you typically work in this case, like, hey, I'm going to include all geographies, but you can imagine that all of you have very specific rules.
+
+00:37:50:03 - 00:38:06:14
+不明
+So the agent is going to be able to automatically infer those. And then interestingly, it's coming up with a high level plan to build a propensity model. So it's giving me four steps right. First I'm going to identify the signals that I need for this. Then I'm going to train the model. Then I'm going to score all your profiles using this model.
+
+00:38:06:14 - 00:38:26:32
+不明
+And then finally I'm going to create the audience for you. Now overall, this is a pretty complex and daunting task, but because it has, because the audience agent has broken this down into small steps for me, I feel pretty confident that I can move on. So I'm going to ask you to proceed. So the next step, as you know, it's finding the data sets.
+
+00:38:26:32 - 00:38:45:35
+不明
+And this is going to be a challenging one. I see that it's coming back with a few data sets and signal that it has identified. So let's dig in a bit deeper here. Now the agent has done the heavy lifting right, churning through all the data that I have and identifying for that particular conversion goal that I have, what signals it should use to train the ML model.
+
+00:38:45:44 - 00:39:10:22
+不明
+This is taking me days if I know how to do it at all. Let's be honest, this is a pretty complex machinery, but it has identified product interaction data, things like I visited certain pages or I search for certain terms, purchase history and engagement and intent insights. Right. The fact that maybe I've engaged with the promotional offer. So all of this is what the agent is coming back to me for.
+
+00:39:10:22 - 00:39:32:33
+不明
+But this is, again, a moment where we need to pause and ask our marketer like, hey, you know, are these signals that you would use for for training the model? Yeah. So the first two data sets the product interaction data and the purchase history or something that we, my data team and ML team often use while we are generating campaigns.
+
+00:39:32:38 - 00:39:57:34
+不明
+But the third one, which is the engagement and intent signals, is something new for me. And that sounds pretty interesting for me because it is pointing to customers who have looked at offers for smart TVs in the past few months, but never bought it. So this seems very much, you know, tuned to derive the precise audience. So I'm getting really excited, and I cannot wait to see what the estimated conversion is going to be.
+
+00:39:57:39 - 00:40:21:53
+不明
+And also, this is a game changer because it is pointing me to data sets that we never knew existed, showing me these high value data sets. So thanks, audience agent. All right. With with minutes confident confirmation I'm going to move on. So now the system is actually proceeding to run through the rest of the steps. And I can see that it came back with an audience for me.
+
+00:40:21:57 - 00:40:42:23
+不明
+So behind the scenes what had happened was if you use those data sets and signals that we've identified previously, found the right the ML model, train the model on that data, reserve the power of that data to verify that the accuracy is high scored on the profiles, and then came back with an audience. That's a lot of steps that it had to do, but it was seamless for me.
+
+00:40:42:23 - 00:41:03:19
+不明
+And now I have my final audience and I'm only I have my final audience, but I can see the model accuracy score and there's a hyperlink there. I can see area under the curve and a few other things. If you know, and they want to really fully understand what's going on and it's showing me the influential signals so I can quickly verify that my that the marketer intuition aligns with this.
+
+00:41:03:32 - 00:41:26:17
+不明
+So me right came back with the 3.1% conversion rate. Is that something that you expected? Oh, it's even better than I expected. You know, I was just aiming for 2.2 and thought that was good. This is excellent and beyond what I expected. I also like the fact that this used to take days or even weeks, depending on when I get in the queue with my data animal teams.
+
+00:41:26:21 - 00:41:43:11
+不明
+Now you're telling me the agent is going to look at data sets that are interesting for my particular business school, it is building an ML model on the fly. It's training it, and then I can interact with the agent and tell if I don't like the score that I'm seeing, it's going to go back and redo that whole process.
+
+00:41:43:11 - 00:42:11:57
+不明
+So I really like Ideating with audience agent in this manner. It's really my thinking partner now. Also mirror and we do believe this is a big deal. This is that actually aligned with what you might have seen yesterday. And we can wait to put this in the hands of, of you, our customers, because we believe that this is where the magic starts to happen when you have predictive AI models that are powered by your data, but now becoming really easy to use with the help of AI.
+
+00:42:11:57 - 00:42:33:53
+不明
+So the mix of two of them coming together is really what can transform your marketing programs. Let's take a few peeks under the scene. So again, what you saw in the demo was a series of steps were asked the goal. I got an initial audience plan. I got an initial audience creation plan. I get I confirmed it, then it found the data sets and the signals.
+
+00:42:33:53 - 00:42:53:24
+不明
+I confirm that as well and then the model went on to be trained and the audience was created. This is just one possibility. There could be multiple steps in this process where maybe I would have make a different choice or go back. So this is not a static plan. This is again, as I said before, agents and humans working together to come up with a solution to the task that they have.
+
+00:42:53:29 - 00:43:12:39
+不明
+So for a final impact, what you saw was was fairly similar to the first demo, but now the plan is a lot more complex and it had to include a lot more variables under the scenes. Right? Like, first of all, we had to use it, had to know to use an ML model instead of reusing existing audiences. He had to then decide what data sets to use behind the scenes.
+
+00:43:12:50 - 00:43:30:23
+不明
+Like, am I going to use sampling or not? What the ML models am I going to use? Right? So there's a lot of a lot more complexity in this planet than what we had before. But as before, the user still has the ability to interact with it and correct it if needed. Second, the execution was a bit more complex, right?
+
+00:43:30:23 - 00:43:51:42
+不明
+If before it meant fetching a list of audiences and looking for significant changes, now it's a lot more about finding the datasets, training the model, verifying the accuracy of that then, and the chances of the the model, the the plan. Backtracking right and going to previous steps are much higher. Now, but still the user has to validate that critical points.
+
+00:43:51:42 - 00:44:15:07
+不明
+Right. So again it's human AI making this critical decisions. And finally because now this is a complex task. The the agent has shown me right the data that he used, the influential factors the model accuracy score. So still I still have a lot of trust in the system. And it's also going to show me the reasoning steps if I want to in order to verify step by step, because you can execute all those steps yourselves.
+
+00:44:15:08 - 00:44:39:14
+不明
+Right? It's just that the agent is doing a lot of the heavy lifting here. So to wrap up the move three, what you saw now was a different type of task. This one was a goal driven task, and it was a one time only task. And you saw how predictive and ML became conversational and why we believe that the power of of your data becomes now becomes on log with this predictive models becoming conversational.
+
+00:44:39:19 - 00:45:01:29
+不明
+And with that, I'd like to hear one last time from your other marketer. Yeah. Thank you Adobe agent. Wow, what a game changer. I got instant insights into my untapped audience and was able to launch an engagement campaign that typically used to take weeks or perhaps even days now to just few hours. Audience agent also set up proactive audience health monitoring.
+
+00:45:01:29 - 00:45:32:07
+不明
+For me that I don't have to spend my Monday mornings debugging. I hate that, but the real magic is coordinating with the AI to create this precise, audiences based on my business goals, and they came out looking like a winner 3.1% versus 2.2% expected conversion rate on that data set. Engagement and in turn, signals which I had never thought existed, and all to do it by myself without having to be in the queue with my data and ML teams that I call, is like a factor for me.
+
+00:45:32:20 - 00:46:04:48
+不明
+I cannot wait to try out other Adobe agents and share with my team. Says about, well, what Adobe said was indeed true. These Adobe agents are going to be supercharging and scaling my customer experience management programs. Okay, how do you see agents transforming your workflows? Okay, we had close to 50 people responding to this. Let's see how you would like Adobe Experience platform transforming your workflows.
+
+00:46:04:53 - 00:46:34:23
+不明
+Most of you, 36% of you said that you would want to add to enhance decision making with AI driven insights. So that's the largest bucket. 25% of you said you see it. Automating repetitive tasks, improving your efficiency. 24% of you said you see it go ideating optimizing strategies in real time. And 16% of you think that it will help you reduce dependencies and just accelerate the speed of execution.
+
+00:46:34:27 - 00:47:09:48
+不明
+Wonderful. Thank you all. And to wrap it up, I just wanted to highlight a few key value ads for what we just presented today. So you saw the beginning, how AI assistant was a game changer, getting fact based responses, delivering data insights to you with full transparency, explainability and data provenance. Now with the agent powering that, it takes it further, being proactive, whether it's proactively showcasing optimization opportunities or performing action on your behalf or doing cross application workflows.
+
+00:47:09:57 - 00:47:35:29
+不明
+So first, let's focus on grounded in real time context. So what we mean by this is that deep anchoring in Adobe's marketing expertise in customers data and documents, in policies and procedures. So the answers are accurate. Number two, not all data has to be an Adobe expense platform. It's an open and flexible system, so you can let the data live where it is.
+
+00:47:35:29 - 00:48:00:17
+不明
+And we have several optimization opportunities for you to minimize data movement and maximize efficiency. And number three, about the real time context is the fact that you just saw in the demo, third demo, goal based audiences that we were able to create ML models on the fly, and that's a real game changer. The second is it's built for enterprise scale, and all these agents work right out of the box.
+
+00:48:00:17 - 00:48:22:46
+不明
+As I mentioned before, it is pre-trained for a long period of time, quality hardened. But we also allow you to customize the agents. So there is a demo at the Adobe Genie Pavilion where you can go and see how agents can be discovered. New agents can be registered, customized, extended, orchestrated, etc. so that is around extensible for enterprise scale.
+
+00:48:22:51 - 00:48:45:50
+不明
+And we are also exploring our agents, talking to third party agents to kind of unlock greater use cases. And the last is around trusted and responsible AI. This is at the very core, and it is of paramount importance to us. So there are four aspects that I would like to draw your attention to. And number one is we basically the data security and privacy that I just mentioned before.
+
+00:48:45:50 - 00:49:24:50
+不明
+Customer data is not shared across organizations. Your business data is used for training and ML models, and it's isolated and protected. Number two is around the notion of, you know, data governance and privacy and security. All of the things that this is an Adobe Experience platform also percolates to the DNI and agent layers as well. Number three is around bias detection, and we have a lot of models within our ML foundation that does bias detection and drift detection and so on to ensure that, you know, there is some full transparency to how the models are being generated and used.
+
+00:49:24:55 - 00:49:55:01
+不明
+And then lastly, number four is the fact that all of your permissions, whatever you define in Adobe Experience Platform, is used by the junior and the agent layer as well. So with that, the future of customer experience orchestration is indeed here. And Adobe Digital Agents is going to amplify and add capacity to your teams and act as a talent multiplier who ideate with your practitioners and collaborate with them and accelerate productivity, efficiency.
+
+00:49:55:06 - 00:50:23:40
+不明
+And so no more waiting on dependencies. What once used to take hours and perhaps days can now be accomplished in minutes. And the that it's a wrap for the session, but we are here for further Q&A and there's plenty more sessions for you to absorb. And here are a few sessions that we are highlighting. Take the time to soak in these sessions, ask questions, and think about how Adobe's agents and innovations can drive impact to you and your business.
+
+00:50:23:45 - 00:50:42:11
+不明
+And please join us at the AI Pavilion. We're there to show you more demos, and we'd love to engage in a conversation and tell us what's working. What do you think about this session where we can help you more? Right, because we're very excited about this technology, but it can only work if we're actually helping you accomplish something that's of value.
+
+00:50:42:15 - 00:50:55:22
+不明
+Thank you very much. We really cherish all the time that you've spent with us, and we are here for Q&A. We will be hanging around for another ten 15 minutes. So feel free to come over and talk to us. Thank you. Thank you.
+

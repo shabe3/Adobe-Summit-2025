@@ -1,0 +1,552 @@
+00:00:01:42 - 00:00:26:44
+不明
+What's up y'all. Woo! Welcome to the rockstars everyone get a t shirt. We got three different colors. We got all the sizes. We got all the styles. We got all the it's there's no stupid eight bit stuff on any of these t shirts. All right. This is the real deal. It's so good to be here back with you all.
+
+00:00:26:45 - 00:00:49:50
+不明
+Adobe Analytics Rockstar are so much fun that this is what this is my eighth time hosting Adobe Analytics. Rockstar. I'm so happy to be here with you all. Thank you for joining me. Yeah, we have an incredible session for you with so many great tips, and I don't want to delay it any more. You want to listen to me when I listen to the smart people, right?
+
+00:00:49:55 - 00:01:15:37
+不明
+Okay, so none of those boring slides. Let's get into the real good stuff. So if you haven't been here before, I'll walk through the concept. Okay, so Adobe Analytics Rockstar has some simple rules three simple rules. Number one, it's a competition. If you didn't know that these these four have been like it. When we rehearsed I saw Mandy especially Mandy had like the the eye of the Tiger when when everyone else is rehearsing.
+
+00:01:15:37 - 00:01:31:39
+不明
+It was great. So we have our four contestants and this is actually new. So last year we had five previous years we sat at six. And you know what? We thought? Why don't we give y'all a little bit extra time to share your amazing tips so you can learn more and we'll have a better time. Does that sound good?
+
+00:01:31:48 - 00:01:50:47
+不明
+Want to learn. All right. Next we also want you to decide the winner I've got my preference I will not share it. But I want to hear your favorites. And so at the end do not leave. We need you to vote. We need you to tell us who is the Adobe Analytics Rockstar winner. But everyone's somewhere, right? Okay.
+
+00:01:50:58 - 00:02:11:24
+不明
+And we just have one winner. Your winner. Great. All right. Plus and this is new and I hate these slides when we rehearse. So they didn't even know what's going on. We have a big special announcement at the end. So please please please stick around I know everyone's like, can't just wait to get back to the Las Vegas airport.
+
+00:02:11:24 - 00:02:33:00
+不明
+I know I can, I've been here for I don't know, it feels like six months, but, I'm really happy and really excited for this big announcement, so please, please stick around, because it's a really big one. All right, so let's meet our rockstars, shall we? They are sitting in alphabetical order by first name and last name, which was very convenient for me.
+
+00:02:33:05 - 00:02:41:48
+不明
+So first of all, we have Jeff Bloomberg give it up for Jeff.
+
+00:02:41:52 - 00:03:01:12
+不明
+One of the very few times you'll see Jeff without a cowboy hat or a Adobe bucket hat. So it's it's nice to see him. Jeff from Blue Meringue Analytics. Next up alphabetically again first name last name. We have Jen Duncan. Give it up for Jen.
+
+00:03:01:17 - 00:03:22:18
+不明
+Jen hails from Torstar and Toronto. Toronto pardon my, American accent. And and wonderful to have you back at the analytics rockstar stage. Next up we have Mandy George, our analytics rockstar winner from last year.
+
+00:03:22:22 - 00:03:36:36
+不明
+Yeah, give it up for Mandy. Mandy's got some crazy tips. You're gonna love them. Next up and last but certainly not least only alphabetically. We have Tran Thanh give it up for Trent.
+
+00:03:36:41 - 00:03:57:03
+不明
+Trent hails from West Ex Consulting and he's a blast to work with. I'll tell you what. All right. But, Great. Really getting into that rockstar mode. All right, should we get started? All right, so here's how it's going to go. We're going to go down the line alphabetically. They're going to have their ten minutes to present one tip.
+
+00:03:57:03 - 00:04:12:58
+不明
+Then we'll go back down the line. And they've got the rest of their ten minutes to present the next one. And then we'll decide the winner. And then we got that really big announcement at the end. All right. Let's see who we got first. I already know, Jeff. Take it away, buddy. Stand up. All right. Give it up for Jeff.
+
+00:04:13:03 - 00:04:24:40
+不明
+All righty. Him with it. All right. Okay.
+
+00:04:24:45 - 00:04:47:35
+不明
+Well, first of all, I'm not the best at memorizing. So shout out to all of those neurodivergent and the crowd who first those who haven't met me yet. I believe in transforming tedious subjects into engaging stories that keep audience on the edge of their seats. So as I was writing this presentation, I couldn't help but be reminded of racing analogies.
+
+00:04:47:40 - 00:05:20:42
+不明
+Because just like in a race, the key is building momentum and knowing when to shift gears to keep things exciting. With that thought in mind. Welcome to the Adobe 500 and need for speed accelerating your results with precision. Part one. Conversion variables are great, whether in Adobe Analytics or Customer journey analytics. Leadership looks to us to prove that their high profile internal promotions and third party relationships are contributing to the bottom line without muddying their marketing channels.
+
+00:05:20:42 - 00:05:45:52
+不明
+Plus, we need clean separation from the rest of our everyday metrics and typical navigating navigation, tracking. We've all been told how amazing attribution is. However, there's something to be said about just setting your expiration right out of the box. Then let the variables do work. Do that work for you exactly as it was configured from day one.
+
+00:05:45:57 - 00:06:17:42
+不明
+Now remember that phrase, set it and forget it. So where's all this leading? That's the fun part. I'm going to take you to the next level, the Grand Prix of Tracking and Reporting Attribution with internal campaign IDs. Ooh. All we need is one conversion variable aka aka and ever. The main difference will be configuring allocation to last touch, but with a minimum of six expiration of six days.
+
+00:06:17:47 - 00:06:53:37
+不明
+And we are ready to form up and hit the grid. Well, maybe not quite. Before I can even wave the first green flag, we need to configure the standards. Standards for new variable to capture that information properly inside one string, much like the external campaign I use. Okay, and to get our engines really humming, I have a special way to pull that information into, into it with an acid by modifying a technique first introduced, by one of my fellow Adobe champions, Andrew Wavin.
+
+00:06:53:42 - 00:07:15:40
+不明
+However, we will be optimizing it, so make sure to stay in my slipstream. First of all, we need to create our ICI id syntax, which for this example contains five key fields. Now please note just for transparency here, the elements highlighted above here, right here, i.e. anything including an inside the curly braces in square brackets represent a variable values.
+
+00:07:15:45 - 00:07:39:36
+不明
+All other elements are explicit. AWK is the name of your site organization, or Sorry, organization our main line of business. So keep in mind if you keep links coming from, you know, like a partner, partner or third party site, and we scroll this down just a little bit inside. So you get that down in there.
+
+00:07:39:36 - 00:08:00:48
+不明
+Yep yep, yep. And then, so next is platform, which speaks how that thank you. Next platform which speaks to how your context is hosted. That is it is a native, is it a native mobile app or website? Then explain what kind of tactic you're using. Is it, you know, is it an east border hero icon?
+
+00:08:00:48 - 00:08:23:48
+不明
+Next link. Or nav? Then you have placement, which means we're, where your context, I'm sorry, where your content is physically located on your site or app. You know, like, what page does your content, sit on? Perhaps, you know, use a modified or short reference to the page name, then.
+
+00:08:23:52 - 00:09:02:13
+不明
+Sorry. Then you have content. Content is a very short title for the actual content for the item you're linking. Remember, we need less than 20 characters if possible. Now yellow flag before we unleash our new ICD onto the track. Just like an external, external Ssid, we need Adobe Analytics. And in CGA to scan for it. So we need to configure a processing rule to catch this query string parameter of ICD and assign it to our new variable.
+
+00:09:02:18 - 00:09:27:13
+不明
+Right. For those using CJA, you can set up a derived field to parse the URL and refer to. Now, let's let's see let's see this in action. But, time for a little group participation right here. So just use your imaginations, think engine sounds here. Here we go. So, gentlemen and ladies, start your engines.
+
+00:09:27:18 - 00:09:45:29
+不明
+Bow bow bow bow bow bow bow bow. No. I know you can do better than that. Seriously. I mean, this is the Adobe 500. Let's try that one more time, gentlemen, start your engines. Rah rah rah rah rah rah! Much better. All right, here we go. Using the first spot on the Adobe Experience Cloud as an example, we might use the following.
+
+00:09:45:34 - 00:10:08:54
+不明
+Here are the elements I called out earlier, parsed into the new IAC id appropriately. We have an org of experience cloud. The platform is. This web tactic is spot placement is homepage and content is announcing Adobe Gen Studio for performance marketing. Now time for a pit stop folks, but don't go far. You'll want to stick around to see how this race ends and how we make this.
+
+00:10:08:54 - 00:10:18:51
+不明
+Hi Sid, work for us. All right, give it up for Jeff.
+
+00:10:18:55 - 00:10:32:06
+不明
+Love it. Love the acid. We're good. Ization. Stay in, organize. We're not going to have any buttons that we are lost. Awesome. Give it up for Jeff over time. Yeah.
+
+00:10:32:11 - 00:10:39:54
+不明
+Next up we have Jen. Give it up for Jen.
+
+00:10:39:59 - 00:11:08:13
+不明
+All right. For my first tip I'm going to be talking about reporting by content date. So what does that mean. Well the date the tracking occurs is very different from the date that the content contextually belongs. So what do I mean by that? Well, in publishing an article or a blog is published on a certain date, but it's going to stay on the website forever and continue to collect tracking or potentially in a booking system or, a storefront that has delivery.
+
+00:11:08:18 - 00:11:33:11
+不明
+The tracking is going to happen significantly before that item is received, but there is a date associated to it. So even if we send that date, in a standard format, the information is stored as text in Adobe Analytics. So we can't use things like, greater than and less than to create boundary for those dates. So the solution we still have to track the data.
+
+00:11:33:16 - 00:11:56:24
+不明
+And we can do that through a standards compliant, format like ISO 8601, something that can be cast to a date in Excel or in our data lake, or we can use a simplified delimited value. Now, unless your needs are very simple and we'll get into this a little bit later, I would avoid tracking the individual values as separate variables.
+
+00:11:56:29 - 00:12:28:48
+不明
+And again I'll touch on this. So for this solution we want to then create classifications. And you'll notice that I've created classifications for each individual value as well as for each combination that I could potentially use. Next we're going to create regex rules for this. Here's an example using that standards compliant format that I talked about. Now yours will change depending on what you chose to track, but this should help get you started.
+
+00:12:28:53 - 00:12:52:37
+不明
+Now what we're going to do is we're going to create a series of dropdowns using, dynamic dropdowns, which if you don't know how to do that, you just hold down shift as you're dragging your dimension N and drop it in place, and it will turn it into a nice little drop down. And you can see from here that I had data coming in from November and December, despite the fact that my date range is December.
+
+00:12:52:42 - 00:13:16:19
+不明
+And for publishing particularly, we want to actually be able to report on data that is relevant to the month that we're looking at. So I can choose from my dropdowns, the month and the day range, or the whole month depending on what I need. And that date data will come through exactly as I expect. Filtering out anything that is outside of that range.
+
+00:13:16:24 - 00:13:43:54
+不明
+Now you're probably thinking, well, those separate variables can do that just as well. This is where those combine values come into play. If I just choose 30th, first and second here in my data, you'll notice that I've still got data coming in from November November 30th first and second, and December 30th, first and second. So those combinations allow you to, subdivide or bring down your data to the explicit date ranges that you need.
+
+00:13:43:58 - 00:14:17:33
+不明
+And this can be used when you're crossing months or even across years. So the result, is, you know, if those aren't good enough for you, you can still use these in segments. And you can build those, you know, on the fly or, you know, build them for your business. And you can see you can make them simple or complex, and basically get a little bit more granular data than what your business users are going to be using in that on the fly workspace.
+
+00:14:17:38 - 00:14:42:42
+不明
+Now, if you happen to have CGA and I'm sure some of you do, you can still use those dropdowns in your CGA and make this really easy for your business users to pull the data. However, unlike analytics, this actually stores the data as a date time stamp so you can format it. However you want, and you can start using greater than and less than boundaries for these contextual dates.
+
+00:14:42:46 - 00:15:13:18
+不明
+So in summary, the challenge is that at least in Adobe Analytics, the dimensions are stored as text. So we can't use those fancy greater than and less than features. The solution we use classifications to break that text into building blocks, so that we can create what we need to pull the content as required. And finally, leveraging those dynamic dropdowns and multi selections and segments, we can pull whatever we need in relevance to what our business requires.
+
+00:15:13:23 - 00:15:19:41
+不明
+Right, Jan. Yeah, give it up.
+
+00:15:19:46 - 00:15:45:51
+不明
+So, what I really love about your tip is the dynamic drop down opportunity. Like aside from the CJA incredible ness of the DateTime fields, but combining that with the dynamic dropdowns is brilliant. Love it. Next up we have the one and only Mandy George. Give it up. Thank you. All right, let's see it. Mandy. All right, so for my first tip I'm going to show you how to calculate weighted comps.
+
+00:15:45:55 - 00:16:05:24
+不明
+So first off show of hands who's been asked to provide a year over year change for one of your KPIs before. Yeah. Now how many of you have been asked to provide information about which items drove that change? Yeah, because everybody wants to know what's causing the change. And you can use a right click and compare time periods.
+
+00:16:05:29 - 00:16:25:44
+不明
+But when you sort by your percent change, you're going to end up with some items that have low traffic that are polluting your top items. Well, weighted comps are the solution that you've been looking for. For this, a weighted comp is a comparison value that takes into account the size of the change of the dimension field and adjust your comps.
+
+00:16:25:44 - 00:16:46:10
+不明
+So that way you can actually tell which ones are having the biggest impact. And the way that we calculate this is with the raw change for our current row, divided by the raw change for our entire category. And multiply that by the percent change for the total category. But let's break this down one step at a time. Step one.
+
+00:16:46:10 - 00:17:04:21
+不明
+We calculate the raw change for each row. This is as simple as a metric where you drop in your metric for your current time period, minus the metric for your previous time period, so you might need a date range for that. And then when we put this in the table we can see the raw change for every row.
+
+00:17:04:26 - 00:17:23:30
+不明
+Step two we're going to calculate the raw change for the entire category. So we start off the same way with our current time period minus our previous time period. But then we're going to click the settings icon and change it from a standard metric to a grand total. And this will let us see the change for the entire category.
+
+00:17:23:34 - 00:17:44:57
+不明
+Now make sure that you do this for both of the metrics in your metric builder. And when we put this in the table, we now see the raw change for the entire category on every row. Step three we need to calculate our comp value. So this is our current time period minus our previous time period all divided by the previous time period.
+
+00:17:45:01 - 00:18:08:33
+不明
+And because we want this for the entire category, we're again going to use that settings icon and change it to Grand total. And remember to do it for all three of your metrics. And when we put this in the table now we see that we have the percent change for the entire category. All right. Now that we have all this information step four we're going to put it all together.
+
+00:18:08:38 - 00:18:35:24
+不明
+So we have the raw change for our current row divided by the raw change for our entire dimension multiplied by the percent change for our entire dimension. And when you're working with the calculated metric like this, you're going to have a lot of containers. So keep an eye on where you place everything. Make sure it's all in the right order, and then you want to set your metric type to a percent and bring it into your table.
+
+00:18:35:29 - 00:19:01:37
+不明
+So now when we have this, we can see that the percent change is relative to the size of the category. So all of our larger dimension items that have a bigger change are at the top of the table. We can see that our top product accounts for 3.36% of the 845% change. But now we can take this one step further, because talking about a percent of a percent can get confusing.
+
+00:19:01:49 - 00:19:21:48
+不明
+So let's turn this into a basis points metric. The way we're going to do this is we're going to multiply our entire metric by 10,000 and change our metric type back to decimal and get rid of our decimal places. And now we have a nice basis point metric that is easy to understand. But we can do one more step as well.
+
+00:19:21:59 - 00:19:50:18
+不明
+Sometimes we have items that have improved and sometimes we have some that have declined. If we want to see the relative change, regardless of if they've improved or declined, we can use an absolute value. What this does is it gets rid of the positive or negative attribution and just shows us the entire number overall. So here we can see we've got all of our other dimension items that have the biggest change, sorted out by the size of the change.
+
+00:19:50:18 - 00:20:12:47
+不明
+And if we put that beside our weighted comp or even our regular percent change, we can see whether we have more items that are improving or declining. And because this is a calculated metric, you can do it in Adobe Analytics or in CGA. Thank you. Woo!
+
+00:20:12:52 - 00:20:29:06
+不明
+Love it Mandy. Thank you so much. Who's ready for some weighted comps. Imagine trying to do that in GA. Oh my goodness. All right I kid I kid. All right. Next up we have trad. Give it up for trad.
+
+00:20:29:11 - 00:20:51:40
+不明
+There it is. All right. So today we're going to be talking about Journey Canvas within CGA. And we're going to look at how to properly analyze your redesigns versus your legacy versions when you make changes to your site. But first, today's March Madness. I don't know if any of you know that. I certainly do. And my favorite team is playing right now, unfortunately.
+
+00:20:51:45 - 00:21:10:12
+不明
+So I thought maybe we could just put the tips on hold and watch some March Madness. Yeah, you know, just switch it over. Yeah. Sweet. Thanks. Just kidding. But looking into March Madness, I'm sure many of you have filled out brackets. You feel really good about them. The number one seeds are looking pretty good this year. However, we've all been there.
+
+00:21:10:12 - 00:21:35:04
+不明
+When the upset happens, our brackets busted and we're just devastated. The better team ends up losing and we're all left asking the question, how did this happen? Sometimes the same exact thing happens with our redesigns. On paper, the new design should win. It looks good, feels good. We even assume that it's a better experience. However, sometimes when we compare it to the old version, people prefer that old version more.
+
+00:21:35:09 - 00:21:52:12
+不明
+So sometimes our new design might be that number one seed that everyone thinks is going to win. Or it could be this in a story that's going to prove everyone wrong really comes down to studying the game. Film and journey. Canvas is a really helpful tool in helping us start to analyze that. So let's look into it. Journey canvas.
+
+00:21:52:12 - 00:22:13:53
+不明
+For those of you who don't know, I'm sure you've heard about it this week. It's been mentioned quite a few times. This was announced last year and it's a really great tool that allows us to quickly define our journeys and conduct analysis on them. One of the great things about Journey Canvas, compared to fallout charts or flowcharts, is that in those charts, you can't switch out the primary metric journey canvas.
+
+00:22:13:53 - 00:22:34:01
+不明
+You can. You can use any metric you want. Even calculator metrics. So to dive into our analysis here, we want to set up a segment. And you want to create segments for each step of the journey, as well as each time frame. And one of the cool things we're going to do here is use a date range or date range filter within our segment.
+
+00:22:34:06 - 00:22:58:32
+不明
+This is something that I don't see a lot of people do very often, but it's extremely helpful. And this allows us to be able to easily start to compare that data between the two time frames. And then of course, we have in here, as well as our page name that helps define the step in the flow. So jumping into journey canvas, it's as easy as just dragging and dropping your segments into the flow or into the canvas inserts them as nodes.
+
+00:22:58:37 - 00:23:20:47
+不明
+Then you can go and drag lines in between and build out your path. And now this helps us to be able to side by side, compare both the redesign and the legacy. So let's take a look what that looks like. You can see here. We've got our redesign on the left, our legacy data on the right. That date range filter within the segment allows us to have both visible all at one time and allows for that easy and direct comparison.
+
+00:23:21:01 - 00:23:44:46
+不明
+So here we can see our redesign. We sent about 43% of users from the homepage to the messages page, while the legacy was actually performing worse, sending only 25%, which is exactly what we were looking for. However, once we find something, we know that we have to take it one step further. We got to ask why. So when you want start to break down your data within within Journey Canvas, there's a lot of cool ways you can do that.
+
+00:23:44:51 - 00:24:07:12
+不明
+One way that we can do this is with some easy segment creation within Journey Canvas. Go ahead and right click on the node to open up the dropdown. And you can select Create Filter from Node selector. And then it'll build you a quick and easy sequential segment. And you can start to use this anywhere within Aim.
+
+00:24:07:17 - 00:24:26:03
+不明
+And I don't know about you guys, but this is way easier than building out one by one those sequential segments. One more thing that we can do here in Journey Canvas in those right click options, there's a lot of great ones. We can also trend the data. And then you can start to see your redesign your legacy data all together.
+
+00:24:26:07 - 00:24:45:37
+不明
+And currently with the date range segments, you're stuck with them side by side. But I heard maybe we've got some ways around that. Maybe Eric will tell you, so just to summarize, just like in March Madness, we can't assume that you're going to win just because you have the higher speed. Same thing with our redesigns. You got to study the film.
+
+00:24:45:37 - 00:25:05:46
+不明
+You got to analyze the stats, and you got to adjust your strategy. Journey canvas is the gateway that allows us to do that, to help create a better user experience and determine whether your redesign is going to be a championship contender or a first round exit. All right. That's right.
+
+00:25:05:51 - 00:25:31:00
+不明
+I love that, I love the like really creative use cases for Journey Canvas. I personally find it so flexible and therefore it makes for like such wild, incredible use cases for analysis, redesigns, and hopefully you got some more tips for us a little later. For what? What to do with it too. Awesome. All right. We are already down with round one, so keep thinking about all those four tips you just saw and we're going to start round two.
+
+00:25:31:04 - 00:25:41:12
+不明
+You ready Jeff. Yeah. All right give it up for Jeff one more time.
+
+00:25:41:16 - 00:25:59:11
+不明
+All right. So I know that we briefly pulled into the pits. So just out of time to refuel. Switch gears and swap out a couple of tires, so. But now we've got to push even harder. So now get back on track. Engines fired up and hitting full throttle in part two. Buckle up. Hold on to your hats.
+
+00:25:59:11 - 00:26:22:04
+不明
+Let's hit it. That icy ID that we just, you in first step me on that first step. It was also an important foundation. If we tried to analyze hundreds of raw, icy, icy acids, they would become very hard to manage. Not to mention, they would present the potential for confusion in this format. So we need to break that information out into a report that's a whole lot easier to read.
+
+00:26:22:15 - 00:26:44:22
+不明
+Get ready to feast your eyes on a beautiful little regex that's short for regular expression, and realize your work is going to be a whole lot easier. Whew! Oh, okay. All right. I know I get the feeling from some of you that this is probably like looking at the engine of a high performance car, okay? However, when you get to see this, put the physical test.
+
+00:26:44:34 - 00:27:10:51
+不明
+You will realize every time that we use it, we will only have to set our Adobe classification rule or drive field and C.J., to assign your, your values against position one. Yes, you heard me right. Each and every time the value gets pulled, position. And here's how it looks when you test the rules. For those of you doing this regularly, it doesn't get any more straightforward than this.
+
+00:27:10:51 - 00:27:40:33
+不明
+Folks. So now I'm giving you the green flag. Look at this tactic. Placement and content are easier to read for all the kids when they are broken out this way. Now that I gave you now. Now that I give you these easy breakouts for report. Now get ready for one last lightning lap, because I have a tool that helps you quickly find the new classifications I'm taking.
+
+00:27:40:33 - 00:28:02:06
+不明
+I'm actually talking about tags, guys. No no no, not that application formerly known as Adobe Launch. I swear Adobe seems to change the name of its tool more than Taylor Swift changes album eras. Right? Okay. What I'm really talking about is the tags in Adobe Analytics and CGA. Okay? The tool isn't just a game changer. It can be your secret weapon.
+
+00:28:02:11 - 00:28:08:48
+不明
+Think of think of it like nuts in your racecars engine. Okay, here we go.
+
+00:28:08:52 - 00:28:32:57
+不明
+If you quickly search for internal campaign IDs, all those classifications drive drive fields in the CJA world, right? It should appear along with the original variable in the left column. Right? Then highlight just those items and then select the tag icon right. Then when the dialog box appears to tag components, type in the phrase I see IDs, hit enter and safe.
+
+00:28:33:01 - 00:28:50:33
+不明
+Be careful not to use the same term anywhere else or it won't work as advertised. Okay, if someone does happen to use it, just remove it and replace it with something else. All right, now when we type in, I see IDs into the components. I'm sorry, hashtag. I see IDs. Okay, into the search field and hit enter.
+
+00:28:50:38 - 00:29:12:05
+不明
+We will see our brand new fields from here. We drag and drop our new values into our reports, with the campaign data broken out cleanly and neatly. And best of all, we've kept our marketing channel clear of all internal campaigns, right? Oh, there. That's it. You've hit the Turbo Boost button, folks. Go straight to the checkered flag. You've earned it.
+
+00:29:12:10 - 00:29:24:15
+不明
+You've won the race. It's time to go grab that trophy! Woohoo!
+
+00:29:24:19 - 00:29:49:01
+不明
+There you go. Good stuff. Jeff. All right, Jeff in the pole position. But that okay. Next up we got Jen back in I guess the new pole position. We'll call it I guess. So yeah. All right. What else you got for us? Well, for my second tip, I'm going to be talking about campaigns and marketing channels for your mobile apps.
+
+00:29:49:06 - 00:30:18:00
+不明
+Ironic, So the problem is that mobile apps have no referrer, for instance, or in most cases, even campaigns or marketing channels, leaving a big gap in our of our understanding of where our traffic is coming from. So, as many of you know, universal links and push notifications have become more and more prevalent. And so, you know, as a user who has the app installed, opens up a URL instead of going to their website, they go to your mobile app.
+
+00:30:18:09 - 00:30:42:36
+不明
+And if you aren't tracking those campaigns, you've lost all that attribution, making your marketing team think that their campaign isn't working. So in preparation for this, it's a common misconception when thinking about mobile apps to assume that because they aren't websites, they don't have URLs. And well, if you think like that, you might consider the matter complete and there's nothing to be done about it.
+
+00:30:42:41 - 00:31:06:58
+不明
+But sometimes you have to think outside the box. If a universal link can take you directly to a page in your app, then logically every page in your app has a corresponding URL. So this URL should be collected as part of your tracking, and any pages that only exist in your app can be given fake URLs that follow the standard URL format.
+
+00:31:07:03 - 00:31:31:03
+不明
+So once you're collecting those equivalent URLs, the next part is to work with your developers to ensure that those are properly captured. And tracked, into your data. And whether they're kids or UTM or even a custom solution, you can achieve the exact same results as on your website. That whole URL, including the parameters, should be available natively in all your apps.
+
+00:31:31:03 - 00:31:54:14
+不明
+So once you start tracking them, it should all be readily available to you to use. So if you're using kids, you need to make sure that that tracking code dimension is populated with the CID and that the query string is included as part of the URL. And if you're using UTM, you're probably using some code to concatenate those UTM into a single value to pass into your tracking code.
+
+00:31:54:28 - 00:32:13:12
+不明
+So you'll have to work with your developers to make sure it replicates the exact same logic as on your website. And you pass it through. And again, just like the kids you attach the query strings to your URLs. And some of you might be thinking, while I'm also using ivories to capture those UTM, make sure that you capture those as well.
+
+00:32:13:12 - 00:32:47:53
+不明
+And this also goes for your kids. Ooh, I know, so once you're passing those values, you can leverage your marketing channels to populate those campaigns. And in fact, you probably don't even have to edit anything at all because you've been passing those URLs in and your query string parameters are right there already working with your existing rules. And if you happen to be using your tracking code instead of query string parameters, well, because we made sure those are populated, it's all there, ready to go.
+
+00:32:47:58 - 00:33:17:38
+不明
+No updates required at all. Now you're probably thinking what about non campaign referrals? Things like organic search and social media. What do I do then? Well, up until now I've been working with my developers to properly identify traffic coming in, specifically through a universal link or a push notification. And then I've got a custom IVR set called, Direct Entry for mobile apps, and I have them populate that.
+
+00:33:17:51 - 00:33:41:42
+不明
+So at least I can pass those to specific, channels in my marketing. That is not going to be just that completely unknown direct bucket. But wait. In the last few weeks, I've been working with my developers really hard on this to come up with something completely new. Now I get it. No one in this room probably knows that this I don't.
+
+00:33:41:43 - 00:34:07:19
+不明
+This was straight from my developer, but available natively in your iOS code. You can use the new user activity and in my case, we have a React Native wrapper to, bridge the gap between the native code and react. If you're using something else, your developers will have to work with that. Or in Android, the all new intent.
+
+00:34:07:24 - 00:34:30:58
+不明
+These are native parts of the code which will collect refer if it exists. Now, unfortunately, just like on our websites, if the traffic's coming from another app or a website that has suppressed Referrers, we're not going to be able to get that data. That's where the fallback of, the push notifications and, universal links comes in. You want to use them together.
+
+00:34:31:03 - 00:34:54:11
+不明
+But, I mean, we can't solve miracles. So the result is that now you have all your data coming into your, your, of system. And, if you're using native xdm formatting or passing the data into the data analytics model, we can pass this into AA or CGA and have it properly identify all of our marketing channels.
+
+00:34:54:16 - 00:35:18:18
+不明
+So in summary, mobile apps for too long have been limited to direct traffic. Our solution use a combination of techniques to capture additional values to get them to pass into your marketing channels and identify your drivers. So now our mobile apps can fit into this same architecture as our website. No longer limited everything all in one. Thank you.
+
+00:35:18:30 - 00:35:24:42
+不明
+All right.
+
+00:35:24:46 - 00:35:46:55
+不明
+Awesome. Awesome stuff Jen. Thank you. I really love the opportunity to fill in those gaps where they're missing. So some great opportunities. I know I've got all that iOS and Android code memorized. So I'm going to go straight to my absent and employer. But if you didn't take a picture, don't worry, all slides will be on the summit website soon so you can put your iPad pros down from taking photos if you want or it's up to you.
+
+00:35:47:00 - 00:36:14:19
+不明
+Next up we have Mandy's second tip. Let's see it. Mandy, give it up. Thank you. All right, so for my second tip, I'm going to show you how to use a regression to estimate missing data. I'm sure this is a problem that everybody's had at least once. One of your variables has stopped capturing data. Maybe you have an analytics bug on your site, or maybe there's some type of outage and your checkout has gone down and now customers can't place any orders.
+
+00:36:14:24 - 00:36:35:31
+不明
+Well, what do you do when you get asked for an impact analysis for this issue? This is where regressions can be useful. Now I'm using orders for my example, but you can use this with any metric that you capture. So I know some of you have probably blocked out high school math class, but we're going to go back there just for a moment to remember what a regression is.
+
+00:36:35:36 - 00:37:01:49
+不明
+It's, it's a formula that allows you to, predict one variable based on its relation to another variable. And the basic formula is y equals ax plus b, where y is our predicted variable, a is our slope and b is our intercept. Then we also have something called a correlate coefficient, which tells us the strength of the relation between our x and our y variables.
+
+00:37:02:02 - 00:37:24:46
+不明
+And numbers closer to one indicate a stronger relation, which is what we want now. Because not all variable relations are linear, Adobe does offer six different types of regressions that you can use, but they're all built out the exact same way in the metric builder. So now that we've got that, let's jump into it. The first thing we need to do is determine our comparison time period.
+
+00:37:24:57 - 00:37:48:15
+不明
+So we need to find a time when that now broken variable was still working. You want a period that, as recent as possible, but also as long as possible because a longer time period is going to give you a better estimate. And our example here, I've got two months ago. Step two, we're going to take that date range, whatever we're using and drop it into a hit level segment.
+
+00:37:48:19 - 00:38:09:40
+不明
+And make sure you save this because we're going to need it later. Step three we need to understand the relation between our variables to determine our predictor. So we're going to use the correlation coefficient function in workspace. To build this out we put a predictor variable in the x and our now broken variable in the y as our predicted.
+
+00:38:09:45 - 00:38:30:36
+不明
+So it's a good idea to test out a few different predictors and models. So you can see here I tested out a log regression with visits as my predictor a linear regression with visits as my predictor, and a linear regression with card ads as my predictor. And although all three of these are great, the card additions is closest to one.
+
+00:38:30:36 - 00:38:50:22
+不明
+So that's what we're going to use for the rest of our regression. Step four we need to calculate the slope. The function to build the slope is the same as what we used for the correlation coefficient. We have our x and our y variable. So the card adds and the orders. And now we need to bring in that date range segment that we made.
+
+00:38:50:31 - 00:39:11:22
+不明
+Make sure you put it around each metric in your builder. And when we put this in the table now we can see that we have the slope for the relation. When the variables were both working. Step five we calculate the intercept. So this is built out exactly the same as our slope our x and y variables with our time period segments.
+
+00:39:11:27 - 00:39:34:39
+不明
+And we put this in the table. We see that we have the intercept. Step six we're going to calculate the regression. Now Adobe does have a function for the predicted y variable. But because we need to use these previous time periods in our calculation we're not going to use their function. We're going to build our own regression with the formula y equals x plus b.
+
+00:39:34:44 - 00:39:57:06
+不明
+So we have our x variable the card additions multiplied by our a the slope that we calculated. And then we add our intercept the b. Now there is one caveat to this. When you put this formula in your table, you will get all of your time periods for your panel date range, but it will also bring in the dates from your segment comparison.
+
+00:39:57:10 - 00:40:20:33
+不明
+So there's two ways to handle this. You can either sort by date descending and use the most recent date ranges. And this is good if you're looking for a rolling date range. Or you can. If you only need specific dates, you can right click and select certain rows and display only selected rows. Once you have your dates we can look at what the data.
+
+00:40:20:38 - 00:40:46:54
+不明
+So now we have before with our online orders where it was broken. And we can see all those zeros are terrible. But once we bring in our predicted orders we now have an estimate of the missing orders. So this isn't going to be 100% exact because it is an estimate, but it is going to get you pretty close to the amount of orders that you lost or whatever metric it is that you're using.
+
+00:40:46:58 - 00:41:08:31
+不明
+But we can take this one step further for orders, specifically, if you need to generate an estimated revenue loss, you can take this entire regression formula and multiply it by your average order value. And then you get an estimated revenue impact for this outage. And you can answer questions about how much your business has lost because of the issues.
+
+00:41:08:45 - 00:41:15:54
+不明
+Thank you. Ooh.
+
+00:41:15:59 - 00:41:35:39
+不明
+Amazing. Awesome job Mandy. Thank you. It's funny, I was talking about the exact same high school math with Rick Maddux earlier today. A high school math. Yes, exactly. So we have one more tip for you. And we have Trent here to deliver it. Trent. Let's see it, buddy. Give it up. Yeah.
+
+00:41:35:43 - 00:41:57:45
+不明
+All right, we're back in journey canvas again. But you're going to learn real quick. Something about me is that I love basketball. So do we have any basketball players or anybody loves basketball in the audience? Oh, come on, I know we have more than that. Anybody ever played basketball with somebody like this before? A guy should not be shooting the ball.
+
+00:41:57:45 - 00:42:19:55
+不明
+You pass it to him wide open and you just think, oh, please don't shoot the ball. And what does he do here. Balls it I shooting. Yeah I'm shooting. Yeah. And then he just starts to make excuses and excuses about why he keeps missing it. Well, similar things happens when we look at our marketing channels and we start to assume that all of them are driving conversions.
+
+00:42:20:00 - 00:42:42:47
+不明
+Some of our marketing channels are taking the smart shots, the converting people, some of them, they're just checking up their balls, making excuses. So this leads to the question, do you know which of your marketing channels are three point star Steph Curry and which ones are big man Shaq? Because just like in basketball, not every player is going to contribute the same way.
+
+00:42:42:52 - 00:43:03:33
+不明
+And so when it comes down to crunch time, the situation that you're in is really going to dictate the lineup that you put in. So if it's the fourth quarter, there's one minute left and you're ahead of the game. You're going to want defenders, rebounders, people. They're going to help you protect that lead. If you're down, you're going to want some three point shooters, some clutch free throw shooters in the game to help you get back up.
+
+00:43:03:37 - 00:43:25:19
+不明
+And if you're losing momentum in the game, you're going to need a playmaker that's going to step in and help turn things around. Same thing with our marketing channels. We've got marketing channels that drive fast conversions. We've got marketing channels that generate awareness, and we've got marketing channels that are strictly focused on engagement. So this leads us to ask which marketing channels build the perfect lineup.
+
+00:43:25:24 - 00:43:45:33
+不明
+And then it leads us to ask ourselves whether we know if the strengths and weaknesses of our marketing channels, how do they impact purchases, which ones are those clutch performers? And Journey Canvas can really help us start to identify some of those strengths and weaknesses. So let's jump into it. Looking at the setup, we're going to go side by side again.
+
+00:43:45:37 - 00:44:03:36
+不明
+We're going to put our purchase flow here in this example. And I just have to put another plug in for Journey Canvas because it is so simple. You really don't need any complex coding. You don't need any endless segmentation. You just drag and drop and put it in there and you're ready to go. So we set up our user journeys here.
+
+00:44:03:37 - 00:44:27:23
+不明
+We've got the top one is paid search. We've got email on the bottom. And then it goes through our PLP, our purchase flow and ends with the thank you page. So let's look in and see how paid search and email not just affect each step of the journey. Oh sorry. If you right click on the end node, you can break it down by, any dimension.
+
+00:44:27:23 - 00:44:47:43
+不明
+So here we're going to break it down by product skew. And this is going to allow us to understand how each, marketing channel, paid search and email here are not just affecting each step in the journey, but also affecting each product that we have. And if we take this one step further, we can add an additional segment, to connect to our flows.
+
+00:44:47:43 - 00:45:11:35
+不明
+We're going to use a chatbot interaction here to better understand how we're impacting that journey. And with Journey Canvas, it updates in real time so you can do a quick look and be able to understand if any major changes are happening. Last thing I want to note in Journey Canvas is that at the top of the visualization, you have the option to switch between different percentage values.
+
+00:45:11:40 - 00:45:28:32
+不明
+So this is great because it allows you to be able to understand which one of your paths, which one of your marketing channels are having the highest conversion rates overall, but also at each step in the journey. So initially here you can see it kind of looks like we have the same percentage of users going from that last purchase step to our thank you page.
+
+00:45:28:37 - 00:45:50:11
+不明
+But if we make that switch here, we can we can see that, that bottom flow is actually converting a little bit less, which is important to understand when we're really starting to identify those strengths and weaknesses of our marketing channels. So overall, there's lots of ways to do this to connect to that analysis and journey. Canvas is a great piece, and there's a lot of other options in that right click menu makes it really easy.
+
+00:45:50:11 - 00:46:15:50
+不明
+We saw that segmentation earlier, other things that allow you to put it into a free form table and just allow you to start to dive deeper a little bit. So just to summarize and end here, if you want to be that championship winning coach, journey Canvas is the key is going to put you across the line. So I encourage you to identify those strengths and weaknesses within your marketing channels, build that perfect line up that you need so that you can put the right marketing players in the game when it matters most.
+
+00:46:16:03 - 00:46:23:42
+不明
+Thank you. All right.
+
+00:46:23:47 - 00:46:32:46
+不明
+Give it up for our rockstars. Awesome.
+
+00:46:32:51 - 00:47:07:21
+不明
+Eight Incredible tips from Ikea kids to journey canvas to crazy calculated metrics to my favorite Android code in the world. So like I said, we've got one more thing and this is where it gets really fun. I'm excited for these animations. So we are introducing, for the first time ever, the Adobe Analytics Rockstar Hall of Fame. Okay. So what does that mean?
+
+00:47:07:26 - 00:47:26:16
+不明
+The Adobe Analytics Rockstar Hall of Fame is all about finding new ways where data legends live forever. We've got a lot of data legends in this room, on this stage, outside of this room, virtually. And I'm excited to introduce this all famous. So there's three key things that we focus on for what it means to be a Hall of Famer.
+
+00:47:26:29 - 00:47:55:18
+不明
+First of all, you provide innovative ideas all the time, year round. Lots of innovations, really cool, incredible things. Number two, you are articulate in the way that you explain these innovations, these ideas and sharing these tips. And third, passion, so much passion in this room. I can feel it up here, whether it's just getting a t shirt or hearing these incredible tips and who's excited to find out who the inaugural Hall of Famer is introducing.
+
+00:47:55:22 - 00:48:20:53
+不明
+Yeah, okay. There it is. Yeah. Get excited. So introducing the inaugural Adobe Analytics Rockstar Hall of Famer is. The editor. Who many years.
+
+00:48:20:58 - 00:48:35:06
+不明
+Oh that's good for dad is an incredible give it up.
+
+00:48:35:11 - 00:48:58:48
+不明
+So congratulations Mandy I want to talk about some of the amazing things you've done over the years just to get you excited. Come here. All right, so, Mandy, a few stats briefly. 2024 Rockstar winner the Calculated Metrics playbook. You know I'm a fan. I think we saw some excitement from it with our tips today. 2025 Rockstar competitor. And you know what?
+
+00:48:58:48 - 00:49:16:52
+不明
+If I could quick edit it, I need an agent to update it to be a 2025 Rockstar winner and a three times Adobe Analytics Champion. So congratulations Mandy, I'm so proud of you. Give it up for Mandy.
+
+00:49:16:57 - 00:49:37:34
+不明
+So we have consolidated all of the incredible things that Mandy has done over the past few years, and we've put it live online. You can go to this website now Adobe Analytics, rockstar.com. It's got Hall of Fame information, your tips, your links, your everything. And every year we're going to have a new inductee. And it's really, really exciting.
+
+00:49:37:35 - 00:49:46:55
+不明
+I'm so proud of you. Thank you Mandy. All who.
+
+00:49:47:00 - 00:49:52:04
+不明
+And that's what we got. That's our Adobe Analytics Rockstar session. Thank you so much for coming. We'll see you next year.
+

@@ -1,0 +1,212 @@
+00:00:00:36 - 00:00:30:06
+不明
+Hi everyone. Welcome to our session. Adobe's new tools empowering third party developers. My name is Martin real quick and I'm joined by Mayank Sharma together. We manage Adobe Exchange, the marketplace where partners can publish application extensions to Adobe products and make those accessible to our customers by the end of this session. We hope you will walk away with an understanding of server two server integrations, as well as the N10 workflows for a partner to create an application and distribute it on Adobe Exchange.
+
+00:00:30:10 - 00:00:57:32
+不明
+This paves the way for enterprise customers to discover, download and install applications using their enterprise credentials. There are four tools will highlight in this presentation. The developer website for documentation. The developer console for building applications, and developer distribution for creating listings to be published. Finally, customers will use Adobe Exchange to acquire and manage their applications. Micah, can you please provide some context?
+
+00:00:57:46 - 00:01:29:08
+不明
+Why are server two server integrations the future of a seamless customer experience? Hi everyone! I'm so glad you said seamless customer experience button because as Steve Jobs once famously said, customer experience comes first and technology is its enabler. At Adobe, we believe and practice this philosophy in everything we do. So let's start with why we are talking about 70 server integrations today.
+
+00:01:29:13 - 00:01:58:28
+不明
+Digital landscape is continuously evolving, and more than 14,000 marketing technology solutions exist today. Catering to IT. What's even more mind boggling is that this number rose by almost 30% in 2024. So on average, medium to large organizations are using 5 to 10 such tools, and they all need to talk to each other. Why? Because now customers of these organizations are digitally savvy, you know, and they demand unified experiences.
+
+00:01:58:33 - 00:02:29:44
+不明
+They don't care about the plumbing behind the seats. All the content and data across solutions must talk to the customer. Explain server to server integrations enable that. These are API based integrations between two or more servers, but essentially exchange data protected by security mechanisms like auth authentication. The data exchange happens completely between the servers. And so the beauty of it is that these information exchanges aren't visible to individual users.
+
+00:02:29:49 - 00:02:55:30
+不明
+For example, when an end customer wants to purchase something like a dress or groceries online, they place it in the cart and checkout. They aren't aware of all the plumbing that's required to make the experience seamless. Behind the scenes, multiple systems talk to each other, such as inventory management tools, a payment gateway, an order management system and order fulfillment system, and more.
+
+00:02:55:35 - 00:03:28:05
+不明
+There are thousands of such use cases, depending on the industry and business needs. Adobe Exchange has 275 public server to server integrations that extend experienced cloud products, but these are mostly catalog listings. This means customers can find them on Adobe Exchange, but need to contact the publisher of that application to directly acquire them. Mike will introduce a new feature that will enable developers to publish server to server integrations that can be acquired from Adobe Exchange without having to contact the partner directly.
+
+00:03:28:10 - 00:03:52:28
+不明
+Let's take an example. Rain focus currently has five catalog listings on Adobe Exchange will be one of the early adopters of these new workflows. Rain focus is a great example, and we'll be using one of their integrations to show the new workflows. So the focus is a platinum level partner with Adobe. We have worked with for a long time as a leading event marketing platform.
+
+00:03:52:33 - 00:04:24:22
+不明
+Ring focus differentiates themselves by seamlessly integrating event experiences into marketing opportunities. One of the integrations that helps them do this is their ring focused Source Connector application. This connector allows their customer organizations to flow event data from Rain focus servers into Adobe Experience Platform, enabled by authentication. Once data starts flowing in, customer organizations can create personalized experiences driven by attendees interactions.
+
+00:04:24:27 - 00:04:50:27
+不明
+For example, using rain focused, enriched user profiles flowing into a web, mutual customers offering focus, and it will be campaign to target and convert leads gathered during these events into customers with personalized content. Today, this connector by Ring Focus is listed on the Exchange Marketplace. What gaps and pain points exist today that we can solve in the current marketplace experience?
+
+00:04:50:38 - 00:05:18:45
+不明
+To enable each partner to deploy their integration to many customers, simultaneous on Adobe Exchange. To understand the gaps, let's look at the integrations lifecycle today. It begins with the partner building the integration using auth server to server credentials on Adobe Developer Console, and then distributing it using Adobe Developer Distribution. The listing gets reviewed by Adobe, and if all is, then it it's published on the Exchange marketplace.
+
+00:05:18:50 - 00:05:55:57
+不明
+Note that these are catalog listings, which means that they have rich details about the integration, but not a lot of action for the customer. Organizations interested in the integration, like we just saw with the Focus Sources connector. So when the customer wants to begin installing the integration, she must reach out to the partner to do it, even if they are a mutual customer for the partner and Adobe customers must also go to developer console to create their own credentials and share with the partner so the partner can configure the credentials in their integration application and access Customer's Adobe account.
+
+00:05:56:02 - 00:06:30:42
+不明
+Both these customer actions happen out-of-band. The first challenge is that Customer Journey has these extra hops, including onboarding and learning about developer console and taking all the steps that a partner takes to create or server the server credentials for their organization and sharing them with the partner. Every customer organization must do this. The second challenge is that the partner must manage credentials for all the customers using the integration, including rotation of credentials, which is required for security purposes.
+
+00:06:30:46 - 00:07:09:06
+不明
+The third challenge is that Adobe does not know if the customer who visited an integration speech on Adobe Exchange contacted the partner, or if they started the first steps of the journey to acquire the application. Because of which Adobe has limited governance on what the third party applications are doing to provide the best partner and customer experiences, Adobe needs the ability to monitor how customer's Adobe accounts are being accessed, monitor the health of integration applications, and enable partners and customers with insights on adoption and usage of these applications.
+
+00:07:09:10 - 00:07:37:00
+不明
+How are we eliminating these pain points and putting a robust governance system in place? We are introducing new workflows for both our partners and enterprise customers. These improved workflows are facilitated by the new enterprise credentials that are specifically being introduced for partners who want to distribute their integrations to multiple enterprise customers. Here is how we will improve the experience and workflows for partners and customers.
+
+00:07:37:04 - 00:08:03:04
+不明
+Let's look at the partner journey again. The partner endorsed with or is already a member of Adobe's Technology Partner program. The partners informed about how to create integrations with the help of new enterprise credentials on Adobe Develop website. The first mile of their journey with rich public documentation. Using these credentials, the partners will find it easier while building and testing the integration.
+
+00:08:03:09 - 00:08:27:02
+不明
+For example, there will be a playground experience, but partner developers will be introduced to that. They will be shown how to build the consent URL and embedded in a sign in Adobe Button. In their integration application. So they will be guided to ensure that it's a seamless experience for enterprise customers and on how to resolve any issues while setting up new authentication mechanism.
+
+00:08:27:07 - 00:08:59:04
+不明
+Even before going live after testing, they will list this submission with the help of developer distribution. Adobe will then review their integration listing. There will be white glove treatment for early adopter partners. These will be supported every step of the way, including email communications and from partner managers. After approval, the application will be published on Adobe Exchange. Next, a customer will discover the integration on the exchange marketplace that fits their business needs.
+
+00:08:59:09 - 00:09:23:42
+不明
+Any user or admin in the organization will be able to acquire the listing, but an enterprise administrator in the organization will need to provide consent on behalf of the organization so that the integration can access the customer organization's data on their consent or approval. The enterprise credentials will be created, allowing the app access to only the limited set of scopes.
+
+00:09:23:42 - 00:09:51:20
+不明
+The integration needs. The authentication journey has become much simpler for both partners and customer organizations. We'll see a visual example of this later. Genuine talk is that Adobe's product and support teams will have more insights on which customer organizations have installed the applications. What is the usage? And so Adobe will be able to quickly help both technology program partners as well as enterprise customers.
+
+00:09:51:25 - 00:10:19:00
+不明
+Because we can now observe the end to end process with proper governance to enhance security. Can you show us the workflows where the partner creates an integration on Developer Console and submits a listing on developer distribution for publication? Sure. At high level, a partner who has already signed up for the Technology Partner program and read up on documentation on developer website begins their build journey on Developer console.
+
+00:10:19:04 - 00:10:56:24
+不明
+When they choose an API they want to use in their integration. In this example, they choose the Adobe Experience Platform API that their connector integration will need to access so that connection can be established between customers accounts emitting focus and in EAP via this API. Like we discussed earlier, the partner is still now opting for server to server authentication credential for building that integrations, which is an industry standard authentication mechanism, but which also is designed for an organization to use the credentials for their own integration.
+
+00:10:56:29 - 00:11:31:43
+不明
+So it requires customers to also go through this process of coming to developer console and creating their credentials to share with the partner for the new and improved workflow. To cater to the use case of an integration that the partner intends to distribute to multiple multiple enterprise customers. The partner will need to choose the new credentials that are being launched called Admin Authentication, highlighted here in blue and in focus will choose these now, as they want to distribute the connector integration to multiple customers as to choose this credential.
+
+00:11:31:48 - 00:11:55:09
+不明
+They will be informed that the customer admin will need to provide consent to their integration for it to be able to work. This developer console screen looks new. What are these redirect URLs that the partner is providing? Previously, we established that the customer admin will need to consent to the connector integrations access, and this will happen through a browser based consent screen.
+
+00:11:55:13 - 00:12:22:16
+不明
+This consent workflow could get triggered from the partners integration application itself, or from the integrations listing on the exchange marketplace. So for the scenario when the consent workflow is being triggered from the partner application, what removal will need to do here is share some redirect URLs that Adobe can use to send the customer admin back to back to the application from the browser based consent screen.
+
+00:12:22:21 - 00:12:51:51
+不明
+So the credentials are in place now. In focus can now go ahead and build the connected integration. Once done they would like to test it out. They can do so by letting the integration access their own organization and see whether it is working as expected or not. The way the integration will handle and integrate a customer's data, the partner will be able to generate access tokens for their organization and use them in their integration.
+
+00:12:51:55 - 00:13:24:24
+不明
+Now, what I love about this is that it's not just the partner generating access tokens. They also get what we are calling a playground experience that essentially helps them see and understand the experience that the customer will have when they are giving the consent. More importantly, it's also a step by step guide, aided by examples on how to set up and configure the application so the customer gets back to the application correctly after providing consent and more such useful tips.
+
+00:13:24:28 - 00:13:54:49
+不明
+Let's say that the integration is done and the partner has tested it using the playground experience. The access token is generated and the integration is working perfectly fine for their own organization. Now they want to start distributing it publicly. What's the next step to distribute and integration? The partner will need to create a listing for it. They can create a listing from Developer Console itself or go to Adobe Developer Distribution, where two types of Service to Service integration listings will be available.
+
+00:13:54:54 - 00:14:20:04
+不明
+One is specific to an EB sources connector use case like the Sources connector, and the other use case is of a generic multi-tenant server to server integration, such as what it will be analytics or Adobe Campaign. Note that sources connectors are also discoverable in a B sources catalog, and hence the partner needs to choose the EB sources specific listing type.
+
+00:14:20:09 - 00:14:44:58
+不明
+If they are building the sources connector, the partner will be aided in making the decision of choosing the correct listing type with help of link documentation on developer website that will help them with when to choose which type of listing what the partner needs to do in either case is provide a set of listing details or metadata, for example, which screenshots from inside their application.
+
+00:14:44:58 - 00:15:19:53
+不明
+A short description about the app that shows up on search results in the Adobe Exchange Marketplace. Categories for filtering products that the integration supports, or to ensure that the customers look at the integrations page on exchange and are able to understand what the integration application does and whether it's a good fit for them. There is also information that the partner will add here to be displayed on the consent screen to the customer, so the customer takes an informed decision after looking at the application's website or partner's privacy policy.
+
+00:15:19:53 - 00:15:48:58
+不明
+For example, for an EB Sources Connector listing. The partner will also need to add the kit shipper link for the connector spec, which contains metadata specific to what the AP Sources Catalog requires for both types of listings. The partner is also shown the details related to their enterprise credentials under the API tab, so they get to see the technical account about the APIs they have added to the integration.
+
+00:15:49:03 - 00:16:17:44
+不明
+The scopes corresponding to those APIs, and more. It basically is interoperability between developer console where the built in display integration and developer distribution where they are distributing it. I just love this because the partner doesn't have to go back to developer console to double check if everything is correct before submitting the integration for the preview. Once we fill out the required information partners click review and Submit.
+
+00:16:17:49 - 00:16:39:42
+不明
+The partner has additional options on the submission page, such as to ensure they have complied with the grant guidelines, or leave the mode to the Adobe reviewer that helps with the integration. They also can choose to publish the listing right away, or opt to publish later. After doing this, they can submit the integration listing for at least a few.
+
+00:16:39:46 - 00:17:02:46
+不明
+Then, Adobe's review teams look at the integration and say yes, this is good to publish on the exchange marketplace and also in the APIs sources catalog. If it's a sources connector, or they might say no. The integration description needs to be longer, or the screenshots aren't the right solution and send it back to the partner. When an integration listing gets rejected.
+
+00:17:02:51 - 00:17:36:38
+不明
+The Adobe reviewer also provides a note on the reason why it did not pass review, and the reason shows up on the listings page in developer distribution. The partner also receives email notification that the integration listing needs some changes. Now, let's say that the reviewer finds all the details to their satisfaction and they approve the listing. Once approved by Adobe, the integration listing is published on the Exchange marketplace, where customers can explore them, acquire them, consent to them, and manage them.
+
+00:17:36:43 - 00:18:02:04
+不明
+Note that a B source is streaming connectors supported for the new credentials. Also get published in the Sources Connector catalog in Adobe Experience Platform. What will the improved enterprise customer journeys look like when they look quite different and they want the using on the exchange marketplace would be able to discover the listing more easily by applying a filter for these kind of integrations.
+
+00:18:02:18 - 00:18:32:35
+不明
+While browsing on the listings details page, the user will see the option to acquire the integration. On clicking, they will be asked to ensure that they have the required Adobe products licensed to the organization for the integration to work for them. Adobe Exchange will then also check if they are logged in to an enterprise organization. If not, they will be prompted to try logging in to a different organization if they do belong to an enterprise organization.
+
+00:18:32:40 - 00:19:00:45
+不明
+The integration will be acquired for the organization. What's important to note here is that though any user can acquire this integration, it requires a role with much higher privileges to go any further. So if the user acquired the integration isn't the system administrator in their Adobe organization, they will be informed that the admin only can take the next steps of providing consent to the integration on the organization's behalf.
+
+00:19:00:50 - 00:19:34:28
+不明
+They will also be guided to where the admin might find the integration. Once belonging to Exchange Marketplace, the integration will be acquired. Once acquired, the integration will start showing under the Manage Experience of Exchange Marketplace, visible to every user who logs in with that organization. While only admins will be able to take certain actions, which we will talk about shortly, the manage page will also show the list of all integrations that have been acquired by any user or administrator in that organization.
+
+00:19:34:33 - 00:20:06:57
+不明
+Whenever the acquired or which Adobe products they work with, the status and actions that can be taken for each integration. Now that an enterprise user has acquired an application, can they begin using it? No. Not yet. First, the system administrator needs to provide consent, so the application is authorized to use company data on that position. Administrators will receive email notifications informing them about it and that admin consent is needed before next steps of installation.
+
+00:20:06:57 - 00:20:38:21
+不明
+Can be taken and admin logging into exchange will see the list of all applications acquired by the users in that organization. So let's say that the admin of the customer organization wants to consent to rent focus sources connector integration. They will click on Begin Installation. The click will launch the browser based consent workflow. Note that this page is only accessible to enterprise administrators logged in, and hence has a higher level of security.
+
+00:20:38:25 - 00:21:05:26
+不明
+So apart from allowing them to approve access for the integration, the screen will tell them hey, read focus sources. Connector is the name of the integration you want consenting to. They'll also see their Adobe organization's name, so they can be sure they are logged in to just the right one. And very importantly, the admin will also be shown what exactly it is that they are allowing the application access to for their Adobe account.
+
+00:21:05:31 - 00:21:36:29
+不明
+As a simple example, let's say an Adobe API allows refocuses connector integration to access event attendees basic profile information. It'll show up you if all looks good to them. They'll hit allow access. With this, their consent will be restored with Adobe, which means that the connection has been established. Can you now show on the manage tab how customers manage applications they have acquired?
+
+00:21:36:34 - 00:22:07:01
+不明
+To manage? You need to have all the information you need so there will be variety of details showing one exchange. For example, information about the integration listing as well as about APIs and the corresponding scopes that the integration will have access to. Additionally, key actions that have been taken by the user or admin will show up here, such as when the access was granted to the integration, when was it acquired, and who did these things.
+
+00:22:07:06 - 00:22:36:29
+不明
+There will be the option to access documentation and also the support information provided by the partner, and an option to make the partner support right from exchange. There will also be a link to Adobe Admin Console, where admins can explore more detailed activity logs. Also, very importantly, admins will have more control on what the partner open access right here on exchange where they will be able to choose product profiles.
+
+00:22:36:34 - 00:23:02:25
+不明
+A product profile is something the admin can create in Adobe's Admin Console, and add users and user groups to it. So product profiles help assign more granular level access to the exact features that the integration they have access to. Can enterprise administrators revoke access they previously granted? They absolutely can. This is an important governance feature for enterprise customers.
+
+00:23:02:34 - 00:23:30:16
+不明
+To be able to take back access to the organization's account in few simple clicks. How do they do it? In the same manage experience on exchange marketplace, the admin can click on the Revoke Access option at any point. After assigning product profiles. When an administrator clicks on revoke access, they will be asked if they are sure and to repeat the applications name to avoid accidental reports.
+
+00:23:30:21 - 00:23:55:31
+不明
+What's important here is that it could be made clear to the admin that the integration will no longer have access to their organization's Adobe account. If they go ahead with revoke on confirmation, the revoke action will be enforced within an hour. The manage experience will also start showing who revoke access and when. The admin can undo work anytime by consenting to the integration.
+
+00:23:55:31 - 00:24:25:54
+不明
+Again. What is now available and what will come later in 2025 and beyond. The good news is that everything we discussed is like today. We are also working on getting more features, such as enabling partners to test with a select set of customer organizations before publishing the integration, allowing API and scope updates to the published integration listing along with richer insights into integration, adoption and usage.
+
+00:24:25:58 - 00:24:51:25
+不明
+We will be designing future features based on partner and customer feedback in the coming months. Thank you. Thank you Monica. That was great. Calling all partners. Please contact us if you're interested in creating a new server to server integration with enterprise credentials, or if you already have an integration listed on Adobe Exchange Marketplace. And we'd like to onboard the new credentials.
+
+00:24:51:30 - 00:25:01:59
+不明
+Also, contact tip support. If you are a customer and have a use case that you need solved by a partner. Thanks for listening.
+
+00:25:02:04 - 00:25:02:30
+不明
+To.
+

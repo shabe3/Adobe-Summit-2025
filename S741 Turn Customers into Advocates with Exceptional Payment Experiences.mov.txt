@@ -1,0 +1,356 @@
+00:00:01:08 - 00:00:20:18
+不明
+Okay, we're going to get started. It's a little quiet this morning. I know everyone was at the fiesta last night. Hope the music was lovely and everyone had a great time. My name is Melanie Riddick, and I lead our global marketing campaigns at stripe. I'm relatively new. I just joined in October, based in Seattle. So lovely to see everyone.
+
+00:00:20:29 - 00:00:39:40
+不明
+We've also got a crew of stripe folks in the room, so if you have questions, we've got folks who can answer your questions. But today we will spend some time talking about how to turn customers into advocates with exceptional payment experiences. We're going to talk about why payments experience is the customer experience. Oftentimes payments isn't kind of top of mind, especially if you're a marketer.
+
+00:00:39:45 - 00:01:00:04
+不明
+How consumer payment preferences are changing. A lot of good stuff will invite a poor accountability from a firm to share what they're seeing there, and then also how we as marketers play a role in building those personalized customer journeys. And then we'll open it up for some Q&A at the end. So where are we today? Well, we're in the era of the customer experience, right?
+
+00:01:00:09 - 00:01:30:28
+不明
+Technology is not a new thing. It has been evolving, but it is evolving at rapid scale. And so we as marketers and as advocates of the customer experience need to keep up. But that can be pretty challenging, right? Stripe has been lucky enough to be part of some of these amazing logos that you see on the screen, because what we know is that when customers have a delightful experience, whether that's quick shipping, whether that's free returns, whether that's a really friction free checkout with one click or one tap, they come back.
+
+00:01:30:28 - 00:01:51:12
+不明
+And that is the new standard by which they're experiencing every transaction to happen, right. So a couple examples I'll call out with Lyft. We worked with them to make sure that drivers could be paid when they want, which now means within a few hours. Really remarkable in terms of speed and pace. Right. The other one, I'll call out, did anybody fly Alaska here today?
+
+00:01:51:12 - 00:02:16:42
+不明
+Any of my other Seattle friends? No. Maybe if you got a cheese plate on your Alaska flight, you experience that tap to pay on iPhone. That's something that we worked with, Alaska on, which, again, really friction free light, quick experience so that you can make your transaction and move along. But as we talked to our customers of all sizes and shapes and locations, we hear that technology is often an impediment to that growth, right?
+
+00:02:16:55 - 00:02:49:21
+不明
+When you have legacy infrastructure and you need to make any changes at all, especially to something as meaningful as your payment, payment experience and your checkout experience, people get a little nervous right? Things can break. It takes a really long time to implement, and so we're trying to make that at stripe as easy and flexible as possible, so that you can make these technological changes that you need that improve the customer experience, create loyalty to your brand and ultimately prevent these not great things from happening, like meaningful cart abandonment and impediment to your growth as a business.
+
+00:02:49:26 - 00:03:09:00
+不明
+So again, as marketers in the room, we know how much time we spend building these beautiful campaigns, thinking about where we're going to invest our media dollars, and we bring folks into the funnel. We bring them onto our site, but they hit friction if the checkout process isn't great, right? And we lose them. So at stripe, we really feel like payments can't be an afterthought.
+
+00:03:09:01 - 00:03:32:33
+不明
+It can't be just a utility. Instead, it has to be part of the overall customer journey. So like Adobe, it's important, we think, to invest in that customer experience. And again, if you're selling something online, customer experience is the payments experience. And we hear from customers that there are kind of three main things that they want speed, choice and flexibility.
+
+00:03:32:38 - 00:03:46:30
+不明
+So we went to New York to talk to folks on the street to hear about their habits in terms of online shopping. And here's what they said.
+
+00:03:46:35 - 00:04:07:13
+不明
+Hi. How are you guys doing? I'm 34 years old and I'm a business owner. I'm 61 years old. I'm 27 years old. I design women's lingerie. I'm an actor and stand up comic. We're from Mumbai, Singapore. I just bought something online yesterday. I buy things online all the time. Why? Because I'm lazy and everyone's lazy. Now.
+
+00:04:07:18 - 00:04:24:59
+不明
+I think when there's just too many steps, I end up having to go through the whole process of signing up for an account. It turns into like a ten minute ordeal just to check out that often can just send me off and have me leave the whole checkout experience. If I have to go in my bag or go look for my wallet, it's too much.
+
+00:04:25:01 - 00:04:45:37
+不明
+It's like you're laying in bed and then your card is like in your bag in the hallways, like, oh, by that time I'm already deciding, do I even want this anymore? Or have I changed my mind now? And when it doesn't feel like a checkout experience, when you get out of your Uber or Lyft and you don't even feel like you're paying well, you can basically like Apple pay yourself out.
+
+00:04:45:38 - 00:05:06:47
+不明
+You can fill your information and it saves it for you. If something is like a one click, one click, one click, buy that kind of thing. It makes shopping online a pleasure. Boom. You made this out. I'm a repeat customer. You need to be fast. Otherwise I'm just gonna get out. I'm not going to buy this. A seamless checkout will usually take literally less than 30s.
+
+00:05:06:52 - 00:05:39:30
+不明
+Less than 30s. 10s 10s two seconds. Maybe I'm too ambitious. Okay, so we heard the expectation is sub 30s. Any guesses on what the average checkout time is? Three minutes. He's a plant. The reality that we found is that on average, that average checkout experience is actually over three minutes. So there's a meaningful gap between customer experience and reality.
+
+00:05:39:45 - 00:06:01:22
+不明
+So we as advocates of the customer experience, really need to think about how are we going to improve that right. That's why we at stripe bill link link is our one click checkout that stores checkout information so folks can buy their thing and go. What we found is that it leads to meaningfully faster checkout as well as meaningful increase in conversion.
+
+00:06:01:35 - 00:06:24:27
+不明
+So really incredible opportunity with link open OpenAI as one of the customers who's using link. And I love this stat. They've seen a 40% increase in their checkout speed with link. So again matching the customer expectation to what reality can be right. So we've talked about speed. I want to talk a little bit about choice and about flexibility.
+
+00:06:24:32 - 00:06:54:36
+不明
+One of the challenges that we're also hearing about is just an explosion in global payment methods. So folks across the world seeing different payment methods pop up all over the place every day. And as marketing, technology customer experience leaders, it's really hard again to keep track of this. And what we found again, if reality is not meeting expectation in this case, if the local payment method that customers prefer is not available, they're out there abandoning their carts right at a really terrifying rate, actually.
+
+00:06:54:41 - 00:07:13:42
+不明
+So one thing that's cool about stripe is we've got this technology that you can pop onto your site and it'll dynamically surface the top 2 or 3 most relevant local payment methods. Again, meeting the customer where they are based on location, device transaction amount and making it really friction free for them to check out and not abandon that cart.
+
+00:07:13:42 - 00:07:40:48
+不明
+Which means growth for you. Another interesting challenge is that with changing demographics, we're seeing younger folks preferring meaningfully different payment methods, specifically buy now, pay later. This is just wild to me and never gets old. But in the data that we have, only 42% of Gen Z has used a credit card in the last 90 days. So again, meaningful shift in payment preferences, right?
+
+00:07:40:53 - 00:08:02:07
+不明
+With this, I'd like to invite Napper up to talk about buy now, pay later. Nipper is coming to us from a firm and has all kinds of good info to share. So, Nipper, do you want to tell everyone about yourself and also about affirm? Yeah. Is my mic on? Okay, great. Hi everyone. I'm Napper. I run our merchant and partner product at affirm.
+
+00:08:02:15 - 00:08:21:40
+不明
+I've been with a firm for the last decade. I actually joined the company when there were about 25 people at the company. And I've sort of seen it move from, a really small startup to now a large public company. What a firm does is we're a payment method that helps users pay over time, for their purchases.
+
+00:08:21:41 - 00:08:43:01
+不明
+And what makes us different from especially credit cards and the incumbents is we don't charge our users late fees. We don't do compounding interest. And for those of you who might not be as big of a payment nerd as I am, you may not know that most, about 30% of the revenue that financial services makes can be from late fees and compounding interest.
+
+00:08:43:06 - 00:09:03:36
+不明
+So the fact that we have been able to secure a company that is robust and public without doing these things that can hurt users is something that we're really, really proud of. And we're really proud that we've been able to uphold our mission of delivering honest financial products that improve lives. I love that. Shall we stand up here and poke out of this, this this television?
+
+00:09:03:41 - 00:09:25:39
+不明
+Awkwardly lurking behind it? So, we know that consumer payment preferences are changing. We've saw that stat about Gen Z and buy now, pay later. To take it back to 1993 at a Burger King of all places. Let's see how, payment preferences have always been changing. All right, let me see. What will it be for here to go?
+
+00:09:25:44 - 00:09:45:23
+不明
+Would you like ketchup on that? Well, large small fry. Cash or credit? What? The home of the Whopper is offering cash or credit. I think it's pretty bad if you have to use a credit card when you go to a fast food restaurant for something as little as $3.10. If I use my GM card, I get a 5% rebate.
+
+00:09:45:27 - 00:10:03:23
+不明
+Thank you. But are you here long enough? I'll be able to buy a pickup truck. Burger King bosses say workers will have to figure out how much change the customer gets back. I just hope it doesn't slow things down at the cash. Cash and carry that people are going to be having to call New York again, get the confirmation or, you know, whatever it is that's what I want, a whopper.
+
+00:10:03:23 - 00:10:22:53
+不明
+I want it now. Just another way to spend money. I'm sure it'll work for people on vacation when they don't have to do something, but I can't imagine it working on a day to day basis here. So far, the smallest credit has been for $2.50, the largest just over ten. Jamie Costello News, channel two. He wants a Whopper and he wants it now.
+
+00:10:22:57 - 00:10:49:01
+不明
+I do too. I can't blame him. Can't blame him. So, the takeaway for me here is that consumer payment preferences have been changing forever, right? What does that look like today? What are you all saying at affirm? Yeah, I just I love this video because it is, beyond being quite funny. It is just really astounding that it wasn't that long ago that credit cards were introduced and that it seemed so radical and maybe even absurd.
+
+00:10:49:06 - 00:11:17:19
+不明
+But if you think about it today, most of us who are using credit cards, you know, that is credit that's being extended to you. But most users in the United States, they default to a debit card. They don't have access to these credit cards, or when they do, it's very predatory and they get into really debilitating cycles. So if you think about how all of us do actually like and prefer to have a 30 day float, which is what our credit cards give us, and most users don't have access to that, that makes it really challenging.
+
+00:11:17:24 - 00:11:39:54
+不明
+And so I think what this is really saying is that, you know, these payment preferences, they are dynamic. They do change. And convenience is really important. Choice is really important, as we said, but so is credit and so is the flexibility to pay on your own terms. Absolutely. So let's talk about that flexibility. Because again we talked a little bit about buy nothing buy now pay later.
+
+00:11:39:54 - 00:12:04:10
+不明
+Excuse me buy nothing. We actually don't want you to do that. We talked about being feels a little bit earlier, but it's astounding to me the growth that we're seeing and being specifically and then the amount of transaction volume that they represent and the shifting trends for younger users, specifically with Gen Z. So can you talk a little bit more about what is attracting these younger users to buy now, pay later as a payment method?
+
+00:12:04:15 - 00:12:23:58
+不明
+I think it's a few things. So, our CEO and founder, Max Levchin, is one of the original founders of PayPal. He was the original CTO at PayPal. And so it's always really amazing for me to see a bunch of logos that, you know, where payment preferences come from and kind of see his company on there twice. And affirm is really a continuation of, of that mission.
+
+00:12:24:03 - 00:12:50:28
+不明
+And affirm was started 13 years ago, almost to the date, a few years after the financial crash. And consumers at that time, you know, saw their parents go through really debilitating hardships. They saw how banks had mistreated them or sort of pulled the wool over their eyes and really said, no more. And so what you see with millennials and Gen and Gen Z is a combination of sort of financial savvy, sort of protection for themselves, but also convenience.
+
+00:12:50:29 - 00:13:10:48
+不明
+You know, you saw that stat about I want one click, I want 30s I don't want to go dig into my bag for my card. And, you know, firm doesn't doesn't do that. Right. It's it's all digital. It's it's fully contained in what is effectively a less than 32nd checkout and is great for repeat purchasers because, you know, we're not really thinking about is your card expired?
+
+00:13:10:48 - 00:13:29:18
+不明
+Is it still on file? Like we have that ability to to sort of maintain that. And so what we're seeing is incredible demand from consumers of firms business. And just the sort of last quarter where Black Friday, Cyber Monday is a big, big quarter for us, as I'm sure it is for you, is where we see 35% year over year growth.
+
+00:13:29:27 - 00:13:52:41
+不明
+And last year, the industry grew 42% year over year just in Bnpl showing that that demand in those moments. So we're we're really seeing that this is a preference. It's coming from convenience. It's coming from some of the hardships that they've seen and faced. And I think something that people might not realize is that affirm and sort of paying over time is not just for folks who are cash constrained.
+
+00:13:52:46 - 00:14:24:23
+不明
+It's actually for folks who just want more flexibility in the way that they pay. And 70% of our users actually represent demographics that have, you know, income and access to credit. They're not living paycheck to paycheck like you might think they are. They really like the convenience. Yeah. So interesting myth there. Another one that I like is it really interesting to me is I think Bnpl have often had the kind of label of, oh, it's for a big luxury item or for some really high ticket item, but in fact, our data doesn't show that we're seeing Bnpl is being used for all kinds of everyday purchases.
+
+00:14:24:23 - 00:14:46:46
+不明
+So what do you what do you kind of derive from this in terms of like the purchasing habits and how people are using Bnpl? Yeah. So I think in the beginning of affirm, if you can imagine me, you know, ten years ago, calling you probably and saying, hey, do you want, do you want to use affirm? You would ask me what firm and you would ask me to to spell it right, and that would be how my phone calls went.
+
+00:14:46:51 - 00:15:14:13
+不明
+But so that's how we got our start, is we really thought about what kinds of sellers would benefit from a user being able to pay over time. So we looked at where financing already had product market fit, and that was mattresses and furniture. And so we paired with really digital first companies like Casper and Peloton. And that's kind of where I think that initial, brand reputation came from, which was affirm is a great way to pay over time for your large considered purchase.
+
+00:15:14:18 - 00:15:40:54
+不明
+But what's happening is as the consumer trends for more convenience, as we get more integrated into their favorite ways to pay. So last summer, affirm was the first Bnpl launch partner with Apple Pay. And if any of you have used Apple Pay, you know that it's a really convenient way to pay. And so when we're integrated in more places on more categories, we're just seeing consumers again, look to pay for things more flexibly.
+
+00:15:40:58 - 00:16:00:09
+不明
+The other, category that we're really excited about is in travel and ticketing and experiences. This one is up 40% year over year in. If any of you have kids and have taken your child to Disneyland, you know how expensive this can be. So there's kind of the convenience portion of it, but then there's the hey, I feel good about the way I paid for this.
+
+00:16:00:09 - 00:16:21:16
+不明
+I feel like this fit into my budget. I feel like I'm not concerned or nervous about the way I paid for this, which can sometimes lead to guilt. Consumers can feel like, oh, I wish I hadn't spent that much. And that's really unfortunate, because it can also dilute the experience that you're trying to provide your family. So we feel really proud of our ability to be there for users in this way.
+
+00:16:21:21 - 00:16:41:34
+不明
+It's really about cash flow. That's it. Absolutely. It's a cash flow management tool, really. At the end of the day, I love it. So one other thing that I think is a misperception is that when you introduce buy now, pay later into your checkout flow, it can just cannibalize other revenue. But we're not seeing that at stripe. We're seeing actually much of the buy now, pay later volume is actually net new transaction.
+
+00:16:41:35 - 00:17:03:23
+不明
+So are you all seeing the same thing in terms of net new transaction cart growth, all those kinds of things. Absolutely. So I think a few things, you know, the the study that we did, which we did with you, was for a variety of cart sizes. And you can imagine these numbers also going up. The higher the cart is, the higher the cart size is, because, you know, there's more barriers to sort of a user abandoning at that time.
+
+00:17:03:34 - 00:17:20:05
+不明
+So what we see is that average order values are 78% higher. That's a lot. We are seeing that cart abandonment is 28% lower, and that three out of four users wouldn't have actually made that purchase or made that purchase. Right now, a lot of users are thinking about, you know, how do I how do I make this payment?
+
+00:17:20:05 - 00:17:41:49
+不明
+We saw the stat that was, you know, 80, 85% of carts are abandoned, 80%, something like that. That's that's really, really high. And so, you know, what we see is that this is an incremental value to a merchant. And more specifically, an affirm user goes on to become an affirm app user. And affirm is a top 15 app in the App Store today in shopping.
+
+00:17:41:49 - 00:17:59:31
+不明
+And I just looked it up right before I came up here to confirm that we indeed are as high as I thought we were. What's so great about that is we're creating a behavior where a user then purchases, sees that they're able to spend in their app, and the first merchant that they think of is the merchant where they purchased at.
+
+00:17:59:36 - 00:18:21:59
+不明
+And so users end up spending twice the amount that they would spend, you know, relative to other Bnpl. Because we give users that transparency. We say, hey, this is how much you're able to safely spend at your merchants of choice, and you already feel good and comfortable and safe about the way you spend. Love it. And this you're talking about kind of the merchant perspective, the user perspective.
+
+00:18:21:59 - 00:18:48:12
+不明
+So y'all are designing for those two really critical audiences, right? How do you think about that when doing product design? Customer experience design, etc.? It's one of the most it's what is my favorite part of my job, honestly, because there are these network effects that really reinforce each other. If you do good things for a consumer and they demand your product and go to merchants and are showing the, you know, the brand preference and the conversion, then the merchants are very happy with the performance that they're getting.
+
+00:18:48:18 - 00:19:07:55
+不明
+So it's very symbiotic in that way. Tactically, how we think about it is the job to be done for the user is a flexible way to pay very quickly, and the job to be done for a merchant is performance and conversion. I have to be able to do both and show that it's really valuable to them, and I have to also be able to make their integration extremely simple.
+
+00:19:07:55 - 00:19:29:30
+不明
+So ease is also something that is seen on both sides. Obviously we partner with stripe, which helps a lot with the ease of integration because it's a toggle in a dashboard to to turn it on. And so I really have to think about what is going what's the equivalent of a one click integration for a merchant. While I think about the one click checkout experience for the user.
+
+00:19:29:34 - 00:19:55:55
+不明
+So in terms of the experience, you know, this is a conference for marketers who sometimes have technical remit, often don't. What would you say to folks in terms of thinking about being an advocate for the customer journey and thinking about payment methods and that type of technology from their seat within the marketing organization? Absolutely. I think when another product is on your website, it is, you know, the way that product treats your customers is really important.
+
+00:19:56:00 - 00:20:34:17
+不明
+And so thinking about, you know, your own brand and what does it mean to add another, you know, vendor to that brand ecosystem. So I would be really cautious about you know, does this brand represent and is values and mission aligned with what your company represents. And that's kind of a brand tactical message. And then I think beyond that there are different parts of the customer journey that you can leverage payment preference or in our case paying over time interest free as a marketing message, we find that users actually prefer to pay over time interest free, and that they 50% of them prefer that to a discount.
+
+00:20:34:26 - 00:20:53:25
+不明
+And that's great for you because it's not discounting your product, it's maintaining price integrity. And you can also use that lever whether it's, you know, interest free payments over the next eight weeks or it's interest free payments over 12 months or 16 months, and that lever is available to you as a, as a, as a counter to, to discounting.
+
+00:20:53:25 - 00:21:13:40
+不明
+And so thinking about, are you trying to drive top of funnel, are you trying to retain someone or are you trying to convert someone who's abandoned, making sure that a user can think of this flexible way to pay, especially with an interest free component as a driver for that behavior, I think can be really valuable. Great. Well, thank you so much for for I really appreciate it.
+
+00:21:13:40 - 00:21:33:31
+不明
+And super excited to learn more about what a firm does. Yeah. Yeah. Awesome. Thanks so much. All right. I'm going to bring up Matt Passi from Jaguar Land Rover. And we're going to talk a bit about digital transformation. Very exciting. So tell us about your journey with JLR. You've been there for 24 years. You started in marketing, you've moved to product.
+
+00:21:33:36 - 00:21:59:17
+不明
+You've done some cool stuff along the way. Tell us more. Sure. So as you said, I joined Jaguar Land Rover 24 years ago and spent much of my career in live events actually interacting with our customers. Some of that was, and, sponsorship, marketing and partnerships. So, looking at sports, sports marketing, sponsoring, rugby was involved in the Rugby World Cup back in 2011.
+
+00:21:59:22 - 00:22:24:16
+不明
+But also with, three day event ING with people like Zara Phillips. And then moved into the driving experiences and really that was quite interesting because, effectively we retail, driving experiences, as a car manufacturer. So, I set up things like, this driving experience here, over in Moab, in Utah, but also some safaris down in sub-Saharan Africa, in Botswana.
+
+00:22:24:25 - 00:22:44:58
+不明
+And I also run a, ice academy up in far north Sweden. And while they all sound like, hugely adventurous, which they are. We needed to generate revenue from them and that needed for us to take those to our customers and retail them. So we had to stand up, e-commerce, capability, within Jaguar Land Rover.
+
+00:22:45:07 - 00:23:10:12
+不明
+And it really taught me a lot about retailing and online retail. And then, after Covid, I did a bit of a pivot, into, connected services division. And taking those, kind of those, lessons that I'd learned through retailing, and online retail into our connected services, where there is no option for us in connected services, we have to do our transactions through e-commerce.
+
+00:23:10:17 - 00:23:32:03
+不明
+And, as we have an increasing volume of connected cars. We needed to create more transactions, but also a better quality of experience for our customers and really elevating that experience to the same level as our driving experiences, which demonstrate the capability of our vehicles. Lovely. And you talk about those shifting experiences we've been talking about.
+
+00:23:32:07 - 00:23:55:09
+不明
+Credit cards were a new thing. Bnpl is now a new thing. How are you seeing the shift in consumer expectations in the automotive world? Well, when I first started at Jaguar Land Rover, you know, the iPod was just coming onto the scene. And I remember having conversations with some of our team members about Bluetooth and integrating cars, because at the time when we were, you know, plugging phones into cars, it was the cradle.
+
+00:23:55:13 - 00:24:20:29
+不明
+That was the integration point. But and we took feedback from customers at that time and the, the, the truth that I've seen kind of like continue over that long period of time is the customers want that beautiful integration, whether it's physical within the, the car, or whether it's in the digital experience, you know, the most discerning customers, they're very savvy and they want things to integrate beautifully.
+
+00:24:20:40 - 00:24:40:59
+不明
+So, you know, I think, you know, I've been in a few Uber cabs while I've been here in Vegas and I've seen, you know, various, you know, phone cradles and things stuck to this and that. And, you know, there's the risk of things flying about. And, you know, when things are beautifully integrated into the dash, then that's where there's a, there is that modern luxury experience.
+
+00:24:41:04 - 00:25:02:28
+不明
+Great to have you guys have what you call your seven modern luxury principles, which I think if anyone's seen any of your cars on the road, it makes all the sense in the world that this is how you operate. How do you think about bringing these into your digital experiences and that that customer kind of transaction? Sure. So, you know, I think these are our high level principles driving the entire business.
+
+00:25:02:29 - 00:25:24:23
+不明
+You know, everything from, the exterior design, which, you know, products like Range Rover and Jaguar are famous for. But also, you know, how we execute both our, experiences, maybe within our retail partners or what we do online as well. So I'll just touch on a few here. And I think there's some that are, you know, super obvious, you know, and we've heard these words already and they're not uncommon.
+
+00:25:24:34 - 00:25:44:09
+不明
+So, you know, that that effortless, experience. And, you know, for us payments particularly, it just absolutely has to be effortless. And we've heard that's not just a luxury thing, right? That's for everyone. We don't want to we don't want to spend time paying. We don't mind having to pay for things, but we don't want to actually go through that interaction of paying.
+
+00:25:44:16 - 00:26:08:06
+不明
+We just want that to be easy. And then engaging and reductive. I think when we do want to talk to our customers and when we're retailing that we want to be able to tell the story of our brands. So, you know, making, flows really engaging and allowing our customers to dwell in those, areas of, you know, learning about the product, what it can do for them, how it can, help them make more of their lives.
+
+00:26:08:16 - 00:26:25:49
+不明
+And then, moving through a really swift, you know, conclusion to that transaction. Lovely. And tell me more about, you know, you guys look at driving. I we all do. I think it can be both a luxurious experience if you're on like a long, easy road trip. Easy. And also functional. It's getting you where you need to go.
+
+00:26:25:49 - 00:26:52:36
+不明
+So how do you guys think about blending those two things as you think about your digital strategy? Sure. So I think what we, we want a really kind of like personalized experience. And so, really meeting the customer where they're adding value. We know that. And it won't surprise any of you that, you know, we heard earlier, you know, about Apple and the, a firm integration with Apple.
+
+00:26:52:40 - 00:27:24:00
+不明
+Range Rover customers, overindex on their Apple, ecosystem. And so being able to really easily implement, Apple Pay for us was like, super important. And then when we launched, with stripe straight away, we turned on American Express. Market preferences on payments, are important to us as well. We've got a huge market footprint, not not just from where we sell our vehicles, but also we've got a growing footprint with where we trade our connected services as well.
+
+00:27:24:05 - 00:27:46:16
+不明
+So, you know, things like ideal in the Netherlands or bank contacts in Germany, I think was on one of the prior slides. And emerging, methods, as you said, you know, there's a rapid growth. So we were we're, currently doing some work on our Asia Pacific rollout. So and we've had discussions on things like the new pay to initiative and, Australia.
+
+00:27:46:21 - 00:28:05:24
+不明
+So, we want to be able to offer all of those options for our customers. Yeah. Love it. Again reducing that friction. Right. Yeah. So this is a journey and a car is something that you have for a long time. How are you all thinking about improving that journey before, during, after the purchase. And then what are some of the features that your customers really love?
+
+00:28:05:29 - 00:28:36:49
+不明
+So we want so connected services really are about, helping the customer, to make more of their vehicle. We, we see very much as a kind of a software defined, vehicle. And this is going to be an emerging, theme. We see, across, the whole of the automotive industry. And but what we, what we need it to be is and we talked about kind of like the transaction and making that effortless.
+
+00:28:36:54 - 00:28:54:50
+不明
+What we want to do is to really make that a connecting experience. So it's holistic in the, the whole of the customer's, life cycle. At the moment, you know, I think if we are most critical selves, we kind of like look at it and go, this is quite transactional. But really, making the whole of the interaction.
+
+00:28:54:50 - 00:29:22:30
+不明
+So we meet the customer where they're at, and they can transact where they want to. Currently that's predominantly, you know, through a smartphone device, but we're looking at other channels that they can transact in. You know, and obviously there's lots of different pieces of hardware and I don't want to give anything away. But obviously we're thinking about, you know, the larger parts of the hardware and how they might transact, and at least have their, their payment, methods through that.
+
+00:29:22:35 - 00:29:40:39
+不明
+But yeah, I think it's really making sure, that we meet the customer where they're at in that payment. Sure, sure. And again, I've asked this question to before, but with a roomful of marketers, you know, how can we be advocates of the customer experience, especially? I think you guys have an interesting situation where you've got the hardware, you've got the connected services.
+
+00:29:40:39 - 00:30:04:58
+不明
+Things change a lot over time with how people interact with their vehicles. What advice would you give this room? I think we've got, to really be data driven. I think things are changing so fast that we really need to listen to the data. And in the keynote yesterday, you know, heard it said that the, sometimes we can look at the data and we want it to kind of, like, substantiate what we think rather than actually truly acting on what the data is saying.
+
+00:30:05:07 - 00:30:26:24
+不明
+And we've looked at buy now, pay later. And I think, you know, you've got to think, you know, people who buy, premium vehicles are probably more to that end of the scale. He says, you know, representing Gen X on the site. But that means that, you know, we've got to have our we've got to be future facing, as we've said, in our, in our principles.
+
+00:30:26:29 - 00:30:47:40
+不明
+And so really assessing and looking at that and we've, we've seen, you know, some some of our customers are like, well, you know, and I think is there, you know, do I need to use a buy an app handled by now paying later for a, for a connected service. Well, they may not, but they, they definitely get the convenience, of, being able to easily pay.
+
+00:30:47:45 - 00:31:12:56
+不明
+And so, in some markets and, and we've seen this very much in Germany that, customers, do use those, those methods. So, that's a, that's a data point. Listening to the data and, and really acting on that and making sure that, we, test and learn and have that, that approach, continually reviewing the kind of the world that's changing around about us.
+
+00:31:13:01 - 00:31:34:42
+不明
+So I love the iterative approach of test and learn. But I'll ask you, on the macro scale, you know, you guys have driven meaningful transformation from manual transmissions to now beautiful digital experiences in the car. How would you advise people to kind of think about driving that meaningful transformation over time? Yeah. So, I think it's it's really about a culture of change.
+
+00:31:34:42 - 00:31:57:50
+不明
+I think, you know, within Jaguar Land Rover, we've used kind of like, waterfall methodology to develop, hardware. You know, more locally, we have a more agile approach. Sometimes just, you know, maybe that's just Kanban, maybe it's, you know, more close adherence to across agile methodology, looking to really sync, across the teams. You know, my team is a product management team.
+
+00:31:57:59 - 00:32:19:44
+不明
+So we're looking at prioritization. What are the features that we're going to put, into the platform. And really getting that incremental change culture, within the team and you know, not being overly focused on the end outcome, but really on the journey on how how we're going to get there. Yeah. Great. Well, thank you so much.
+
+00:32:19:49 - 00:32:44:04
+不明
+Appreciate it. Do you want to actually do one little PSA on this guy? I mean, this is, this is our checkout experience. I've used, the Canadian example here. We've actually seen, 20% usage on link, where we've got link, deployed in Canada. So, yeah. But, it's, it's really interesting. And, you know, that's a, that's a kind of a specific stat.
+
+00:32:44:09 - 00:33:01:40
+不明
+But we've got, we're looking at implementations elsewhere as well. Great. Again, so simple friction free experiences all the way down to the checkout. Great. Well thank you so much for joining us today. For everyone in the room, if you haven't visited our booth, stop by. We've got a great team of experts there, some really great swag.
+
+00:33:01:51 - 00:33:20:21
+不明
+If you'd like to learn more about stripe, we have a couple of events coming up, namely, our sessions event in San Francisco, and then our stripe tours will be happening around the world over the course of the summer. In the fall. So, visit trip.com. You can visit Stripe sessions.com to register for sessions. And we'd love to, spend more time with you.
+
+00:33:20:25 - 00:33:20:51
+不明
+Thank you.
+

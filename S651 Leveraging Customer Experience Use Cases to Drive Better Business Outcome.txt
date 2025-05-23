@@ -1,0 +1,428 @@
+00:00:00:07 - 00:00:34:19
+不明
+Everybody. Welcome to Thursday. The morning after bash. I'm glad you all made it. Welcome. Give yourself a hand, please. All right. Any moviegoers in the audience? Anyone like to watch films? Favorite genre drama? Anyone? Horror films. Raise a hand. Documentary fans. Anyone? Rock docs are my chick flicks. As my husband likes to say. So. How about comedy?
+
+00:00:34:24 - 00:00:59:42
+不明
+Comedy fans out there? All right. One thing that all of these journeys have, or the all these movies have in common, all these different genres, is a framework, a story arc. And one of those classic story arcs is the Hero's Journey. So we like to think about taking your customer, taking our users on a journey. They are the hero.
+
+00:00:59:47 - 00:01:28:15
+不明
+So hello, I'm Christi Duncan, I'm a product management director on the Adobe Experience Platform and Apps team, and I'm leading customer experiences product experiences to help all of you help our customers and help our users realize a journey and create success more efficiently, faster, easier, and better than ever before for those super hero fans. All right. And I'm Michelle by.
+
+00:01:28:15 - 00:01:52:04
+不明
+Nice to meet you all. So I lead the analytics and the value engineering team within Digital Strategy Group at Adobe. So my team we help customers think through what's the potential financial benefit they're likely to receive when they invest in Adobe products. And we do that by recommending high value use cases, quantifying the value of very individualized specific use cases.
+
+00:01:52:15 - 00:02:10:10
+不明
+And we follow up with customers after sales to make sure that indeed, six months, eight months down the road, they are realizing financial benefits. And we're here today to talk about the use case. And thank you for all the raising of hands. That's just proof that you can do straw polls. We'll have some more polls for you along the way.
+
+00:02:10:15 - 00:02:43:34
+不明
+Have your phones ready when the QR codes pop out. So what we're going to be sharing today, what we're going to be talking about is a use case framework a simple framework to define use cases to align your teams, your organization, your priorities. We'll also share with you how you can take steps along that framework journey to mature those use cases, as well as a process that you can use to do some some quick prioritization to really bring your teams together and figure out what you need to do to the next step to execute.
+
+00:02:43:38 - 00:03:03:18
+不明
+I'll also be showing what that might look like, and how the use cases that you define can actually inform the product experience to help all of your teams realize those outcomes for your intended audiences. And of course, we want to share with some of the customer successes that we've had with some of our customers that have used this framework.
+
+00:03:03:23 - 00:03:36:00
+不明
+So with that, I'm going to pass things over to Michelle to kick us off. All right. Okay. So we're going to talk about a tale of two approaches. So whether you are a marketer, product manager, an engineer, a developer or an analyst, most likely you are very used to a campaign centric or a channel centric approach. You may start out with a very specific campaign idea, and then you think about how to activate that across your different channels.
+
+00:03:36:05 - 00:04:05:40
+不明
+Or you have very dedicated channel teams that work on their own channel optimization. So this is a valid approach. And this works well because it's able to capture platform level engagement such as likes reviews on social media. It's able to capture campaigns, specific near-term goals, campaign revenue. And you probably already have an established way of working within your internal teams to get these campaigns out the door.
+
+00:04:05:45 - 00:04:24:54
+不明
+But the problem is that on the customer side, they may receive very inconsistent messaging. You may have a customer who receives an upsell email after they had a bad shipping experience, or someone who is completely new to your site, and they are asked to sign up for the loyalty program without even having them getting a chance to know you.
+
+00:04:24:59 - 00:04:55:09
+不明
+So how do we evolve this? So the second approach is the customer centric approach. So here we're looking at a way to drive sustainable growth over a long time by tapping into the strengths and desires of the customer across time, across all touchpoints. You may have a customer who starts getting to know your product on the website. They purchase the store, they ask you a question on social, on how to use it.
+
+00:04:55:20 - 00:05:23:29
+不明
+And then they leave a comment on whether they liked it or not. So by tapping into what customer needs across channels, across time, companies can drive more profitable growth over time, which is a much more sustainable strategy than putting in a lot of upfront investment for acquisition without retaining them. So if a brand is able to achieve this, they can look at the long term journey level engagement.
+
+00:05:23:34 - 00:05:48:19
+不明
+They can think about the long term profitability, such as customer lifetime value. And the customer receives a great personalized experience. But the question is how do you do it? The customers don't know about the complexity of your highly matrixed organization. They don't know how hard it is to pull this off. So we are going to show you a way to solve for this.
+
+00:05:48:24 - 00:06:23:43
+不明
+Get your phones ready. Digital phones ready. So we're going to start with a quick poll. What are the top three challenges that you see in your organization? Translating your business goals into customer experience. Use cases, tying technical capabilities to business outcomes, rallying you organization around a common emotion to a plan and achieve use cases ideating and evolving your current use cases and having better in product experiences in Adobe to facilitate this use case activation.
+
+00:06:23:48 - 00:06:40:10
+不明
+So now let's scan this QR code and pick three answers. I feel like we need some countdown time. We need some little music to go along with this one. We see the results coming in.
+
+00:06:40:15 - 00:07:05:36
+不明
+Let's, give it a few more minutes here. We've got a clear lead translating business objectives to customer experience in the cases. Thank you for coming to the session. Technical capabilities. Yeah, this is an interesting one. What what do we actually need to do in order to, you know, achieve those outcomes? Right. What capabilities do we need?
+
+00:07:05:36 - 00:07:33:49
+不明
+What's going to be the revenue and cost associated rallying the organization, aligning your stakeholders? How many how many people are working across team matrix organization stakeholder management. Exactly. Ideating and expanding. You started somewhere. Where do you go from there? Right. And then, more product features. All right. So features right now. Not necessarily the challenge. We've got other larger challenges here.
+
+00:07:33:49 - 00:08:02:38
+不明
+So terrific. Okay. Good results. Feel free to keep voting as you as you, as you need to, and we'll move it forward. So let's look at the solve for these problems. So it's very important that we start with a common definition of a customer experience use case. So that all your teams are speaking the same language. At Adobe we define a customer experience use case by answering five questions.
+
+00:08:02:43 - 00:08:27:08
+不明
+Why is the use case worth delivering? That's your business goal. Who is your target audience? What is the call to action to your audience? Where is the message delivered? And the last question is how do you activate it? What capabilities do you need to support the who what where? Answering all five questions ensures that your entire team are on the same page.
+
+00:08:27:13 - 00:08:51:48
+不明
+Now we're going to turn this into a life by looking at a very simple movie theater example. So in this example, the movie theater, our brand, our company, they want to target the who as the moviegoers who have already purchased a movie ticket on their mobile phone. The call to action is to visit the concession stand before showtime.
+
+00:08:51:53 - 00:09:22:38
+不明
+They will deliver this through a push notification. And the reason they want to do this is to increase ancillary sales. In terms of how this could be very simple. It could be a batched daily one time push notification utilizing the, moviegoers digital profile that includes their mobile app ID, their, day of the movie information. So with this common definition, let's unpack what's the financial benefit.
+
+00:09:22:43 - 00:09:46:58
+不明
+So here on top, we still have the same information on the who, what where. And on the bottom is the quantification on the business value. So as a planning exercise you can start thinking about if I were to go out, go after this audience. How many new movie theater visit visitors do I have? What is the current baseline concession stand purchase rate?
+
+00:09:46:58 - 00:10:12:26
+不明
+Purchase value? And we want to test to see if there's going to be an increase on the conversion rate. So this may come from your similar campaigns you have done in the past or Adobe. We have some data points as well on these uplifts on these use cases. So before you go into activation, your analytics or your your finance team may come up with a recommendation on the financial value.
+
+00:10:12:26 - 00:10:39:48
+不明
+In this case, they might say that $9 million is a high value use case. So next, how do we make this happen? Let's unpack the how the how we break that into five pillars data, audience, journey, measurement, and content. On the data side, you need a mobile app ID, you need a ticket information, and then you need to measure the eventual purchase rate and purchase value at the concession stand.
+
+00:10:39:53 - 00:11:02:40
+不明
+Audience start simple daily batch push notification. The journey is just a one time thing. There's actually no orchestration for that one push message, and the measurement you want to look at was the difference on the purchase rate and the purchase value between test versus control groups. And the content is also simple. It's just a copy of the push notification.
+
+00:11:02:44 - 00:11:27:26
+不明
+So now we have spelled out the details behind the who what where, why And how I want to ask the question. Question? Raise your hand. And by the way, your engineering team says that yes, this is highly feasible. So if you think back to the use cases you have in your organization, can you potentially translate them, translate them into who, what, where, why and how?
+
+00:11:27:35 - 00:11:58:09
+不明
+Raise your hand. Yeah. Okay. You good? All right. Good. So then what do we do with this framework? We are going to have your cross-functional teams to collectively ideate using the same definition and prioritize. So your merchandizing team might have come up with that in theater ancillary sales use case in this format. Your patent media or acquisition team.
+
+00:11:58:14 - 00:12:22:14
+不明
+They may have a high value prospect acquisition campaign. They want to get, prospects to visit the website through a media. The how is, through a CDP and through a paid media destination. Let's say that you have a partnership team that works with credit cards, and they want to launch a credit card, co-branded credit card, acquisition campaign.
+
+00:12:22:23 - 00:12:49:00
+不明
+They want to get loyalty customers who don't yet have a co-branded credit card to apply for one. And this is done through the web and app. The goal is to increase over, the loyalty customers, LTV, lifetime value. And to do that, you are going to need, collaboration around the data from the credit card company and the you need the personalization capabilities on your website and our mobile app.
+
+00:12:49:05 - 00:13:23:54
+不明
+So after you have documented these three use cases, then your finance, your analytics and, your technical teams, they can do the assessment around business high value, low value, high feasibility, low feasibility. So by the end of this exercise, hopefully you can identify a couple high value high feasibility ones for near-term activation. All right. So after the ideation and the prioritization let's take a look at what happens afterward.
+
+00:13:23:59 - 00:13:56:10
+不明
+We're going to walk into an end to end use case activation process. This is broken down into six phases. Step one ideation two. Planning three. Generate four share and launch five analyze and six optimize. We have already covered what happened in ideation phase. One more point to add is that in ideation phase, it's important to align on your strategic goals which are your big whys.
+
+00:13:56:19 - 00:14:27:22
+不明
+Right. And after the ideation, we have picked one high value high feasibility use case. Let's go into planning and the planning mode. This is where you take in all the requirements for your prioritized use case, and turn that into an activation plan. In this activation plan, or sometimes called a business requirement document, you are going to list out all of your functional requirements in terms of data ingestion, in terms of testing and experimentation.
+
+00:14:27:27 - 00:14:59:16
+不明
+Assign the timing, timelines, roles, and responsibilities. And the very important thinking through what is the analysis plan so that after you go live with the use case, you have confidence to say whether that uplift has happened or not. So after planning, we're going to then generate this use case. Generation involves ingesting the data, creating your audience segments, creating the actual assets, copy content, and designing the journey.
+
+00:14:59:21 - 00:15:37:56
+不明
+Next, we do the QA to make sure there are no more, no bugs. We get approval for Go Live and the final legal life. Step five analysis. This is the moment of truth where you finally find out through your data science or experimentation team, on whether there was actually any impact on this use case. So it's very important to actually socialize either the ones you saw in this use case or the learnings you realize in this use case if there was no uplift, because that can help you drive future optimization.
+
+00:15:38:01 - 00:16:01:27
+不明
+Stage six loops back to step one. Then you can come back again as a team to review the use case backlog you have already built up. You can see if you are big wise or big. Strategic goals have shifted. Whether you need to add the new use cases or if you want to continue working on the previous use case based on the latest learnings.
+
+00:16:01:32 - 00:16:33:30
+不明
+And this is going to be a cross-functional collaboration process. So let's bring in the four personas on your team. Very broadly speaking, marketing this could encompass your loyalty, team acquisition, customer experience, teams, engineering. These are your product managers developers architects. Analysts are your data science experimentation or finance teams. And the creative could be your in-house or external creative agencies.
+
+00:16:33:34 - 00:17:00:53
+不明
+So I'm not going to belabor through the tasks of each of these four roles, but I want to call out that in the initial ideation and planning, as well as at the end optimized optimization phase. This is where most of the teams come together to stay highly aligned on the use case. They want to execute the middle phases of generate queue and launch and analysis.
+
+00:17:00:58 - 00:17:33:40
+不明
+That's when teams divide and conquer and perform their functional tasks. Okay, so next poll question are you using some type of end to end use case activation approach, either the one we shared or something similar to this? Yes. Working towards that. Have had discussion. No. Not sure. And let's pull up our phone.
+
+00:17:33:45 - 00:18:03:06
+不明
+Okay. Easier for me to see this screen and turn my head around. Right. So quite a bit. Yes. And working towards it. Yeah. Who? What? Where? Audience action. Destination. Terrific. I think my favorite description that Michele shared about this framework is how many? How many of you have tried to explain the work that you do to a parent, a grandparent, or a kid?
+
+00:18:03:11 - 00:18:36:29
+不明
+Anyone? Easy, right? Yeah. So the who what where the why in the how. Explain it to a seven year old Mad Libs. If anyone remembers that. So great. Okay. All right. Let's move on back to our slide. So the next question is you have your existing potentially simple use cases. How do we evolve it to actually go further so that the customer experience is even more personalized?
+
+00:18:36:34 - 00:19:02:26
+不明
+So here we're going to introduce a customer experience maturity framework. We're going to unpack the five house into crawl walk run phases. And I will take you through what each one of them. So the first one is data. What kind of data do you utilize to personalize? Most likely you already have a lot of digital data from your website or from your mobile app that you can do, on premise.
+
+00:19:02:31 - 00:19:33:54
+不明
+Personalization. The next phase is tying all of your first, second, third party online and offline data into a unified profile. And that's what the run phase is. Bringing in external contextual signals to further personalize the experience. So an example of that could be your store inventory data, your local weather or your market movements. Those are actually real time signals, not necessarily tied to the customer, but still very useful to furnish the customer experience.
+
+00:19:33:59 - 00:20:04:03
+不明
+The next pillar is audience. How do you create your audiences in our movie theater example? Initial stage was simply a batched audience data batch. That's completely fine. The walk phase would be a streaming audience and a streaming audience where the personalization happens almost real time. What this means is that the segment gets formed within minutes when a data update happens, and then one phase is ushered, or in the moment.
+
+00:20:04:05 - 00:20:39:38
+不明
+Audience creation. So this happens in milliseconds when the data changes. So all obviously by this point you can no longer have a human creating that audience segment in milliseconds. The third pillar is journey. How do you manage and execute your omnichannel campaigns? The starting point could be very siloed, separate campaigns by channel. The walk phase would be triggered campaigns and event triggered ID, and there might be some kind of orchestration between your digital channels.
+
+00:20:39:43 - 00:21:10:53
+不明
+Let's say email and push. And the third one phase would be triggered but 1 to 1 journeys. So different people are put into different journeys. And at this point there's orchestration between online and offline channels. Measurement looks at how you do reporting and how you use that insights to make decisions. Starting point would be channel specific campaign specific last touch attribution.
+
+00:21:10:53 - 00:21:53:59
+不明
+So very descriptive statistics. The walk phase would be looking at journey level performance. And here you might be looking at multi-touch attribution instead of first touch. And you might have some type of media mix modeling to drive top down annual or semiannual media budget decisions in the most advanced phase. You're looking at customer lifecycle level measurement. And here the decision making happens through AI or ML algorithms that ties your experimentation results as well as your media mixed modeling results to tell the true incrementality story.
+
+00:21:54:03 - 00:22:37:57
+不明
+And that is used for ongoing ongoing optimization instead of annual or semi annual budget allocations. Finally, content. How do you produce and utilize your content? The starting point might be producing a piece of content in its entirety for a single purpose. The next phase is having content fragments, but someone needs to manually assemble them. And the last phase is having content segments, but actually having algorithms assembling them in real time and the content assembled has to be adaptable for all the different channels market and the different formats, requirements.
+
+00:22:38:02 - 00:23:00:02
+不明
+Now, having walked through these in this maturity framework, let's take a look at how we are going to evolve that movie theater. Use case. So the way we're going to do that is by looking at how the who, what where changes from what it looks like at Go Live to a best in class, let's say 12 months down the road.
+
+00:23:00:07 - 00:23:26:19
+不明
+And then we're also going to unpack the how from foundational capabilities crawl all the way to most advanced capabilities. Run the way we're going to do that is on top. We have the v one use case, prompting all moviegoers on the day of the movie to visit the concession stand via mobile push. And we already talk through how that will be done.
+
+00:23:26:24 - 00:24:01:00
+不明
+The next iteration of this will be thinking through what if we incorporate loyalty data to make it a little bit more personalized? So here we're prompting loyalty customers when they scan their ticket on a movie theater to spend X amount more dollars at the concession stand in order to get to their next movie ticket. To do that, the data stream requires tickets scanning, and you also need to know the loyalty status and the loyalty points from your CRM system that forms the streaming segment.
+
+00:24:01:04 - 00:24:27:36
+不明
+The moment when someone scans their ticket and this triggers an event based journey. Next version. Let's take a look at what happens to your now loyalty customers. So we want a non loyalty customers when they scan their ticket to visit the concession stand. And if they sign up for the loyalty program they get a free drink coupon. Once again this is still done on push notification.
+
+00:24:27:41 - 00:24:58:19
+不明
+So here this journey involves an offer decision making to offer a free drink voucher from your account and library. And then the measurement is now going to look at the loyalty signup rate. And the most advanced V4 version I'm thinking of right now is extending this In-Theater movie use case to what happens after the show is over. So let's suppose that this movie company has a partnership with a music streaming service that's called music, fi and the.
+
+00:24:58:19 - 00:25:21:44
+不明
+Through the partnership, we want people to sign up for music by subscription. So in the last version before we want the loop, we want all the movie goers after they watch the show to sign up for the streaming services based on the soundtrack they listen to, and the. This is orchestrated through push and email. So here are. The data is very complex.
+
+00:25:21:59 - 00:25:49:19
+不明
+You need data collaboration with your streaming partner. You need to know the time of the movie ending so you don't send it before that. You need orchestration between push and email so you're not bombarding them. At the same time. You are looking at the revenue from the loyalty partners. And in terms of content, you have to have content fragments that correspond to the movie or the soundtrack that they just watched.
+
+00:25:49:24 - 00:26:15:02
+不明
+So with that, we have evolved a very simple one time push notification, completely generic to all moviegoers, to a highly personalized one. Now we're looking into taking account of loyalty, status, loyalty points, the activities that are happening in the theater, what the movie, what the soundtrack they might be interested into, and a potential extension to the partner program.
+
+00:26:15:07 - 00:26:41:19
+不明
+And we were able to do that by carefully following through the who, what, where, how? Why does the notion. So let's see what is this going to look like on the customer side? Let's say that we have a loyalty customer, Lacey. So her experience is that when she enters a movie theater, scans her ticket, she gets a real time notification, hey, it's $10, $15 more at the concession stand to get your next movie ticket.
+
+00:26:41:23 - 00:27:06:21
+不明
+That's real time. So she spends money once again. She gets real time notification. Congratulations, you got your next three movie ticket, and after the show is over, let's say one hour, she gets an email, she gets a push notification. Hey, listen to the soundtrack on music. I sign up for their subscription subscription program. She may forget to do that immediately, but a late, a day later, she gets an email notification.
+
+00:27:06:21 - 00:27:30:27
+不明
+Hey, do you still remember the soundtrack? So now at the end of this journey, lady, she is very happy throughout all her interactions with the movie company and at the same time, they're making a lot of money. All right, so to wrap this up my section up, I want to, let's ask this question again. Where do you think your use cases are in terms of crawl, walk, run?
+
+00:27:30:32 - 00:27:38:46
+不明
+Let's take out the phone. We've got no runners in the audience yet.
+
+00:27:38:50 - 00:27:54:57
+不明
+But people are moving, crawling and walking. It's great. I'll take that. Okay. Okay. We still getting some, responses streaming in.
+
+00:27:55:02 - 00:28:19:27
+不明
+Right. So, just like Lacey, the customer is is on a journey. We know that each of you and your teams are also on a journey. So that's a journey to create those experiences for your end users and for your customers. Now journeys going through onboarding. It's the learning. It's the generate steps of bringing data in, creating audiences, activating audiences, testing.
+
+00:28:19:27 - 00:28:51:16
+不明
+Validate ING. And at the center of that journey, and what we want to see is that use case is informing all of that product experience. The use cases you define to align your teams around that common objective. Those are the same use cases, but set the context and can set the context and inform the product experience. So with that use case context and also understanding the role of the user, the workflows get more tailored, they get more curated.
+
+00:28:51:21 - 00:29:17:49
+不明
+And the guidance is also more intelligent because it knows what your objective actually is, helping you to succeed in reaching that outcome faster and with more team collaboration. So what I'd like to do is tell you a story about our our team at Luma Cinema. These are the people that are creating those use cases that Michelle just described for the moviegoers of the Lomas Luma cinema chain.
+
+00:29:17:54 - 00:29:41:11
+不明
+And I'm telling the story through the lens of Adobe real time CDP, through some concepts that we've been exploring. So meet Max the marketer, Emily the Engineer, Andy the analyst, and cam from our creative team. Max signs into the product and the first thing you'll notice, this is a brand new home page. Right front and center are the use cases for Luma Cinema.
+
+00:29:41:21 - 00:30:16:57
+不明
+These are those use cases that Michelle just shared in the framework. Max notices that the first use case there is is a high priority. But the other thing is that this is tailored to Max and her role as a marketer. She sees that there's latest, there's new training available for audience creation, and also highlighting some of the additional products that she uses on a regular basis, like Adobe Journey Optimizer to create those journeys, and also customer journey analytics to validate and test against or to measure against the use cases that she has running.
+
+00:30:17:02 - 00:30:38:05
+不明
+Now Emily is on the engineering team similar home page. Those same use cases are made available to Emily as they are to cam and to Andy on the analysis team. But of course, Emily's role is quite different. Being part of the martech or the IT or the development or engineering arm. So she's seeing some of the new training that's available for data ingestion.
+
+00:30:38:05 - 00:30:58:37
+不明
+Data management also access to other products, but with a different focus. Her tasks and her actions are going to be different. So let's focus back on Max a little bit. I mentioned that she noticed there was something about that first use case the concession concession stand sales. It's a high priority use case. And so she's eager to to jump in.
+
+00:30:58:42 - 00:31:25:03
+不明
+She selects the use case and finds that there's actually a learning mode available. So within the product, a tailored environment where she can actually go through that use case with guidance and prompts to learn what are the steps that she needs to do to activate and realize that use case. In this case, she feels pretty confident, so she's just going to jump right in and go to the go to the use case details page.
+
+00:31:25:07 - 00:31:44:56
+不明
+So use case details. This is where it all breaks down that who, what, where, as well as some of the actions that new Max is going to need to take for this concession stand. Sales. Use case is right here, front and center. So she knows she's going to have to create those audiences as well as do some analysis and activation.
+
+00:31:45:01 - 00:32:19:01
+不明
+But there are some things to help her along the way. There's an audience accelerator as an agent here that can help her with generating those audiences. Or she might want to explore some different options using some use case playbooks. Both of these items are completely tailored for the use case that Max is working on. So Max's primary job, as I've been touching on, is to build and manage those audiences, and the products job should be to make sure that Max is successful in doing that in the most efficient way possible, that she can have an impact and have outcomes.
+
+00:32:19:06 - 00:32:40:42
+不明
+So before creating an audience from scratch, Max is actually looking at two different audiences that are already available that the system has seen. That is is there applicable to her moviegoer needs. And what she can see here is that one of these audiences has a high propensity score and is recommended by the product. So she goes with goes ahead and and chooses that one.
+
+00:32:40:47 - 00:33:01:31
+不明
+But it's important to know that Max always has the agency to decide what she's actually going to be used for. This use case product may make recommendations to her and help her along the way, but she has the control. So meanwhile, Andy on the analysis team also knew that this use case was coming up and the Max was going to be working on it.
+
+00:33:01:31 - 00:33:26:04
+不明
+So he's been spending some time analyzing past use cases to see how was the engagement with different audiences. And he's been able to make some recommendations to Max one on what's the audience test to control that she should be using, but also some optimizations that Max can make to that audience to have it to reach a wider, wider group and increase the engagement.
+
+00:33:26:08 - 00:33:49:50
+不明
+Likewise, cam on the creative team was able to get a jumpstart on the on the creative. So before Max had an opportunity to even meeting cam to say, hey, I need those creative assets. Cam already reached directly out to Max and said, great, I already have these two promos ready for you. Which one do you prefer? And so this gives teams an ability to really efficiently collaborate.
+
+00:33:49:58 - 00:34:17:02
+不明
+They don't have to wait for one team to completely finish their work when there could be work happening in parallel. So Max chooses a creative and moves forward. So with the audience in place, the projections of where she thinks this use case is going to land them in terms of conscious concession stands, stand sales. I'm going to keep trying to say that on a Thursday morning and also with the the asset created, Max sees that she's nearly there.
+
+00:34:17:07 - 00:34:43:22
+不明
+So she's getting progress indicators all along the way. She doesn't have to second guess. How many more steps do I need to go through? The last step here is activation. So once Max activates on this audience, she's now live with her use case. And with that use case live and running out in the wild, Max and Andy can be looking at the dashboard to see how well are they doing.
+
+00:34:43:27 - 00:35:13:51
+不明
+Our concession stand sales going up, and indeed they are. So while they're looking at this, you can like do the little Bill and Ted we've got are going to move time a little bit through here. She gets a notification from the system. But there's an opportunity that she could continue to increase the concession stand sales by creating these two new audiences, reaching out in new ways, and also acquiring new loyalty members.
+
+00:35:13:56 - 00:35:34:43
+不明
+There's some projections here to say, okay, if you do this, this is what we think the result is going to be. So to do those two new, new audiences, loyalty data is going to be needed. This means that she needs to engage with Emily on the engineering front. Emily knew this was coming again. Those same use cases were available to Emily on her homepage.
+
+00:35:34:52 - 00:35:55:54
+不明
+She knew this project was active, so Emily saw the loyal to use cases surface. She decided to get going on jump start that data job. And when she picks the data source for the loyalty data, the system actually helps her out and notices that some of the column headers there of what she's going to ingest aren't quite quite what is needed for mapping.
+
+00:35:55:54 - 00:36:16:06
+不明
+So it makes some recommendations to change some of those column headers. Do some data cleanup for her. Again, she has full agency to say, yes, this is the right action for me and says go ahead and make these changes. Fix my data, clean it up. This means that now the data is ready for mapping and that job can continue forward.
+
+00:36:16:11 - 00:36:38:38
+不明
+Once the data is imported, she also has an opportunity to tap into the AI assistant as a fellow team member and say, okay, you know, help me out here. She's able to create some fully editable entities to come into the schema for that loyalty data, and also get some recommendations of what she can, what can be done next.
+
+00:36:38:42 - 00:36:56:35
+不明
+So with that done, the system is managing or is is tracking the progress. So Emily doesn't have to keep checking to see where is that data. Is the ingestion job done? Is all of the loyalty data is available. Neither does Max have to continue to ping Emily to find out. Hey, where's my data? I need to get my audiences created.
+
+00:36:56:35 - 00:37:08:50
+不明
+Max gets a notification. She knows the loyalty data is available, and she can continue on with her next task of creating the audiences that are needed.
+
+00:37:08:55 - 00:37:40:20
+不明
+And so with that, she knows her next step is to activate. And with that activation live, we now have our initial use case. Maybe still running. For those that are just coming in and scanning their, their, their mobile ticket, but now also reaching out to two new audiences, our existing loyalty members can, giving them a promotion and enticing them to go buy some things at the concession stand and get closer to that free movie ticket, but also the offer of the free soda to our non, we're non.
+
+00:37:40:20 - 00:38:09:44
+不明
+But now hopefully loyalty members as they sign up. So we've got success. We are live and again Andy and Max check out the results. And we can now see how the different audiences are tracking in terms of sales increases, which was our initial goal with the first use case, but also now new loyalty member acquisition. So we can start to build more of a relationship with these moviegoers.
+
+00:38:09:44 - 00:38:13:09
+不明
+With Luma Cinema.
+
+00:38:13:14 - 00:38:42:46
+不明
+And so as we kind of do a little time transition one more time, Max gets a notification, she heard this might be coming, that Luma Cinema has a new partnership with music by the streaming service, and she's pretty excited to get started. She knows she can use a data clean room to collaborate with partners and subscriptions. Some of you may have heard about our Adobe Real time collaboration that's recently released, and she's excited to get started.
+
+00:38:42:51 - 00:39:02:59
+不明
+So this is a new use case, and maybe those details weren't available yet. So she now can create the use case and start the who, what, where and start to enter the use case details so that the rest of the team knows what's coming and they can get ready to get going on the next big promotion.
+
+00:39:03:04 - 00:39:26:55
+不明
+And so with that, we've got our streaming sign up, use case ready to go, and Max and Andy start to look at the results here and can see that we've got that increase in streaming. Sign up as well as continued acquisition of new loyalty members. Those may have also been attributed to pay. If you're going to help me with the streaming service, I'm going to sign up for the Loyalty Cinema program.
+
+00:39:27:00 - 00:39:32:36
+不明
+And again, people are still buying popcorn and soda.
+
+00:39:32:40 - 00:39:58:22
+不明
+So big success on that. And just to kind of recap and touch on all of this was because of the use cases themselves. So giving the product the context of what your objectives are, what you're looking to drive for your customers, your end users, and bringing that home page really to be more tailored and curated to the individual's tailored learning and enablement, as well as the workflows.
+
+00:39:58:27 - 00:40:21:20
+不明
+Also getting things out of a parallel motion. So how many of you find that? So how many of you say you're in marketing right now in a marketing category? Any data engineers in the room? Okay, a few, how many marketers are waiting to get going and feel you can't get going because the data engineers haven't brought the stuff into the product yet, and you're waiting, not pinging on the data engineers.
+
+00:40:21:20 - 00:40:45:34
+不明
+I'm just going in a straight cycle right? Yeah. So that's also one of the things here with the use case and knowing the objective and having the streamlined workflows, as well as areas where teams can get going in parallel more often than just going serial, the the reporting and dashboards and bringing more information into the product. So you can see how things are going with the use cases themselves.
+
+00:40:45:34 - 00:41:08:08
+不明
+But also how is your team engaging and of course, the intelligent, helpers along the way, the accelerators to help you be more efficient. So we're getting to the customer wins and successes. And so I just wanted to call out a few examples here. One of our airline customers, all of these were done in a day.
+
+00:41:08:15 - 00:41:41:42
+不明
+So we started off this morning with in a world, we're going to bring it right back down into in a day and in a day. Our airline customer created 75 use cases, 88 ID on those across three different lines of business. And they currently have five got the agreement on five priorities for activation. We have a retail customer, same thing in a one day workshop across 40 different stakeholders they were able to come up with, I believe it got my glasses back on here, 25 different use cases and they have six of those prioritized.
+
+00:41:41:42 - 00:42:04:47
+不明
+These are large organizations complex. I'm sure you're all sitting as part of one of them to to get those things going. And then a health care insurance provider, one of our customers here are 25 different use cases across 21 stakeholders, four of those prioritized and also presented to their chief marketing officer using the same framework of what's the why?
+
+00:42:04:52 - 00:42:24:53
+不明
+But really the who, the what, the where, the how. And even you know, I know we've have other customers that did the, you know, the the back of the napkin sort of t shirt sizing. Is it a 1 million, a 5 million, a $10 million opportunity? Let's size that. Let's help us prioritize. What's the effort to go into that?
+
+00:42:24:58 - 00:42:30:26
+不明
+So I think we've got one more poll for you.
+
+00:42:30:31 - 00:42:52:45
+不明
+And so we would just like to get your feedback on this. How likely are you to introduce this use case framework into your organization and start to have some who what where conversations. Let's see, should be getting this pull up now.
+
+00:42:52:50 - 00:43:09:55
+不明
+Okay. Where are we at 7% okay. All right. Good. Well, we've got a couple leave behinds for you. We will have some time for questions. I think we're doing pretty well here.
+
+00:43:09:59 - 00:43:40:25
+不明
+So your call to action. Create the who, what, where? Create the use cases using that and align your teams. Have the conversation we've been hearing from many different customers that leveling up the use case to the common who what where structure is really engage is elaborate or is getting those teams to have conversations that maybe didn't have before, instead of speaking, marketing and design and engineering and all of these other things.
+
+00:43:40:30 - 00:44:00:37
+不明
+We're just speaking the same language to get the same context and then can go deeper, can go deeper into a technical use case or a system or an application use case. But starting with that customer use case of the who, what, where? Look at, what are adjacent industries doing? You might get inspired by other industries. Use the use case playbooks.
+
+00:44:00:38 - 00:44:26:32
+不明
+You can explore use case playbooks in the product today, both for real time CDP and Adobe Journey Optimizer. Get ideas there and some leave behind here. Feel free to take a picture. I know it's a little difficult. You can't click a link when I'm doing a slideshow here. But we've got a download for you with the basic structure, including kind of this Mad Libs box here, but you can download that, PDF and share it when you get back to the office.
+
+00:44:26:37 - 00:44:56:23
+不明
+And we would love your feedback. So your feedback on the framework and also if you're interested in use case workshops or in participating in upcoming alphas and betas on some of the things that we've been exploring for the product, or other features. And capabilities. And I think with that, we're just going to hit it one more time of remember the who, what, where and say thank you.
+
+00:44:56:27 - 00:45:22:57
+不明
+Thank you very much. Please give yourself a round of applause. Right. And everybody likes free stuff. So remember to take the survey in the app in the summit up. You've got a chance for the Starbucks gift card or headset, and, I believe the expo is still open, so also a plug for our colleagues at the Experience League team.
+
+00:45:23:02 - 00:45:35:05
+不明
+You can go to the community and support pavilion. All right. Thanks again everyone. All right. Thank you. Happy third day of summit. Enjoy the rest of it.
+
+00:45:35:09 - 00:45:35:27
+不明
+With.
+

@@ -1,0 +1,484 @@
+00:00:00:12 - 00:00:22:57
+不明
+We have an action packed agenda for you guys today. Thank you for getting up bright and early on a Wednesday morning at summit. I know that's kind of rough, except for the East Coasters. It's a lot easier for you guys. Okay, our agenda for today, we're going to talk about, H&R block's, road to acquiring and using Adobe Mix Modeler.
+
+00:00:23:02 - 00:00:45:45
+不明
+So the topics we're going to cover today is, number one, how H&R block was doing measurement before they acquired Adobe Mix Modeler. Then we'll pop into a demo that shows how we bring data into Adobe Mix Modeler from there. Kristen will talk about convincing the organization that, am Adobe Mix Modeler is a must have.
+
+00:00:45:50 - 00:01:08:08
+不明
+Then we'll pop into a demo around how you build models and what the output of that looks like. Then Kristen will cover within H&R block what the change management look like to acquire, and use Adobe Mix Modeler. And then we'll pop into a scenario planning demo. Before we do that, though, let's just quickly introduce ourselves. So my name is Nils Angle.
+
+00:01:08:13 - 00:01:29:57
+不明
+I'm a managing principal solutions consultant, which is a mouthful to say every time. I've been with Adobe for about 19 years now. And focusing on measurement the whole time. Based in New York. And I'm Kristen Harris. I'm a director of marketing data strategy and optimization at H&R block. I have been there about five and a half years now, but only the last year in marketing.
+
+00:01:29:58 - 00:01:54:22
+不明
+Before that, I was in our data science and analytics team, leading enterprise analytics. So data science background came in really valuable for this. And move. So one of the thing I think everyone in this room would agree with Kristen is that taxes are hard. Yes, that being that it's tax season, just know that H&R block can help make filing easier.
+
+00:01:54:27 - 00:02:20:10
+不明
+But nells also measuring marketing performance is really hard. Yeah, well Adobe Mix model can help there. We can help you with your media measurement. Make it easier. Let's talk about how we can help you make a return on your data. All right. So we're going to kind of go into H&R block's previous methodology for measuring our marketing performance.
+
+00:02:20:15 - 00:02:41:49
+不明
+So we had a media partner that helped us with our amendment modeling. So that was an external third party partner that would come in and we would run it once a year. So if you think about taxes, they're an extremely seasonal business. Most people know tax day is April 15th and you get your W-2 sometime in January.
+
+00:02:41:51 - 00:03:05:49
+不明
+So a majority of our business occurs from January 1st through April 15th. And because we are only running this once a year, we would then look at kind of the performance of a full season after that season is over. And how did we do that? Because it was a third party, we would start manually collecting all of our different data sources at the end of tax season.
+
+00:03:05:54 - 00:03:36:09
+不明
+We'd have SftP of spreadsheets. We'd only do it once a year, so no one was ever saving their code. There have to be slight adjustments to these file polls. And we pulled out 50 spreadsheets, shot them and send them over. That would take us about two months just to get the data together. On top of that, because we're pulling spreadsheets with kind of manually written code, we would go back and forth with our third party partner cueing the data because, you know, a file wouldn't have been sent all the way.
+
+00:03:36:10 - 00:03:58:18
+不明
+Something along those lines. And then after that, we felt good about the data. Our third party partner would take that and build the model. It was great. And they would provide us the results via static PowerPoint displays and XLS. So you get the ROI curves, we get the model output, we get the channel performance, and all of it is just an Excel.
+
+00:03:58:20 - 00:04:30:15
+不明
+Some PowerPoints. And from there we took it and did a crosswalk to last such attribution. I just said that we did our media mix models once a year, but all of our season occurs from January to April. And so we had to create a crosswalk from something that we can measure continually in season, which for us was our Adobe Analytics attribution and crosswalk that back to these MDM results to try and do some form of measurement and flighting so that we could do a plan for tax season.
+
+00:04:30:19 - 00:04:56:49
+不明
+Because how critical like that is to our spin plans. It would take us about two months to derive like this crosswalk and how we were going to like track and season. And then finally in Excel, every day throughout season, we're looking and making adjustments to our flooding, to our plans based on kind of this crosswalk. But at the end of the day, what you're seeing is last touch attribution day in and day out.
+
+00:04:56:54 - 00:05:22:30
+不明
+And so we typically heavily skewed towards search because it's the data that you see. So all together to kind of get em to work for us took six months every year. And we'd only be running it once. We couldn't have different components of it throughout tax season. And like there was a lot of accuracy limitations. Right. Because things could change throughout tax season that we didn't see.
+
+00:05:22:35 - 00:05:31:39
+不明
+It was really slow. There are lots of process inefficiencies and we missed opportunities to scale.
+
+00:05:31:44 - 00:05:47:53
+不明
+And also like if we think about it, I just told you a lot of this is in PowerPoint, in Excel. So how do you actually tell the story altogether of your media measurement? So we had these results from partners, and we'd go and share for the summer and do a big end of season readout in terms of performance.
+
+00:05:47:58 - 00:06:22:23
+不明
+Internally, we were looking at LTA results, but we also viewed through attribution through things like Google CRM. 360. Right. We had additional kind of multi-touch looks that wouldn't have included our full business though, right? So that was kind of everything through Google. We also had platform data, right. We have our walled garden data. So we are taking 4 or 5 different inputs, kind of aggregating some of those through basic math, talking to our marketers, seeing how they felt, and kind of across all four of those, we are creating our plans are getting the data and telling the story.
+
+00:06:22:28 - 00:06:46:55
+不明
+So I don't think this story is too unfamiliar for a lot of places, but it wasn't efficient and it took a long time. So let's talk through what am done to help us improve efficiency. So to kick it off, we did an initial test of am using all of those spreadsheets that we sent to our third party partner.
+
+00:06:47:00 - 00:07:08:16
+不明
+We just did a manual load of that to see if we could recreate and see what results we saw. And Adobe Mix model there. That's I am sorry. And what we found is that we could do it. It was really easy process. And so we had two years of data and taxes and 23 taxes in 24. And we felt good about the process and am it was an easy lift.
+
+00:07:08:18 - 00:07:37:36
+不明
+It wasn't huge like the model accuracy was good. We're getting similar results as we expect. But then how do we make it so that that six month process, these manual feeds aren't still holding us back? So the next step is automating the feeds. We have Adobe ATP. We're starting to send our maybe a data into ADP. And those daily nightly performance feeds from our media data are now being pushed to Adobe by smaller.
+
+00:07:37:40 - 00:07:55:46
+不明
+So when data is being updated continually people are looking at it. Right. So like the QA process is happening day in and day out because people are seeing our median numbers now. We're looking kind of at marketing performance. And then from there, like you might need a data scientist to really set up your models, make sure you feel good about it.
+
+00:07:55:51 - 00:08:14:22
+不明
+But then we can have our marketing analysts also look at model output. There's indicators for model drift. And so like instead of having our highest like technical resources, watching this model like the UI enables us to kind of have the marketing analysts that are working with our media partners day in and day out look and understand what's going on.
+
+00:08:14:27 - 00:08:35:27
+不明
+We also have visualization tools, right? And so you're able to take things that were previously kind of held in Excel and PowerPoint and distribute them via Adobe tools that people were used to using. Like, we're a big Adobe Analytics shop at the time. And so like our senior leadership was looking at Adobe Analytics reports. And now we can start feeding this data into platforms.
+
+00:08:35:27 - 00:09:01:54
+不明
+They're already going into the data that they are already used to seeing with words that they know how to kind of filter themselves. Also, instead of doing Excel with all these manual plans and flighting, you can do ad hoc plan creation, right? You can run scenarios in the tool. So you're getting out of Excel, you're getting it out of manual processes, and then you are able to easily track in-flight performance and kind of do a daily review.
+
+00:09:01:58 - 00:09:11:31
+不明
+So like I said, that was the previous methodology. And this is what changes also with Am.
+
+00:09:11:36 - 00:09:39:52
+不明
+Instead of someone taking in their brain all of the knowledge from all of our different sources, we're able to apply a lot more attributes to Am and utilize transfer learning, which helps us understand those final results. So like one of the things we do in the past is we do test right and we have lift from those tests, but we wouldn't be applying those into our models or like, you know, some external data factors, right?
+
+00:09:39:57 - 00:10:02:46
+不明
+Taxes are highly driven by changes in regulation. Like non-farm employment. There's external factors that impact tax. So all of those things now are also going into the model. And we're having transfer learning. Instead of just relying on market beliefs, we still are able to include those and make adjustments to the model. But really that transfer learning is generating something that we can believe in with our final results.
+
+00:10:02:51 - 00:10:11:42
+不明
+And then those results can then be seen in a platform that our leadership feels comfortable using through.
+
+00:10:11:47 - 00:10:38:35
+不明
+Great. So Kristen talked about, her old methodology of loading in Excel spreadsheets and a bunch of files and putting a test step, very manual process with Adobe Experience platform, which is what Adobe Makes Modeler sits on top of. We provide a number of different ways to bring that data in in a very automated way. So instead of having those manual feeds, it's just an automated process where that data just flows into the Adobe Experience platform.
+
+00:10:38:40 - 00:10:57:47
+不明
+Once that data is in Adobe Experience Platform, we then have the ability to what we call harmonize the data. And that's a way of coming up with a common nomenclature across all of those different data sources that you're using, so that an impression from one data source represents an impression from another data source. You're kind of joining that all together.
+
+00:10:57:52 - 00:11:19:10
+不明
+And so what I'm going to do here is quickly just show you in the interface what this looks like. I was going to do a live demo, but we've had internet problems in the past. So it's going to give you screenshots. But what we're looking at here is part of the data harmonization process within Adobe Mix Modeler. The first part or the first thing you do is you define the fields of data that you're going to be working on.
+
+00:11:19:12 - 00:11:33:00
+不明
+This is going to be the data that's going to be brought into Adobe Mix Modeler, and you're just specifying what are those fields that you're going to be building your models off of it, and you map it to the data that's within Adobe Mix Modeler. You can see I have a bunch of fields named on the left here.
+
+00:11:33:14 - 00:11:51:48
+不明
+And as I want to add new fields, I just click on the add field and define them. Once I've defined my fields within Adobe Mix Modeler, I then have the ability to define marketing touch points. These are going to be the touch points that are going to be used within the model. So you're pre setting up all of the different marketing touch points.
+
+00:11:51:48 - 00:12:17:15
+不明
+This might be affiliate impressions. This might be you know display impressions and clicks. All of that data gets defined as part of this harmonization process. As I have a need to add new marketing touch points, maybe new channels, I click on the Add Marketing touch point, and I can define what those marketing touch points are based on that list of fields that those defined fields that I set up previously.
+
+00:12:17:20 - 00:12:40:54
+不明
+First thing I would do with a new marketing touch point is give it a name, define what in the data represents those marketing touch points, what the touch point volume represents. In this case it's impressions, and then what the touch point spend represents. If there is spend with that marketing touch point in this case its cost. So I'm defining that based on those fields that I set up in the first step.
+
+00:12:40:58 - 00:13:00:30
+不明
+Once I've defined my marketing touch points, I can then define my conversions. What are the goals that I'm trying to drive for as I'm building my model so I can set up any number of touch point, conversions within Adobe Mix model. Or you can see I have a list of them here if I want to add a new conversion goal, I can set that up.
+
+00:13:00:30 - 00:13:25:57
+不明
+Click Add conversion. Similar process is setting up a marketing touch point. I'm now setting up a conversion goal. In this case, I'm looking to drive point of sale orders, and I define within those fields that I defined previously what represents a point of sale order. What's the metric that represents a conversion in that data, and what's the metric that represents the revenue in that data.
+
+00:13:26:02 - 00:13:47:27
+不明
+Click create that's now been defined. So this setup process is very easy. As you can see within the interface you're defining what is the fields of data. What are the marketing touchpoints. What are the conversions. Once that's been set up you can go into our overview view here. That allows us to understand is the data there that I expect to be there.
+
+00:13:47:27 - 00:14:09:07
+不明
+This is a data validation step. You can slice into any of the different data sources. You have the different channels to make sure that what you expect to be there is there. And then once you've done your data validation, you can start building models. Before we cover that, Kristen is going to talk about who needed to be convinced within H&R block that Adobe Mix Modeler was the way to go.
+
+00:14:09:12 - 00:14:33:29
+不明
+Yeah, so I would start with like me, right? Because like as a data scientist, my background, there's a large part of me that's like, well, was this build our own models in Python, and it's going to be so much easier and so much better, like having a tool to do this really reduced a lot of that lift, and also a lot of your dependance on your data science team, who could then go and build additional models that have additional ROI instead of continually babysitting what we had.
+
+00:14:33:34 - 00:14:58:01
+不明
+So once I got on board, then it's how do you convince everybody else? And I would say, one of the great things about our whole Adobe journey is that it's been a partnership between IT and marketing. Marketing never ran it. This alone because they couldn't. Right. So I think we've kind of heard a few horror stories where marketing, we're trying to implement this very big, very powerful platform at H&R block.
+
+00:14:58:01 - 00:15:17:54
+不明
+We never had that. So all right, team has partnered with us every step of the way. We work together to groom the backlog. We do prioritization together like my two partners are here today. Like we wouldn't be successful without them. And so I think for us, like if you don't have that it buy in to get these feeds running continually have them monitored in a true ETL process.
+
+00:15:18:09 - 00:15:34:42
+不明
+Make sure that they're hitting their SLA is like, you're going to be missing a big part of the value of getting to run your models more frequently, because you're going to be watching all the data accuracy all the time. But we're able to do that because of our very close partnership with it. And so, that's a big one.
+
+00:15:34:42 - 00:15:59:47
+不明
+Make sure you have your I.T partners. The other one for us is executive leadership. Like the initial purchase for us for HP was led by our CIO and our CMO. So they have kind of that executive leadership. But as like more senior leadership is brought in getting them to buy into the platform, getting them to understand the value of all of the Adobe products so that we can continue to get ROI, continue to grow, continue to improve personalization.
+
+00:16:00:01 - 00:16:17:42
+不明
+And then for the AMP piece, it's like, hey, you made all of this magic, all of this investment. Let's actually measure it. Right. And so like Am was really like the cherry on top to convince them, it was never like the initial driving factor, but to actually measure marketing has been kind of a complaint of everyone, right?
+
+00:16:17:42 - 00:16:35:36
+不明
+Marketing is hard to measure. This is going to give us a tool to do it more frequently. For us, we work with agency partners. We are measuring their performance with marketing measurement. And so a big thing is starting to have these discussions with our agency partners. What is am how is it different from our old process?
+
+00:16:35:36 - 00:16:59:15
+不明
+What are our expectations of them for using this output, and how do we integrate it into planning and flighting and then our media team, right. We want to make sure that they feel comfortable with the new measurement process, that they are going into the tool, and they feel good about reporting too. So for us, like it's kind of these four pillars are what are going to make AMP success for us internally at our block.
+
+00:16:59:20 - 00:17:24:51
+不明
+And another reason why this wasn't as hard as sell as you might think is because our block for quickly losing signals for our old measurement framework. Right. So like with cookie deprecation I said we'd used CRM 360 right there. We used to have a huge media tagging framework, and we still kind of have that right across some of those channels.
+
+00:17:24:55 - 00:17:47:55
+不明
+But at the same time, like data privacy is critical, right? We want to share less data. We want to send less data out. We want to keep more things internal. And so like being able to do full measurement, kind of end to end in-house is also going to be a really big benefit for us. And not having to send any kind of like hashed email or anything like that for the measurement components.
+
+00:17:48:00 - 00:18:08:57
+不明
+And so yeah, right now and I think kind of one of the big things about what everyone's experiencing with cookie deprecation, on average, only 35% of media spend can be measured in on MTA. So we're just losing a lot of signals. And we want to sell for that. Gave us an option of how to.
+
+00:18:09:01 - 00:18:34:36
+不明
+And finally, I think people were really tired of hearing kind of the same story out of marketing. We talk a lot. So much in season about like, last question, like how paid search is for reforming. And then all of a sudden after we run em, we're giving them these huge channel summaries that all of a sudden say, hey, we probably spent a little too much on paid search.
+
+00:18:34:40 - 00:18:52:30
+不明
+And so kind of hearing all of that over and over again, and it became like a cycle at block where we talked all about LTA and season. Then you get this big M read out to kind of summarize the season. It was just too fragmented and it was hard for people to leave because it felt like the story was changing.
+
+00:18:52:42 - 00:19:21:58
+不明
+Because if you don't understand a marketing measurement framework, it really is. Your story is changing. So what M is allowing or what am M is allowing us to do is in-season tell the same story. So we're going to give at the end of season what's kind of our summary views. So it's going to be building upon a story that we're telling them in January, February, March, April for the final review in May, as opposed to feeling like we're pulling the rug out from under them in terms of channel performance, in switching things up.
+
+00:19:22:03 - 00:19:37:14
+不明
+And so having that MTA with the men, running them more continually is giving us a leg up in the storytelling and also improving our ability to optimize across channel in season.
+
+00:19:37:19 - 00:20:00:01
+不明
+So Kristen just talked a bunch about the methodology that Adobe Mix model uses and the different types of models that are being used the MTA, the. Let's pop into ARM, Adobe Mix Modeler and check out how we actually build a model within the interface. So for starters we talked previously about how we get the data into Adobe Mix Modeler.
+
+00:20:00:03 - 00:20:27:52
+不明
+Once that data is in there we can start building these models. And one thing that's really powerful that Kristen just talked about is that they were working off of one model for a season. Right. What we're talking about here within Adobe Mix Modeler is the ability to in a very ad hoc way, build any number of models that you want to based on different conversion goals, based on different marketing spend as different inputs into the models until you get your model looking the way you want to, and so on.
+
+00:20:27:52 - 00:20:47:54
+不明
+The left hand rail is an example of a bunch of models that have been built. The ability to build models is as simple as clicking on open model canvas within the interface. From there, you would define a name for your model, and then you start defining the inputs that will be used for that model. And this all comes back to that data harmonization that we did previously.
+
+00:20:47:54 - 00:21:04:48
+不明
+Right. Where we defined what a marketing touch point is. We defined what a conversion is, right. Based on that harmonized data. And so the first thing we're going to do here is we're going to define what represents a conversion for this model. What are we trying to model against. Right. What types of conversions. In this case I'm going to choose total orders.
+
+00:21:04:48 - 00:21:26:43
+不明
+But I can pick from any of those conversions that I set up as part of that harmonization process. Once I've defined that, I can then defined which marketing touch point do I want to include to give credit to for those conversions? I've selected a bunch of them at the bottom here, but these are all of the marketing touch points that I defined again, as part of that harmonization.
+
+00:21:26:52 - 00:21:45:04
+不明
+That initial step. Once I've defined those, I can then also define what I want to represent as my eligible data population. So do I want to run a model based on all of the data, or do I only want to do it based on maybe a specific region like North America? Or maybe I want to do it based on a specific brand.
+
+00:21:45:09 - 00:22:05:49
+不明
+Any of the data points that are have been brought in as part of that data harmonization process can be used to kind of filter down who can choose what data is going to be included in the model. Once you've defined that, you can then define what factors you want to include in the model. And we allow you to bring in both external factors as well as internal factors.
+
+00:22:05:58 - 00:22:30:09
+不明
+External factors would be things like the S&P 500, the consumer price index, employment rates. Right. All of that stuff can be considered external factors. Internal factors would be things like employee headcount. Maybe you opened up a new, branch. Could also be a promotion that you're having. All of that can be included within, these internal and external factors.
+
+00:22:30:14 - 00:22:55:36
+不明
+Once those have been defined, you can then also define, whether or not you want the model to use spend share, spend share is, great for when you have kind of sparsity in your data. So H&R block is a great example where they have huge spikes. Right. And then no activity. So Spencer can help with, with kind of managing with those, those kind of gaps in the data.
+
+00:22:55:40 - 00:23:31:16
+不明
+We can also turn on multi-touch attribution. So the models within Adobe Mix model or can be purely. If we want or we can include MTA multi-touch attribution as well. If you have that event level data that says this person interacted with this campaign and then converted, we can bring that in and offer an MTA piece of it, which all ties back to that kind of transfer learning capability that Kristen talked about earlier, where all of these inputs that we're putting into the model are brought into the model, and then through the transfer learning, we're determining what inputs have the most impact on the model.
+
+00:23:31:21 - 00:23:52:28
+不明
+Basically, it's making the modeling smarter. Another input is prior knowledge. So anything that you have that is a prior knowledge. So you may have done a lift test in a particular go and you may have some results from that. You may just have, you know, strong opinions from people within the organization. You can apply them as prior knowledge within here.
+
+00:23:52:42 - 00:24:12:56
+不明
+And again, those are a piece of, of the, data points that are put into the model that transfer learning will help to, apply into the model and, and be used as part of the output. Once you've defined all of those inputs, you can specify whether or not you want this to be a one time run of your model.
+
+00:24:13:01 - 00:24:32:13
+不明
+And then you can go and re, rerun it on any cadence. Or you can specify a schedule. Right. So do I want to schedule the training of the model and the scoring of the model. And if I do what cadence do I want that to occur on. Lastly we typically want our best practices is two years of historical data.
+
+00:24:32:13 - 00:24:54:07
+不明
+Some clients have more, some clients have less. So you can define what your historical data is. That's going to be used to train the model on. Once we've done that, we can run the model. The model takes a couple hours to run and then you get an output of that data. The output looks something like this. So this is what we call our model insights view.
+
+00:24:54:07 - 00:25:21:25
+不明
+And this allows us to start understanding the performance of the marketing that you included in that model. So if we start on the left hand rail we can start understanding the contribution of your marketing above base. So baseline is basically what would have occurred if we turned all marketing off. Right. So what conversions would we expect. And that's represented by that light blue bar within there above that is non spend marketing.
+
+00:25:21:25 - 00:25:45:32
+不明
+So what's the impact of my non spend marketing. And then lastly my spend marketing. So I can see the influence of those marketing. You know those different types of marketing above base. It also shows you where there might be spikes in your data. I'm not sure if this is what your data would look like, Kristen. But yes, I mean, if we weren't in the middle tax season, we might have been able to show some H&R block data.
+
+00:25:45:32 - 00:26:09:12
+不明
+But yes, this is all fake. Great. And so we also have a view into contribution by channel. So you can understand for a particular time range that you're looking at what's the incremental, lift that you're getting based on each marketing channel that's being included in the model here? I can see what base is influencing and then I can understand everything beyond that.
+
+00:26:09:12 - 00:26:31:08
+不明
+In that single view. You can also see my return on investment by marketing channel. So I can actually see which channels are driving the highest return on investment. For example, within here I can see that brand Bing is driving the highest return on investment, which then brings over the marginal response curve. To me, I think of this as the point of or the law of diminishing returns, right?
+
+00:26:31:15 - 00:26:54:06
+不明
+Where can I spend to until I start to lose money? Right. And so this marginal response curve kind of shows you that. And then that star within there represents the marginal break even point where for every dollar you're spending, you're starting to gain less than a dollar back from that. And so that kind of gives you that, that sweet spot from a kind of a marketing spend perspective.
+
+00:26:54:10 - 00:27:13:00
+不明
+I can see that for my overall paid media. So all of my spend. But I can also drill into whatever marketing channel I want. So, for example, if I were to look at the left rail again, brand Bing is killing it, right? But I might drill into Brand Bing over here, and it might show that I can only spend a certain amount before I'm going to start losing on it right?
+
+00:27:13:04 - 00:27:35:51
+不明
+So a really nice way of being able to start understanding where those where you're kind of sweet spot is from a spend perspective. We also have our multi-touch attribution view as well. And so this is giving us a view. If you've turned on the multi-touch attribution piece, a view into the incremental impact of the marketing that you're applying.
+
+00:27:35:56 - 00:27:55:28
+不明
+And so we have a number of different models that we support within the multi-touch attribution. We have a number of weighted models, but the model that most clients are interested in is our algorithmic incremental view. This is going to show you the incremental lift that you're getting in those, you know, based on those marketing channels that you're, you're spending in.
+
+00:27:55:33 - 00:28:16:27
+不明
+I can see within this view here how many total conversions I have and then how many incremental conversions I had as a result of my marketing. I can see that trended over time. Total conversions, incremental conversions trended over time. I can break that down by channel to start understanding again. What are those incremental lifts by channel within there?
+
+00:28:16:31 - 00:28:33:07
+不明
+And this is where I can start getting a lot more granular where I can drive right into the different campaigns within here as well. So I can see at a campaign level which ones are performing best. And that's really powerful when we think about the model, may be telling you spend more in email. Well, what specific email campaigns are performing?
+
+00:28:33:07 - 00:29:08:10
+不明
+I can see that very easily within this view. We also have a, a view into kind of like a starter player closer view. This is allowing us to understand where in a journey a marketing channel is performing best is at best from an acquisition perspective, or is it best from a closing perspective. And I can see that very easily within here at the channel level, I can also see my top converting patterns, and our client use this typically to understand what's that next best marketing touch to hit somebody with based on where they are in the journey.
+
+00:29:08:15 - 00:29:34:07
+不明
+Another powerful input or sorry output of the model is our factors view. So those internal and external factors that you may have included in the model, we can now start understanding the influence that they have on driving a base or driving conversions. And that's powerful. And being able to now start understanding, hey, you know as consumer price index goes up by, for example, I start to see an increase in my conversions.
+
+00:29:34:12 - 00:29:45:27
+不明
+Based on this particular model here. Right. But it allows you to now start understanding as these things happen, how can we adjust for them?
+
+00:29:45:32 - 00:30:07:24
+不明
+Now, if you provide these types of results to anyone in your organization, even in the data science organization, they're going to want to make sure that the the the model is valid. And so we have a diagnostics tab within here as well that allows you to start understanding what did the model predict what would happen. And then how did it compare to what actually happened.
+
+00:30:07:24 - 00:30:36:19
+不明
+So how close is that model to actually predicting reality. As part of that we see it trended, but we also provide a number of scores back R-squared, Mape, Rmse. These are things that are going to be important to your data scientists within your organization. Lastly, as you build your models, over time they can start to drift. So basically what's being predicted isn't quite matching up with what's actually happening at that point.
+
+00:30:36:19 - 00:30:57:16
+不明
+It's time to rescore. And so we just actually announced that summit this year that we have, a drift detection report within here. So if we start to see kind of a gap between actuals and predicted, we'll show you an alert that basically says, hey, it's time to retrain the model because you're starting to drift on the, the model outputs.
+
+00:30:57:21 - 00:31:17:52
+不明
+And that gives you a nice view into the error and not the error, but the message, as well as where that drift is being detected detected and how far that drift is, against what's expected. So based on all of this, I'd say, Christian, this is probably close to as easy as filing your own taxes in H&R block.
+
+00:31:17:56 - 00:31:24:52
+不明
+I mean, April 13th is coming up, everyone. So.
+
+00:31:24:57 - 00:31:48:32
+不明
+Let's talk about how do you actually make this transformation. Right. So we have our nice green block. It's working. It's efficient. It's just not where we need to be. This new kind of shiny option of beautiful visualizations of retraining the model. Like everything we just walk through. Like I think when you see a demo like this, you're, like, obvious.
+
+00:31:48:32 - 00:32:12:22
+不明
+Yes. But how do you actually make that change? Management. And for us, a big thing that we're having to do with the move to Am is tell everyone that all of the numbers they've been seeing for the past five years, right? We've really built this narrative around our marketing story. We've used LTA, we've been teaching them how to look at like CM 360 data.
+
+00:32:12:27 - 00:32:30:38
+不明
+We're going to restate all history. So we're basically telling them I'm changing your measurement framework. The numbers you're used to seeing are not going to be the numbers that you're seeing. We're going to restate history. And then we're going to start measuring that performance. Every state in history, which is kind of like a scary process to take people down.
+
+00:32:30:43 - 00:32:53:26
+不明
+But a necessary process. And for us it's communicating that early. Like, do you want better marketing measurement then we can't keep doing the same thing that we used to do. Like we'll still have views into LTA, but our goal is for people to look at the new Am results compared to prior year. Right. Because we're going to have prior year and then really understand and start judging performance.
+
+00:32:53:31 - 00:33:17:00
+不明
+And so getting that message out that, hey, you know, stuff and you're going to think these numbers are wrong because they're going to look a lot different than what you're used to seeing is going to be a big piece of this change management. And another piece is making sure that people understand like in the tool. Right. Like you can go in and start seeing these channels for yourself, start understanding what is modeled measurement.
+
+00:33:17:02 - 00:33:36:11
+不明
+Right. Like if you're used to seeing LTA, like how all of a sudden do we have all this additional stuff? So really teaching people like why modeling is really necessary nowadays for marketing. Like how you're going to get better measurement. They're doing a data science model. And so like those are some of the components for starting to talk through.
+
+00:33:36:16 - 00:33:58:55
+不明
+And I would also say at least block there's a wide variety of marketing knowledge. Right. Like some people understand this totally. Other people are like what is the media mix model. And so like trying to get that conversation across everyone that cares about how marketing is performing because marketing spends plenty of money, in a place where we feel good about this before next tax season is kind of our biggest journey this summer.
+
+00:33:58:57 - 00:34:07:39
+不明
+Like, how do we teach people these metrics? How do we teach people how to use them? How do we teach people how to see them, and how do we get them comfortable?
+
+00:34:07:44 - 00:34:29:49
+不明
+And another big thing is we want people seeing marketing performance. Like historically, marketing has kind of like sat on its own a little bit in the reporting space. Like we were not in kind of some of the same enterprise reports that other enterprise reporting was because of all the nuances in our measurement. But now we have customer journey analytics, where we can present a lot of this data.
+
+00:34:29:54 - 00:34:48:11
+不明
+And like what we want to do is add transparency to marketing. Like we want to start showing these numbers. And so for us that's another big piece of change. But it is showing like we're being transparent with our performance just like everybody else at the company. Like if you have ideas we understand. But like this is how we measure this is how you see it.
+
+00:34:48:16 - 00:35:02:57
+不明
+You too can understand and see marketing performance and we're being as transparent as possible. So that's been another big piece of change. Management for us is kind of the exposure of our marketing performance day in and day out.
+
+00:35:03:01 - 00:35:24:41
+不明
+Great. Thank you. Kristen. So as part of my last demo, I showed you how to build, models. The next thing we want to do is we've we've found a model that makes sense. We like it. We like the results of it. We like the diagnostics of it. Now we need to do, scenario plan. So basically, we have a certain amount of money to spend.
+
+00:35:24:55 - 00:35:42:26
+不明
+How should we allocate that across those different budgets? And what kind of return on investment can we expect. And so same type of interface for building plans within Adobe Mix Modeler. You can build as many plans as you want. You can build them on the fly. Or you can see I have a bunch of them on the left hand rail.
+
+00:35:42:37 - 00:36:06:20
+不明
+Creating a new plan is as easy as clicking on Create plan. From there we can define a name for that plan. So give it a name. Specify, which model we want to build the plan off of. So you found a model you like, you would pick that model. And then what's the budget? Your budget could be an overall budget for a particular time period.
+
+00:36:06:25 - 00:36:33:07
+不明
+Or you might have specific flights that you want to add within there. So you might want to say, hey, I have, you know, three different flights within my, marketing initiative and have different spend amounts for each one of those. So I can define what the time periods are for those flights, as well as what my spend amount looks like for each one of those, I'll get a view into what my spend looks like across those time periods, and when I click on next, it's going to actually go and start to build the scenario plan for me.
+
+00:36:33:12 - 00:37:01:45
+不明
+But it asks me a question first. Do you want to build a plan based purely on just the data that you've provided, or do you have some inputs, basically some constraints. You might have a commitment to a particular channel where you have to spend a certain amount of money, and the plan needs to know that. Right. And so if I select that option, it then allows me to break it down by flight, how much I want to, you know what my commitments are by channel.
+
+00:37:01:50 - 00:37:22:08
+不明
+Right. And so I can see within here I'm in a particular flight. I can specify within that flight what my commitments are for certain channels. So for example, in this of, this particular example, I have affiliates where I have to spend at least $300,000 and I have a max of 1.5 million. Now, I might set a lower max.
+
+00:37:22:08 - 00:37:46:06
+不明
+I can adjust those on the fly, but these are all become inputs into the plan. Once I've defined that, I can actually build the plan within, there and from there I'll get a plan result. The plan result will basically define how much I should be spending in each of those different marketing channels. As part of the output, you have the ability to compare plans against each other.
+
+00:37:46:06 - 00:38:18:29
+不明
+So for example, I have on the left hand rail, I have a plan where I'm spending $486 million and on the right hand rail, I have a plan that I'm spending $442 million from here. I can see a very quick comparison to start understanding the differences between those plans. So I can very easily see that I'm spending less with a plan on the right hand side than on the left hand side, and that green shows me what I'm spending, you know, close to $40 million more on that plan on the left.
+
+00:38:18:34 - 00:38:39:45
+不明
+I can see for each one of those plans what the breakdown of spend should look like for each of the different channels. And I can see what the forecasted return on investment looks like for each of those different plans. So although I'm spending more on the plan on the left, you can see I actually get a higher ROI from the plan on the right, and I can see that very easily within here.
+
+00:38:39:50 - 00:39:00:15
+不明
+If I scroll down, I can see what my forecasted revenue is for that particular plan. Now I can see the plan on the left is actually giving me a higher total revenue or forecasted revenue. So this is where there is a balancing act. What's the goal of the organization? Right. Are you trying to be as efficient with your spending as possible?
+
+00:39:00:16 - 00:39:16:28
+不明
+If so, you might want to go with a plan on the right. If you're trying to drive a specific revenue goal, you might be okay with having less less of a return on investment, but you're hitting that goal. You'd go with a plan on the on the left right. So these are the types of decisions you'd make off of that.
+
+00:39:16:33 - 00:39:35:13
+不明
+Now once you have these plans in flight, we also provide you with a plan performance view. So you can start understanding the performance of that plan in flight. You can check it at any time period that you want. So for example in this case I can see I'm actually I've spent $400 million from a budgeting perspective, but I'm actually under pacing.
+
+00:39:35:13 - 00:39:53:31
+不明
+I've spent less and the plan is actually telling me I should be spending. And as a result of that, my revenue is lower than the plan at forecasted. I can adjust that spend and try to get back up to what the planet had adjusted or had recommended to try to get to that, that goal that that the plan was shooting for.
+
+00:39:53:36 - 00:40:15:06
+不明
+So hopefully what you're seeing here is ease of being able to get data into Adobe Mix Modeler, the ability to build, models on the fly as you need to, and then being able to build these plans and then be able to measure in flight the performance of those different flight plans. Yeah. And just like at H&R block, right.
+
+00:40:15:10 - 00:40:44:12
+不明
+We'll occasionally have requests for incremental marketing asks. Right. So we want a little bit more money for marketing spend. And right now that's a very manual process of like, what would that incremental increase in spend drive and for our case returns. And that's a very long process for us right now and very manual. So being able to put in that increase into these plans and then flight them out through the tool saves a lot of time for us.
+
+00:40:44:16 - 00:41:05:37
+不明
+So now that we've done this, there's just a few lookouts I want like learn from me. And so these are just like a couple of things that I wanted to leave you with as you consider, like setting up your own Am instance and kicking this off, for one, is get your agency partners bought in, like, talk to them early, talk to them often.
+
+00:41:05:42 - 00:41:27:16
+不明
+They often help you run your marketing if you don't have an agency. Obviously exclude this point. But for us like being transparent with them, tell them where you want to go, how you want to measure and get their buy in to make the changes that the model says. Because what you don't want to do is be rolling out a whole new management framework to your enterprise and be fighting with your agency about what those numbers say at the same time.
+
+00:41:27:16 - 00:41:48:07
+不明
+So you want that by an early. The next one for us is get the executive support. When you're changing something this large in your organization, like make sure your executives understand what's happening and that they're supportive of those changes. For us, the big two where it and marketing, like I would say, it's really hard to run a PR by yourself.
+
+00:41:48:07 - 00:42:08:22
+不明
+So make sure you have it to support you and make sure your marketing executive is going to be able to talk to the changes and the benefits of these new tools. And finally, make sure you have the money for it. Like it's not a free platform. There are resources to stand it up, resources to make sure you're telling the right story and to be successful, like plan to have a budget.
+
+00:42:08:25 - 00:42:30:19
+不明
+Don't plan to do it for free. Or with your current headcount. There is a learning curve getting into the tool. You have to learn it. I mean, nails makes it look super easy and it is once you like are in it a few times. But getting that stood up with the right partner and having a budget to like really move quickly and show value, would be something I'd say you don't have to go back every year, right?
+
+00:42:30:19 - 00:42:34:46
+不明
+Have a big plan, get a budget budgeted.
+
+00:42:34:51 - 00:42:59:22
+不明
+And guys, March 19th, do you know how many days that means until your taxes are due? All right. Just making sure. So taxes are obviously better at H&R block than anywhere else you can file. But I would say also Am makes marketing, measurement and planning better than most of the other tools we've looked at and seen. Maybe I'll I'll say that for you guys too.
+
+00:42:59:27 - 00:43:27:13
+不明
+Yeah, that's the goal. Great. That concludes our session. Hopefully you guys saw value in this. And if you liked what you saw here, we have a we have four more sessions today on Adobe Mix Modeler. So these might be of interest to you. We're going to go really deep into how Adobe uses Adobe Mix Modeler and how we actually built the product based on Adobe's, marketing.
+
+00:43:27:18 - 00:43:50:04
+不明
+And that's the one at 230 to 330, marketing mix modeling at Adobe learn to predict the future like we did. So if you want to go deep, that's where you go. Thanks, everyone. We're here to answer questions. If anybody has any questions. Yeah. The.
+
+00:43:50:09 - 00:43:50:29
+不明
+Thank you.
+

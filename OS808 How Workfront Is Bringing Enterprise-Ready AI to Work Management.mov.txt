@@ -1,0 +1,412 @@
+00:00:00:10 - 00:00:22:54
+不明
+We're so glad you could be here. I'm Dan Robbins and my partner Jason Barron, and I are excited to speak to you today about our front page, specifically, a bunch of the AI innovation we have brought into development for the first half of this year. We've got a lot to cover on our agenda. Our main goal is for when you leave here, you know exactly what work front is doing to help enterprises scale.
+
+00:00:22:59 - 00:00:42:17
+不明
+And when we say that specifically, I want you to leave feeling like work is going to save you a bunch of time so you can do more with less. So again, quick introductions. I'm Ben Robbins. I'm a product management lead within the work front. I oversee work front workflow and the core activities that would have been part of legacy work front.
+
+00:00:42:22 - 00:01:07:49
+不明
+And hi everybody. I'm Jason Baron. I'm a group product manager responsible for all things review and approval and work front. Fantastic. So we'll start with a quick overview of work front. And it's artificial intelligence. What you can see here on this screen is we have a ton of innovation happening over the course of 2025. Some of this will cover as we walk through the rest of the deck.
+
+00:01:07:54 - 00:01:34:18
+不明
+But what I really want you to take away here is that all this innovation is what we are doing to put our investments behind helping our customers be able to do better. We talk about the enterprise. Enterprise for us really means a few things, but it especially means scaling. Scaling has two parts scale and has the ability to be able to address a wide type of functions and personas that exist within an enterprise.
+
+00:01:34:23 - 00:02:00:14
+不明
+Scaling also means for us, the ability to help these teams and groups move faster so they can do more, so they themselves can scale. For our goal for this presentation is for us. We cover these items for you to understand how we're helping you move faster and do more with your existing resources. How we're addressing the needs and the wants of various personas and functions within an organization.
+
+00:02:00:18 - 00:02:23:42
+不明
+Now, the first thing we'll talk about is just how our AI is structured inside of work. From how we are going to actually be able to execute and deliver that scale. Our system architecture is actually fairly simple. We start with a series of micro front ends that actually connect to our overall platform, or a reasoning or orchestration engine.
+
+00:02:23:46 - 00:02:50:43
+不明
+This orchestration engine connects directly to a variety of different work front based skills. We'll go over some of these specific skills in a moment, but really it's the skills that are meant to solve individual, very specific use cases that we can return very accurate and very fast responses to address our customer's needs, as opposed to using just a one size fits all approach to everything a customer would want in addition.
+
+00:02:50:57 - 00:03:21:33
+不明
+This means that we can actually continue to expand and add new skills to be able to deliver more and at this scale, what our customers want and allow them to address more of their individual needs. Tapping into a few of the things that we've built so far are skills, and that we have coming forth in the rest of this year is our ability to take natural language, to make suggestions for people who are looking and trying to find or create the right a particular form.
+
+00:03:21:38 - 00:03:42:50
+不明
+Individuals inside of work from work for forms with forms all the time, and it oftentimes takes them a long time to find the appropriate form. Or sometimes they don't find it and they request a new form to be created. And now you have duplicate forms for the same type of intake request. And this can lead to confusion. We don't want that to happen to anybody.
+
+00:03:42:55 - 00:04:04:49
+不明
+That doesn't help people move faster. It doesn't help people deliver the projects with more speed on budget. So what we've done is we've made sure that when people are starting with the intake, that it gets done correctly the first time. You can use the natural language to type in what it is that you want to achieve. In our AI will actually start to filter through and find and recommend the right forms for you.
+
+00:04:05:04 - 00:04:48:45
+不明
+Making sure that you can find the correct form very quickly without wasting your time, and certainly making sure you're not duplicating an intake form that you could already use. We are also moving on to how we help people with their request. Oftentimes, a request starts from a document that was already collaborated on, where individuals only already had the information they need associated with the work they want to get done, and they end up doing redundant work copying and pasting elements of that work into work from what we've done is actually take the ability to take one is unstructured documents, whether it's a PDF, a word file, or a PowerPoint file, and drag and drop them
+
+00:04:48:45 - 00:05:09:06
+不明
+and place them directly inside a work front, and then start to extract that information into a request form based on the content and the titles of the form. And that request. What this means is that individuals no longer have to spend their time either retyping or hunting through the original document and copying and pasting information they've already settled.
+
+00:05:09:11 - 00:05:36:38
+不明
+That's already truth within the organization. We can pre-populate that for them, and the human just stays in the loop, confirming and tweaking the information as needed. Now the request is just one part of that. Eventually, we will also make sure we address the same capability for briefs. Briefs start from similar documents and individuals are similarly spending their time doing redundant work between other third party tools and bringing that information inside a work front.
+
+00:05:36:45 - 00:05:56:47
+不明
+And we want to simplify that for everybody. Save a ton of time for projects and campaigns on the front end. And we know the more time we save on the front end, the more flexibility that gives our customers and their users to be able to deliver their projects and get them out the door on time. And as intended.
+
+00:05:56:52 - 00:06:18:59
+不明
+Now, one of our biggest innovations that we've started with over the course of this year is what we call work front priorities. Work front priorities is a new, simplified experience for individual contributors that save some time from the very beginning. We've taken a lot of the core areas that individuals working on tasks with previously navigate to and worked from.
+
+00:06:19:04 - 00:06:34:45
+不明
+They would see if they were assigned a task, then they would go look for a document that was associated with that task, go find an asset, go look at the comments. Go upstream with the breadcrumbs to look at the projects. That takes a lot of time. It's a lot of work overhead and we didn't want people wasting time.
+
+00:06:34:50 - 00:06:58:53
+不明
+So we created work front priorities, which is a simplified view where individuals can see all their tasks in a single list. They can move and adjust those tasks based on different priorities. And when they click on the tasks, they get a single modal that gives them all that context they previously had to navigate to get some all that context right away, so they can see it and understand the work that they need to do.
+
+00:06:58:57 - 00:07:16:43
+不明
+But when we were building this out, we wanted to make sure that I was core to what we were building rather than just being an add on. So there are a few good features that we put into this that we are hearing feedback from our customers that's helping them be more successful and save even more time than we imagined.
+
+00:07:16:45 - 00:07:38:31
+不明
+We first built that work front. Priorities. The first is smart filters. When you have a large list of work or you're trying to over oversee a ton of work within a system that list can be overwhelming. In today's world, individuals spend time even looking at preset filters inside a work front, trying to figure out which filter is the right filter.
+
+00:07:38:45 - 00:08:01:32
+不明
+They click on it. It doesn't show them what they intended for it to show, and then they peck through several other filters, sometimes still not finding what they need. We wanted to do away with that old model. So as part of this experience, we introduced smart filtering. What Smart Filters does is it allows a user to be able to do natural language typing what it is they want to see.
+
+00:08:01:44 - 00:08:23:43
+不明
+And then we show up for them. So for example, if a user feels like they're behind on tasks, they can say, show me work that's late. Or if they have, they know they're going on vacation next Wednesday. They can say, show me work due by next Tuesday. And that's exactly what we will show for the user, what it is that they're thinking, that they're looking to see based on the filters they would previously click on.
+
+00:08:23:47 - 00:08:44:21
+不明
+They can now just type that in as a request, and they can see that right away. This is helping individuals save a ton of time. Another way we help them save time is by allowing them to catch up very quickly. I mentioned we had the modal with all the context that brings information that people previously spent a ton of time navigating to.
+
+00:08:44:32 - 00:09:03:41
+不明
+It brings that information to the forefront. But what catch me that does is it uses our eyes awareness of what's present on the screen, what's part of the UI, and they can read it and tell you what's new. What has changed since the last time you view this task? So as a user, I can click the catch Me Up button.
+
+00:09:03:46 - 00:09:38:12
+不明
+The AI assistant will pop up and it will summarize to let me know what documents were added, what was the content in those documents, what sentiment or what information that's changed as part of the comment. If there are any new project details or any information like that that's been added since I last looked at this project, give me a very clear and crisp summary so I know where to spend my time, and even more so it gives me a suggested action items so I know where I should spend my time next to keep not just myself, on task and on time, but keep the rest of my organization who's relying on me on task, on
+
+00:09:38:12 - 00:10:08:28
+不明
+time as well. Now, we've talked about a bunch of different skills that we've built out that scale across that AI framework. I showed you earlier, but what we've been building is custom solutions as well. So customers can solve their needs are unique to them. What we've seen is while a lot of our customers have very similar overlapping use cases, they tend to have some individual use cases for their organization.
+
+00:10:08:28 - 00:10:25:40
+不明
+That's based on processes that were built a long time ago, or just the way that they're organized, or the way that their team talks, whatever is natural to their DNA. So they have something that's a little bit unique, and it's hard for an organization to be able to build out and scale these sorts solutions for each and every customer.
+
+00:10:25:40 - 00:10:50:59
+不明
+We have. But we do care about our customer's individual needs being met. So what we've allowed for is those skills that you've previously seen and the skills we continue to build out. We tie them in to a custom skill builder such that you can type in with natural language what it is you want to achieve, and then you will get a list of skills that we can use to apply to meet that use case.
+
+00:10:50:59 - 00:11:07:58
+不明
+And then you can click Generate Assistant. And when you do, we start piecing together on the back end of these individual skills as a daisy chain. To start meeting that use case, sometimes we'll have to have fusion in the mix to fill the gaps so that you can fully have an end to end workflow that meets all of your needs.
+
+00:11:08:02 - 00:11:32:44
+不明
+But our vision here is to start simplifying the way that our customers work and help them fill the gaps that software doesn't naturally do for them, because usually when the software doesn't handle a gap naturally, that's when a manual process comes into play. That's where risk can come into play, and that's where delays can come in. So we're really excited about our ability to deliver custom skills to help solve our customer's needs.
+
+00:11:32:49 - 00:12:03:18
+不明
+Now one of the big things that we're investing in is our work front project Health Advisor. Typically when a customer gets work front, they're doing so because they want to be able to manage and take a look at their work, organize that work, but really understand what's the risk, what's coming down the pipeline today, even with work front, in order to understand that, they have to build in a lot of questions and sort of reporting to look at specific areas that might be at risk, then make a subjective assessment if a project is at risk or not.
+
+00:12:03:23 - 00:12:38:47
+不明
+And these assessments aren't always consistent, especially not across teams or various individuals or various functional groups. So we wanted to solve that. So what we've built is a scoring system based on all the information we have around what makes customers productive or likely to hit their deadlines and their end goals for their campaigns. We built a solution that will give you a score that you can customize and let you know right out of the box which projects are at risk, which pains are suffering, and what you can do to improve those campaigns.
+
+00:12:38:52 - 00:13:05:34
+不明
+Now, one of the things we know is not every organization works the same, and not every functional group within the organization looks the same. So we've actually created this solution with the intent to scale for our enterprise customers by allowing them to build out multiple different types of these health advisors. And with each one, they can build it for how a different team functions or how our different group functions.
+
+00:13:05:34 - 00:13:25:57
+不明
+So we understand that marketing, what makes a marketing campaign at risk isn't the same as what makes an IT PMO project at risk, or a legal project at risk. So you can create as many of these as you need. As many of these different advisors, and then get down to business and look at the entire scope of risk just by piece for each of your different teams.
+
+00:13:25:57 - 00:13:48:55
+不明
+And to do that, to get started, you just click New Agent as you see in the right hand corner here, you give a name and an intent for what you want to start building the foundation. And then we start customizing it because we want to make sure that the score you see that's assessed to your risk isn't something generic, where you have to question if something really matters or not.
+
+00:13:48:59 - 00:14:17:16
+不明
+We want you, the customer, to be able to dictate what matters for them. So we start off with how do you initially kick off a project when the starting really matter for you? And then we also want to know when does your project officially end? These customized start and start let us know how do we monitor it? Start assessing your timelines so that we can use the AI to determine how those timelines are being met, or how they're not being met.
+
+00:14:17:20 - 00:14:37:09
+不明
+From there, we start asking you a little bit more about your operational model. How do you start to measure the work within your system? What methodologies do you use? Once we allow you to select your methodology, we then start letting our customers choose a bunch of different triggers based on fields inside of work front that they want to monitor.
+
+00:14:37:14 - 00:14:57:14
+不明
+Again, these are the fields that people previously built reports to get insight into to understand the risk. So now you can find native and custom field and build out the outcomes for those and how those associate with your risk. All part of this project risk advisor. And from there we also like to know how you handle the scope of your work.
+
+00:14:57:19 - 00:15:18:20
+不明
+If new input or changes of added tasks or long running tasks, if those are going to have an impact on your work. And once you build out this customization, then that's when the AI can go to work. So you click say and we give you four distinct ways to actually monitor and do the health. One option is you go to the project page itself.
+
+00:15:18:25 - 00:15:40:43
+不明
+On the project page you can see a score. You can see that summary. I mean you click on the score. We give you a quick overview of the things that are either going well, that particular project, or the things that are putting you at risk. It's really great to be able to see at a glance if there's anything that needs your attention, especially when you're trying to review the status of projects with the largest set of stakeholders.
+
+00:15:40:48 - 00:16:05:30
+不明
+Now, sometimes you want a little bit more. So if you click review, you can actually get a double clicked deep dive view of the risks that you saw. You can get a summarization that also allows you to start taking action on the overall project. And you can click within each one of the main categories that we've measured and assigned risk to find out the specific items in each one of those categories.
+
+00:16:05:35 - 00:16:25:45
+不明
+That's driving your risk. And then we'll provide you links to those areas so you can go there and start to change the items that are providing you risk, and then get your project back on track with a higher score right away. This removes a lot of the previous navigation or wandering or reports that people had to do. But sometimes you don't want to go project by project.
+
+00:16:25:50 - 00:16:49:24
+不明
+Sometimes you just want to ask a question. Well, that's why we've allowed it, our AI assistant, to be able to be connected to our project Health advisor. So that way you can type into the assistant which projects are at risk, or if a particular project that you're viewing is at risk. So on and so forth. And use that and bring that information into the AI assistant into a lot of the deep dive review I just mentioned in the previous slide.
+
+00:16:49:29 - 00:17:14:23
+不明
+But sometimes you also want to make sure that you have a series of projects, and you want to know how they're all doing, because you want to have an aggregate understanding of how the work is going on in the system. And so to meet that use case, we have brought in the ability for you to be able to take these individual reports, assign them to a dashboard, and pin them so that you can distribute, distribute them across teams and stakeholders who need and want to see this information.
+
+00:17:14:28 - 00:17:36:38
+不明
+As you can see, we provide good insights into what is driving the risk whether it's timeline delays, scope creep, resources, budget. We want to make sure that we take ownership of it all so that we can provide you all the information you need to stay on track. Now, if you're a go to summit, you can see Project Health Demos live at the booth.
+
+00:17:36:42 - 00:18:04:24
+不明
+Now, automation is one way we're really going to change the game for our customers. Again, I've mentioned time again how we really want to save time for individuals, and we're going to start bringing it all together for more automation. So you heard me speak about our project Health Advisor. Now it's great that Project Health Advisor indicates and advises for people where those areas of risk are, but we think would be a step better if it could automatically start to change some of those elements for our customers.
+
+00:18:04:36 - 00:18:43:46
+不明
+And then proactively notify you through the assistant so that you can confirm or decline the changes that were met and how we would do that, connects all the way back to those skills expands scalable set of skills we mentioned earlier because we can identify the risk with our project health advisor. And then once we identify something, let's say, for example, a project is at risk because no one's assigned to any of the tasks we can use, the skills we have for task assignment and task creation to be able to add individuals to there and also use our resource based skill that's going to recommend, which is the best resource for a particular task based on
+
+00:18:43:46 - 00:19:13:25
+不明
+their availability. And then that's going to give you the resource to assign it to. Then we'll use our task skill to actually assign that individual to the task. And then we will automatically try that score up and notify you about what that change has been. So we're really excited about stepping into the future very rapidly, not just giving you more insight and information about your risk and allowing you to mitigate that every step along the way, but also making sure that we can do it for you so you can spend more time thinking in a strategic or creative manner.
+
+00:19:13:30 - 00:19:36:49
+不明
+And so navigating across work from. So with that, I'll hand it over to my friend Jason. We'll talk to you about the work front. I reviewer. Awesome. Thanks, Ben. So some great, super exciting developments within work front. And I and this is one that I'm just super excited about is around the AI reviewer. This is something we talked a little bit about summit last year.
+
+00:19:36:54 - 00:20:03:46
+不明
+We we showed the first kind of iteration of that. We have gotten some feedback from, set of customers and an alpha around how we can improve that. And now we're ready to have this be for prime time. Coming here in the next couple of months, since I'm really excited to to highlight this and show it to you and really for you to see the value that we're going to be able to provide within work front to increase your content velocity.
+
+00:20:03:51 - 00:20:29:55
+不明
+So just kind of diving right in here today for the review and approval process. Typically it looks something like this where there is a request that sent the reviewers are notified of that request they sign into to review, they provide their feedback. And then someone needs to go through and review that feedback. And that's typically, you know, on average is about three, 3.5 days to have that process.
+
+00:20:30:00 - 00:20:52:54
+不明
+And so what we're trying to do is really cut that process down and optimize it. So it's down to a matter of seconds where you can add an AI reviewer, send that request off to that AI reviewer, and receive that feedback much more, much more rapidly. So we see this as a as a key value add for you to help drive the kinds of velocity.
+
+00:20:53:03 - 00:21:22:57
+不明
+So that way you can get content out faster. So a lot of companies like yourselves have have brand guidelines that are established. And sometimes they're in a brand book like this or digital, but essentially in the brand guideline there are going to be different, different, criteria that need to be followed in this case around imagery. So you can see here that this, this fictitious, brand here, that there needs to be natural lighting and natural beauty that are included.
+
+00:21:22:57 - 00:21:51:04
+不明
+And also it needs to show or highlight active exploration rather than kind of casual relaxation, that there should be diversity and, authenticity and lead to inspiration focusing on visuals that will really help inspire people to get out in the outdoors. So within Adobe Gen Studio, there is a section here at the bottom left for brands and this experience within Gen Studio.
+
+00:21:51:16 - 00:22:12:41
+不明
+This is the video home. This will be accessible to all customers that have work front. So when you click on brands in the bottom left hand side, you can see this brands area. So this would be populated with all the brands that I've created in the past. But in this case we're starting new. So on the top right would click Add Brand.
+
+00:22:12:46 - 00:22:32:27
+不明
+And I could either drag and drop a brand guideline, maybe a PDF or a doc file. And it would, it would automatically populate for me. Or I can also create it from scratch. So in this case we're going to create this from scratch. And I'm going to give it a name of weekend brand. So I'm gonna click Add Brand.
+
+00:22:32:32 - 00:22:51:44
+不明
+And now you can see here there's the overview. So this is ready for me to populate on when to use the brand and the brand voice guidelines and image guidelines, the channel guides and guidelines and so forth. What we're going to be focused on today, and initially with this first release with the AI reviewers, is all around the image guidelines that you can see in the top tile here.
+
+00:22:51:48 - 00:23:15:54
+不明
+So you can see the image guidelines. And within here you could have image categories. So description can say what kind of content type it is the composition, the environment, the color, lighting, mood and so forth. All of all of those guidelines for that image category will be evaluated. It will be referenced in the evaluation of the actual AI review.
+
+00:23:15:54 - 00:23:48:34
+不明
+So I'm gonna go ahead and populate those. So you can see here those brand imagery standards that you saw in that previous brand book. And now I can see here that this is ready to go, ready to be published. So I'm going to go ahead and publish this. And now here I am within work front. And if I go to the waffle menu on the top right and work front and I go to setup area, now admins will be able to see this section under the review and approval area for AI reviewers.
+
+00:23:48:46 - 00:24:13:45
+不明
+And this you can see there are five, AI reviewers that have already been created. I'm going to create a brand new one that's going to reference that other brand guideline that we just created within Gen Studio. So I'm going to click Add New. And now this is where I give the brand a name. I select the brand and then I give it the image category that that we established previously.
+
+00:24:13:50 - 00:24:38:59
+不明
+So you can name it whatever, whatever you'd like. And for each AI reviewer that you're creating, you can have it reference a different brand or even a different image category within the brand as well. So in this case, we're going to say it's the weekend imagery checker, the the brand that we had created previously, the weekend 2025. And then we're selecting the category of brand imagery standards.
+
+00:24:39:03 - 00:24:43:41
+不明
+So we're going to go ahead and create this.
+
+00:24:43:46 - 00:25:04:16
+不明
+Okay. Awesome. You can see it there at the top. Now we're ready to actually apply this AI reviewer to our content. So we're going to go over into a project in the Into the Documents list area. And now you can see here on the right hand side in the document summary panel I have the ability to add approvers just like I would a normal human approver.
+
+00:25:04:28 - 00:25:27:04
+不明
+I can actually add the AI reviewer as well. So I'm going to click add here, and I'm going to click in the Add Approvers reviewers area. And I'm going to add a human approver. And then I'm also going to add that we can imagery AI reviewer that we had just created. Once I hit submit, the request, this is where the magic happens.
+
+00:25:27:04 - 00:25:50:14
+不明
+So the AI will go out. It will open that asset, review that asset based on the brand image guidelines that you had created and referenced. And then it's going to come back and provide a score. Now you can see in the bottom right hand side, the weekend imagery checker has completed their work. They've reviewed it. You can see the status there just like a human reviewer or approver.
+
+00:25:50:19 - 00:26:20:55
+不明
+And you also see there that it's provided a score of 75%. What that means is that that asset that you had uploaded is aligned 75% of the way for your your brand guidelines and some different companies have a different threshold that they feel is is acceptable for a pass on the brand guidelines. So based on how you've determined that within your own organization, maybe 75% is fine, it's good to move forward.
+
+00:26:21:00 - 00:26:43:57
+不明
+But if you'd like to have some additional detail on this, you can go ahead and click on the score and it will bring up this detailed view where you can see the time of review of this asset. And then you can see the guidelines that need some attention. So you can see right here that the background effectively showcases nature but should focus more on active exploration.
+
+00:26:43:57 - 00:27:21:27
+不明
+So again this is more around someone kind of sitting here relaxing looking at the view, which is beautiful, but really to inspire someone to go out and explore and have adventure. This doesn't totally align with that, but this may be acceptable based on what the campaign is. And and again, the the threshold that's acceptable within the organization. Now, one thing I wanted to mention as well, since we are treating these AI reviewers just like you, would I, a human user within work front, you're able to add these individuals, these AI reviewers to approval templates as well.
+
+00:27:21:32 - 00:27:41:37
+不明
+So within the approval templates area, you can create a new template. And then from here on the right hand side you can just choose the AI reviewer. In this case of course you could add additional human approvers if you wanted to, but in this case, I'm just going to add the AI reviewer. And then I'm going to go ahead and click save.
+
+00:27:41:42 - 00:28:03:19
+不明
+And what that will do is I'll save that template. So that way I can leverage that template later for an approval and and have it automatically populated. And again, you could do this with all the different AI reviewers you create based on all the different brands. And you could have, these AI reviewers be able to provide all that feedback for you to help save that time.
+
+00:28:03:24 - 00:28:29:40
+不明
+Now, when we look at a release schedule, so we have our summit demo that's happening right now, and then we have a preview release for for May 29th, our production release June 12th. For those customers that have the monthly release schedule, opted in. And then for the remainder of the customers who it applies for will be July 17th for a quarter release quarter.
+
+00:28:29:41 - 00:28:53:19
+不明
+The release, which will be 2020 507, and this will be for all of our work front ultimate customers. So those that have the ultimate package with work front, you will see this fully rolled out to you July 17th. So we're really excited about the progress there. And as we look at, you know what what is the the future strategy of this.
+
+00:28:53:19 - 00:29:17:04
+不明
+So initially our first phase is getting the brand image guidelines. Initially it's going to support JPEGs, PNGs, web design and non animated GIFs. And then our next phase is going to be able to extend that out to the brand copy guidelines that are more text heavy. So you'll see supporting PDFs. And in text files, other text type files.
+
+00:29:17:09 - 00:29:39:43
+不明
+So it can come through those files and make sure that the brand is aligned with the copy that exists within those files. And then the the the next phase after that is to extend that out to compliance. A big request from a lot of customers has been to extend this beyond just brand. But also there's there's legal there's legal verbiage that needs to be used or shouldn't be used.
+
+00:29:39:43 - 00:30:11:47
+不明
+And, and to be able to evaluate the content based on those guidelines to help save significant time for those existing reviews. And then, of course, we want to extend this out to additional file types, which will grow. And we see this AI reviewer becoming smarter and smarter over time. We're really excited about the progress and where we're going with the roadmap, and we would love your feedback as you start using this AI reviewer in your workflow, how it's saving you time and effort, and what we can do to help streamline and improve this asset for you.
+
+00:30:11:56 - 00:30:38:20
+不明
+So that way you can increase again, increase your content velocity as an organization and improve your overall content supply chain. Back to you then. Thanks, Jason. And that was fantastic. I really enjoy the AI reviewer demo every time I get to see it. In fact, I for this audience, I actually specifically choose Jason to 2% with me, just so I get to spend more time and hear a little bit more about the advances of our AI reviewer each time.
+
+00:30:38:20 - 00:31:08:49
+不明
+So I hope you got it as much from it as I did. So I'm going to start closing the out with our next topic. On what work front is doing with Microsoft Copilot? Nothing. This more enterprise than how an organization spends time to operate inside of Microsoft products, specifically word, PowerPoint, Excel, Microsoft Teams. Each of these different Microsoft surfaces consume a bunch of time and a bunch of creative energy from your coworkers.
+
+00:31:08:54 - 00:31:40:36
+不明
+Now, when we talk about how we want to help those same enterprises scale those same customers that we share with Microsoft, we can't imagine a simpler way than making sure work front to meet the customer where they are, where they are already spending the bulk of their time. So that's why Microsoft and Adobe have engaged in a very strategic partnership together to bring the best of Microsoft Copilot to tie that into the best of AI assistance.
+
+00:31:40:41 - 00:32:11:34
+不明
+And I work that Adobe is presenting. So we're going to go over a few use cases. And really how we are bringing this together for specific contributors across the organization. But if you take away one thing, I think it's important for you to understand that as you and your organization start to adopt Microsoft Copilot and you start to expand what you're doing inside of AI, sort of work front, you're going to get a whole that's greater than the sum of its parts.
+
+00:32:11:39 - 00:32:42:56
+不明
+We are going to be able to do more because with work front, we have an Adobe. We have the context of all of the records and all the data we hold within Adobe. Microsoft has all the contacts and records to their Microsoft Graph, and when you combine these two, you start to get a flywheel of success based on how these contexts connect the context from both of those can play off one another to do and solve problems that you probably did not even know you are looking at have solved.
+
+00:32:43:01 - 00:33:15:18
+不明
+So I mentioned Adobe. Not just work front. This strategic partnership involves multiple products bringing in work from the ATP, I suspect from the CGA assistant, of course, from all of our work, from skills that you saw me go over and us review just a little while ago. So as you work with copilot and the Adobe marketing agent, not only will you be able to work and engage with work front, but you'll be able to work with these other products as well.
+
+00:33:15:23 - 00:33:43:00
+不明
+But from a work front perspective, what we intend to solve is make sure you can streamline the work that you have and effortlessly communicate and make changes within the system of record from any of these Microsoft surfaces. We happen to be in. So we spoke about Project Health just a little bit ago. Now, if you're anything like me, I know that I'm constantly moving from one meeting to a next and in the shuffle.
+
+00:33:43:04 - 00:34:05:37
+不明
+I'm oftentimes responsible for giving updates on status, what our risk is, what risk mitigation we can take, and so on and so forth. This is a lot of information, and it requires me often to bounce back and forth across tools. So I personally can't wait for the day when this project health assessment is complete. And when we partner with Microsoft, because it's going to solve much of that.
+
+00:34:05:42 - 00:34:30:13
+不明
+So imagine you're an individual in a meeting much like this or preparing for a meeting. You know you need to give a status update there already in Microsoft Teams because you're moving from one meeting to the next. At that point, you can just engage the Microsoft Copilot, you can add Adobe Marketing Agent, and you can ask which of the projects that I'm responsible for, which the campaigns I'm responsible for or at risk.
+
+00:34:30:18 - 00:34:55:05
+不明
+And then what you're going to get is that AI assistant response that we reviewed as one of the four ways we surface information and enable decision making for our customers. As part of Project Health, you're going to get that response fed back from the work front into copilot and then passed out inside of adaptive cards and as text chat content within Microsoft Teams.
+
+00:34:55:14 - 00:35:17:53
+不明
+So you can see and understand the full scope of the work that you need to do. And since this work and information is coming in with an adaptive card, you can still click in, get those details around the risks, and all of a sudden, without even landing inside of work front, you're very knowledgeable. You're very prepared to speak intelligently about the risks that are outstanding for each of your campaigns.
+
+00:35:18:06 - 00:35:46:34
+不明
+What needs to be done to justice for risks there? If there are any individuals who are responsible or who are bottlenecks in that particular project that you need to reach out to the solves a lot of headache, a lot of anxiety for a ton of people by making them more prepared and of course, making the meetings that they're attending next that much more efficient, which of course, helps everybody, even with those adaptive cards that come in, do you see some indication at risk?
+
+00:35:46:39 - 00:36:10:53
+不明
+Since it's an adaptive card, you can click in and start making some adjustments. So your story can also be around how you've already start to mitigate the risks that you only just a few moments ago found that were present. So you move on from the risk. As I mentioned, you can use our intelligent workflow skill set to be able to get some of that work back on track.
+
+00:36:10:57 - 00:36:42:58
+不明
+Work within Microsoft Copilot, start getting that information, telling it what to change when it doesn't just stop there because the information and the workflows go both ways. So if you were to say you've gone to another meeting and within a meeting you found information about projects that need creation, what are the action items that are assigned? And then of course, the individuals that need to be assigned for each of those action items in order for your team to be successful or to move forward.
+
+00:36:43:03 - 00:37:01:15
+不明
+That's a typical day in my life. I'm sure this in yours, but what's not typical is the power of what we're going to be able to do with the combination of these two AI solutions. Now, again, without even leaving Microsoft Teams, you'll be able to open up copilot. It's going to have the transcript and all the context for that meeting.
+
+00:37:01:20 - 00:37:40:20
+不明
+And you can say create a project that create the project that aligns with the information we have from that meeting. But the action items that we discussed, please make those tasks and now assign them to the individuals we said would be the leaders for those individual tasks. Microsoft Copilot again turns through the transcript of the meeting, takes the information extracts since those as prompts into the agent that we the Microsoft a at the forefront AI capabilities that we mentioned earlier spins that information in and we take it through our orchestration engine feed that to our skill set.
+
+00:37:40:24 - 00:38:01:28
+不明
+And then what we do is we hit those different skills, right? We hit that task creation and assignment skill I mentioned. So we create the name of the project, we create the tasks, we assign those tasks. And now you've been able to bulk do you be able to create a project, bulk create tasks and bulk assign work to different individuals, find you all without even navigating into workflow.
+
+00:38:01:41 - 00:38:23:05
+不明
+Previously, you'd had to leave where you were going to work front. Create the project. Go ahead and do each one of these tasks and assignments individually. And now that's gone. So it's a much faster, much cleaner, much more efficient way to start getting your work done. And similarly to the last example, you'll get the feedback to you in an adaptive card inside of Microsoft Teams.
+
+00:38:23:10 - 00:38:48:34
+不明
+If you need to make some adjustments, you can. Now, I mentioned there are other ways that we bring this information together. Our intelligent workflows also allow us to be able to take information. That's if you're inside of a Microsoft team on Microsoft Product Surface, to be able to take information outside of work front and put it into teams and work on to be able to do that in a lot of different ways.
+
+00:38:48:39 - 00:39:13:25
+不明
+One of our key ways is, let's imagine you were inside of word or PowerPoint. A lot of our customers build out their initial creative briefs there and they collaborate on them. They get them, they turn visual, and they want to use that work later to help them. We use campaigns that were successful, but they really don't have access to it because they take the information from word, PowerPoint.
+
+00:39:13:25 - 00:39:38:29
+不明
+They then manually enter it into work from someplace, and it's good. There is a record, but sometimes it's hard to find all the right information from a record when you want to reuse it. Well, now, the next time, once you've created a campaign you've established as a record inside a work front or even a plan and inside of work front planning, you can go into the copilot inside of PowerPoint, open.
+
+00:39:38:34 - 00:40:01:12
+不明
+You can say, hey, I have a campaign that's going to be very similar to a scope, to whatever the name of your campaign is. And, or you can say that it has different attributes from various campaigns. You can say it has the same channels, then the scope of campaign, but it has the same business objective goals from campaign X or what.
+
+00:40:01:17 - 00:40:30:01
+不明
+And then copilot will send that information, this request as prompts into our AI assistant inside of work front, which would then use those different skills I mentioned earlier to find the right project, to extract the information from those projects, and then bring it into the new brief that you're trying to create and start to draft through. The challenge of AI and copilot, start to draft that initial campaign brief, or create a brief for you based on the information you had.
+
+00:40:30:07 - 00:40:49:03
+不明
+This means that individuals don't have to start from scratch. It means that if you have an effective plan or an effective campaign or project that's inside of the work front, you can start to. We use it to create new campaigns more quickly, and there's nothing that's going to help people scale faster than being able to finally reuse work.
+
+00:40:49:03 - 00:41:24:16
+不明
+That was previously successful. That's one of the big gaps in technology today. We create a lot of content, we create a lot of assets, but the reuse is limited and this is going to help us start to solve for that reuse capability. And of course, once you complete building out this campaign brief and you've socialized it with your team is collaborated to comment to Microsoft Teams, you can either through the copilot type and say that you want to take and create a new project with the attributes from this campaign brief, and start creating that right away all again from the surface you're in.
+
+00:41:24:21 - 00:42:01:29
+不明
+Or of course, you could do one of the other workflows that I mentioned earlier where once you have this file as an artifact, be able to drag and drop it inside of work front and start creating that request or a campaign brief. So this starts to become a flywheel of sorts, where one improvement builds upon the other, and it allows you to start to really hit speed at scale for how you improve and how you leverage your resources to be able to continue to do more with the teams and individuals you have and focus more on the creative work, the knowledge work, rather than the tedious task of data and information management.
+
+00:42:01:34 - 00:42:30:44
+不明
+So I hope as we've gone through our story today, you've been able to see a lot of the information that we have, a lot of how these innovations that we are building are contributing to different personas, whether you're project managers or individual contributors who are looking for less navigation and simplified experiences, or whether you're in Mark ups and you're looking at project information about risk across the business, we want to make sure that we're helping everyone within our enterprise organizations move faster.
+
+00:42:30:58 - 00:42:57:32
+不明
+Jason spoke to you about our AI reviewer capability. Very clear. That's going to lose something from the magnitude of days into seconds. So 2025 is an exciting year for all of us here at Adobe Work Front. We are very excited to be able to take what we were building and hand it off to you all and save you and your organization time, money and make sure that you're able to get what it is that you're building out with more success.
+
+00:42:57:36 - 00:43:09:40
+不明
+So thank you so very much for spending time with myself and Jason. We hope you have a great day and it was a real pleasure speaking to you. Take care. Thank you for.
+

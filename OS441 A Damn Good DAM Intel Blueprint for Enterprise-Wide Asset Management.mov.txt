@@ -1,0 +1,132 @@
+00:00:01:26 - 00:00:29:38
+不明
+Whether you're in-person or virtual, I hope you are having a fantastic time learning a ton and meeting great people. Thank you for joining my session. A damn good damn. Intel's blueprint for enterprise wide asset management. My name is Jeff Ivey, and I'm the director of digital capabilities and operations in Intel's Global Marketing Group.
+
+00:00:29:43 - 00:01:00:49
+不明
+Intel has been a long customer of Adobe's marketing cloud platforms for about 15 years, starting with the content management platform and asset management. Since then, we have grown our engagement with Adobe to include analytics, personalization, and Adobe's real time customer data platform. Most recently, we have brought on board work front for all marketing workflows and Marketo for marketing automation.
+
+00:01:00:53 - 00:01:31:46
+不明
+We see the strong benefits of an integrated stack across marketing, and a critical part of that is centralized asset management. Intel Digital Library is our enterprise platform for digital asset management. It is available to all employees and approved agency partners. Here, our content creators can collaborate on assets in the central libraries, providing a workspace to design and share.
+
+00:01:31:51 - 00:02:01:14
+不明
+Once ready, finished assets are housed in the digital library. Here, marketers and digital practitioners can search and download Intel Marketing assets such as brand elements, logos, badges, templates, photography and finished marketing assets with licensing in terms of use information included where appropriate, to ensure legal compliance when an asset is needed to be used in conjunction with web page creation.
+
+00:02:01:18 - 00:02:38:39
+不明
+We connect it into our intercom content management platform, where it becomes available to a web author. That connected process allows assets and all surrounding metadata to stay in sync. In creating this ecosystem, we strive for a publish once approach that will reach all intended channels for our internal and external audiences. In our dam, we have about 42,000 assets currently, and we produce about 11,000 assets per year.
+
+00:02:38:44 - 00:02:57:45
+不明
+It's about a 5050 split between what's produced by our own employees and what our agencies produce for us. And about 70% of those are owned assets, with about 30% being things that we license.
+
+00:02:57:50 - 00:03:39:19
+不明
+In this session, I'd like to highlight four elements that are critically important in order to have a successful digital asset management platform and practice elements that enable effective management within the dam. Connect the dam to other parts of the technology stack and support a scalable self-service by practitioners. First having the right documentation and resources around your digital asset management platform to train users and ensure standards and policies, as well as communicating processes, helps bring consistency and quality into the dam.
+
+00:03:39:24 - 00:04:17:41
+不明
+Second, defining and implementing a strong taxonomy that is aligned to your business needs and outcomes and is used consistently, not just within the dam but across your technology stack to connect data needed for activation, optimization and analytics. Third, developing the right processes across the full lifecycle of asset management to support efficient operations from creation to end of life, and finally adopting new innovative practices and technology to digital asset management.
+
+00:04:17:45 - 00:04:30:00
+不明
+The tools we have are consistently evolving and aligning innovation to the needs of your business will drive incremental value.
+
+00:04:30:04 - 00:05:05:54
+不明
+In support of our practitioners, both Intel employees and our agencies. We have created several key resources that work together with the Intel Digital Library to help with training, access, alignment to policies, brand guidelines, and user experience standards and assistance using assets in the authoring of content. First, our Digital Resource Center is the one stop shop for information on all of our digital practices, tools and processes.
+
+00:05:05:59 - 00:05:54:43
+不明
+It also connects our practitioners to all digital intake. Getting them started on all activities needed across digital campaigns and marketing activities. Supporting IDL. It gives instructions on what training is needed. How to request access to IDL, and provides documentation on all policies and processes throughout the asset lifecycle. Our Intel Brand Hub is the central resource for all things branded Intel, providing our agencies and employees with standards and guidelines, direction on application of the brand, and connects directly into the Brand asset section in IDL to provide all related assets.
+
+00:05:54:48 - 00:06:25:44
+不明
+Our intel.com pattern library works in conjunction with IDL to give web authors all the resources necessary to create web content aligned to our standards, and practical information on the application of templates and components, along with author dialog. Consistency across a web experience is always challenging, but sharing standards in a usable way as part of the author's workflow really helps.
+
+00:06:25:49 - 00:06:58:55
+不明
+As any steward of digital asset management knows. Getting the right metadata assigned to assets is critical to support everything from findability to activation and personalization, but can be one of the most challenging parts of managing the dam, especially when you're managing thousands of assets. While some of our taxonomies are very specific to content and digital experiences, our taxonomy practice for sales and marketing is centrally managed across systems and processes.
+
+00:06:58:59 - 00:07:41:55
+不明
+We have an intake and governance process, as well as a lifecycle approach to taxonomy management in order to keep them current to the needs of the business. While structured and as simple as possible, having consistent taxonomies across platforms enables connected data which fuels automation, activation and insights. We model and manage these tags. Taxonomy taxonomies in a tool called synaptic, and then use a service layer to automate the delivery across our tech stack, keeping terminology and dropdowns in sync across systems.
+
+00:07:42:00 - 00:08:30:22
+不明
+Within the dam, we've defined mandatory versus optional metadata to meet needs where content is used. I know it's a little hard to see, but the visual shared is a screenshot of our metadata screen where we maintain asset information such as title, description, language, and region. Also, if this asset needs to connect into our CMS administrative information such as primary and secondary owners, source agency and publish and expiration dates, usage and licensing such as users guidelines and licensing type, as well as the terms of use and most important rel relevant tags using our enterprise taxonomy.
+
+00:08:30:27 - 00:09:22:47
+不明
+Things like content type, audience, campaign, industry subject products, technologies and customer lifecycle or customer decision stage. This metadata is then connected and sent from Dam to CMS, so that tagging of the asset ties into where it's being used. Then, when taxonomies and metadata is shared with our search engine and personalization systems, we get the benefit in activation. Having a set of well architected, documented, and communicated processes are important throughout the lifecycle of an asset and help scale your dam across the enterprise.
+
+00:09:22:52 - 00:10:01:45
+不明
+We support our platform across sales and marketing, our business units and with our agency partners. So we have hundreds of diverse authors creating and publishing and thousands of people consuming the assets as they engage, as they engage their customers. Simply put, good processes keep the engine running and us as stewards, happy behind the wheel. While what I'm showing you is not an exhaustive list of our processes, these are a good representative sample of processes at each stage at the creation stage.
+
+00:10:01:50 - 00:10:39:38
+不明
+Access rights are important to make sure that authors have access to what they need to do their jobs, and that permissions are managed to maintain a level of control across the dam. We give guidance on the type of access our users need, and then we have an entitlement system that puts access through the right approval loop. Very large files can be problematic within the within a dam, but we have implemented Adobe's Frame.io for large video files and created separate processes for editing, sharing, and publishing them.
+
+00:10:39:43 - 00:10:55:15
+不明
+We also set quality standards and expect our authors to use tools like Grammarly to assess specific quality measures and improve their assets before they're finalized for use.
+
+00:10:55:19 - 00:11:30:00
+不明
+At the publish stage. We make sure that we have a process to capture appropriate licensing information, along with guidelines and terms of use, to make sure we stay legal and continue to use this information throughout the lifecycle for pre-launch content. We have created what we call our content embargo process to make sure that confidential content stays within an approved group of people until a product or program launches to the public.
+
+00:11:30:05 - 00:12:11:18
+不明
+And as previously mentioned, keeping metadata consistent across platforms requires a process to manage connections between Dam and CMS. At the manage stage, we have different trigger points to ensure that information in the dam stays current. Accurate asset acid owner information is paramount to managing the lifecycle. We have automated processes we implement to update metadata when terms have changed, to maintain findability, and to make sure that assets are being reused and not duplicated.
+
+00:12:11:23 - 00:12:47:09
+不明
+And we manage a set of communications out to our author community and host office hours to keep people trained and updated on changes. Finally, at the archive stage, we have set standards for asset and content performance. If they are not met. We work with the owner to improve or remove. We have built an automated set of standard author notifications that inform authors on steps they need to take, particularly around the LP process.
+
+00:12:47:14 - 00:13:19:08
+不明
+And speaking of the EOL process. We have a pretty detail oriented process that we use to make sure that assets are removed from the dam. When content on our website is EOL. To minimize bloat in the dam, it does take purposeful effort to maintain and update processes, but we see it as a necessary part of the overall management of our digital library.
+
+00:13:19:12 - 00:13:50:09
+不明
+To me, constant innovation is the fun part of my job. Understanding where we can operate smarter and more efficiently, shifting people's work from repeatable activities to higher value add and taking advantage of new technologies. These are three areas where we're currently innovating with our dam at Intel. First, we've recently implemented Adobe's Dynamic Media into our platform and workflows.
+
+00:13:50:13 - 00:14:22:18
+不明
+Prior to this implementation, we asked our agencies to produce the many different renditions we would need to activate an asset across many channels, sometimes producing up to 17 different renditions for us. Thinking back to this, it was an insane practice that drove up cost of production and ongoing management through the full lifecycle. Now that we're using dynamic media, our renditions are created dynamically when they're needed and stay connected to the asset.
+
+00:14:22:23 - 00:14:53:19
+不明
+As we went through the implementation project. We were able to eliminate over 1 million renditions from our CMS and are now benefiting from lower agency cost and management overhead. In the 2023 Adobe Summit, we got very excited about the concept of a connected content supply chain using Adobe Work Front. We are currently in the process of moving all of our workflow to a Doop Adobe work front.
+
+00:14:53:24 - 00:15:27:06
+不明
+Along this journey, we took the opportunity to create a holistic operating model for our global and regional marketing organization that connects all of our planning and activation processes together. And a central piece of this is the content supply chain, focusing on four key areas content, strategy and planning. All done in work front content creation workflow tied to Adobe Creative Cloud.
+
+00:15:27:10 - 00:16:14:14
+不明
+Publishing and distribution integrated with ABM, and content analysis using customer journey analytics. While we're still in the implementation phase, we see great value in this work. It will help reduce content redundancy and make us more effective in the creative development process. It will help us progressively build metadata around our assets and content. Improving accuracy and consistency and ultimately connecting strategy to production to distribution and activation means that we will have better understanding of the effectiveness and ROI of the assets we make.
+
+00:16:14:19 - 00:16:42:55
+不明
+Nobody can debate the power of AI in content, and there are many different use cases available, including Adobe's own generative AI solutions. One of our favorite use cases we've activated is at the point of publishing, where we provide our authors with an AI assistant that generates titles, descriptions, and file names, and recommends content tags appropriate to the asset.
+
+00:16:43:00 - 00:17:29:06
+不明
+Our authors can still edit to suit their needs, but as our model gets more intelligent, the process becomes much quicker and of higher quality. Since we started our pilot about six months ago, our authors using the this assistant have grown and the feedback has been very positive. As we continue to evolve our model, we believe that we can use it to help marketers identify useful assets and content before they build their content plan and risk producing duplicate assets, and use it to help draft web copy to jumpstart the creation process.
+
+00:17:29:11 - 00:18:01:12
+不明
+Thank you again for joining this session. In closing, I'd like to leave you with these three key points. As you continue to grow your digital asset management practice as you architect your dam into your enterprise ecosystem. Do it with the mentality of centralization. Getting to one version of the truth for assets, and then integrating your systems and workflows to enable activation of your content across channels and audiences.
+
+00:18:01:16 - 00:18:33:52
+不明
+Doing so makes a version and lifecycle management much easier, delivers a more consistent experience for your customers and gives you a strong picture of how final assets are content performs for you. Surround your asset management platform and practice with well-defined and effective processes, a strong taxonomy, and great enabling resources to maximize its overall value and help the people in your organization to work effectively.
+
+00:18:33:56 - 00:18:58:54
+不明
+Process taxonomy and enabling resources. Become your secret sauce to a great dam. And finally, never stop innovating with your platform. Looking for ways to simplify and automate processes? Unlock intelligence, and better assist your user community for better business outcomes and value. Good luck in your digital asset management journey.
+

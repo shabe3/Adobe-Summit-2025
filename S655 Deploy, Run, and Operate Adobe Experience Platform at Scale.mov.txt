@@ -1,0 +1,560 @@
+00:00:00:54 - 00:00:26:39
+不明
+All right. Good afternoon everyone. Welcome to Adobe Summit. Welcome to our session deploy, run and operate on the We Experience platform. I just want to start with thank you. Thank you for being at the summit. Thank you for doing what you do with our products, building the amazing customer experiences for your customers and organizations. So with that, before I dive in and talk about, you know, what we what we are presenting today.
+
+00:00:26:43 - 00:00:50:55
+不明
+I want to start with a question. My question is what does it take to run a marathon? I don't know there are any runners or bikers in the room or there you go. We've got a few runners and, people who bike in the room. You know, if you have to plan for a marathon, you start asking yourself some basic questions like, what's my milestone for marathon?
+
+00:00:51:00 - 00:01:14:37
+不明
+I'm not going to start running all 2630 miles day one. I have to do a build up on that. What is my running technique? I'm going to run. I'm going to pace myself for consistency. What would be my diet? What is it that I'm going to eat, which will sort of fuel me to keep running and give me the impetus that I need to sort of run this marathon.
+
+00:01:14:42 - 00:01:35:58
+不明
+What is my daily practice or recurring practice? How do I keep practicing so that I can build the power, the stamina to run that? The other important part is still the technology. Sort of the gadgets, the tools, the running shoes that you need. Those are the standard questions that you start asking. If you were to run a marathon.
+
+00:01:36:03 - 00:02:07:50
+不明
+What is it that I'm trying to convey with that question? Three things right. You build your goals of what do you want to accomplish? You think of an execution part, and then you have to track, measure and see how you're progressing towards your goals. Well, for this afternoon, our conversation is very similar about how do you deploy the platforms for an enterprise organization or a for a small medium business organization to drive the business value, and what does it take to do that transformation?
+
+00:02:07:55 - 00:02:30:49
+不明
+So to talk about that, the way we've broken out today's conversation is I'm going to talk about the business value. What's the business purpose of doing that? What is the right architecture which supports that? And how does the Adobe product fit in in that narrative of driving the business value? Then we'll talk about the implementation. My peer, Kevin Foster is here.
+
+00:02:30:54 - 00:02:53:24
+不明
+Who's going to talk about the devil is always in the detail. So what are those implementation best practices and the right guardrails that you should keep in mind to have the right architecture implemented? Then we'll talk about our own case study of Adobe. How do we do this for our own business? Joel Huff, who's in the room, will talk about that, case study video.
+
+00:02:53:29 - 00:03:14:04
+不明
+And then we'll wrap it up with any open questions that you have and give you some summaries and feedback. Obviously always happy to do a follow up. If you're not able to cover any questions right now. To begin with, I'm soonish. I've been in the industry for about 19 years. I'll always feel every time I tell 19 years it gives you a clue about my age.
+
+00:03:14:04 - 00:03:48:07
+不明
+But that's okay. You know, I've done a lot of work and pre-sales consulting, engineering implementation. I've been working on Experience Cloud since 2016. One of the founding architects on Adobe Experience platform when we started deploying and executing it for our customers is, 2019. So what I want to cover about, in my conversation with you all today is what's the business problem we are solving when we say we have to deploy these platforms or services and do it at an enterprise level.
+
+00:03:48:12 - 00:04:16:57
+不明
+Where does Adobe fit in in solving that problem? And then I'll walk you through some of the case studies and the use cases that we have successfully launched for quite a few enterprise customers to sort of fast track us. I want to first define the business problem. What does the scale truly mean for enterprises and what's the definition through the lens of a consumer and organization to be able to scale with large enterprise platforms?
+
+00:04:16:58 - 00:04:45:42
+不明
+It's about building the personalized experiences for the customers across multiple channels to provide connected experiences which you can measure, which drive impact. And when you were able to do that with being better, faster and smarter, which means you have the right people, process and technology, that is what it brings at home. Thank you. How does Adobe product fit into that?
+
+00:04:45:46 - 00:05:05:33
+不明
+The way we look at the Experience Cloud and how the product fits in, not to go into all the details, but we look at this bill as a scale, as a Lego block of three problems. How do you build content at scale, and how are you able to channelize that content across the different engagement points for your consumers?
+
+00:05:05:38 - 00:05:33:09
+不明
+How do you bring these large enterprise data, whether it's an enterprise use case or a marketing use case, and put it in a way which is consumable, actionable, and gives you the right insight at speed and scale. How do you engage with your consumers when it comes to the connected journeys? How do you build a cross-channel activation? How do you reach your customers at the stage they are with you from an engagement perspective with the brand?
+
+00:05:33:14 - 00:05:53:47
+不明
+That's how we look at at Adobe from our products. I won't go into the details of each of the products. I'll do it through the lens of case study, and you'll hear a lot from Kevin and Joel as they talk about it, as well. Now the business problem makes sense, but what we have, what we and Adobe have always believed in, is building the right consumer experiences.
+
+00:05:53:47 - 00:06:19:40
+不明
+Right. How are they connected? So what you see here is building a connected ecosystem. We're giving the relevant information a personalized experience to your consumer at the stage they are with you and with the brand. For example, maybe on the acquisition stage, I'm on a registration or member onboarding stage, or I might be at a conversion stage.
+
+00:06:19:49 - 00:06:46:22
+不明
+So it just depends on what stage they are in and you should meet them and build a connected ecosystem. So regardless of the channel they're engaging with, it's a connected experience for them. Well that's the customer part. But what about the organization? From an organization perspective, there are three Lego blocks which sort of drive that, which is people having the right set of skills, the people to drive that, the right processes.
+
+00:06:46:22 - 00:07:09:23
+不明
+What are the right processes organizationally, whether it's the marketing, the marketing ops, the products, the organize, the engineering organizations, you know, the run and operate teams, whether it's the architecture boards, the program boards, how do you all intertwine together and the technology? What is the technology that you have which will continue to modernize the capabilities to meet the industry demands?
+
+00:07:09:36 - 00:07:16:28
+不明
+And how do you have the best in class products which will give you and build these experiences for you?
+
+00:07:16:33 - 00:07:38:57
+不明
+Now, if the business problem makes sense, the customer experience and organization makes sense. I want to walk you through a template not limited to this on how I have experienced it, but a lot of our enterprise brands and how do they solve this problem. It all starts with a business objective. What is the business problem that you're trying to solve to be able to scale?
+
+00:07:38:58 - 00:08:02:13
+不明
+Are tools and technologies to meet the business needs and demands. So to quote a few examples. And again this is this can vary by each brand. It's about building a and delivering a differentiated experience across channels. How do you know children acquire new customers? That is one of the other objectives, the goals that we have seen across the organizations.
+
+00:08:02:18 - 00:08:22:05
+不明
+How do you remember engagement, member engagement, maybe in terms of building the affinity, the loyalty with the brand and whatnot? A lot of times we also get this question to say business objectives are not only business goal driven, but there is a technology component to it, which is how do I consolidate my products that I have in my organization?
+
+00:08:22:10 - 00:08:51:06
+不明
+How do I bring it better and make them more efficient from a technology landscape? To be able to meet these business objectives, there has to be an execution strategy, right? My example of running a marathon. What are the milestones? What's your path to execution? And we look at it a few ways. One is to build a strong foundation so that it has a lot of components of reusability and giving you services which can be shared across different teams, different channels.
+
+00:08:51:10 - 00:09:12:48
+不明
+So laying the right foundation, but bringing the right data and bringing the right content, which would sort of become as your base layer, which is what you can use to improvise on different channels. The next one is streamlining the content, the journeys. How are you going to publish the right content on the right channel? How are you going to build the cross channel activation?
+
+00:09:12:48 - 00:09:40:21
+不明
+That is going to be called the streamlining innovation, which we very strongly believe in, is to keep getting better in our products by building the right sets of capabilities and tools, and keep modernizing the features and functions that, you know, meet the demand of the the challenges of the current state of our industry and then enable it like it has to be a self-serving tool regardless of the person that was going to use it.
+
+00:09:40:26 - 00:10:12:45
+不明
+And just to quickly talk about the products like Adobe Experience platform is what lays the foundation with data. Streamlining the content and the journeys is where Adobe Journey optimize customer journey analytics and real time CDP play a strong role. When we talk about innovation, you've heard so much about AI throughout the last two and a half days. AI assistant, one of our top initiatives to solve, enable and help the marketing personas or engineering personas to get you the right information was a big initiative, which we continue to amplify.
+
+00:10:12:50 - 00:10:38:20
+不明
+Building the use case playbooks to drive the acceleration for the brand so that you can deploy these products much faster, and then content accelerator. Really, really exciting feature. We're in Adobe Journey Optimizer. As a quantum marketer, you can use the power of Firefly's services through a generative prompt to generate these images and the content variations enabling our products are always API first.
+
+00:10:38:31 - 00:11:02:10
+不明
+We strongly believe in making it better for marketers. We never call it dumb. We keep iterating and that's how we approach the approach. A product strategy. Now, if all this makes sense, it is important to measure the success. And the best way to look at the success is to define the KPIs, whether it's quantitative, which is where the revenue comes, qualitative, which is where the organizational efficacy comes.
+
+00:11:02:15 - 00:11:31:07
+不明
+The quantitative is more about how is the engagement, what is the conversion. You can have many layer of KPIs based on the personas and organizational efficacy is more about how many campaigns are you running? Are they going fast? Are they going efficient? Are you taking less the time to run those campaigns? Now, what I want to talk about is a case study where we spent some time with one of our health care provider companies, who was under a similar transformation.
+
+00:11:31:12 - 00:11:55:30
+不明
+What were their business goals? And I'll tease a little bit about use cases, because use cases are what brings to life. You know, how your consumers are going to engage with your brands. So at a high level, the business objectives with them to drive engagement, to drive retention, decommission the legacy system, how to build a modern platform. You know, how to measure the success, how to build a test and learn strategy.
+
+00:11:55:35 - 00:12:22:34
+不明
+And some of the use cases were around member onboarding, conversion, engagement. I'm sure they sound familiar to all of you in this room, or maybe overlapping with lot more additional details. The way this engagement was approached across the enterprise, you know, with various CI partners and whatnot to to drive success was the consolidation of multiple campaigns, which is truly laying the foundation.
+
+00:12:22:39 - 00:12:47:08
+不明
+When you run these all legacy systems, you build a lot of technical debt. And when you are modernizing the technology, you don't want to carry that over, but build a framework to sort of modernize the technology, reduce the technical debt and build a strong foundation. We launched various strategies in terms of defining the right use case framework so that you can prioritize what is the right consumer journey.
+
+00:12:47:13 - 00:13:04:19
+不明
+What do I mean by that? Let me take a tactical example for you all. So the legacy state, a lot of times when we work with brands, they have a way to do batch and blast communication, create an audience and the email create an audience. And the email have the same templates or modify them. It's not a connected experience.
+
+00:13:04:19 - 00:13:27:09
+不明
+It's more coordinated, needs lot of effort to drive that. We changed that approach to build a consumer journey. To give you an example for member onboarding, when you onboard a member, there are organizations who might be creating audiences and keep sending those emails and notifications. So personalization when they become a member, it's a follow up for something else and whatnot.
+
+00:13:27:09 - 00:13:48:29
+不明
+But they're all they're all fractured. The way to build this is to think about a consumer journey, to say, I'm going to send the communication, number one, the engagement of my communication number one is going to drive the next action that I'm going to take with that consumer. That is what truly building a journey means. And that is where the consolidation comes.
+
+00:13:48:34 - 00:14:10:43
+不明
+The next important part is channels and measurement. I've strongly believed, being in the industry for the longest time, that a lot of times we went through certain initiatives without a success or a way to measure the success in mind. And the best way to put that is to put it in your campaign or business strategy to say, how am I going to test and learn?
+
+00:14:10:48 - 00:14:37:25
+不明
+Which means how do I show the incremental lift to what I'm doing? How is it better and smarter than what we were doing previously? So that is where the test alone strategy comes into play. So that when you're launching these journeys and campaigns, you have a way to measure them and then about run and operate. I think it's truly, truly important to understand when these systems go in production, when these are production rate systems just thinking out, right.
+
+00:14:37:25 - 00:15:01:37
+不明
+Do you have marketing strategy, marketing ops product team? So unpack these marketing strategies to define the capabilities. The product teams work with the engineering teams to build these capabilities, and the ship it over back to marketing ops to start executing. How are you going to channelize those process as what happens if for one of those use cases, some of the systems come down, how are you going to respond back to AD?
+
+00:15:01:42 - 00:15:30:00
+不明
+It's all software. It's all human beings. Things will break. But what is your strategy to overcome and recover those capabilities? That's where, you know, building the right processes, having the right boards, having the right guardrails is truly important. As we approach this. Some of the wins was we consolidated 1000 campaigns from a legacy system to less than 100 ego journeys, which brought 80% operational efficiency for them in the organization.
+
+00:15:30:05 - 00:15:35:57
+不明
+And it improves the customer engagement by three times.
+
+00:15:36:01 - 00:15:56:51
+不明
+Now, that's truly what it means when you say, I have to scale, but do it in a way which is pragmatic business use case driven map to the right architecture, right people, process and technology with success KPIs defined and measuring them in an iterative manner. And when things don't look the way it is, you can make changes to the strategy.
+
+00:15:56:56 - 00:16:20:53
+不明
+Now I want to go a little deep and walk you through where Adobe product fits in, and I'll take a simple retail customer experience and how these products intertwine together. So here it is. Meet Sarah. She's a loyal registered member for one of the brands she likes to browse about. You know, some of the products, like a a running shoe big on the channels like email and app.
+
+00:16:20:58 - 00:16:51:06
+不明
+Great. That's the problem. Now that's the consumer persona. And what we are trying to do is to give them the best experience so that the drive, engagement and conversion, the Adobe Experience platform is the one which powers the collection of bringing this data through web, through app, through offline stores of what the individual is doing. Create the profile which will give you the information about attributes, the events, the segment membership they belong to, and do it at speed and scale.
+
+00:16:51:10 - 00:17:16:55
+不明
+The next part to that is about real time CDP, which is how do you take these signals and activate into different channels. That's why a CDP comes in to create those audiences and activate across different channels. If you have to build a cross-channel journey, which is orchestration driven and business driven, is where Adobe Journey Optimizer fits in to listen to the signals like, hey, a consumer out of the product into the car did not purchase it.
+
+00:17:17:07 - 00:17:44:49
+不明
+Let's send them a communication to drive with the best offer. And what brings it home is having a tool like a customer journey analytics, where you can build these reportings and insights. So that's the technology part. That's how the Adobe products fit. People, process and technology are the enablers to this use case. Having the right set of people in terms of the engineering, the marketing arms, the reporting analytics, having the right processes and having the right technology.
+
+00:17:44:52 - 00:18:09:32
+不明
+I won't go into the details of it, but building those right integrations is truly what you need here. Now, I'll quickly talk about about the reference architecture if those use cases make sense. You know, the way we have stood up this product is for logical categorizations data onboarding, data democratization, profiles and audiences, activation and insights. Data onboarding is about how do you stream the data.
+
+00:18:09:32 - 00:18:28:12
+不明
+How do you batch data? We have the code connectors. When you bring the data into platform, the way we democratizes in the simple big data architecture world, it's a cold storage and a hot storage. Hot storage is where you create the audiences fast, faster speed, faster response time. The the gold storage is where you have the more query services.
+
+00:18:28:12 - 00:18:49:09
+不明
+The analytical use cases. The third one is the the audiences and activation, which is how do you create these audiences? How do you get those insights? How does tool help you understand better about your consumers? That's the third layer. And the fourth one is where we have these application services like Journey Optimizer, real time CDP customer Journey Analytics.
+
+00:18:49:13 - 00:19:12:36
+不明
+And when I was giving you an example of building the foundation, what you see here in one and two is really what is laying the foundation with the right data to power these use cases on omnichannel, cross-channel reporting and insights. That's the block number four that we have across the products. Now to talk about the best implementation practices and how do our customers bring this to life.
+
+00:19:12:36 - 00:19:32:22
+不明
+What is it that you should be watching out for? I'm going to invite on my stage my beer, Kevin Foster. He and I partner in the field all the time, and I can tell you, if there's one person who you want to review your data model, he's the one. So with that, I'll pass it on to Kevin.
+
+00:19:32:27 - 00:19:42:27
+不明
+I see if I turn this thing on. Okay. Great.
+
+00:19:42:32 - 00:20:12:07
+不明
+So we're gonna talk about best practices for implementation and three areas that if you want to focus and get something right, these are the top three in my experience, 80% of the problems that someone might encounter are going to be in these buckets. You won't get it perfect. There are other aspects of the product unit to use, but these are the top three.
+
+00:20:12:12 - 00:20:34:44
+不明
+Okay, I'll confess a little bit more than 30 years. A little bit wee bit, past six going on seven has been with AP. I actually came to Adobe to work on AP. I don't touch code. I don't even know where they keep the product code. I live exclusive, really out in the world. Then fun for me coming here because I keep bumping into people.
+
+00:20:34:44 - 00:20:56:55
+不明
+Go, Kevin, I've been in meeting with you. We've been on a phone together. We've been in a teams meeting. I have so many web web meeting tools. And, my email list is fairly long, so if any of you know me. Not always good with faces, but I get there. Do come up and say hi.
+
+00:20:56:56 - 00:21:03:00
+不明
+After this is all over, I like to check in with you to see how things are going.
+
+00:21:03:05 - 00:21:28:37
+不明
+Okay, Dan, modeling number one. This. Everything starts with the Daniel, let's talk about schemas. If you use AP a lot, bear with me. Might be new to some of you. The starting point of bringing data to AP is a schema. I've got a days database background. You create a table, you get the definition of the data and a place to put the data in one go.
+
+00:21:28:42 - 00:21:52:25
+不明
+We don't do that. The definition of your data is part of a schema. It is the schema where we put the data. We call it a data set. Call a table if you like, is separate from that. Starts with a schema. Now you have some choices to make. First and foremost is what we call a class. What is the type of data this is?
+
+00:21:52:30 - 00:22:20:21
+不明
+Is it current knowledge of a person? My first name Gavin. That's my profile, my email address that I've given. That's part of my profile. It's a class called profile Xdm individual profile. What about my behaviors? What if I go to the website and I'm clicking, what if I'm browsing? What if I put something in my shopping cart?
+
+00:22:20:25 - 00:22:44:28
+不明
+That's a very different kind of data. It's time series data. It's an event. It's it occurred, it happened, and it's immutable. You can't go back and change your mind. You can't change past so you can change someone's birthday. Oh, we had it wrong. Someone can change the last name. You can update that. You pick the right class for the right type of data.
+
+00:22:44:33 - 00:23:13:36
+不明
+Third type is reference data. And this is special because this by definition is not people specific. It's a table of zip codes and demographics of them. It's their product catalog and things like that. So you have three building blocks when you decide you want to bring data into app. Exactly three step outside of that, an app doesn't understand your data.
+
+00:23:13:40 - 00:23:40:04
+不明
+Stick to that pattern, and you don't have to write any code because we wrote all the code that you're ever going to need, and it can read your data when it recognizes the format. So what about that first name field? You could define custom. You could go in the schema and just start the definitions in. We don't want you to because we actually sat down and figured out what is a good looking name.
+
+00:23:40:04 - 00:23:58:10
+不明
+First name. Oh my slides got away from me. Combo. What is a good definition of a person's address? And how do we model a home address via a work address? What is a valid format for an email, and how do we make sure we're not loading garbage into the system? Or a hashed email for the same thing?
+
+00:23:58:15 - 00:24:26:58
+不明
+We have building blocks that you can learn and build your schemas from, called a field group, because it's literally a group of fields that have a relationship to each other. They may be somewhere industry specific, browse them. Now in that same health care customer, Sony mesh, Sony's mentioned, when I visited with them, they said, some of our people that we have profiles on are incarcerated.
+
+00:24:27:03 - 00:24:51:07
+不明
+Do you have a field group or whether or not someone's in prison got me? No, we don't I don't think we'll get that either. But we do let you create your own. So best practice. Look at what we offer you as building blocks. Select the right thing and then carefully after the IRB you create the net new. Everybody has a little custom.
+
+00:24:51:12 - 00:25:23:21
+不明
+When I first started doing this I didn't use any of these field trips. I'm like, man, let's go create everything from scratch. Not a best practice. I had to do significant refactoring as I learned the value of someone's invested the time and effort to make these things for me, that I can just leverage. Mistakes in your schema design or the most expensive mistakes you can make, because once you've used them and they locked down, you can't edit them.
+
+00:25:23:25 - 00:25:42:04
+不明
+You can add to them. They're extensible. You can grow schemas. That's practice. We do it all the time. But if you change your mind and say, oh, I don't want that, I want it this way instead, if it gets rough and at the extreme, you have to create a brand new schema. You will have to drop all the data sets where you ingested data.
+
+00:25:42:09 - 00:26:10:25
+不明
+You will have to read create all of your data ingestion. These are expensive mistakes. Don't live in fear. It's going to happen to you once you don't make it a habit. And best practices mean the least amount of rework and the least amount of refactoring. Schemas are extensible. Don't design for 100 years from now. Don't even design for next year.
+
+00:26:10:30 - 00:26:34:55
+不明
+Design for what you know. If you don't have data to load, don't create a schema for it. Sorry. My. Something's possessed. Work as you go, right? Because a schema is invalid until you put data in it. To end review the format you don't know yet. So to create a schema that you might use six months from now, it's time you go to use it.
+
+00:26:35:00 - 00:27:01:50
+不明
+You don't even know what you built. May not be the same person. Go as you go 3 to 4 months window. Don't design beyond that. I don't design for something where you don't have data. You will be happier. One of the things I do besides explaining best practice is people call me when things are broken. I get a lot of that.
+
+00:27:01:55 - 00:27:20:08
+不明
+I was trying to figure out, how many times I've been asked to do that. Probably somewhere between 150 to 200 customers I've met with to talk about how to make changes and how to walk back some of these things and how to move forward and how to repair, once you're in production, it gets harder.
+
+00:27:20:13 - 00:27:44:08
+不明
+You all know this refactoring with a living, breathing system is like changing the spark plugs on the car without turning it off. Can be done. Not your favorite way to spend your time so careful is good. Don't be afraid. Mistakes minimize them. You'll still make them. But that's okay. It's not the end of the world. You just got to roll up your sleeves and fix them.
+
+00:27:44:13 - 00:28:08:49
+不明
+Identities. Somehow I just ended up spending 75% of my time working on identities, because it's something that people don't always understand. And there's. And the most, I'll test sometimes I'll go and sign up on a customer website, get my email, and then I'll go and create a second account and get my same email address. And it lets me.
+
+00:28:08:54 - 00:28:33:23
+不明
+And then I ask the customer, what are you using for identity? They'll say, email, but you let two different people me both times, give the same email address that doesn't uniquely identify a single person that is not an identity for you because you don't enforce uniqueness. Now, one of those websites, I go test it and I get the error.
+
+00:28:33:23 - 00:28:55:39
+不明
+My favorite error? No, that's already in use. Ha! That's a good identity. Phone number two. My grocery store. I'm still my phone number. That was my landline that I got rid of so long ago, but it's still my phone number. And every time I go to the grocery store, I still punch in that phone number that I'll never forget because I want that Safeway discount.
+
+00:28:55:44 - 00:29:23:31
+不明
+Okay, not all identities are the same. We have identities that are people, identities. And identity is the concept and the value emails the concept, we call it namespace. The value in this game is we have a couple, Jane and John. They're both email namespace, but the identity is always the combination of the two the namespace, the value.
+
+00:29:23:36 - 00:29:43:42
+不明
+Out of the box. The thing about field groups, we've already built a bunch. Please do not reinvent the identities we've given you. I've seen it. People go off grid. Their new it, their only emails. No validation. It's like, oh man, come on, garbage in, garbage out. It's still true. Use the ones that are out of the box.
+
+00:29:43:51 - 00:30:10:16
+不明
+Make sure it's unique for you, and don't get lured in on email. We love to use it as examples because everybody understands it. You'll see all of the documentation. Make sure it's unique for you, and it's never shared. And it never can be shared by two different humans. And that's really what this is all about. How do you uniquely identify a person so you know it is going to be Kevin and it will never be.
+
+00:30:10:21 - 00:30:37:41
+不明
+It's a niche or tool, that's all. It's that simple. No identity is an identity unless it does not point to a single person. SKUs, zip codes, hotel IDs, right? Conference IDs, whatever. Those are also identities. They are not people identities. They do not go into a person's identity list identity graph. They are used for lookups. And that's all they are.
+
+00:30:37:46 - 00:30:58:55
+不明
+If you get the class right from the previous page and you choose the right class for non people data, you can use a non person identity. Now notice if you and I buy the same thing we've bought the same skew but it will not merge our profiles right. But if we have the same email address we're saying oh it's the same person.
+
+00:30:59:00 - 00:31:19:09
+不明
+And now we've just taken two people and made them one person. So be careful with your identities. They're hard to back out an easier. We actually have a feature now data lifecycle record delete where you can finally go in and say I did not load the right identities. This has got a bad format. Please put field validation in your schemas.
+
+00:31:19:13 - 00:31:42:00
+不明
+In Maxlength I get a lot of those. I get a lot of those meetings people. They need pretty value. Date valuation. We have projects you can put patterns all lowercase, all uppercase. I get in a lot of meetings where people are backing out data that they failed to put validation. You can go right in the schema. You can put min max best practice.
+
+00:31:42:07 - 00:32:10:45
+不明
+Don't forget it. Or you will be having a project to go scrub AP a bad data that snuck in and it always does. Somehow I don't know how it will find a way in like cockroaches. Best best advice of all kinds. Remember I said 30 years, a little bit more? Your diagrams were invented before I started working in computing, and they still work.
+
+00:32:10:49 - 00:32:29:08
+不明
+And they're actually more important for AP than they are, I think for relational. And I worked in relational a very long time. It's a forest for trees problem. When you're sitting on one page working on a schema, it's really hard to understand how it might relate to the rest of your data. It's critical you understand how it relates.
+
+00:32:29:13 - 00:32:47:01
+不明
+We call this job the data architect. If you are the data architect, where is your your diagram? If you want a meeting with me so I can kind of help you out of a problem, I'm going to ask to see your your diagram and it better not be a one time thing like oh, we created it, but then we never updated it again.
+
+00:32:47:06 - 00:33:10:55
+不明
+This is your Bible. This is your social contract with the data engineer who's going to bring data into your platform, as well as the marketing team that is going to be able to use this data to create their audience definitions. This is at the center of those three jobs. Now it's a little bit of work. You got to find a tool.
+
+00:33:11:00 - 00:33:38:28
+不明
+I got a coworker. It's got a very cool tool. Policy right now. Well, he'll draw a diagram from whatever sandbox you pointed at. I am geeking out so hard on this thing, I just said, hey, let's do this one. Let's do this one in. These diagrams are popping up. What is interesting is, with permission, we we've done this for a few clients, and in the diagram alone, we saw mistakes in their data modeling without the.
+
+00:33:38:33 - 00:33:59:42
+不明
+Oh, they liked it. We didn't have to look at the schemas. And I had already looked at the schemas manually, had done a manual inspection of their entire sandbox. I spent six hours reviewing things like data, models. Sebastien pulls up his tool, he pulls up the chart and he looks. It goes. That looks. Rob like dude or where are you?
+
+00:33:59:43 - 00:34:22:33
+不明
+You know, a month ago. I can't wait to see this in the product in some form. Very excited about this idea. Remember the three classes? Individual traits, first name, last name, birthdate, loyalty points, balance. Just for no other reason. Just because we did. Once upon a time, somebody gave these colors. And we've been using these colors mostly across every project.
+
+00:34:22:33 - 00:34:54:31
+不明
+I've been in the green. These are person traits. These are things you can edit and update yellow we use for events. Once you load them, that's it. Immutable can edit them and then look up data. It's useful. It's context. It helps you with like questions of did someone buy a particular brand of cola versus all the different SKUs you'd have to list in the audience definition, you'd rather just say cola brand A so I can't emphasize this enough.
+
+00:34:54:36 - 00:35:18:57
+不明
+This thing is gold and it's really important. And especially you think of over the time, think of the people who worked on your project over time. You know, they've come, they join, they've been on the team, they moved on. This is your continuity. This is your context. This is what's going to let someone else six months, a year, year and a half down the road, think, what's the next thing we going to put an app?
+
+00:35:19:11 - 00:35:41:42
+不明
+But not break what we've already got gold. Data ingestion. We're going to speed up two choices. Lots of other choices. Two main choices. Get a batch. It got a stream. It. I mean if I'm going to stream it, am I going to do it straight into the hub? Am I going to do it the edge? Rule of thumb people traits don't change that much.
+
+00:35:41:47 - 00:36:04:00
+不明
+Go get your nightly extract ETL from your CRM system and load them in is batch events. Don't buffer those. Don't try to gather those up and then batch them into the system. Just let them rip. You got a website in web SDK, mobile SDK that stuff streams right in best practice. The only time we do a hybrid mix is if we want to do point in time, which is it?
+
+00:36:04:04 - 00:36:20:31
+不明
+And we have some history we want to load in from the As batch. Be careful with the size. Do your batches, don't sit there and load nine months of data and and think that's going to go well. If you do it in one go John, get up if you have to. But again rule of thumb are there exceptions?
+
+00:36:20:31 - 00:36:52:42
+不明
+Sure. But be prepared to discuss them. Be prepared to defend them. Profile is expecting updates for change profiles. It is not expecting to load 235 million profiles every day, 95% of it, which did not change from the day before. You can, this takes about 2 or 3 hours to ingest into profile service. Do you know what it's doing while it's what else it's doing?
+
+00:36:52:42 - 00:37:19:34
+不明
+Why that happens? Nothing. Absolutely nothing. It is focused and it's going to load this data and it will load nothing else until this is done. It's really best practice to give us deltas. If you're struggling with extracting only deltas, talk to me. We got some. We got some solutions that we can offer for Delta only. If you can't make that work in your ETL.
+
+00:37:19:39 - 00:37:45:56
+不明
+Audiences. We're going to keep giving you choices around audiences. This conference. You've heard more choices around audiences. We all start with the one on the right. Yeah, I'm going to just go open the segment builder. I'm going to drop some traits in, I'm going to drop some events in, and I'm going to define my audience. That way you can compose audiences very can see right.
+
+00:37:46:01 - 00:38:04:23
+不明
+This is part of AB. This is part of how you can define an audience. And it's based on the data that you've loaded in profile service. What if you don't have all that data in AP and shouldn't have an AP? What if it's most of that data is in your warehouse and it's just too big to move? All right.
+
+00:38:04:28 - 00:38:26:46
+不明
+Go make some audience decisions in your snowflake or other data warehouse, and just give us the audience and we'll run with it will activate your audience. You don't have to bring all the data. That's not a practical. Just schedule some imports of some audiences and we'll we'll take it from there. What if you can't? You don't have the data anywhere.
+
+00:38:26:51 - 00:38:50:49
+不明
+You just don't have the data anywhere to make those kind of decisions. There's publishers that can help you out. And that was discussed at this conference as well. You can partner with suppliers of audience data and leverage that in combination with your data. You can expand, the accuracy or improve the accuracy of your audiences using someone else's data.
+
+00:38:50:54 - 00:39:16:12
+不明
+Go learn your audiences that your homework. Look at that list. It's all documented. You won't learn it overnight. They won't even learn it over six months. But knock them out one by one. You've got a development sandbox. Go experiment. Learn what they do. They have features. They have benefits. I've got tools at home. I've got chisels and screwdrivers and wrenches and power tools.
+
+00:39:16:12 - 00:39:43:32
+不明
+Love power tools. I try not to use my chisel as a screwdriver. Or worse, use my screwdriver as a chisel. You have different tools. They all come with different constraints. Data ingestion has constraints on volume. These audiences have constraints on the quantity and the number of records. So your responsibility in learning these tools is also how to use them responsibly.
+
+00:39:43:37 - 00:40:10:48
+不明
+Because when you don't things break. And then you end up in meetings with me and I'll try to get you out of the ditch. Just probably less painful, just not to go in the ditch in the first place. All right. So kind of covered a lot of ground here. We are all about best practice. We are investing in more on demand training.
+
+00:40:11:00 - 00:40:35:15
+不明
+We are investing like your diagraming tools. We are investing in inspection. More monitoring. Watch this space. How it gets to product. We're still going to figure out. But the key is we we see some opportunity. We like the idea of a safety net as you work. So it'll be a combination of teaching, training, advising, AI assistant.
+
+00:40:35:20 - 00:40:56:29
+不明
+You can go on any page in the UI and ask any question about anything. I've talked about. It's really good at reading documentation better than me, and I've been doing this for six years. I'm teaching myself to ask it instead of going searching for the answer. It's quick, it's right, and it gives me the link I would have probably maybe found.
+
+00:40:56:29 - 00:41:28:27
+不明
+Or maybe not. So it's your friend. And if you can't use AI assistant yet because you haven't a do whatever the license thing is, get on it. It's it's incredibly useful. All right. So. You heard best practices around goals and approaching, implementation. You heard about best practices and implementation. Joel is going to come up and talk about how Adobe has actually implemented that for its own use of AP.
+
+00:41:28:32 - 00:41:56:15
+不明
+Thanks, Kevin. All right. So, this is me. I've had the pleasure to work with Adobe as a customer of AP since the very beginning. Adobe was actually customer zero before AP was live to external customers. They've now grown. Now I'm working with more than 70 different teams around the organization, all trying to collaborate and coordinate in a single unified profile.
+
+00:41:56:20 - 00:42:26:42
+不明
+So we've learned a lot along the way. Excited to share some of that with you. To level set, just who I'm talking about here is our internal customer, the big one. It's, Creative Cloud. Right. So these are household names like Photoshop, Acrobat, illustrator, like products. Maybe some of you have used or are familiar with. And, it's a big business, I think I heard, David, would you say $17 billion business on the stage this week?
+
+00:42:26:47 - 00:43:02:54
+不明
+So a very large enterprise, big business, thousands of users, and a lot of complexity, especially when they're trying to bring all that together into a common, unified profile. In terms of how they engage customers. It's a lot of what you hear at this conference. And I think, well, what a lot of you probably do in your own organizations, marketing led growth, what we're talking about is how to, get an ad up into paid media or send email out to drive traffic to the website and then e-commerce on the website.
+
+00:43:02:54 - 00:43:32:16
+不明
+Adobe.com driving the subscription business. And, from there, once users have the products, they actually use the products themselves as a surface for driving engagement. So Photoshop itself, I think, has more than 15 different surfaces in the product that can be personalized to drive engagement. When I first started working with this group as a customer, each one of these different parts of the organization had their own app instance, right?
+
+00:43:32:16 - 00:44:03:36
+不明
+Makes it a little easier. You can kind of do your own thing, don't have to necessarily worry about what the other team's doing, but you're not unifying a profile, right? And so fast forward to about three years ago. And today, now Adobe is really focused on what they call experience, like growth. And this is combining marketing, sales and product led growth, all in a common implementation in a single sandbox on ERP.
+
+00:44:03:41 - 00:44:35:42
+不明
+The benefit of that being driving that single view of the customer across the full customer lifecycle, so you can create a better experience for the user and also drive better outcomes for the business. Sounds great. But then there's some complexity, right? We deal with 50 different product teams, more than 70 different total teams, all trying to collaborate and agree in terms of how the core principles are going to be designed, live up to all the standards that Kevin was laying out.
+
+00:44:35:46 - 00:45:12:02
+不明
+Right. There's a lot to that. So along the way to to get to that implementation, we need to come together on a run and operate strategy of how we were going to drive that successfully. First and foremost, we wanted to figure out how to drive and measure adoption because we had all these different teams. We need to know what the use cases were that were most important to support, and then to have a repeatable pattern so that each different app team could look to what the team before it had done and use that pattern to accelerate their adoption.
+
+00:45:12:07 - 00:45:34:21
+不明
+From there, we needed to make sure we had a reliable and healthy environment so they could rely on it for their business. When this is integrated into the app experience, it's got to work all the time. We needed to be able to measure and monitor that with our ops team. Finally we had the need for measuring ROI, right?
+
+00:45:34:31 - 00:45:53:43
+不明
+Since we started this session talking about how important that is at Adobe, we wanted to make sure we were, not only measuring the value we were driving, but the balance of entitlements and cost that was being used. When you're dealing with large data volumes, you want to make sure that you're sticking to the guardrails that Kevin was describing.
+
+00:45:53:43 - 00:46:17:39
+不明
+So we needed to make sure the volume being driven by Photoshop was the appropriate percentage of the total capacity, so that Acrobat would have enough volume for what they needed to do. So beyond just the technology, it's the people in process that were needed to kind of bring all that together. Obviously, we had an operating model to run this at scale.
+
+00:46:17:43 - 00:46:39:25
+不明
+As soonish was saying, everything should start with a use case. And so as we were looking at onboarding all these different teams into this common environment, we wanted to make sure we had a menu of use cases that we knew were well supported and can work to drive the business. A specific example we have is very much aligned to the example that Cinegy was sharing.
+
+00:46:39:25 - 00:47:27:33
+不明
+So Adobe isn't that different from what a lot of our external customers are doing. Acrobat mobile is a really big volume business in terms of number of users. Hundreds of millions of people have Acrobat Reader on their phone, a subset of that have chosen to pay for the subscription that gives them special features. So what the Acrobat team really wanted to be able to do was when someone had made that choice, that subscription choice, and signed up very quickly, direct them to features they know from data science modeling that when users use this feature in the first month, they are much more likely to renew their subscription.
+
+00:47:27:37 - 00:47:51:54
+不明
+So by having those insights in the profile, we were able to create an audience. As Kevin was laying out, using all those options that can use the combination of the behavioral data, the subscription data. So within that first week of someone signing up, we're making sure they've used that feature and had that moment that's going to drive retention and renewal.
+
+00:47:51:59 - 00:48:13:21
+不明
+And a big part of what Adobe does using the tools. And now is also AB test the experience. So not only are they setting up a journey they think will work, but they're trying different treatments as far as what the user will see to drive that engagement. So users click through on that message and then find that feature that drives retention.
+
+00:48:13:26 - 00:48:45:34
+不明
+They measure all that, of course, using CJA, our analysis platform on app. And then it's not enough just to have this use case and have the implementation done, but we need an operating model that supports it at scale because this is not just the single app that's running in this environment. We have dozens of them that need to run in harmony with one another so that the system stays healthy for each of the tenants in the system.
+
+00:48:45:39 - 00:49:08:39
+不明
+So as we got ready to run this at scale, we needed a way to take all the best practices Kevin was laying out and have a repeatable pattern to make sure his each team was coming on live in the system. We would ensure that that team wasn't going to destabilize the environment for anyone else, right? We all know everyone's under pressure to move, move, move and get get new implementations out into the wild.
+
+00:49:08:43 - 00:49:30:27
+不明
+But we needed a speed bump, kind of slow this. The train down a little bit so that we were sure that when Acrobat was going out, it's not going to destabilize the environment for Photoshop. So what we did in creating this release readiness checklist was we took a lot of the principles that Sydney was laying out in terms of a use case.
+
+00:49:30:32 - 00:49:50:33
+不明
+It made sure that was documented in a way that not only the implementation team could understand, but also the ops team. Right, that we made sure we understood that the testing had been done, that the dependencies had been documented, and that we knew who were the important stakeholders that needed to be aware of the health of the implementation.
+
+00:49:50:33 - 00:50:16:57
+不明
+Over time. In the next section we had was a set of, checklists for volume of the data flowing into the system. We deal with very high volumes for Adobe's data. We're constantly getting close to guardrails. And so we really need to make sure when a new use case is coming live, that that use case isn't going to compromise the integrity of the system.
+
+00:50:16:57 - 00:50:42:13
+不明
+For another, do we need to economize another team's implementation to make room for that next new use case? So we care for review all the guardrails to make sure each new implementation is going to be where it needs to be. And then finally, for our support and operations teams, we need to know that they have that information at their fingertips.
+
+00:50:42:18 - 00:51:03:07
+不明
+So when there if there ever is an issue, they're ready to take action. They have the insights, they can troubleshoot on their own, and they can know who to bring in to an escalation. If if something comes up. So our runbook templates have become a really big part of the process for us.
+
+00:51:03:12 - 00:51:27:43
+不明
+Now in addition to just that, go live review, a key thing for us is making sure we have a dev stage prod review process as well. We want to make sure each new implementation, especially if it's using Profile in Agile because as Kevin and Soonish were both saying, the profile schema, once it's in there you can't edit it without resetting the sandbox.
+
+00:51:27:48 - 00:51:51:11
+不明
+And so we really wanted to make sure each new implementation as it's going into profile, is carefully reviewed for those best practices. Kevin was laying out. So we do this for the dev to stage promotion and again for this stage to prod. And that way making sure stage is very stable for all of the different teams to rely on in production, we make sure is always stable for the marketers.
+
+00:51:51:16 - 00:52:13:10
+不明
+So that's a lot of process. The process tends to slow things down, so pressure is on our team to figure out tooling strategies to more automate the process, to make sure we can move quickly through those review steps and measure against guardrails in the health of the system. So we've broken down our tooling strategy into these types of buckets.
+
+00:52:13:15 - 00:52:35:13
+不明
+And right now these are tools that we're really focused on internally for Adobe. But we think there may be value in these types of tools for external customers as well. In terms of data governance, we're making sure that we're checking for data quality as well as the schema integrity across the environments. We don't want a team adding schemas into prod that hasn't already been through dev on stage.
+
+00:52:35:13 - 00:53:09:15
+不明
+For example, we want to make sure that people are reusing the schemas that have already been built, rather than inventing another attribute that has basically the same meaning in the monitoring category. We needed to make sure that all those guardrails are checked in production, that we're constantly staying under the guardrails to keep the system healthy, and we're looking at ways to monitor a use case in the context of a schedule of dependencies across the different services on ERP for ROI measurement.
+
+00:53:09:19 - 00:53:37:48
+不明
+We're looking at the adoption metrics for each of these different teams, as well as how efficient we are in driving engagement and, the actual revenue associated with the campaigns. And finally, we have access governance as well. With so many thousands of users across the company needing access to the system, we need to make sure that only the key people that need it can have right access to the production environment.
+
+00:53:37:48 - 00:54:07:16
+不明
+For example, not everybody should be able to create an audience. Most users are consumers of the audience rather than builders of the audience. So we make sure we're auditing that over time to make sure the right people have the right access. Finally, we have a variety of success factors that were driving for the program. We're looking at, adoption and usage metrics, you know, making sure we're finding those reusable patterns because we have so many teams we're trying to onboard.
+
+00:54:07:21 - 00:54:46:00
+不明
+We want to make sure that we have a way to measure that. They're using repeatable use cases to get scale for the business. We're also measuring value in terms of the number of surfaces that we're tracking and enabling and the revenue engagement metrics against them. And lastly, scale and reliability. We're making sure that we can monitor what we need to and we have the runbooks to support issues that come up as well as, measuring any kind of impact to production from, any outage that occurs, and how quickly we're able to resolve issues that come up.
+
+00:54:46:04 - 00:55:16:30
+不明
+All right. So that's a quick tour of what we're doing with Adobe. And, to conclude our talk, we wanted to just review, what you heard in this talk today and, have a chance for some questions. So we started with use cases and just how important they are to ground your plan and, making sure you have clear business goals with KPIs that you can measure and an architecture designed to support it.
+
+00:55:16:35 - 00:55:44:37
+不明
+Kevin then took us through designing, implementation with those guardrails and best practices in mind. Right. So you're not driving into the ditch, right. And using the right tool for the right job. And then I concluded with the talk around what we're doing at Adobe and setting up those run and operate teams for success. Right. Nothing worse than the Ops team finding out there was a go live, and they didn't even know it happened right.
+
+00:55:44:42 - 00:56:09:58
+不明
+Some takeaways. We wanted to leave you with. First and foremost, I'd say technology is an implementation of a business strategy and not the reverse. Right. Have that use case in mind. Have executive sponsorship so that you have the investment level. You need to do the right thing, and that'll help you stay committed to a target architecture where those best practices can be achieved.
+
+00:56:10:03 - 00:56:31:03
+不明
+In terms of going from implementation to run and operate, you really do need clear roles and responsibilities in the organization to get scale and, plan for an incremental roadmap, right? I think both soonish and Kevin talked to like, you know, don't don't design for something you don't have a use case for, right? Don't don't load data.
+
+00:56:31:08 - 00:56:54:39
+不明
+You don't know what you're going to do with yet. Right. And so have an incremental plan where each step along the way has a use case that you can measure. So you can measure success as you grow. So remember do your surveys I did surveys years ago. And thank you all for coming one of the last sessions here before the end of the whole thing.
+
+00:56:54:46 - 00:56:59:58
+不明
+I really appreciate.
+
+00:57:00:03 - 00:57:00:23
+不明
+You.
+

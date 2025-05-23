@@ -1,0 +1,560 @@
+00:00:00:37 - 00:00:25:08
+不明
+Great. Well, welcome, everyone to our session. I'm Bob Conklin with Adobe Product Marketing. And I'm joined by Nina Grossberg, from Vanguard. Very happy to have you here. Yes. The Vanguard fans are in the house. And so, yeah, we've put together a session for you. We spent a lot of time on it, including Sunday, I think.
+
+00:00:25:15 - 00:00:48:38
+不明
+Right. Maybe to that. But anyway, I think there's some there's some really good lessons to be learned here, and we hope you enjoy it here. Late on on Wednesday. So without further ado, let's, let's dig in. So the agenda I'm going to start off with just some context setting, the evolution of, of B2B go to market and how CDPs play into that.
+
+00:00:48:43 - 00:01:20:01
+不明
+And Adobe Innovation. Just a quick recap of some of the announcements we've made here over the last two days, which have been quite a few. And then Nina's going to pick it up, and tell the story of Vanguard and their journey of their business needs, their, their marketing strategy, how their, customer data management has evolved, and then the outcomes they've seen from, using the CDP, how they go about measuring the value of the CDP and other martech investments, to be able to communicate that, you know, internally, which is a good thing to know how to do.
+
+00:01:20:06 - 00:01:45:18
+不明
+And then lastly, tips and tricks, pitfalls to avoid. Around not just the implementation of a CDP, but kind of the ongoing getting value, part of the CDP. So and then we'll hopefully have some time left at the end for questions. And there you go. Since I have one slide that talks about announcements, I have to put my roadmap disclaimer slide in here, which says things could change.
+
+00:01:45:23 - 00:02:19:03
+不明
+But before I get to that, I wanted to pause and just recognize, you know, the pace of change that's happening right now. Last year at Adobe Summit, we had at least five companies here. A lot of them, were longtime Marketo users. I worked at Marketo, came into Adobe with Marketo. And they had kind of gotten to the point where they wanted to put a CDP into their into their martech stack and make it kind of the source of, of the data and the audiences, and they'd kind of cross that boundary.
+
+00:02:19:03 - 00:02:41:42
+不明
+So we had a lot of stories around implementations of CDPs and best practices around implementations. This year, it's very interesting. The sessions are we've kind of are more about, value acceleration of a CDP or expanding use cases of the CDP, which is a lot of what Nene is going to be talking about, although you'll get some implementation, you know, tips and tricks in there as well.
+
+00:02:41:47 - 00:03:02:31
+不明
+So things have changed quite a bit. Not to mention the advent of of buying groups and software that can actually handle them. You know, last year we were talking about Gen AI, and now it's all AI agents, right? There's a lot to every conversation I've had with people here at this event is like, wow. Or there's so much, you know, so much coming at us.
+
+00:03:02:36 - 00:03:22:55
+不明
+And there is it's just I've never really seen it. I can't remember anything like this. Actually, there's there's quite a bit being thrown at us, but it's all things that help help us in our marketing. And I've been in B2B marketing for longer than I would like to admit. So let's just talk about, you know, we'll start with, you know, experiences everything.
+
+00:03:22:55 - 00:03:46:48
+不明
+Right. And I just I put this slide in just to say when you might see this slide, you might think consumer marketing, I guess it's a pretty slide. But, experience is everything matters even more in B2B because the decisions being made are high stakes decisions. They're complicated decisions solved by complicated solutions. And so it is true.
+
+00:03:46:49 - 00:04:12:40
+不明
+What I find is that our B2C marketing, colleagues, I think of B2C marketing is they're fast and they're at scale. They have giant audiences, right. And they're just it's a more every B2C business. And B2B business is different, but typically high transaction rate, high giant audiences. B2B, we have the extra complexities of our relationship with sales. Long sales cycles.
+
+00:04:12:45 - 00:04:29:23
+不明
+You know, that we're tracking through all these stages. We put a bunch of money into an opportunity and we lose it. That's very expensive, right? There are high stakes, are high for us. They're high for our customers. There are a lot of reasons that B2C, sometimes from a technology perspective, goes a little bit ahead of us in B2B.
+
+00:04:29:23 - 00:04:53:03
+不明
+But the good news is we can learn from from them and watch them make their mistakes and not make the same mistakes they make. And like I said, it's a good thing, that sometimes we go second, we don't always go second, but sometimes it's a good thing because the stakes are higher. With us. So you know what we're seeing now and hopefully you're able to see some of our earlier sessions.
+
+00:04:53:07 - 00:05:25:28
+不明
+We had three roadmap sessions on B2B applications yesterday. We had a strategic strategy keynote today where we got into this, talking about the evolution of B2B. There's just a lot of things coming together at the same time. If you think back. Right, we started with CRM and we're codifying the Rolodex that sales used to have, and then we move on to marketing automation and account based marketing, which largely ended up solving, top of funnel, kind of use cases.
+
+00:05:25:33 - 00:05:51:43
+不明
+But we ended up with two funnels then, and that seems confusing. So now we found our self at this, what we're calling B2B 3.0, which is kind of a convergence of account based, lead based, full lifecycle instead of just acquisition and AI, which is, as I said, just advancing very, very quickly. To help us scale and do all the things that we need to do.
+
+00:05:51:48 - 00:06:16:54
+不明
+And so, you know, what does that look like? Well, it's got to start with a nucleus of a customer profile because everything you're doing from a market perspective is going to have something to do with who the customer is and what they're doing. And from a B2B perspective, we want to be able to see that from people, people basis an account basis and a buying group basis.
+
+00:06:16:58 - 00:06:41:22
+不明
+You know, last year at summit, we announced Adobe Journey Optimizer B2B edition. That helps to, orchestration based on buying groups. This is something we from the Marketo team. We've been wanting to do this for years. We were very happy to be able to launch that. Now that's out in the world. So first you have to have this this, this common profile of the customer, and then you have to go through this process of, of listening.
+
+00:06:41:22 - 00:07:12:50
+不明
+What's their behavior. So that's first party, second party, third party data. That's, you know, data that fits your own, it's data that we bring in to something like the CDP from our partners. We just built a few new sources from some very popular, you know, based and data providers from that to to the next thing which is building the experience is there's a, there's a term I love, and I, I'm sorry, I can't remember which analyst firm to attribute this to, but it's called buyer engagement.
+
+00:07:12:50 - 00:07:41:55
+不明
+Right. And it's the idea that when you're as a B2B company, you're out talking to your buyers. You're helping to enable them. I might say buyer enablement enable them to solve their problems, to make their decisions. And you're trying to give them content and conversations that help them figure out sometimes the problem that they're trying to solve and which solutions, you know, fit with solving that problem and getting them through the decision making process in a giant buying group.
+
+00:07:42:00 - 00:08:03:11
+不明
+That goes on to, the actual engagement itself, which now with AI, we can do much greater scale. We had a speaker in the B2B keynote from Nvidia, and she was talking about hyper personalization. And then of course, sales is a really important part of the mix, and they need to be completely involved with with what marketing is doing.
+
+00:08:03:16 - 00:08:22:43
+不明
+And so there are a bunch of things we're doing there to make sure, sales is seeing what we're doing, where we're doing more kind of pre work for sales. So for instance, maybe we're handing them a buying group instead of a lead. We're doing kind of more work up front that matches more house sales. Thinks about going after opportunities and accounts.
+
+00:08:22:48 - 00:08:45:34
+不明
+And then lastly optimization. There's a lot going on. We've talked about a lot of things with this event. We announced a B2B edition. We announced an experimentation agent. There's just a lot of things that go into optimization and new capabilities for it now. Things like experimental are a lot of work, right? AB testing at scale across channels.
+
+00:08:45:39 - 00:09:12:52
+不明
+It's a ton of work. But I you know, it's another good example of where I can help us scale. And so, you know, there are three things that that it takes really to do this. Right. And this one in the center is in the center for a reason, which is data. You know, you have to have the data to, to figure out what content to create and what channels to use and how to string that all together and who to target and, and everything.
+
+00:09:12:52 - 00:09:31:41
+不明
+So the data is at the center and it's about solving. It's kind of you have to have both an inside out and an outside in perspective. I think when we came in from Marketo to Adobe, we felt like we were really strong and kind of, revenue processes and stages and how marketing and sales work together to get things through a process.
+
+00:09:31:46 - 00:09:53:01
+不明
+Maybe that's a little inside out, but we knew Adobe was very good at it, at, customer engagement and putting the right content in front of people. And so you have to be have kind of both of those pieces and be good at both of those pieces. Because customer experience is always important, but it's got to be match up with your go to market, you know, and your resources.
+
+00:09:53:06 - 00:10:13:15
+不明
+So now I'm just going to double click and we're start heading in the direction, a couple slides on the CDP. Before I hand it to Nina. And so the CDP not that long ago, like 2013. Right. One of the first definitions was basically bring all your data, like pull it into this thing. And we even called it a database then.
+
+00:10:13:15 - 00:10:36:18
+不明
+Right. And it was it was a pretty, IT centric kind of, approach. As we developed, we said, you know what? Actually, you don't bring all your data into the CDP, just bring the data you need to build better audiences, to do better targeting of your marketing, to do better personalization of your marketing. And all this has happened in the last, you know, 12 years or so.
+
+00:10:36:23 - 00:11:00:15
+不明
+And now it became a little bit more operational, like, okay, this is a key to, to operating a marketing department, operating a customer experience function. Is to have the center of gravity to figure out audiences for different campaigns, etc. and now today and kind of going forward, it's about having this center of gravity to drive engagement and drive activation.
+
+00:11:00:19 - 00:11:25:30
+不明
+In many ways, data is is just a means to an end, right? You have to actually take what it teaches you and then go out and engage with customers through different channels. Etc.. And so that's what we're seeing now. And, and just greater adoption with B2B CDPs, is that there are more applications connected to them to do engagement and drive activation off of the data.
+
+00:11:25:35 - 00:11:48:05
+不明
+And with that kind of the value prop is fulfilled. And and we see more and more adoption. And of course, I again helps with the scale. So, the things you'll hear Nina talking about in here, right. For sure. Profiles. Right. Profiles are at the center. This is, you know, your understanding of the customer in real time, CDP.
+
+00:11:48:07 - 00:12:10:24
+不明
+We have, account profiles, and we have person profiles, and and we're doing identity resolution, and we're trying to understand these people and these accounts as best we can, you know, to drive audience creation and personalization off of those. Those profiles are informed by data sources. I said, you know, first party, second party, third party, we have new methods, right?
+
+00:12:10:24 - 00:12:29:44
+不明
+With CDPs now where you don't have to have the data in the CDP if you have some really important business information that's in our data warehouse, that's locked down and nobody let you take anything out of it. You know, we have federation, you know, processes now, or you can access and use data that's external to the CDP.
+
+00:12:29:49 - 00:12:54:42
+不明
+And then lastly, you know, I mentioned activation channels, right? We have activation channels for, for own channels for advertising. New CDP collaboration capabilities that have to do with, third party cookies went away. What do we do now? And this is more about a second party kind of relationship between brands and publishers. And, Jamie Diamond actually talked kind of alluded to this this morning in his keynote.
+
+00:12:54:46 - 00:13:15:16
+不明
+And so, you know, these are the components that it takes to do this. Well, Adobe has, you know, is one of the leading, market share products in this area. Like I said, we're seeing good growth. And, you know, we're not we're not done yet. There have been a lot of, announcements at summit around the core CDP and data management.
+
+00:13:15:21 - 00:13:39:33
+不明
+But then importantly, like I said, it's data is kind of a means to an end. Also, the things around the CDP that take advantage of what the CDP is able to do, so a lot around, I, you know, the audience agent is a really important one, which comes on top of AI assistant, which is already a capability we have today that can help with audience creation.
+
+00:13:39:37 - 00:14:07:35
+不明
+So we just keep adding more automation, more AI to to streamline that process. And I'll just hit on a couple ones. I mentioned Khoja B2B addition. On the optimization analytics front. And it's not just the CDP, it's not just job creation. We're investing in Marketo, in the core of Marketo. We just, announced we we redid the reporting in Marketo, something we call the Advanced Report Builder.
+
+00:14:07:48 - 00:14:31:21
+不明
+It's been completely redone. We've got a new email editor in there with gen AI capability. So again, you have the data from the CDP. You have this really intelligently produced audience, and now you actually have to go do the engagement. And then lastly, sales. We've announced a few things here, around engaging with customers, either sales or something like a BTR or or even just, something more automated than that.
+
+00:14:31:21 - 00:14:50:20
+不明
+That just is like a sales conversation and an agent around, account qualification. So, you know, the innovation keeps coming. Like I said, I know the conversations I've had with people have been like, wow, we're so far behind. No, you're not. You're not that far behind. It's just there, there happen. These things all seem to happen at once.
+
+00:14:50:20 - 00:15:13:57
+不明
+We had buying groups. We have CDPs kind of coming into maturity and filling some of the things that were gaps before. And we have I just really evolving really quickly. So, with that, I just say, you know, don't feel like you're behind, because we're all trying to drink from the firehose. That is the kind of the rate of innovation right now.
+
+00:15:14:02 - 00:15:40:12
+不明
+But in a couple of the keynotes, I think Marriott this morning and then I mentioned the Nvidia presentation. They all gave the similar advice to how do you deal with the firehose of innovation. And it's kind of start small. Right. Pick some use cases that you know matter to your business. Solve for those show that works, prove the investment and then kind of expand from there, which is very much what Nina and Vanguard story is about.
+
+00:15:40:12 - 00:16:05:27
+不明
+And so I don't think we have like pumping music or lasers or smoke here. So let's just give Nina a round of applause. Mary finds hi. Yeah, that was a really good tip. I hope I live up to Bob's expectations that he set, and I want to thank everyone for coming. I know it's close to party time for people, maybe, or at least the end of a long day.
+
+00:16:05:27 - 00:16:30:34
+不明
+And I appreciate Bob for connecting what we've already heard today. But I think what you're going to hear about Vanguard is sort of getting those basics right, the small things testing into them. But before I dive into all of it, I want to give a brief overview of our business. I don't want to speak jargon to you. I want you guys to understand the context for our B2B CDP journey, because I think that's it's all the devil's in all the details.
+
+00:16:30:34 - 00:16:55:08
+不明
+Right? So hearing what our B2B orgs, how they're structured, how they operate, and why the CDP was so crucial for them. So here's our agenda again. FYI, if you see other Vanguard people congratulate them, we have our 50th anniversary coming up in a few weeks. So big to do. Awesome new brand logo to celebrate. And, I want to just give you context for why we do what we do every day at Vanguard.
+
+00:16:55:08 - 00:17:16:32
+不明
+So we're very mission driven. And you can see at the top our our motto, like what we live by. And that's to help everybody that comes to Vanguard to invest, achieve that retirement success. And I'm not telling you that as a feel good story. I'm telling you that because it really filters down to all the decisions we make, even within marketing, even within it, martech, all those partners.
+
+00:17:16:37 - 00:17:35:22
+不明
+And it's about being really responsible for the investment we're given to make these experiences happen. Because ultimately, every dollar we save, every efficiency we drive, we can give back to investors so they can retire and do what they want to do with their retirement because we lower the fees. So you might have seen in the news recently, we just lowered a lot of our fees.
+
+00:17:35:27 - 00:17:55:09
+不明
+And that's why we do what we do right is to help everybody achieve that success. Lots of numbers up there 50 years, right? But let's get to the stuff I know that you all care about. I want to give you an example of what our B2B is like. And so I think I'll use Bob's, image he had up there about what, someone skiing.
+
+00:17:55:13 - 00:18:20:13
+不明
+Right. As our very first image there. So if you think about Vanguard, more like, a ski boot manufacturer or a specialty ski, you know, manufacturer, we have people who can come and buy these ski boots on our website. Right. And that's our whole B2C business. But we have separately this B2B business that sort of like when this gave it manufacturer calls up Sports Authority and they're trying to sell to them, hey, we want you to carry our products, right?
+
+00:18:20:13 - 00:18:38:52
+不明
+We want you to provide it to the end consumer, in our case, the end investor. And that's what our B2B organizations are like of selling to the specialty retailer, the advisor in our case, and selling to big companies who want to provide a great retirement experience for their employees. So some of you in the room might use A41K from your employer.
+
+00:18:38:52 - 00:18:59:26
+不明
+That's through Vanguard. Some of you might work with an advisor that helps you invest in Vanguard products. That's our B2B space, right? So it's a little unique. It's a little bit different and offers a high level of complexity, which is why we're going to talk about how CDP makes the difference for Vanguard. So let's let's jump to that.
+
+00:18:59:31 - 00:19:22:58
+不明
+Right. Why was CDP so crucial? So those businesses with that sort of intermediary right means there's a lot of rules. And those rules are very, very hard to manage manually. CDP offered a way for Vanguard to take all that data and those rules and put it in an easy to use data set for marketers. So you'll hear this a lot as I talk about the Vanguard experience.
+
+00:19:22:58 - 00:19:42:50
+不明
+But our marketing teams, some of which are in the house today, I'll I'll embarrass them so you can ask them questions later. They are very big at Vanguard on self provisioning. And what does that mean? That means putting the power in the hands of the marketers to deliver these incredible experiences. So it doesn't take forever. So they're not reliant on lesson MIT, but they're not reliant on IT delivery teams.
+
+00:19:42:50 - 00:19:59:15
+不明
+And those IT folks want to build cool stuff. They don't want to help you with their website or make you lists, right. They want to be doing cool stuff. And this lets the marketers who know their audience the best puts the power in their hands. So that was our end goal for both of the businesses. For many different reasons.
+
+00:19:59:20 - 00:20:19:28
+不明
+Our B2B businesses are also using Marketo, so I don't know how many of you are using Marketo, right? How many of you are using a CDP today? But are any of you still thinking about it? Okay, so cool, there's a great mix. Are any of you really like super IT people who want to see the architecture diagram? Oh, okay.
+
+00:20:19:28 - 00:20:41:10
+不明
+All right. I might need help from the audience that it is in here. But that marketer enablement that I spoke to super, super important and it's also where we find a lot of efficiency. So again, bottom line, we want to give money back to our investors. If we can do that by enabling our marketers to do that and not relying on hundreds of IT teams to deliver this stuff, that's our goal.
+
+00:20:41:15 - 00:20:56:22
+不明
+And then we have these B2B teams. They're small, not as small as Leanne, who's in the room who just spoke about the Australia business and how lean their team is. But they're small. They're nothing like the size of our marketing teams for B2C, so they need to punch above their weight and the CDP lets them do that right.
+
+00:20:56:22 - 00:21:10:05
+不明
+They don't have a budget. They can't bring on more people to deliver all these experiences. To segment all these audiences. The CDP is the unlock is allowing them to do that with the same number of people.
+
+00:21:10:10 - 00:21:32:04
+不明
+Okay. For those of you who raised your hand on a little bit of an architecture diagram, it's an architecture diagram. Light. So if you're interested in talking to someone from Vanguard afterwards about the technical, Alexis is in the audience. She made me this awesome slide. I have to give her credit. But I think what it touches on is what Bob touched on, which is that we have a CDP, we have all this data flowing into the CDP and into AP from lots of different places.
+
+00:21:32:04 - 00:21:48:04
+不明
+Our two lines of business, you can see represented, but the segmentation is one piece. And at Vanguard we wanted the separate piece of orchestration, which is why our B2B businesses have Marketo. Right. So they're using them in tandem. And so if any of you were thinking about that are already doing that, this may you may identify with this.
+
+00:21:48:09 - 00:22:06:52
+不明
+We also have all these activation channels and more coming every day, because our B2B teams are really awesome and mindful about crafting great use cases for how to leverage this technology. And use cases is going to come up a lot too. As we talk about what the B2B team did. Was that enough for the techies in the house?
+
+00:22:06:57 - 00:22:43:27
+不明
+We. So let's go double click into those two B2B businesses. Now that you sort of understand, you know how we're structured at Vanguard, I so I want to share with you that my perspective here is not, as an Fass marketer, are two divisions. I'm actually on the enterprise martech team, and I feel very privileged to sit in a spot where we do enablement on my team, so we sit embedded in the marketing teams and help them drive value out of these tools, help them and advise them internally on how to deliver the experiences they want with what we have in the stack, or if we don't talk about what that's going to look like.
+
+00:22:43:31 - 00:23:03:38
+不明
+So I did not do that awesome work. I just get to tell their amazing story. So huge credit to everyone in the room from Vanguard that has been part of this. Our our Australian team exists, but let's talk about financial advisor services first. So that's that world in which you have an advisor. Maybe you have one, you know, that's that's working with you today on your investments.
+
+00:23:03:43 - 00:23:22:26
+不明
+We know who those those folks are. We know the advisors. They're registered. Right. So we know that universe. It's not huge. So speaking to Bob's comment on this is not millions and millions of touch points. This is a very it's like shooting fish in a pond right? We know who they are. We also know when they're engage with us and care about things that we are sharing with them.
+
+00:23:22:26 - 00:23:43:16
+不明
+And when they're not. Right. So super, super important that we have this kind of leads in this funnel. They know where everybody is in that funnel, but they also have a really complex ecosystem. So maybe you have an advisor who is in your community and they have their own personal shop, right? You know them, they're your neighbor. But maybe you work with an advisor at a big company like a Merrill Lynch.
+
+00:23:43:21 - 00:24:03:11
+不明
+Right? And they are beholden to lots of rules. And we need to respect those rules but still communicate with those advisors. And what I would tell you is their goal in life is to be the advisor to that advisor. So we want to touch those 24 million investors that those advisors support, because we want them to have Vanguard, because Vanguard's going to get them where they need to go.
+
+00:24:03:16 - 00:24:23:45
+不明
+And so when we think about how we communicate with them, they don't stay at their companies all the time. They move around frequently at some summer at these big houses. Some are independent. Right. So the data is changing all the time and we need to keep track of it. So we're highly regulated in financial services. If we're not keeping track and we're not sticking to that and being compliant, we're injecting a lot of risk to our situation.
+
+00:24:23:45 - 00:24:41:43
+不明
+And then if we're fined and things like that, we're not helping that meet that goal that we have of everybody's financial success. Right. And we lose trust. In addition to that, there's also these unique rules. And I was kind of getting at that. So if you work at a if you're an advisor at a big house, you have a relationship with Vanguard at that company level.
+
+00:24:41:43 - 00:25:00:34
+不明
+So you have people talking to Vanguard every day and saying, hey, you can offer this fund and not that fund. You can direct our advisors to your website, but not to social media. So there's all of these rules of engagement on how to market with these people. And even the content we share with them needs to be approved by that home company.
+
+00:25:00:46 - 00:25:20:15
+不明
+Right. So you're talking about huge amount of complexity to deliver anything to them and to deliver something relevant, right? So like what was the first use case that they started with. And they were I can't remember if Australia, if you were first or if our team was first, but they were right out of the gate, like really early on in our CTP journey.
+
+00:25:20:20 - 00:25:36:37
+不明
+Their use case was this idea of they call it automated acquisition journey. All that really means is they were like, we know the advisors that aren't engaging with us. Can we get them to move down the funnel like, can we talk to them in the right way? Can we segment them and share the right content, following all the rules that have been laid out for us?
+
+00:25:36:37 - 00:25:53:22
+不明
+Right. And take those high propensity audiences and actually turn them into something we can hand to sales and have a real conversation with. Right. So they're not just once in a while looking at our website, but they've done those high value activities. We've tracked them in the CDP, and we can deliver them that next message that gets them engaged with Vanguard.
+
+00:25:53:27 - 00:26:09:50
+不明
+What does that look like? Right. What are the data sources that this team needed for this very initial use case? They needed especially in the B2B space. We rely a lot on webinar and event attendance. Right? So we needed all that data from whatever tool we're using to track that. That's changed over time. We also need that omnichannel engagement.
+
+00:26:09:50 - 00:26:29:51
+不明
+Are they reading our website? What are they reading on our website? Are they clicking on things? Are they looking at email that we've sent? Probably not. If they're not engaged, the offers we can give them, this goes back to the rules of engagement we have. And then what are their preferences? Right. They might have expressed preferences. Maybe they advise a lot of people on kids 529 plans.
+
+00:26:29:51 - 00:26:50:42
+不明
+Right. Or superannuation? Retirement. Right. As it is in Australia, we needed all that data, that data set everywhere, right. And I think all of you can identify with that. Right? We are all rich with data, not always enabled to use that data to drive these experiences. And these outcomes. So that's kind of like the situation that they approached CDP with.
+
+00:26:50:47 - 00:27:26:04
+不明
+And I want to tell you what it was like. They were able to deliver experiences like this and journeys like this before CDP. It's just was extremely painful and manual. And I'll give you some stats the before and after. So the before world of before Marketo before CDP that integration. They could deliver this journey. But it took them ten different teams and Vanguard teams across data and analytics to help with, with putting the list together team from CRM who was actually bringing that stream of data from our relationship management tool, IT delivery, martech, their marketers.
+
+00:27:26:04 - 00:27:43:18
+不明
+Right. So it was this huge group of people, heavy, heavy lift manually. And it took them three months. So ten teams three months. Just think about the value of that group of people and all their work. And they got that journey out the door and they learned a ton about it. And they wanted to prove that a journey was possible, that they could deliver that experience.
+
+00:27:43:22 - 00:28:03:12
+不明
+And once they did that, the appetite for doing that more efficiently and at scale was it was massive. Before they succeeded in a manual journey. But this is the before and after. I'll just like let that sink in for you. After they brought in CDP and leverage that integration between CDP and Marketo, then they delivered 27 journeys in nine months.
+
+00:28:03:12 - 00:28:21:27
+不明
+Right. Just two teams marketing and, I think CDP, our data and analytics group, to make sure that we had the right data in place for it. So when we like calculate that help, that's like an 800% increase in speed to market, right? So all of a sudden, any journey that they could imagine, any experience they want to deliver to any niche audience, they could now do it.
+
+00:28:21:32 - 00:28:36:14
+不明
+So instead of like we have three use cases, can we deliver on them? They were like, we have a million use cases and we can do it right. The sky's the limit on what the marketers are thinking about and how they want to communicate. And then what is today. Because this is I want to say that nine months ended maybe in the fall of last year.
+
+00:28:36:21 - 00:28:54:39
+不明
+Right. So now it's been another 6 to 9 months. They have this idea in mind of these scalable journeys. So they're looking at those audiences and their audience strategy and saying, now how do we deliver on all those unique, smaller experiences? How do we do it minding all the rules of a lot of these companies, but delivering it quickly?
+
+00:28:54:39 - 00:29:10:26
+不明
+And so the CDP lets them say, if one advisory house says, hey, you can go, you've approved everything. They don't have to wait for all the others to do it right. They can deploy to that one small audience of advisors at one company. The next time the next group comes in, they can do it again. They can set it to be always on.
+
+00:29:10:26 - 00:29:27:54
+不明
+So as advisors pop into that category and that audience, that journey goes out to them. So they've really taken a small team and been able to scale this. You can see the quote from them, which I think is really powerful, right? It's like, hey, it took us a long time. We succeeded. But in order to be a modern marketing organization, we have to be able to do this at scale.
+
+00:29:27:54 - 00:29:50:58
+不明
+And I'm sure you've heard that in every session, the at scale part. But that that piece of it is so crucial for those B2B teams who don't have hundreds and hundreds of marketers that are across all these channels and doing all this work themselves. So it's it's an incredible story. If you see anyone from our office team, I don't think they're in the room, but, you know, ask them about their success story because it's pretty it's pretty amazing.
+
+00:29:51:03 - 00:30:10:21
+不明
+All right. Should we talk about IAG? That's our other B2B line of business. Make sure all time check us. So our institutional investor group this is the company we were targeting. These companies that offer an employee benefit have a great retirement plan. Right. These are really really small groups of people we're communicating with. In fact, sales knows who they want to target, right?
+
+00:30:10:21 - 00:30:31:06
+不明
+They know which size of business. They know tons of stuff about them. Are they up for renewal with their existing provider of plans? Right. We know who they've used in the past. We know how many employees they have, like the value of that business. We know what we can do for them. Right. And the whole idea of what they do in this marketing team is enable sales.
+
+00:30:31:06 - 00:30:55:26
+不明
+So they're looking at all that digital signal. They're trying to give them insight to help in that very long selling cycle. Right. We know who these companies are. But again, a very complex ecosystem. They have, like I said, renewals coming up. They have consultants. So when you're a big company Adobe is a client. Right. And they're making a decision as big as this, which is part of a recruitment and retention play at an employer.
+
+00:30:55:28 - 00:31:12:50
+不明
+They're working with a consultant who's like, hey, this is the right thing or this is the wrong thing, or let me guide you or what are you thinking about? So you have this whole group of of influencers who are also engaged in this universe. We have in this world demos. So they're going out and they're showing the experience to a company that their company is going to have.
+
+00:31:12:50 - 00:31:37:10
+不明
+If they work with us as the plan, as the plan sponsor, and they're showing demos of what it's like for the investor, their employee. So there's this huge amount of tech around it and complexity in that world, but they still want to enable sales right. So their use case and IAG and they actually put together for really incredibly defined use cases that kind of powered this experience with this very first one probably resonates with all of you.
+
+00:31:37:10 - 00:31:55:39
+不明
+Right. They're very thought leadership driven. Many B2B organizations are. And they said, hey, we put out this incredible piece of thought leadership every year. If you haven't read it, go check it out. It's called How America Saves. It's a general interest like survey and story about what our habits are in America in terms of saving, and they put out tons of great content.
+
+00:31:55:39 - 00:32:21:54
+不明
+But that initial campaign launch with the report comes out. They send it to a lot of their clients or their their leads, I should say. And then people read it and engage with it. But subsequently, we have lots of follow up thought leadership that comes out focused on different industries, right? Focus on all these different areas. And they said, hey, can we increase email engagement by following up and sending triggered, focused thought leadership emails after someone engages in how America saves?
+
+00:32:21:59 - 00:32:44:02
+不明
+This is this is like 101, right? I did email marketing for a very long time at other organizations and like triggered emails based on what you're interested in is is basics, right? But I can tell you, I spent quite a bit of time my first year at Vanguard following one of their marketing pods and IAG, and the thing that shocked me that I heard from them was like, hey, we're kind of given up on the email channel like it's not working well for us.
+
+00:32:44:02 - 00:33:04:44
+不明
+And it was for many reasons, right? But I was shocked to hear that, having done email for a very long time. And so for them to test into this and ashwin's here, you can tell you all about this. I think they were like, is email viable if we do this right, if we actually segment the audience in a precision way, if we share content that they actually care about, and you'd think we could do that, right?
+
+00:33:04:44 - 00:33:19:01
+不明
+We have all this data, but it was not in one place. It was nearly impossible to pull it. The data quality wasn't great. They were sending a lot of batch and blast emails. Right? So they say, oh, let's send it to everybody who clicked. Well, that's not enough, right? You don't want to send the same piece to everybody who clicked on the initial piece.
+
+00:33:19:01 - 00:33:35:29
+不明
+You want to send something that they're really going to care about. And so they were able to define that audience using CDP and the data sources that they leaned on up here. Web engagement. That's key. Right? If they're already reading How America Saves, that's on our website. They use account based marketing data. So our IG group does use account based marketing.
+
+00:33:35:29 - 00:33:54:41
+不明
+That's a big part of their strategy. Their email idea is the CRM first party demographic data, which for this team is really crucial because they're really looking at how to defend against that cookie less future. So leveraging that first party data and showing their marketing org that they're working towards, that was really, really critical. So that before was like we did batch and blast.
+
+00:33:54:41 - 00:34:16:46
+不明
+We didn't have a lot of trust in that email channel. It wasn't working well for us. It wasn't worth continuing to do the amount of effort it took versus the engagement we got. But the after when they actually brought CDP in to launch this use case is again, pretty incredible. And if you're into email stats and you kind of look at the experience that they had, they had tremendous increase over their benchmarks.
+
+00:34:16:56 - 00:34:37:36
+不明
+Something I mean, again, having worked in the email channel for a long time and other places like is unheard of. And for them, again, small audiences. So these increases while huge it doesn't it's not millions of clicks, but what it is is the right people engaging so that they can give that crucial information to the sales team and have a really relevant conversation with that company when they get the chance.
+
+00:34:37:40 - 00:35:01:23
+不明
+So really, that idea of marketing isn't just marketing, but we're enabling sales comes through in this example. And then today, and I shouldn't even say today because it's already done three other additional use cases that they had scoped out when they started the CDP process. We're around other channel activation channels. So LinkedIn, right. So they have a really great the team is represented here today that's on our sort of our paid and our media.
+
+00:35:01:28 - 00:35:18:46
+不明
+So LinkedIn targeting that first party data, we have targeted ads on Trade Desk, which is another platform right. Like that. And then they have and I don't know if it's live so hot off the press. Not yet. We're almost there, ash. What I'm saying, an example use case of real time website personalization once web SDK is live.
+
+00:35:18:46 - 00:35:41:04
+不明
+Right? So they had put together use cases with capabilities we didn't even have yet because they saw that future value when CDP was live. So they have a really great roadmap of use cases, very well defined that let them achieve this. So they didn't come to us and say, we want all the data, right? And I know Bob talked about this because it's not a curated marketing data set for marketers if you just put everything in it.
+
+00:35:41:09 - 00:35:59:41
+不明
+Right. So they were very, very crisp and clear on the use case, what they wanted to prove out or accomplish with the use case. And then they got those results to back it up. And they're very they're very prescribed in how they report on this. So they actually pull that data, they shop it around. They show everybody what worked and what didn't.
+
+00:35:59:41 - 00:36:22:12
+不明
+So they're very much about iterating, which I love because the CDP and use of it only gets better as they enable everybody to understand the value of it. So they're doing that in marketing it internally to their own crew, you know, to get into that mindset of using the CDP and defining their audience as really well, okay. Should we talk about outcomes and measuring value?
+
+00:36:22:17 - 00:36:39:40
+不明
+So I was touching on this, but the fact that you start with a really defined use case and maybe a hypothesis about what might happen, like, hey, if we actually give them a follow up email on content they care about, we're going to see an improvement. That was our hypothesis, which we proved is one of the ways in which these teams are in a really straightforward way, measuring outcomes.
+
+00:36:39:45 - 00:37:03:12
+不明
+But we have a sort of a broader vision. So within martech at that enterprise level, we look at adoption of all of the tools that we brought in to our stack. And we've been on a journey for a couple of years to bring in a lot of modern capabilities. And we say, hey, these tools and these capabilities, if you start to adopt them and then succeed in adopting them, what value is it generating for you?
+
+00:37:03:12 - 00:37:21:12
+不明
+And the way that we look at that, the framework is across three areas, right? A value realization. We look at capacity created. So you could say with our SAS example that we brought up, if you can deliver that many journeys with the same number of crew or fewer, you've created a ton of capacity. In fact, they can probably deliver as many journeys as they can imagine, right?
+
+00:37:21:12 - 00:37:39:34
+不明
+But sometimes we also have just flat cost saved, right? So this comes up a lot if like we move to a new platform and we can retire a server or we don't need to entire IT delivery teams to help us with something, right? All of a sudden those costs are saved or those resources can be used elsewhere. And then at Vanguard, it's important we also measure risks mitigated.
+
+00:37:39:39 - 00:37:57:12
+不明
+So we think about that. For example, if we are sending messaging to advisors that we aren't supposed to be sending, that's a big risk that erodes trust in some cases. If it's a risk and we break that trust, you can be fined, right? So we're actually also measuring that value of the risks we're mitigating using these tools. Right.
+
+00:37:57:12 - 00:38:19:04
+不明
+Just not having it be manual is going to mitigate risk because I'll just make a mistake if I'm the one putting the list together. So we look at that across the board. We do that with more than our martech martech investments. And we what I love about that process of talking through value realization for a tool like a CDP is, it opens up the discussion between martech and IT and the marketing teams on that business value.
+
+00:38:19:04 - 00:38:40:17
+不明
+And that's the that's the language that all the marketing leaders speak. Right. Well, it actually puts real numbers on something where in the past year, like it's going to be awesome. Well, this like actually gives us numbers to show what that awesome is and lets them think out in the future about what that means for them, other investments in it, and in martech that are going to help them achieve their goals.
+
+00:38:40:17 - 00:38:57:11
+不明
+So what I've loved in the role I sit in and the enablement is the conversations that value realization generates, that bring it up a level from like the team deep in the weeds, building out the tool to like. Now what is the impact of having brought this tool in?
+
+00:38:57:16 - 00:39:16:49
+不明
+As I'm all right, this is the more fun part then you can hear a little bit will be a little bit vulnerable about what we learned in this process. So some tips and tricks. And this is really from that. I think we could all look at CDPs, people process and tech. And a lot of this is less about the tech and more about the people and process.
+
+00:39:16:49 - 00:39:45:52
+不明
+And it's fun to like, see all the amazing things that are coming out right, and all the technology. But in the end, all of you have to go back to work and work with the people and change the processes and do the change management to actually bring any of this to life. And so the position that I'm in and martech lets us see what it takes to achieve that change management support that comms support, and to help teams through that tough change process to ultimately see the other side of it and deliver the value.
+
+00:39:45:57 - 00:40:03:43
+不明
+So the big thing I would say is like the CDP is not going to come in and like solve everything. And I think probably those of you in the room know that, but your colleagues might not know that, your leadership might not know that. So it's about really getting granular on like, we can bring this in and solve for these use cases, but it's not going to magically make your audience strategy up here.
+
+00:40:03:48 - 00:40:18:30
+不明
+We're going to still have to build that out. We have to use the brains of all of the awesome people on our team to do that. We touched on it quite a bit, but both Fass and IAG, these businesses spent a lot of time upfront to build out some really solid use cases, and they partnered with MarTech on that.
+
+00:40:18:30 - 00:40:34:40
+不明
+They sometimes partnered with partners on that to really get the thinking straight, because it's not always the way that your marketing teams are thinking. And that use case way there would just be like, hey, we need all the data, right? But it's really hard to measure how you did if you just put all the data in and, and didn't have a plan for how you were going to use it.
+
+00:40:34:40 - 00:41:03:07
+不明
+So the use case process took time. In fact, I want to say it took 4 or 5 months for IG. Action will feel the pain of that. I'll tell you about so having time as your friends. So if you can look at the process of bringing on the CDP and do the pre-work, you can say, hey, we're going to start the implementation in Q4 so that we have these two quarters to get ourselves square, make sure the use cases are in place, and we have a change management plan that would be like my strongest suggestion.
+
+00:41:03:07 - 00:41:19:12
+不明
+You're going to have brilliant tech people and you're gonna have brilliant marketers with brilliant ideas. But still, when the tech comes in, they have to know how to use it. They have to be ready, right, and be able to manage the new process and the change there. So invest that time. If you have that time, that would be my biggest recommendation.
+
+00:41:19:17 - 00:41:34:57
+不明
+So your speed of adoption is going to be impacted. So if you just bring it in immediately, your marketing leaders are going to say, okay, like what are we getting for it? Well, if you weren't ready and you didn't put in the time for the use cases and the change management and communicating with everybody you're going to have, it's a bad look.
+
+00:41:35:11 - 00:41:54:00
+不明
+I want to be able to say, we think we're going to actually see value by Q1 of next year, because we put in all the work in advance. So what about pitfalls? And I think this will go to sort of some of the structure at Vanguard and how all of our teams work together. So our enterprise martech team, we don't do the campaigning.
+
+00:41:54:00 - 00:42:10:19
+不明
+We're not the users of the tools, we're building the platforms and we're enhancing the platforms. And we're thinking enterprise level. How can we set this up so that everybody gets value? Our marketing teams have their own local IT teams that support them to take it the last mile. Right. And you need that partnership of that local IT team.
+
+00:42:10:31 - 00:42:29:22
+不明
+You need partnership. If that local, it doesn't have the data and analytics people and they sit separately. You need those people. Right. And so what we learned is if we don't involve all the stakeholders that are going to help make it successful from the start, we are going to be delayed. We are going to struggle because everybody knows and that IT space for all have different roadmaps and different budgets.
+
+00:42:29:22 - 00:42:48:34
+不明
+Right. And you'll run into an issue where you're not aligned. So if you can bring everybody from the beginning along on the journey, you can communicate with them at the right level. That's going to help you save time. Consider that architecture upfront. I showed a little bit of the picture. But don't just go into and say, hey, we got the CDP, but think about future proofing it.
+
+00:42:48:34 - 00:43:06:43
+不明
+What does it look like to add it to your broader architecture? What is your Northstar goal in the future as you bring on more and more tech? You know, maybe you're at the beginning of the transformation, maybe you're at the end. But think about that. So that means you're going to need partnership from everybody as IT teams, those data and analytics teams, your marketing team right to plug in the right way.
+
+00:43:06:48 - 00:43:26:07
+不明
+We talked about this a couple times already. But don't bring everything into the CDP. Just start with the data you need for your very well defined use cases. It's very difficult to back it out. So if you throw in a whole bunch of stuff and then your marketers can't actually segment because it's a mess in there, it's very difficult to pull it back out and then be thoughtful about all the teams that could benefit from the CDP.
+
+00:43:26:07 - 00:43:43:09
+不明
+So I'm sure your heads down on whatever team you support or the team that you're on. But at Vanguard, we have a couple different groups that use B2B data, not just the IAG marketing team that's represented here. And so if there are other stakeholders that are going to come after and benefit from it, bring them along on the journey, even if they're not ready to be using it.
+
+00:43:43:13 - 00:44:01:09
+不明
+And we've come across that already in B2B, CDP and institutional marketing is just a couple months young, and we already have other teams that are like, I have use cases, when can I use it? We're not ready today, but can I do it in 2026? So think about bringing everybody along, making sure people understand what you're doing and why you're doing it.
+
+00:44:01:13 - 00:44:17:36
+不明
+Because you might come to find later an entirely other team can get benefit from it, which just increases your ROI on bringing in the tool. And then one thing we learned in martech, right, is that we need to be really clear on what the handoff is. So I explained some of our structure. It's that at some point we say, here's the tool.
+
+00:44:17:36 - 00:44:39:16
+不明
+Now we've helped you learn how to use it. You moving forward. But when does that handoff occur and to whom. And that's going to vary depending on how your teams are structured. But think about that. What's the end state like. What's the definition of done. Because for CDP it's tough because you've all partnered together for any number of months to deliver it, and then you're looking at each other like, well, now I need a new data set.
+
+00:44:39:16 - 00:44:54:16
+不明
+Can you help me? Well, if that's not how you intend for it to go on and be sustainable, think about what that end point is and kind of set it up upfront so that you're communicating it. And everyone's really clear on what that looks like, so that it can then go live on and deliver value for all those marketing teams.
+
+00:44:54:21 - 00:45:15:20
+不明
+Okay. So we we we might have to move quickly. Right. But and run. Let's run because I want to make sure there's time for questions. If there are questions yeah. Just one quick. So yeah. So you know we talked about evolution of B2B data just becomes it's always been important. But now with AI you know, what's it that work off of data.
+
+00:45:15:25 - 00:45:39:45
+不明
+Right. There's another reason, to get the data house in order. And, you know, we offer a solution that does that. We have one CDP, it has two editions. But really the B2B edition is a superset. It, it it has everything that's in the B2C edition, plus the ability to deal with accounts, buying groups, all those objects that we have to live with in the B2B world.
+
+00:45:39:50 - 00:45:57:47
+不明
+And my oh my takeaways. Yeah. Again we talked we said this upfront, but really the CDP can take your complex data and turn it into an easy to use way for marketers to create those precision audiences that really move the needle right, that go from our batch and blast world tier. I'm sharing the right content with the right person at the right time, which we hear over and over.
+
+00:45:57:52 - 00:46:17:07
+不明
+But for B2B, that's actually super important. These are not millions of people that you're you're actually communicating with. It's just a handful. So giving them that right thing is could be the one factor in getting that conversion, moving down the funnel, helping the sales teams. That that's the second one on here. Right. Number four, audiences don't have to be massive to get big business value.
+
+00:46:17:07 - 00:46:38:40
+不明
+So you might be sitting here and saying, well, you know, I know my hundred and 50,000 advisors. This really necessary for me. If you have a complex ecosystem like what we talked about. Yeah, it could really help you. And then, don't skimp on the pre-work. I know I hit on that really hard, but really do spend that time upfront to think about it so that you're ready to hit the ground running when the tool has been put in place and the capabilities are there for your marketing team.
+
+00:46:38:45 - 00:46:55:53
+不明
+Yeah. Cool. Yeah. And I think, you know, one thing I meant to say before, and you guys are beginning to use it in the consumer side of you, are we are. Yeah. Vanguard's using it for B2C as well. So and that's its own other set of use cases and journey, but very focused on hyper personalization, which we've heard about at a lot of the keynotes as well.
+
+00:46:55:54 - 00:47:15:52
+不明
+And to the, to B2B, divisions are really very different in kind of their go to market, but it's the same CDP underneath all of it. Yeah, yeah. If you have a chance to take the survey, win prizes, fabulous things. We got one more day left. I just want to let you know we're not done yet.
+
+00:47:15:52 - 00:47:36:54
+不明
+We have more sessions. I'm going to call out, to hear. See, that's really interesting. One that that gets into the role of a CDP and protecting data privacy and managing that. And then, the Red hat session at the very bottom. I know it's a tiny logo there. Chris from Red hat's a great speakers and sessions with us before Eric Rucker.
+
+00:47:36:54 - 00:47:58:03
+不明
+If there's a father of the B2B CDP, it's Eric Rucker. He's the overall product manager, for the B2B edition of our CDP. And what they're talking in there is about companies, not all this doesn't apply to all companies, but they're using both for B2C purposes and B2B. And there's some cross value you can pick. So I'm gonna use a different example.
+
+00:47:58:03 - 00:48:20:33
+不明
+But like a telco company that maybe has a business relationship with somebody, but they also have a phone line with them on a personal basis, like how can they use what they know over here to influence their marketing over there? Things like that. So that's an interesting one. And then outside of the core data management CDP place is the broader B2B ecosystem and applications there.
+
+00:48:20:38 - 00:48:43:58
+不明
+Pitch Books got a great presentation on on marketing attribution and the evolution of measurement. We have a session with Adobe that's Adobe's, our marketing team. And how they're using Adobe products to do our own marketing to market to all of you. And then Qualcomm, Qualcomm. I started off with how last year we had to implement sessions, and now it's kind of value acceleration.
+
+00:48:43:58 - 00:49:04:10
+不明
+Qualcomm's an example of that. They did a session last year on on B2B CDP implementation. This year they're taking a different tack. They and they submitted two sessions to us. One was to do something similar to what needed it, which is like, let's come back and talk about the progress we've made on CDP. And they also offered to do a marketo session.
+
+00:49:04:10 - 00:49:20:27
+不明
+These are two Marketo rockstars presenting from Qualcomm and Proficient. So we took them up on the Marketo on this time. But that's another one I would I would recommend to you and that's it okay. Thank you everyone. Thank you thank you thank you for.
+

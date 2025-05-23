@@ -1,0 +1,160 @@
+00:00:00:01 - 00:00:29:16
+不明
+Everyone. Welcome to today's session. I am Sam Arora, a senior product manager at Adobe Experience Platform. In this session, we will explore key tips and best practices to help you maximize the value of data distiller, enabling you to transform data efficiently and derive impactful insights. So let's get started.
+
+00:00:29:19 - 00:01:04:04
+不明
+To set the stage for today's discussion, let's take a look at these images. A chef and a musician, both masters of their craft, shows that while tools are important, the true excellence comes from expertise and precision. Similarly, Data Distiller provides the tools to refine raw data, but the real value comes from applying strategic thinking to turn data into actionable insights.
+
+00:01:04:06 - 00:01:40:23
+不明
+Let's take a closer look at what this means in practice. Just as a chef blends perfectly well ingredients to create a masterpiece, data must be refined to unlock real value. And guess what? When done right. It's not just structured data. It's an orchestrated experience. Data distiller enables this transformation, making raw data actionable. And here's what we will cover today.
+
+00:01:40:25 - 00:02:12:19
+不明
+We'll explore data distiller overview, its key capabilities including derived data sets, SQL insights, and AIML features pipeline followed by a real world RFM based sequel. Audience use case. And then we'll dive into some of the best practices for efficiency. Let's begin with an overview of Adobe Experience Platform data distiller.
+
+00:02:12:22 - 00:02:46:24
+不明
+Before diving into the best practices, let's first understand where Data Distiller fits within the Adobe experience Cloud ecosystem. It's an add on skew that enables data curation and transformation, ensuring that data is optimized for downstream applications. Now let's take a look at its impact.
+
+00:02:46:27 - 00:03:27:28
+不明
+Data distiller enables you to explore, prepare and curate high value data to create data sets that can be directly leveraged by downstream applications like real time CDP Customer Journey Analytics or Adobe Journey Optimizer. By automating this data set creation, data Distiller not only saves time, but it ensures that data is ready for analysis. This makes it easier to generate insights derived AI ML workflows, ultimately improving the decision making across your business.
+
+00:03:28:00 - 00:03:40:03
+不明
+Now that we know about its role, let's see how data Distiller turns raw data into defined, actionable insights.
+
+00:03:40:05 - 00:04:19:27
+不明
+Data distiller is very carefully positioned after the data ingestion phase, where raw data enters the platform and once ingested, data distiller transforms, cleans, and curates this data to make it actionable. It automate the creation of high quality enriched data sets that are ready for analysis. And from there, the curated data flows seamlessly into downstream applications such as RDC, CDP, agile and CGA, where further insights and actions can be derived.
+
+00:04:19:29 - 00:05:08:02
+不明
+Essentially, Data Distiller acts as a bridge between your raw data and actionable insights. Preparing data for advanced analytics and workflows. Raw data is like unprepared ingredients. It needs some kind of processing. That's why Data Distiller enables you to do data transformation that converts your raw data into structured format. That can be easily analyzed. Next, with data processing and enrichment, you define the data by applying filters, transformations, and business roots, ensuring it meets specific business needs.
+
+00:05:08:04 - 00:05:51:05
+不明
+Now what? Once your data is processed, the data seamlessly integrates with downstream tools ready for customer engagement strategies. And finally, data distilling enables AI ML optimization, allowing organizations to extract maximum value from their process data for better decision making and personalization. Now that we know how it helps, let's see what data distiller does, and let's also explore how to use its capabilities effectively.
+
+00:05:51:08 - 00:06:25:01
+不明
+Data distiller essentially has three core capabilities. Derived data sets. It enables you to create custom sized data sets for targeted analysis, such as audience segmentation. Or if you want to do churn analysis, you can do all that by creating derived data sets with SQL insights. You can use Query Pro mode to write SQL queries, visualize data, or simply just integrate the data with BI tools like power BI and W.
+
+00:06:25:03 - 00:06:55:13
+不明
+And lastly, with AI and ML feature pipeline offering, you can enrich ML workflows using curated data along in Data Scientist to compute features, train models, and deploy predictions seamlessly. If you would like to learn more about any of these capabilities, please follow the link shared in Read More section. Now let's see these capabilities in action with an RFM based sequel.
+
+00:06:55:13 - 00:07:45:08
+不明
+Audience use case. Let's start by taking a look at Luma Stores business. You Must Store is a leading sports fitness apparel brand that caters to health conscious individuals and athletes. The goal is to enhance marketing effectiveness by sub segmenting customers and personalizing engagement, ultimately improving targeting and driving growth. Currently, their approach is broad, generic, and lacks personalization. A more refined strategy is needed to improve retention and customers lifetime value.
+
+00:07:45:11 - 00:08:28:14
+不明
+You must choose. Future marketing strategy will focus on enhanced segmentation instead of just using demographics. Focus on using behavior and transactional data to understand your customers better. Imagine you are the marketing manager at the Luma store. What would be your goal? Your goal should be to build a marketing strategy with meaningful customer segments. And for this purpose, you aim to target customers based on their past behavior using RFM segmentation.
+
+00:08:28:16 - 00:09:08:14
+不明
+RFM stands for recency, frequency, and monetary. It's a data driven approach to do customer segmentation and analysis. By leveraging RFM, you can send personalized messages and you can additionally offer tailored rewards. And you can additionally unified omnichannel experiences for your customers. Let's learn a little bit more about RFM. RFM segmentation classifies customer based on three factors. Recency. Recency.
+
+00:09:08:17 - 00:09:51:00
+不明
+God. Gorgeous. The time elapsed since a customer's last purchase. Providing insights into engagement levels and future transaction potential. Frequency. Frequency assesses the frequency of customer interactions serving as an indicator of loyalty and sustained engagement. And lastly, monetary monitoring measures the total spending of customers, emphasizing their value to the business. By using these three factors. It allows you to do more precise targeting.
+
+00:09:51:02 - 00:10:33:22
+不明
+The combination of these three factors R, F, and m, enables businesses to assign a numeric scores to each customer, typically on a scale from 1 to 4, where lower scores signify more favorable outcomes. For instance, a customer scoring one in all categories is deemed to be the champion, showcasing recent activity, high engagement, and substantial spending. Conversely, customers scoring four are at risk because they signal potential churn in the near future.
+
+00:10:33:25 - 00:10:43:13
+不明
+Hence, these three factors helps us to improve marketing, personalization.
+
+00:10:43:16 - 00:11:15:25
+不明
+Building an RFM audience is like crafting a perfect dish. It follows simple func steps. First, you need to select the ingredients. Second, you need to enhance the flavors by adding herbs, spices, or any of your special technique. Then you simply measure and mix your ingredients to create the desired flavor. Now you let it cook on low heat to develop those flavors that you are looking for.
+
+00:11:15:28 - 00:11:54:03
+不明
+And lastly, once it's ready, you plate and serve the dish. Let's apply the same structured cooking approach to building a narrative film audience. In Data Distiller. First, you connect to the data lake to identify relevant data sets. Just like you select your ingredients, then you enrich your data, which means you apply filters and do required data transformation. Just like you enhance those flavors by adding herbs and spices.
+
+00:11:54:05 - 00:12:34:25
+不明
+Next, you set segmentation criteria and write quality data to the lake. Just like mixing and measuring those ingredients, then you just simply schedule your batch processing for automated hydration. Just like you let it cook, add some. And lastly, you activate your audience just like you played and serve that dish. By following this structured approach, you ensured that the audience is as refined, as impactful, and as effective as a perfectly crafted meal.
+
+00:12:34:27 - 00:13:10:11
+不明
+So let's go and see these steps in action. Before cooking, a chef checks their ingredients. Data selection is similar. Accessing the data lake ensures quality data sets for segmentation. Just like a chef, taste the ingredient before cooking. Data validation works the same way. You just need to run a simple Select query and it will help you to inspect, validate, and analyze data to ensure that it has been accurately translated.
+
+00:13:10:18 - 00:13:36:28
+不明
+During the ingestion process, this process helps you identify any discrepancies, inconsistencies, or missing information in the data. Even before you commence segmentation. Isn't it amazing? In this example, Luma web data is the analytical data set for the Luma store.
+
+00:13:37:01 - 00:14:26:16
+不明
+Now that you have the right data, it's time to refine it. Data distiller enriches raw data, applying transformations for better segmentation. Just as a chef balances the flavor. You can fine tune customer segmentation using RFM metrics. In this step, you analyze the customer's then customer's last purchase, how often they buy, and how much they spend. Much like existing flavors for one of your signature dish, by dividing RFM scores into dryers, you can classify audiences based on marketing goals.
+
+00:14:26:18 - 00:15:07:13
+不明
+Just like a chef categorizes ingredients for different recipes, you classify customers using the entire function. For RFM model and divide data into equal size groups. Here, it segments customer into four quadrants based on their RFM scores. Helping identify VIPs are the champions and those who need the engagement. The top quartile with value one features VIP customers, while the bottom quartile with value four signals those needing the engagement.
+
+00:15:07:15 - 00:15:15:07
+不明
+This helps you to create VIP and re-engagement segments. Easy.
+
+00:15:15:09 - 00:15:48:24
+不明
+Now that you have the RFM scores, let's enrich customer profile. Before we dive into audience creation, let's define segmentation criteria and write curated data into the profiles tool. Just like precisely measuring ingredients for a recipe in Data Distiller, you can run a SQL query to create a profile enabled data set and then insert RFM segmentation data into that data set.
+
+00:15:48:27 - 00:16:16:24
+不明
+Just make sure to mark user ID as one of the primary identity. This will help you ensure seamless integration with profile and identity stores, which will further help you in future to do activation. To keep segmentation updated. You can simply schedule queries for automation.
+
+00:16:16:27 - 00:16:56:28
+不明
+Just like setting a timer in the kitchen ensures perfect cooking, scheduling queries ensures that profile gets updated automatically. You don't have to worry about it to automate SQL execution. Simply select a query template, set its execution frequency, and save the schedule profiles. Stay updated at all times and no manual effort is required. Moving on. Just like a recipe guides a dish, structuring an audience ensures segmentation works efficiently.
+
+00:16:57:00 - 00:17:38:00
+不明
+Define your key features and segment customers based on behavioral patterns, ensuring smooth audience activation. Plating and serving completes your meal. Activating and audience completes segmentation with just a few SQL queries. You can create audience schema and make sure to define key attributes like user ID orders, total revenue value, and whatever you need to know. And then you can simply insert RFM segmented customer data into the audience schema.
+
+00:17:38:02 - 00:18:15:06
+不明
+Remember, the audience created by sequel is automatically registered under Data Distiller origin, making it ready for the activation. Also, when no longer need it, just use the syntax drop audience to remove outdated segments. Now that the audience is ready to be used in real world marketing campaigns, sequel created audience are automatically registered in Data distiller origin and can be activated instantly in Amazon S3 or SftP or Azure.
+
+00:18:15:08 - 00:18:25:22
+不明
+No extra setup is needed. It's all ready to go for personalization and targeting.
+
+00:18:25:25 - 00:19:00:19
+不明
+Now let's shift gears to best practices for maximizing data distillers potential. The very first thing that you should remember is that choosing the right tool is a key query service. AD hoc is best for quick on the fly data exploration and validation. On the other hand, and literally the other hand of this lady data distiller is built for more complex, large scale data processing and schedule transformations.
+
+00:19:00:21 - 00:19:36:09
+不明
+A key tip is to avoid running complex transformations in ad hoc queries. Instead, simply schedule them in data distiller. This will help you to optimize performance and it will ensure efficient use of your resources. Just like a chef how a chef preps ingredients in advance rather than rushing in the middle of service. Now, before we dive into this best practice, let's first define compute dollars.
+
+00:19:36:11 - 00:20:10:24
+不明
+Compute hours measures the query processing time. The larger the query, the more it consumes. Just like a kitchen where smarter prep saves effort and inefficiency leads to wastage. To optimize scheduled queries, instead of running them in ad hoc mode or instead of running them manually. Use the snapshot clause to process only newly ingestion data. Avoid reprocessing of data unnecessarily.
+
+00:20:10:27 - 00:20:29:08
+不明
+This ensures every single compute power is used effectively. And now let's look at some of the more key best practices for optimizing utilization of data. This.
+
+00:20:29:11 - 00:21:08:01
+不明
+Use query quarantine to isolate failing queries, but pair it with other troubleshooting manual methods. Data distiller today supports PostgreSQL. Python execution is not available. Be mindful of your data export limits based on your licensing entitlements. Additionally, Data Distiller supports advanced ML through SQL commands. You can create models, evaluate them, and make predictions directly using SQL. Making it a more powerful tool beyond just querying.
+
+00:21:08:03 - 00:21:55:07
+不明
+And lastly, check out our experience League for more tools, guides, and best practices. Now let's quickly recap. Before we wrap up, here are the final takeaways. Data distiller transforms raw data into actionable insights, and some analysis helps segment customers for personalized marketing. And lastly, best practices improve efficiency and optimize resource usage. Applying these strategies will maximize data distillers potential and enhance data driven decision making.
+
+00:21:55:09 - 00:22:34:16
+不明
+Moving on. I would like to thank you for your time today. With Data Distiller, you now have the tools to turn data into actionable insights and derive impactful decisions to help you get started right away. The first link provided here helps you to execute the use case that we just discussed today. Additionally, to get you started, it provides you with the sample data in CSV format followed by SQL queries to run the real world use case that we just discussed.
+
+00:22:34:18 - 00:22:43:23
+不明
+And lastly, it gives you a step by step guide to help you execute. So just dive in and explore. Thank you.
+

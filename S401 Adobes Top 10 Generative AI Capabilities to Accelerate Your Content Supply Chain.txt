@@ -1,0 +1,520 @@
+00:00:04:16 - 00:00:16:05
+不明
+Okay. I think we're going to kick it off. We've got a full session today. Super excited to be with you and take you through our top, innovations as part of the content supply chain.
+
+00:00:16:08 - 00:00:39:16
+不明
+Great. Thanks. My name is Etienne Boston. I'm a group product manager here at Adobe. And I'm specifically over the Gen studio solutions of focusing on our roadmap around AI and our strategy for that. And I'm Stephanie Walker, and I'm a personalization content strategist at Lenovo. And I focus mainly on lenovo.com. Great. Thanks Steph. Good to have you here.
+
+00:00:39:18 - 00:01:01:02
+不明
+So in terms of content we're going to start off by really educating you on what is the Gen Studio solution. You've heard a lot of keynotes presentations today talking about it. And we want to break that down so you can truly understand what is it that we are giving you to solve for the content supply chain? Beyond that, we're going to talk about how Adobe's uniquely solving and how we are approaching AI.
+
+00:01:01:03 - 00:01:20:02
+不明
+And again, you've seen a lot of keynotes, and we want to see how that fits into the content supply chain. But with any new technology we recognize barriers to adoption. So we're going to talk about how we're solving for that and how Lenovo sold for that. And then we going to hear how Steph and her team use the Gen Studio solution to streamline their content supply chain.
+
+00:01:20:02 - 00:01:46:10
+不明
+And then we're going to go into the top AI innovations that is available today and coming soon. Now this is a roadmap presentation and some of the content is subject to change, especially dates. What we're showing is a plan, not a commitment. Okay. So content supply chain. You've heard about this a lot before. And if you've attended, Adobe sessions in the past, I'm sure you've seen a slide like this in fact, I'm sure you've seen it this week.
+
+00:01:46:12 - 00:02:13:08
+不明
+We know we're all being asked to do a lot more with a lot less. We need to produce more content and do it while we're maintaining personalization and staying at scale. And that's never been prevalent more than it is today. But one thing I want to call out on this two specific points of it is firstly, personalization. Never before, through the power of AI have you been able to personalize content as you have today, and then also scale.
+
+00:02:13:08 - 00:02:30:21
+不明
+You've never been able to scale as much as you have been using the power of AI. And the technologies we're going to show you today is going to prove how we do that. And this is all important as we see an increasing market drive for more demand. Now, if we say demand, what do we mean? Well, let's look at an illustration.
+
+00:02:30:24 - 00:02:50:09
+不明
+Again, I'm sure some of you seen this. If you think about your organization and the various products you have, you have a lot of products that goes through various channels. It goes through various markets, variants and refreshes. And as you start adding up the numbers, it gets significant. How do you stay ahead with this? Now Steph, I know you guys went through a similar exercise.
+
+00:02:50:09 - 00:03:11:17
+不明
+Is that right? Yes we did. So I'm going to give you some more real numbers than that. So basically if we take all four of our products and we want to push it out to eight marketing channels, that number increases. And then from there we're translating it into four different languages. So that also gives you that many more individual assets.
+
+00:03:11:17 - 00:03:41:08
+不明
+And then at the very end we're actually pushing it to seven different variants. So you can see how quickly those numbers add up. And to me this diagram helped me understand what content and scale really meant. Yeah, that's significant numbers. And I'm sure if you do your own calculations you'll come up with similar amounts. Now I can help us solve this, but even with AI, if you have a broken content supply chain, you will not be able to actually streamline the process.
+
+00:03:41:08 - 00:04:07:10
+不明
+In fact, you might exasperate the issues and challenges. You might be moving the bottleneck from one location to another. For example, if you're increasing more content at scale, how do you even approve at scale? To give you one example, it's going to ultimately lead to more questions and way more frustrations in your organization. Now Adobe has a solution, and we have it through what we call our five building blocks, what you see on screen.
+
+00:04:07:10 - 00:04:25:10
+不明
+So we've got workflow and planning. You get creation and production. You get activation and delivery. And then at the heart of it all you've got asset management. And across the full spectrum you obviously want to gain insights around that. And we have a better way of illustrating this. And again, this is something you might have seen is through a mocha texture slide.
+
+00:04:25:10 - 00:04:42:26
+不明
+Now when you take a look at first you're like, whoa, this is overwhelming. But let me simplify and break it down for you guys. So let's start off with the five building blocks. So across the top you've got workflow and planning and work front is the solution that helps you this that helps you orchestrate the work across the entire content supply chain.
+
+00:04:42:28 - 00:05:06:02
+不明
+When it comes to creation and production, you're all familiar with the various tooling through Creative Cloud Express, fireflies Services, and Frame.io, then Asset Management through our Am assets and experience building with sites and then for delivery and activation, we natively integrate with a number of our delivery solutions like Marketo and Campaign, but we also allow third party integrations.
+
+00:05:06:02 - 00:05:28:12
+不明
+We recognize a lot of customers use their own unique custom delivery methods. And then on the far right side, we've got the newly announced content analytics. And we going to talk more about it. But it's really revolutionizing how you can truly understand what your customers are doing and the performance it's giving you to make better guided, decisions around future performance and campaigns.
+
+00:05:28:15 - 00:05:56:00
+不明
+Now, beyond that, we've got what we call our modules, and we've got one module today available through our Gen Studio for performance marketing. And we're going to hear how Staffan and Nova use that to truly revolutionize how they produce their paid media materials. Beyond that, we also have our general studio for Creative Production. This is something that's in the works, and what it's really focusing on is producing content at scale, and we want to continue adding modules to this to wrap it all around.
+
+00:05:56:00 - 00:06:19:07
+不明
+We've got our Gen Studio Foundation now. This is also a newly announced item, and it's essentially your home to the Gen Studio solution, something we've never had before. It's the single pane of glass where you can go in and see all the workflows and unified services that comprise your Gen Studio solution, and we'll talk more about that. And then obviously spanning across all of that, we've got our Firefly models, which is integral.
+
+00:06:19:14 - 00:06:38:17
+不明
+And this gives you the full view. So this is what we talk about our mocha texture stack. This is going to continue expanding and growing. And you'll see more of this in the future. So now that we've defined what is the Gen studio solution is one quick call out. I see a lot of confusion when I talk to people when they say Gen Studio versus Gen studio for performance marketing.
+
+00:06:38:19 - 00:07:07:13
+不明
+Gen Studio Solution is everything you see on screen. Gen studio for performance marketing is a module. It's a product within that, and we're going to tell you more about it and you're going to see us define them. Use that. Okay. So what is Adobe's unique approach to generative AI? So our vision is extremely simple. We are a lot of talk around how I was going to help us creating copy content and various formats across the spectrum, and it's going to support the entire journey in life.
+
+00:07:07:21 - 00:07:36:29
+不明
+And we truly seeing this revolutionizing how organizations operate and the way we're going to do it is we've got over a decade's worth of innovation on building on AI and building it into the various solutions that is available inside of Adobe, across the entire technology stack spanning data, modules, as well as apps and interfaces. AI is only as good as the data is trained on, and Adobe has a lot of feature rich creative data that we've built this, these AI technologies on.
+
+00:07:37:02 - 00:07:54:15
+不明
+We also have strong partnerships with third parties in areas where we not well experience for our models, but we also have built out our strong, well-versed models in the areas that we really experienced in. But truly, the only way you can unlock AI is through the way it integrates into your user interface and the toss workflow as you do.
+
+00:07:54:15 - 00:08:16:05
+不明
+And we've done this through the various technologies that are available through ranging from Creative Suite through to some of the other delivery products. Now we see a shift in how A is happening. And you guys saw a lot on the keynote today about our genetic framework. It's really moving from singular toss of automation through to, solving roles and goals, of a collection of tasks.
+
+00:08:16:06 - 00:08:38:21
+不明
+It's really moving from where humans can set a deadline and an objective, and I can take control and do that for you. And we humans can focus on the more strategic aspects while we have AI take over these repetitive tasks. And ultimately, the way we want to do it is through this new, experience platform. Again, orchestration. You saw MITs and the team demonstrate that today.
+
+00:08:38:23 - 00:08:58:11
+不明
+Now, I know some of you might have confusion around this. We're still adopting it. I'm going to I'm going to keep it super simple. Today. We've got ten agents that form part of the orchestration model. Two of those agents is part of content supply chain. And we're going to cover those two. We have the workflow optimization and the content production agency.
+
+00:08:58:11 - 00:09:15:16
+不明
+You're going to see how they fit in and how they're going to help you produce and streamline this content supply chain. This agent orchestration module is all about organizing and coordinating your agents, and you're going to see us adding more and more agents as we go on, and also show you how you can help use those to streamline the process.
+
+00:09:15:19 - 00:09:39:27
+不明
+So with that is background, let's now take a look at the adoption barriers. So any new groundbreaking technology is going to come with a lot of, you know, resistance. And if you think about it if we think about a three main personas, what does it mean to you? I'm sure everyone in the room, if you look on screen, you're going to have similar questions when you start embarking on this journey, for example, IT operations for you.
+
+00:09:39:27 - 00:10:01:15
+不明
+It's super important to understand is it compliance? Is it going to hinder your workflow as you move into an AI space? Is it commercially safe for our marketing teams? It's all about strategy. I had a lot of meetings with customers the last few days, and honestly, hardly anyone had an AI strategy. So for you to be successful, it's super important to consider that.
+
+00:10:01:19 - 00:10:21:17
+不明
+It's also how do you maintain personalization as you move from manual processes to AI processes? And then for our creative teams, obviously the job roles as is at the forefront of their concerns, can they maintain they stall an intellectual property. How do they do that. Now Steph, you guys had some of the questions when you approach your AI journey.
+
+00:10:21:17 - 00:10:46:19
+不明
+Absolutely. And that was really more around the creative teams. There was a lot of resistance. There was a lot of questions. And the one thing that we were really able to talk about was the fact that our business model, as probably most business models, don't really allow for that. We have a lot of rules and a lot of laws that we have to abide by, especially internally at Lenovo.
+
+00:10:46:26 - 00:11:16:00
+不明
+So all of our content comes directly from Lenovo, from our business units. The content has to be approved through our guidelines. Same with any kind of imagery. It's all brand guidelines. So that helped kind of ease the anxiety. So basically the creations are your own and everything that is created is the kind of the basis for anything that AI takes over.
+
+00:11:16:03 - 00:11:38:06
+不明
+So that's kind of an anxiety that went away pretty quickly. Yeah. That's fantastic. And I love how you call it ownership. You maintain and retain ownership. And I think that's super important to call out. I'm also have more good news. So Adobe is really thoughtfully implemented AI the right way. So what does that mean. So for our operations in I.T we ensure that every single content is commercially safe.
+
+00:11:38:06 - 00:12:01:19
+不明
+It will never be trained on any third party data. And we ensure you've got full control over how much or how little you adopt from marketing teams. We allow you to personalize the content through the various technologies we have available, and things like Firefly's only trained on permitted content that's commercially safe in the marketplace. And then for our creative teams, we pride ourselves.
+
+00:12:01:19 - 00:12:30:22
+不明
+Adobe specifically prides itself on creators rights through the various authorities we work in, and we ensure that those, those creatives that produce content, for example, for stock, get compensated for those. So this is super important for us, and I'm really excited about how Adobe has carefully gone about this to really ensure that now we've spoken to a lot of customers, especially Lenovo, and we've recognized there's a few key steps you can take to cross these adoption barriers.
+
+00:12:30:25 - 00:12:50:14
+不明
+So it all begins with your strategy. You've got to take a step back and think about how you going to adopt an AI strategy into your organization. Going from manual to these. This new automated world is different. We then want you to advocate and socialize that strategy inside of your organization. With this strategy in place, you've got to think about data governance.
+
+00:12:50:14 - 00:13:11:06
+不明
+Everyone's got controls and processes in place for how they operate with the data and the organizations and various industries. How is that going to work? In an ideal world, we know it's going to be different. Ensure that's also put in place. And with those two there, you can start looking at the people adoption and how you bring them and educating them, especially your creatives and how that works for them.
+
+00:13:11:08 - 00:13:34:25
+不明
+And then across the board and full spectrum of that, you've got full control over how little or how much AI you adopt. So Steph mentioned they produce their own content and they let AI take some of the control there. We recommend you start small and you scale gradually. And then for those really sensitive processes you still maintain strong human presence and foothold on those processes.
+
+00:13:34:28 - 00:14:00:20
+不明
+Now Steph, what are the steps you guys took around that? So the first thing we did is we had to kind of define and create our processes. So we had to we push the technology as far as it would go. We tested it, we learned, and then we documented it. Mainly because we need to be able to pass that documentation on to our web production centers, who are actually going to be doing the creating.
+
+00:14:00:23 - 00:14:24:04
+不明
+The next thing is the actual technology. Basically we needed to get comfortable with it. First of all. And so basically what we did is we are using, Genii. That's part of the creative suite. And then we moved on to Gen Studio for performance marketing. And then we already have a IEM that that's where we store all of our content to be tagged.
+
+00:14:24:07 - 00:14:44:15
+不明
+And then the very last thing and the most important are the people. And those are our, content writers are designers, developers, product owners, marketers, pretty much everybody. So I like the emphasis on the people, because ultimately, the only way you can adopt this technology is through the willingness of your organization to do that. So that that's really great.
+
+00:14:44:17 - 00:15:07:22
+不明
+So now moving on from that, let's start looking at the actual technologies used and how you went about adopting this. Absolutely. And I know one of the big things that we always ask customers is kind of what were the business challenges you had that led to this approach you took with the cloud blockchain? So really, before we could start, we needed to really identify the key focus areas that we wanted to actually focus on.
+
+00:15:07:24 - 00:15:29:11
+不明
+And the first one is basically we need to stay ahead of the competition. What are other e-commerce organizations doing? What can we do better than that we're already doing now? And then, more importantly, how do we kind of set ourselves apart from our competition but do it in a meaningful way? So, the first thing we needed to do is look at our audience.
+
+00:15:29:11 - 00:15:49:14
+不明
+We needed to capture the audience. And the one thing about, the web, especially, is that you have seconds to actually capture someone when they come to your site. So you want to make sure that any of the content that you're giving them is something that they're going to resonate with. And, so it's really important to do that.
+
+00:15:49:14 - 00:16:14:28
+不明
+And then finally, all of that kind of leads us to personalization at scale, because we want to be able to, to, to talk to whoever is coming to our site in a way that is meaningful to them. Okay. So that led us to the final vision, which is basically, what do we want to be when we grow up?
+
+00:16:15:00 - 00:16:58:09
+不明
+That's literally what we said. And we knew that we had to create a web experience that was tailored to each of our customer segments, you know, B2C, B2B, gaming education, and, I don't know, another one. But anyway, so, basically what we did is we just got all of our customer feedback. Our research teams did exhaustive interviews with so many people in so many different segments to where we were actually able to take that information, collated, organize it, and, kind of get get it together so that we could go to our other members of our organization that own different parts of that journey.
+
+00:16:58:12 - 00:17:22:13
+不明
+And then basically, the vision was born, and that vision is an immersive experience that anticipates each visitor's unique needs and seamlessly tailors their journey to bring Lenovo's cutting edge solutions to life. It is a big mouthful, but one thing that is so good about it is that it allowed us to kind of center our focus. What what is it that we're trying to do?
+
+00:17:22:17 - 00:17:48:09
+不明
+And any time that we lose the past, we can just go back and look at this and go, okay, yeah, that's what we're doing. So anyway, we have, well, in order to become really thought leaders in this industry, we really needed a breakout team that was solely focused on this journey. And so we have a team now that's dedicated specifically to personalization at scale.
+
+00:17:48:12 - 00:18:07:00
+不明
+And we also have very promising solutions now to help us solve for those initiatives, one of course, being the Gen Studio universe. And but in order to actually start with that, we needed a really strong foundation. So I love the reference to the Gen Studio universe, but for everyone else, I think we're talking about the Gen Studio solution.
+
+00:18:07:03 - 00:18:28:09
+不明
+So, system. Yeah, sure. Okay. So what I'm hearing is you started small and then you scaled. You said a team of 15 people and they all focus on this AI strategy. Yep. Now, that sounds to me like you, you were almost at the forefront of what I would call an early adopter of AI technology. And so does that mean you've been part of any kind of early access or beta programs for Adobe?
+
+00:18:28:09 - 00:18:48:15
+不明
+Yeah, I believe that we were actually a part of the Gen studio world, at the very beginning. So even maybe before there was an alpha. So we have been there since the beginning, and then we're still there now. And then also our Firefly services. We were part of a beta program for that as well. That's amazing. So this is a quality everyone in the room.
+
+00:18:48:18 - 00:19:09:03
+不明
+We constantly running beta programs being in product. You know, we really encourage you to to reach out to your field team and see how you can get involved. It's really a way we can truly shape and influence their future experiences. So now with that, what are the actual technologies that you guys are using in terms of Adobe? Okay, well, so I've kind of organized this into different sections.
+
+00:19:09:03 - 00:19:36:17
+不明
+So our designers are using Creative Suite and the generative AI apps, I guess within those things. And then our designers and our content creators are using Firefly services. They're using Gen Studio for performance marketing, and we're using, Adobe Express at some points. And then everybody is using. And because that's where all of our content is being stored and tagged, and then all those are really smart people.
+
+00:19:36:17 - 00:20:00:11
+不明
+They use Adobe Target and Adobe Analytics. That's great. So you can see you using a lot of the Gen Studio solution from creation to storage and then the Firefly services. So then how did you go about actually implementing this solution? Well, basically we had to start at the beginning and that is the Lenovo Master brand. Everything begins and ends with that.
+
+00:20:00:13 - 00:20:19:26
+不明
+So that's where the visual library is. That's where we know how to talk to our customers. And that's how we communicate the Lenovo brand to the world. And we have an amazing brand team that gave us so much information to really start focusing that on. And then we have to we had to go deeper than that because we produce a lot of products.
+
+00:20:19:26 - 00:20:43:07
+不明
+We have a lot of product brands, so we also needed to kind of gather up that information as well. So, what I did is I started I started with the 3 or 3 most, I guess, popular and most well known brands. So that would be Lenovo Legion, which is our gaming products, Lenovo Yoga, which is more of our consumer creative brand.
+
+00:20:43:07 - 00:21:04:07
+不明
+And then finally Lenovo ThinkPad, which is more for SMB. It's commercial, it's for it. So that's that's what we're that's what we market to. But today I'm just going to kind of focus a little bit on Lenovo Legion. I'm going to take you through one of those campaigns. So this is for the gamers in the room booth okay.
+
+00:21:04:09 - 00:21:27:28
+不明
+Okay. So the first thing again I'm going to say this forever and hopefully it sticks is foundation. You have to have a foundation. And so we took your advice and went small. We started small. But one of my favorite takeaways from performance marketing is that it kind of forces you to really lay down that foundation before it can even start doing anything.
+
+00:21:27:28 - 00:21:52:02
+不明
+You really do need to define your guidelines. You need to define all of those things before you can actually start so that it knows what to do. So basically what I did for Legion is that, well, first we decided we were going to use Legion as our proof of concept. And from there, I gathered all the guidelines that needed to be in place.
+
+00:21:52:04 - 00:22:22:13
+不明
+And, those are what you see in front of you, sort of is that I was able to take a lot of things that the Legion business unit had already created, and I took out what I needed so that I could actually start that campaign. And it's it was actually a channeled guideline, which you'll learn more about. So anyway, so we did that and then, decided at the very end, what are the locations of our site would be.
+
+00:22:22:13 - 00:22:47:01
+不明
+So we, we decided on to product interrupters. Now for us that's a very similar to a display ad, but it's on our site. And what it it's basically shown where a lot of our product categories are a lot of our individual products where it can show things like, upsell opportunities, like a better model, a newer model, or added services and solutions that can go with that purchase.
+
+00:22:47:04 - 00:23:12:09
+不明
+And then the next one that we decided to do was our home page carousel banners, or heroes. And that does a lot of the same thing, but it also does it. It also communicates things like product launches, holiday sales and also value added services for our segments. So can I just quickly ask a question there? So you spoke about the brand and the brand guidelines, which I'm sure everyone has said.
+
+00:23:12:09 - 00:23:32:16
+不明
+I now the way performance marketing takes that is you can actually take your existing brand guidelines and then bring them directly into the performance marketing solution through these PDF and word document files that we see are so common with our customers. Alternatively, you can just go and manually create them. So it's like a singular place where you can store your brand across the entire Adobe ecosystem.
+
+00:23:32:16 - 00:23:46:27
+不明
+How did you guys go about that? Well, that's exactly what we did. So we were able to take that PowerPoint that I created that just had the stuff that we really needed to use, and we were able I saved that out as a PDF and uploaded it to Gen Studio, and it automatically populated a lot of those areas.
+
+00:23:46:27 - 00:24:06:06
+不明
+So that's all I had to do. Amazing. Yeah. Okay, so we've got the two various channels identified. What happened next. So from there, basically we started doing all of our pre-work. So the first thing was of course the brand we had picked that. And then from there we picked our product, the product that we were actually going to market.
+
+00:24:06:12 - 00:24:32:27
+不明
+And then with our audience, we decided on three different gaming personas that we were going to talk to. And then finally we were able to get the imagery together. And what you see there is two different ones. So basically all of our product imagery, all of our lifestyle imagery is housed in Am. And then a lot of times we actually had to use some generative AI in order to make them work for all of the places we were going to publish.
+
+00:24:32:29 - 00:24:53:08
+不明
+Okay, great. So we've got our brand. And then what I'm seeing is you would then able to enter your product, your audiences, as well as your imagery, which all came from you, and then put that all together. Okay. And then the next step. So then the next step was basic. Well, actually, before I get into the next step, let me show you one of the things that we did.
+
+00:24:53:08 - 00:25:15:13
+不明
+So as I said, our business units had some amazing photography for gaming, but they were all in this ratio aspect ratio. So for our homepage, banners are very wide, so obviously we couldn't use it as is. So we actually were able to go into Photoshop and use generative expand, which what that does, as you can see, is that it pulls the image out, but in a meaningful context.
+
+00:25:15:15 - 00:25:32:05
+不明
+So and then you also have different, variations of that, that you can choose the best one that you want to use. So then we did that with a lot of these photos, a lot of this photography. And then we were able to take those, upload them to the template that was in Jen's studio to start creating.
+
+00:25:32:07 - 00:25:53:29
+不明
+Okay. So that introduces the next component. We spoken about brand are all the various personas. And then the next one is all about templates. So you can configure pre-configured templates for all the various channels, whether it's email, social, LinkedIn and some of the other social, platforms. You configure that directly inside of performance marketing. Okay. So once you had that all in place, what's the end result.
+
+00:25:54:01 - 00:26:09:06
+不明
+So we're just going to now kind of go into product interrupters because that's that's what I want to talk about as far as how we created these things. So again we had all of these great images directly from the business unit. We had between 9 and 12, I believe. And so we picked the ones that we wanted to use.
+
+00:26:09:06 - 00:26:32:22
+不明
+We uploaded them. And then what you see here is the prompting. So you can go one of two ways and I'm sure stuff in the middle to where you can have one prompt that you're, that you're using, and it will extrapolate everything that you've uploaded and create different variations based on that prompt. Or like what we did is we took it, you know, to the infinite level as we like to do in the personalization.
+
+00:26:32:24 - 00:26:58:12
+不明
+And we created an absolute instructions as to exactly what we wanted, exactly how many characters, how many bullets, what the CTAs were going to say, and then pushed it up to the template. And then studio gave us variations based on what you see on the right. So what I want to make abundantly clear if if you can't see it, but on screen, the text box is the white boxes, is the actual text prompts that they use to produce their content.
+
+00:26:58:15 - 00:27:20:08
+不明
+So using these text prompts, you can guide Genii on how it's going to produce those, banner advertisements, whether it's the interrupters or Euro banners in this case. So you can truly influence and inform how that does that. Yes. And then what were the actual results you guys got from this? Well, so before I get into that, I wanted to talk a little bit more about some numbers that are very meaningful.
+
+00:27:20:10 - 00:27:50:08
+不明
+So basically we created ten home page variations to three different gaming personas, as well as ten different variations of the product interrupters. So that's that's a lot of stuff. We did it in about two days using using the platform using JNI. Right. So by leveraging Jennifer imagery and copy, we had a 60% reduction in time that it would take normally to produce these things the old fashioned way.
+
+00:27:50:10 - 00:28:21:20
+不明
+So on a higher level, we really learned that the more variations you put out into the world, you can gather much more information about what users actually engage with. So with multiple variations, we actually, were able to our test experiences were had ten times the engagement of our control. And then our winning test experience actually had 200% more than our test experiences.
+
+00:28:21:22 - 00:28:43:26
+不明
+And we got a significant amount of revenue from that. That's some incredible results. So what I'm hearing is the key takeaway is the more variations you put out, the more audiences you reach with better performance. And through the performance marketing solution, you were able to do that. Yes, but I forgot to say one thing that was really, really cool that I love the most, and that is the proprietary insights that you get from Gen Studio.
+
+00:28:43:29 - 00:29:09:16
+不明
+It's not just about click through or whatever it is about, it's actually taking the imagery that you're using, the content that is with it, and it's analyzing all of that. So you're not just getting how many people clicked on it, you're seeing exactly what imagery and what content resonated the most. So then you can take that and start making variations on that and just keep getting winning experiences.
+
+00:29:09:18 - 00:29:28:29
+不明
+That's amazing. Thank you so much. So now that we've seen how Lenovo has gone about this, let's jump into the final piece around our gen AI innovations. And I a lot of you have been waiting for this. So how we've structured this before is we've got a number of products and then we've got the new genetic framework. So we've got a number of agents and then skills beyond those.
+
+00:29:29:02 - 00:29:47:24
+不明
+Now in terms of what we're covering today, we're going to look at these products, these two agents through our content production agent and workflow optimization agent. And then beyond those, we've got a number of skills now. Right now these skills are independent, but they may fold into some of our agents as we evolve the Gen Z models. Super new.
+
+00:29:47:29 - 00:30:04:00
+不明
+And we still figuring out a lot of these details, but they're going to they're meant to solve for these specific domains. And we'll tell you more about it. To put it very plainly, these are the top ten things a good time to take a screenshot if you want. For your first reference. This is ultimately we're going to talk to you from top to bottom.
+
+00:30:04:03 - 00:30:27:09
+不明
+Now let's begin with the heart and soul of Gen I in Adobe. And you all know this comes down to five fly. Now let me explain a little bit because as I went on my journey at Adobe, I quickly realized I didn't have a good, foothold on what we mean with Firefly. Firstly, the whole Firefly enterprise system comprises of two main components Firefly Services and Firefly custom models.
+
+00:30:27:09 - 00:30:51:23
+不明
+And we're going to tell you more about those beyond them. Firefly is integrated into all these other technologies like the creativity suites, express performance marketing, asset management and content and lyrics to help enable this gen I will. And then they built on top of these models that we set on commercially safe train with only internal stock imagery and anything that is commercially safe.
+
+00:30:51:25 - 00:31:16:27
+不明
+So with that in mind, let's go into those two components of Firefly Enterprise. So firstly we've got the Adobe Firefly services. These are meant to represent the 25 or more APIs that enable you to produce content and do it at scale. So for our enterprise organizations out there, you're able to go and build out your workflows and programmatically introduce Firefly to your workflows to produce content.
+
+00:31:16:29 - 00:31:39:07
+不明
+And it can do a wealth of things, things like text to image, the recent beta, text to video, generative, full generative, expand, removing backgrounds, to name but a few, and it's ultimately there to help you streamline these repetitive tasks and again, doing so on the end to end workflow while remaining commercially safe. Now, if you think about Firefly services, you might still be wondering, well, what does this mean for me?
+
+00:31:39:07 - 00:32:08:11
+不明
+Well, let's look at a couple of examples. Some of the key values you've seen customers use one of the common activities in sort of the marketing creative space is campaign refreshes. You go and produce a campaign for Christmas. Maybe you want to refresh it next year or use the same campaign for something else. Or with Firefly services, you're able to quickly and easily swap out images, introduce new text to, make it conform to that new campaign you want to produce against saving a lot of time and money.
+
+00:32:08:13 - 00:32:28:04
+不明
+Another aspect we've seen where a lot of cost goes into is the concept of translations. You heard about this happening, especially about our text video. Well, with Firefly services, you're easily able to produce one piece of content and then using all the various materials, you can expand that and produce multiple variations in the different regions targeting those audiences.
+
+00:32:28:06 - 00:32:51:21
+不明
+Beyond that, we've got those that are very interested in customer segmentation. Maybe you're targeting different demographic demographics or age groups. What again, with Firefly services, you can easily change the imagery and the content to do that. And then for those repetitive tasks, you're able to go and produce high scale volume and, and introduce and produce files and thousands of those in a matter of minutes.
+
+00:32:51:23 - 00:33:14:25
+不明
+And then lastly, for those that have web portals, maybe retailers, you're able to reconfigure and reproduce a lot of materials using Firefly that can then be loaded intelligently within your web portals for the necessary audiences. Now, these are things that are available today and you can use right now out of box. But what's coming next? Well, let's look at three key items around that.
+
+00:33:14:25 - 00:33:34:17
+不明
+So firstly we've got what was announced on Main stage is the translation and lip sync API. This one is massive. If you think about video production and how you produce your audio, translating those takes a lot of time. And I know this was briefly mentioned on stage, but what do we mean with that? Well, you're able to produce content in one format.
+
+00:33:34:23 - 00:33:56:16
+不明
+And then using the power of this lip sync API, you're able to produce it in other languages. And that'll do it intelligently, looking authentic and realistic, using the same characters in your region materials. Again, saving a lot of costs. Beyond that, we've got the Reframe API and this is targeting our social media users. So again it's important to resource the various formats.
+
+00:33:56:19 - 00:34:17:29
+不明
+And you want to keep a certain subject matter at the center of attention. Well with the Reframe API it allows you to do that again making it look realistic and targeting the right, the right customers and audiences. And then beyond that, we've got for our, consumer goods and retailers, we've got the new substance 3D API. And what this is meant to do is it's to help with the skew generation and stock photography.
+
+00:34:18:06 - 00:34:38:26
+不明
+That, again, takes a lot of time. So using these 3D imageries of your various products, you're able to do high quality, high resolution to 2D imagery, saving you a lot of time and cost associated with those. Now, these are some of the things that are either available today or coming soon, so keep an eye out for those. So beyond Firefly services we've got Firefly custom models.
+
+00:34:38:26 - 00:34:58:06
+不明
+Now the way to look at this is Firefly Services is all about producing and manipulating content. Firefly services is keeping it on brand. If you're working with internal and external agencies, how do you ensure they produce it according to your brand? You give them a brand guideline, and then you've got to go and spend a lot of time reviewing and approving.
+
+00:34:58:10 - 00:35:19:01
+不明
+Or with custom models, you can introduce ten or more of your own imagery and create these custom models that you can then share with all these various organizations, and it's available to see all the various apps inside of the ecosystem. Now, if we say apps, what we have is we've got these applications available today. So you can use it with Firefly services through the new API that's launched there.
+
+00:35:19:01 - 00:35:37:29
+不明
+You can use it with Creative Cloud and the various products. It's available in express and the newly announced at Summit Performance Marketing. So that means when you're producing these content for the various channels, you can keep them on brand. The second key component of Firefly services. Now, this, there's a third component here, which is around our Gen Studio Foundation.
+
+00:35:37:29 - 00:36:09:11
+不明
+So we spoke about this briefly in the market section. Slide. This is your home to your Gen Studio solution. It's the place where you go to see what work is at hand, what workflows are available now we're initially targeting the executive persona. So we're looking at solving things like the, the content lifecycle. How can you see and get visibility into the various stages that your content is at, and then understand insights so that when you go back to creating future campaigns, you can use these insights to produce better performing content.
+
+00:36:09:14 - 00:36:30:15
+不明
+Once we've introduced it for the executive persona, we're going to look at expanding it to all other users. So ultimately, you'll have anyone in your organization to be able to go to this pane of glass and see the work at hand and understand what they need to do. It will be available to anyone with one or more of the Gen Studio Solution applications, so do keep an eye out for something that's coming in the future.
+
+00:36:30:17 - 00:36:55:11
+不明
+Now, the other thing that I want to call out is we are talking about unifying services. Another key theme for the Gen Studio solution is we recognize there is a level of ambiguity. You've got multiple ways of storing assets, you've got multiple ways of reviewing and approving. Well, we want to bring that all together. And we starting to see them doing that now through things like our brand service, where you can go and define a brand once and then reuse it through different products.
+
+00:36:55:14 - 00:37:26:08
+不明
+Similarly, we're going to look at things like custom models, and all of this will be able to be configured inside of the foundation home area. Number four we've got our Gene studio for creative production. And this is something I'm really excited about. This is about producing Firefly content at scale, but doing it without any kind of programing. You're going to have a very simple training less user interface through which you can go and upload some of your materials, provide guidelines on what needs to happen, for example, changing hex colors or removing backgrounds.
+
+00:37:26:14 - 00:37:37:07
+不明
+And it'll automatically produce these for you at scale. So this is something we're still looking at coming probably the second half of this year.
+
+00:37:37:10 - 00:37:54:09
+不明
+Now this is the one we spend a lot of time on with Steph. But I want to really dive deeper on this. This is our Jain studio for performance marketing. The most simple way to put this is this is your one stop shop for all your paid media production. We're enabling and empowering marketers to go and produce content and doing that at scale.
+
+00:37:54:15 - 00:38:17:22
+不明
+They can do everything from defining brands, products, personas through to delivery of this content. And this forms part of our first agenda I want to discuss today, which is our content production agent. The content production agent comprises the Gen Studio Performance marketing solution, and it comes together in three key components. Firstly, the brand I've mentioned this multiple times, but I want you to recognize how big this is.
+
+00:38:17:22 - 00:38:39:14
+不明
+You can now define a brand, your brand inside of Adobe, which is going to drive all the general that happens today. You can do that in performance marketing and in the future we're going to move it into the foundation home area. So with your brand defined, you can go and use these text prompts that we saw with Steph in the team and go and produce ad and media campaign materials.
+
+00:38:39:16 - 00:39:03:17
+不明
+Then there comes another important component to our brand validation service. Now this is something brand new where it gives you an actual scoring. It takes the brand guidelines, it takes the generic content, and it tells you how well those matches. Now, we recognize for any campaign, you might have different thresholds to which you are happy to take it to market, and this will give you guidance on deciding which variations and experiences you want to make available.
+
+00:39:03:19 - 00:39:33:29
+不明
+Yeah, so our content creators may or may not be a little OCD. So it was they were always trying to get it up to 100. But just to let you know, you don't have to get to 100. You define what that threshold is and what's acceptable. And one thing that I did forget to mention earlier that I wanted to is that when you're creating these campaigns and when you're getting them to review that review, time is going to be so much smaller than than maybe it would have been before, because you already have the guidelines up there.
+
+00:39:33:29 - 00:39:54:27
+不明
+You already have the tone of voice. So all that's taken into account. Yeah, that's a great insight. It definitely cuts down on the review and approval having those pre brand guidelines. And I love the gamification I can see myself doing something similar. So wrapping that all together. What that means is you're able to produce content at scale. That's on brand and you're targeting the right audiences.
+
+00:39:54:27 - 00:40:19:28
+不明
+And we're looking at automatic, activation as well. So recently announced here at summit we've got the new LinkedIn integration. So today we support a number of things like emails, banner ads, LinkedIn mirror and more to come as we continue on this journey. Now these are all things available today but we also innovating in this area. So some of the new things that are coming is we spoke about translations again, a very costly exercise.
+
+00:40:19:28 - 00:40:42:09
+不明
+Well, we bring that into the performance marketing solution. So not only will it generated in a specific language being English, it will allow you to generate in any of the languages that Adobe supports and do that for the various locations. Beyond that, we've spoken about text to video, so we're bringing that into the performance marketing solution. We recognize that, interactive content has got a much higher click through rate.
+
+00:40:42:09 - 00:41:02:10
+不明
+We talk to customers. Most of the contents actually video. So we bring that in, allowing you to now produce content that also includes imagery that has animations and videos. And then last but definitely not least, Steph spoke about how they had insights on how to kind of improve performance as well. With that, we're bringing insights to create.
+
+00:41:02:12 - 00:41:23:19
+不明
+So what is this we recognize when you put out paid media there's an initial kind of performance rate. It's fresh. It really kind of gets a lot of attention. But then over time there's a drop off period and it goes stale. Well with the insights to create, it'll automatically monitor identify with them. Something goes style. And then through the click of a button it can go and automatically refresh for you.
+
+00:41:23:19 - 00:41:44:28
+不明
+So you can keep engaging with your audiences on your performance marketing materials. Okay. So that was the first agent. The second agent is the workflow optimization agent. So we kind of switch gears and we move into the work front solution. And it comes in two areas. We've got the workflow acceleration components and then the project health advisor. So let's begin with the workflow acceleration agent.
+
+00:41:45:01 - 00:42:08:17
+不明
+Now this one is near and dear to my for those that home know me, I've been in the proofing world for many years. Reviewing approval is an integral part of the work front platform, and for anyone producing content, regulatory compliance is super important. Well, with this one we taking the brand we spoke about previously and we marrying them with the power of reviewing approvals using AI.
+
+00:42:08:19 - 00:42:30:05
+不明
+So you can attach a brand to what we call an AR VR, and you can produce multiple reviewers, which are these little bots that exist in the system. And you can then attach them to your standard workflows for reviewing approval inside of work fronts. And in doing so, they going to check the contents and then give you a scoring system very much like performance marketing.
+
+00:42:30:08 - 00:42:52:15
+不明
+But it's going to go one step further. It's actually going to give you recommendations to tell you what is wrong and what you can correct on those. So again, this is going to significantly cut down the cost associated with reviewing approvals. And it's ultimately going to let your stakeholders spend their time in the more strategic reviewing approvals and let the system take away the burden of guidelines.
+
+00:42:52:17 - 00:43:14:20
+不明
+Beyond that and also part of the workflow acceleration. We've got the AI assistant. Now, this morning you sort of saw it in the team. Talk about the brand conscious and the AI assistant within the app space. Well, we've got this available inside of work front today and this is meant to help you. It's your personal human assistant to help better understand both the solution as well as what's happening with your various projects.
+
+00:43:14:26 - 00:43:39:10
+不明
+You can get things like summaries on your projects, toss and issues, and for more complicated tasks like calculated fields. Anyone who knows that will shake their head and recognize the complexity. Well, we've got a new AI, calculator inside of the system that can automate automatically generate those for you. And this again is available to day. Now we planning to expand the AI system into all the other solutions that are part of the Gen studio, platform.
+
+00:43:39:15 - 00:44:02:08
+不明
+So watch out more for that to come. Now moving on to the second component is our Project Health Advisor. And this is another revolutionary aspect. Now if you think about those that own work front today or those that it might have been at the conference and considering acquiring it, you're probably thinking about, hey, wait, well, I need a work management solution, but I also want to understand what's coming down the pipe.
+
+00:44:02:08 - 00:44:32:10
+不明
+What are some of the risks associated with my projects when we embarked on this, we wanted to solve exactly for that. So with the, health advisor, you're able to create what we call these little advisors, and you can attach a scoring system to them. For example, what are the goals? What are the objectives? Is there a timeline or deadline associated then using this information and the power of AI, it's going to give you a, a scoring on how well your projects are performing so you can understand which ones are behind or missing the mark.
+
+00:44:32:17 - 00:45:10:23
+不明
+And then beyond that, it's going to give you full recommendations on what you can do to fix those against staying ahead of the game so you don't fall behind. And you can always stay on target with these. Another piece that I'm really excited about that we're looking at coming at the end of Q2 now, as we move beyond that age and we move into our new content advisors, another newly announced item, you're at summit now for those using Am assets and the content selector, it's a way by which you can select and surface assets from Am into other products like Work Front and Express well the content advisor is the evolution of the content selector.
+
+00:45:10:25 - 00:45:33:19
+不明
+We're taking it from exact based searches to intent based search, using AI to truly understand what you're looking for. It's going to do things like expand on, Am, asset selection to and fragments and other third party components. It's also going to give you the ability to do smart tagging. So reading your message in your search queries, it'll determine I'm looking for statuses maybe file types.
+
+00:45:33:25 - 00:45:57:27
+不明
+And you can select those to narrow down your searches. And then beyond that, it'll automatically create renditions on assets you find using AI to produce different scales and sizes. So this is really meant to help you better discover your content for reuse and use. Another aspect that's coming that's also part of discovery and reuse. And reuse is our new brand aware tagging that's being worked on.
+
+00:45:58:03 - 00:46:20:01
+不明
+And this also falls inside of the AMS. It's this is for what we call our librarians. They spend days and hours on the taxonomy and management of the metadata. Well, with this one, and using new gen AI, OCR technology, it's going to scan imagery and understand things like tone, location, and it's going to be able to build those as guidelines.
+
+00:46:20:01 - 00:46:40:01
+不明
+So what does that mean? It means you can have a consistent, metadata experience across all your assets. It's going to help better discoverability and accurate discoverability. And it's going to save significant time with that. And then the last item I want to call out, which builds on that is within our analytics, which is our content analytics. And also newly announced.
+
+00:46:40:01 - 00:47:00:02
+不明
+So this is using very similar technology to the brand aware tagging. But it's taking imagery and the understanding of the imagery to the next level. It's looking at very detailed attribution and understanding of the content at hand, and it's doing it at four steps. Firstly, we need to get better at how we understand experiences, and AI allows us to do that.
+
+00:47:00:05 - 00:47:22:19
+不明
+If I look at an image as a human, I can see someone's laughing or smiling or they said, well, I can do that too, and I can tag it accordingly. So now I can quickly understand what these images awesome. With a better place. Once we understand that, we can then also, expand on how we understand customers through our click through rates, and then we can create a color correlation with how we understand those experiences.
+
+00:47:22:21 - 00:47:50:25
+不明
+And then we can drive insights from those which are better performing or less performing and see that across the board. And then once we've got those insights, we can drive to real time activation, allowing you to make real changes based on that performance. Now, how do we do this? As I mentioned, we've got this new Gen R model that's going to help you extract things such as tone, emotion, location, styles and give you a real value on what's what the actual imagery is with the click through rates.
+
+00:47:50:27 - 00:48:10:12
+不明
+And then another big piece we're looking at is we recognize that you're constantly changing, the same as it may be. Resizing, re cropping and reusing it in various areas, tracking that across different channels and sizes becomes difficult. What are we going to allow you to tie that back to a single ID so you can truly understand the performance of an asset across the full spectrum?
+
+00:48:10:14 - 00:48:36:03
+不明
+So with that, I conclude our top innovations. But let me give you a quick recap on what we looked at today. So firstly we explain the Gen studio solution. We also you to take a step back and really understand what are the technologies you're using today and what are the opportunities that you can bring in there. Secondly, we spoke about how AI is going to unlock your scale and personalization like never before, but we recognize it comes with barriers.
+
+00:48:36:03 - 00:48:53:12
+不明
+We we encourage you to take a step back and build a strong strategy. Spoke to and told us how they did that. And we ask that you do the same. And then last but not least, we showed you a ton of innovations. If you're interested on those AI, I recommend you go down to the pavilion. I'll be there myself.
+
+00:48:53:12 - 00:49:10:24
+不明
+With Steph, we can answer questions and there's a lot of demo booths. Look out for the, Jane tech and Jane AI piece. We can demo a lot of the things like the era of your health advisor, Fei Fei services, and many more. So with that, we wrap and I thank Steph for their for coming to this presentation and thank everyone else.
+
+00:49:10:24 - 00:49:12:00
+不明
+See thank you. Yeah. Thank you.
+

@@ -1,0 +1,428 @@
+00:00:00:05 - 00:00:24:05
+不明
+Here to learn how you can turn a non customer into a customer. And with our steps I will show you today how we did that in eight weeks and created a 3.2 million funnel value. So I'm pretty sure you all in the B2B business and this is on a completely different level than what we have seen in the keynote today.
+
+00:00:24:05 - 00:00:51:38
+不明
+Of course, like seeing and listening to everything that at all, we can do what we want to share with you today is what we did with the customer data platform. So we are very happy to be your host. My name is Julie Axel. I'm heading up the digital marketing and marketing communications for Siemens Healthineers in the US, and my vision is to develop our marketing organization from a cost center into a revenue generating machine.
+
+00:00:51:43 - 00:01:19:11
+不明
+And I feel like that's what we all know as we are about what we all want to do in marketing. It's like be seen in a different way. As somebody who was really creating business impact that you can see and that you can measure. So what I've started with, when I came into my current position, I looked into how can we report our performance metrics from all our campaigns that we were doing back to our business partners and really show them the ROI on their campaigns?
+
+00:01:19:15 - 00:01:42:31
+不明
+So we work with global partners on creating a last touch attribution model, and were very happy when we were finally able to show what was coming out of our campaigns. And everything was perfect, and nobody was complaining until new management came in and one of the business lines and they were like, yeah, that's not enough. So what we really want to see is marketing influence.
+
+00:01:42:31 - 00:02:14:53
+不明
+We want to see every single touchpoints that a customer has with any of our marketing initiatives, and that then finally turns into orders or even revenue. So this really was my wake up call to look into that a little bit deeper. So we started to roll up our sleeves, take into the data building power BI dashboards, pulling information from different sources altogether, and trying to create meaningful insights and insights.
+
+00:02:14:58 - 00:02:39:12
+不明
+But we hit a wall really quickly. So we had so many different pieces, and it felt like completing a puzzle with like half the pieces missing. So we looked into different ways what we could do in addition to what we have done so far with power BI. And I thought, I need a partner who can really help me to go bigger.
+
+00:02:39:12 - 00:03:13:32
+不明
+I'm in a country I knew I needed a global partner so that we could really visualize all the customer touchpoints we wanted to visualize and measure. And this is where Yohannes came into the picture. Making sure to tell everybody I know that I'm responsible for marketing technology in Siemens Healthineers when Julia called me and said, Johannes, I need to really transform marketing, I was shook.
+
+00:03:13:37 - 00:03:54:30
+不明
+I looked at my tech stack and said, this doesn't work. So I really needed to find out how to do this. And this is why we partner with Julia to really and go beyond technology and change the organization completely. So what we want to show you today is that how we approached not only changing the technology on how to create a delightful, seamless, impactful customer experience, but to go beyond this and to do this as a big approach to transforming marketing.
+
+00:03:54:35 - 00:04:27:51
+不明
+And just a disclaimer here. When we say CDP or customer data platform for the Adobe installation we chose, we choose real time CDP customer Journey analytics and Journey orchestrator as the tech stack set up. And I would go to the tech set up a little later today. So who are we? Siemens Healthineers is a medical technology behemoth. We have almost 80,000 employees around the world.
+
+00:04:27:56 - 00:05:01:50
+不明
+We are installed in 90% of the most important hospitals globally. We hold more than 25,000 patterns and we touch 2.6 billion patients every year. We are very successful with our current sales and marketing approach, and nobody was really waiting for us to change that. So when we approached initially our colleagues and say it's a marketing, everybody was like, Johannes, why do you want to change a winning team?
+
+00:05:01:55 - 00:05:07:03
+不明
+And we will explain today how we did that.
+
+00:05:07:08 - 00:05:45:29
+不明
+So. Let me go one back. So. What we felt in the market was that especially post-Covid, our customers expected a different approach from us. They expected that we show them a B2C experience in a B2B world, and they also expect us to connect all of the data we already have of them to really personalize their journeys. Most of our customers 80% who comes to our online touchpoints are existing customers.
+
+00:05:45:29 - 00:06:07:02
+不明
+So we have decade long relationships with them, and this is what all of them expect from us, is use the data and the knowledge we have about them. Put all of this together and make their journey meaningful and impactful. So we in global marketing.
+
+00:06:07:07 - 00:06:39:06
+不明
+Decided to go on a journey ourselves. We call this hybrid customer engagement, meaning that we want to create a hybrid experience. And hybrid for us means to combine sales and marketing internally, to combine offline and online touchpoints, to combine field sales and SDR. So so internal sales. And at the end, look at the overall customer experience and how it is connected.
+
+00:06:39:11 - 00:07:21:13
+不明
+And this is what we adventure on, because on the one hand, we can increase productivity by automation and scaling. And on the other hand if we really provide the right information at the right point in the right channel, we will grow. And this is something that we promised to our marketing community of over a thousand people internally. So because this will lead to a higher marketing return on invest, lower cost per sale and a higher gross profit per FTE, and this means throughout the whole sales cycle.
+
+00:07:21:17 - 00:07:59:51
+不明
+So when we ventured out, we identified a CDP to be our go to market technology. To do that. So this was back in 2024 and very at the beginning. And so I was at the summit last year to find out how a CDP can really help us to transform marketing in B2B. But I wasn't really seeing it. And so this is why Julien, I decided to give this lecture, to other colleagues who are in a similar situation because at the summit we always see amazing, well, running old machines.
+
+00:08:00:04 - 00:08:24:05
+不明
+But then if I look into my own tech stack, I see, okay, nothing of this is happening in my company. So how do I do the first step? What? How can I start with it? So this is the purpose of today's talk. So when we looked at the CDP landscape, we've seen that there are a third of of B2B companies looking into a CDP or a similar data aggregation and segmentation, path.
+
+00:08:24:10 - 00:08:50:20
+不明
+But because of data fragmentation, most of them didn't really get very far because you have a lot of internal hurdles you need to overcome in order to even started. And then you can see here on the very right that only 23% of B2C companies deliver a CDP on time, meaning that translate this to a B2B company. You're already set up for failure.
+
+00:08:50:21 - 00:09:25:43
+不明
+So this was, for us, important to learn how to do it right. So when we look into the overall customer journey for us customers on an everlasting journey, meaning that they are either looking for a new products or solutions to buy or they have them installed for us. So the CDP we wanted to deploy would start at the awareness fair because we could deliver immediate, very meaning and impactful content.
+
+00:09:25:48 - 00:09:56:20
+不明
+It would guide them through consideration and help them to purchase because we connect the right data points at the right time to deliver the right information. Very important for us. And the CDP has another huge potential for us. We have a very saturated market in, in medtech, so we sell X-ray machines, MRI, CTS, lab diagnostic. So there's only a couple of players, highly saturated market.
+
+00:09:56:20 - 00:10:11:40
+不明
+So most of the times you need to upsell and cross-sell into your installed base because the product life cycle is over ten years, meaning that you have a lot of time to really help customers to be successful with our products.
+
+00:10:11:45 - 00:10:40:56
+不明
+So rolling out a CDP was our plan. Why? Because on the one hand, it really allows us to, ingest unified data to segment on. On the other hand, it really allows us to activate our customers in the right channels and where they want to be. But just technology, as we all know in this room, is not enough, because I always keep saying that if you throw enough money on technology, you can do whatever you want.
+
+00:10:41:01 - 00:11:07:36
+不明
+But without process, without people, without culture, nothing really changes. And this was always something that we needed to to look at as well. So we added a campaign co-creation program. Right. So campaigns need to be localized. If you really want to make a CDP successful, why? Because. There is no global customer. Customers are always local customer always in our country.
+
+00:11:07:36 - 00:11:37:48
+不明
+So therefore it needs to be a country journey localized. Ideally with local content and translated content. So compare this together with our hybrid customer engagement, approach in sales, meaning that sales starts working together with marketing because we have two amazing, well-oiled machines, but they are not talking to each other. So marketing and sales to what they have been doing very well and very successfully.
+
+00:11:38:01 - 00:12:19:16
+不明
+But now it's time to combine. Why? Because there's only one single customer journey customers expect from us to go from one touchpoint to the other, without any flow, without any breakup. But if sales and marketing don't talk to each other, none of this will happen. So how does a CDP scale? What we started with in 23 was, and the year before we started with so-called accelerators or individual pilots, where we created audience based marketing campaigns with highly personalized content, but all of them were built manually.
+
+00:12:19:21 - 00:12:45:22
+不明
+All of this was stitched together in an Excel file or a or a SQL database, and then just used for this one one single time. And so over time, we learned that this can be done. And even countries are successful with it, but you can't scale it because it's not automated. And therefore we decided that a CDP now is the right time to bring on board for us.
+
+00:12:45:27 - 00:13:27:42
+不明
+So what would a CDP not do for us? On the one hand, on the right side, you can see on the left side, you can see that all of the data we have can be combined. And for me, it's always fascinating how different the B2C and B2B approach is when it comes to CDP. It's because a business to consumer, in the business to consumer world, a CDP is brought into in-house when there's too much data and you need to structure this data because the CRM is overflowing and our case is different, and our case was that we have already so much amazing data with even without any, personalized web, data, so much data
+
+00:13:27:42 - 00:14:02:43
+不明
+about, data, you say about the usage of our portfolio in the customer sites and the hospitals about, what they do online, how the buying cycle works, and so on. So we have great data about customers, but we never combined it. So the idea was combine the customer data and then put it into the CDP to segment and activate audiences, because this will really then be the start for us to, venture into audience based marketing and then what are the effects of it?
+
+00:14:02:47 - 00:14:27:38
+不明
+So one easy one is return on ad spend. If you show your ads only to prospects of customers who are really interested, then you have an immediate, amazing output of that because you're not wasting money and ad spend and showing it to people who are not interested in engagement. So as soon as you personalize, you can see how amazing the the engagement is.
+
+00:14:27:38 - 00:14:52:07
+不明
+Suddenly, customers really want to work with your content. They are highly responsive and they click on links that normally don't do in mind. I mean, our target audience are the hospital doctors and hospital decision makers. They are not known to sit in front of a screen all day long and click on everything we send to them, right? So they are normally away from screens.
+
+00:14:52:07 - 00:15:23:52
+不明
+And so it is a very short, time span. We can even interact with them online. We will increase trust because as soon as we show them with a sophisticated consent approach that we use the data when they allow us, and at the same time that we show them with personalization that we know them and that the data we have, we will put into good use because all of the content they suddenly interact with is meaningful for them, is relevant for them.
+
+00:15:23:56 - 00:15:43:47
+不明
+And what we will decrease is time to insight, because the real time part of the CDP is really helping us to make these quick decisions, or even put this into automation and this time to inside, is helping us to, to scale, then.
+
+00:15:43:52 - 00:16:15:42
+不明
+So I said before we decided for the three parts. So the real time CDP is the backbone of the overall operation because data we ingest the data, segment the audiences and then activating activating channels. CJA is where marketers come into play because. So this was very interesting for us from the beginning. Marketers needed a place to look at accounts and look at audiences.
+
+00:16:15:47 - 00:16:49:16
+不明
+And it's not the CRM in B2B marketers are not going to the CRM. Therefore, we needed a new place for that. So and we found CGA because CTA has a great UI where you as a marketer to not to have a major in informatics to even look at things. Now you can really segment your audience and look at accounts, because we in B2B have a very complex account hierarchy.
+
+00:16:49:21 - 00:17:12:46
+不明
+So we, for example, have the overall umbrella account. It could be an IDN in the US, for example, where you have multiple hospitals in different locations. The second layer of our accounts is the physical hospital, the geography, the third layer is the clinics. Every hospital consists of several clinics, and each of these clinics is on their own buying journey within an account.
+
+00:17:12:51 - 00:17:36:54
+不明
+And then you have contacts. Of course, people who work in these hospitals. And this was for us very complex to even show. And this is also something where we grow together with Adobe because in B2C you have one single layer. You say this is a contact, and if this is the single household who makes decisions perfect, just personalized to experience.
+
+00:17:37:07 - 00:18:02:58
+不明
+But in B2B it's not that easy. We have buying groups with purchasing centers who make these, big investment decisions. And journey orchestration helps us to map out the journey. This is something that we are doing for the first time, and Julia will later show you how we did this. So we come from a place where. We do campaign, campaign based marketing.
+
+00:18:02:58 - 00:18:16:37
+不明
+You send out an email and hope that somebody clicks, and now you suddenly want to create a holistic journey where people can really self guide, their interaction with us.
+
+00:18:16:42 - 00:18:53:49
+不明
+So the use cases for us depend from country to country. So we rolled out the CTP in our most important market in the US. But we have other geographies in Asia and Europe were also interested to adopt the CDP. And they have different use cases. One one transparency into their, their customer database. We have countries where we do not have good coverage and where we need to really look into white spots and use unknown to known features in the CDP to know where customers are coming from or potential customers.
+
+00:18:53:53 - 00:19:19:08
+不明
+We have other geographies who are more sophisticated and want to have a journey that customers can go on. So the multiple use cases a CDP allows us to bring to the world is really helping, because then we can do this all from one single end point of excellence.
+
+00:19:19:13 - 00:19:55:18
+不明
+And for us, segmentation was something that we did for the first time. Yesterday I, read that I think it was a company, here who is presenting at that, that they have about 15,000 data points on in on each individual US citizen. 15,000 in medtech we have 30 if we are happy. So this is a huge difference, right?
+
+00:19:55:18 - 00:20:17:27
+不明
+We and we never started to collect anything. It was basically a very sales driven, go to market approach. And it's a very personal one. Right. If the salesperson knows the customer decision makers and they have a relationship over years, that's enough. But as soon as we marketing step in and we look at what data do we have?
+
+00:20:17:32 - 00:20:29:35
+不明
+It was not the best picture. I can tell. So using the data we have for segmentation, is something that we really, really needed to do.
+
+00:20:29:40 - 00:21:04:48
+不明
+So this is our setup for the more or less a technical setup for the CDP. So on the very left you can see that we have sources. We have Oracle Eloqua, we have Oracle Sales Cloud, we have some e-commerce clouds. We have self grown customer service OMS. We have so many different technologies in our company that we need to engineer the data outside of the CDP.
+
+00:21:04:53 - 00:21:26:49
+不明
+Our data is so fragmented that we do not want to overload this CDP with engineering, so we engineer it outside in snowflake and most of the companies in B2B we talk to have the same approach. So you engineer the data outside of the CDP and then use the CDP for what it was originally built, which is segmentation activation.
+
+00:21:26:54 - 00:21:52:36
+不明
+So we ingest the data to the CDP after it was unified and engineered. And then these accounts are getting tested into the CDP. And then from there we can activate brand to demand, offer to order, and even customer service upskilling, upselling and cross-selling, use cases.
+
+00:21:52:41 - 00:22:01:08
+不明
+And with this, I hand over to Julia, who now tells you how we make this successful.
+
+00:22:01:13 - 00:22:09:06
+不明
+So I want to show you, go away from the theory and show you how we brought it to life in the biggest market.
+
+00:22:09:11 - 00:22:40:54
+不明
+So what Johannes was saying, I can simplify a lot. So what we're trying to do with the CDP, we are bringing all the different data sources together and feed it into the CDP to create one digital twin. So when we were using the marketing automation only, we only were having the name. Sometimes we had the role and sometimes we know the facility, but now we know what systems do they have installed, what did they search?
+
+00:22:40:59 - 00:23:08:22
+不明
+Online or maybe what email they have clicked on. So we have a much better picture of that contact and what they are doing and how they are interacting with us. And for the first pilot that we ran last summer, we were able to transfer 14,000 contacts into our CDP. And because we started to do audience centric marketing for the first time instead of product centric.
+
+00:23:08:22 - 00:23:42:47
+不明
+So I don't know how it's with you, but we we are innovator, we love our products, and every marketer loves to talk about their own product. This one was set up in a completely different way for the first time that we started the journey from an audience centric perspective. So we took the role of a head of radiology who was buying our CTS, our MRI, our ultrasound system software, all kinds of different solutions that we are offering into one big journey to create that experience that Johannes was talking about.
+
+00:23:42:52 - 00:24:08:55
+不明
+Because only when you look at them from that perspective, you can provide a meaningful journey to them. If everybody is marketing their own products, you will overwhelm them and you just throw everything at them that you have and they decide what they're interested in. And as we all know, this will make your engagement rates very low. So with that approach, we really saw that engagement rates go up significantly.
+
+00:24:09:00 - 00:24:35:13
+不明
+And for the first journey, out of those 14,000 contacts, we had 2.5 thousand contacts. They were in the radiology space. So we started with that. I know it's like really small and tiny. And I will go back later what we are doing to like get that number up because that's a whole different game. We are talking about looking at the consent strategy because now you don't need the marketing consent anymore.
+
+00:24:35:13 - 00:25:05:05
+不明
+You need a data processing consent. And we are Drummond company. You can guess how correct our data privacy officers are. So we really had to look into that. How we can bring it to life in a way that we are meeting all the requirements. And the other pieces. So first we built that digital twin. And the other one is you have to build that very rich journey, because if you don't have enough content, you cannot build a personalized program for everybody.
+
+00:25:05:09 - 00:25:33:15
+不明
+You have to be able to choose from very, very different and many content and asset types to pull that and send that in front of a customer who maybe interested in that. So we created a whole ecosystem of 61 websites that were all built in a way that you can self guide, and that we had emails for every one of them to trigger and send people into the journey.
+
+00:25:33:19 - 00:26:04:17
+不明
+So that was not as a major undertaking as you would think, because usually everybody is like, oh my God, I can't do that. That's too much. I don't have the resources. What we did is we had everybody, every marketer who was touching the head of radiology in one room and said, okay, let's do it bottom up. Let's look at what are all the products we want to sell, and then go to the top of the funnel and say, okay, what is the major pain point of that audience and what we identified as the workforce shortage?
+
+00:26:04:28 - 00:26:29:37
+不明
+It's huge in health care and also in the radiology space. And then we built our journey up and put two levels in between so that you have on the bottom the products. Then you have maybe cross portfolio topics. Then you have educational content. And then at the very top you have the thought leadership content, and you connect it all in a meaningful way.
+
+00:26:29:42 - 00:26:54:35
+不明
+And when you have the digital twin and you have the content, then you program in the CDP the flow. So how you do that is you put your 2500 contacts into your laptop, and then you have different decision points. And the first decision point we had was who of those 2500 contacts is a customer, not if the answer was yes.
+
+00:26:54:39 - 00:27:21:04
+不明
+They were moved into the next backup saying, okay, have they purchased something in the last two years? So Yohannes just told you that they usually have our systems for ten or more years. So if somebody just has just bought an MRI system, it's not that likely that they will buy a new one. So when he has or they have purchased something that last two years, we decided not to go in and try to sell them another MRI.
+
+00:27:21:09 - 00:27:48:24
+不明
+We were building on top of it. We tried to cross-sell, upsell, go in with AI and radiology, for example. This is what we did here and this is just an example, so that you understand what how we are building it out. And the CDP, it's much more complex and would never fit on one slide. So then we had the next question, and if the answer was yes to that, which was do you have already digital solutions from us in place in addition to your MRI system?
+
+00:27:48:29 - 00:28:12:47
+不明
+Then maybe we went down the path of trying to sell a software upgrade, and if no, then we went in with completely new software packages. So I think it's like when you think of fool, it's all common sense. You just try to look at it from your customer perspective and assume what's most relevant for them right now. And I mean, the beauty of this is that the CDP will also learn along the way.
+
+00:28:12:47 - 00:28:32:29
+不明
+And at one point they can predict and say, okay, this is not working, rather serve up this kind of content, but we have to start somewhere. So we made all the assumptions. And on the other hand, we also had a group of people that we have never interacted with before, at least not from a marketing perspective. We had no data on them.
+
+00:28:32:33 - 00:28:57:52
+不明
+And then if they also had, and then the next question was, do they have any kind of web history? So do we know anything? Maybe they have visited some of our MRI websites. So then we could say, okay, let's try to start with an intro to MRI and see if they are interested in that one. And then we brought in the second way of segmenting because so far we segmented on attributes all the data we had.
+
+00:28:57:56 - 00:29:19:10
+不明
+But you can also segment based on action. So if they interacted with the email we say oh this interests an MRI. Let's go a little bit deeper. Let's look into MRI innovations and new products that we have. So maybe this is something that's relevant for them. And on the other hand if we had nothing like no clue who this person is, we don't know anything.
+
+00:29:19:15 - 00:29:40:01
+不明
+Then we start at the very top of the journey with a thought leadership piece, and it was around, can I help you to solve the workforce crisis? So some something along those lines that is like non product more on the educational side, easy to digest to get their interest to then go further and see if they interact with it.
+
+00:29:40:06 - 00:29:51:44
+不明
+And then we test and set them up. So this is just to give you an idea of how we built the flow.
+
+00:29:51:49 - 00:30:19:40
+不明
+And when you go back and we talked about that previously, but I think it's very nice when you illustrated without the CDP what we did, as we provided the same experience to everybody, and we just sent to everybody everything that we wanted to talk about. And when you have your more or less like product centric organizations, if you would be not that nice, you would we would say, like siloed organizations.
+
+00:30:19:45 - 00:30:42:46
+不明
+Then every silo is like shooting their messages on that same person. And the only way we kind of control that we said, you can only send free emails a week to a head of radiology. That was the only way we were limiting it. And they sent them everything. And imagine you have an MRI system. You have patients you want to go on that system, and the system is down for whatever reason.
+
+00:30:42:46 - 00:31:00:35
+不明
+And a service technician has to come in and fix the system. And in that time period, you you sent them emails about how awesome MRI is, what a great experience it's like. That's why I feel like it's like when you think it through, it's really common sense, what you want to do and what you don't want to do.
+
+00:31:00:39 - 00:31:25:23
+不明
+So this was the experience everybody was shooting at. Like shooting something on the wall and hope it sticks with the CDP. What we can now do, and I showed you this is a real journey of somebody who went through the CDP journey at the very beginning of our pilot. So let's say it's John Doe. He is a CEO of an MRI facility.
+
+00:31:25:28 - 00:31:49:14
+不明
+He's not a customer, and we don't know anything about him. But for whatever reason, we had consent. Maybe he had visited us at a trade show a while back or I don't know why we had it. We had it, and it was one of the ones that we were allowed to use. So, we started the journey with him, as I said, at the very top of our content, house at the thought leadership piece.
+
+00:31:49:14 - 00:32:08:43
+不明
+So we sent them an article about the workforce crisis, but he did not interact with it. So then the next step is to go one level deeper in our messaging hierarchy. So we started to become a little bit more specific and try to look into different trends. First one, cybersecurity also a big topic in the health care environment.
+
+00:32:08:48 - 00:32:30:21
+不明
+He opened it, but he did not click on it. So we had to keep on testing. The next one was intelligent imaging. Also no reaction. And then the fourth one was AI in radiology. And he opened it and he clicked on it. So this is the O and the C and what it triggered in the CDP like the CDP now.
+
+00:32:30:21 - 00:32:50:26
+不明
+No. Okay. This is something he's interested in. Let's serve up content that's related to that piece. So the next one, because we knew it was an MRI facility, was then AI, an MRI. So becoming a little bit more specific. And here he did what we want them to do, what I want to achieve with all the campaigns I'm doing.
+
+00:32:50:31 - 00:33:10:34
+不明
+I want somebody to say, I want to speak to sales because I don't sell anything. I open the door for the salespeople. I want to enable conversations for them. And he did it right away. So it was like once we found his topic and we went one level deeper, he was like, okay, I want to talk to you guys.
+
+00:33:10:39 - 00:33:35:19
+不明
+I want to learn more. And then comes one more piece into play. What Johannes mentioned already, what we tested together with a CDP was an SDR function. So I say it's development rep, somebody who's not out in the field, but in the office, and it's incentivized to call that person within 24 to 48 hours. And this is for B2B, really, really fast.
+
+00:33:35:19 - 00:34:07:14
+不明
+I will show you a quote later that shows that. So this SDR is not only an inside sales person who is trying to sell, he's taking the time to really qualify and nurture that person or that contact to find out what exactly do they want to have and what to exactly do they want to buy? And only once we have a full understanding, then we hand over that lead from the SDR to the field sales person, and then the salesperson contacts the customer.
+
+00:34:07:14 - 00:34:32:21
+不明
+Maybe they have even a meeting all together to do the handover. This is what we also did and some of the cases and at the very end, what we have created with an eight weeks with this one customer is a portfolio dealer with five different systems from completely different business lines, over 3.2 million funnel, which is in my world, completely amazing.
+
+00:34:32:26 - 00:34:55:06
+不明
+You have to know that we have sales cycles, usually from with a lot of code words, six months, more like 18 to 24. So this was amazing to get him so far so quickly and not only sell one product. And I think this is, for me, the most important piece of learning that we had with that journey. And proof point.
+
+00:34:55:11 - 00:35:14:34
+不明
+We have to be portfolio centric, not product centric. You're missing out on so much you will never know what they want if you just market one single product to them or all of them at the same time, and they are totally overwhelmed and don't know what to pick. So this is the success story. This is my most favorite success story.
+
+00:35:14:34 - 00:35:41:54
+不明
+That's also why I picked it. And then what we what you may think is that, oh my God, that takes forever to build it, to, program it and all that stuff. So what you can see here is the very first whiteboard we had. And April 24th, after we had made the decision to go with Adobe, we sat down in a room with all the marketers of all the business lines, as I said, and put together that journey.
+
+00:35:41:54 - 00:36:08:20
+不明
+This was like that very messy whiteboard that you see here. Then we put that into a more formal way, into a flowchart. And then in June, we have already program that into the CDP. So we were alive within three months. And what we saw is that and Johanna says eluded to that before the engagement rates. We we were really hoping and we were assuming they would get, go up.
+
+00:36:08:25 - 00:36:36:21
+不明
+But we did not expect 93%. And by now we are already at over 100. So we have because we are continuing to optimize and getting better. It's really incredible. And coming back to common sense, it makes totally sense because you serve up topics that are relevant to your audience. So this is another slide that I'm always showing. And how does it fit now into your entire funnel.
+
+00:36:36:21 - 00:37:09:12
+不明
+So how I see it is that from a marketing perspective, the first thing I always do, as I have all my campaigns running in social and search with third party with the goal to drive people into my digital journey. That's my goal with all the outreach. Again, I'm not selling. My goal is to drive them into the journey, to get them on one of our websites and give us their concept, and what we used to do was once we had the consent, they were put into that subscription list and then everybody was allowed to fire.
+
+00:37:09:17 - 00:37:34:54
+不明
+And what we do now, which we use consent for the CDP. So starting the moment they're consenting in, they will be directed into the CDP at whatever point makes most sense based on their attributes and based on their actions. So far. And then the next step is, once we have the marketing qualified lead, that's hopefully coming out of the CDP.
+
+00:37:34:54 - 00:37:56:44
+不明
+Not sure where we are going down that path that I just showed you. Then we hand it over to the SDR to qualify with a person and really make sure that we know what that customer wants before we handing them over to sales, because it might be the same in your world. The field sales is the most expensive resource you have and then they are not on the street.
+
+00:37:56:49 - 00:38:10:06
+不明
+They cannot go everywhere. It's like limited. If you want to grow, you have to be smarter. And how you drive new prospects into your journey and into your experience.
+
+00:38:10:11 - 00:38:41:05
+不明
+So what I said as we had a winning combination here, it was a CDP. On the one hand, the CDP was helping with the personalization and really providing the relevant content. And these are quotes from customers we've interviewed later. They were really seeing that they were provided with an experience that was relevant to them and based on their data, also showing them that what Johanna said, that were using the data in a way that makes sense for them, it benefits them.
+
+00:38:41:10 - 00:39:14:35
+不明
+And on the other hand, to create and connect that experience so that so whatever they are doing, we are building on top of it so that again, it's everything is connected and it makes sense for them. And on the other hand, with the SDR and this was a quote that everybody was really like shocked by when they saw it as we took it down from 15 weeks as an average for B2B, how long it takes to get back to a customer after they said, I want to talk to somebody.
+
+00:39:14:40 - 00:39:40:43
+不明
+And I think as we marketers all know, it's usually after two days the lead is pretty cold, if not freezing. So this really was also amazing to show that we can really accelerate funnel velocity with the SDR. And last but not least, what I wanted to show you is there are two things from a marketing perspective that I think are really critical to make this a success.
+
+00:39:40:48 - 00:40:09:39
+不明
+One is the content management strategy. So we were working on that over 18 months to get it done in the right way for the US market, because we are different than Europe, and all other countries are also different. Not everybody has to follow the GDPR. So talk to your data privacy officers, find solutions where you can maybe do it country specific or region specific so that you can use more of the data you have.
+
+00:40:09:39 - 00:40:31:40
+不明
+And you have easier ways to build out your content and your consent list, because now so far, we were never allowed to do a single opt in with a confirmation email. All the context we had was a double opt in process, and this is something people in the US are not used to. But it's a German thing and in Germany you have to.
+
+00:40:31:44 - 00:40:53:32
+不明
+So we had to do it and we lost 75% of all opt ins all the time because it did not click the second time. And it is not a law in the US. You don't have to do it. So it's really my recommendation is to do local, have one global content management strategy, but then localize it for the different markets.
+
+00:40:53:37 - 00:41:21:26
+不明
+And the other one is I don't know how many of you are struggling with it, but going away from product centric, and you can only do that by creating a joint marketing plan with everybody involved in the beginning, everybody who hitting that audience. Let's sit together, create one, plan together, integrate all the launches necessary, integrate all the products, everything you want to sell into the installed base, everything that's new.
+
+00:41:21:31 - 00:41:44:00
+不明
+Everything has to come together into that one big journey and then the other pieces. What I want to bring across is like, once you have built that journey, you can kind of lean back. What we will do, we will do on a quarterly basis, do reviews of our journeys adjusted, put a new content, take something out that is not relevant anymore, but you have it.
+
+00:41:44:00 - 00:42:05:04
+不明
+Once you have set it up, it's there. You don't have to reinvent the wheel all the time. You don't have to create new emails, create new websites because you have that huge ecosystem of content. You can build on and add more. But I just want to take away from that argument. I don't have the resources. You do have the resources.
+
+00:42:05:09 - 00:42:32:35
+不明
+We did not add a single resource to create that. We did it with everybody in the room, and we use a lot of the content we had. We just connected it in a meaningful way and close some gaps. But I think we had to create 5 to 10 websites. We had everything. It was just not connected. So it's really about taking everything you have and connecting it in a smart way.
+
+00:42:32:40 - 00:42:58:41
+不明
+And with that, I'm handing it over to Yanis to leave you with the key takeaways. Thank you very much, Julia. So I saw a lot of nodding here in the room when we are talking. So we are hitting the one of the other nerve here. And I'm so the critical success factors for us to roll out a CDP within six months was to have all the people in the room that are important.
+
+00:42:58:46 - 00:43:23:13
+不明
+So we had it, of course, marketing, we had sales, we had customer service in the room. I was also the data privacy officer, our data governance colleagues. So put everything in there, everybody in there. It takes a lot of time to align with everybody, but only then you can be successful. Data is key. We don't have a data strategy.
+
+00:43:23:13 - 00:43:47:56
+不明
+We don't have marketing processes. We were starting from rock bottom and we are building this now together with the CDP because the company needs momentum. We have low data quality. Everybody knows that for ten years. Is there any incentive to to change? Said no. Now we gave them an incentive. Now people are interested. Now people say, hey, we do this profile, why don't we have this email address?
+
+00:43:47:56 - 00:44:12:01
+不明
+Where is this name coming from? Job descriptions preference is so important for us. So all of these things need to be built and consent was already mentioned by Julia. Processes are things that make it sustainable processes. We love it if we don't have them, because then everybody can do whatever they want. And if it's not meaningful and impactful, nobody cares.
+
+00:44:12:05 - 00:44:41:06
+不明
+But as soon as we create impact, we need to make sure that it's sustainable and that everybody knows, who is responsible and who is accountable. Technology is important. It's the foundation and the enabler, but it serves capabilities. It provides a capability for the organization to use. That's the only thing technology does. But in our case, as in so many cases, technology then is the driver is the momentum.
+
+00:44:41:06 - 00:45:08:53
+不明
+Because it was the same for us when we made the decision to invest, suddenly we said, okay, you are spending all of that money, okay, what are we doing that exactly. So then suddenly the organization comes together and really wants to make this sustainable. And the operating model, the overarching goal from us to pivot from campaign based marketing to audience based marketing is A56 year transformation for us in global marketing for Siemens Healthineers.
+
+00:45:08:58 - 00:45:37:00
+不明
+So we change how we do things slowly but steadily. We don't want to overwhelm the organization, but we take them on a journey and the success speaks for itself. So what are the three key takeaways for you today? First, aim for business impact from the beginning in order to justify the investment in Adobe, which is not the cheapest company in the world, everybody knows you in the room.
+
+00:45:37:05 - 00:46:02:26
+不明
+Works for us to make sure that we can create top or bottom level impact. Seconds start small. This was, for me, one of the biggest key takeaways from the last summit. Start with one single campaign, with one single audience, one single market and make successful because then everybody one said, we now created a pool of people lining up.
+
+00:46:02:40 - 00:46:27:13
+不明
+Everybody wants to experience and now we are building this steadily. And third, engage with all the stakeholders. Have everybody in the room because in in these huge B2B setups, alignment of everything and especially with sales, and the lead management topic, it's so crucial. So thank you very much for your attention today. Happy that you all came.
+
+00:46:27:13 - 00:46:29:38
+不明
+And we are now open for questions. Thank you.
+

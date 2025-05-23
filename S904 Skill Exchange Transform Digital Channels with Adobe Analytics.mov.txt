@@ -1,0 +1,412 @@
+00:00:01:46 - 00:00:25:12
+不明
+Good morning everybody. Thank you so much for joining us. I'm Sean Robinson. I'm the program manager for the Adobe Analytics Champion program. We made it the last day of summit. I hope you've all had a lot of fun the last few days. If your feet are hurting like mine or your ears are ringing after bash last night.
+
+00:00:25:17 - 00:00:46:07
+不明
+I'm so glad to see you still here. We've saved some of the best for last with the skill exchange. Today I'm going to be introducing Isha Gupta, the digital analytics lead of at, three Ireland. Each is going to be talking about transforming digital channels in Adobe Analytics. She's going to be talking for about 45 minutes.
+
+00:00:46:11 - 00:01:05:56
+不明
+Then we're going to have about 15 minutes of Q&A. We will have mic runners coming around. So start thinking of your questions as Isha is, presenting. But please join me in welcoming up Isha. Good morning. Thank you everyone for coming. I really did not expect many people to come after the bash last night, but here we are.
+
+00:01:06:01 - 00:01:31:11
+不明
+So I'll just start with a quick introduction about myself. So my name is Isha Gupta, as Sean already mentioned, and I am leading digital analytics practice for three Ireland since October 2022. I am two times Adobe Analytics Champion 2023 to present, which is the proudest accomplishment of my life. Now I am passionate about these strategies and of course, please feel free to connect with me on LinkedIn to know more about me.
+
+00:01:31:26 - 00:01:57:03
+不明
+And that is a picture of my son and my husband, who is just. Two hotels down for me because they wanted to come along. So the session objective for today. So I will just start by discussing a bit about the three different channels that we have for customer interaction, through which a customer can interact with the brand and place an order, or basically just convert because conversions are relative to different industry.
+
+00:01:57:08 - 00:02:19:50
+不明
+So we have online channel which is favorite of this audience, which includes digital, websites, mobile apps. Then we have offline channels which have like in-store by NS where users can just go and, you know, buy something they like. Then we have hybrid where you can just place an order online and then, just collected something like click and collect.
+
+00:02:19:54 - 00:02:42:55
+不明
+Now our focus for today is going to be forget about offline and hybrid. We are just going to look at how we can maximize our return of investment on our digital channels. So it is all being done to keep make your head of digital a happy person. So what we will learn today. So, for this I will just start discussing, I will just start discussing with the problem and but I am proposing.
+
+00:02:42:55 - 00:03:26:51
+不明
+And what is the value potential of this? So the problem is that globally, marketers and analysts alike, like me, have the strategies expectations on them that you need to deliver strategies that increase the digital channels ROI, but as well as your customer experiences, should not, suffer at all. And they should actually get better with time. Now, what I'm proposing is I am going to talk about five strategies that had worked for my business that using, which we can create some impactful and actionable segments in Adobe Analytics that can drive margin ROI and as well as give you deeper insights into your customer clicks.
+
+00:03:26:56 - 00:03:58:39
+不明
+The value potential is that we can increase the ROI on our digital asset. So, for example, Adobe Analytics is a huge investment, right? We have to justify the cost as well as we need to increase the realizable business value on a digital investment. So to do that as, the first thing, let's bring our customers into the perspective, because, you know, in this day and age, as per studies, more than 67% of your customers will leave you if you just give them one bad interaction.
+
+00:03:58:43 - 00:04:23:25
+不明
+Also, I would assume all the empty chairs are representing the customers right now. So I'm happy to have more customers. Also, just a bit of a disclaimer that I will be talking with the lens of fictional businesses, none of which are true. And I really struggled hard to find five names that do not exist. So all the data, all the facts and stats that are going to be represented are fictional.
+
+00:04:23:27 - 00:04:50:23
+不明
+They are not real. Okay. So let's dive into our very first strategy that is digital leakage prevention, for which we are going to do revenue optimization from digital journeys. So the very first business that we are going to talk about is is Telecom. Now funny story I am from three. I tried to look for a number something like 6 or 7 or 3 or 2, something that will just kind of, you know, resonate with that.
+
+00:04:50:37 - 00:05:13:04
+不明
+I was not able to find a single number. Every number was taken as a brand. So I just came up with something like seven. So seven is a telecom provider. And this cell phones prepaid SIM plans across their websites and their mobile applications. Now, if we just take a typical day in the life of a seven ish customer, the customer goes to the landing page.
+
+00:05:13:14 - 00:05:37:11
+不明
+They add the product to the card. They go to the review. They go to the checkout page. They go to review details page. Now from here a conversion is supposed to happen and they're supposed to purchase. But that does not happen because of discrimination. So the customer fails to complete the purchase within the digital channel, and the customer ends up escalating to call center.
+
+00:05:37:16 - 00:06:00:50
+不明
+Now this is the point of digital leakage. So digital leakage is there is a point where the customers start their basically customers abandon your digital journey and they start, their journey within the contact center. So this is something that, you know, users can complete the task within the unassisted channel, but then moving to a sister channel.
+
+00:06:00:55 - 00:06:32:09
+不明
+Now, you might see a sale actually happened. So how is that a bad thing for business? Well, let's take a look through some numbers. The hidden cost of digital leakage. So the prevalence of digital leakage is such that 88% of multi channel journeys will escalate to will escalate to contact center when digital solutions fail. 38% of Gen-Z and millennials will abandon their journeys if their digital solutions are not, are not sufficient.
+
+00:06:32:14 - 00:06:57:58
+不明
+And of course, there is a particular call associated, a particular cost associated with each call that goes to a call center, which lies anywhere between 2 to $5 per call. 72% of customers expect to receive instant responses from digital channels, and 64 customers are willing to pay and pay more and complete their journeys if their issues are resolved within the same channels.
+
+00:06:58:09 - 00:07:25:09
+不明
+And I think that makes it for all of us, right? We do not want to. We don't want the hassle of starting in one channel. Then we have to call in to the call center. We just want the conversion of whatever action we are doing to be completed within the same channel, and that all of the customers. So my proposal is that we can use Adobe Analytics to identify friction points that are driving users from these unnecessary channels to assisted channels.
+
+00:07:25:14 - 00:07:48:50
+不明
+So some steps that we can do is so first, when we can identify high traffic pages that are leading customers to customer care contact. And we can create a segment of unique visitors who are spending above average time on the high contact pages. And then we can just use that segment for our deeper analysis. We can also pinpoint high call trigger events.
+
+00:07:48:54 - 00:08:17:11
+不明
+So simple thing you just identify what is that event which is most prevalent before a customer is starting to. Before a customer started a call queue interaction. So that can be a login error. That could be a user is not able to complete the registration or they're not able to they are having payment errors. So all of these little things, these little errors are very important for us to understand why customers are not able to do what they are trying to do.
+
+00:08:17:15 - 00:08:40:31
+不明
+Then we can also use Adobe Analytics plugin. So there is a plugin called this time between events, which we can use to count average journey times from start to finish. And then we can just use it to, we can couple that with the first, point to see what are the pages where users are, what are the journeys where users are spending more than average time?
+
+00:08:40:36 - 00:09:02:21
+不明
+And then we can provide help instantly. We can also detect drop off points in conversion funnel by looking at where are the points, where are the pages or basically what are the last pages from where the call interaction started. So some example of segments. So for example this is this is all sample data that I have taken from the sandbox account.
+
+00:09:02:26 - 00:09:23:35
+不明
+So here you can see that these are top five pages. And if I look to the chat initiates event with that I can see that the web login page is the page that is driving maximum users to my, to call center. Or basically they're just asking the user to start a contact with the call center. Now you can just create a segment of something like visitor.
+
+00:09:23:48 - 00:09:46:54
+不明
+Now about the segments. They are really just about to give you a rough idea of what you can do. And it will really, really depend so much about your industry. Another example, which probably you can use to, get deeper insight into your system is, login issue. For example, a user who is, getting more than two login issues and then they are doing a call initiate.
+
+00:09:46:59 - 00:10:12:33
+不明
+So what is the volume impacted volume of visitors to that? So these are some of the things that we can do. Now let us see which will build these segments and what they achieved through this. First and foremost they fixed the most frequent errors that were impacting the most users. They introduced video support for complex journeys, which is basically if you are not able to complete a journey online, just have some additional support for that.
+
+00:10:12:38 - 00:10:40:49
+不明
+There is a huge pop up that that automatically pop up whenever the time lapse between journeys was more than average. They also provided assistance to make users complete journeys within the same channel. And also this is very important that they increase the feedback on the type of device that the user is using to complete the transaction. If it is a mobile, then, for example, the forms in mobile look very different from forms in website.
+
+00:10:40:53 - 00:11:06:47
+不明
+So if it is that, then the feedback change accordingly. What it achieved for seven was they saw 10% reduction in call volume. That saved them point 2 million in revenue annually. And also it increased their digital channel conversions. Now the key message that I will take you, I would want you to take from here is that we need to prevent digital leakage to propel digital conversions.
+
+00:11:06:52 - 00:11:25:56
+不明
+So with that we will go to the next one, which is loyalty and love. How can we turn our customers into ambassadors? So this is one of my favorite, which I am really pushing hard for my, company to, pursue the they are trying to do it, but yeah, it's a good one. So before starting that, I will just ask a question.
+
+00:11:26:01 - 00:11:46:59
+不明
+So have you ever left a good review for a brand that you are loyal to? For example, if you are using the same telephone operator for last five years, have you ever left them a good review? They didn't have? Okay, I haven't, and I'm sure most of us haven't. Which which makes sense, right? We did not get any incentives for that.
+
+00:11:47:04 - 00:12:13:02
+不明
+So let's again go back to our fictional business. Now our fictional businesses, both of flex based learning never ends. So it's a, it's a streaming based platform where you can stream, buffer, load, binge, and eventually able to watch content. So how long time customers of Buffalo flicks are feeling? First, they do not feel valued. They are. They do not feel rewarded.
+
+00:12:13:06 - 00:12:43:50
+不明
+Loyal customers are at a risk of churn and customers who have negative experiences are leaving bad reviews. But loyal ones are doing nothing. So business is missing huge opportunities in cross-sell, upsell, referrals and sales for their loyal customers. So while loyalty is so important for digital growth because loyalty rewards leads to higher retention, which in turn leads to increased lifetime value of the customer, and in turn you have the boost digital revenue.
+
+00:12:43:55 - 00:13:14:44
+不明
+Also, the impact of loyalty engagement on revenue growth is exponential in such that there are studies to support that loyal customers spend 67% more than new customers. Not only that, the importance of loyal behaviors is. The top 10% of most loyal customers spend three times more than, three times more per purchase than remaining 90% customers. Now we see that loyalty is hard and often underutilized.
+
+00:13:14:49 - 00:13:36:45
+不明
+For your business revenue, 65% of the business revenue comes from you repeat customers. Only 35% comes from your new customers. So all these studies like you can see the sources. This is, as with Forbes data. Now, what if I tell you that we can make our loyal customers as our brand advocates, we can ask them to become our best marketers.
+
+00:13:36:50 - 00:13:57:29
+不明
+So for that, we are going to back we going to go back to Adobe Analytics to identify what are my loyal behaviors. So the audience criteria here would be first and foremost we need to identify what identifiers exist for my industry. For example, I am from a telecom industry. So we have CTN which is call to number.
+
+00:13:57:34 - 00:14:19:16
+不明
+It could be email address or just the EC ID. Now the important things about identifiers that they need to be properly hashed before bringing into the system as well. Has your DPO approval attached to it? And of course it depends. But industry but you are going to take this second step is going to be that we have to track accrued revenue or your conversion metrics.
+
+00:14:19:21 - 00:14:42:36
+不明
+So for some ecommerce it's straightforward. You have to have your orders number of orders, revenue. But it will depend on a different industries. Then you just filter your high value, propositions like whether that is top orders, but what corresponds to the oil behavior as your industry. So these are some of the industries where you can see loyal loyalty behaviors across different industries.
+
+00:14:42:36 - 00:15:06:50
+不明
+For example, for screaming streaming it would be watch hours. And your the it is dimension would be our user ID subscriptions hospitality. It would be device number fitness membership ID for telecommunications again. And the loyal behavior will account for what each industry, what it means for each industry for a customer to be loyal to the example segment.
+
+00:15:06:50 - 00:15:24:27
+不明
+So this one is actually pretty straightforward. All you need to do is just look at your visitor level and you just look at your conversion criteria. And there is also a dimension in Adobe Analytics, out of the box, which we will see later. It is called as customer loyalty. So you can also use that to just see, loyal customers.
+
+00:15:24:32 - 00:15:50:47
+不明
+And then so this is again some sample data. So you can see for user identifier, these are the highest, highest identifiers. And this is the revenue. So for example, these are top 15 users who have spent more than 1000, more than €2,000. So you just need to take those users. Now if you want to target users through their email addresses, just take the data from Adobe Analytics and you should with your, CRM system.
+
+00:15:50:56 - 00:16:18:59
+不明
+And then you have the retentive files to, personalize them. Now, how Bowflex rewarded loyal customers was first and foremost, they provided coupon and loyalty benefits to top hundred users. They boosted the referral program. So I think most of the businesses have a referral program. So for the loyal customers, they provided the offer that if you are going to offer for some time, then we will going to give you two X rewards.
+
+00:16:19:04 - 00:16:45:32
+不明
+They provided extra benefit on the social handle promotion. So this actually impacts the customer influence value. So what your customers talk about your brand the word of mouth and also the organic content that really really matters for others. If I'm being told by you, if you recommend me, then because I know you are a customer, I would probably trust you more than somebody who is directly coming from the brand.
+
+00:16:45:37 - 00:17:09:58
+不明
+So the other thing, they also ask for reviews in exchange of like, you know, something that we haven't been asked before. That is why we never left a review for our telecom operators. So, what it did for flex was that they increased their customer acquisition. They like they gave them, their user generated content, organic use generated increased two times.
+
+00:17:10:02 - 00:17:31:35
+不明
+They have less than 30% positive reviews. And the loyal customers started using their discount coupons. Now that also includes increase their customer influence value to the customer lifetime value so that actually has a good and also customer knowledge value. So the customer knowledge value comes from the reviews. So it says you you just have to ask for honest reviews.
+
+00:17:31:40 - 00:17:56:16
+不明
+Now the feedback and the reviews that your loyal customers can give you can greatly give you the potential to increase the, you know, your features of your product itself so that that customer knowledge value is very important. So the key message here is that investing in loyalty is a revenue multiplier. So that brings us to the third one which is high engagement low conversion targeting.
+
+00:17:56:29 - 00:18:18:48
+不明
+Now this one is favorite of my boss. So he really liked that one. So this is this is potentially unlocking, of your best prospects. So let's take a look at a third business which is type five. And let's see what was the problem with De Fe and how they handled it. First off, style Fi is an online clothing and fashion store.
+
+00:18:19:02 - 00:18:55:09
+不明
+So they sell you everything on sale. They have sales mostly, but the problem is that they potential customers visit, but they leave without converting and they're not staying there. High potentials user so users who have high potential to convert, they are. So the marketing strategies are pretty generic basically. So that means the high potential customers do not feel like, you know, it's connecting to them and they are just leaving, unengaged, 67% of their potential buyers, they are just abandoning the journey.
+
+00:18:55:09 - 00:19:19:17
+不明
+So they are starting, they are supposed to complete, but they don't feel like they should completed. Now, the objective is that Stefi wants to convert their frequent visitors into frequent customers, so they don't have low or zero conversion rates, but they want them to. So what Stefi did, before that, I think we will just take a look at this question.
+
+00:19:19:22 - 00:19:35:36
+不明
+So, I do that. I don't know how many of you do that. So if you visit a brand website, for example, if you want to buy a perfume from a new website, you visit them and instantly there will be a pop up that will probably say, subscribe to our newsletter and you will get new customers. Get 10% off.
+
+00:19:35:36 - 00:20:01:21
+不明
+And I think most of the brands have this, but new customers, they have some sort of campaigns running. So my question to you is that how many of you wait for a personalized offer promotions before converting on a brand for the first time? It's great, right? Because we all do that right? So now let's take, let's take a look at how conversion timing is important across various industries.
+
+00:20:01:25 - 00:20:25:31
+不明
+So the average visit to conversion ratios, across various industries, if you take a look at that. So for an e-commerce, basic e-commerce, for a new customer, it takes around 3 to 5 visits to convert. For something complex like B2B, it takes around 7 to 13 visits to convert for travel. In hospitality, they take a customer you around 3 to 8 visits to complete and for high value goods.
+
+00:20:25:31 - 00:20:55:59
+不明
+For example, if it is a car or real estate or something more complex, it takes anywhere around ten post plus visits to convert. Now, the factors that affect the conversion timing first and foremost, urgency. So your limited time discounts. So it's for example Amazon frequently has big billion days. There are Cyber Monday Black Friday. So these are the urgency that they create a sense of urgency in users that it is a limited time deal and you have to grab it.
+
+00:20:56:12 - 00:21:22:24
+不明
+So when if you do not need something, you probably just, you know, all of this stuff. The product complexity also affects it. So, if, for example, if you are going to look for a new headset, new headphones for your office device, then you have to look at what is the, what is the ANC ratio and how it compares to the other devices, because there is just a lot of devices that are available in the market.
+
+00:21:22:29 - 00:21:48:08
+不明
+So that adds that complexity adds to the research time and also time to convert. Trust building is also very important. If it is a new brand which you haven't really heard of, you will definitely take longer time to convert. So you have to have multiple interactions to build this, you know, brand. And also because there are so many scams that are live these days, we need to know that this is a brand we can trust and we can purchase from and also channel influence.
+
+00:21:48:08 - 00:22:13:08
+不明
+So how your marketing and marketing activities are performing, how you represent your brand in the social media, how you retargeting campaigns are performing that really impact how soon your customers will convert on you for the first time. So to identify high engagement and low conversion behaviors in Adobe Analytics, we can look at we can essentially look at different types of behaviors.
+
+00:22:13:13 - 00:22:35:11
+不明
+So if we just think objectively across our different industries, like I believe every one of everyone here, belongs to different industries. So for you, what will be the high, high engagement? For example, for me it would be users who are repeatedly viewing the bill pay prepaid plans. They are clicking on the upgrade buttons, but eventually they are not converting.
+
+00:22:35:15 - 00:22:58:33
+不明
+So some examples would be high product page engagement, where users are repeatedly visiting the product pages they are spending a lot of time browsing your products, but they are not converting. And some other metrics to track here would be product views, average time spend and page views. Also frequent user search features. So you have I think most of us have this search feature.
+
+00:22:58:38 - 00:23:33:04
+不明
+So if users are frequently searching for some item, but they are exiting from the search page. So that means that users are interested in your products. Users are looking to, take further action, but probably they are looking for some promotional offer and they are not, they are not converting. So there you will look for internal searches, exit rates from search pages, search terms, etc., but promotion page, and also these promotion pages like you have frequent promotions and you would like to see users who are frequently engaging with promotional offers, but they are not taking any offers.
+
+00:23:33:17 - 00:23:56:02
+不明
+So you can just take a look at banner, click through rates, your product, landing page, visits, promotion, landing, bounce rate. That's actually an important one. And of course, multiple visits without conversion like users are coming. They are visiting you for the multiple times, but they are not converting. So the segments that staff I created for user behavior metrics that corresponds to high engagement without conversions were.
+
+00:23:56:06 - 00:24:24:24
+不明
+So they looked at their on a visitor level. Again, they looked at product views, visits, card additions that exist in a certain amount. Your product views and visits exist greater than five. I mean that just a simple segment, right? But for then the order does not exist. Something another segment that was more specific to the behavior, their internal searches, product clicks, visits exist, which has like, you know, greater than five greater than ten or something.
+
+00:24:24:33 - 00:24:47:51
+不明
+But again, the conversions do not exist. So what Stefi I was able to achieve with the Adobe Analytics segments? Well, they were able to launch some personalized recommendations for the premium products for their, frequently visiting customers. They were able to show them high value loyalty benefits, so they were able to show them that we had this great loyalty program, then worked with this.
+
+00:24:47:51 - 00:25:13:40
+不明
+You get these VIP membership offers. They showed them exit intent pop ups with lucrative offers. When users were, going to leave, they showed them the upsell cross-sell bundle offers whenever the user visited. Next time to incite a sense of urgency. They started with limited time discount codes and also offered free trials, and they also showed them personalized feature bundles with low cost.
+
+00:25:13:45 - 00:25:37:25
+不明
+Now, something else that they were able to achieve these segments were they were able to also understand the deeper insight into the customer journeys by the users are not converting. What are the friction points that are keeping users from converting? What are the behaviors of the most frequent customers in the group? Similar traits of the different customers and these customers know about promotions.
+
+00:25:37:25 - 00:26:01:05
+不明
+It also does IT promotions have that sort of, awareness or not. So with these segments and this analysis staffer was able to achieve 27% increase in digital conversions, 20% reduction in CART abandonment and 15% lower acquisition costs, which was really good for them. So the key message here is that quality of our traffic is more important than quantity of our traffic.
+
+00:26:01:19 - 00:26:24:46
+不明
+So what we need to do is we just need to focus on keeping a high value, high value customers who are highly engaged with that and focus on converting them. So with that, we are on a food strategy, which is turn prevention campaigns for establishing strong customer relationships. So to start, begin with let's just take an example of understanding churn.
+
+00:26:24:50 - 00:26:48:29
+不明
+So let's say you are throwing an epic party with good food music party, snack and everything. But after an hour or so, your friends start leaving you saying it's not you, it's the vibe and I'm off from here. So that's customer churn. When customers decide to stop using your product or brand and they decide to ghost your brand like your bad business party.
+
+00:26:48:34 - 00:27:13:55
+不明
+So the a challenge of doing so. What cookie Guide is doing right now. So Cookie Card is an online marketplace for all things weird and wonderful. Like that guru chipmunk you will see or you know, some something very so the analysis of cookie card so that the loyal customers have just start, stop showing up anymore. They are not, coming in.
+
+00:27:13:55 - 00:27:41:26
+不明
+They are showing signs of disengagement. Now, what cookie wants to do, they want their customers to come back. They want to retain their customers and they want to prevent churn. Now, to do that, let's just take a look at why should we really, you know, hear so much to prevention now before, start that there was something I read very recently and that really resonated with me that we all talk about customer lifetime value.
+
+00:27:41:31 - 00:28:09:47
+不明
+But do we talk about the customer seven day 14 day 30 day value? I think this is something that we need to start taking a look at, because acquiring new customers is any way 5 to 7 times much more costlier than retaining the old ones. Your customers. If we just boost our customer retention by 5%, that has the potential of increasing our profits anywhere between 20 to 95%, which is massive.
+
+00:28:09:52 - 00:28:33:40
+不明
+So I think, we should really, you know, we should really value the customers that we already have and we should really work on keeping them. So again, question. So how many of you have ghosted a brand because something better, better came along. Yeah, okay. We all do that. So let's see how we can identify you and using Adobe Analytics.
+
+00:28:33:45 - 00:29:01:12
+不明
+So for that we can build in Activity Score. So we can just look at what your declining engagement signals are. Now that could be reduced time spent on site. Fewer logins, fewer visits fewer page views. That again is very relevant to the industry that you belong to. Some examples of, identify in activity signal metrics in Adobe Analytics would be past customers who used to be there, but they have stopped engaging.
+
+00:29:01:12 - 00:29:36:56
+不明
+No engagement in the last 60 days reduced page views or session duration compared to their average card additions without purchase in the last 30 days. No active logins in last 60 days. Now about all active logging. A colleague of mine told me a very interesting thing that if a customer is going to switch from, let's say if they are looking to change their telecom provider, they will not actively log in, but they will probably just log in once or twice towards the end just to see if their contract is about to expire or when is the date of their contract expiring.
+
+00:29:37:01 - 00:29:52:55
+不明
+So then you know that if a customer is coming very, very less logging and it's it's not an active logging. So they're not engaging. They're just coming to see, okay, this is my last contact data and disappearing. That means your customers said about Bitcoin. And also less than three visits in three months, which is I think basic.
+
+00:29:53:00 - 00:30:17:17
+不明
+So, along with this, Adobe Analytics has this excellent resource cohort table for giving you retention insurance rates. Now this table, it is so feature rich. You can just look at by dimensions. And you know there are so many retention rates churn rates. And I think it deserves the skill exchange on its own. So I will not go into the details of of cohort table.
+
+00:30:17:22 - 00:30:42:59
+不明
+So what cookie card did to build segment using Adobe Analytics will so they use the customer loyalty dimension to this customer loyalty dimension. It has four possible values which is not a customer which is zero purchase then new customers one purchase first. Then it is new customers, then it is loyal customers, which is way greater than three purchases.
+
+00:30:43:13 - 00:31:02:01
+不明
+So it's a very, very good dimension. It is out of the box. Just use it. You will see what is the percentage of your customers that are loyal to you, but in the last 60 days, or you can just remove the date range from here altogether and you can just use it to see that these users have less visits, less logins and less orders.
+
+00:31:02:06 - 00:31:30:11
+不明
+And other thing that you can just see that an order exist. But then within two months or a stipulated duration, the order do not exist. Again, that means users are not coming back. So what? Cookie card? How cookie got targeted customers to prevent churn. They send them targeted win back emails by saying that these are personalized product recommendations, special discounts, loyalty points for you for renewed engagement.
+
+00:31:30:16 - 00:31:53:53
+不明
+They also send them the engagement incentives. For example, if you are back to us, there are some free months of, subscription that we are giving you free shipping we are giving you then they also, when the users were not on their website, when they were across different channels, they send them the retargeting ads, display and marketing, campaigns to bring them back to their site.
+
+00:31:53:58 - 00:32:27:49
+不明
+And when customers were on their side, they showed them on their display campaigns to make them convert again. For example, just again, free shipping, some higher incentives and discounts for when they return. So we did a cheaper cookie card. They were able to lower their churn rates by 15%. They were able to increase the activation of disengaged customers by 7%, which actually overall increase their digital revenue, digital channel evolution by 5%, which is actually good.
+
+00:32:27:53 - 00:32:55:17
+不明
+So the key message from this strategy is that churn prevention is a key for building strong customer relationships, fostering digital channels growth. That brings us to a last one, which is propensity based segmentation for capitalizing convertible behaviors. So let us take a look at specular, which is our online smart glasses selling platform. And they are encountering few blurry spots in their convert conversion funnel.
+
+00:32:55:22 - 00:33:28:42
+不明
+So the problem is that their acquisition costs are skyrocketing. Their final conversion rates are not skyrocketing. They are just going down. And the generic marketing is not resonating with the customers, and customers are just not converting. Most of their customers are leaving without buying. They have very, very high drop off rate. So what specular wants to do, they want to identify those customers that are most likely to convert and only convert them because they also want to reduce their acquisition costs.
+
+00:33:28:47 - 00:34:00:54
+不明
+So the solution is that we can use propensity based segmentation. So what it means is that you just identify the users who are not converted, right? Who are not converted right now, but they exhibit similar behaviors to your high value customers. So this corresponds to so you it's essentially a three step process where first you will define a high value criteria to identify factors that corresponds to high value customers per industry.
+
+00:34:00:59 - 00:34:35:54
+不明
+So now again it will depend. But industry that whether that's orders, whether that's subscriptions or travel. So when it becomes high value to you, you have to identify that high value criteria. Then you have to match your high value criteria with your Adobe Analytics metrics. And then you cluster you pre conversion behaviors. So users who have converted end users who have who are providing you brand high value, just look at their pre conversion and even post conversion behaviors to see what is the overall for example, what are the downloads that they are focusing on?
+
+00:34:36:06 - 00:35:02:27
+不明
+What are the pages that they most frequently view. Do they look at your how to guides and everything. Then you cluster those behaviors and you identify the customers who exhibit same behaviors but without conversion. Now all that's left is to personalize and measure impact. So you deliver your personalized content sales offers, early access discounts, and targeted banners to promote products or services.
+
+00:35:02:27 - 00:35:36:18
+不明
+For those, users who you think have the most propensity to convert. So, how you can segment convertible behaviors in Adobe Analytics. So for this, there is some key behaviors that we can track. For example, asset consumption. So again what are the key downloads. What are the newsletter subscriptions. What are the videos users are viewing. So take it as for example, if I am looking to convert on a brand or I want to, but I am just not converting for the first time, I would probably be looking at the manuals, how to guides.
+
+00:35:36:22 - 00:36:06:45
+不明
+But that product can do to me, you know, what are the, I would probably be looking to watch videos. So all these, behaviors corresponds to customers who are highly interested in your brand. Then you can also track product views, your product page views, views to your how to guides, your videos actions and your form interactions that users who are, you know, visiting your contact form or others order forms, callback forms, but they are not converting.
+
+00:36:06:49 - 00:36:33:30
+不明
+You can also look at users who are adding a product to the cart. They are in the consultation phase, but they have not yet converted. You can also look at the users who are spending more than average time on your key pages. Now an example segment here would be that you look at download ID for example. This is just a sample asset that this asset corresponds to a high value, behavior for you.
+
+00:36:33:35 - 00:36:59:25
+不明
+So just see that this download exists for this customer. But online orders do not exist. So what? Spectacular. Did to convert their convertible traffic. Well, they were able to engage users who had a high propensity to convert by showing them dynamic offers. So they started showing them dynamic banners wherever they went, like there are smartglasses that are restocking.
+
+00:36:59:25 - 00:37:24:29
+不明
+Soon they also send them personalized email to show them that if you're still thinking about those smartglasses, here is additional 10% of they showed them exclusive offers, VIP discounts to make to kind of, you know, propel them towards conversion. And they also shown them live chat images. So when users were on their pages, they know that these are the customers who have high propensity to convert this.
+
+00:37:24:29 - 00:37:53:56
+不明
+Show them the nudges. Are you struggling to check out what is it that you are? I mean, is there a problem? Can we help you out with. So, and what, spectrum was able to achieve through data driven targeting, they were able to get higher conversion, retention and revenue rate with 27% increase in conversion, 20% reduction in cart abandonment, 15% lower acquisition cost, which was very important for them, and 20% increase in repeat purchases.
+
+00:37:54:01 - 00:38:19:24
+不明
+So this overall increase their sales and customer acquisition, which is what we get from data driven targeting. So the key message here is that we don't need more traffic. We just need to convert right people with the right message at the right time. So that is very similar to that. You you just need to focus on the quality of traffic and not just the quantity of traffic.
+
+00:38:19:29 - 00:38:41:50
+不明
+And I know that these days the busses that get more you we all launch campaigns to just bring more, visitors in. And I think our campaigns are very much focused on, whether or not we were able to bring, let's say, 100 users to the website. But I think the focus should be that out of those hundred, how many were actually converting?
+
+00:38:41:55 - 00:39:13:27
+不明
+How many became your loyal customers? How many were able to provide some sort of value in terms of customer knowledge value, customer influence, value. And I think that's what we should target more. So, in summary, I'll just summarize the five strategies that we discussed. So the very first strategy that we discussed was prevent preventing digital leakage, where we can reduce interactions with assisted channels by timely targeting our users, which has an increased cost savings.
+
+00:39:13:32 - 00:39:44:37
+不明
+You can reward loyalty of your customers to implement strategies to turn your loyal, loyal customers into your brand ambassadors. So it's actually a good one. You can just give them some incentives to promote your brand. That will increase your brand advocacy then, high engagement, low conversion, which will identify and nurture your engaged users. Basically, it will convert your, frequent visitors to frequent customers and just have a high value customers.
+
+00:39:44:37 - 00:40:09:28
+不明
+So it will increase your acquisition and adoption churn prevention, where you can build and activate Windex segments to Adobe Analytics segments. And this overall will increase your customer loyalty and then we just discussed, propensity based targeting, where we can use Adobe Analytics to find users who have the high propensity to convert. Now, this will impact your revenue directly.
+
+00:40:09:33 - 00:40:32:03
+不明
+So, the key takeaway here to implement any of these strategies, I think the steps we need to take is first we need to identify our goal. So this strategy or even if you want to, you know, come up with your own, the first and foremost thing that we need to do is we need to identify what is the business KPI that is most important to us.
+
+00:40:32:08 - 00:40:56:21
+不明
+So that needs, some what is your business KPI that gives you the maximum ROI on your digital infrastructure? Then you map, that KPI with your Adobe Analytics data. So this is something that you just find out that if you if orders matter to you, then of course it's straight straightforward order. But if, some, you know, more complex systems, for example, B2B, it's lead generation.
+
+00:40:56:21 - 00:41:21:26
+不明
+So you have to identify which lead generation matters to you, and you just, map your metrics to the KPIs that are available in Adobe Analytics. Then you create your segment and audiences, then you analyze and personalize. You use those segments to analyze the behaviors of your users to drive insight. And you just see what how best you can target and personalize your users.
+
+00:41:21:31 - 00:41:42:53
+不明
+And there are many strategies to do that. And of course, there are different systems that will allow you to do that. Now the most important things measure the wins. So for this one, and I think for data nerds, like, I'm hoping most of us are in this room, I think we all do the hard work of coming up with strategies, crunching the numbers, getting something implemented.
+
+00:41:42:58 - 00:42:10:48
+不明
+And, if we present the numbers, it kind of gets overlooked. Like, they probably don't care that you were able to, come up with a solution out of thin air. All they care about is numbers. So I think it's very important that we represent our wins in a business format. We need to be able to communicate our values in terms that that directly relates to the, business values and kind of gives you the leverage that we are doing a value addition.
+
+00:42:11:02 - 00:42:39:11
+不明
+And I think the senior executives probably do not care as much about. But when behind that, all they care about is what was the measurable result. So we have to focus a lot on, what is a win that we can measure and present it. And then of course, if we are able to do all that, I would say that you will have happy customers that are happy to give you five star reviews, but more importantly, you will have a happier head of digital.
+
+00:42:39:16 - 00:43:04:49
+不明
+So just a few more things really quick. Please take a moment to, submit a, review on the survey in the summit app. You get a chance for a Starbucks gift card or a Bose headset. Headphones. We want to make this the best we can. Moving forward. So we read every single comment. Let us know what you liked, what we might be able to improve on.
+
+00:43:04:53 - 00:43:36:47
+不明
+Also, go check out Experience League. It's a place to, get, personal learning content, build your skills, network, get technical support for our experience league.adobe.com. Isha mentioned her user group. But user groups are a place for, customers to network with other customers. They're all customer run. You can problem solve. You can, share ideas, best practices, technical learnings and, get more education.
+
+00:43:36:52 - 00:44:02:02
+不明
+And finally, we are, going to be opening our applications for the champion program in a couple months. This is a group of who Adobe recognizes as some of the best practitioners in the world. If you're interested in applying, please do. Also, if you're interested in just talking to one of the champions, we would love to connect you with somebody to work with you on.
+
+00:44:02:02 - 00:44:20:06
+不明
+Some projects are working on if you have any questions. Scan the QR code, and, we can connect to you. We are going to take about a 30 minute break. We'll be back in at 1030 for the next sessions. Hope. See you there. Thank you, everybody, and have a good one.
+

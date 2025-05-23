@@ -1,0 +1,468 @@
+00:00:00:12 - 00:00:22:21
+不明
+Thank you for coming. Yeah. So my session is on unlocking the power of universal editor. Particularly focusing on the universal part of that name. So the fact that it doesn't matter what CMS you're on, whether you're on cloud or M65, you can now use Universal Editor. So first off, probably you know, who is who am I?
+
+00:00:22:26 - 00:00:41:31
+不明
+Some of you might know me, but, if not, my name's Marty Noble. I'm the CTO of X. I own the UK with wholly owned by IBM. And I'm responsible for a team of solution architects and developers. We particularly focus on Am and then the surrounding technologies at AEP and target and things like that.
+
+00:00:41:36 - 00:01:07:14
+不明
+As I said, a lot of my work is in solution architecture. So I particularly focus on Am, but now sort of broadening out into like AP and the surrounding things. I'm a lead architect for the martech solutions retailer, and we are actually using universal editor with managed services and Am 6.5. And this is how it kind of I got into it and why I wanted to kind of talk to what people say and kind of give you a bit of an intro.
+
+00:01:07:19 - 00:01:28:37
+不明
+I'm also a three times Adobe Champion. Here I am with some of my fellow champs. I think some of them are in the room today. Over at the, Champion Forum in San Jose. I'm also just recently joined the Community Advisors program. I'm a dad of an almost eight year old child and two cats, and I am a self professed geek.
+
+00:01:28:38 - 00:01:50:37
+不明
+You can see here the breadboard computer that I built during lockdown. And I'm also a maker. I love to kind of get to spend time in the shed making things. That includes things like lightsabers and jewelry for my family. And we'll actually see some more examples of the jewelry that I've made later on throughout the things. I've kind of built a little website to kind of demo this using some of that content.
+
+00:01:50:41 - 00:02:14:09
+不明
+So enough about me. Let's talk about what we're going to cover today. So we're going to first talk about like what is the universal editor. Then drill into kind of authoring with universal editor and how that actually works. We'll look at the component properties panel, so how we actually configure components. And then we'll actually look at some of the limitations.
+
+00:02:14:09 - 00:02:34:30
+不明
+So where you might not be able to do things exactly the same way as you would normally do things. Then we'll go a little bit deeper. Look at actually how does universal led to work. What's the architecture and why is it actually universal. And then how you go about integrating that into your applications. And then we'll look a little bit at the extensibility.
+
+00:02:34:35 - 00:02:51:55
+不明
+And then I'm going to talk a little bit about how I ended up getting here and what my kind of journey with Universal Editor is to give you an idea of, you know, actually just how easy it is to get onboarded. And then we'll open up for questions at the end. So what is the universal editor? So it is the newest, editor option that you have.
+
+00:02:51:55 - 00:03:15:07
+不明
+It's kind of a ground up build. The idea being that you can have different backends, different front. It doesn't really matter what technology you're on. You can use Universal Editor to edit your content in a visual way. And the idea of it is also been because of that, sort of built from the ground up. It avoids a lot of the historic issues we've had, particularly with headless content management being able to do with quick editing.
+
+00:03:15:12 - 00:03:40:08
+不明
+There's always been sort of limitations and issues or technology sort of impacts. So let's start by comparing Universal Editor to the other editors that we have in Am. So first up is the content fragment editor. So this is usually, you know, supporting our traditional had this approach. So we can see here we're opening up content fragment switching to preview going and then editing our content fragment and then switching back to previewing.
+
+00:03:40:08 - 00:03:57:47
+不明
+So it's a sort of disjointed a little bit process. But you are storing your data and content fragments in kind of a structured way. They get combined and exposed and then read by your front end. And in this case, your front end then tends to very much sort of own the layout and control. And the CMS owns the data.
+
+00:03:57:50 - 00:04:17:59
+不明
+So it's great if you've got a sort of a like pure separation of the data, but if it's a bit more limited from a content authoring perspective. Next up is the site's editor. So much more focused on your head full implementations. So here's an example of the of the weekend site. You can see here nice Wysiwyg authoring experience.
+
+00:04:17:59 - 00:04:50:19
+不明
+We can do inline editing or we can use dialogs and things like that. Historically we have been able to do spar editing in the site's editor, but actually with the release of 6.5 long term support version that's now deprecated. So that's no longer a recommended approach. And actually the recommended alternative is to go to Universal Editor. And this is actually why we ended up at rather moving to Universal Editor, because we explored these all these options and actually came to the conclusion that Universal editor was kind of the way forward for us.
+
+00:04:50:23 - 00:05:12:41
+不明
+Last but not least then is the universal editor itself. Just for all of these demos, what I've done is I've built a little Next.js based headless website, just to kind of show off some of my jewelry designs to you and just give you a feel for actually how simply easy it is to control content authoring and kind of just demonstrate all the different functionality that we've got in the editor.
+
+00:05:12:46 - 00:05:39:37
+不明
+So Universal Editor is designed to be universal. The idea is you have any content from any backend and any frontend technology. It doesn't matter. You get Wysiwyg authoring both for content fragments, page content, even actually services content. Or in theory, any other custom backend that you might have wherever the content is stored. The content authors effectively don't need to know or care, because for them it's just editing content, right?
+
+00:05:39:37 - 00:06:04:07
+不明
+They're seeing a visual representation of the content. They can select it, they can edit it, and then Lego will drill into a lot more how it kind of works in the later part of the session. So a bit of a comparison of the editors. So the content fragment editor, it's kind of built into am, it's, you know, form based tends to be a bit more sort of, decoupled from your UI.
+
+00:06:04:11 - 00:06:27:00
+不明
+And, you know, primarily really focused on those, those headless implementations. We then got the site editor also built into Am. It's very it's page based. You get the great advantage of like Wysiwyg and inline editing. So you're seeing the content as it, as it's going to look when it's published out, but it's much more tightly coupled between the CMS and the front end.
+
+00:06:27:05 - 00:06:48:36
+不明
+And it really does focus on those helpful implementations where the CMS is actually outputting the HTML, writing the content directly to the end users. And for headless setups, historically, it's always been a very complex, technical, thing to sort of implement. And then finally we've got the universal editor. It's separate from AMS that lives in the experience cloud.
+
+00:06:48:41 - 00:07:11:01
+不明
+We've got Wysiwyg and inline editing at both sites and content fragment content. We've also got support for any backend, including edge delivery services. And as we'll see a bit later on, the integration approach is really simple. It's so much simpler than than what we had with things like SP editor. So it really is sort of built for, for, for being used and built for the developers as well.
+
+00:07:11:05 - 00:07:36:14
+不明
+So we'll now jump into actually authoring with the universal editor. So as I said, I built a demo site for this. My site makes use of both content fragments and page data. It doesn't include edge delivery services. That's not one of my particular, capabilities. But obviously if you're interested in that, there's there's people down on the Adobe booth who can really drill into his delivery and how that works with Universal editor.
+
+00:07:36:19 - 00:07:58:53
+不明
+As I said before, it's built on Next.js, which is, you know, for more, you know, the latest kind of flavor of react. And I will just say you might spot some little error things popping up. That's just because this is a dev environment. Also, I really apologize. I'm a backend developer. I'm not a frontend level designer, so I really do apologize to any designers or frontend devs out there if you're offended by the look and feel of my site.
+
+00:07:58:58 - 00:08:26:08
+不明
+I'm a backend dev who knows enough about frontend to be dangerous. Okay, so start off with page templates. So obviously we need to create pages in our site. One of the big things about with universal Editor is we don't use most of the functionality of editable templates in Am. So a lot of things, like, you know, policies and configuring like allowed components on pages, all those kind of things.
+
+00:08:26:13 - 00:08:43:19
+不明
+They don't apply in the universal editor world, but we still need a page template to define the different types of pages we can create, and to sort of own the initial content. So we can actually go about creating our pages, but all of the rules and the control about what components we place, that's much more handed off to the front end.
+
+00:08:43:19 - 00:09:02:09
+不明
+And it's a universal editor itself. So we're going to see here actually going to create a page. So we go into our sites view as normal. Nothing different here. We click you know create a page select our template. I'm going to go ahead and give it a name. Hit create. This is all familiar to anyone who creates pages.
+
+00:09:02:09 - 00:09:22:46
+不明
+Hit done and everything's done. Then we hit on a page. This is where it gets different. The moment we click edit Am has been configured here the for pages within this site. It should trigger the universal editor and should open up that on my headless site rather than opening up the site's editor. Now you can also do it the different pages within your site or different sites.
+
+00:09:22:51 - 00:09:40:17
+不明
+Can you use continue to your site's editor or use universally to so you're not locked into one or the other? You could have it initially. Your main site remains on sites editor, but some microsites you switch over to universal editor and things like that. So you've got flexibility in configuration there to to kind of set it up however you want.
+
+00:09:40:22 - 00:10:02:18
+不明
+So next we're going to look at actually how we go about authoring content fragment data. Now the beauty of this is that as far as the content author is concerned, it's no different to authoring any other content in the universal editor. So I'm going to start off just to give you to show you how it's working. This isn't necessary, but we're going to drill into the, into the dream and find the content fragment for our footer just so you can see what the data looks like.
+
+00:10:02:18 - 00:10:22:30
+不明
+Currently. Then we switch over to Universal Editor. We're going to scroll down to the footer, and we're going to edit and do a bit of inline edit on the footer. So we make our changes in there. The moment we click out of there the content fragments been updated in the back end for us. We can switch back to our content fragment and refresh it.
+
+00:10:22:35 - 00:10:42:18
+不明
+And it's as easy as that. So as far as the content editors concerned, they don't need to know that that the content fragment is just content in the page. And that fragment has been updated. If we publish the page, it's going to publish the page and the related fragment, because standard publishing rules apply. We can also go and do more complicated editing so we can use the properties panel.
+
+00:10:42:19 - 00:11:04:11
+不明
+So again if we select the footer open up the properties panel. We've got a list of fields there. And those have been automatically generated based on the content fragment model in Am. So universal Editor is able to pick up all of the fields there and just make them available to us for editing. As soon as we add to any of those fields, it's immediately writing that data back into the content fragment, and we can go and refresh it and look at it.
+
+00:11:04:22 - 00:11:23:56
+不明
+Now, I just will say, none of these are real addresses, so don't bother trying to follow me on the socials on those because I just made them up. If they do exist, it's someone else. Next up is Page Components. So again, just like content fragments, we can do inline editing and properties panel editing. So we'll start off by going actually adding a new component to our page.
+
+00:11:24:01 - 00:11:37:41
+不明
+So we're going to scroll up open up the tree view on the right hand side and select our container and hit the plus button. We can then go and add a component. In this case we're going to add a hero and it appears on the list. And then we can rearrange them. We can just drag and drop them into different locations.
+
+00:11:37:46 - 00:11:54:16
+不明
+We can scroll down to it. In fact, if you click them in the sidebar, it also auto scrolls to the component, takes you straight to it. And then we can just inline edit it. So we can put in a title. And then we can go and actually say we're going to open up the properties panel, and we've got all of the other properties in here.
+
+00:11:54:21 - 00:12:12:50
+不明
+So we can fill in a subtitle. You know, we've got images and any other, any other configurations for the specific to this component. The difference with the with this one is we'll say a little bit later on is for the page components. It's using a a model to define those fields rather than getting it directly from the content fragment model.
+
+00:12:12:50 - 00:12:25:08
+不明
+And as we saw there, we adding an image pops up a dialog as we normally say, just go and pick stuff from our demo directly integrated into Am. So we can then pull our assets and select those.
+
+00:12:25:13 - 00:12:43:42
+不明
+So we saw adding items to a container. The other thing we can do is add components, you know, child components of another component. In this case we're going to add something to our featured design. So in this case you saw when we pressed the add button it only showed jewelry card as an option. So this is using what's called a filter to control which components can be added with this.
+
+00:12:43:42 - 00:13:01:32
+不明
+Very similar to the policies you'd have in you editable templates you can define at the component level to say this component only jewelry card is a valid child of that. And actually jewelry card wasn't in the main container because it's not something you want to be able to place there. After that, it's just a component. As far as universal is concerned.
+
+00:13:01:37 - 00:13:22:19
+不明
+It sees a new component has been added to the page. It's now bringing up the authoring on there. We can go and configure all our fields, add an image to it, and we've immediately got a new item in our, our jewelry, featured set. Again, you can see we're opening up into the entire assets view and selecting our image, and then the content reloads.
+
+00:13:22:24 - 00:13:36:05
+不明
+The other thing we can do, obviously, is reordering. So in this case I want that one to appear a little bit higher. So we drag it slightly further up the list. And then actually if we do something wrong for instance, maybe we try and drag it somewhere is not allowed. Universal just takes care of that for us as well.
+
+00:13:36:05 - 00:14:01:33
+不明
+It's not going to let us do that because it's not the jewelry card component isn't allowed in our main container, so we just get a little error popping up at the bottom. Now next up is experience fragments. So this is something particularly insights. We tend to make a lot of use of for those kind of reusable chunks of content that we want sort of, you know, sets of of teasers or pieces of text that want to appear across lots of places on the site, but we want to still edit them in a kind of an experience way.
+
+00:14:01:33 - 00:14:15:32
+不明
+We want to do the UI in them and in the sites that this tends to be a bit disjointed because you place the experience fragment on a page, but then you have to go to the experience fragment editor to actually edit it, and you're not editing it fully in context. You're still in context of the experience fragment, but not in the page.
+
+00:14:15:37 - 00:14:34:51
+不明
+Now in Universal Editor, if you set it up the way I've got it set up here, as far as universal is concerned, there's an experience fragment on this page, but the experience fragment contains child components. Universal editor doesn't differentiate the fact that they live somewhere else. They're marked up and they've got the own data on them. So universal.
+
+00:14:34:54 - 00:14:51:19
+不明
+As you can see, there's an editable item there. And when we make those changes, it's actually saving the data into the experience fragment rather than the page and just directly editing it. So we have that sort of true in context edit view. We can go and switch into a different page, and we can see the experience fragments there on the page.
+
+00:14:51:19 - 00:15:02:10
+不明
+It's already updated. And again when we do the publishing, it's going to pick up the fact it's referenced in its boot fragment that's been modified and that will get published along with our page.
+
+00:15:02:14 - 00:15:21:58
+不明
+So we've kind of looked at actually how we author content, and we've seen the properties panel now wanted to just kind of run through what the options we have for making those properties panel. So what actually what sort of fields can we configure. So this is essentially what you would have had in your Am sites component dialogs. These are all the different sort of field types we have.
+
+00:15:22:02 - 00:15:40:12
+不明
+So first up is a set of kind of am specific ones. So these are ones where we're referencing content from the CMS. So we've got things like tags. We've got the reference field which is for assets. So we saw that when I was selecting images we've got Am content which is for links to other pages or piece of content within the site.
+
+00:15:40:17 - 00:15:58:29
+不明
+And then we've got the content Fragment and Experience Fragment reference fields, which allow us to pick those types of content and reference of them in our components. And all of those then end up basically showing these picker dialogs, which are going to take you to the relevant location within the CMS, let you select whichever content, and you can also configure them to start at a particular location.
+
+00:15:58:29 - 00:16:21:52
+不明
+So for instance, if for all of your assets, you always want to start with a particular folder, you can limit that and configure that for that. That particular image picker next up of the kind of general content types. So these are things like, you know, your radio buttons, your checkboxes, dropdown lists, standard sort of form fields that you might want to configure, and also things like date and time fields.
+
+00:16:21:57 - 00:16:41:25
+不明
+Next up you've got your text fields. So basic text you can also do validation on these. So if you want to turn it into like a phone number field or some specific format of data, you can apply formatting validation. And then the properties panel won't let you save the data if it doesn't match the required format. You can also have number fields.
+
+00:16:41:36 - 00:17:00:46
+不明
+You can set minimum and maximum all those kind of things. And then you've got the rich text editor. And this allows you to do your sort of standard, you know, essentially HTML content with, you know, you know, styling all those kind of things and all that within your component. Then last up are ones which are for sort of grouping.
+
+00:17:00:46 - 00:17:19:48
+不明
+So they don't actually store data themselves, but they're useful if you have a complicated component to be able to sort of group together a set of fields that might have a similar purpose. So for instance, if it's a link or some subset of the properties that you want to group them together, you can either put them in a, in a container which is then collapsible, or you can put them in tabs.
+
+00:17:19:48 - 00:17:38:13
+不明
+So then you can switch between them. And you've also got the option to do some sort of logic within your dialog that, for instance, if I turn on this show link option, we can make it so that the link text and the link itself, there are news shown in the in the properties panel if we need them. So therefore it's much easier for the content authors then to know I fill in the fields.
+
+00:17:38:13 - 00:17:54:14
+不明
+I can see if I don't turn on the link, I don't have to give a link text, don't have to give a URL because they're not going to get used. And so it gives you that sort of flexibility to build your your panel and to make it as simple as possible for the content authors to know which which properties they actually need to define.
+
+00:17:54:19 - 00:18:11:58
+不明
+So now we're going to look at actually okay, how do we break down a component. We've got a design for. Come on. How do we break that down into fields and properties. It's essentially the same process we would have had if we're doing it for a site's dialog. But there's just some specific ways of working we need to think about when we're interacting with universal editor.
+
+00:18:12:03 - 00:18:35:26
+不明
+So here's an example of a component. I've kind of broken it down. Obviously these are just mapping directly to these base fields. So we've got, you know, a text field a rich text field and an image. The biggest thing you have to be aware of, and the biggest change between kind of site's components and universal editor is the fact that the universal editor expects a very flat, data structure.
+
+00:18:35:31 - 00:18:54:46
+不明
+So you don't get, things like relative paths, so you can't have a piece of data stored as a child node within your, within your component. Right? So everything's stored at the top level and you can have multi-valued fields. So you can see here the image fields got a little add button. If I enabled multi you could have multi images but they're just stored as an array.
+
+00:18:54:46 - 00:19:14:46
+不明
+So I just a list of values for that field. And then the component can interpret that however it wants to. And the reason behind this is that flat structures really is necessary for the kind of universal bit of universal. All right. It needs to be consistent and sort of simplified effectively so that then it can be sort of backend agnostic.
+
+00:19:14:50 - 00:19:31:55
+不明
+But that is also the biggest sort of change we have to make when we're thinking about how we, how we actually define our components. So you basically this is what the big thing you can't do, right? This is an example from the core components. Teaser. This is our call to action section where if you add a call to action it's adding.
+
+00:19:32:00 - 00:19:53:16
+不明
+So essentially a a complex multi field where it's adding each time you add a piece of text, a checkbox and a link, and those can be reordered and deleted. But that's actually quite a complex data structure because it's storing multiple pieces of data together. And they've got to be reorganized to get all those kind of things. And so that isn't directly possible in universal step.
+
+00:19:53:16 - 00:20:09:57
+不明
+But you could do that with a custom field type. So if you had a very specific piece of data you want, you could build a custom field, store the data how you need to. But then that becomes very specific to your your kind of implementation. You potentially also then means that migrating, if you wanted to shift from one back into another, it's going to be more complex.
+
+00:20:09:57 - 00:20:29:18
+不明
+So the alternative to that is to make use of child components. So rather than thinking of the CTA as being part of the like the teaser itself, we think, well, the CTA can just be a button component, right? It's just another component that can live inside of parent component. So any component as we saw before can be a container.
+
+00:20:29:18 - 00:20:47:40
+不明
+So in this case my hero here has a filter on it says you can add CTAs to it. So we're just going to add a couple of CTAs. And then they just appear in the list as editable components. As far as the UI is concerned, they're part of my you know they're part of my hero. But as far as the editor is concerned, they just child components.
+
+00:20:47:40 - 00:21:05:53
+不明
+They sit underneath it. We can reorganize them. You can we can delete them. We can do whatever we want. And they're being stored within the CMS essentially as children of that component. But we're just breaking it down from a sort of authoring a component perspective to just sort of separate it out.
+
+00:21:05:58 - 00:21:34:03
+不明
+The next option for that is, rather than explicitly adding them as child components, you could do it where within the component itself you have some kind of configuration field. In this case, I've just got a number field to say how many CTAs do I want? And then when I change that number to like to to, the front end of my component is displaying two CTAs, then editable items, and I just adjust these new components on the page and makes them manageable for me.
+
+00:21:34:08 - 00:21:54:45
+不明
+So this gives you if you've got a specific use case, for instance, if you've got different configurations for your component, you want to be able to say, okay, in this configuration, it's always got to have one CTA in a different configuration. That's all to have three CTAs, but we can never have to. That's not something you'd be able to do by using the add method, because there's always the possibility of content or it's going to add to and then that doesn't meet your design.
+
+00:21:54:50 - 00:22:07:28
+不明
+With this kind of option, you could just have a dropdown list that says, okay, it's mode 1 or 2. And that's going to define how many CTAs are going to get rendered. So it's kind of up to you how you specifically implement it. But in the end it's just a child component as far as the universe is concerned.
+
+00:22:07:40 - 00:22:30:52
+不明
+It doesn't see any difference with the way we do that. So we've kind of looked at all of the functionality. How it works. Next up is actually let's think about what's the limitations of Universal editor. So the first one is no inheritance management. So this is a big issue for some people because the whole point of universal is it needs to be universal.
+
+00:22:30:57 - 00:22:55:29
+不明
+But things like multi-site management and the way AMP does it is very AMP specific and universal editor isn't targeting. Am is the only CMS, so multi-site management doesn't make sense to be a core function of universal itself. But you'll be glad to know that actually the the universal editor team have released a, an extension for universal.
+
+00:22:55:30 - 00:23:17:08
+不明
+It's a about a week and a half ago, which allows you to do multi-site management and inheritance management. So it's literally just a button that appears at the top. You can break or reinstate inheritance. And that basically brings that piece of functionality that am specific into universal editor and therefore means you can do that multilingual, multi-site management kind of configuration within your universal service to set up.
+
+00:23:17:13 - 00:23:30:50
+不明
+The next one is no layout mode. This is actually common to a lot of the newer ways of doing things. For instance, edge delivery services. We have the same kind of thing, right? We don't. We no longer have editing where authors can go in and say, I want this component to be four columns wide on this breakpoint.
+
+00:23:30:50 - 00:23:51:32
+不明
+I want it to be eight columns wide on that breakpoint. Right. The the UI essentially takes over control of that. And we can always, completely hand over control to the front end like I did in my features Designs component. That component just defines that there will be three teasers on each row and desktop. There's going to be one on mobile, so the UI just controls it.
+
+00:23:51:32 - 00:24:11:13
+不明
+Or you could have configurations some kind of like column control to say actually in this mode I want to have one column. Now I want to have two columns in this section, that kind of thing. So again, you can effectively implement that just by defining the way your components work and working between the front end and the back end to implement the relevant sort of layouts that you need to build.
+
+00:24:11:18 - 00:24:32:38
+不明
+As we just touched on, we don't get any complex multi fields, but we, we know we can fix that by just using child components. And right now we saw the rich text editor. You don't have the ability to customize the rich text editor configuration. So you can't like you kind of a site's dialog. You can say, and this component, I only want to allow you know, simple things like bold, bold, italic and things like that.
+
+00:24:32:40 - 00:24:52:06
+不明
+No links or no no heading styles. That is not currently possible in the rich text editor. But I'm told by the universe of this team that within the next few months, they're doing some work there to make it so we can actually apply filter and configure those, those editors and make it more flexible. So now we kind of know how it works with how to use it.
+
+00:24:52:06 - 00:25:06:25
+不明
+We're going to look at actually how does it work. So I'm going to go down into the architecture I promise I won't go too deep. I am an architect. So I'll have to show you a three level diagram. Right. So top of this we've got a we've got our front end. So this is where our web application actually lives.
+
+00:25:06:25 - 00:25:27:18
+不明
+Whether that's a headless app or hey Phil doesn't matter. And it's also where universal Editor is UI lives in the middle layer we've got APIs. So that's a universal editor service which kind of is the integration piece. The universal itself. And then we've got whatever is our backend is exposing whether that's Rest APIs could just be HTML, it could be Json, GraphQL, whatever.
+
+00:25:27:23 - 00:25:43:10
+不明
+And then right down the bottom we've got persistent. So this is where in most of our cases right now is going to be am right. But it could be some other backend. And that's just where we're going to store our data in. It's actually going to sort of get written. So that brings a question like just how universal is it.
+
+00:25:43:10 - 00:26:02:52
+不明
+Right. And that's where that architecture really comes in and why it's built in this way. So we have the universal editor at the top. What it's doing when you make a change is it's sending a standardized message from the, universal editor to the universe. It's a service to say, change this piece of content in this location to this value.
+
+00:26:02:58 - 00:26:29:31
+不明
+And that's all it's doing. Universal editor services job that needs to work out. Actually, how to make that change in our back end. And what it does is it makes use of these sort of, back end plugins to understand how to translate between a change from the front end into a back end change. So whether that's, an edit in the JCR in Am, or it could be, a commit on a database in some database back end, it could be a git commit or an edit to a word document.
+
+00:26:29:31 - 00:26:53:15
+不明
+It doesn't matter as far as the front end is concerned, as long as we have a way to translate between the simple message from the front end into the more complex sort of back end specific message, we can make that change. And this kind of is then the flow that's going on. We've got our front end HTML marked up with some special attributes to allow universities to understand what's editable, where the content stored.
+
+00:26:53:20 - 00:27:11:44
+不明
+It passes that to Universal Editor Service uses a plug in to make the change that updates our backend data store, and that's going to then send new data back to our front end to rerender the website. And we just go around this loop continuously. And actually every time you edit anything, it's making that change and every changes made immediately.
+
+00:27:11:49 - 00:27:26:08
+不明
+So even when you go between fields in the properties dialog, each change you make is committed directly to the datastore. So it is in the case of when you click okay on your dialog, it saves. It's literally every time you make a change in one of those things. So you don't have to sort of confirm and commit your change in The Donald.
+
+00:27:26:13 - 00:27:49:41
+不明
+Now, this was originally only available on cloud service as a lot of things are, but actually the, universal editor team back in middle of last year, they built a backend plugin just for Am 6.5, and that's actually how we're able to use that in real there, because previously it wasn't a possibility for us. But now, actually, whatever version of Amazon Universal edits is there for you.
+
+00:27:49:45 - 00:28:09:46
+不明
+So now drill even deeper into actually okay, are the HTML level, what are we doing. So there's three files that actually, are used to configure the universal editor. We've got all component definition. So this tells it what components exist and what the structure of that component is. When we write it into the, you know, when we add one to the page.
+
+00:28:09:46 - 00:28:30:03
+不明
+So if we need to have template data, default values, those kind of things, that's where we define it in our component definition. We then have a filter definition which controls essentially those rules about what components can be titled of other components and all those kind of things. And then we have a model definition which defines these are the different properties of each of the components that we can place on the page.
+
+00:28:30:03 - 00:28:47:44
+不明
+So when we open up the properties panel, it knows how to render all of those fields. And those are just outputting to the page a script tags, universe data loads. Those are those Json files in and is able to configure itself. And this is then actually right down in the HTML level. What does a component look like when it's when it's mocked up for universal editor.
+
+00:28:47:48 - 00:29:09:05
+不明
+So the orange one at the top is the absolutely critical. This is data. Every resource. This tells the system this is where this data actually lives. And for this case it's a component is a content fragment. It's able to detect the fact this content fragment and we don't need to give it a the model. We don't need to tell it what the properties are because it can read that from the CMS.
+
+00:29:09:10 - 00:29:30:09
+不明
+We do need to give it, the prop and the type if we want to enable, inline editing. So it knows actually what which property of the, of the fragment, it's editing. And then the last one is then pink is kind of a nice to have, nice for authors to give it a nice label. So the in the blue borders that appear, it'll actually give you a meaningful label rather than just the name of the property that's being edited.
+
+00:29:30:14 - 00:29:49:28
+不明
+If we then go to a page component, it's pretty much identical. The only difference is we have another mandatory thing, which is the model. So this is telling universal editor. If someone selects this component and you show the properties dialog, use that model, that model ID to look up the set of fields that have to populate the properties panel.
+
+00:29:49:33 - 00:30:12:10
+不明
+So next up is extensibility. That's one of the, the sort of lovely things about Universal Editor is that it's got a base set of functionality which meets a lot of our needs, but actually there's always going to be sort of specific use cases where, you know, our business is different to everybody else's business and that we need to sort of implement some custom, piece of functionality.
+
+00:30:12:10 - 00:30:34:03
+不明
+So we've got multiple extension points. I will just say these are all POC and non-production examples, but they give you an idea of the different ways in which you can kind of extend the UI. They're all just deployed. Is that Adobe IO applications, just little micro react apps that give add a little piece of functionality and interact either with the universal editor with our application or with some back end.
+
+00:30:34:08 - 00:30:51:44
+不明
+So first up is the top rail. So I've got two things in here. One is a simple reload component. So this is actually demonstrating sending events from the universal editor into our web app to tell it to do something. In this case it's a simple reload, which particularly useful for me because my front end skills aren't so great.
+
+00:30:51:44 - 00:31:10:59
+不明
+So sometimes I just need to force the page to reload itself. But you could also implement other things. Like for instance, we have the MSM inheritance plugin. So this is a different version of this page, a live copy of it you can see here shows the inheritance is enabled. Go and edit the content. And that's actually just going to break the inheritance automatically because I edited a live copy.
+
+00:31:11:03 - 00:31:31:28
+不明
+And you'll see the little button automatically updates to show it's the link is broken if I want to reinstate that. Actually my version of the content is no good. I'll go back to the original, hit the button, re-enable the inheritance, and obviously it's a dev system, so it's a bit slow. So I'm just going to hit the reload button.
+
+00:31:31:33 - 00:31:50:24
+不明
+And when it reloads, we got back to our source content. So we're able to very easily sort of reestablish that inheritance pattern within within our content. Next up is custom field types. You might have spotted this actually, when we were editing the CTAs, when we clicked on our CTAs and open up the properties panel down the bottom, we've got this special field let's little edit button.
+
+00:31:50:29 - 00:32:06:14
+不明
+This is actually showing all the Google Google materials icons. So this is something that our frontend devs want to use because it's a great icon library, but it's a bit of a pain for content authors to be able to pick from because you can't see them. You need to know the exact name of the icon. You've got to go to the, you know, to the Google Material site, copy and paste.
+
+00:32:06:15 - 00:32:22:17
+不明
+It's kind of painful set up. So what we've done is made it so that when you hit the edit button, it pops up. That dialog shows you every single possible icon lets you search for them, see them for real, select the one you want, and it just writes that back into the instinct. And as far as the data set is just stored as text.
+
+00:32:22:22 - 00:32:47:31
+不明
+So Universal Editor doesn't doesn't care about the fact that it's a special field or frontend component. It doesn't know that it's a special field, it's just receiving a text value for that property. For that icon, it. And then finally we can add entire custom side panels. So this is essentially how things like the properties panel and the and the you know, this, the tree view set up, I've built this thing I've called component x ray.
+
+00:32:47:36 - 00:33:11:09
+不明
+You click on a component, hit the button, and it shows you some technical details about the component. This is just experimenting with, you know, interacting with the Universal Editors interface to actually retrieve information about the location and size of a component. If you want to sort of make some custom editing functionality or be able retrieve data out of the component itself, and then make some specific functionality that you need for your specific use case.
+
+00:33:11:14 - 00:33:37:17
+不明
+Okay. So last up, we're going to talk a little bit about sort of my journey with the university. Right. How I ended up on stage here talking about it to you guys today. So obviously I work for Zoho, which is part of IBM, and I'm working with Riada and we started off on our journey looking at the sort of technology and architecture that we wanted to build out for the site, and it was specifically, you know, from a delivery side, it's a Next.js web application to build to.
+
+00:33:37:17 - 00:34:05:49
+不明
+So to deliver the transactional website. And from a, an architecture perspective, they want to be headless, have that data available for to other sources. And so we looked at okay we're on Am 65 on managed services for complicated reasons. And that means we've basically got two options content fragments or editor content fragments that business don't like because they don't get whizzy, you know, in context, editing speed is said the devs hate because it's really painful to work with.
+
+00:34:05:54 - 00:34:22:48
+不明
+It doesn't natively support Next.js. There's a whole load of customization we'd have to do there to do that. And so we're kind of a bit of an impasse there. And then Adobe kind of came to the rescue and they suggested, well, why don't you use universal editor? And we hadn't actually even considered universal because obviously we're on 6.5 universal editors only cloud.
+
+00:34:22:53 - 00:34:52:30
+不明
+But they gave us a little hint that there was an early adopters program available, that it was going to come to 6.5, and it has now, I think since January, been in GA for 6.5 customers, both on prem and on managed services. So I did a bit of a proof of concept, so I took all then, you know, early stages, Next.js web app hacked it about a bit, inserted some code in there to make it so it could interact with and retrieve content and render those components.
+
+00:34:52:35 - 00:35:14:30
+不明
+And within about a week, working with Max and the team from the universal editor team, we had it up and running just to demonstrate this possible, to take our existing web app with minimal changes and inject our Am content into it and do In-Context editing in Universal Editor. And to be honest, I kind of fell in love with it a little bit, and I kind of I it was it's what I wanted it to be years ago.
+
+00:35:14:30 - 00:35:29:14
+不明
+I've used it for a long, long ago. And it's it's the dream of what I wanted that interaction to be like. And it was never it never quite lived up to it. And the universal editor, I think, has sort of won me over. And so we did that POC worked out, and then we were like, okay, we're on board.
+
+00:35:29:14 - 00:35:48:25
+不明
+We're going to go with it. We've been working with the universal. It's a team. There's a few little bits and bobs I've had to fix up, particularly with to do with how things like, you know, loading assets and things out of the, the UI, which is slightly different because you're on 65 rather than cloud. But all of that has been resolved and it's now we've got a super clean, nice, simple integration.
+
+00:35:48:30 - 00:36:13:28
+不明
+So let's summarize what we've been talking about. So universal Editor is essentially front end technology agnostic. You don't have to be on a specific front end. Technology can be headless could be had fold, could be something new that doesn't even exist yet as long as it outputs HTML. Universal editor can read that HTML and interpret the attributes we apply to it, and it's going be able to make things editable.
+
+00:36:13:33 - 00:36:31:18
+不明
+It's got a pluggable back end support. So you know, Am 65 and cloud supported. Now in theory any backend could be supported. You can also have mixed backends. So you can have the same. You can have the same page with content coming from multiple different backends at the same time to render that final overall UI to end user.
+
+00:36:31:18 - 00:36:49:57
+不明
+So you don't have to be switching between, you know, if you've got some custom backend system that's in Oracle or something that's providing one piece of data, you don't necessarily have to have the people go and edit that database. You can have you could actually augment it so that universal is you can also edit that content. We've got out of the box support for with we get an inline editing.
+
+00:36:50:02 - 00:37:08:02
+不明
+In of I am content whether you're on cloud or 65 and obviously support for edge delivery services. And obviously as we at it's nicely extensible, we can customize it to our own specific use case. And the main thing is to be aware of those simplified data structures. We have to slightly rethink the way we want to define on design.
+
+00:37:08:02 - 00:37:27:43
+不明
+Our components. But actually that's it. That can be a good thing as well. Just to think about, okay, how do we break down and structure things to take our UI and convert that into orthogonal things, rather than having historically what we sometimes ended up with, sort of, you know, the dialog of death that's just got hundreds of tabs and so many fields, actually, we can break that and force ourselves to simplify a little bit.
+
+00:37:27:48 - 00:37:47:11
+不明
+And obviously Adobe are actively developing new features. So they are bringing extensions, they're bringing new functionality to university to itself. And it is, you know, the new primary editor, and it's the recommended way forwards. And so I hope to quote myself, so you'll feel universal editor is way on. Well on the way to living up to its name.
+
+00:37:47:16 - 00:38:07:24
+不明
+And whether you're on headless using content fragments, your whatever your kind of implementation, it's kind of worth exploring and drilling and kind of getting to know it and kind of add it as a tool in your bag. It might not be for the implementation that you're working. You might still be pure sites or pure content fragments, but it's worth being aware of it and having it there available.
+
+00:38:07:24 - 00:38:25:36
+不明
+So actually in our next, implementation, maybe we go with Universal Editor and give it a try. And so I'll key takeaways. Number one, there's no excuse anymore. We used to have the excuse oh I'm sorry I'm on 6.5 I can't do that. That's not an excuse anymore. Definitely have a look at it. Give it a try. It's low complexity as we saw.
+
+00:38:25:36 - 00:38:46:28
+不明
+It's super simple to mark up a component. The devs will love it because they really don't have to add very much to the to their code. And you can just filter all of those attributes out, you know, at the KDM level or when you're exposing the content in production, and then you've got super clean content that doesn't have any of the authoring sort of additional stuff around it that isn't necessary to render the page.
+
+00:38:46:33 - 00:39:08:20
+不明
+And then it's really, really easy to try the documentation on on experience League is really good. There's tutorials, there's there's worked example showing you how to build it takes you both. So if you're on cloud service, but also if you want to run it locally so you can run 264.5, you can run universal editor service locally, get yourself up and running and just actually play around with it and try it out.
+
+00:39:08:25 - 00:39:23:59
+不明
+And so that is the end. And if there's any questions, obviously there's links here to experience league documentation. And feel free to connect to me on LinkedIn. I'd also be down at the pier to be a booth later on. If you got any more detailed questions that we don't get time for here, thank you.
+

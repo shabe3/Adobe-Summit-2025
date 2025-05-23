@@ -1,0 +1,548 @@
+00:00:00:05 - 00:00:23:38
+不明
+My name is Jose Jose Healy. I am the product marketing manager for Real Time CDP. Happy to be here today with you guys. I'm joined by, Shelby, who is the manager product management for real time KDB. Nice to see everybody. Thanks for being here. You got big pictures here today. Thank you for joining us today. Day after bash.
+
+00:00:23:40 - 00:00:47:23
+不明
+Hope you guys are all feeling okay. 9 a.m. to light subject for little humor. Get you started for the day. So before we get started, of course we're going to discuss some features and some capabilities of course, that we we're going to be working on. Shelby. Not me, but, we want to be sure that you guys know that everything is informational purposes.
+
+00:00:47:23 - 00:01:09:12
+不明
+There's no promises today. This gives us some flexibility to adapt to the to the market needs. Right. Cool. All right. Let's dig in. Like I said, today we want to be light. We want to be fun. We want to, kind of be the wrapper, I guess, of the entire week. We've learned a lot this week. Right?
+
+00:01:09:17 - 00:01:34:26
+不明
+We're going to go back to the basics and talk about how we accelerate your, audience strategy. What we hope to to leave you here with is, you know, we want you to discover why it's important to have an audience kind of led or audience driven. Really, the keyword is audience. Audience. Focus. Why? That's a priority. And and how to do that.
+
+00:01:34:26 - 00:02:04:55
+不明
+Right. How do you. We're going to show you some key tactics on, how to leverage those audiences. We'll talk about some tools that we have within our CDP, as well as, Adobe Experience platform. And, really maximize your strategy to get get personalizing how you come away with this with some cool tools for for you to get started tomorrow, maybe not tomorrow, maybe not even Monday, maybe Monday, a ten Monday.
+
+00:02:04:55 - 00:02:30:11
+不明
+That's fair. Cool. Okay. Let's let's dig right in. So before, we jump in, here's a quick agenda of this section. First of all, have a look at the landscape today. Have a look at the challenge that you know you may all be facing. You are likely in diverse sectors retail, finance, all of those. And, you know, at the end of the day, we're all facing a fundamental challenge.
+
+00:02:30:11 - 00:02:53:53
+不明
+And that's how how we understand our customers in this rapidly changing marketplace. So we'll discuss that and we'll leverage, you know, some industry research that's showing us some trends as well as some challenges and how to tackle that moving forward. Let's dive right in. See, how did that dive swimming. The theme here I'm going to the ocean after this.
+
+00:02:53:53 - 00:03:25:05
+不明
+So this this this is kind of ocean themed. Yeah. As you can see from the slides, we're all sort of in a fragmented, fragmented digital world. Right now, with tons of of audience signals coming at you, tons of audience data coming at you from multiple points, multiple channels, whether that be CRM, analytics, web, email, adtech, commerce, all of those.
+
+00:03:25:05 - 00:03:50:28
+不明
+Right? We're where each of those are building their own audiences in a bit of a siloed, way. The result basically is, is a lack of a single source of truth to connect that data. What we're we're seeing is an abundance of data, consumer data with signals all over the place from varying points in the experience for that customer really is is tough.
+
+00:03:50:29 - 00:04:13:20
+不明
+It's it's disconnect it. I can if you can think of a bad customer experience. You know, that's probably I, I can think of one for sure. I certainly can think of some good ones and I can think of some bad ones probably coming here today. You've had some good ones and some bad ones that makes you think, you know, just like I had a great experience with Air Canada here.
+
+00:04:13:24 - 00:04:36:04
+不明
+Love you. They know I need extra luggage, lots of space. Would love to look at the upgrades. I didn't, but I looked, I peaked, I look for flight. So yeah, there's there's a lot going on. We often feel disconnected. The customer feels disconnected. So what with that, we have a duplication of data. We have a duplication of resources.
+
+00:04:36:04 - 00:05:07:47
+不明
+We have a duplication of of money. So it can really make it difficult to to trust anyone version of that customer. Therefore, marketers really have an incomplete, picture of that journey, leaving lots kind of behind to be considered and without a solid, governance, framework. Those gaps really become wider. So making personalization and decision making a bit scattered so and more challenging than ever.
+
+00:05:07:52 - 00:05:33:22
+不明
+Here's an example in this slide where we see sort of a typical a typical customer journey that bounces from, different channels. We've got web, we've got we've got email and mobile without any sort of cohesive strategy tying them together. There's no continuity or or recognition of who the customer is across these touchpoints. Continuity. Why did I put that word in my slide?
+
+00:05:33:24 - 00:06:13:12
+不明
+Why did I do that to myself? Continuity or recognition of who the customer is? Those touchpoints then? They haven't identified this person, this gentleman, early on in the journey. We haven't set his data preferences. We haven't recognized his behavior or, therefore, the campaign becomes flawed. Right? We don't know who this person is, so it's really it's really difficult to tailor any experiences to him, his needs or his his wants are not going to be relevant, and they're not going to call him to, to convert, to have any action when their channels operate in silos like that.
+
+00:06:13:16 - 00:06:40:45
+不明
+And the, the the brand fails to carry over any personalization cuz the result of this disjointed experience is really that we leave the customer feeling unseen, undervalued, and therefore not really inspiring them to take action. To convert since the message isn't consistent. If they said to me, if her candidate said, hey, you know, why don't you pick your seat today?
+
+00:06:40:45 - 00:06:58:55
+不明
+And I just picked a great seat. I picked an awesome seat. Why do I need to pick my seat again today? I would feel that would leave me feeling frustrated. Another message today, another ping that I got on my phone that I didn't need to pull out while I was traveling. While I was already stressed out. So really, it's important to to ensure that those messages are relevant.
+
+00:06:58:55 - 00:07:17:25
+不明
+So we'll discuss how to really move beyond those silos rather than some random acts of marketing. We'll show you how our technology is powering brands today to deliver some seamless offers, cohesive journeys. And,
+
+00:07:17:30 - 00:07:41:59
+不明
+We plan that that. Yeah, that's exactly what we meant to do. Odd. Is it coming from the other room? Yeah, yeah. Oh, Wow. That's interesting. I mean, good news is you're not alone. You're not alone. I'm sure you felt this. Even really not alone. You're really not alone of a whole other set. All alone? Yeah, but the other session next door, the hearing.
+
+00:07:41:59 - 00:08:09:57
+不明
+Hearing Hillary Cook yesterday over at, the keynote was really interesting to understand. You know, how they struggled with with this issue and then moved beyond it. And the stats that they showed were really interesting. I would have loved to pop them in here and shown you again because they're so relevant. Really cool. But we've got an IDC markets heat report that shows some of the challenges that that, are shaping the way that we manage data.
+
+00:08:10:02 - 00:08:35:06
+不明
+And, really the major theme here is scalability and how we can move forward with that and how we need to handle large volumes of data seamlessly while maintaining real time capabilities. Right. One of the things they're mentioning, obviously, is the power to leverage data sources, unifying those sources, as well as, the critical role of activating those once unified.
+
+00:08:35:11 - 00:08:58:47
+不明
+And, of course, the enhanced focus on data privacy, of course, the enhanced focus on data privacy. And then we have David. Oh, I'm sorry. Then we have David Wallace's quote that really emphasizes the the last point. And that is to to really leverage AI and ML to uncover insights that are hidden in your data. And we'll show you how to do that.
+
+00:08:58:52 - 00:09:14:17
+不明
+Those will be crucial, of course, moving forward to being productive and competitive as well. So so where do we start with that. So I'll be I'll give you that if you'd like it.
+
+00:09:14:21 - 00:09:32:50
+不明
+It all starts with an audience driven marketing approach. Let's do a quick poll in the room. I just want to understand where you are in your audience strategy, whether it's you haven't even started, you're just at the beginning stages or you have something fully baked. So how many people in the room haven't even started on an audience strategy for your business?
+
+00:09:32:54 - 00:09:57:22
+不明
+With real time CDP couples? Couple hands, how many of you have something in the in the hopper and you're kind of ready to go? Awesome. Nice. And then who who's a pro? You should be up on stage. Yeah, I mean, their audience strategy stuff, everybody's role that I've come on up here that next slide please. Now that's great.
+
+00:09:57:22 - 00:10:25:31
+不明
+And this presentation is really about starting with the foundation around the audience strategy. So I think we can acknowledge that all of you are kind of in different stages of the process of, standing up real time CDP, bringing in your data and deciding what is the most relevant for the audiences that I'm looking to engage. But what we want to talk about today is a framework both to get you started, but also to to calibrate what you're doing and make sure you're on track.
+
+00:10:25:36 - 00:10:30:55
+不明
+For the next time you're ready to revisit that strategy.
+
+00:10:31:00 - 00:10:56:02
+不明
+So with an audience driven marketing approach, the the key objective is how do I better understand and engage with my target audience? That's based on a lot of different factors. There's behaviors, preferences. Interactions with your brand. Make sure that you're tailoring your marketing efforts with that in mind and not creating a one size fits all strategy.
+
+00:10:56:07 - 00:11:16:46
+不明
+Because we're no longer in the in the space where there's just too much data and too many opportunities to personalize to be in a space where, we spray and pray or we have, just one audience to rule them all. So today we're going to share a simple framework. It's a three phased approach.
+
+00:11:16:51 - 00:11:42:02
+不明
+Phase one is make sure that you set the foundation. So I said this before, but it really is critical. When you're bringing data into real time CDP, it's important to make sure that you have the right data for the types of audiences that you're looking to engage. So whether that be behavioral preferences or interactions on your page, think about it from the lens of your marketing strategy.
+
+00:11:42:02 - 00:12:04:33
+不明
+What are the goals that I'm trying to hit and align the data that you're bringing in with that goal? We acknowledge that the goals will change, and so even the makeup of your data will change. And that's okay. And it's a flexible it's a flexible tool. And so you're kind of, evolving with your business. But having access to the right to data is critical.
+
+00:12:04:38 - 00:12:34:19
+不明
+And then having a consolidated place to, build, discover and manage your audiences through, through the likes of audience portal is is also just as important. You're not limited to the data that you have within CDP. We also have the ability to connect to data warehouses through our federated audience. Composition capability. So that way you're able to access data sets outside of the tool that are more, timely and marketing in the moment.
+
+00:12:34:23 - 00:13:16:16
+不明
+And bring those in as a, composed audience, to still action on within our pre-built destinations. And finally, the most important thing I also talked about this, but set within the foundation, you need to focus on your data governance, controls and understanding, how to define the data, whether that's through the day, the use of data usage labels, setting up policies around how you want to manage for, access control, data export, and then finally consent, which is a critical piece when you're thinking about, both earning and also maintaining consumer, your, your customer and the consumers trust.
+
+00:13:16:21 - 00:13:45:15
+不明
+Now, once the data and governance controls are in place, you're ready to build. So this is where you can get into phase two, which is starting with that one audience, but then scaling to an entire, portfolio of audiences that you're going to engage across, across channels. So what does scale look like in an enterprise organization? Excuse me, it's all about having audiences available seamlessly across channels.
+
+00:13:45:15 - 00:14:06:50
+不明
+So through the utility of audience portal, through the connectivity that we have to the other application in the ecosystem outside of real time CDP as well as destinations, that are in our catalog, you're able to deliver the the content and offers for your audience anywhere your audience interacts with your brand. Through the power of those pre-built integrations.
+
+00:14:06:55 - 00:14:31:32
+不明
+Once your strategy is underway, it's time to move into phase three. With phase three, this is the ability to now measure, manage, and scale your audience strategy. So it's the the notion of continuous optimization. And we kind of talked about this at the beginning. It's not set it and forget it. I'm setting up the strategy today. But that may change over time based on the signals that I'm getting from the data.
+
+00:14:31:37 - 00:15:01:08
+不明
+So having the ability to action on having the ability to track and measure those insights, and then furthermore, action on it is going to help you on that continuous optimization cycle. So we do recommend that for every audience that you're activating, you do you again, tie that back to your goal. Was I looking to increase engagement? Was I looking to, drive conversions to my audience that I've that and if it didn't, how can I fine tune it if I did?
+
+00:15:01:22 - 00:15:41:03
+不明
+If it did, how can I, how can I capitalize on that and maximize that audience? So ensure that your framework is set up to, to collect those signals and actually identify those trends. You can do this through dedicated dashboards within real time CDP or even outside of the system. I know that that's, a part of a comprehensive audience strategy is to not just measure what you know within the tool, but also outside of the tool, so that you can see all of it and aggregate, govern your audiences through bulk actions, and permissions, so that your maintaining, the syndication of those audiences to different platforms.
+
+00:15:41:03 - 00:16:05:03
+不明
+You're thinking through, you know, what are audiences that are no longer serving the strategy. We can rotate those out, bring in new audiences, and then apply those learnings so that you can refine your segmentation in that continuous optimization cycle. So I'm curious how how would this actually work, in a customer experience. So I'm going to hand it back to Jose to, to talk through that.
+
+00:16:05:07 - 00:16:28:50
+不明
+Yeah. We want to approach it a bit differently in the sense that here's an example of grace. Our customer, what does it actually look like for her when we when we do this in this slide we see an example of, of grace, her personalization index up there, as you can see on the top, middle I would say is at about 72%.
+
+00:16:28:50 - 00:16:51:35
+不明
+That's pretty strong. It indicates how effectively our brand your brand is, is meeting Grace's needs and interests. Right. Whether it's viewing, a product page, abandoning a cart. She she may be exploring new categories. I'm all over the place when I'm exploring things. Right. And that's why I stop. Stop scrolling at 9 p.m. because we go from here to there to there.
+
+00:16:51:35 - 00:17:18:43
+不明
+But it's important that these channels are captured right where we're really leaving these. We are leaving these cues that influence the next personalization message that we're going to, to get, on the right. We'll see also that we're we're respecting Grace's data preferences. Right. Through clear labeling and governing controls, that means every data point is, is classified and managed responsibly.
+
+00:17:18:48 - 00:17:48:45
+不明
+Can you scroll up for me? Thank you. Responsibly building trust within Grace so she feels comfortable accessing some of the tools and her our aim is, is to help Grace get exactly what it is she wants faster, more easily and, more precise. Thank you. Well, really maintaining her trust to to to move on. This is what it means to have an audience driven, personalized customer experience.
+
+00:17:48:50 - 00:18:20:54
+不明
+Chat. There we go. And then we've got to fix this. Courted, by the Harvard Business Review, harnessing the power of true personalization requires, creating experiences and engagement at scale, which really get fine tuned. And, with each interaction that we go through, whether that's, here at one point, moving to the next, so on and so forth, really to empower the customers to get what it is they want faster, cheaper, more easily.
+
+00:18:21:03 - 00:18:45:36
+不明
+The real power lies in consistently being able to to deliver these hyper personalized experiences at scale. That's what's going to allow, our customers, your customers, to really feel heard, to feel understood and valued while seamlessly getting what it is they want out of the out of the, the interaction. So let's dig into that a little bit further.
+
+00:18:45:41 - 00:19:07:59
+不明
+So what we do is we we outline it, audience driven marketing, in a few different ways. It's about creating meaningful connection. At the end of the day that that's impactful by understanding who who's the customer, what it is they need and how they engage, how they prefer to engage. So there's four key elements that really make this approach effective.
+
+00:19:07:59 - 00:19:34:08
+不明
+First, we want to, we want to get to know our customer audience research and segmentation really by identify knowing them and categorizing them based on their characters that they and the cues that they leave behind, the demographics, who they are, the interests and behaviors and purchase history. That way, we can ensure that our marketing efforts are really built on a solid foundation of customer insights.
+
+00:19:34:12 - 00:20:01:04
+不明
+This is what we call the Nomi stage. And it's it revolves around understanding that customer really getting to know them. Jose likes luggage, Jose likes first class. She can afford it, but she can't. She likes to dabble in it. She likes to see. She likes to see those offers. Right? It's it's important to understand that. Right. Next we have data driven insights.
+
+00:20:01:04 - 00:20:32:18
+不明
+So we're taking things a step further by really leveraging the analytics. And the customer feedback and the behavioral data to refine those marketing efforts. So again Jose likes luggage. She always buys the extra luggage, but she doesn't always click on that first class offer. It's really getting to know her and and showing those offers based on those, those behavioral insights that we talked about.
+
+00:20:32:19 - 00:21:16:34
+不明
+This is where we're going to transform raw data into actionable intelligence that that helps us deliver the the most relevant experience. And then the next one, as we move into omnichannel engagement, which ensures that the customers really receive a seamless experience across multiple touchpoints and channels. This is where, whether that's social media, whether that's email search engines and, this is the delight me moment where we meet customers, where they are, it's consistent and personalized interactions that are going to build brand loyalty, that I know that's going to be consistently delivered to me.
+
+00:21:16:39 - 00:21:48:17
+不明
+That's the delight me stage. I love that delight me moment. And lastly, it's important that we continuously optimize. It's important that we, are always improving by monitoring campaign performance and analyzing audience interactions that we adjust the strategies in to in real time to really maximize impact. I remember one time I was looking on this sports website and I was like, oh, wouldn't it be cool to go and climb that mountain?
+
+00:21:48:22 - 00:22:11:14
+不明
+That's that's not in my city, but in another city. And then I realized, wow, that's that's actually really high. Like, I don't I don't think I'm going to be able to do that. And I sort of scale down, okay, let's look at another mountain. So the, the information that I was looking up and the equipment I was looking up for, my first interaction, was it relevant to the second.
+
+00:22:11:28 - 00:22:43:00
+不明
+And it's important to really optimize that to ensure that, things are changing and evolving seamlessly. So by focusing on those four pillars, you know, really knowing our audiences, leveraging the data insights, engaging them across multiple channels and continuously optimizing those strategies, we can we can we can do anything. We can build stronger customer relationships start with we can increase engagement and ultimately boost your business growth like the Marriott did yesterday.
+
+00:22:43:00 - 00:22:59:28
+不明
+So that was really interesting to see. Okay. So I'll pass it back to Shelby. What we want to show you is is great. Jose and Shelby. That's awesome. How do we actually do that. How do we do that in practice? What are the tools that we can use within real time CDP, as well as the Adobe Experience platform?
+
+00:22:59:33 - 00:23:11:29
+不明
+That you can access today that you can go and play around with. So I'll pass it back to Shelby. We'll jump into that. Thank you.
+
+00:23:11:34 - 00:23:35:49
+不明
+So when we're thinking about increasing your consumer customers engagement, driving conversions, really optimizing your marketing based on the audiences that you're able to reach real time CDP is kind of a one stop shop for making sure that the foundation is set to do that effectively. So we have a myriad of tools within real time CDP that make this possible.
+
+00:23:35:49 - 00:24:03:11
+不明
+It's not just audiences. And I want to acknowledge that, there's critical pieces to bringing in your data, bring in the right schema organizing in a standardized, way that kind of fits the context of your business to make your audiences even more powerful. And then, of course, the the power of, syndicating those audiences to the, pre-built destinations as well as applications that can power personalization.
+
+00:24:03:16 - 00:24:27:01
+不明
+But what we'll be focused on today are three tools. One is Audience Portal, which is our central hub to view, manage and create audiences. So this goes back to what we said about bringing everything into one place so that you have a single view of your your customer in the shape of audiences. And you can better make decisions on how to effectively reach them.
+
+00:24:27:06 - 00:24:58:43
+不明
+But with that extensive catalog and greater breadth comes a demand for greater flexibility. So I don't want to bring all of the data into one place. If I know I have a lot of disparate data sets living outside of real time CDP that I still want to maximize. So that brings us to our second tool around federated audience composition, which empowers you to bring in audiences created in other data warehouses into the tool so that you can maximize those, in the moment marketing moments.
+
+00:24:58:48 - 00:25:24:59
+不明
+And then finally, once these audiences are in place, you're now able to utilize the power of AI and intelligence on top of those audiences to better, manage those audiences, identify, where you have some duplication and also optimize your audience. We'll be talking about AI assistant for audiences and how it can help you do that.
+
+00:25:25:04 - 00:25:49:23
+不明
+Now, I don't want to alarm you with this really gross picture of a disgusting refrigerator, but my fridge in college, how many of you are dreading going home after five days at summit and coming back to spoiled food? I'm not. Not now. I have. I have the right strategy. I did my groceries. I used all my groceries. I order groceries for when I come back.
+
+00:25:49:27 - 00:26:12:48
+不明
+How many of you are dreading going back and revisiting your audience strategy and realizing that it's a mess? Nobody's going to raise their hand because we're going to learn how to do that today. So imagine when you log into real time CDP, either you're dealing with an empty fridge or a really messy fridge. It's unorganized. You're not finding value, in the audiences that are there, it's messy.
+
+00:26:12:48 - 00:26:46:28
+不明
+We need to figure out, how to not make that your reality. So with the tools that we're going to be talking about today and what we'll see with audience portal, the key takeaways we want you to think about, or how do I manage large audience, large numbers of audiences in a way that is not overwhelming, whether that's in, the naming conventions that I apply to it, the labels that I, associate so that I know who does what, in terms of how I'm going to use that audience or who has access to it.
+
+00:26:46:33 - 00:27:13:41
+不明
+Without proper organization, the data can become chaotic. And so we want to give you the tools to empower you to, to kind of sift through that noise. This is all in service of your strategy because with organization, you'll be able to implement better segmentation. And with better segmentation, you'll have better personalization and more engaged consumers and our customers, to your marketing efforts.
+
+00:27:13:46 - 00:27:22:25
+不明
+So let's take a look at some of the tools that make this possible, starting with audience Portal.
+
+00:27:22:29 - 00:27:30:12
+不明
+And when we're and let me make sure that's the right slide. Let's see.
+
+00:27:30:17 - 00:27:51:16
+不明
+Yep. You're good. Got it. So with audience portal in real time CDP, this is a place where you can unify your customer data and support, personalize the more effective marketing campaigns. There's a couple of key benefits of the portal that, are kind of part and parcel within real time CDP and have made it such a powerful tool for our customers.
+
+00:27:51:21 - 00:28:17:26
+不明
+One is the unified customer profile. So by using the portal, you're consolidating all of your sources, whether that be online or offline, into a unified profile, which creates consistent data and helps you better understand, your customer and ultimately improve customer engagement across any surface where you're reaching them. Second is advanced audience management with audience portal, cataloging all of your audiences in one place.
+
+00:28:17:26 - 00:28:41:57
+不明
+It better helps you identify new opportunities, both to build an audience, within this tool, using the data, the first party data that you have, but also bringing in audiences from external sources and, combining them with, the catalog that you have in the portal with the, with the goal to deliver more relevant campaigns. So having that hyper relevance is incredibly important in your strategy.
+
+00:28:42:02 - 00:29:17:28
+不明
+Like we said before, we're not going to create an audience and set it and forget it. We want it to be dynamic and evolving with the needs of our consumer based on the data inputs that we have. And so it's critical to be able to bring that from any source. Real time activation is, kind of the, the end of the, the puzzle and a critical piece, real time CDP has pre-built integrations with our key marketing and advertising platforms, so that you can allow that seamless sync, you can empower that seamless engagement across both your existing customer base, but also new potential customers.
+
+00:29:17:33 - 00:29:44:22
+不明
+So we try to make that readily available to you all in one place. And then most importantly, last but not least, all of the controls that we provide you around, data governance and privacy compliance, whether that be through labeling, policy enforcement, consent management, responsive data usage is a key piece in your audience strategy when you're thinking about both earning and maintaining trust with your, your customer.
+
+00:29:44:26 - 00:30:01:09
+不明
+And also keeping, your audience strategy within the, the compliance, restrictions of your region.
+
+00:30:01:13 - 00:30:24:15
+不明
+So next, we'll talk about that second piece of how do I maximize in the moment marketing moments, using both the data that I have within my system that I brought into real time CDP as a first class citizen, but also data in my external warehouses where I've built audiences, you know, for my business, kind of bespoke. And now I want to bring them into to optimize those marketing moments.
+
+00:30:24:20 - 00:30:46:42
+不明
+So federated audience composition is a capability that we launched last year, and it's one of our first steps in supporting customers around audience composability. So how do we bring tools into the system that help you better? Slice and dice the tools that you have outside of the system, but to to achieve the same goal of optimizing your marketing.
+
+00:30:46:47 - 00:31:11:56
+不明
+So rather than duplicating or moving large data sets, what you can do in real time CDP is connect directly to your existing data warehouse and the audiences that you've created within that, and bring them back into, real time CDP. Some examples of that data would be web interactions, mobile events, offline transactions. I know that in the example you were talking about with traveling on Air Canada, how how can we do that hyper personalization?
+
+00:31:11:56 - 00:31:35:34
+不明
+We chose to to push a notification and say, you're on your way to the airport, it's time to upgrade to first class. You can do that by building that that audience off of that, offline and behavioral data and then marrying that with your, existing audiences. A real time CDP. So the value here is that with federated audience composition, you get an always updated view of the customer.
+
+00:31:35:34 - 00:31:50:54
+不明
+It's as we said in the moment. We want to make sure that the experiences that we're delivering are relevant and timely. And also aware of where the customer is and their journey.
+
+00:31:50:59 - 00:32:21:03
+不明
+So all of these data points come together to form a single unified profile, no matter which channel or system that data come from, came from. And the value here is that now you have a holistic view. So that means that you're understanding your customers in depth based on all of the inputs that you've been able to, collect as a business, whether it's inside or outside of real time CDP, but coming into, one system to develop that unified view and then act on those insights.
+
+00:32:21:08 - 00:32:47:38
+不明
+Does it this lady look like Shelby? Doesn't she look just like Shelby? I actually can't see her. Her hair looks like weird doppelganger, for sure. She is. I have a lot of doppelgangers, so if you see me around summit, it's not me. She's leaving right next to this. Because I'm actually heading for a flight right after this. What are the four key value files when it comes to federated audience composition?
+
+00:32:47:43 - 00:33:17:42
+不明
+And just to kind of drive this point home one, we're going to expand expand the breadth of your audience catalog. So taking high value audiences wherever you have them and bringing them into real time CDP for personalized experiences, to repowering in the moment use cases. So I need it to be hyper relevant. I need to be aware of where I am in my journey, so that we can, capitalize on on reaching higher engagement with that individual, consumer customer.
+
+00:33:17:47 - 00:33:58:26
+不明
+It minimizes data duplication. So you're not dealing with the headache of developing audiences outside of our tool and then redeveloping them inside the tool, bringing that data in, as a raw signal, which I think saves a lot of time. And it maintains a single source of truth for your for your customer base. So when you're talking about your audience strategy and developing, tactics or strategies around better engaging them, you're able to use audience portal and the data that you bring in, either as a first class citizen or through federated audience composition, as a portfolio view of who's available, to engage.
+
+00:33:58:31 - 00:34:21:31
+不明
+The important thing of having that single source of truth is this is how you empower omnichannel experiences. So it's not just having, the hooks into all of the applications within the experience cloud, but it's also having a single view of your customer wherever you need to reach them.
+
+00:34:21:35 - 00:34:50:22
+不明
+Okay, so now on to the third tool around. I, now that you have this robust audience catalog leveraging the audience portal and, and audiences from federate audience composition, now we can get into that continuous optimization pillar, like, how am I going to learn from the audiences that I've created in real time, CDP, and kind of maximize their potential, but also learn from, behavior that we've seen for that particular audience.
+
+00:34:50:22 - 00:35:15:42
+不明
+So how do we enrich and optimize those audiences using the power of AI? Now, I don't know where everybody in the room is when it comes to leveraging generative AI or even leveraging the, AI tools that we've created with an experience platform, a real time CDP. But no matter where you are in the process of deploying generative AI in your organization, we have tools to help you, do that seamlessly with privacy in mind.
+
+00:35:15:47 - 00:35:21:18
+不明
+It's a bit of a harsh quote. We didn't write it.
+
+00:35:21:23 - 00:35:51:38
+不明
+Okay, so here are a couple of stats to highlight how quickly the AI landscape is evolving. And I can also speak for myself. As a product manager. Jen, I kind of took took the industry by storm two years ago with the advent of ChatGPT. And even though we've talked about AI for, you know, over over 20 years at this point, like the ability to use machine learning, the ability to run models on top of your data and capitalize on the on what you're able to see, is that actionable insight.
+
+00:35:51:50 - 00:36:13:33
+不明
+Now with generative AI, it makes the experience a lot more intuitive and, hopefully meaningful to your customers. So I want to do a quick poll for the room. One of the stats that stood out to me is that 89% of marketing and customer experience leaders believe that generative AI will help them better personalize their customer experience. So I want to do a poll for this group.
+
+00:36:13:38 - 00:36:33:05
+不明
+How many of you feel like Gen AI is going to be a part of your strategy in the next two years? Or how many of you have already introduced it into your audience strategy, or in your marketing strategy? That's awesome. Okay, so a pretty, pretty good mix of you. Like I said, no matter where you are with this journey, there's something for everyone.
+
+00:36:33:05 - 00:36:59:31
+不明
+So if you're, a little bit more ahead on the innovation curve of what you're doing with AI, we can kind of maximize the potential of that within our tools. But if you're just at the beginning of the journey, we also, want to talk through kind of what tools are available to you directly in real time CDP as you're using our non AI tools.
+
+00:36:59:36 - 00:37:32:29
+不明
+So this this came out last year AI system for audiences or maybe this year I'm like blanking on where we are. It's 2025. Yeah it came out. It came out last year. And with AI system for audiences, we've evolved the AI assistant product from, kind of a product knowledge assistant to you where you can ask questions, get links to the documentation and answers around your burning questions, to more of an optimization tool to help you capitalize on insights, for the data that you have in our system.
+
+00:37:32:29 - 00:37:56:34
+不明
+So with AI system for audiences is particularly focused on your audience catalog and is designed to help you identify what are my existing high value segments or what are some untapped audiences that I should use, to increase engagement or, use in my activation plan. So we'll be talking through three capabilities, through the assets AI system for audiences.
+
+00:37:56:38 - 00:38:21:30
+不明
+The first is size estimation. So being able to chat with an AI assistant around particular audiences and in your portal with questions like how many profiles live in California or 18 to 30 years old? Previously this was something that you needed to kind of sift through your list and figure and go into the definition and figure out where or read the descriptions and figure out where is that audience out of the hundreds or thousands in my catalog.
+
+00:38:21:35 - 00:38:50:23
+不明
+But now you can just chat with an AI system right on the right reel to help you identify that as quickly as possible. The second is propensity. So starting to, bring metrics into our tool to understand where we can maximize engagement based on a customer's propensity, either to convert or to engage with your products. And so you can ask questions like, what's the expected conversion rate for my loyal platinum members audience?
+
+00:38:50:28 - 00:39:09:09
+不明
+And the AI system can calculate that propensity score on the fly and give you an answer that you can then validate and decide whether or not you want to action on it. So some helpful, kind of helpful nudges in the right direction of have you thought about this? Or this could be this is interesting. Take a look.
+
+00:39:09:14 - 00:39:36:00
+不明
+Finally, there's the ability to monitor for significant changes. So if you're looking at either dips or upticks in your audience over a period of time, if you're running a time sensitive campaign or you're planning for the future and you want to understand what audiences are viable for that particular campaign, you can ask questions like what? Audiences have changed more than 25% in the last week, or fill in the blank percentage of what's relevant to your business.
+
+00:39:36:05 - 00:39:55:37
+不明
+But what I system can do is quickly identify which audiences meet that criteria. So it's almost like you're setting rules for managing your audience beyond the rules that you set for building the audience.
+
+00:39:55:41 - 00:40:18:32
+不明
+So here's one pretty popular use case, that we've found customers leveraging with AI system for audiences, an example of how it can give you back, hours or even days in your week. So we'll walk through a real world workflow. So first, my intent is to spot the empty audiences in my catalog. So where am I seeing the population go?
+
+00:40:18:37 - 00:40:40:32
+不明
+Down to zero members because the rule is no longer valid or the audience, criteria is not relevant anymore. So you can use AI prompts to quickly identify those, narrow it down to the, the ones that have zero members. Then you can ask the assistant to help you understand where those audiences are currently being used. So have I activated this to a destination?
+
+00:40:40:32 - 00:41:00:16
+不明
+Am I putting dollars against this audience that has no members? And it can help you identify that. Then once you, you've seen. Okay, I've found, I'm sifting through the data. I found the audiences that have zero members and are either activated to a destination or not yet. But now I'm ready to remove them.
+
+00:41:00:20 - 00:41:31:37
+不明
+So you can use the AI assistant to follow best practices on lists, listing out steps on the best practices to remove those audiences and make sure that, they're not a part of any of your plans that are live or underway and then finally finalize your cleanup. And quickly remove or archive those unnecessary segments so that you're not adding to the kind of chaos, of all the audiences in your catalog that may not no longer be relevant or no longer serve, the customer in the engagement that you're looking to drive.
+
+00:41:31:41 - 00:41:50:35
+不明
+So by automating these tasks, this capability frees up your team to now focus on strategy rather than thinking about the road maintenance of sifting through thousands of audiences and figuring out which ones are no longer, impactful.
+
+00:41:50:40 - 00:42:16:57
+不明
+Let's make sure. Okay. So we want to underscore that. Oh, you're good, you're good. I mean, okay, we want to underscore the practical benefits of AI in your day to day operations. And so think of these as operational. Think of the capabilities we just walk through is operational insights to do things like create or modify dates, check on your audience size, check on the activation status.
+
+00:42:17:04 - 00:42:42:30
+不明
+This all helps you manage your library more effectively and ensure that you're always working with the most up to date audiences, for your marketing engagements and not overlooking, the dormant or the outdated ones that are no longer serving you. Like I said. So here are some of the this is just the list of some of the capabilities of prompts that you can give to the AI assistant for audiences, just to name a few.
+
+00:42:42:34 - 00:43:10:18
+不明
+And the value here is that this AI assassin is kind of along for the ride as you're in your day to day workflow, managing data sets, coming in, building audiences, identifying the right ones. To activate, you can click into the AI assistant for audiences at any time. And it will suggest some of these either. You can ask your question, kind of net new, or I can suggest some prompts for you to kind of get you started.
+
+00:43:10:23 - 00:43:39:53
+不明
+So you have guidance along the way. So before sending it back to Jose, I want to just highlight how many areas where AI is revolutionary, revolutionizing the customer experience. It's not just within data, it's also across content, customer journeys, the creative process, what you're able to do dynamically with your customers to increase engagement. And what you've seen today is honestly just scratching the surface.
+
+00:43:39:58 - 00:44:01:02
+不明
+We see at Adobe an enormous opportunity for our brands, including the ability to generate dynamic content across our apps. Changing the way you collaborate. So ensuring that you're able to focus on your strategy and creativity and not thinking through, any menial tasks that you were doing, all the menial tasks that you were doing yesterday.
+
+00:44:01:02 - 00:44:21:04
+不明
+Tomorrow you're going to have AI to to help you along the way. And so then you can focus on what's important, which is engaging with your customer base. And it's also going to help you work across your teams and redefine your productivity and how far you can kind of move the needle within a much shorter window of time than than previously.
+
+00:44:21:09 - 00:44:41:07
+不明
+So these massive trends underscore that now more than ever, dynamic digital experiences are shaping every aspect of our lives. I think we all experience that in our day to day, and it's a privilege as marketers to be able to leverage tools within products like real time CDP to make that not just seamless and engaging, but also privacy conscious.
+
+00:44:41:12 - 00:44:50:43
+不明
+Acknowledging the trust is the most important factor if you're going to have, customers that are coming back again and again.
+
+00:44:50:48 - 00:45:11:12
+不明
+So I'm going to pass it to Jose. Thank you. Let's talk about some real world success. Yeah. So we've talked a lot about what to do, how to get there. And so the last thing is, is to really how does that impact what does that look like. So here's a customer success. Oh. Did we, let me pass on one more.
+
+00:45:11:27 - 00:45:36:43
+不明
+Here's a customer success story we have with the Heinz brand that really, focused on changing the, their personalization tools and pulling their, their data from the silos they were stuck in to, to a more central data repository using the audience portal, the features that they were that the, Shelby outlined and so many more, with the Hanesbrands.
+
+00:45:36:43 - 00:45:59:44
+不明
+Excuse me, they saw some really great results combined with other products, of course, Adobe products, they've seen some really tremendous success with, with a 57% uptake in, in revenue. So it's pretty huge. I've linked the QR code here. I'm just giving you a quick recap in this slide. There's lots of really great information here on how they did it.
+
+00:45:59:55 - 00:46:29:05
+不明
+And, and more success metrics as well. Okay. So we talked about a lot of stuff here. So look at that neat neat refrigerator. Nice and clean. Going from, you know, using an audience portal to really unify your data and, and use it as a central hub, tapping into the data, that you, that you have in your data warehouses, as well as leveraging AI powered insights.
+
+00:46:29:10 - 00:46:53:52
+不明
+So we go from a basically a very messy college fridge to a very organized, working professional fridge, having it look much more tidy and streamlining, really, the audience creation and enrichment process, what does that look like when you really get it right? What is the power of getting it right for brands? An audience based marketing approach really powered by, what Shelby talked about.
+
+00:46:53:52 - 00:47:34:03
+不明
+The features and capabilities that are within real time CDP are really going to give you strategic benefits by unifying diverse data sources. They're going to enable precise segmentation and facilitate those more personalized messages that we talked about. The approach not only improves the efficiency of your teams, your marketing spend, the resources, but it also aligns, your businesses, and your departments more, more clearly and supports global scalability with local nuance, which is what we saw with the Heinz brand success story, ultimately accelerating the customer journey through more meaningful interactions.
+
+00:47:34:03 - 00:47:38:06
+不明
+At the end of the day.
+
+00:47:38:11 - 00:48:03:21
+不明
+So Shelby is going to wrap this up into a nice clean folder. I love this slide. I did so much. So pretty, isn't it? The world of customer engagement is evolving. It's expanding and it's really exploding. It's not going to stop. It's the outdated models that we may be used to in the past are no longer. We really have to anticipate the needs of our customers moving forward.
+
+00:48:03:25 - 00:48:23:29
+不明
+So I want to challenge you on that to it's time to sort of move beyond that status quo that we're all used to working in and create moments that matter, create moments that are really, touching, that make the customer feel understood, valued by your brand and encourage them to sort of want to spend, want to click and want to convert.
+
+00:48:23:34 - 00:48:35:54
+不明
+So Shelby's going to wrap this up for us, show us how to put it all together. Thank you.
+
+00:48:35:58 - 00:48:58:06
+不明
+Okay. So let's wrap it up with revisiting what the core pillars are of an audience driven marketing approach. And what do we want you to to come away with from this session. So there's five areas to think about one to define your goals. So start with the end in mind when you're both building but also identifying the best audience.
+
+00:48:58:06 - 00:49:22:01
+不明
+Determine for yourself and your team what success looks like. Are we looking to drive, growth? Are we, looking to retain our customers? Are we looking for deeper personalization? All of those goals, kind of change your approach when it comes to which audiences are the best fit for that? And real time CDP can help you along the way.
+
+00:49:22:06 - 00:49:52:43
+不明
+Take a close look at your data sources, audit what what you've brought in, and map out where the consumer data resides and how it can be integrated into that single real time profile. So whether it's, databases that exist outside of real time CDP or what you've built within the tool, you may not be the person that was responsible for that, or maybe you are, but really understanding the context of that data and identifying the best touchpoints to, motivate your audience strategy is is critical.
+
+00:49:52:48 - 00:50:12:55
+不明
+Third is, when you're building and enriching your audiences, rely on on the signals and the insights that you're able to get, whether that be through our dashboarding capabilities or AI driven analytics. Use use that to your advantage to better refine your audiences and try to drive maximum impact for the goals that you set at the beginning.
+
+00:50:13:00 - 00:50:35:15
+不明
+And as well as along the way, when thinking about activating across your channels, ensure that the same unified message is there. You want to reach consumers. In the moment where they are, but also ensure that you're not over saturating them with the same message or, driving them to an experience that they've already shown you that they haven't they haven't connected with yet.
+
+00:50:35:19 - 00:51:04:26
+不明
+So by having access to, and on, a seamless omnichannel experience through our tools, you can ensure that they're connecting with your brand in a, authentic way. And then finally, bringing it all back into that, continuous optimization closed loop, we want to continuously revisit what we're doing, with our audiences. So are we seeing, impact in our marketing plans based on what we've built in the system?
+
+00:51:04:26 - 00:51:26:53
+不明
+Are there actionable metrics that we can, take away and try to iterate so that we can identify successful strategies and scale them and identify less effective strategies and, kind of rotate them out.
+
+00:51:26:58 - 00:51:54:23
+不明
+So how are we going to identify those effective strategies using our tools within real time? CDP? If we look at our roadmap for this year, we have a lot of exciting. And I can see everybody taking pictures. We have a lot of exciting advancements that we're planning to make. But the core theme that I want you to walk away with is that we'll be taking, the experience that you have today and having a renewed focus on making it as simple and smart as possible.
+
+00:51:54:23 - 00:52:20:21
+不明
+So all of the the capabilities and advancements that you see on our roadmap in 2025 are in service of, three core areas that we care about in building our product. One is how am I driving outcomes with the audiences that I build. So outcome driven workflows are incredibly important, starting with that goal in mind as we talked about for your own strategy, we want you to be able to do that within our tools seamlessly.
+
+00:52:20:26 - 00:52:39:44
+不明
+The second theme is adding in intelligence. So not just having, something as helpful as an AI system, but also having insights kind of at the forefront of everything you're doing. So what is the outcome of this audience on the channels for? I'm planning to activate it. Am I going to reach the engagement that I care about?
+
+00:52:39:44 - 00:53:03:10
+不明
+We want to start to, think about the full the full trip that the audience is taking and take that lens around engagement, to better to better meet your goals. And then finally, collaboration will be a huge theme for how the tools and the way they interact with each other will change. We want to make you more productive with your teams by giving you, interconnectivity.
+
+00:53:03:10 - 00:53:25:29
+不明
+But also, kind of democratizing what you're able to do, with audiences across both tools outside of, the experience cloud ecosystem, but especially within the applications, that we built within Adobe.
+
+00:53:25:34 - 00:53:57:58
+不明
+Okay. So how are we feeling? We've covered a lot in this presentation, but we hope that at the very least, we've given you some motivation to go back to your desk and tackle your audience strategy. Maybe not your refrigerator, but definitely your audience strategy. How is Adobe real Time CDP doing that? We're providing more pathways and patterns for you to, not just bring in data, but also, build discovery, manage the audiences that you have, capitalize on the actionable insights that we're able to glean, and keep that flexibility across the ecosystem.
+
+00:53:58:03 - 00:54:24:40
+不明
+So we, we, hope that you're excited about some of the generative AI capabilities that we shared. As you're kind of modernizing your strategy for the AI first world. And also keeping in mind, support for your, data governance and privacy needs and ensuring the trust is there. So now it's your turn. Step one is you need to go to the audience portal home page and explore what you've got.
+
+00:54:24:40 - 00:54:57:14
+不明
+So take take kind of take stock of, what's in front of you. Or if you're just getting started, get those pieces in place. Using federated audience composition, you can tap into your cloud warehouse for any active, in the moment activation use cases that you want to leverage, and then finally look for ways to boost you and your team's efficiency and leverage the AI assistant for audiences tool that we have directly within real time CDP so that you can, not just maximize your audience's, but maximize your time.
+
+00:54:57:19 - 00:55:20:41
+不明
+And last but not least, I don't know if these sessions already happened or not. Some of them did, and I think there might just be one. But these are sort of the sessions that that we covered this week that talked a little bit deeper about some of the features that Shelby mentioned. Federated audience composition. You know, something I, sessions as well as, creating a center of excellence for audiences.
+
+00:55:20:41 - 00:55:39:38
+不明
+So some really great sessions there that will be available on demand. So please, you know, sort of leverage those as well as part of your, your strategy when you, when you get home. Right. And don't forget to take the survey. You can win some cool headphones. Yes, a cup of coffee. Yeah. Thank you everyone. We really appreciate your time.
+
+00:55:39:38 - 00:55:54:34
+不明
+And we hope that this motivated you to revisit your audience strategy and try to maximize the potential that's not too few. Too harsh for 9 a.m., right? Not too bad. Thank you.
+
+00:55:54:39 - 00:55:55:15
+不明
+For.
+

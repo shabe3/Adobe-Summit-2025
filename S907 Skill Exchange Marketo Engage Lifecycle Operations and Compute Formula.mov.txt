@@ -1,0 +1,452 @@
+00:00:01:15 - 00:00:21:54
+不明
+Good morning. Good morning. Is everyone crawling or sprinting across the finish line for the last day of Adobe Summit? Mostly crawling. It's okay. We're all here. It's all here. Good morning. Welcome, everybody who are amazing. Skill exchange. Focusing on Marketo. Engage. But I feel to introduce a little bit a little bit low. So let's do a quick stand up to some stretching.
+
+00:00:21:59 - 00:00:53:01
+不明
+What everyone up to the ceiling. You know, stretch it out over to the left. There we go. A little bit to the right. All right. Fantastic. Good stuff, good stuff. As you heard, my name is Brad Bedford. I'm an adoption marketing manager here at Adobe. But I have the pleasure of supporting a couple of amazing programs for the Adobe Champion program and our Marketo User Group program, and I'm super excited that both of our speakers today are a part of our Adobe Champion program.
+
+00:00:53:06 - 00:01:26:26
+不明
+Chris for five six years four. Okay. And, Josh for two. So we have, both of them up here and talking some amazing things on self-service flow steps and on lifecycle operations. So first up we have the one, the only from the second best of the United States from Wyoming, Mr. Chris Willis.
+
+00:01:26:31 - 00:01:51:48
+不明
+Thank you. Thank you so much. Like Brad mentioned, I'm Chris Willis, and, he may be a little jealous of Wyoming because, like, he has to share his hiking trails with about 5000 people, and I can just show up and just hang out with the bears. But we do have three things in common, like skiing. Lots and lots of flannel.
+
+00:01:51:48 - 00:02:12:07
+不明
+And you have to take bear spray everywhere you go. So thank you so much for that introduction. So I want to get a little bit of a pulse of the room. So we're going to talk about life cycle. How many in this room own and manage your marketing operations life cycle.
+
+00:02:12:12 - 00:02:49:57
+不明
+How many are asking questions like why didn't this person mql. Why is this person in this stage? Two is the person who owns life cycle? And how many of y'all are intimidated by the word life cycle? Goal. So a little bit about me. I'm a four time Marketo champion, and as you can see from my profile, I've been doing this like marketing sales alignment work, both from the marketing and the sales rep ops perspective for for a while.
+
+00:02:49:57 - 00:03:12:07
+不明
+And I've been involved in a lot of life cycle projects. I managed a lot of life cycles. I see some folks in the room here that I've helped build your life cycles. And of course, I live in Wyoming. I love food and wine. Picture me and my wife in, Jackson Hole and I love being outdoors.
+
+00:03:12:12 - 00:03:41:16
+不明
+So let's talk about our agenda. Why are we here? So first we're going to talk about why accurate lifecycle operations is critically important. Second, we're going to talk about like the best practice that you likely have in your Marketo org today. If you have a life cycle program in your org and how what I'm going to term bespoke sales actions, you're going to hear a few buzzwords.
+
+00:03:41:16 - 00:04:05:49
+不明
+I'll try to decode the buzzwords. We've had a lot of acronyms and buzzwords thrown at us during summit, so I'm gonna try to translate these. But how the bespoke sales actions causes issues and we all, like everybody, raise their hand knows what I'm talking about. And I'm going to offer up a solution for correcting these operations to allow you better control over your life cycle.
+
+00:04:05:49 - 00:04:33:20
+不明
+So you get the reporting that you expect in advanced BI analytics aka Revenue Explorer, aka I'm the spin branded like three, you know, 5 or 6 different things over over the years. All right. First of all, let's talk about the why. So why do we have life cycle in the first place. So first and foremost it's not your mql production engine.
+
+00:04:33:25 - 00:04:59:40
+不明
+It is a reporting tool. Life cycle is essentially how you report on how your how your customers, how your buyers are performing along the buyer journey. And you do this in order to tell a business story across sales and marketing that helps marketers and your sales partners and your builders to make better decisions. Like questions like what exactly is a lead?
+
+00:04:59:45 - 00:05:27:18
+不明
+What is an opportunity? How do we know that our leads are performing the way we expect? You know, and we get reporting data such as velocity and volume, etc. from that. And the goal is to align marketing and sales. So you may recognize this model right over here. So it's a like revenue cycle model. I'm going to talk about a couple of these acronyms.
+
+00:05:27:23 - 00:05:48:54
+不明
+Most of y'all know life cycle. So I'm just going to skip over to like you know we know what Mql is are or aren't. It's actually your definition of your lead in your organization. You've got accepted leads. You got qualified leads, and then you go into opportunity stages. So sales accepted opportunity early stage handoff between bidders.
+
+00:05:48:59 - 00:06:18:06
+不明
+This is essentially the model that we're going to build the rest of the presentation off of. And then skill sales qualified opportunity like opportunities and funnel. And then you have your off success path. So talked about bespoke sales actions. So going back to this slide we've generally built these models with the expectation that sales is going to be following a very prescribed and regimented workflow.
+
+00:06:18:10 - 00:06:48:15
+不明
+How many of you, your salespeople are following that prescribed and regimented workflow? I thought so if you're raising your hand, I think you're you might be lying. So we do have frequent bespoke sales actions, and this is basically sales mucking up the process. So why does this happen? Well, we're not getting a lot of love from our CRM administrators, for one.
+
+00:06:48:19 - 00:07:17:49
+不明
+Because they're partnering with sales who really values having engaged selling time. What is engage selling time time in front of customers. They want to spend more time in front of customers, selling your product and making money for your company, versus getting your CRM and updating stuff in Salesforce. So most CRM administrators are erring on the side of giving sales a lot of flexibility in sales.
+
+00:07:17:49 - 00:07:40:15
+不明
+If they have a lot of flexibility, they're going to use it. However, this does create issues for our reporting, which I'll cover in a little bit. So what are some of these common bespoke sales action? I'd love to get a show of hands if your salespeople do one of these two things. So number one, let's use an example.
+
+00:07:40:15 - 00:08:05:43
+不明
+So you're exhibiting in the community pavilion. You got a booth up and your salesperson is there. And talks to somebody. And it's been marked as a hot lead. You go to upload that list of people, you mark that person's mql because there's they've indicated this person is a hot lead, and that seller immediately gets a notification, says, oh, I know this person I talk to.
+
+00:08:05:43 - 00:08:46:30
+不明
+This person immediately hits convert and creates an opportunity. How many y'all this happens to all the time. Sometimes the lead isn't even qualified and they do this. Second is what I would like to refer to as the Bluebird. So seller creates an opportunity late in late in the buying stage. And like I've seen examples where like I get an opportunity that's been booked for $1 million in a velocity about two days, which is enough time for it to go go through the quote process.
+
+00:08:46:35 - 00:09:10:14
+不明
+Generally speaking, they got a they got a lead from your BTR. They want to kind of keep this under the radar until they're pretty sure this is going to be quoted. It sits on a spreadsheet for six months, and then the opportunity just magically shows up and salesperson looks like a hero. How many, how many y'all that's happened to?
+
+00:09:10:19 - 00:09:39:32
+不明
+Yep. All the time. It's like we know our salespeople. So let's talk a little bit about our best practice set up. And some of the weaknesses, especially when we're working with, you know, human beings in our sales departments. So this is a typical life cycle program. You likely have something that looks like this in your org. So you generally have like a trigger campaign representing each stage.
+
+00:09:39:32 - 00:10:03:25
+不明
+You know, best practice. We're putting this in a program we're not building in the in the modeler. And generally in order to help people fast track, you've got a daisy chain that when a lead comes in, if they fast track by filling out your demo form or they got uploaded from like a hot leads list from the community value and they can immediately go to Mql.
+
+00:10:03:30 - 00:10:32:06
+不明
+Speed of leads. Very important. And then downstream you've got triggers listening for like these prescribed sales actions from the CRM. So either a person status update or an opportunity opportunity creation opportunity stage change. And then generally speaking, you have an audit forward folder in your life cycle because stuff happens and you need to audit and essentially clean up your life cycle reporting.
+
+00:10:32:06 - 00:10:36:45
+不明
+Because at the end of the day, this is a reporting tool.
+
+00:10:36:50 - 00:11:11:17
+不明
+So in light of sales wanting to be efficient and mucking up our process, there's some issues with this current best practice. So due to these actions like this potential for stage skipping, what do I mean by stage skipping. You know Mql converts directly to an opportunity and I've just skipped my sales, accepted lead in sales, qualified stage technically sales accepted and qualified the lead all in one fell swoop.
+
+00:11:11:22 - 00:11:33:42
+不明
+But now we have an issue from an operations perspective. So what we've generally done, and I've seen this in, you know, life cycles that I've managed and I've worked with. Is that what we've done is we've essentially expanded the filters because we know, okay, sales is going to sales is going to create an opportunity for mql. So we need to account for this in this sale.
+
+00:11:33:43 - 00:11:57:47
+不明
+Trigger. However, it does kind of compromise your workflow because now most of us are date stamping when people are coming into each stage. And now I have to account for every possible way that they could have gotten date stamped in a single trigger. You see how that becomes a little bit problematic?
+
+00:11:57:52 - 00:12:25:08
+不明
+So the results of this best practice or of this best practice, combined with bespoke sales actions, is now you have a gap in your dates because generally most of us are date stamping our life cycle stages and sending it to a BI tool. Advanced BI analytics I have to say that ten times fast is going to help with that, but if I was to show an advance by analytics report, you would see all kinds of crazy stuff that doesn't belong.
+
+00:12:25:08 - 00:12:46:41
+不明
+Like I saw that in my like my RC reports, like when I was working in OG Marketo. And now you've got to explain this gap in the data, like why is there a gap like for person four between February 25th and and March 15th? What happened?
+
+00:12:46:46 - 00:13:07:54
+不明
+And so now you have some trust gaps with the data. Can I really trust this data? I'm not I'm not seeing a systematic stage by stage flow anymore. And so at the end of the day, what we've done is we've created some hacks to try to make the data work by filling in past date stamps into our into single triggers.
+
+00:13:07:58 - 00:13:33:59
+不明
+And I'll tell you, that's a very problematic, especially from a management perspective. So I want to show you an amazing and honestly this is very straightforward way to full proof these lifecycle operations. Because at the end of the day I'll, I'll give you I'll give you a couple of secrets. You know, at the end of the day, sales is doing two things, really.
+
+00:13:33:59 - 00:14:08:09
+不明
+Three, they're qualifying leads. They're creating opportunities, and they're creating quotes in your CRM because they want to get paid. And that's the one. That's the one. Stick that your sales operations, your revenue operations team has with your sales team is you have to get the quotes approved. So they have to put opportunities in the system. So leveraging that and things that are built like natively in Marketo today, you can foolproof these lifecycle operations.
+
+00:14:08:22 - 00:14:36:36
+不明
+So I'm going to talk about two things. I'm going to gloss over. The first one. This is this is a practice that I started is essentially breaking up my life cycle operations into executable campaigns so that I can audit and troubleshoot and also take advantage of the the capability of executable campaigns to essentially Tetris. My workflow, especially in Mql, where there's a lot of activity happening.
+
+00:14:36:41 - 00:15:01:24
+不明
+And this is very, very helpful when you're troubleshooting, when you're testing, and you need to add additional like logic and workflow into your life cycle steps. In the interest of time, we're not going to go into detail about the actual campaigns. Definitely ask a question in the Q&A, though. If you haven't. Second, we're going to do with the sales qualification workflow exactly what we did with our Mql fast track.
+
+00:15:01:24 - 00:15:36:33
+不明
+So the people coming from the booth, well, at the end of the day, sales, getting an mql and immediately creating opportunities, essentially they're fast tracking that opportunity. So essentially if somebody is taking a sales action to put something somewhere in the sales funnel, we're going to trigger the sales accepted trigger regardless of what that action is, we're going to and we're essentially going to flow control it through daisy chaining request campaigns together.
+
+00:15:36:37 - 00:16:05:12
+不明
+So that person will process through each stage in, consecutive order. And now I don't have to necessarily hack each of these stages. I can let each stage work on its own. So all of that processing is going to essentially fix the fix. The skipping problem.
+
+00:16:05:16 - 00:16:30:58
+不明
+So let's I'll show you an example of how this daisy chain works. And essentially how this gets executed. So we're going to talk about like our example of our friend over in the community pavilion gets a lead and you upload it to Marketo and it goes to your CRM, let's say, let's just say your CRM is Salesforce.
+
+00:16:31:03 - 00:17:02:15
+不明
+And that sales rep who talked to the lead at the booth says, all right, I know this person. I'm going to put this in the funnel and I'm going to talk to my sales director about it. So sales creates an opportunity in stage zero. I have opinions about stage zero opportunities. Talk to me offline about that. So step one is your sale trigger is going to and you'll see that added to opportunity trigger that is in your sale.
+
+00:17:02:15 - 00:17:30:00
+不明
+Trigger. Now it's essentially looking at anything anything across the sales funnel. You're also going to notice that the member of Program filter is only looking for those stages where sales is going to take something from, not in funnel into the funnel. So in step two that that lead is going to go through the progression of your sales accepted lead stage.
+
+00:17:30:00 - 00:17:49:37
+不明
+And at the end of that stage, you're going to see that there is a request campaign step that's conditional. And it's looking at a smart list eligible for SQL. So this is a this is something you build into your life cycle program. And it essentially looks at the qualification for sales qualified lead or whatever. That next stage you have is.
+
+00:17:49:42 - 00:18:24:34
+不明
+But it includes that stage plus anything anything that moves past it. So essentially it's SQL plus. So you're going to get to the end of your sale workflow. And it's going to evaluate. And I'm going to ask you, you know based upon our example will this person qualify to be it SQL based upon this criteria. Yes. So then the SQL has a campaign is requested flow step, and it is only filtered by the sales stage.
+
+00:18:24:34 - 00:18:33:51
+不明
+It's being flow controlled. Rather than trying to guess where somebody can qualify to lead from.
+
+00:18:33:55 - 00:18:58:09
+不明
+And then step three it's going to go through that SQL flow step. And it's going to come to a decision point at the end eligible for sale, which is essentially looking at do they have an opportunity at all that's new business. Based on our example, are they going to qualify for so.
+
+00:18:58:13 - 00:19:10:28
+不明
+Yes. So now it's going to it's going to process through the. So I've got a stage zero opportunity.
+
+00:19:10:33 - 00:19:35:30
+不明
+And I get to the end of my SRO workflow I've got a smart campaign I've got a smart list eligible for SQL that's looking at stage two through closed one. I've got a stage zero opportunity. Does this person going to qualify or not? This person will not qualify because they're only in stage zero.
+
+00:19:35:34 - 00:19:59:10
+不明
+So now I've put them in the right stage and now I'm going to wait in my SQL SCO step. I'm only filtering for leads that are in. So I'm flow controlling. So when that when that salesperson comes to their forecast meeting and says, okay, I'm ready to have the discovery meeting, I think this is a best case opportunity.
+
+00:19:59:15 - 00:20:12:47
+不明
+And this is what we're going to pitch. And they put it in stage two. It's going to advance and it's going to advance very efficiently because we put in the right stage to begin with.
+
+00:20:12:52 - 00:20:45:20
+不明
+So what this approach does enable is it gives you predictability. I don't have to guess where sales is, is going to start somebody in the funnel anymore. Or you know where you know how they may skip based upon their prescribed or their desired workflow. I can through these through these requests, campaigns and executable campaigns, I can predict pretty confidently, step by step how they're going to move through my funnel.
+
+00:20:45:25 - 00:21:29:40
+不明
+I've got controls for entry and exit, and because they're going to run through every stage regardless, because because of this progressive logic, they're going to get processed for each stage. So I'm going to get my reporting in advance by analytics RC or if, if I want to pull my time stamp, my date stamp data into BI platform, such as like Tableau or Domo, I, I have that the data is very clean, and I found this to be a very good hedge against these random acts of sales, which technically aren't really random.
+
+00:21:29:45 - 00:21:52:32
+不明
+So let's wrap up a little bit. So you're probably saying, hey Chris, this sounds really good, but we've got a working lifecycle. And yeah, we we have some bad data in our lifecycle. I would love to deploy this. Like how can I get started. So I'm going to assume that you're essentially taking like lifecycle A and you're essentially cleaning up lifecycle A.
+
+00:21:52:37 - 00:22:17:43
+不明
+You could because essentially lifecycle in Marketo is flexible. You can customize it any way you want to essentially model your business. This could be a good opportunity for you to, you know, take a look at, you know, are we modeling our customer journey? Well, do we need to do we need to have some alignment discussions with sales? I'm not going to cover that.
+
+00:22:17:43 - 00:22:40:19
+不明
+I'm going to cover okay. I just want to clean up my reporting. So first step is we're going to prepare and replicate. So number one audit your life cycle and find out where the issues are. So this is generally that's done through having a having smart lists that look at the data gaps. Look at you know are they does life cycle say it's in this stage.
+
+00:22:40:19 - 00:23:12:37
+不明
+What does what does my date stamp. You know fields look like. Do my do my conditions match up with my definitions. Okay. That that allows you to go to your manager, go to your team and say, hey, we need to do we need to do this because we're running into issues here. So second again, this is the streamlined approach is replicate your current workflows by cloning your current life cycle triggers.
+
+00:23:12:37 - 00:23:47:33
+不明
+Essentially, you're going to replicate them, create a copy of them, and essentially test life cycle version one versus life cycle version two. And so what you're going to add to those clone workflows, is your downstream stage triggers. So essentially your sale is going to include everything for Sal and beyond. Same for SQL, same for Sal. You're going to have that operational smart list that defines the next stage in your funnel.
+
+00:23:47:38 - 00:24:10:43
+不明
+And you're going to have that choice and request campaign flow. Step. And then last but not least, you're going to test and activate. So for testing put some some test filters into your both your old life cycle and your new life cycle. You, you want to be able to like, coordinate your test with your existing life cycle.
+
+00:24:10:48 - 00:24:32:40
+不明
+And once you've completed that testing, you want to backfill that your life cycle to true up your reporting again. End of the day this is reporting tool. And so it's important to make sure that you backfill to make sure that your reporting is set really well. When you when you activate the new life cycle. So thank you very much.
+
+00:24:32:45 - 00:24:52:34
+不明
+If you want to connect, I'd love to connect on LinkedIn. There's my, my QR code, and I'll hand it over to Brad. Thank you. Chris, we're taking some questions, for both of our speakers at the end of our session. So if you have anything, let's go ahead and take a jot a note on that will write them both up to answer any and all questions that you may have.
+
+00:24:52:39 - 00:25:06:31
+不明
+But next we have self-service flow steps coming from Spanish is best Marketo champion Josh Arrington.
+
+00:25:06:36 - 00:25:32:49
+不明
+Hi my name is Josh Arrington. I am chief marketing technology officer for Capital Solutions. We are an agency based in Spain. I've been working with Marketo for 16 years now and for 16 years. I can't believe that number. I am a this year honored to be a part of the champion program, along with Chris and several people here.
+
+00:25:32:56 - 00:25:59:16
+不明
+I see, I am a certified architect and a full stack developer. And I tell you all this to introduce myself. Of course. Hi. But also to give some context to what I'm going to talk about today, which is self-service flow steps. Being a developer with Marketo, I am well versed in the technical technical side of Marketo, the API.
+
+00:25:59:16 - 00:26:29:39
+不明
+I've probably built a thousand different custom integrations and webhooks, but self-service flow steps have changed everything for me. They are hands down the most powerful, feature I've ever seen released for Marketo, and I wish more people were talking about it. So I'm excited to talk to you about it today and to share one specific full step in particular, which will give you the Excel type, formula functionality directly in your smart campaigns.
+
+00:26:29:43 - 00:26:48:41
+不明
+You don't need to be a developer. You don't need to touch any code and just get in there and turn it on. So little overview of what we'll cover today. First, what is a self-service flow step. Then onto a little clarity of what the difference between a self-service flow step and a webhook is. How to deploy it?
+
+00:26:48:41 - 00:27:08:57
+不明
+I'll tell you at a high level, but also share a step by step guide. Then the fun stuff, which is what can we do with this cool first step? I'll give you some tips and tricks, as well some key takeaways. And then, I think we'll go to Q&A. So how many people here are currently using self-service flow steps?
+
+00:27:09:01 - 00:27:35:15
+不明
+Okay, I've got a few. All right. Great. So for those of you who are not familiar, self-service flow steps are give us the ability to add additional functionality to our Marketo Smart campaigns. They are built in feature. They are free, they're included in every instance and you should be using them. So for those who use Marketo should be everyone you're familiar with.
+
+00:27:35:15 - 00:27:54:11
+不明
+This list of standard actions that you have in your Smart campaign. These are change data, value an email change program status. But what if we want to do more? What if we want to do something else like send an SMS or validate an email, or send a prompt, an AI and get a response and save it on our lead record?
+
+00:27:54:16 - 00:28:14:56
+不明
+Up until this point, up until recently, the only option we had was webhooks, and my books are great, but they come with a lot of limitations. So that's where self-service full steps come in. Self-service flow steps allow us to add to this list any action that we can imagine. Anything you want to come up with, it can be put here.
+
+00:28:14:56 - 00:28:41:34
+不明
+And they are a massive upgrade and evolution from webhooks. How many people here use webhooks? Yeah, that's more common. So if you use webhooks you're familiar with this. The generic call webhook flow action. You get one field which is a picklist where you choose the webhook and that's it. Self-service flow steps however, have are tailor made for whatever action you're taking.
+
+00:28:41:42 - 00:29:06:14
+不明
+Meaning you choose the fields that are there and the values. So if I have this flow step which calls, I open AI copilot. I have fields for that. It's I've got my prompt field where I put my prompts. I have a picklist where I select which model, a field where I return the where I want the data returns, and then temperature context, things like that.
+
+00:29:06:14 - 00:29:29:40
+不明
+But that's just the surface. There are many features under the hood that make these much better than webhooks. First of all, the most important one I think, is that they can run in batch campaigns, which you cannot do with webhooks. They have these customizable fields and dynamic lookups, which you saw 10:00 I'll touch on later. An easy to use interface for adding and removing data.
+
+00:29:29:45 - 00:29:53:58
+不明
+They run asynchronously, meaning you don't have the timeout issues that you have with webhooks, but they do wait for a response. So when you use this in a smart campaign, it will wait for the data to be returned before it continues. So it gives you a more, more confidence in what's going to happen. So, let's what does that mean for us as marketers?
+
+00:29:54:07 - 00:30:15:19
+不明
+Let's cover some, use cases so you can see this in action. Let's imagine you have a network of gyms. You have hundreds of locations, you have thousands of members. And you want to send an SMS to promote an events to all of your members. How are you going to do that? Of course we can create a webhook to send a text message.
+
+00:30:15:24 - 00:30:37:55
+不明
+You have thousands of members. You're just going to throw in a batch campaign. Now, as we said, you can't use webhooks in batch campaigns. So you'll get this error that tells you, you know, some of you, I'm sure maybe all of you are, have worked with Marketo long enough to know there's a workaround. I can create a trigger campaign and call that from a batch campaign, but then you'll get this error.
+
+00:30:38:07 - 00:31:05:57
+不明
+You will get timeouts. There's only a 32nd limit for that. That service to response. So the reason you get this timeout error is webhooks are called individually but all at once. So that means if you send me run a campaign with 10,000 leads in it, 10,000 individual requests gets sent simultaneously to your back end service, and it only has 30s to respond, or else you get those errors.
+
+00:31:06:01 - 00:31:32:57
+不明
+And the worst thing is, when you get those timeout errors, you don't know which SMS was sent and which wasn't. Because a timeout error doesn't mean that it wasn't sent, it just means Marketo doesn't know what happens. So service footsteps, on the other hand, are run in batches of up to 1000. So if you run a campaign with 10,000 leads, that's just ten batches of a thousand leads each, which is much more easy, much easier for your backend service to handle.
+
+00:31:33:01 - 00:31:48:51
+不明
+And there's no timeout. So there's no 32nd limit with this. These requests, Marketo sends a callback URL, and whenever the action is completed, whenever the data is ready, it passes it back to Marketo. Whenever.
+
+00:31:48:55 - 00:32:12:21
+不明
+Next, for our gem, let's say we want to send out a monthly recap a wrap each month of everyone's activity at the gym. We can set up a self-service flow step to get the members activity from the back end, our back end system, and then put it into an email with a token. We know that there's flow blocking for self-service, so steps.
+
+00:32:12:21 - 00:32:31:23
+不明
+So it will wait for that response to come back to get that activity data before it sends the email. If you tried this exact same flow with a webhook, you'd probably send a lot of empty emails because it's not going to wait for that response, or you'd have to come up with some kind of workaround wait stub for an indeterminate amount of time, or triggers.
+
+00:32:31:28 - 00:32:53:42
+不明
+It's gets messy. Next, say, you know, we have members who didn't make it to the gym that month. We don't want to send a empty recap. That'd be pretty sad. So one of the great things about self-service flow steps is they also come with custom activities. So any self-service full step you have has a custom activity that goes along with it.
+
+00:32:53:47 - 00:33:11:33
+不明
+And you can add attributes to that custom activity that don't get tied to lead fields. So even if you don't pass this data back into a lead field, you can still use it in filters and triggers. So we can add an attribute for how many times they visit, right? If they visited more than zero times, go ahead and send recap.
+
+00:33:11:38 - 00:33:35:06
+不明
+But if they never made it to the gym that month, we can set up a filter and send them a motivational hey, we miss you, please come back email instead. Next is dynamic drop down, so maybe our gym is doing well. We're opening many locations or closing locations all the time. We want to keep this dropdown up to date with all of our locations.
+
+00:33:35:11 - 00:34:06:33
+不明
+With self-service footsteps, we can set up a backend service or have a dynamic Picklist that checks a back end system to find only the the current and open locations. This is great because it lets us keep everything up to date. These refresh automatically every 24 hours, but you can update them from the admin area as well. So let's get into the main show, which is the compute formula for step.
+
+00:34:06:37 - 00:34:30:54
+不明
+I can't tell you how many times over the last 16 years I wish Marketo had a formula. Functionality. How many times I've had to export data into Excel, do calculations, do formatting, and then import it again. And how happy I am that I don't have to do any of that anymore. So here you see the self-service flow step, like I said, tailor made.
+
+00:34:31:04 - 00:35:05:02
+不明
+So you have the formula field and then you have two fields where the data is, returns. This can be deployed in Adobe, IO and used today. There's no code, I promise. You don't have to touch any code. The right formula applied at scale is the difference between working hard and working smart. So I asked ChatGPT to give me some quotes about formulas and then it gave me a bunch of quotes that I don't really like, but it also threw in its own quote in there quoted itself, and it was the best one.
+
+00:35:05:02 - 00:35:27:40
+不明
+So the AI wins again. So installing and using the first step is really just three steps. It's downloading the code. It's open source provided by Adobe. Uploading it into Adobe IO and then installing it in Marketo. And I'm going to provide a step by step guide. It is technical, but it's not hard. It takes 30 minutes.
+
+00:35:27:45 - 00:35:48:48
+不明
+And once you do it, you do it. Once you have that full step forever, you don't have to touch it again. So here's the QR code for that step by step guide a couple notes you do need developer or system admin access in IMS. You do need Adobe IO. If you're like me. And when I started and didn't know what Adobe was, that's fine.
+
+00:35:48:50 - 00:36:06:36
+不明
+You may already have it. You may not. All you have to do is contact your Adobe Rep, and they can either set it up or tell you how to access it. You won't interact with it much. It's like a couple of clicks and that's it. So again, the code is provided open source. You don't have to touch the code.
+
+00:36:06:36 - 00:36:35:21
+不明
+You're just downloading and installing it. But if you are a developer or you're feeling curious, you can change the code however you want, modify it to do anything, you want. So feel free. This is the code is made for Adobe IO, as I mentioned, but you can deploy it anywhere if you're using AWS, Microsoft Azure, Google Cloud, wherever.
+
+00:36:35:25 - 00:36:57:40
+不明
+And again here you see the flow step. Again, these things are tailor made. So you have an input formula where you put the formula, all the formulas for this flow step run off of a library called, fire formula JS. And there website will be in the step by step guide. But they have all the functions listed.
+
+00:36:57:45 - 00:37:17:06
+不明
+Most of them are the same or very similar to what you would see in Excel, but they have them all listed, and they have a tool where you can test and try out the formulas before you ever put them in, into Marketo. And then you have to return fields. And the reason for that is sometimes you expect a text back for a string, and sometimes you expect a number back.
+
+00:37:17:11 - 00:37:40:48
+不明
+So you have both in case you need them. All right. So now for the fun stuff. What can we do with this new toy that we have installed? All right. Imagine you work for university and you have all of these prospective students visiting your website. You've created scoring around there, all of the majors that are offered by your university.
+
+00:37:40:53 - 00:38:04:48
+不明
+And so you're scoring everyone by their how they interact with content for specific majors. You've got all these scores, but now you want to run a campaign and know what is the top interest of each student. How can we do that? Well, with a formula, we can easily compare all the scores, see which ones are the highest, and return the text value of that score.
+
+00:38:04:53 - 00:38:24:27
+不明
+So here you see this in action. I've put the formula in that formula fields I select top interest as the return. So that's where the answer to the formula will be returned. And then you can see how this, you know sample of students would be placed based on their scores. But one question.
+
+00:38:24:32 - 00:38:45:56
+不明
+Is of sure you provide the slides afterwards. So. All right. Next use case. Maybe you're on the other side. You're selling products and your sales team comes to you and says lead quality is terrible. We're getting a lot of students. And you look through the data and that's what you see. You're seeing a lot of students are downloading all your content great.
+
+00:38:46:01 - 00:39:02:13
+不明
+But they're doing it for research and term papers and they're never going to buy your products. You're too heavily weighing the behavior score and you're not weighing enough the demographic score. So what do you do? You can change the scoring model. You should change the scoring model. What do you do about the scores that are already in the system?
+
+00:39:02:18 - 00:39:26:01
+不明
+You want to create a composite score to combine them and weigh that. The science differently. You could export the data, run the calculation in Excel and then import it. That's a pain. That's not really the Mops way. I want to automate this. I want to just run a smart campaign and be done with it. So with the formula for step, we can use a simple formula.
+
+00:39:26:06 - 00:39:41:36
+不明
+Set weights for the different scores that we want to combine. And then come up with a composite score. The great thing about this is once you run it, this is just one sample and you run it and you're like, you know what? This scoring is not really working either. Let's change the weights. It's as easy as running a smart campaign.
+
+00:39:41:43 - 00:40:06:09
+不明
+This works just like any other, flow action in the spark campaign. And I know something you've done a million times, so it's very easy to do. And once it's set up, you have it. So we fix the scoring and sales, come back, comes back and says scoring is great. Now can you assign all of the leads, new leads, and a round robin fashion for all of our reps?
+
+00:40:06:14 - 00:40:26:00
+不明
+Sure. How are we going to do that? Well, easily with a formula. Because we know Marketo lead IDs are sequential, so we can use a mod function or a remainder function. With the lead ID and the number of sales reps we have. So if we have five sales reps, we just run a modify function and it will give us a number sequentially.
+
+00:40:26:00 - 00:40:45:38
+不明
+One through five repeating so that we can use that as a round robin. So here then we just take that round robin ID, we use a change on our first step. Set the choice for each round robin seed number and a corresponding sales rep.
+
+00:40:45:43 - 00:41:05:54
+不明
+And all the new leads will be assigned. So, that's three examples. But we only have so much time. So we'll do some, some rapid fire examples. Text capitalization. Just preparing text for if you're going to use first name, last name or anything in a an email or something, let's make sure it's looking good. That's a great one.
+
+00:41:05:54 - 00:41:32:42
+不明
+Obscure partial obscured data. So we use this a lot for, our preference center or refer friends where we want to show that we know somebody but not give our personal identifiable information. Lookup is like Excel's Vlookup. So there's a million use cases here. You can see we have or we're using the country code and returning the phone, prefix plus one for the US plus four for for the UK.
+
+00:41:32:47 - 00:41:52:57
+不明
+This is also super helpful for anyone who's using an external system that uses guides. For example, if you're using dynamics and you're getting a bunch of ideas that mean nothing, now you can do a lookup and get an actual value. Calculate completeness. So if you have a set of key fields, you can put them through this formula set.
+
+00:41:53:02 - 00:42:13:37
+不明
+Each of those and the divide by see if it has a value in it, and then divide by the total number of fields to get a completeness, score. So you get a percentage completeness across a database. It's a great metric to just see for your key fields how how is the data quality or completeness database. Next open and click through rate.
+
+00:42:13:37 - 00:42:31:58
+不明
+So we often put a score for every time someone opens an email and someone clicks an email. So we take those scores and with a formula just divide them. Then we get a click through rate, not at the email level, but the lead level, which gives you a really interesting metric of how one individual person is interacting with your content.
+
+00:42:32:09 - 00:42:57:40
+不明
+Overall. And then finally extract domain from email. So if you have John doe@adobe.com, you can extract just the adobe.com parts. This is great for matching people by company. You can also use it to look up the MX records. You know what email client they're using before you ever send them an email. And that's just the tip of the iceberg.
+
+00:42:57:45 - 00:43:27:27
+不明
+Once you have this set up, you'll be amazed how often you're using it, how many times it saves the day. Not for these complex formula use cases, but the most simple, mundane things that can be just a showstopper or a game changer for a great ad campaign idea. And again, they have this website that'll be in the guide, but you can check and test all of the, all of your formulas and see all of the functions that are available or rates.
+
+00:43:27:27 - 00:43:55:48
+不明
+So just a few tips and tricks. When using the formula, you don't use an equal sign like you would in Excel. Just put the formulas directly if you're using Marketo tokens, if they're a text token and not a number, you want to, surrounded by a single quote or an apostrophe. Next, use generative AI. If you tell ChatGPT that what data you have, what you're trying to do with it, and that you're using formula JS, it can come up with amazing formulas, complex formulas.
+
+00:43:55:48 - 00:44:14:42
+不明
+You don't have to write them out and test them. Well, that's fine, but you don't have to write them out. It'll do that for you. But do test them because, the AI will hallucinate. It'll come up with functions that don't exist. So you've got to check it. So definitely test your formulas before putting them into action.
+
+00:44:14:47 - 00:44:40:07
+不明
+And then, just next steps. Where would I start? I would start looking at all of your current workflows, see where a formula can cut out manual labor, kind of these export import processes, update data, maybe have messy data, look at where your missing data are needed to format data in your database that you're struggling with and run processes for that, then install the formula for step.
+
+00:44:40:12 - 00:45:01:57
+不明
+It takes 30 minutes, I promise it. For the step by step guide. I'll throw the QR code up again at the end. Once you have it, you'll love it. Then train your team. Show your team the first step. How it works. Give them these use cases and put it in the hands of them because that's where you're gonna see the magic.
+
+00:45:02:02 - 00:45:25:05
+不明
+Then again, test your formulas. Use that, tool on the website to test your formulas and just test out new ideas. See, get creative with it. See what you can come up with. And then finally, on the topic of just, self-service full steps in general, I would look at your webhooks that you're currently using. Oftentimes that's the where you're going to get the best value of it.
+
+00:45:25:10 - 00:45:51:20
+不明
+Converting a webhook to a self-service full step is not that complex, and it frees you from all the limitations that webhooks come with. And then, yeah, just see what options out there. Also integrations, if you have any kind of integrations using the API currently, there's often times where you can use a self-service flow step instead. Cut down on API calls, give yourself more control because now we can call it from a spark campaign.
+
+00:45:51:25 - 00:46:01:48
+不明
+And streamline things. And that's it. This is the QR code again for that step by step guide. And I'd like to invite Brad back up, and I think we'll do a Q&A.
+

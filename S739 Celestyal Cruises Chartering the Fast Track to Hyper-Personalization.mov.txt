@@ -1,0 +1,440 @@
+00:00:01:15 - 00:00:26:39
+不明
+Hi, everyone. Thanks for coming. I'm Nikolai. I'm director for content platforms and digital experience platforms at Marco. So I lead that business in Germany, Switzerland and Austria. I'm located in Frankfurt, so this is actually the first time I'm attending Adobe Summit in person. So it's really cool to be here today. Really great to be on stage. We had some cool sessions and discussions in the last two days already.
+
+00:00:26:43 - 00:01:05:36
+不明
+Yeah, really, really cool and really excited to be here today. With me is Tim Locke from celestial, who's going to introduce himself in a second. And Tim and I are going to talk about Celestials fast track to hyper personalization today. And before we jump into what we've been doing with celestial and are still doing at this very moment, I think it's important to give you an idea of the specific business context that celestial is operating in, to give you an understanding of the reasoning behind their overall approach, and I couldn't think of anyone better in the world to explain this to you than Tim.
+
+00:01:05:45 - 00:01:22:15
+不明
+So gosh, that's a lot of pressure. If you don't mind, I'm going to come down. I actually feel really dangerous up here. So does it still work down here? Yeah. You can still see, like, bounced off my head. I can't believe I'm the only one in a creative, actual session with AI. Who has. He hasn't got a Photoshop photo, but there we go.
+
+00:01:22:15 - 00:01:39:37
+不明
+Never mind. I've actually got a relatively easy job in this session. I I'm away from the actual speaker. I actually just need to actually introduce celestial to you. Actually, what we're up to our objects is what we're going to, what our commercial plans are. And then basically the headache we actually gave Michael and Adobe to fix.
+
+00:01:39:37 - 00:01:59:22
+不明
+So my one's relatively quite easy. I suppose the most complicated thing to explain to you guys is who actually Celestial Cruises is. I go to a lot of sessions and I actually do a lot of presentations, and it's quite a few people who come up to me at the end and go, I actually came to this session because I actually thought it was Celebrity Cruises, and I just thought the organizer actually misspelt it.
+
+00:01:59:27 - 00:02:17:03
+不明
+Actually not. Celestial cruises is a real thing. It's an absolute general cruise line. I'm going to explain to you and other people say, is is it a real thing? Because obviously it's celestial spelt roll. It is. There is a quirk and there's a whole nother session. Why go to why in our brand team? Love it. You know people hate it, but there we go.
+
+00:02:17:07 - 00:02:33:27
+不明
+When I told my brand team I was coming to Vegas and it was going, a lot of people would want to talk about celestial. They got terrified at the fact that they thought that I was going to stand to explain who celestial was, so I had to make a deal that actually I had to show you a video, one of their brand propaganda videos.
+
+00:02:33:32 - 00:02:53:21
+不明
+So to set the scene about holidays and cruises, before we get in to actually talk about the nitty gritty of the actual business and the challenges and the headaches, we got, Nicola headed.
+
+00:02:53:26 - 00:03:02:19
+不明
+Over.
+
+00:03:02:24 - 00:03:09:18
+不明
+To.
+
+00:03:09:23 - 00:04:02:15
+不明
+The.
+
+00:04:02:19 - 00:04:12:27
+不明
+TV.
+
+00:04:12:32 - 00:04:33:46
+不明
+There we go. So we do exist. So hopefully everyone had a bit in the holiday mood and in the actual feeling of. Actually wanted to go on the cruise. We've locked the doors. You have to pay a deposit before you leave on this session. Thank you very much. So just to give you a bit of information, background of information about, celestial, we actually celebrated our ten year anniversary, either last week or the week before.
+
+00:04:33:46 - 00:04:58:13
+不明
+Some of them, it's something like that. So we just celebrated ten years. Where are you? A fleet of two ships, operating in the Mediterranean. So we basically cut our teeth on the Greek islands, operating three and four night cruises around Mykonos, Santorini, Ephesus. So you can go party in Mykonos. We are all about port intensity. So we do two ports a day, but on the other side we do seven night cruises, the world around the Greek islands and up towards Venice and down.
+
+00:04:58:26 - 00:05:15:34
+不明
+We used to also do the eastern Mediterranean to Egypt and Israel. Obviously that's off the cards at the moment. And that was all the more about longer stays. So our actual proposition there is you stay in Santorini longer than other cruise lines. You go into smaller cruise ships. So we have mid-size cruise ships with around 1300 people onboard.
+
+00:05:15:39 - 00:05:33:54
+不明
+Yep. And this year we actually took one of our ships in the winter down to the Arabian Gulf. So to by Doha floating ship for the F1 Grand Prix. And I obviously just hit something in and at the end of this year, we'll be taking both ships down to the winter. So we'll be moving to all around seasons.
+
+00:05:33:58 - 00:05:56:01
+不明
+We are VC owned, by Searchlight Capital. That happened in 2020 1st November. Before that, we have some fantastic heritage. We were owned by the Lewis Group. Lewis Group is based in Cyprus. Was the original founders of tourism in 1930. Their marketing back then, they used to take an orange and used to take it to travel agencies.
+
+00:05:56:06 - 00:06:11:49
+不明
+How wonderful. If it simplifies the market, it would be right now if we could do that. So most of us would be out of a job. But on that side. So we, we were obviously owned by Lewis Group, which is hotels, airport handling until 2021. As you can imagine, Covid had to change things and needed injections on that side.
+
+00:06:11:49 - 00:06:35:58
+不明
+So a we signed we source in over 35 markets. So we're active in everything from Latin America, Australia, North America. I remember this is just for two ships in 35 countries. We deliver our marketing in eight languages. We're onboard in 12 languages. It really is like the United Nations on board and North America is our biggest market. Nearly over 50% of our actual business comes from North America.
+
+00:06:36:03 - 00:07:03:12
+不明
+So that's just a bit of a flavor of, where it comes from. As I mentioned, we're gonna talk about business objectives translated into our commercial objectives, translated into our digital, objectives, and then how that translates into our challenges as we go. As I mentioned, we are owned by Searchlight Capital. So this happened in 2021. We celestial is a very, very profitable cruise line coming into Covid for two cruise ships.
+
+00:07:03:21 - 00:07:26:42
+不明
+Phenomenal. Sort of margins. It operates when, Searchlight took over the business. They're a debt VC. So they take on for basically a limited time 4 to 5 year project. And these are the objectives that that that us. So stabilizing the business post pandemic. Pandemic cost us 100 million in costs. So it was a devastating effect. So our first priority was to stabilize the cost.
+
+00:07:26:47 - 00:07:43:12
+不明
+And then we moved into what are the value creation projects that we need to put on this company for us to be sold on or moved on for new investors, for us to grow into new regions or into a ship three, four, five and six. So we renewed the fleet. You saw in that video we had new ships when we were in Covid.
+
+00:07:43:12 - 00:08:04:03
+不明
+We actually had ships from the 1980s. So think about it. We had a seven night ship, what had 50 balconies on it up until 2021. And so it up into 2023, we now have 200 balconies. We had a three and four night ship, what had seven balconies on it. We now have one which has 150, and it's just had another 50 added in the last four weeks.
+
+00:08:04:15 - 00:08:21:31
+不明
+So real changes in our actual business right now that we then have to translate not only into our commercial strategy, but also have to translate into our digital strategy. You know, we're going to that more premium model. We took the ships we around, as I mentioned off, we cut our season, our teeth on the record and cruises Mediterranean.
+
+00:08:21:36 - 00:08:37:05
+不明
+We've now gone into the Arabian Gulf all year round season. By the end of this year we'll be going all round. So again, we have a business in the commercial strategy. What has to fit business now, which is not just seasonal but all year round. And then obviously the commercial transformation, which is about the fact is, like I said, we've changed our fleet.
+
+00:08:37:10 - 00:08:56:40
+不明
+Mac in 1980s, we didn't have specialized specialty restaurants. We didn't have, great big spars, we didn't have the premium suites, the but the service concierge we do now, so we have to work on a commercial transformation is how do we actually take our revenues to Asia. So it's bigger to create that value creation project for when the next investor comes over.
+
+00:08:56:45 - 00:09:11:34
+不明
+For us to be able to unlock how we grow the fleet, how do we have to ship free form five? And then how do we move out of the region to other regions for us to operate, to grow as a business? So slide, actually, the merkel gave me and I kept it in space is just to show the size of the prize.
+
+00:09:11:42 - 00:09:28:10
+不明
+So this is the size of the actual cruise market is growing. It's even bigger than it was before the pandemic when I 6.8, the actual business is now worth 3.9 trillion. So let's do just a minuscule on that. If you look in the news, obviously over here in the US, you see it. You have the orders for cruise ships are growing.
+
+00:09:28:24 - 00:09:52:01
+不明
+You have every taste now from basic, you know, basic cruise lines to premier cruise lines. You've even got Ritz Carlton now for cruise lines. There are so many flavors, there are so many charters. This business is growing and the most important is the percentage of new cruisers to come. You know that this market is growing and growing. So this is one way we need to make sure that our commercial strategies is fixed and ready to go for this growing market.
+
+00:09:52:01 - 00:10:20:48
+不明
+As I say, this is a market that VC's are all over at the moment, invested in. So taking that loss box of commercial transformation, when we started this, project, we had to sit down as a commercial team. Some of you might be familiar to this. I've just taken part of our house, of our, you know, our vision, mission, mission, and, where we want to play our vision as a business for our commercial strategy was, hey, we want to create unmissable experiences at sea and on shore.
+
+00:10:20:52 - 00:10:38:49
+不明
+We want to be able to create the best service onboard, the best sort of experiences, whether that's in the spa, specialty restaurants, a seat on board on the shore access, or even if it's like pre and post hotels. And the two areas that we saw that we wanted to play in was growing experiences. How do we grow our basket value?
+
+00:10:38:49 - 00:10:58:50
+不明
+How do we actually make our basket value much bigger? So before the pandemic, whole we were all inclusive. We actually used to give free excursions in our cruises. All our drinks were included, love fruits included. We've unbundle that now. Have we made it a la carte? So we've now grown a whole portfolio to actually grow our experiences, and it has put the hotel in the basket.
+
+00:10:58:55 - 00:11:19:06
+不明
+How you can actually book the restaurants, different drinks packages, different specialties, whether it's private or non private. But then obviously the strength in partnerships, one of the things about slash is over the years it's been a very B2B driven business and not B2C, B2C. You only accounts for 12% of the business. It's been very much tour operator and travel agency led.
+
+00:11:19:19 - 00:11:40:21
+不明
+So it's the brands that have been there. But we have a wealth of actual connections globally, whether that's, in Australia, North America, Spain, Latam, you name it, we've got this. So we actually do have the volume place. It's about pulling on these two levers that we actually want to bring into our commercial house. And obviously they want to utilize in the digital space.
+
+00:11:40:26 - 00:11:57:15
+不明
+So the framework to deliver. So when we sat down and said hey how do we take these business objectives? I want to take that box for the actual commercial. Was, was this basically framework. So we looked at each of these areas. First we looked at the foundations. Do we have the right systems? Do we have the right contract structures.
+
+00:11:57:19 - 00:12:13:49
+不明
+We even said, do we have the right people? Somehow I survived that. I have no idea. But we're still here to tell the story. And then we started to look at these different buckets. Brand and customer experience is our brand fit for purpose? Is it actually resonating with the market? Want to be? Is it what we want to sell it be now we've got the new ships.
+
+00:12:14:04 - 00:12:31:46
+不明
+Now we're going outside of the Greek islands, the Arabian Gulf. Is it land in the messages we want to do? So we had a piece of work to do there experiences. Do we actually have the products on board the ship and off the ship that people want to actually buy with us? Again, another bucket we had to work on and then distribution.
+
+00:12:31:51 - 00:12:50:15
+不明
+Well channel do we do want to work? Do we want to sell a travel agency with some tour operators? So for us, we said 50% of our business for North America comes to us for the Greek islands, that technically might not work for the buyer or for Doha, that might mean that we might need to go direct in Spain, or we might need to go to another model out of Australia.
+
+00:12:50:15 - 00:13:11:40
+不明
+So another area that we had to look at. But underneath all of that, we unpinned underpinned it with a digital first strategy. And that's what we were looking to do. No matter what we were doing here, we needed to basically encompass all into a digital first strategy. So this basically came to our digital first. So it came to me in my team was what do we want to do?
+
+00:13:11:45 - 00:13:31:57
+不明
+Well, it was obviously want to grow the direct footprint. Now that doesn't mean that we wanted to replace the travel agency business, because obviously we want to grow the business, but we wanted to move from 12% to maybe something more healthier. So there was a healthier distribution between travel agents, tour operators and direct. On the travel agency side, we wanted to try and provide a more frictionless why doing business?
+
+00:13:32:02 - 00:13:49:36
+不明
+So how can the travel agent log in? How can a travel agent educate themselves? How can I get the marketing tools? How can I make a booking? How can I do stuff that I don't have to normally liaise with the contact center or the frictionless stuff? Did I have to do increase the pre-departure revenue through CRM mobile app?
+
+00:13:49:40 - 00:14:13:40
+不明
+This one's a real wacky one. So up until 2023, we had we had zero pre-departure revenue. We left it all onboard because we were selling all inclusive. We switched on the basic CRM program and we generated 10 million in the space of 12 months. Sounds real basic stuff, but this business is really moving from an analog well to a digital world quite quickly.
+
+00:14:13:55 - 00:14:37:27
+不明
+So one of our objectives is how do we actually integrate this? How do to get 25 million? How do we get this to 30 million? Again, the personalized journey is everything we do at the moment, sometimes a bit and price. We send out the broadcast messaging. How do we bring that personalization? How do we have touchpoints? How do we make sure that we're delivering the right products to the right personas, not only on the website or the website, in the CRM and obviously through the mobile apps?
+
+00:14:37:31 - 00:14:53:20
+不明
+And then obviously we have to do that in the bottom by achieving. So we talk about this controlled channel contribution. What are we willing to pay. So we're obviously competing with travel agents. We're competing with tour operators. So in the direct space how much do we what you want to invest in that digital channel to acquire that customer.
+
+00:14:53:34 - 00:15:13:54
+不明
+How much do we actually want to invest in the market for travel agency tools versus actually, hey, that might be better to be working as a GSA model in a certain country. And then lastly is to make sure that across all of our digital spectrum that we have consistency across our brand. And, you know, we have a seamless channel for both digital and customer experience.
+
+00:15:13:58 - 00:15:42:27
+不明
+So again, just, another slide actually, merkel shared nice though, is really about the actual, offline online when it comes to, the cruise industry. So the industry standards 22, 24, 22.25% to book direct. As I said, we're at 12%. So we're massively under indirect under indexing right now versus the market. This is why it's critical that we came to market in the debut of our challenges and say, hey, we have ambitions to grow, we have ambitions to go quite large.
+
+00:15:42:32 - 00:16:06:45
+不明
+This is the current industry standard. When they're indexing, we need to obviously not do this. You know, slightly we need to do this very quickly to be able to catch up and start to be a actually a market leader. And then last thing I wanted to share before I hand over, to, Nikolai just really was our challenges that we were bringing to, well, the challenges that we're bringing, to be able to scale.
+
+00:16:06:45 - 00:16:23:58
+不明
+So obviously when we look at all of this, we basically, before we go running out to an agency or looking to partners, we work how do we have the capabilities already to be able to do this? We ourselves, we always sit down, I can do this, this few hours. First problem our platforms are not scalable. We weren't mobile first friendly.
+
+00:16:23:58 - 00:16:48:25
+不明
+So last time we built our website was during 2020, 80% of our traffic was desktop, 20% was mobile. We're in the space of 18 months. 80% of our traffic was mobile, 20% of our desktop platforms gobbled that. So it wasn't scalable. We had unusable technology, silo technology. So we were using multiple platforms that were having to put sticky tape over to try and actually make them work.
+
+00:16:48:30 - 00:17:10:05
+不明
+Not possible. We couldn't connect flight hotels and transfers the system. We had to be able to make that happen just wasn't there, and the way for it to work was too, too difficult or too expensive for us to be able to implement. From a qualified audience point of view, our strategy is really heavy. On B2B, B2C. We have a bit of a love hate relationship sometimes with it with.
+
+00:17:10:06 - 00:17:32:20
+不明
+So we obviously have consultants coming along that say, hey, we should be this, we should be data. So sometimes we have complicated reachability. We have only certain reach with our sort of our marketing money. I go back to an earlier slide where we saying, hey, we compete in 35 markets. That's a lot of money that we have to spread, and sometimes we don't have the actual analytics for us to be able to go and say, hey, this is the best market for us to do.
+
+00:17:32:22 - 00:17:53:39
+不明
+You know, we didn't have the actual platform, which gave us the whole ecosystem of unification for us to say, this is what's going on, say this is good business, was what we actually asked Merkel and Adobe to do for us. We asked them to say, hey, we would like to get our direct bookings up to 30%, 12% today, but we'd like to get up to 30%.
+
+00:17:53:43 - 00:18:13:35
+不明
+At the same time. We want to try and slash our, you know, customer acquisition cost by 30%. The fact is, if you've got a non mobile first website, you've got it means that your page optimization is low. It means you're paying more for cost per clicks and stuff like that. So these were achievable achievable targets that we're putting into say hey we believe we can grow.
+
+00:18:13:35 - 00:18:28:01
+不明
+But we also believe that we can optimize our cost per acquisition as well with better data. We said we want to increase our basket value, so we want to make sure the website works. We want to make better merchandise for our website. We want to sell our premium products much better. We want to obviously merchandise our hotels and transfers.
+
+00:18:28:01 - 00:18:52:33
+不明
+We want to merchandise, on both sales. We also said we want to include our customer satisfaction scores. Pretty good on board. We're about 83%, which is one of the best in the industry for the cruise lines. And again, but there is more room to actually grow. The shocking thing in this is the repeat book. A rate for selection was 3% because we've always gone and chased new business, because we used to be a cruise line.
+
+00:18:52:33 - 00:19:14:36
+不明
+We had three and four nine products and we had any variation. We've got new ships now. We're outside of the actual. We were expanding out into another region. So we have this ability now to put the whole sort of loyalty scheme in the repeat book of rates on that side. And obviously on the B2B side, we obviously want to cruise and improve our conversion rate by 25% by using the tools that we put in, we want to get people off the contact center.
+
+00:19:14:36 - 00:19:30:04
+不明
+We want to get them into actual aisle travel agent. And then the real kicker in the teeth for these guys was we said, we want to do this all at pace. So we have a saying in Celestria right now where we're in this whole sort of VC cycle. So we say one week in the normal business is a day in Celestials life.
+
+00:19:30:09 - 00:19:46:37
+不明
+What people want to try and do in the most business do in a week. We need to try and do in a day right now to be able to meet our objectives. And we asked these guys to do the first part of this in three months. And, Nikolai will tell you how he done that.
+
+00:19:46:42 - 00:19:50:24
+不明
+Thanks. Them.
+
+00:19:50:29 - 00:20:17:22
+不明
+So when we started working with, celestial, we were actually asking ourselves one key question. How can we address this vast array of business objectives, of business issues that celestial is having in a connected way to bring value to them fast but robust and in a way that is scalable for the future. So Merkle is an experience driven company.
+
+00:20:17:22 - 00:20:45:20
+不明
+So we decided to look at the view of the customer first, to look at all the individual moments that customers are having with celestial. And that's the customer life for celestial that you're seeing here. Now, the cool thing about the customer life cycle in the travel and hospitality, and especially in the cruise industry, is that it's really fun and engaging to work with because you have a ton of micro moments I can really deep dive into.
+
+00:20:45:25 - 00:21:07:09
+不明
+You have a lot of potential for optimization throughout. But that also means that there's a lot of necessity for optimization because the competition is not sleeping. If you want to stay ahead of the competition, need to optimize every individual step of that funnel.
+
+00:21:07:13 - 00:21:33:28
+不明
+So we were looking at a model. We were looking at a way on how to actually bring this live. Where do we even start with the full blown digital transformation project? Basically redoing everything from scratch. And what we did was we applied something that is called the business first transformation model. How it works is we took all of the business objectives for the last year.
+
+00:21:33:28 - 00:21:57:07
+不明
+We threw them into this continuous loop. We analyzed it. We looked at how you can act on individual business objectives, how we can operationalize on them, and what came out of that was a set of KPIs that we were then able to map a business decisional dashboard. And you can see that we've split it at the end in three major stages.
+
+00:21:57:07 - 00:22:13:25
+不明
+That is setting the foundation that is securing and fueling growth. And this that is optimization optimized. We already have. And securing the bottom line.
+
+00:22:13:30 - 00:22:40:14
+不明
+So foundation meant for us, starting with a website as the ideal point to start with a digital transformation. And you can see here that this mostly relates to the before the cruise phase of the customer life cycle. There were multiple reasons why we decided to start with a website first. The first thing is that it addresses B to C and B to B target groups.
+
+00:22:40:19 - 00:23:10:55
+不明
+So so let's still estimate evident is not selling boat rights. They're selling experiences. They're selling the chance to possibility to craft, to create lifelong experiences with your loved ones. And we believe that a website is the ideal channel for marketeers to create these kind of experiences, to bring them in front of the customer and to engage with client, because you have near limited possibilities on what you can actually do.
+
+00:23:11:00 - 00:23:47:04
+不明
+And that is also true for the B2B target group. So B2B clients and in Celestials case, that's the travel agents that are mostly interacting with them via a learning portal and via a brand portal where they can download assets and documents from celestial. They're expecting the same level of experience that they have in their private life. When they log off and relax on the couch after a hard day of work, scrolling through Instagram, interacting with their favorite brands and they expect the exact same level of world class experiences also in their B2B world in their daily jobs.
+
+00:23:47:04 - 00:24:12:54
+不明
+So that was a really important one. They're basically expecting hyper personalized experiences in their work life as well. The website also meant we were able to push direct and indirect sales. That's extremely important if you want to increase the share of direct UCC revenue. But it also was a chance for us to secure a healthy B2B, sales channel to keep the B2B sales channel healthy.
+
+00:24:12:59 - 00:24:32:30
+不明
+And if you want to move into a more B2C revenue world, you need to work on brand awareness. You need to bring your brand to the customer. You need to compete with the share of mind. You need to acquire clients. You need to make sure that they actually find a website, that they come on your website and they engage with your content.
+
+00:24:32:34 - 00:24:57:09
+不明
+And in an industry where SEO is extremely competitive, a well-crafted website can make a real difference. Here. Website also gave us the chance to immediately start tapping into previously realized upsell potential. That's what Tim explained. With all of the upsell that they're doing now for the base courses. And the last point is arguably one of the most important ones.
+
+00:24:57:14 - 00:25:35:40
+不明
+It gave us a chance to start building high quality customer data. Now, you heard celestial had a website before we started working with them. But from the way it was set up, from the way the content was structured and from the way the analytics was set up, it was extremely hard to turn the data collected there into an operationalization, to turn it into something where we could actually craft personalized experiences out of, and to actually find out at which stage in the customer lifecycle clients customers are actually at, when they're interacting with the celestial website.
+
+00:25:35:45 - 00:26:00:07
+不明
+So for us, that means if you want to start, if you want to embark on hyper personalization, eventually you need to make sure that your baseline, that is content CMS, that's commerce. That's a booking engine for celestial and the connected customer data collection in order. And we decided to fix that part first.
+
+00:26:00:12 - 00:26:23:45
+不明
+So when we pitched for celestial for the very first time, the technology was actually not yet decided. So Celestia was looking for both a technology and an agency partner. And in the end, Adobe Edge Delivery services came out of as the technology of choice. And let me start by saying that Ed's what, was at that time a pretty nascent technology.
+
+00:26:23:45 - 00:26:50:31
+不明
+Everyone had limited experience with it, and we had to do some convincing with Tim and the team to be able to actually push through with it. So that wasn't an easy one. At the end, there are three main reasons why we decided to go with, Ed's at the beginning, and the first one is that it enables us to, create well-performing websites from a page speed perspective.
+
+00:26:50:36 - 00:27:23:03
+不明
+We knew from the way that Ed's works that it would allow us to achieve top tier Google Lighthouse scores, which is extremely relevant for SEO, which results in more acquisition and more engagement, more conversion in the end. And that's the important second part. We know from all the work we've been doing with countless clients over the last years, we know from statistics that hold true for all industries that a well-performing website results in a higher conversion.
+
+00:27:23:07 - 00:28:05:58
+不明
+It results in clients being less likely to stop to jump off mid journey, and it results in clients being more likely to convert in the very end. Second one rapid development. So when I talk to the engineers in my team about EDS, they tell me that it requires a certain shift of mindset because it works differently than what am used to work in the past, and they have to adapt a little bit to it, but it's well worth it to invest a bit of time upfront and to create a team of seasoned front end engineers backed with seasoned and experienced backend engineers, to actually push through with it.
+
+00:28:06:03 - 00:28:45:36
+不明
+Because, the way that EDS works, the way that its features are set up, the way that, yeah, for example, local development set up works the way that testing works, the way that the repository last publishing works. All of this combined, and especially also the way that the actual creation of components of the EDS blocks works, enables us to build a website faster than we were able to do it with, let's say, the old, and it also frees up time on our people, to work on actually creating experiences.
+
+00:28:45:36 - 00:29:21:55
+不明
+And that's always a good thing. Number three, empowering authors. And that's actually why we believe that EDS is now ready for virtually all enterprise scenarios. And that's the integration between EDS on one side and the Am multi site manager and universal editor on the other side. What via what used to be called project crosswalks. Because it allows the authors, it allows celestials marketeers in that case to craft the high class experiences that they are envisioning with the top tier tools that, Adobe provides.
+
+00:29:21:55 - 00:29:49:01
+不明
+And that has always been one of the key differentiating differentiating factors of Adobe. Clients have been choosing Adobe because it gives marketeers the possibility to work with the best tools on the market, and to actually empower them to craft the best experiences possible. So a really cool piece of technology we had at hand. But that, of course, does not mean, that there weren't obstacles that we had to overcome during the project.
+
+00:29:49:01 - 00:30:11:43
+不明
+And Tim mentioned earlier the most important one, and that was timing. So from project kickoff to go life date, we just set four months in total and we started with nothing. We started from scratch. We had no UX design, we had no site map in place. And because these guys wanted to be live, just in time for the holiday season, we could never have convinced them to push that date back.
+
+00:30:11:43 - 00:30:45:50
+不明
+So we knew we had to be live in four months, and therefore a full website from scratch is, yeah, tough timing. And, how we approached this is, was something that I think a lot of us did a lot more before the pandemic. We basically locked ourselves in between miracle, Adobe and Celestial, both virtually and physically. That means, you know, that Adobe has a lot of teams that engage with clients, especially in these earlier project stages, and we decided to leverage that support and that expertise to the max.
+
+00:30:45:50 - 00:31:10:32
+不明
+And I can only encourage everyone to do the same thing. Use the tools, use the resources that Adobe provides. To you. We were able to enroll ads, who are also still in the EDS early adopter VIP program. So we had a slack channel where our engineers were directly collaborating, shooting messages back and forth on how to best use features and how to best work with the new tool.
+
+00:31:10:37 - 00:31:33:42
+不明
+With the Adobe engineering folks there are actually working on the product that we're having constant calls, email back and forth, you name it. And the same is actually true for business. We make sure to constantly align between Adobe Miracle and Celestial to keep everything aligned towards the strategy and towards the goal to be live in four months. And that was mostly virtual.
+
+00:31:33:46 - 00:31:58:24
+不明
+But we also did a lot of connection. Yeah, in the real world. So during that period of four months, we met almost on a weekly basis, all over the world. We met in Zurich, we met in Geneva, we met in Belgrade, where a lot of the development team is sitting. We met in Greece to actually check out the celestial ships, to get a first hand experience on what cruises, feel like.
+
+00:31:58:24 - 00:32:24:33
+不明
+We met in Munich, coincidentally just when Oktoberfest was happening. Yeah. So we basically, had a lot of active collaboration going on, and that meant that it was really easy for us to keep the team engaged, to keep, the pressure and the team spirit up. And it also meant that we were able to decide really quickly when we needed to, to decide on things.
+
+00:32:24:37 - 00:32:51:07
+不明
+Which brings me to the second point. It was about prioritizing the actual business value. Now, the KPIs that you saw earlier emerging out of the business value transformation framework was something that we always held in one hand on. Every requirement that came up for the website was challenged against these KPIs, and we had some really tough discussions, because there were a lot of features that didn't make it.
+
+00:32:51:07 - 00:33:18:51
+不明
+In the end, it would have been nice to have for an MVP, but they yeah, didn't make it to the MVP in the end because they would not have brought immediate and long lasting business value to celestial and that was a really key point that I meant we had to be really hard on keeping a tough grip and a sharp eye on the scope, and that's extremely important in a project like this.
+
+00:33:18:55 - 00:33:32:12
+不明
+So at the very end, we were able to actually and I hope the second video is actually going to work. Now let's hear.
+
+00:33:32:16 - 00:34:08:51
+不明
+It yeah. At the end we managed to push through. We managed to go live just in time before the very important Christmas sales for celestial for month from kick off to go live date, which resulted in an almost immediate 30% increase in, SEO rankings. So client happy, agency happy. And we successfully built the foundation to fuel, that hyper personalization journey in the future.
+
+00:34:08:51 - 00:34:29:53
+不明
+And I'll just, leave you for a few more seconds with some impressions. What the team, what the designers, consultants, the back end, front end engineers were able to recreate in that short time frame.
+
+00:34:29:58 - 00:35:18:16
+不明
+So, of course, if you want to start with hyper personalization, and that was the end goal. And that's also the name of today's session. That's not where it ends, right? That was the very foundation of what we were building. But we actually had to do more. We had to look at additional things to connect. And, we had to find a way to address the business challenges that, Celestia gave us in a way that allowed them to craft a fully interconnected customer journey throughout all of their channels, and not just the website.
+
+00:35:18:21 - 00:35:51:18
+不明
+So that's a simplified view. But you can see that the MVP saw the go live of the ads website of the B2B portal that I mentioned, of an analytics tool of the booking engine that celestial is using. And all of the other boxes were, the additional building pieces that we were looking at. Afterwards there was a mobile app, there was email powered by Adobe, Marketo for both B2B and B2C use cases.
+
+00:35:51:23 - 00:36:33:34
+不明
+There was display and SCA as it was Adobe Target for website personalization. And it was, Adobe real time customer data platform to connect all of the data and to fuel all of these channels to create the actual hyper personalized experience. And you might see some continuity here because, how we decided to start working on this was lock ourselves in again between miracle Adobe and Celestial for multiple days to do something, what we called the Industry Lab.
+
+00:36:33:39 - 00:37:01:28
+不明
+And what that is, is that we brought vertical experts from the vertical tech account, and additional teams. We brought Adobe experts with their years of hundreds of customer projects, experience. And we brought, of course, celestial because no one knows their business better than they do. And we started with the questions that you can see on the right, which moments are helping us the most to achieve our 2026 targets?
+
+00:37:01:33 - 00:37:17:12
+不明
+And they were ambitious. Which personas are we actually targeting for the first iteration of the hyper personalized customer journey, and do we have any soft targets that we also need to take into account?
+
+00:37:17:16 - 00:37:42:45
+不明
+And what we did is we further sliced the customer life cycle that you saw at the beginning in more than 25 individual micro moments, and we looked at each and every one of them individually in the group of Celestial Miracle Adobe. And that is an example of the pre cruise phase and the ready to sail moment. So we were looking at what's the audience we're targeting.
+
+00:37:42:45 - 00:38:07:10
+不明
+In that case it's buyers. It's people that already bought the cruise and they're now waiting for the cruise to start engaging with the CEO throughout the timeline. What are the channels that we know we can target these people on and that case, it's social media. It's web and it's email. What are the tech enablers and capabilities that we need to talk to these people on these exact channels?
+
+00:38:07:15 - 00:38:58:15
+不明
+And the last one, and this is where the industry left approach and the, combination of expertise really came to fruition is we brought use cases together. We iterated together on use cases for each and every individual of these moments. And then we further mapped these use cases into quick wins and into strategic decisions. And the implementation roadmap that we then built for 2025 was a direct result of us putting the quick wins, strategic decisions, tech and plus capabilities on a metrics to decide which of these use cases do we want to go first, which are we going to employ in a first step to build the first type of personalized customer journeys for Celestria?
+
+00:38:58:15 - 00:39:31:32
+不明
+So you can't do everything at once. You have to start with a set of use cases that bring the most value in the shortest amount of time possible. And the timeline again, for that was very ambitious because we want to be live with all of that by for this year. So just one year after website project kick off and I'm going to hand back to Tim to give you a glimpse on what the roadmap for this year looks like.
+
+00:39:31:37 - 00:39:51:52
+不明
+I completely forgot about this slide. So, let's have a look at it together. So yeah. So yeah, I'm not going to deny we did set a really ambitious target. As I said, we are moving really quickly because we need to show you value creation. As I say, we have a timeline of our VC. We have a ton of our business stuff.
+
+00:39:51:57 - 00:40:13:12
+不明
+And then we said to other buckets brand as our team want stuff delivered to the experience team. So let's say the B website kicked off, in August last year, delivered MVP for December. You guys delivered the backlog in January. Well done on time. That's good. We're currently working on Marketo right now migrating our, CRM system email over.
+
+00:40:13:12 - 00:40:33:02
+不明
+We should be live by the end of March onto market. So for B2C and B2B, that's great for us because I actually interacts, a lot with our obviously customer journey. And then we start to build, we start to get into the CDP and we start to look at the 360 degree view of the customer. That's probably going to take us all the way through to July.
+
+00:40:33:07 - 00:40:54:34
+不明
+We're hoping we're going to get Adobe's, new gen studio. It used to be called Success Studio called, WebP optimizer. They shown this great thing in ads. And if any of you guys have your clients and you haven't got it, go knock on their door. Is this thing where actually it's self-diagnosis, the problems in the website, and it tells you, do you want to just go and fix it?
+
+00:40:54:34 - 00:41:11:47
+不明
+And this is what we believe the fix is going to be, and this is the revenue uplift. It looks amazing. Get in the queue after us. We're still waiting. But hopefully they promised that in May. That's the most exciting thing I'm looking forward to. Something where I can say to my boss, hey, we can fix it. And then literally as we go for the year, we've obviously got the next facilities.
+
+00:41:11:47 - 00:41:33:55
+不明
+But as I say, what we miss in Marketo in March, target is in April. May is, Adobe AI tags. And then hopefully by the end of the year, we should be by the end of H2, we should be launching our vacations business, which is the next iteration of the website where we'll be selling the full dynamic packaging flights, hotels transpose.
+
+00:41:34:08 - 00:42:00:46
+不明
+So some of our websites will change. So the UK market for good example is a real barrier for us right now. Our cost per acquisition is really, really high because ultimately we're selling a product cruise only what doesn't fit with the normal buying happens in the US. We should be able to deliver that by, July time onto the website platform and then be able to actually improve that and obviously that right now we have, phases of I think it's every two months, every two months.
+
+00:42:00:46 - 00:42:18:57
+不明
+Right now we're delivering the next phase of the website, the next iteration, the new new ideas will come through. As I say, it's very aggressive. We have a very big team. We have an interesting budget. I would like to personally thank the CFO for following us on this one. But, yeah, this is this is all about ambitions right now that we have at the moment.
+
+00:42:18:57 - 00:42:40:23
+不明
+So as I say, we're working on all fronts. But for us, the number one is to try and get to by we get to time for is to make sure that we got full personalization in place. So when we get to next year and we're at that interesting time about how can we activate ship number three and ship number four, we're ready to be able to for the business to be able to scale growth.
+
+00:42:40:28 - 00:42:43:58
+不明
+And that's it. That's a beautiful features. Thanks. Thank you.
+

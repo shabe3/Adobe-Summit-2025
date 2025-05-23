@@ -1,0 +1,540 @@
+00:00:01:15 - 00:00:19:10
+不明
+Hi, everyone. Whoa! Wow. Wow. Well, maybe we needed that for this. I don't know. I did, we all need to wake up at 4 p.m.. You're welcome. You're welcome. I used to. I used to be at the university, and, one of my claims to fame was lecturing in an 800 person hall with no mic, so I always have to adjust.
+
+00:00:19:12 - 00:00:43:21
+不明
+But you all can hear me. Hi, I'm Emily McReynolds. I'm the head of global AI strategy for Adobe. Specifically focused on enterprise. And what that means is I talk about how Adobe builds AI, and most recently with my colleague Sarah Lyssa, who's sitting up here in the front row. We published a paper on how organizations can adopt AI.
+
+00:00:43:23 - 00:01:06:29
+不明
+So I'm really excited to be with you all here today. Thank you for making it out. Last session of the second day. And I'm also really excited to have Brigitte here with me. One of the things we'd love to do at summit is make sure you don't just hear from us at Adobe, but hear from your peers and your colleagues on how they're doing it.
+
+00:01:07:02 - 00:01:31:29
+不明
+So, Brigitte, would you introduce yourself for us? Yeah, thanks. So I'm Brigitte Esposito, head of brand creative at Prudential. And so what that means is that, I have a team that handles really the hire funnel that comes into Prudential. So we do everything from sponsorships, events, which is we just recently sponsored the Oscars. If you got to see any of that content network, Rose Bowl and Live, we do a lot of live events.
+
+00:01:31:29 - 00:01:50:15
+不明
+I love that the Coke CEOs talking about how live events are a thing. That's amazing. Everything from that to social media in those spaces. And so what we've been really trying to do is surprise and delight with the brand. And so we've been spending a lot of time of like how AI works into that and how to make sure we're doing it responsibly, really important.
+
+00:01:50:17 - 00:02:11:14
+不明
+Also, good tag for the title of our talk today. So we want to take you through, a few things. There's a paper. Nobody wants to be read a paper. So we're going to talk about some research. We did, with your peers out in the market. But first we're going to start with some considerations for adopting generative AI.
+
+00:02:11:17 - 00:02:34:00
+不明
+Not because you don't already know these, but it's sometimes helpful to hear the challenges other customers are having and how they're addressing them. And also think about what the answers are you might need. And then we're going to go through a research survey we did that had some really interesting results. Even some things that surprised me, which I always love when doing research.
+
+00:02:34:03 - 00:02:52:16
+不明
+We have a four part framework. There's a great paper. We have a QR code. But I think it's helpful to see it in a deck. And before we expect that, we know what you're investing in when you sit down to read 12 pages. And then we'll talk about there's so many papers out there that are like, these are the three challenges.
+
+00:02:52:17 - 00:03:14:10
+不明
+These are the five ways to do it. But they don't have a super practical perspective. What questions should I be asking my vendors? What should be in my employee guidance to make sure people are going to use the technology responsibly in my company? So that's, our plan for the next 50 ish minutes. We'll try and leave some time for questions.
+
+00:03:14:10 - 00:03:43:05
+不明
+And, with that, we'll get started. So these, so when I joined Adobe a year ago, there were, there was a slide that looked like this. And it have these questions on some of these questions on it. And as I went through my year, my first year hearing from customers what they were concerned about. I think the thing that surprises people, the most is it's not just regulated industries with financial services and insurance.
+
+00:03:43:08 - 00:04:15:05
+不明
+But it's also retail and media. A lot of people are facing the same considerations when they go, to try and implement generative AI. How many of you have generative AI in some form in your organization? That's amazing, I love that. And often when we talk about responsibility, we're getting the people who've been successful. How many of you were able to implement generative AI in your organization in under one year?
+
+00:04:15:07 - 00:04:39:02
+不明
+I love that, right. Because it's not easy. So these questions and this this work is designed to help you even if you've already rolled it out. But what we see a lot of what's going to happen with our brand. How are we going to have control? You can train something specifically, but there can still be concerns.
+
+00:04:39:05 - 00:05:05:10
+不明
+What are we going to do about data privacy? How many of you heard. Oh my goodness. Don't enter customer information into prompts. Probably everybody. Right? Yeah. It's not just our FSI friends and who wants their, data and their prompts to be used for training and other people's machine learning? Yeah. No one. How is our data going to be used?
+
+00:05:05:16 - 00:05:28:24
+不明
+One of the reasons I love working at Adobe is because that's a really easy answer. We're not trained on customer data. And sometimes I often will say, you know, having come from a technical background, your data might not be the best to train on anyway. So there there good customer reasons for that. We don't want we don't want to do that with our customers.
+
+00:05:28:26 - 00:05:56:29
+不明
+It's a really important point. I think, and it's one of our vendor questions. So, lastly, there are some unique things when we're talking about generative AI. We've all seen the headlines, of things going wrong. Whether they're racist or biased. But when you're thinking about your brand, it's really important that that not happen that nobody wants to be the first one on the front page of some newspaper when they aren't paying for the advertising.
+
+00:05:57:01 - 00:06:19:01
+不明
+So we did a survey, because some people have asked me how long did this work take with my colleague, the wonderful Sarah Lisa, who's sitting up in the front row? It took about six months to do this research in the paper, but I would say it probably took my ten years of experience in the space to really have a framework that, I think is helpful.
+
+00:06:19:03 - 00:06:44:08
+不明
+And we wanted to make sure we validated that, that we didn't just go, hey, I think this is a good framework and some questions to ask. So we we looked at where people stand in their journey. We wanted to understand how organizations, fit in their version. I've I've heard customers that did things totally differently, and I've heard customers that absolutely match.
+
+00:06:44:10 - 00:07:03:14
+不明
+The journey we're going to talk about. So we talked to over 200 people who are experts in their space. But we also wanted to go beyond North America. I think that's a very common thing when we're based in the US. To, to not do that, even though we work with so many internationals. There are so many multinational companies represented here.
+
+00:07:03:16 - 00:07:31:24
+不明
+So we made sure to have respondents from North America, Asia Pacific and Europe, each with their particular considerations. Also, I work across cloud and across industries. So I wanted to know what it looks like from different vantage points. So you can see here everything from financial services. Healthcare, industrial, retail, logistics, really getting a wide swath of people.
+
+00:07:31:24 - 00:08:00:19
+不明
+And so we did a survey and we also did qualitative interviews, talking to experts. So this next, slide is animated, I love that. The point of this slide is actually probably not for this room with so many hands raised, but it's not too late to get started. I'm talking to people who maybe have a lot of experience in predictive AI and less experience with the generative AI space, especially.
+
+00:08:00:21 - 00:08:25:09
+不明
+I'd love to see hands if you have this experience in your company, but having one part of your company start piloting and testing, but not everybody gets to use it right? Yeah. So I've talked to so many companies where we're still figuring out what it looks like, in different divisions, in certain spaces. It's like, oh, well, we build AI.
+
+00:08:25:11 - 00:08:51:06
+不明
+We don't know how to buy AI. We build it. And so what we really want to do is customize it from somewhere else. And so, for the last few months, I've been talking about the choice people make in terms of build, buy, and customize. I think that's an important consideration. Most often it's all three. There's rarely one solution for someone.
+
+00:08:51:09 - 00:09:23:16
+不明
+So this is the framework we looked at. Where do you get started? How do you pilot? What does adoption look like and what does monitoring look like? You know, we've got these learning systems. We have headlines. We understand these are things we have to watch and pay attention to. So in the first phase. In the assess phase we outline what it looks like to evaluate organizational readiness.
+
+00:09:23:19 - 00:09:30:03
+不明
+How many of you have an AI committee Council something like that.
+
+00:09:30:06 - 00:10:04:11
+不明
+It's hands if they get stuff done and let's say under six months. No. Nobody. Yeah. So it's really important to think about like what are your company values. What are your business goals? Who needs to be together? But at Adobe, what we've done is think about generative AI to reimagine ways of working right. Transformational technology. There's a great video that I don't play because videos always break when you're on stage ready to push play.
+
+00:10:04:13 - 00:10:28:17
+不明
+But it has all the hyperbolic statements we've seen revolutionary technology, generational change. Nothing like this work is never going to be the same. And it all blends into the word hype because that all of those words. What does that actually mean when you sit down with your teams inside your company and try to do this stuff? So we like to share the example of how Adobe did it.
+
+00:10:28:19 - 00:10:50:17
+不明
+We have an AI Adobe committee. But they're focused on which products do we buy and how do we roll them out successfully. So I'll talk a little bit more about that as we go through. But I want to take advantage of the awesome person who's sitting next to me. Brigitte, can you talk about how your team has approached the implementation of generative AI?
+
+00:10:50:19 - 00:11:07:26
+不明
+Yeah, so we knew we were ready for it because we had a massive change in our organization and we had to figure out our redoing our processes. How can we do more with the same amount of people? And so we knew we were ready for it in that way. And so the first thing that we did was some foundational work.
+
+00:11:07:29 - 00:11:31:23
+不明
+We needed to make sure that we established our brand ethical AI guidelines. We needed to make sure that we understood what we're comfortable with from a brand perspective. What was okay? What was not okay. And so we we also have a larger AI organizational group. But we created a brand version of that right. Which was brand strategist, a creative someone from our martech team.
+
+00:11:31:25 - 00:11:53:22
+不明
+And and our legal partners. And so when we did that, we sat down, had a real conversation about what are we comfortable doing and not doing. One of the things big things we talked about was Adobe gets a little sensitive about at times, but we have great reasoning for is that we decided as a financial brand that we do not want to create people from scratch with AI, right?
+
+00:11:53:25 - 00:12:16:03
+不明
+Which is a bold statement to say. But for us, it's about brand reputation, and there's a level of authenticity that our clients are putting in our hands with their life's work and their investments in that spaces. And so for us, we were like, this is where we want to keep that line of authenticity, right? So it was really a brand ethical discussion that we had in that space.
+
+00:12:16:05 - 00:12:51:10
+不明
+Now we use it so many other ways. But, that was just an example of some of the guidelines that we put out. And then we made sure that everybody understood these and that they became part of our regular brand guidelines. And I love that because the first step here is defining communicate the company's standards. Right. And so having a conversation about what makes sense for your business, for your business's values, for your business's financial goals and what's going to work in a trusted situation where you're getting all of your customers money.
+
+00:12:51:12 - 00:13:10:09
+不明
+They don't they don't want to feel like they've been fooled. Right. So these are important choices that your company needs to have a conversation about and figure out. And even I imagine I'll ask later, but I imagine a lot of you are still having these conversations about what the right fit is, where it can be used. It's an evolving conversation.
+
+00:13:10:10 - 00:13:35:00
+不明
+You know, we get we've gotten away from the six finger problem, but that took hundreds of thousands of photos of hands. Now, I learned today that there's also a teeth problem. Absolutely. Is. And so but those are important things to know and be prepared for. I spent a long, long time, thinking about how people use technology and how they understand it.
+
+00:13:35:02 - 00:13:55:25
+不明
+And knowing what it can do is as important as knowing what it can't do, and being able to use the system in the way it was designed that works for your organization is a critical part of that. So I love that example. Maybe some other people gave you some flack, but I think it's a really important point about figuring out where your company wants to go.
+
+00:13:55:27 - 00:14:16:17
+不明
+And you also highlighted something, in terms of working with your legal teams. So one of the things I've seen over the last couple of years is a lot of frustration at parts of the company that might be called blockers, or people who slow down your progression, that kind of thing. And we know like, that's not fun for them either, right?
+
+00:14:16:19 - 00:14:39:06
+不明
+So being able to look at your governance standards, making friends with your privacy legal teams and finding out what questions they're asking and why can help you work together better over the long term. I was with a customer today who has, rather than an AI committee. He was like, oh, we don't do that kind of the council thing.
+
+00:14:39:08 - 00:15:01:09
+不明
+But what they had that I thought was so effective is they had a, an enablement group. An enablement group were used to hearing that term and sales, but they had specific lawyers, privacy, governance people, security people who worked in almost like a pod. So when it comes time to review an AI technology, they see they've seen it before.
+
+00:15:01:12 - 00:15:30:28
+不明
+It's not the first time they're seeing this contract. It's not a product council. A product council can move into this role, but it's not a product council who's thinking about these things for the first time and having to do a lot of research and being risk averse, when maybe it's not necessary. So thinking about what kind of considerations people use, what how many of you looked at training data when you were picking a tool?
+
+00:15:31:00 - 00:15:58:28
+不明
+Okay. How many of you asked what the system was trained on? Right. Yeah. Web scraping. There's a reason we don't do it. Figuring out I use disclosures. It's not just the vendors you're buying an AI from, but everybody wants to tell you they're they're with it. They're they're advanced. They're on the cutting edge. We put AI in everything thinking that that will sell you on their modernity.
+
+00:15:58:28 - 00:16:32:04
+不明
+And instead you're like, oh, oh, I don't know if I want AI on that. So knowing when AI is being used by your vendors can be as important with your non AI vendors. Of course, bias and harm mitigation, making sure that things are tested appropriately. There are whole independent companies now that will do that, but it's really important to understand what they that your vendor has done just in terms of their testing and not just testing before they launch the product, but ongoing testing as you continue to use it.
+
+00:16:32:11 - 00:16:55:25
+不明
+Right. We don't set it and forget it when it comes to any technology at this point, but you really can't do that with something that learns itself. So we've already kind of started talking about piloting the second phase here. One of the critical points is identifying priority use cases. This doesn't mean like everybody puts a hand up and goes, I want to use AI this way.
+
+00:16:55:27 - 00:17:22:19
+不明
+Right. This is what are our companies goals. What are our choices we're going to make. I talked to a customer yesterday. They had 2000 use cases. At that point there's no prioritization. And who knows what. I don't know what you do with 2000 use cases. What they told me was that they had stopped doing collecting use cases because they had too many to deal with, and they had reevaluated how they were doing their AI strategy.
+
+00:17:22:21 - 00:17:44:06
+不明
+But that piloting based on your business criteria, your goals, your metrics, I think is really important. And so we have, someone who has piloted AI. So can you tell us about what you guys did at Prudential? Yeah. And I would say that what you're saying is right, was once someone hears you've got AI, they're all saying, oh, I've got a use case, I've got a use case.
+
+00:17:44:07 - 00:18:04:04
+不明
+They're not always great, right? So you definitely have to go through and figure out what is the lower hanging fruit that you can prove out. What is the fast thing that you can take and actually utilize right away? That's going to prove out in the in the right space. So we looked at we had several, but we looked at our organic creative.
+
+00:18:04:04 - 00:18:23:04
+不明
+Right. That was one space where there was not any brand consistency whatsoever. And we're like great. That is a low risk, use case that I can get legal on board with, that I can prove out and into that space. That was one of the first areas that we approached in that. And then from there, because it was a quick turnaround.
+
+00:18:23:10 - 00:18:45:22
+不明
+We saw success. Legal was comfortable because we were able to pull down anything very quickly that that we felt was not right. It turned out great. And then we went through and prioritized the other business units and other use cases through there. Yeah. You talked about quick wins. Yes. Right. And having those demonstrated bowl examples. Hey guys, it didn't go wrong.
+
+00:18:45:27 - 00:19:06:01
+不明
+Yeah it worked. The nothing nothing to worry about here. We can we can give you the background. We can show you the prompt. We can we can show you how we set it up. And it's scary as you think. It's not as scary as you think. You know, one of the things I was most excited about last year and this show is my nerdy, nerdy technical background.
+
+00:19:06:03 - 00:19:28:27
+不明
+But when I assistant for AP was launched, I. As much as I know about data, I've never spent time doing data segmentation and figuring that out. And now all of a sudden, I could natural language query like, hey, I want to target my age group, which I'm not going to tell you. So yeah. No.
+
+00:19:28:29 - 00:19:50:09
+不明
+So I want to target this age group, what is a good fit for them. And it can set everything up for me in a way that I feel really empowered. And my favorite data scientist gets to go do something more interesting than answering my questions, right? This is about enabling people with tools. And being able to do the work you want to do.
+
+00:19:50:14 - 00:20:13:17
+不明
+How many times have we heard in the last two years you won't have to resize an image 17 times anymore? And that's great. But what is the exciting thing you get to do instead? Like that's I want to hear more about that. So looking at pilots, I don't think any of these aspects is surprising. Really? Was it accurate?
+
+00:20:13:19 - 00:20:37:29
+不明
+And here's the thing that we'll talk more about momentarily and in the adoption phase. But thinking about how you help people understand what they need to put in to get accurate outputs is as important as, okay, I put in this specific prompt. Does the image look like what I want? Okay, I requested that data segmentation and that marketing campaign.
+
+00:20:38:00 - 00:21:02:21
+不明
+Is it accurate? So thinking about adoption rates right now, we're going to have some first movers people who are excited. There was a report published last year that basically said, you better figure out how you're going to use these tools because your employees already are. So it really is like how we do it at this point, how we roll it out.
+
+00:21:02:23 - 00:21:27:00
+不明
+But these are, these are the things we're checking to make sure it's working as we're piloting, to make sure we have the right tool that we want to scale. When we talk about adoption. The number one thing this is this is my project for this year. Among others, is figuring out how you train the organization. What is upskilling and training look like?
+
+00:21:27:02 - 00:21:52:22
+不明
+Because the number of times I've had someone say, hey, we bought this product. I just almost named it, which is what I got caught on. We bought this very popular early product that comes with our office suite, and nobody's using it. Nobody's using it. And, and my first question usually is, how did you make the announcement?
+
+00:21:52:25 - 00:22:15:13
+不明
+What training did you do? Did you look at people's work processes and think about where it fit? Really simple. Did you have encouragement? So in their first 3 or 5 prompts didn't get them what they wanted. They knew what they needed to do to refine it and figure out what was next. Those are some of the really key parts.
+
+00:22:15:15 - 00:22:43:16
+不明
+How many of you have thought about change management when it comes to generative AI? Right. If you're in charge of a team telling them you need a 20% reduction in time spent using generative AI. Great. I have a goal. How do I do that? And that's where this training piece comes in. And so now kind of an expected question, but how are you preparing?
+
+00:22:43:19 - 00:23:07:17
+不明
+How did how is your team prepared? Because I think you have some really interesting examples, of how you did that training and what got people comfortable? Yeah. So first up, before we even rolled out, we wanted to make sure that we knew what audience we were training a model for. So we wanted to be really particular. Like we knew that we're going to deploy out and make a long term plan.
+
+00:23:07:17 - 00:23:27:12
+不明
+So I'm going to give this group this tool. And then I created a training plan for that audience. So a great example of that is with my creatives. So we use Firefly to create a custom model because we had a big brand refresh and we really needed to re take all the older illustrations and make them the new version.
+
+00:23:27:12 - 00:23:42:01
+不明
+Right. And the marketing team, the creative teams, they're like, oh, it's going to be a lot of work. But we use the custom model. We trained in the right way, so they were able to place it in an output on brand content. Now we needed to train them in the right way and we had to get them comfortable doing it.
+
+00:23:42:04 - 00:24:06:05
+不明
+And I think going back before we had to have that discussion around your role as evolving, you were now a big ideas person and a curator and not a production person. And so now is the idea where we're curating the work that's going through here. So we spent a lot of time working with that particular audience on how they're going to use the tool and roll it out, and it became part of their everyday process.
+
+00:24:06:07 - 00:24:32:08
+不明
+And then I think when we looked at different other spaces where it was a larger marketing group, using a tool, we knew especially that we needed to train them in the right way. So especially with the copy aspect of it, we gave them some storytelling training and how to identify what good copy looks like. Right? And that became really important because not everybody is trained to see what good creative is and what good creative isn't so important.
+
+00:24:32:08 - 00:24:56:07
+不明
+And I would say have your creative team spend time with people doing that. One of the things I love that you described were setting up templates for people to use. Yes, yes. Thank you. So we we also created templates that were easy for people to understand and use. So we created templates for our social media being that one space we were able to use express and lock things and not others in space.
+
+00:24:56:10 - 00:25:13:21
+不明
+And we were able to walk through of like, this is what good creative looks like. This is what it doesn't. And we just guide them. This is how easy it is. We broke down the barriers for them so they didn't feel so nervous to use something. And it's going to take a little bit of time. And we were there to answer all the questions when they felt like they were going wrong.
+
+00:25:13:26 - 00:25:28:12
+不明
+Right. We were there to check in express. We were tagged, we open it up. We were like, oh, I see what you did here. This is a quick little fix. So it's a lot of, like you said, the training, the, reiteration. If they're doing something wrong, you've got to have a plan to help them out in that space, getting more comfortable.
+
+00:25:28:17 - 00:25:52:20
+不明
+One of the things I love that you described when we were talking about this was, I'm going to call it your patience level because, when, when I, when we talked yesterday, you had just gotten a request to hire an illustrator. Yes. So just mentioned the custom model that we spent all that time building. And I grabbed a request from a fellow creative and in our marketing space saying, found a great illustrator.
+
+00:25:52:20 - 00:26:06:10
+不明
+That's going to make me a lot of illustrations. I've set up a meeting for us. I want you to meet them. And do you have any budget? Like, we just went through this and it was kind of we were giggling about it, but you have to keep reiterating these things, and you keep have to keep reminding people that it's there.
+
+00:26:06:12 - 00:26:20:28
+不明
+Because when you show a tool and it's in that space and there's some that pick it up and use it right away, and there's others that don't. And when the time comes, they've already forgotten about that space. So there's a lot of like even on our end, we think we're doing the right thing. But then you do come back and right, and don't forget these tools here.
+
+00:26:21:01 - 00:26:47:09
+不明
+Don't forget you could use it that way. So yeah. Well, and I was on a panel with one of your colleagues this morning, and, and we were talking about how how you're doing the communication. One of the things that I've found really critical for adoption is peer to peer learning. So at Adobe, we have an AI ambassadors program, is what it sounds like.
+
+00:26:47:12 - 00:27:19:27
+不明
+But I think the key feature that we really hit on, was having the people who are excited about it get training on how to talk to their colleagues about it, because I've been excited about many technologies over the years. And one of the skills I think I've developed is helping people see where my excitement is. Because if I started, if I walked up here and told you the coolest technology Transformers, how many of you have heard of Transformers?
+
+00:27:19:29 - 00:27:46:18
+不明
+Like the movie, right? Bumblebee. Who doesn't love Bumblebee? I do, I just want to make sure we're on the same track. But so they're the thing that made generative AI possible is it is a paper written by Google in 2016. It's about Transformers. We don't need to know what transformers are. I still prefer Bumblebee, but the point is like helping bring people along.
+
+00:27:46:24 - 00:28:10:11
+不明
+If I got up here and gave the technical talk that I do at one of the machine learning conferences, I wouldn't have helped any of you figure out how to use these tools better. And that's that's the point. So when you get someone who's so excited about the technology, they may not be enabled or understand how to help their colleagues along.
+
+00:28:10:13 - 00:28:34:15
+不明
+So when we talk about training, when I talk about training, when our CIO talks about training, it's not just a one hour session. It's not just a working in person, but it's also training the trainer for those peer to peer mentors. So I think that's one of the reasons Adobe has been successful. Another thing we've done in training is talk about personas.
+
+00:28:34:17 - 00:29:02:01
+不明
+How many of you have won broad based AI generative AI training? Okay. How many of you have role based training? Okay. How many of you have no training at all? Don't have to raise your hand. It's okay. It's okay. We didn't that at one point either, so. Yeah. Well, and it's really interesting because I was, I was talking to someone from a very well known tech company yesterday and he was saying, yeah, we rolled out this technology and I said, oh, cool.
+
+00:29:02:02 - 00:29:27:12
+不明
+What kind of training you doing? How's it going? And he looked at me, went, we aren't doing any training. And I said, how's your adoption numbers? And, and we had a really good conversation, like, I was at a large company that had 200,000 people and a six person learning and development team. That's that's pretty standard. Like, you get smaller than that and maybe you have like a two person learning and development team.
+
+00:29:27:14 - 00:29:50:09
+不明
+Often you have sales enablement. How many of you have sales enablement teams. Because you got to teach your people how to sell your products right? But thinking about how you sell the use of these tools. So I've done a ton of role based training because one of the very first trainings I experienced was a 20 minute AI training back in 2018.
+
+00:29:50:12 - 00:30:12:16
+不明
+And, tens of thousands of engineers told the team that built that training that why why did you make me watch this? They were executives going, why did I have millions of dollars in people's time watching this video? They don't know what to do with it. Now, the engineers walked away from that training with how does this fit in my day to day?
+
+00:30:12:18 - 00:30:32:29
+不明
+Why? Why do I need to know this stuff? And so we did role based training. It's been a point. I've made it. Every company I've worked at for the last seven years. You have to think about how people are going to use the technology. And it's very true that we don't have huge learning and development teams or even large sales enablement teams.
+
+00:30:33:01 - 00:30:59:06
+不明
+So what do you do? Well, now you can not only pull courses from the web or training from the team of the product you're buying, but they're really great video tools out there to create five minute snippets like, show me how to write a good prompt. That kind of thing. That doesn't take a learning and development team with a huge budget to figure out.
+
+00:30:59:09 - 00:31:18:08
+不明
+So I have a question. I know we're going off script here. I'll ask the questions for us guys. Don't worry. So but do the ever have the training in in marketing. So you'd like to the marketing teams train the marketing teams to. They are martech teams. Do we ever see that? I know that because personally, that's where we are.
+
+00:31:18:15 - 00:31:36:16
+不明
+So I'm curious because you keep talking about. And. Yeah, but some of us have like martech teams that aren't doing that training. So what are your thoughts? So my product marketing team happens to be sitting in the audience. Thank you so much for coming to my talk at the end of your very long day with trainer.
+
+00:31:36:18 - 00:32:02:16
+不明
+Yes, they do that. So, they they were on a video for us a week ago talking about what this agent who's excited about a guy. Okay, who can define what agent AI is. You're with everybody. Don't worry. The best description I've heard is it's text to action, right? I like that one. It's really short and sweet.
+
+00:32:02:19 - 00:32:25:02
+不明
+I talk about it in terms of, like going from getting information from a system to that system, taking an action for you, creating you a PowerPoint, going to a website, doing some sort of other action. But we needed every Adobe employee to be ready to talk about agent. I and so some of the people who did that training are in this audience.
+
+00:32:25:05 - 00:32:40:18
+不明
+Wow. Yeah. It's good. It's very good. Now, we've heard it 7 million times in two days. So you've done a great job. Okay. I was on a panel this morning where your colleague was like, I would like a dollar for every time I've heard agent a guy in the last 24 hours. And she was like. And then I could go spend three days at the craps table.
+
+00:32:40:22 - 00:33:06:07
+不明
+Yeah. I just a dollar instead of a shot. That's good, that's good. Yeah, I know somebody else brought up a shot, and we decided 8 a.m. was a little early for that. Yeah. So thinking about how you deploy the stuff and really like, how you're going to roll it out in a way that's successful, because the last thing you want to be doing is answering questions on why 1300 people who have licenses, not using it, and that's going to happen.
+
+00:33:06:11 - 00:33:31:13
+不明
+That's actually a normal part of tech adoption, right? And so I can tell you, looking at our teams, what we decided to do was look at a persona based training system. So if I think I'm going to do a training for the engineering team, well, we have the product managers who need to do PowerPoints and roadmaps. Of course, we have thousands and thousands of coders.
+
+00:33:31:16 - 00:33:48:20
+不明
+We know what to do with them. Here's a coding to all right. But if you assumed what they all needed was a coding tool, you probably be wrong. But you also don't want to just go, okay, everyone in finance gets this training. Everyone in sales gets this training. There are ways to think about how are they using it in their daily process.
+
+00:33:48:22 - 00:34:08:11
+不明
+So at Adobe we have four personas that we've looked at from our builders to our I'm going to call them the speakers talkers. People like me. Like tell us more whether the other ones. You know, what's funny is I built that whole deck last week and I didn't put it in here. And now I'm like, I really should have.
+
+00:34:08:13 - 00:34:28:16
+不明
+I guess you'll have to get in touch with me after this. I'll share it with you. Don't worry. Thanks. So, in our research, what we found was some of the main considerations in AI adoption. I think this is fascinating. This is what I was saying. What I was previewing surprised me. And, you know, it could be a fluke.
+
+00:34:28:18 - 00:34:53:08
+不明
+Data per particular audience, but efficiency and time savings, we had to add a little tiny dot for it. And two years ago, this is all we were talking about productivity, time savings. You're not going to have to do 17 resizing. And you can go spend time developing a better brief or, you know, working on bigger picture strategic items.
+
+00:34:53:11 - 00:35:17:14
+不明
+What's really interesting to me is now we're talking about economic gain. What is your business value? And I was at a lunch this this afternoon with executives from financial companies, from media companies, from manufacturing companies and from retail companies, all at one table. It was great. I had a I think we had a really good time, but a lot of them were we're talking in a way I've heard for the last couple of months.
+
+00:35:17:16 - 00:35:45:29
+不明
+Productivity is now obvious. That's expected. But we're being asked what is the value gained? How does this improve our bottom line? What are one of the things I'm seeing? Report it out. Are costs avoided? Hey, we didn't have to hire five engineers because we were able to do this with text to whatever. I heard another person say I told my team they needed to be 25% more efficient.
+
+00:35:45:29 - 00:36:07:27
+不明
+I bought them. I figure out how you're going to do that. And I was all of a little rough. I don't know how to handle that. Probably with more training. I have a theme. It keeps coming back. So it doesn't end with the buying and the rollout, right? If this is a cycle, my colleagues, people have heard me speak before.
+
+00:36:08:02 - 00:36:28:11
+不明
+I've always got a circle in a cycle for you. These are. It's important that these are feedback loops. You have the technology. I already said my favorite, line of of set it and forget it, which comes from like a crock pot commercial in the 90s. I don't know if you remember that, but you're talking about it.
+
+00:36:28:14 - 00:36:58:09
+不明
+But ladies, you said you go set it and forget it. So we can't do that with this technology because it learns and it can go in surprising directions and even more importantly, you need to be in contact with those vendors who are providing it. You might decide to buy it, build your own. But Adobe, we're happy to talk about our ongoing AI governance, our ongoing AI assessments, how we keep looking at new features and evaluating what's what's their what's coming.
+
+00:36:58:12 - 00:37:22:26
+不明
+Thinking about what that monitoring is. So if you're building it yourself, there's tons of guidance out there. You can go get a nest. Risk management framework with a playbook. You can go find the Singapore E-Verify system. Now I verify system. You can, try and figure out what level of risk your eye actually is. By reading an 88 page EU AI act.
+
+00:37:22:26 - 00:37:49:20
+不明
+I wish you good luck. But we all have risk management processes. It's highly unlikely you're successful business without risk management processes. So the real question is what do you need to add? What do you need to evaluate and figuring that out. So if we think about monitoring that performance what are the metrics you're looking for. Is it return on investment.
+
+00:37:49:21 - 00:38:14:23
+不明
+Is it how is it drift. Who's heard of model and data drift. Okay. So if these systems start learning on their own outputs, they can go in unexpected directions. And there are tools to detect when that is happening. So that can be part of the consideration for your monitoring. If you're thinking it doesn't even have to be that technical.
+
+00:38:14:23 - 00:38:37:23
+不明
+Right. You've trained a custom model. It's un it matches your brand. It's doing great. And six months later it starts doing some weird stuff. And then you need to figure out. It's a constant process of looking at it and that doesn't, that's not, that's a, that's not like a ton of work. But it's knowing that in six months I need to just check this and make sure we're still going.
+
+00:38:37:23 - 00:39:08:11
+不明
+Well. That, that risk assessment really helps when you have documentation. Okay. How many of you have written a marketing brief? Right. You want to document what the expectations are, what you're looking for. There was a great conversation in another session about where the biggest time savings were was in reducing the number of handoffs needed to complete a project.
+
+00:39:08:13 - 00:39:27:27
+不明
+Every time you hand it off, you need to document. You need to figure it out. That documentation is really important when we're talking about AI. I, I've been working on what is a great form of documentation for over seven years now. In 2018, me and a whole group of people published seven different formats. Well, that's not helpful to you all.
+
+00:39:27:27 - 00:39:50:14
+不明
+Which one is which one is the right one? The answer is there isn't a right one. The really important thing is that you update the documentation you have. That's what matters, right? Is your documentation current? So I'm not asking you specifically about documentation, but you do have some things that you're watching for and that you're checking on. Yeah, 100%.
+
+00:39:50:14 - 00:40:14:10
+不明
+So there's some that are a little bit more obvious and basic, like through our express tools or our custom models. We still have and force in creative touch points. So they're checking right, monitoring about how someone's using on it, using it. And if they're not identifying good creatives or things like that, we can step in there. And we do that until we feel really comfortable with the with the group or the other specific person.
+
+00:40:14:12 - 00:40:38:04
+不明
+Another really good example of that is we built this really cool multisensory AI tool for, an end user to help see themselves thrive in retirement. Right? It's a struggle. We don't have a physical product. So we built this tool with McCann, our agency of record and basically what it does, is it you take a photo of yourself, it ages you until into your 70, about 72.
+
+00:40:38:07 - 00:40:59:02
+不明
+And it answers all these questions as well. You ask these questions and it outputs a story, one that's unexpected and kind of whimsical and like different from what you thought. It's a really cool experience. We launched it in Aspen at the Atkins Ideas Festival, and in two days, some of the the feedback we got was like, that doesn't look like me or I'm not seeing myself.
+
+00:40:59:04 - 00:41:21:01
+不明
+And so we realized that, you know, I tends to lean towards the mean. And so there was some bias happening in that space. So we really had to do a lot of work on prompt regeneration. But what the biggest thing we did is we added in an app that we developed for moderation with a human behind it. And so now we were checking to see, yes, this image is good, this is things.
+
+00:41:21:01 - 00:41:38:07
+不明
+And we would be able to see if something physically that I missed, right, if there was a disability or the the skin color is not right or someone's hair is improper. We actually were able to put that in the app that we built and get it more someone's teeth was messed up. Teeth was it's a big one.
+
+00:41:38:09 - 00:42:01:27
+不明
+We were able to alter that and then send. Now, we've been working on this for over a year now, and we continue to work on the prompt development. Right? We continue to add things in and look at something that went wrong and try to teach the model well. It's also been learning as we go along. So our prompt regeneration or our image regeneration went from 85% down to 8%, and the output was from eight minutes to an experience to three minutes to an experience.
+
+00:42:01:27 - 00:42:23:08
+不明
+So it is learning and it's going in. That feels really good. But that was part of the moderation that I'm really happy we added into that experience. That is it's such a great example, right, of of figuring out how you address the issue. Yeah. And then tying some really great numbers to take back to your executives on how this worked and what the improvements were.
+
+00:42:23:10 - 00:42:50:25
+不明
+I appreciate those numbers. Because we know we're we're in a constantly changing world. Like now we have a genetic AI, but we're also seeing a lot of different perspectives on how we should be doing this. In case you're wondering, the colors don't mean anything. It's just visually easier to not look at one color across the world. That that prevents a question later on, I swear.
+
+00:42:50:27 - 00:43:21:13
+不明
+So there's the standards have been being developed for a while. My my usual catch phrase is generative AI is a 70 year overnight success story because it was 1950 when some when Alan Turing wrote a paper about what would qualify as artificial intelligence, that some of the technologies we're using today, like deep learning, neural networks, those are over 20 years old.
+
+00:43:21:15 - 00:43:44:14
+不明
+So the regulation is out there. The standards are out there this year. We now have an AI standard, an ISO standard on how to approach AI implementation and what the right things to do around it are. But I promised practical guidance. Right. How many of you have been involved in the writing of your company's employee use guideline?
+
+00:43:44:16 - 00:44:11:09
+不明
+Okay. How many of you need an employee use guideline still? Everybody okay. Tip obviously we put it in this paper, but I highly recommend the Future of Privacy forums. Employ generative use AI checklist. It goes through it's a really good evaluation from lawyers and experts in regulation and policy of what you might need in there to make sure it's okay.
+
+00:44:11:10 - 00:44:39:20
+不明
+So these are we're going to have three examples for you. Data sensitivity. You'd be surprised, that making sure you know what level of sensitivity is really important because saying don't put any PII into a prompt is not functionally helpful. I'm unlikely to put someone's name in there anyway, but what do you need to think about?
+
+00:44:39:23 - 00:45:07:15
+不明
+What is sensitive data? For those in my fields, we're also very familiar with, a tech company that had banned the use of, generative AI. This is back in 2023. The first week they allowed their employees to use it. Someone put in trade secret code. Like, well, was banned again. So it's as much about, like, thinking about how you extend your existing employee guidelines.
+
+00:45:07:17 - 00:45:41:01
+不明
+Speeds sometimes is better than perfect, having something out there so people know what they're supposed to do. Reminding them that they should be using their employee credentials for the approved tools. It's it's it's really helpful to think through these things as a risk mitigation. So if you I have had good experiences sitting down with legal and saying, this is what we want to put in the employee use guideline, and that's showing them that we get the risks they're worried about, right?
+
+00:45:41:03 - 00:46:04:27
+不明
+So what was your experience with employee use guidelines? You talked a little about brand guide. Brand guidelines. Yeah, sure. And I got to be honest, I employees guidelines I don't think have been fully developed. We just know what we're allowed to not do and not. But they haven't as in-depth as what you're talking about. I mean, it's important, but one of the things I do love that you did, is there in your brand guidelines.
+
+00:46:04:27 - 00:46:25:03
+不明
+Yes. So people don't have to go somewhere else? Yes. Right. You're not like, hey, did you read that thing on our, you know, interior internal wiki site? No, it's in the same place. I look for other things. Yeah, right. I think that's a really important success point. I know I'm like that. You're using the wrong font. And also read the brand guidelines on.
+
+00:46:25:03 - 00:46:44:27
+不明
+I send you the same spot. It's great. Right? I mean, you know, people don't want to read the guidelines in the first place, so having them all in one place is helpful. Yeah. We talked you and I talked a lot about, like, the vendor questions and what's important. And asking your vendors. Yeah, not just for quality, but also for, like, knowing what they're doing.
+
+00:46:44:29 - 00:47:08:19
+不明
+So I'm going to flash up some examples of the questions that are in the paper and the answers. I think it's really critical. There's plenty of lists of questions, but what answer are you looking for? How do you know what a good answer looks like? Yeah, because I have seen a lot of procurement questionnaires. And sometimes I look at them and go, I don't think you even know what you're looking for in an answer.
+
+00:47:08:21 - 00:47:27:04
+不明
+You know, we we can provide all the information and it's still not enough because they don't necessarily know what they're looking for. So what do you guys look for in your vendors? Well, I think the first thing we ask is like, what is it trained on? Have that conversation. We obviously in financial services need the closed learning model, right.
+
+00:47:27:04 - 00:47:50:15
+不明
+So that becomes very important. And I think the other thing is indemnification part of it. Right. We have a lot of conversations of are we protected? And more and more companies are adding that on as a, as a space there. But, those are really the, the main important questions that we're asking. And then the last one is like how easy is it to implement.
+
+00:47:50:17 - 00:48:10:22
+不明
+I like that one. Are you going to be there to help us when we have questions. Yeah. Are you going to just drop it and run away. Hopefully not. No I when I, when I came to Adobe from like an AI expertise space, I learned about the field of customer success managers. And it's a it was a really interesting concept to me.
+
+00:48:10:23 - 00:48:34:18
+不明
+We don't just drop it and run away. No, you do not. So a little bit about how Adobe does this stuff. I think it's helpful to know. I'm very proud of my training and previous speaking because when the time came for them to build the elevator pitch for our AI assistant in Acrobat, I got, your data remains yours.
+
+00:48:34:19 - 00:49:01:13
+不明
+And this slide. And I put it up in a room where I was like, this is really helpful. We know customer data is not used to train language models. We need to say it more. It's only looking at the documents that you tell it to. Your people are in control. They have to already have access to the documents pre answering some of the most common questions.
+
+00:49:01:15 - 00:49:22:05
+不明
+But I put it up as an example of a great slide. And it was really fun to see three colleagues in the background say, oh, yeah, we saw your talk. So we made this slide. It's like my work here is done. Because I got product management and product marketing management on board in a really great way.
+
+00:49:22:08 - 00:49:50:04
+不明
+We also very publicly shared last fall, our approach to generative AI with Firefly and these nine commitments. I know they're very small, but I think it's helpful to see them in a perspective. If you go to Adobe's AI ethics page, you can see all of them with more information. But things like we do not and have not trained Adobe Firefly on customer content.
+
+00:49:50:06 - 00:50:13:16
+不明
+A commitment not to scrape the web when building the Firefly and its systems. And I think these are things that are very aligned to Prudential's. We won't generate humans, right? Right. Like, there are things we see as common practices that we see in headlines, that we see in news articles, and knowing whether or not your vendor is doing them.
+
+00:50:13:19 - 00:50:33:01
+不明
+And we really important. Yeah. Also don't assume that they don't assume you ask because you'd be surprised. What was did you get the surprising answer in some yes we will mention risk. But after asking the kind of give a roundabout question and my martech partner said, so you do. And they were like, yeah, so we that was the end of that.
+
+00:50:33:01 - 00:50:57:02
+不明
+But yeah, we're not going to name the vendor or the question or not. So, we want to leave a little bit of time for questions. So a last like wrapping this up the for freeze framework. You're all taking pictures I love it. Your phones are ready for my next slide. But that it we have this four phase framework assess pilot adopt and monitor.
+
+00:50:57:04 - 00:51:18:25
+不明
+I was in Europe last month for the French AI Action Summit. If you have multinational colleagues, we have it in French and German. But this is a link to get you directly to the paper we've been talking about. I think it's really helpful to have these resources. It's also really helpful to hear from our peers.
+
+00:51:18:28 - 00:51:37:16
+不明
+So what have you learned and what are your top tips for our audience? Yeah, I think first off, it's not going to happen overnight. It's going to be an exhaustive process. I think when when someone's like, what's the one word you think of when you think of? I am like resilience. And then I said patience. Like it's it's going to be a process for you.
+
+00:51:37:16 - 00:51:55:15
+不明
+So just hang in there. Push through it. It's going to be worth it. And I think bringing your partners along is the most important thing. So making sure that you're working really well with your creatives and your legal and your martech partners and all the different spaces, that's what success looks like right out the gate, right from the beginning.
+
+00:51:55:17 - 00:52:17:26
+不明
+Yeah. I want to thank you all for coming at the end of a long day. I hope you enjoy sneaks with Ken Jeong. He is hilarious. And I know someone who gets to go backstage, and I'm very jealous. Thanks for having this. Clearly to the ethical group. So proud of you for.
+
+00:52:17:28 - 00:52:18:16
+不明
+Who?
+

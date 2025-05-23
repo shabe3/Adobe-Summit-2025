@@ -1,0 +1,272 @@
+00:00:00:09 - 00:00:14:46
+不明
+Thank you for joining me today. I know it says bash yesterday. So it's I know it's early. It's 9 a.m. and the very first session of the day. So let's kick things off with some energy.
+
+00:00:14:51 - 00:00:35:19
+不明
+Thanks, man. Thanks. You just had a song. I have the tiger. The song about resilience and strength. And honestly, that's exactly what we need when we are tackling security in the age of generative way.
+
+00:00:35:24 - 00:00:42:47
+不明
+We need to stay adaptable and fast and ready for everything.
+
+00:00:42:52 - 00:01:14:53
+不明
+I am currently working as Principal Software Engineer at Palo Alto Networks, a global cybersecurity leader. I'm in the ecosystem for the last 14 years, specializing mainly in and up experience manager. I'm honored to be a Adobe Experience Manager champion and a community advisor. Which helps me learn, share insights, and collaborate with broader ecosystem. Like all is sitting here.
+
+00:01:14:58 - 00:01:39:06
+不明
+My experience spans across multiple industries like healthcare, retail, cybersecurity, and consulting, where security is a top concern. Over the last eight years, being a cybersecurity industry, security has become paramount to me and central to everything I do, and it's shaping every decision I make.
+
+00:01:39:10 - 00:02:08:49
+不明
+Today, we're going to explore how generative AI is transforming Am and the security risks and vulnerabilities that come with it. I'll walk you through key mitigation strategies and key takeaways, best practices to strengthen your security, and wrap up with some resources and key takeaways to help you stay ahead in this urban landscape. So let's dive in.
+
+00:02:08:54 - 00:02:44:42
+不明
+Generative AI is rapidly transforming how we create, manage, and deliver content in a. It's no longer an emerging trend. It's fastly becoming a core tool for content creation, automation, personalization, and customer interactions. In Am, generative AI can be used in multiple key ways. It enables automated content generation and helping content authors and marketers to scale their content production efficiently.
+
+00:02:44:47 - 00:03:24:04
+不明
+Search results summarization and answers the user experience by delivering concise, relevant information instantly with hyper personalized dynamic content creation, a tailors experiences based on user behavior, making interactions more engaging. This is something you are seeing, with Coca-Cola, this this summit where they are doing so much of hyper personalization based on the user behaviors. And conversational interfaces like chatbots, are reshaping how customer interactions are made by providing real time and intelligent responses.
+
+00:03:24:09 - 00:03:37:39
+不明
+While these capabilities unlock incredible potential, they also introduce new security challenges. Which brings us to key security risks. We'll explore now.
+
+00:03:37:44 - 00:04:16:18
+不明
+As Uncle Ben famously said, with great power comes great responsibility. This is especially true when it comes to security. Let's explore some key data security risks associated. The first one data privacy risk AI can unintentionally expose sensitive information. For example, if an AI model is trained on internal documents without proper safeguards, it may generate. It might reveal responses which are critical to a business like business strategy or company IP documents or personal customer data.
+
+00:04:16:22 - 00:04:52:45
+不明
+The second one is injection attacks, so attackers can manipulate A to execute harmful actions. In this case, for instance, a malicious user could craft a prompt that could take the systems into generating automated. Another commands or disclosing sensitive information exposing the vulnerabilities in the model's prompt handling. We will explore this models later. Access control weakness without strict permissions, a tools might access or modify your content beyond the intended scope.
+
+00:04:52:49 - 00:05:09:27
+不明
+For example, if a design a system designed to assist in content creation might be exploited to alter system configurations or accessing restricted data if not properly secure.
+
+00:05:09:32 - 00:05:39:24
+不明
+So we have explored until now some of the key security risks that Janelle introduces in a. And each of these could compromise content integrity, user trust, and overall system security. Understanding these risks is essential for secure environment. So how do we defend against this threats. That's what we're going to explore next. Now take a look. Take a deeper look into potential vulnerabilities and mitigation strategies to see how we can implement safely.
+
+00:05:39:28 - 00:06:13:28
+不明
+Generally, any. The first one is prompt injection. Most of you might know it, might not know it, but prompt injection is one of the significant vulnerability that is out there which we cannot overlook, especially when it comes to generative AI. In a so what is what? An injection? Prompt injection occurs when an attacker manipulates a generated content by injecting harmful inputs, leading to unintended actions, data exposure or security bypass.
+
+00:06:13:33 - 00:06:47:13
+不明
+Since a model's heavily, heavily, use user inputs, a pool is actually an implementation allows malicious users to influence a model behavior in unpredictable ways. So now that we have defined the prompt prompt injection, let's take a look into how it impacts your systems. So prompt induction introduces security and operational risks which are very severe. It can lead to another is content generation or ratio manipulation impacting publishing workflows.
+
+00:06:47:18 - 00:07:25:08
+不明
+Our brand credibility, information leakage, user data exposure and credential theft further amplify data security risks, potentially exposing sensitive information attackers made to exploit component manipulations and resource exhaustion, disrupting system integrity and affecting platform stability. Additionally, chat bot manipulations, impersonation errors, and search result searches and manipulations degrade user trust and experience by delivering harmful content. These risks, these are just risks.
+
+00:07:25:21 - 00:08:01:03
+不明
+This risk might might migrate to compliance. A security threat, including access control, bypasses cross-site scripting and services. Because forgery these can be exploited to gain unauthorized access or are leading further attacks. So to safeguard Em, we must implement a layered mitigation strategy. It should be across application code, different layers like application code, configuration and dispatcher levels. Let's explore this in the next slides.
+
+00:08:01:08 - 00:08:29:42
+不明
+So the first line of defense here is ensuring that a process only safe and expected inputs. So attackers often try to manipulate a responses by injecting hidden commands or manipulating prompts. To prevent this, we must sanitize and validate every user input that user uses. So these are some of the code snippets which, help you to sanitize and validate user inputs.
+
+00:08:29:47 - 00:08:56:04
+不明
+For example, the first one to access the API. So this is in a this first line of code in M, it tries to encode the input for HTML rendering. So by encoding the user input we ensure that malicious JavaScript or his HTML content input is converted into harmless content. Harmless entities for preventing an execution or executing any code.
+
+00:08:56:04 - 00:09:30:22
+不明
+There. The second method. Oh, okay. Yeah. The. I'm going to fast is the second one escape HTML. So this we are trying to escape any HTML, related malicious content. And this one will usually try to safeguard against HTML characters like special characters. It changes that, it skips those ones. And the third one, we are trying to do a regular expression replacement.
+
+00:09:30:27 - 00:10:03:50
+不明
+Ideally, this contains, whenever somebody is trying to use a prompt and trying to, add commands like exec curl Python. These are malicious keywords which might harm the, a models or try to configure that. So by removing this from the from the inputs, we make it harder for the malicious actors to exploit the system. So this code is related to HTL where we are using the context context rendering.
+
+00:10:03:50 - 00:10:35:08
+不明
+We are using context text which ensures user input is treated as HTML. The explain text ends up estimate in order to not execute the code. And here we are using from templates and from parameters. So from templates are simply a prompt which in which the parameters are embedded. For example, a prompt template can look like. Can you give me some information about restaurants in a country where this cuisine is prone.
+
+00:10:35:13 - 00:10:59:13
+不明
+So here the country and cuisine, these are the parameters and the entire thing is template. So whenever a user input something those those are the parameter values country and country in the cuisine, those are the ones which will be taken into consideration. And the rest of the prompt is created by us. So in that way, the user wouldn't be able to create the entire prompt and can hijack the models.
+
+00:10:59:18 - 00:11:29:19
+不明
+So that so we should always have always enforce encrypted communication with Https. This will protect from data in transit and prevent tampering. Next, apply list price list Principle of least privilege with. We can do this with using ACLs. So this gives a tools only permissions. The need and scope the admin rights to limit their impact. Disabling caching for sensitive data.
+
+00:11:29:24 - 00:12:01:13
+不明
+This prevents accidental exposure through cache content and real time API requests to control traffic, prevent abuse, and ensure system remains responsive. Finally, filtering and rate limiting requests at dispatcher level using a Deny first approach. Query parameter filtering and rate limiting. This will block malicious requests before they even reach your system. So in this code, we are rate limiting, restricting the.
+
+00:12:01:13 - 00:12:22:21
+不明
+In this code, we are trying to rate limit number of requests which are happening for API call. So if a attacker tries to flood your system with multiple requests too many requests, this will get to certain requests per second. So in that way we can basically stop requests even coming to your system.
+
+00:12:22:26 - 00:12:44:49
+不明
+So that's all about prompt injection. Now the second one is improper, improper output handling. So when this occurs this occurs when a generate content is not properly validated or sanitized. So what we have seen before is the input which is coming into the system, our input which is going to the A models that we need to sanitize and validate.
+
+00:12:44:54 - 00:13:17:06
+不明
+This one is the output generated from the system. So that is also should be, validated and sanitized, whether it's being stored into your GCA or whether you are displaying to the end user with if you are not doing this, then it will lead to serious attacks might happen. We will see into that. What is the impact. So this can result in cross-site scripting where malicious scripts execute in user browsers and server side request forgery and resource code execution, remote code execution along attackers to manipulate backend systems.
+
+00:13:17:11 - 00:13:49:54
+不明
+Additionally, SQL injections can compromise databases, leading to data leaks and unauthorized access is generated. Output may also expose unpublished content and introduce hallucination information, jeopardizing content integrity and user trust. Proper validation and encoding are critical in mitigating these risks. First release. The same thing accesses the API for filtering the output coming from the user output coming from the API.
+
+00:13:49:58 - 00:14:16:07
+不明
+Generated a model. So this is our first line of defense for cross-site scripting. So any edge generated content that gets displayed needs to sanitize properly. And AMCs this is the APIs help ensure no malicious script scripts kicks into it and into our code. Next one is gesture validation. So we don't want to dump everything that a model creates into our Json repositories.
+
+00:14:16:12 - 00:14:44:51
+不明
+By enforcing validations before storing content, we prevent, injection attacks and make sure only expected safe data is inputted into your persisted into a Json nodes. That third one is consumer encoding. Here we are trying to use context script and a script token. This is also one way like I am already supports this context context based rendering. So we can use this one to dynamically create content, dynamically use the context.
+
+00:14:45:00 - 00:15:18:56
+不明
+So we will not do anything. Specifically, AMD does all it for us. So the fourth one is like CSR of token. So AMD's Granit CSR filter ensures a generate interactions or API requests are not exploited by another tokens. Another actors. So this validates every request making it harder for attackers to manipulate the system. Finally, disposition filtering rules so this one acts as a security gate, filtering every request before they reach your system.
+
+00:15:19:01 - 00:15:53:53
+不明
+It then first approach secure. Strict query filtering and rate limiting helps block unauthorized access and prevents any data leaks. So by implementing all these layers, we ensure that a generated content remains secure, properly validated, and free from vulnerabilities. Before it reaches our systems. The next one is excessive agency, so this occurs when A is granted too much autonomy, allowing it to generate, modify, and publish content beyond its intended scope.
+
+00:15:53:58 - 00:16:27:52
+不明
+So this can lead to unauthorized content generation, where A creates or alters information without oversight, potentially causing compliance violations. If sensitive or regulated content is mishandled. Additionally, unchecked actions can result in brand reputation damage, especially if misleading or harmful content is published. From a system integrity perspective, excessive permissions could allow a to alter configurations impacting overall stability of the system.
+
+00:16:27:57 - 00:16:56:21
+不明
+Finally, data privacy concerns arise if A gains access to exposes gains access or even exposes that information. Confident information of your company due to inadequate access controls. So how do we mitigate them? So to mitigate this risk, we need strong safeguards in place. Let's go to them. So to mitigate the excessive agency we should start with restricting the LLN tool permissions.
+
+00:16:56:25 - 00:17:26:49
+不明
+This we can do it with AMP service user mappings. This ensures that A has access to only specific paths and services, preventing unauthorized access. Next sling reference filter. This helps control which domains can send requests for blocking unauthorized external resources from ever influencing your A event. Processes.
+
+00:17:26:54 - 00:17:56:38
+不明
+Now let's talk about sensitive information disclosure. So what is this. So this occurs when a unintentionally exposes confidential data that can be personal information credentials. Your company IP. So this can happen zero improper secure improper handling of the data or the security gaps within your system. So that can lead to data exposure compliance risks, unauthorized access risks and brand reputational damage.
+
+00:17:56:38 - 00:18:29:22
+不明
+Based on the use case, proper safeguards are essential to prevent leaks, protect sensitive information, and maintain trust of users and stakeholders. So, to address sensitive information disclosure, we begin with input and output sanitation. So if you have seen from the last few slides everywhere, the sanitation of input and output becomes very paramount. Here, everything which user inputs and everything a model generates, outputs should be sanitized and validated.
+
+00:18:29:27 - 00:19:07:41
+不明
+So ensuring that these are carefully added to prevent any unintended leaks. So this is complemented by giving strict data access controls using a Am service. User mapping to limit access to only necessary content repositories, reducing the risk of unauthorized access. Finally, we can use encrypt sensitive data using AMD's crypto SIP crypto support service. This ensures the credentials and process by a models are securely encrypted, further protecting against any potential exposure.
+
+00:19:07:46 - 00:19:36:54
+不明
+So the next one is unbound consumption. So this occurs when a models try to consume accessible resources. It can be either directory It can be either due to undeclared inputs coming from the user like malicious user unintentionally, or inefficient configurations which are not getting your users, leading to system strengths. So this can cause content delays and performance degradation.
+
+00:19:36:59 - 00:20:05:15
+不明
+And in some severe cases, it can also cause some service attacks where the system becomes unavailable for the legitimate users. It can also lead to service disruptions and significantly increase your operational costs. As more resources are consumed than necessary to handle the workflow efficiently. So to prevent this, we need to adopt strategic measures and limit the resource usage.
+
+00:20:05:20 - 00:20:37:12
+不明
+So to address unbound consumption, we can implement a few key strategies to help control resource usage. First, the API rate limiting. So this can be done at the dispatcher level, which helps preventing resource intensive queries. Flooding the flooding by enforcing a cost per call boundaries, ensuring that no requests overload your system. Entire system. We can also input, we can also do input validation filters to neutralize the variable length of the input floods.
+
+00:20:37:17 - 00:20:49:16
+不明
+Or you can do, infinite loop elements, infinite loop attempts by protect the system resources from being drained.
+
+00:20:49:21 - 00:21:23:36
+不明
+So next the resource quota limits. So we can set resource quota limits via ozone configuration, ensuring that hard limits on number of processing that are used by air models. This helps in preventing over consumption as well. Lastly, output token limitations if you are using ChatGPT in the initial days, you might have seen that the number of content, the amount of content you generate is very less like it cannot generate your entire website because of the number of tokens it uses, so that is one of the ways you can restrict how much, how much of a content is used.
+
+00:21:23:36 - 00:21:47:24
+不明
+So every, every response, it gives it cost to something. So by limiting number of tokens, which, a model can generate will help you cap the output to manageable levels and ensure that your system is not getting overrun with lot of questions and responses back.
+
+00:21:47:29 - 00:22:09:54
+不明
+So before we talk. So that's that's not exhaustive. Entire exhaustive list of, vulnerabilities out there and mitigation strategies. But there are some of the key ones which you can actually, use and understand what those are and how to secure them with when you are trying to use generator applications in a. So now let's talk about some best practices.
+
+00:22:09:59 - 00:22:38:39
+不明
+So even before talking about, best practices, we need to acknowledge something. No system is immune to attacks. Security gaps can expose sensitive data, disrupt operations, and also compromise user trust. That's why a layered approach is essential. So let's break it down step by step. Here. So everything starts with data security. So if an attacker gets your sensitive credentials, it's game over.
+
+00:22:38:43 - 00:23:09:16
+不明
+So the first step is encrypting stored secrets using Aim crypto support, ensuring that even if a data is accessed, it remains unreadable. We should also enforce Https to prevent interception during transmission. Securing data at rest and in transit is very fundamental. No encryption is useless if wrong people have access to it. So that's why we need strict rule based access controls to limit permissions.
+
+00:23:09:21 - 00:23:39:47
+不明
+Not every user, system or any model should have full access. We should enforce Or and API tokens, ensuring only other systems can interact with a, and we rotate these tokens regularly to expose to reduce the exposure of the risks, even if even with strong access controls, attackers will still try to probe weak points. So this is where we need to minimize the attack surface.
+
+00:23:39:52 - 00:24:10:23
+不明
+For example, limiting the Json rendering. Preventing prevents a DOS attacks. Denial of service attacks. While extreme option headers prevents click jacking. These small changes makes a big difference in adjusting the exposure of the attacks. Of course, prevention is nothing is not enough. We need visibility. Real time monitoring with AMS Log Message Analyzer helps us spot anomalies as they happen.
+
+00:24:10:28 - 00:24:36:56
+不明
+The AMS dashboard Operations dashboard uses a system wide view of system wide view, allowing your team to react whenever the security threats happen before they cause much more damage. And security is not a one time fix, it's an ongoing journey. So if you are not updating aim regularly, you are leaving the door open for existing or known vulnerabilities, so apply.
+
+00:24:37:01 - 00:25:08:34
+不明
+Applying service packs and hot fixes promptly ensures we are always protected against latest threats. Beyond updates, we must secure Am infrastructure. That means blocking unnecessary Http methods in dispatcher and restricting access to sensitive URLs like system consoles. So attackers. Why this is important is attackers often find, try to find any misconfigured environments so that they can that those are the easier entry points for them.
+
+00:25:08:34 - 00:25:41:01
+不明
+And security, if there are any security gaps, they try to creep into those. So we need to always have our systems secured first before doing anything else. So locking down these endpoints is very crucial. So even with the best of security breaches and failures can still happen. That's why we need a solid backup and recovery strategy. Scheduled automated backups and testing restore process ensures that if something goes wrong, we can always recover quickly.
+
+00:25:41:06 - 00:26:10:14
+不明
+Finally, we cannot just assume secure. We are secure. The best way to validate our defenses is to do penetration testing. We can use tools like WhatsApp and Batsuit to identify weaknesses before the attackers do so. If your organizations have infosec security, they will be able to help you with this and regular security audits. They keep your access controls, API security, and especially rules in check.
+
+00:26:10:19 - 00:26:44:51
+不明
+So these are some of the best practices which you can leverage to keep your aims a minimum and secure. Yeah, we covered a lot of ground today exploring risks vulnerabilities of and a and the strategies to mitigate them. But like I said security is a journey, not a one time fix. So to help you stay ahead, I have compiled some key resources that provide you with deeper insights, best practices, and actionable guidance.
+
+00:26:44:56 - 00:27:14:49
+不明
+These include security checklists, frameworks, and real world examples that you can leverage to strengthen your game security for now and for the future. Let's take a look now. So the OS top ten for alarm applications. That is the guide for secure a development, helping you to understand and address any common security risks in generative applications. The next ones probably are more familiar with Am secure and especially secure list.
+
+00:27:14:54 - 00:27:40:45
+不明
+These are from Adobe. These are essential while setting up and maintaining secure environments. The zero six framework from Palo Alto Networks. This is a framework which helps you understand zero to security. How to implement zero security in your organization. The next one is, this is a fun tool. I just played with it when I was starting with prompt injection and generative.
+
+00:27:40:46 - 00:28:05:51
+不明
+A so this is Gandalf is from La Akira. So this is an interesting tool to experiment with. And also it helps you understand what prompt injection vulnerabilities you can see, when you are trying to use generative A and the last two links, these are very insightful resources for exploring real world examples of jailbreaking and generative. A.
+
+00:28:05:56 - 00:28:36:00
+不明
+So as we wrap up today's session, let's focus on some few actionable strategies that you can immediately implement to fortify your Aim environment against evolving security challenges, especially in the light of generative. These key takeaways will not only help you address the current vulnerabilities, but also equip with tools and knowledge to stay ahead in the future. Threats.
+
+00:28:36:05 - 00:29:11:01
+不明
+So the first step in securing Aim systems is understanding where you stand. A comprehensive security audit will help you pinpoint vulnerabilities in areas like content handling and access controls. This proactive approach ensures that you are aware of your security posture and can take informed steps to mitigate any risk in the future. Security patches these are your first line of defense against known vulnerabilities, regularly updating your Aim systems and enforcing best practices like secure API endpoints.
+
+00:29:11:06 - 00:29:39:56
+不明
+Dispatcher rules help against help help you protect against current and emerging threats. Staying here to stay up to date always for any of this, because Adobe provides you with so many service packs and security patches which contain latest security threats and vulnerabilities getting solved over there. And third, one is restricting access based based on rules. This is a critical security measure.
+
+00:29:40:01 - 00:30:06:18
+不明
+So if you have seen previously in the one of the vulnerabilities I explained, this role based access controls is very important. By applying the principle of least privilege and managing access it carefully, you ensure that only right users and systems and A and A tools can interact with your sensitive data. So not everybody will have every access. So a systems are only as secure as the inputs they receive.
+
+00:30:06:23 - 00:30:31:52
+不明
+Implementing structured parameters prompt and direct first filtering ensures that only safe and valid data is processed. This is crucial for preventing malicious actors from exploiting input vulnerabilities such as prompt injections. So if you are seeing the pattern is always you need to send us your input which is coming in, and also the output generated from your A models.
+
+00:30:31:57 - 00:31:06:13
+不明
+So with the rise of a generated content, it is important to keep a close eye on activities within your system. Tools like a ehm log message analyzer allows you to detect unusual behavior and anomalies, where regular penetration testing keeps you prepared for new vulnerabilities. So continuous monitoring for staying ahead of the emerging security risks is essential. So this strategy is not just about reacting current threats but proactively seeking your ehm environment for the future.
+
+00:31:06:18 - 00:31:16:21
+不明
+By implementing these best practices, you will ensure that the system remains resilient in the face of evolving challenges.
+
+00:31:16:26 - 00:31:37:49
+不明
+So by this we finished our presentation. Thank you for all for joining today. I hope this session provided you with valuable insights in securing a. In the age of generative way. Before we move to Q&A, I would like to take a moment to thank Will from Adobe and Michelle and my colleagues here from Palo Alto Networks who are here today.
+
+00:31:37:49 - 00:31:48:37
+不明
+Your support means a lot. I'm happy to take any questions. No thank you.
+
+00:31:48:42 - 00:31:48:56
+不明
+The.
+

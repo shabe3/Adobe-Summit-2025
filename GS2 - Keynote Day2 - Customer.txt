@@ -1,0 +1,244 @@
+00:00:05:14 - 00:00:25:05
+不明
+Hello, everyone. As Andrea mentioned, my name is Hilary Cook, and right off the bat, I need to admit something. I feel as though many of us during our careers have gotten the advice and the feedback to act like you've been there and fake it til you make it. But I've never been here. And I'm not good at faking it.
+
+00:00:25:08 - 00:00:39:18
+不明
+So, this is my very first keynote, and I've certainly never spoken in front of thousands of people. So thanks in advance for being a really fantastic audience.
+
+00:00:39:23 - 00:01:02:58
+不明
+I don't know about y'all, but between yesterday and what we've seen today, there are some pretty incredible innovations coming our way. And what I'm curious about, particularly for the other practitioners in the audience, is how many of you are as excited as you are perhaps skeptical of your ability to actually implement what you're seeing? The fair.
+
+00:01:03:03 - 00:01:24:09
+不明
+The question that I asked myself every day, and I'm curious if you do the same as are we as marketers and technologists, truly ready to take advantage of these innovations? I'm going to say what I think we're thinking, which is that we're not. But I do believe that readiness is within our control, and it's far simpler than we thought.
+
+00:01:24:14 - 00:02:06:34
+不明
+So let's talk about how we actually do personalization at scale. Are you game? Thank you. Marriott operates over 9500 hotels around the world. More than 30 plus brands, 10,000 destinations, 350 campaigns annually all around the globe, with thousands of marketers and associates trying to reach our customers and serve our more than 220 million Marriott Bonvoy members. Helping our customers connect to these opportunities, as I mentioned, are thousands of associates and marketers, and while they are focused on creating amazing, memorable experiences for our guests, my job.
+
+00:02:06:34 - 00:02:34:23
+不明
+My team's job is to focus on serving them as the leader of marketing operations. I hear those stats and immediately start thinking through the implications. Can our can our marketers access the content they need easily? What manual work is slowing them down? Are we reaching customers in the right channels? What does success look like? And do I have the data to form the insights to measure that success?
+
+00:02:34:27 - 00:03:06:34
+不明
+Do we have a consistent taxonomy? Do we have a taxonomy? Do we understand the relationship between our brands, our destinations, our partners and the digital assets? Our customers will interact with at this scale? Even in a perfect world? It's pretty complex. But here's the thing the biggest barrier is not the technology. It's us. In 2027, Marriott will turn 100 years old.
+
+00:03:06:39 - 00:03:30:23
+不明
+Whatever challenges you're facing in your organization, I promise you same. I was speaking with someone at a dinner the other night, and we were talking about how across our industry, for those brands that have been around for more than 40 or so years, many of our marketing databases and capabilities are actually built on the idea of sending direct mail.
+
+00:03:30:28 - 00:03:51:30
+不明
+Right? It was a single touchpoint. It was a very easy process. It was simple assets. And our digital industry has not only grown but exploded. And we sit here at the precipice of how to leverage AI. And so two and a half years ago, my team and I decided to be really bold. We took off rose colored glasses.
+
+00:03:51:44 - 00:04:19:48
+不明
+We looked the future in the face, and we found an objective way to assess our readiness. AI is not a silver bullet for fixing decades of debt. It is, however, an incredible amplifier. If you're willing to do the right work. Otherwise, I believe it's just a shiny object that will never get adopted at scale. So the question we all have is where do we start?
+
+00:04:19:52 - 00:04:42:07
+不明
+And I tend to find things that other people find boring really sexy. So this happens to be one of my favorite slides. There are four things I believe that every marketer in here needs to know and have in their arsenal. And for those of you who are our partners, I come from the partner side. I spend the vast majority of my career, implementing before I moved over to client.
+
+00:04:42:12 - 00:05:00:39
+不明
+And the thing that I didn't realize when I came into the client side is that any time brands get together in a room where we're partners or not, the first thing we all say is, all right, so what are you really doing? How are you really doing that? Is that real? And the key for me that I have found since being client side is these four things.
+
+00:05:00:44 - 00:05:27:23
+不明
+Document your process flows. And one of the things you're going to find is that as you ask all your people in your organization how you take something from intake to in market is that no one will tell you the same thing twice. When you get a report that gives you data and insights, that you then make business decisions on how to proceed, trace that data back to its original source all the way.
+
+00:05:27:28 - 00:05:51:01
+不明
+When you start to implement technology. Actually document the original set of use cases you used to implement it. Because when you go to add on to that technology or say, well, so-and-so told me that tech would do this. How you chose to implement it from the beginning has a massive bearing on your ability to scale it afterwards. And the last for me is accountability.
+
+00:05:51:06 - 00:06:18:22
+不明
+And I'm going to show you what I mean. Tell you what I mean. When we started this process and we did these three things, we found some pretty astonishing things. We felt them. But I didn't have the numbers or the data or the documentation to tell my leadership. On average, we were I hundred and ten days from intake to end market, 349 steps, 45 disparate processes that were all interdependent upon what each interdependent upon each other.
+
+00:06:18:35 - 00:06:44:07
+不明
+But those 45 different teams did not know it. So one would make improvements to fix theirs, and then they would cause complications in three other processes they weren't aware of. One of my favorite stats and learnings is that 43 artifacts, documents and takes were collected. 41 were duplicative in some manner. We chuckle because everyone in here recognizes that in yourself.
+
+00:06:44:12 - 00:07:09:07
+不明
+There is very real power in being able to name and quantify your pain points by doing this. It gave us the map to take to our leadership and come up with a game plan. The first thing we did was gain executive alignment, and I am incredibly fortunate to have some incredible leaders at Marriott, many of whom are in the audience today across marketing, global technology, digital and data.
+
+00:07:09:11 - 00:07:37:42
+不明
+And they went all in and have continued to be incredible champions of our work. Once we had our data in order and we had executive alignment, we were able to stand up for us, a really robust CDP and have a single view of the customer. This was incredibly important because when you think about the five regions that we have in the thousands of marketers, if I have marketers defining an audience in different ways, it leads to a very disruptive customer experience.
+
+00:07:37:47 - 00:08:03:49
+不明
+I'm standing on this stage so it won't surprise you that we chose the best in the industry. Adobe ATP to lead the charge for us, as we had a centralized view of the customer and federated data. This means that I now have a strong foundation to begin maturing all of our marketing activation capabilities. We chose to stand up what we call Mapa.
+
+00:08:03:51 - 00:08:37:47
+不明
+Marriott loves an acronym Marketing and Personalization Accelerator. For us, this looked like taking our marketing capabilities and matching them with very real use cases that are marketers were trying to drive. This was across audience strategy and data activation, content acceleration and syndication, and orchestration and decisioning. When you build with purpose and in partnership with your marketers, experimentation fuels capability building and you prove value while ensuring long term success.
+
+00:08:37:52 - 00:08:57:23
+不明
+You may hear many of us at Marriott talk about it in terms of pilot scale and value. This means that we're able to experiment in a very agile and fast way. And then as we start to see that succeed, we will then build more use cases into it until we've reached enough scale that we say this should be true for everything.
+
+00:08:57:27 - 00:09:23:12
+不明
+And that way we stair step into our maturity. The fun thing about going about it this way is that for us, it works. There are two first use cases that we did were around our welcome journey, which from a legacy perspective was three touchpoints. Now it is over 17 across 100 days. And our retargeting series, which we've had since I think 2016, 2017.
+
+00:09:23:21 - 00:09:43:35
+不明
+But we felt that there was incredible unlocked value in that. And when we did the process documentation and we said, these are the things we want to fix, we want to get our process in order. I want to make it easier for my marketers, and I want to leverage these capabilities. We took 45 processes down to one. We had a unified view of the customer.
+
+00:09:43:39 - 00:10:09:37
+不明
+We were 93% faster about being able to update content or offers for an existing campaign into market. This means my marketers actually can, prove their destiny if that. If that campaign is not working, they actually have a chance in real time to update that content. We were six times ahead of our revenue goal, and I sat in a meeting in September where I said, I don't know how we're going to meet this.
+
+00:10:09:42 - 00:10:29:11
+不明
+But because we did a pilot scale approach, it meant that as we built and became more mature, we also started to accelerate. And so in the last three months of the year, I went from not knowing if we would hit it to exceeding it by six times, which is the same thing, you see. And I promise this is a true stat is in our content.
+
+00:10:29:15 - 00:10:55:34
+不明
+We went from having static, complete built campaigns to now having more than 500,000 variations of the welcome journey. Well, on our way. Very close, in fact, to being over 2 million. And if you look across our content, we're now in the tens of millions of variations with a 70% reduction time to market rate.
+
+00:10:55:39 - 00:11:12:47
+不明
+As we scaled across our use cases, all that hard work is allowing us to accelerate the value to our customers and our business. At the end of the day, we are all here because we want to be on the cutting edge of innovation and to make our customers experiences better. I don't believe the future is happening to us.
+
+00:11:12:49 - 00:11:40:27
+不明
+I believe it's ours to build. And remember, hard work does not have to be complicated and taxonomy is sexy. Thank you so much for the time and for being an amazing audience, and I look forward to continuing the conversation.
+
+00:11:40:32 - 00:12:00:13
+不明
+All right. Well, thank you so much for that warm welcome. This is my first Adobe Summit. Now. Pretty amazing. It's not because I didn't want to be here. This looks like a fantastic event. It's because the first time Adobe's let me in the door. I spent the last 13 years of my career competing with Adobe. So to be here on stage is kind of a surreal experience for me.
+
+00:12:00:15 - 00:12:19:42
+不明
+I have to admit, I feel like I'm with my people, a group full of marketers. What could be better? Now my career has been defined by one simple thing. We all have it. Let's be honest. Mine might be a little closer to the surface. Imposter syndrome. From the age of eight years old, I've been faking it til I make it.
+
+00:12:19:46 - 00:12:42:28
+不明
+As a young American trying to make his way into the sport of Formula One, the European dominated sport of Formula One. It's a now and almost, but didn't quite make it formula one driver as a CMO of a top five software company. It has been anything but a linear career journey. But what I've learned in that time is that driving a car at 230 miles an hour and leading a large marketing organization.
+
+00:12:42:33 - 00:13:01:16
+不明
+Ironically, it's not all that different. And I thought I would. Don't worry, I'm going to get there. I thought I would share a few of the lessons that I've learned along the way, as well as some of the cool stuff that we're doing with Adobe. Now, I've been super, super fortunate to be surrounded by and worked for and with some of the most incredible marketers that our industry has to offer.
+
+00:13:01:21 - 00:13:25:09
+不明
+Big awards, big degrees, big jobs. But I've learned one thing about marketing. We're full of it. Absolutely full of it. And don't worry, I'm complicit. I'm a member of this club. But we are the worst. We've spent the last 20 years finding increasingly convoluted ways of communicating the value of our organizations in ways that nobody seems to understand.
+
+00:13:25:14 - 00:13:51:06
+不明
+We've allowed our media partners and tech vendors to invent new acronyms every year to measure our businesses that might benefit them more than it does us. We find ourselves marketing to attribution models instead of the humans that actually buy our products. And we stand on stages just like this one all around the world talking about how we need to be more human or more culture shaping before returning to our offices and doing exactly the opposite.
+
+00:13:51:11 - 00:14:15:13
+不明
+Now, I've also learned that it's it's brand and demand, not more. This is not a binary decision, and it has never been a binary decision. The more I've learned, the more I think we've confused ourselves. We can walk and chew gum at the same time. We can generate relevant awareness and capture the demand and market. We know that the buying decision often happens at first.
+
+00:14:15:18 - 00:14:38:13
+不明
+In fact, 81% of the time, brands buy the first company that comes to mind. So why do we spend so much time on the last step of the journey? Great marketing builds demand before people even know it. And it's much more fun that way. I've learned that none of the BS and B2B stands for boring. 70% of the GDP is created from business to business transactions.
+
+00:14:38:28 - 00:14:58:09
+不明
+And yet, for some crazy reason, we've decided to allow ourselves to be measured by a lower standard and a lower bar. There's no reason. And yet here we are. I've spent the last ten years of my career trying to change this perspective, and I will spend the next ten if I have to. But maybe summit, you'll help us change this perspective starting here.
+
+00:14:58:14 - 00:15:22:03
+不明
+I believe that B2B can be just as provocative, just as creative, and just as thought provoking as any of our friends and B2C in the room. We share and an admiration for great storytelling, a bold point of view, and deep, wonderful customer experiences that should be the standard. Our industry, not the exception. I've learned that friction is ultimately marketing's Kryptonite.
+
+00:15:22:08 - 00:15:42:40
+不明
+Customers have zero patience for complexity, and every extra step we put our customers through drives our customers away. Too often, we design our marketing organizations around the org charts or the systems we use, instead of the humans that actually buy our product. Magic happens when we remove that friction, not add to it. People don't like being marketed to.
+
+00:15:42:45 - 00:16:03:29
+不明
+They like being helped. And when we help, the results ultimately do come. Now, I'm told for my final one that it wouldn't be a keynote if we didn't throw in an ancient proverb, but I couldn't find the right one, so I modified it for my own benefit. It takes a village to raise a brand, doesn't it? A village, it needs the whole company.
+
+00:16:03:34 - 00:16:24:35
+不明
+Every single employee and one employee in particular. The CFO has got to be a writer. Dei partner. It requires us to have a thoughtful about our employees and make sure that every employee is on the journey. And I've got my wonderful team here in the audience with us as well. There is one of them.
+
+00:16:24:39 - 00:16:44:10
+不明
+And we have Adobe. Adobe is absolutely our writer Dei partner in this transformation, a truly trusted advisor. And Adobe is helping us with all kinds of things right now. I thought I could share a couple of those examples that you may have seen earlier in the demo. We're moving from a product led organization to a brand, that organization.
+
+00:16:44:15 - 00:17:05:46
+不明
+That's not the marketer's words. That's our CEO's words. It requires a huge culture shift to make this change, though. It happens, it has to happen across the entire organizations. It has to think about how we change, how we think about making decisions, how we invest in our businesses, and ultimately how we measure success. And we have to reimagine everything, including how we deliver experiences.
+
+00:17:05:51 - 00:17:29:45
+不明
+And with Adobe Experience Platform helping us do exactly that and helping us not only keep pace with the industry, but set it and hopefully win this battle for relevance. And I. Now, I hail from San Francisco. It is my home. I love it to death, but I really don't like fog fogs. The worst fog is the only acronym I will let myself use in this presentation, and it stands for Fact Deficient.
+
+00:17:29:45 - 00:18:01:05
+不明
+Obfuscating generalities, also known as how to B2B, tends to talk and look. We were no different. We are absolutely no different. You walk the hallways of ServiceNow and you hear phrases like ham and sam and item and these crazy acronyms. It sounds more like a Doctor Seuss novel than it does enterprise software. But as our business has grown, as we've added more complexity and new technologies and new audiences, we've tried to strive for simplicity, to ditch that inside baseball, that fog, and try to speak the language of the customer.
+
+00:18:01:10 - 00:18:19:53
+不明
+We're putting AI to work for people, which sounds great, but how do you do this at truly global scale? As we introduce ourselves to new audiences like an HR and finance and CRM and security like you saw in the demo, how do we do this at True Personalization? Well, Adobe Journey Optimizer B2B edition is helping us do that.
+
+00:18:20:02 - 00:18:46:01
+不明
+Finally, real world personalization coming to life in real world scenarios. It's pretty awesome to see. Look, you've heard the phrase AI a lot in this new era. If you are standing still, you are ultimately falling behind. We're doing all kinds of things, and we're investing in AI in every hire we make and every investment we make. Things like synthetic research to more deeply understand the personas in which we market to.
+
+00:18:46:06 - 00:19:04:09
+不明
+We've even identified 76 new category entry points that we didn't know of before. So the use of generative AI, of course, we have AI agents in every corner of our business, and it's helping us move much more quickly. And now as of yesterday, we've got all kinds of new agents from Adobe to connect to it, which will be really amazing.
+
+00:19:04:13 - 00:19:24:05
+不明
+Of course, we're governing the brand at scale like I'd never thought possible, and hundreds of new use cases that were experimenting with every single day. I truly believe that now we are only limited by the curiosity in this room, by the curiosity in all of our organizations. What a great opportunity for us all. And of course, Adobe is super central to this.
+
+00:19:24:10 - 00:19:45:45
+不明
+But the biggest shift of all you saw in that demo, I'm on a mission to increase marketing strategic role inside the organization. Gone are the days of throwing leads over the fence and in this case, down the stairs and living and dying by the mql. We're collaborating with sales as true business partners and looking at the full picture and buying groups.
+
+00:19:45:50 - 00:20:16:25
+不明
+We're saying goodbye to the idea that one lead will help us make the year, make the quarter, and finally realizing that it's dozens of people, sometimes obvious and sometimes not obvious, that actually influence the decision. We're at the table with sales and marketing together and reinventing that relationship. As you saw in that ad in the picture. We're actually bringing these buying groups to life in our creative as well, personifying the very people that we market to giving them personalities, identities and actually using them as distinctive assets.
+
+00:20:16:29 - 00:20:27:09
+不明
+And all of this comes together to bring marketing closer to the transaction and earning our seat at the right table that we've all these nerd.
+
+00:20:27:14 - 00:20:44:53
+不明
+We're just getting started with Adobe, and I cannot wait for all the new innovation to come. But as you've heard from so many people, this industry will never move this slowly again. And maybe this time you'll believe me that driving a car at 230 miles an hour and leading a large marketing organization isn't all that different. Back to you, Emmett.
+
+00:20:44:54 - 00:20:58:48
+不明
+Thanks so much.
+
+00:20:58:53 - 00:21:16:52
+不明
+Thank you. Colin I love that journey. And by the way, he was a driver just so everyone took away from that. I was not a driver. I'm not that cool. But again, Colin, thank you for everything. And thank you for your continued partnership. It is a it is incredibly appreciated and valued. Look, I want to kind of wrap up here a little bit.
+
+00:21:16:56 - 00:21:38:58
+不明
+I think between day one and day two. I know you've heard a lot, and hopefully it was helpful for us to go through the agenda, capabilities and unified customer experience, the platform and now B2B, the message I want you to take away is we are truly supporting you in this new era of customer experience orchestration. We believe in it or pioneering it, and we are so excited to work with you on that.
+
+00:21:39:03 - 00:21:53:45
+不明
+A little bit of housekeeping. Now, before we wrap a couple of things that please, please do attend the strategy keynotes. We had two yesterday that were very well attended. I think people found them very useful today. You can see those, up above me. One is we're going to go much deeper on the B2B stuff that we just walked through.
+
+00:21:53:45 - 00:22:11:06
+不明
+And the second one is on, unified customer Experience. Please do attend those. We have executives from Marriott from Nvidia. They're great sessions. We got good feedback. I think it's a great way to go deeper and learn a little bit more. We're talking about and actually on the fun side, worth calling out. Please, please also come back to sneaks.
+
+00:22:11:11 - 00:22:29:02
+不明
+Hopefully everyone in this audience has done sneaks before. It is a lot of fun is the way we get to show you what's cooking in the lab. Very very excited to have Kenji on here. So please, by all means come. It's going to be absolutely incredible. And do that and then also bash very very excited about bash tonight.
+
+00:22:29:02 - 00:22:46:05
+不明
+Please do attend that. We're very, very lucky to have Grammy Award winning singer songwriter, guitarist Gary Clark Junior. So please don't miss these things. And yeah, he's incredible. So very excited about that as well. So with that, just on behalf of everyone at Adobe, it takes a village to put this together. You saw a lot of us on stage.
+
+00:22:46:09 - 00:22:56:12
+不明
+Just a massive, massive thank you to all of you for joining us. Thank you for the partnership. Incredibly. Look forward to what we're about to do even more with you. And with that, enjoy the rest of your day. Thank you very much.
+

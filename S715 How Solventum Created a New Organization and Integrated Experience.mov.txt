@@ -1,0 +1,428 @@
+00:00:01:26 - 00:00:25:13
+不明
+Hi everyone. I know a lot of people here. Hello, hello, hello, hello. Okay, as you can tell, there's a lot of people here from UI insolvent and the support. So we love that. Thank you all for joining our session on how solvent, created a new organization and integrated experience. My name is Alexandra Wood. I lead commerce for the US here at UI.
+
+00:00:25:13 - 00:00:45:06
+不明
+But more importantly, over the last two years, I've been able to really engage with the solvent team from early assessments of of how they're taking their organization to what we're going to talk about today, which is Project Sunrise. And you'll hear that as we talk. It does mean this program. We're going to show a video here in a little bit at the end.
+
+00:00:45:10 - 00:01:15:30
+不明
+Ruthie is going to do a demo, but along the way, we're really going to talk to you about how this all came together and how this was realized between UI solvent and Adobe. Ruthie. All right. So I'll kick it off by saying this is kind of a dream come true. And I mean that because two years ago, I came back from maternity leave and I stepped into my current position, which is as CMS platform owner, and the team had just signed with Adobe for Am sites, Am assets.
+
+00:01:15:30 - 00:01:38:30
+不明
+Adobe Analytics work front, and I was so excited to be working with Adobe, but also super daunted by what we were about to do, because in less than a year, we needed to learn all this tech. Stand it up, launch a website in time for our new company launch. We didn't even have a brand or a name yet, and that was the easy part, because after that we needed to stand up and migrate a PIM.
+
+00:01:38:31 - 00:01:59:24
+不明
+We needed to migrate a ton of assets to our new dam. We needed to stand up and migrate a learning experience manager platform. Then we needed to integrate it all together, get SSL ready, get log ready so that we could bring on a digital experience team who hadn't been hired yet to create the full customer experience so that we could leave our platform before they shut it off.
+
+00:01:59:29 - 00:02:25:57
+不明
+So in in amongst panicked thoughts about how the heck where are we going to pull this off? The thought did occur to me when we pull this off, I thought we could share that Adobe Summit and here we are today. So this is pretty cool, both as a capstone, of an awesome couple of years and I feel so privileged here today because I get to represent the work of a team who has worked tirelessly over the last year or two years to bring this thing to life.
+
+00:02:26:02 - 00:02:48:25
+不明
+Today our company does have a name. It's solvent. And on April 1st, 2024, solvent became a publicly traded company in the New York Stock Exchange after having spun off from IBM. And what this meant was a couple of things. The first is that we brought with us a legacy, a long legacy, 70 years worth of solving customer's toughest problems.
+
+00:02:48:30 - 00:03:11:30
+不明
+But what it also meant is that we had a very, very short time frame in which we need to establish the foundations to support such a long legacy, but also enable growth for a new medtech company who is focused on pioneering new solutions to change patients lives and empower healthcare professionals to work at their best. This is a tall order.
+
+00:03:11:34 - 00:03:30:47
+不明
+We pulled it off, and so I'm so excited to be able to share that to you with you over the next hour. Alex and I are going to be talking about what we did and how we did it. But before we do that, we're going to have some of the team who worked on the project talk about what we accomplished and why it mattered to the right.
+
+00:03:30:52 - 00:03:44:06
+不明
+Oh, no. Hold on just a second, guys, I apologize. This was up a moment ago. We will find it. Sorry, sorry.
+
+00:03:44:11 - 00:04:08:35
+不明
+We tested it out and everything. Of course, in the moment, but that's okay. We're here.
+
+00:04:08:40 - 00:04:31:32
+不明
+At a previous company, I launched a site experience and launched this. And that took over three years to get to market. Project sometime we launched over four new platform, over a hundred other features, over 600 based IDs for product detail pages, including the other businesses for eight months. It's an insane timeline, but also the team never wavered at all.
+
+00:04:31:37 - 00:04:57:28
+不明
+As part of Project Sunrise, we've helped to implement a new product information management system and a new digital asset management system for almost 50,000 products. We're seeing the benefits of this new PIM, both in terms of a more modern platform, but also new automation focused processes. When we look at the dam, see the benefits of our new Adobe Assets system primarily better integration with the web content management system for both digital assets and web content live side by side.
+
+00:04:57:37 - 00:05:20:49
+不明
+We migrated close to 200,000 digital assets over from 3 a.m., and we have so much more control and visibility of where and how our assets are used. This vision for a new integrated education experience began over three years ago, and I'm incredibly proud of everyone's contributions in getting us here. Key highlights include an integrated experience with our Solvent Income website for just beginning our journey in digital learning.
+
+00:05:20:54 - 00:05:43:16
+不明
+And I can't wait to see what's next. Our journey began with a commitment to transforming how you present products, information and learning on our website. Our goal was clear to create an intuitive experience, ensuring customers see their needs reflected in clear, concise stories that resonates with them. Staying true to our brand. Not just for today, but for future growth in a global approach that adapts to each unique audience.
+
+00:05:43:21 - 00:06:05:49
+不明
+In just eight months, this project brought to life over 200 pages of content across four businesses time, global page templates, and three components, all designed tested over 20 years of insights. This collaboration has set a Falcon stage for our ongoing evolution. Over 12 months ago, we started Project Sunrise. The goal was to transform our digital experience and the amount of work that's be done in to make this thing happen.
+
+00:06:06:00 - 00:06:28:17
+不明
+You know, we really wanted to do better than we have in the past. We had an opportunity to find some amazing talent internally, externally and across just a number of different categories. User experience, design, marketing, technology, expertise, I.T, brand, business, all the above plus agency support. Customer experience has been kind of the guiding light for the the North Star for a lot of this work.
+
+00:06:28:17 - 00:06:58:57
+不明
+But to do that, the technology to get there, we had to do just an unbelievable amount of work. Kind of the evolution and the amount of work that's kind of gone in to make this thing happen. We had to launch a new product information manager, PIM, within less than 12 months, than eight months for that. As for the new digital asset management system, we had to move over 180,000 images and assets, 15,000 different product, over 2000 new product pages for our CMS, and over 300 courses for a new digital learning management system, plus a couple dozen other systems and tools.
+
+00:06:58:58 - 00:07:17:04
+不明
+Things that you need to do is to actually make a website work. What an exciting journey it's been to reach this milestone in our transformation. The biggest highlight for me has been the incredible cross collaboration among so many teams. That's been probably the most interesting part of this journey, is seeing how these teams of evolved, and how the work is about seamless.
+
+00:07:17:04 - 00:07:34:28
+不明
+Customer experience requires us to all work together, and we can no longer be in individual silos to make these things work. We're so excited as a team for the new systems and processes that we're implementing as part of Project Sunrise. Really congratulate the team on one vibration. Again, we had to work across a number of different pillars. And so I appreciate all of you.
+
+00:07:34:36 - 00:08:01:45
+不明
+So thank you. I would like to extend my heartfelt congratulations to all the wonderful people from the successful completion of Project Sunrise. Wonderful. This is indeed a significant milestone for your team and for the entire organization. So thank you. And for our customers, your education, hard work, and unwavering commitment have truly set the foundation for our digital presence.
+
+00:08:01:58 - 00:08:19:45
+不明
+For all of your efforts, both beyond just the project as it paves the way for future generations and children.
+
+00:08:19:49 - 00:08:46:19
+不明
+Perfect. So, as you heard, there was a lot that went into ultimately achieving this spin off and this really true martech transformation. And that Sullivan team was able to achieve it. And I think critically, as you went through this process of solving time and E, y and Adobe together journey down this path, we kept three main goals in mind, and it really anchored us as challenges came up.
+
+00:08:46:19 - 00:09:14:02
+不明
+As changes came in to solvent them, as they were standing up their organization that was modernize and simplify technology. Adobe, as a holistic solution allowed them to achieve this. The second is transform branding and content, not just how do we make it look better, but how do we create a new tone of voice? How do we bring that to life, and how the different business groups that solvent Om has talked to their customer?
+
+00:09:14:02 - 00:09:33:10
+不明
+They each have a different way of approaching their customer base that needed to be achieved as part of this process. And then finally, this is the foundation. So how do we set a strong foundation for business growth of the future? This was the first phase of realizing the new solvent journey. But there's a lot to come. Years ahead of them.
+
+00:09:33:23 - 00:09:54:23
+不明
+So how do we create the right base and the right foundation? So that way those goals and those business objectives can be realized. So a lot, right? You heard it in the video. There were a lot of people who talked, a lot of players in this space. There were a lot of challenges to solve. In the core, we had new business, new organization, new skill sets that change management.
+
+00:09:54:30 - 00:10:15:20
+不明
+That was a common thread and a core principle of this program. How do we bring everybody along on this journey? How do we make sure they're trained? They understand the solutions and that they have a voice in the creation of those solutions. The next is branding new tone of voice, making sure that all of that comes together and we have an eight month timeline to do that.
+
+00:10:15:25 - 00:10:45:40
+不明
+So how do we bring everybody in? Move quickly, move agile, and ultimately realize this in that tight timeline. The next is new site architecture, right? You heard about the new technology that came into play, five new platforms. We also had to migrate a lot of data assets, products, pages. All of that had to come together as we were standing up, a new organization, a new brand, a new technology.
+
+00:10:45:45 - 00:11:02:15
+不明
+All right. So let's talk about that bigger picture. So I mentioned a little bit ago that we had to launch our new website with the launch of our company. And we dubbed it the corporate MVP because it was a handful of corporate pages, you know, cookie consent, legal pages, all the things you need to stand up a website.
+
+00:11:02:20 - 00:11:30:29
+不明
+But behind that sort of playful moniker were a lot of the building blocks we needed for Project Sunrise. So with our corporate MVP, we established a new design system that took the new solvent Home brand and translate it into the components that would display our visual identity. It established our Com core tech stack up with AMD sites and assets for our content management with Adobe Analytics, and launch for our data collection.
+
+00:11:30:34 - 00:11:55:48
+不明
+With security is our cookie consent with Eloqua for our forms for lead capture as well as contact us. Very important initially with our with our new spin. And then finally Algolia as our initially very basic internal search functionality, which became a much larger part of our Project Sunrise activity. The other thing that a corporate MVP did is it allowed us to learn.
+
+00:11:55:53 - 00:12:11:56
+不明
+So we see up here is 38 countries. So we launched in the United States. But very quickly we needed to globalize. And the reason it was important that we globalize quickly was because this was the first step of our brand. This said, hey, customers around the world we saw then Tim, are still going to be there for you.
+
+00:12:12:09 - 00:12:35:51
+不明
+Even though we've spun off from 3 a.m., a huge, important touchpoint and with that allowed us to do is really understand this is the technology, this is how it scales so that we could understand multi-site management, how we needed to structure our content so that ultimately, when we needed to do it for the full site experience, we had already learned quite a bit about how we go about doing that.
+
+00:12:35:56 - 00:12:56:22
+不明
+From there we had Project Sunrise. Now the thing about this is we were quite literally launching, globalizing and scaling all at the same time. This slide makes it look very simple, but the reality of any of these projects is very messy. So we had our corporate MVP, which gave us those building blocks with Project Sunrise. We were scaling those.
+
+00:12:56:22 - 00:13:16:54
+不明
+We were taking those. That basic second site experience who were saying, all right, we need to incorporate product data. We need to incorporate our dam assets. We need to incorporate our learning experience so that we can create the type of experience that's going to enable us, to meet our customers where they are. And we'll talk a little bit more about how we did that down the road.
+
+00:13:16:58 - 00:13:39:20
+不明
+And then finally, we needed to take this initial site experience, larger site experience, which we launched in September, and take that around the world so that we could meet our TSR exit. And one of the really cool things that's happened, even just in the last couple of weeks, is we've enabled our product catalog to go live around the world in all of our different supported countries, so that we can meet that TSA exit.
+
+00:13:39:25 - 00:14:03:58
+不明
+But underpinning that very fast paced timeline, was our new tech stack. And admittedly, this is one of the really fun parts of this project. We needed to establish a new tech stack. But in a very curious way. So we were operating what I like to call radical uncertainty. We not only did we not know what the name of the company was.
+
+00:14:04:03 - 00:14:30:04
+不明
+We didn't know where we were going to focus as a company. Where are we going to have a large central organization? Were we going to be extremely decentralized? Which businesses were going to take priority? We didn't know. And so how do we approach creating a tech stack within that environment? Ultimately, we focused on sort of three adjectives flexibility, simplicity and scalability.
+
+00:14:30:09 - 00:14:55:10
+不明
+Flexibility was really important, for us because we knew having worked at 3 a.m., how important it is for each line of business to be able to do what they need to do, even if they're sharing a common platform. We needed to enable each line of business to have a customer centric experience. And so from the start, it said, how can we be flexible to enable those types of customer experiences?
+
+00:14:55:15 - 00:15:17:39
+不明
+Simplicity. Because again, we didn't know how we were going to change or evolve. And by starting simple, it meant we weren't locked into any particular technology set. So we could change if we needed to, but also if we didn't have the capability to maintain highly customized, development work over time, we needed to keep it simple. And then finally scaling.
+
+00:15:17:43 - 00:15:36:29
+不明
+We have lean teams we did at the start and we continue to have lean teams. We're managing global footprints and large volumes of content. We needed to equip our teams with the ability to manage all of those things without adding scale to our headcount.
+
+00:15:36:34 - 00:16:09:29
+不明
+So, as Ruthie mentioned, for business lines, right, health information management system, dental solutions, medical surgical purification and filtration. So each of those businesses communicate with their customers very differently. So that custom framework driving to that strategic goal to allow each business to reach their individual outcomes, underpinned everything that we did. When you think about dental solutions, right, they're talking to orthodontists versus a purification and filtration, radically different consumers.
+
+00:16:09:34 - 00:16:42:29
+不明
+But at the same time, we needed a common framework, common tech SoC, that allowed that flexibility. The agile ness that marketers need to change and how they're communicating, how they're talking to their customers on a daily basis. So we routed our team and a couple of very specific ways. We wanted to have a dynamic mindset as we approach this, but it was very important for us that we had specific owners of each of the technologies, each of the business groups who were empowered to make decisions on their own.
+
+00:16:42:34 - 00:17:02:59
+不明
+So that way we didn't have to go to a committee. We didn't have to go to top leadership. It allowed each of those owners to feel like they truly owned that technology, stand behind the work processes that they were developing, and the solution that was going to drive that business forward. The next is we did have regular top down communication.
+
+00:17:03:00 - 00:17:30:35
+不明
+There were 300 people involved in this program at its peak in eight months. That's a lot of people. It's a lot of comms. So making sure that we had regular touchpoints with the executive leadership, with the individual tech stack leadership, that that was getting disseminated out to the individual groups, the business teams, that there was a feedback loop that allowed for that funneling to come back was very important to our program, but it wasn't necessarily an opportunity for them to make a change.
+
+00:17:30:35 - 00:17:55:41
+不明
+It was to allow them to have a voice right, to understand what was happening and be a part of the solution, and not told what the solution was going to be. The third is making sure that when we think about these decision makers, right, that they may have a team behind them, but as they were empowered to own this, that they truly had that voice to stand up in calls and say, this is why we're making the decision we're making.
+
+00:17:55:46 - 00:18:24:38
+不明
+So it wasn't an individual person saying why that decision was being made. It was those individual owners owning that decision. So that ultimately allowed us to be extremely fast and agile in our delivery. And it reduced conflict by having those individual leaders be able to talk to each other, to be empowered on those decisions. They were able to work a little bit more collaboratively with each other to realize that delivery.
+
+00:18:24:43 - 00:18:49:55
+不明
+So let's talk about architecture, right? We've talked a lot about change management. We've talked about the solution. We really wanted to create a very strong foundation. Each of these four business groups had to feed into this architecture together. We wanted one Common Core architecture for all these business groups. We used work front to help drive some of the asset management processes that drove into the CMS solution.
+
+00:18:50:00 - 00:19:21:29
+不明
+Critically, we used a new PIM system with a robust search solution to allow us to create dynamic PDP pages. So instead of each page having to be authored, we created a dynamic content experience within the overall site structure. Within the CMS, we built core templates, core features, but we also allowed flexibility by business group. So how has created a PDP page was different than purification infiltration?
+
+00:19:21:34 - 00:19:46:15
+不明
+So we gave that level of flexibility in the architecture as we built it. And then finally for digital learning, excuse me, our key piece here was we wanted that to be integrated into the solution before. So then it was a standalone website disaggregated from the full solution. Now it's headless. It's part of the journey. It's part of the customer experience.
+
+00:19:46:15 - 00:20:08:40
+不明
+And that was a critical piece for expanding how consumers engaged post-purchase, or how consumers could come in and learn about the products or learn about the solutions, gain critical learnings for their industry, but be a part of the solvent honeycomb experience.
+
+00:20:08:45 - 00:20:36:18
+不明
+So when we talk about reduced complexity in this architecture, it's not a super simple architecture. The previous page made it look very lightweight, but we really looked at how do we look at technology lifecycle. How do we look at creation lifecycle. Ruthie's going to go through the content creation lifecycle in depth. But when we look at the technology lifecycle specifically if we look at product data it starts with snowflake.
+
+00:20:36:23 - 00:21:02:28
+不明
+That's where a lot of their product data is housed. That drives into a key new that allows us to enrich that product. Algolia, which drives dynamic content feeds and dynamically to AMP, gets updated without a lot of rework, a lot of touch, and then am where all of that comes together and is realized. When we look at content creation a little bit different, we start in Figma.
+
+00:21:02:33 - 00:21:33:38
+不明
+We created really robust templates in Figma that allowed people to create the pages there. Start from that point where there's a lot of familiarity. Bring that in to work front. Work together to create assets. Bring all of that together. A big the updates that needed to happen, and then ultimately realize that within that and experience. So each of these lifecycles were critical to the process, development and ways of working for the solvent and team.
+
+00:21:33:43 - 00:21:47:13
+不明
+Okay. So let's talk a little bit about what this technology stack and the technology flows that Alex talked about enabled. First I'm going to talk about the space overall. Then we'll dive into content. And then we'll wrap up with the demo.
+
+00:21:47:18 - 00:22:16:28
+不明
+We wanted to with this with our technology stack to lead with the user and the customer experience. All of us had been through experiences where a specific technology drove the user experience, or UX and marketing teams were sort of relegated to this one area that they could customize right? We wanted to create an experience where content creators could grab data from any one of our platforms to create experiences that made sense for our users.
+
+00:22:16:33 - 00:22:43:32
+不明
+To give an example of what this might look like. The authors in our current system, they can grab product data from the PIM, display it on a marketing page that also pulls content from the blogs that we migrated into ATM. Or they can take dam assets and PDFs and display them and dynamically created product detail pages, but then also inject content in the most recent event or an upcoming product that we might need to have.
+
+00:22:43:37 - 00:23:10:07
+不明
+Why is this so important? You know, at the beginning we talked, we showed the mission enabling better, safer, smarter health care for all. Are we creating products? No. Are we directly interacting with health care professionals? Nope. Not doing that much either. But what we are doing is we are there. There. Go to stop for information online. When somebody needs a product spec, they come to our website.
+
+00:23:10:08 - 00:23:31:21
+不明
+If somebody needs to know the indication for a product to say, can I use this on this patient? They come to our website. Somebody needs a PDF that reminds them, here's how I use this dressing on a patient, because I need to train my teammate. They come to our website. So being able to create the experiences based on each of our different audiences, our customers, was so vital.
+
+00:23:31:26 - 00:23:56:28
+不明
+And so we wanted to give them the flexibility to do that. Now operating in this manner is it's difficult. It's new. It requires a different way of working. You can't take the original silos, and work in this way, because quite frankly, if you're going to inject product data from the PIM onto a campaign landing page, you got to pay attention to what that product data is doing in the PIM.
+
+00:23:56:33 - 00:24:20:58
+不明
+So with this new way of working and throughout the the Project Sunrise journey, our content teams and our product data teams and our content management teams, they were all coming together to say, how do we make this a good experience when we're designing our product detail page? It's bringing these teams together to say, okay, this is what we want it to look like from a customer, from perspective, from a business perspective.
+
+00:24:21:03 - 00:24:40:54
+不明
+We've also got the PIM folks going, here's the fields. We have to make that possible in either here's what we need to add to our fields, or here's how we need to change the data within it to bring it together. This is pretty fantastic. And what's been really cool is to see how the teams have evolved post Project Sunrise.
+
+00:24:40:58 - 00:25:01:01
+不明
+One of the things our leadership has done from day one is say you are empowered to make decisions. You are empowered to move. And with that has come an extra level of collaboration with teams. Teams have come together to say, hey, we're not going to work the way we used to work. We're going to work in this new way because we want to come together to make a better experience.
+
+00:25:01:06 - 00:25:28:41
+不明
+All of that evolved as we came in. We came through this content transformation journey. So as much as I love to talk about the technology because martech, it's great. Equally important and challenging was the content transformation we went through. We had a full site experience on our sam.com, web presence that we needed to take rebrand and say, how do we put this into a way that is specific to our new health care company?
+
+00:25:28:46 - 00:25:52:49
+不明
+We are now a med tech company. What does that mean in terms of how we present content? And so in throughout the process, we touched so each 150 pages to rebrand them, to get them ready for our new solvent, to experience how we did that. Alex talked about how this whole process and the way we were successful is very much rooted in our teaming.
+
+00:25:53:04 - 00:26:15:00
+不明
+And this is one way where it really came to life. So the UI team came together with our digital experience teams to create a process that would allow them to efficiently co-create, review, and get content ready to go in parallel with all the stuff we were doing on the tech side. Specifically, what that looked like is they started with our information architecture.
+
+00:26:15:03 - 00:26:47:24
+不明
+They said, okay, here's what this looks like. Here's what it started with, with corporate MVP. Here's the brand inputs. Here's how we're going to expand it. Talking with our portfolio marketers, our segment marketers to make sure that we were putting on our website the most important things, along with that information architecture, of all the things that we needed to highlight, included, hey, here's the page types that are going to be important along the customer journey to get people what they needed for each page type it was here's what, here's what a customer's trying to do.
+
+00:26:47:29 - 00:27:06:00
+不明
+Here's the layout. Here's the information. Here's the components that are going to make that happen. And this is where the magic happens because they were doing all that work up front. They could say this is the this is the technology and the capabilities we're going to need that's currently missing, not just for one off ideas, but across our businesses.
+
+00:27:06:05 - 00:27:40:52
+不明
+And so they were able to say, these are the things that we're going to need to get our tech team started on expanding our component library. They were also able to take this basic framework and turn it into a number of templates that could then be used to guide the content creation process. As we went through. All this came together in the form of new Figma templates and a Figma component library expansion, so that teams could be creating the new experiences, working with the marketers, working with the content creations.
+
+00:27:40:57 - 00:28:04:55
+不明
+While we were doing all the stuff on the side, while we were setting up the PIM, while or setting up all the new damn assets and getting it ready to go, they can keep moving. On the content side, they could move it into work front, go through routing and approval, get legal, get compliance. One of the cool things was that we took our previous routing and approval process using work front from three.
+
+00:28:05:00 - 00:28:38:04
+不明
+So the good news is we didn't have to reinvent that because that would have been the nightmare. They were able to continue to do that, move forward with the content, and then essentially all came together with our launch in early September. We're going live with our new experience, to bring to customers. Hey, here's here's the solvent experience that's going to allow you to engage with us as a customer going forward, that's going to allow you to do all the things you used to do on am.com, and more so we could get off of them early platforms.
+
+00:28:38:09 - 00:28:57:43
+不明
+Yeah. And I think critically, as we think about content creation, right, there was a lot of tech development that was happening in parallel. So we were having regular collaborative communication. A lot of times you do content and design before tech. We were doing it in parallel with TAC. So that meant that the tech team had to be very agile.
+
+00:28:57:43 - 00:29:25:21
+不明
+And how we created data maps as an example, up into a, from our Algolia system. Right. We were getting new product changes. We were doing data cleansing all along this journey. And so there was a big feedback loop that was happening on a weekly basis, sometimes multiple times in a week, to make sure that the content that was being created, the information that was needed from that perspective, all tied back into that marketing technology solution.
+
+00:29:25:26 - 00:29:51:25
+不明
+So we're going to spend a little bit of time here. Now Ruthy is going to walk through a quick demo of the site and really walk through how this comes together as we look at, the site itself, how does the technology empower the experience that you're seeing within the live site today? Okay, so for this live demo, I'm going to use one of my favorite products.
+
+00:29:51:30 - 00:30:13:32
+不明
+And first I'm going to tell you why it's one of my favorite products is really cool. If any of you guys had fluoride treatments as a child, you may remember these big blue things that went into your mouth that they coated with fluoride and you had to sit there for a couple minutes. And as a child, that was sort of I mean, it's memorable to say the least.
+
+00:30:13:37 - 00:30:37:55
+不明
+I have a two year old who recently went to, her two year well-child checkup at the doctor. And while at the doctor, they painted her teeth with this cool thing called Clean Pro. It took 30s. No fuss, no muss. Amazing. This is one of the cool things that. Oh, goodness. Oh, thanks. It's on the screen down there, guys.
+
+00:30:38:00 - 00:31:03:12
+不明
+This is one of the cool things that we as solvent. Have created in order to do that thing that I said earlier, which is changing patients lives and improving things for the better. Okay, so that intro and we're going to go and take a look at preventative dental care. Right. Makes sense. So I talked a little bit about how we had utilized templates in order to help streamline and make efficient.
+
+00:31:03:12 - 00:31:29:13
+不明
+So these templates both brought our brand template and our sort of brand presence to life. As well as making it easy for us, to go through the content creation process. So this is one of our dental pages. And the first thing we're going to see, after some, some intro content, and some jump links, of course, are these little product teasers.
+
+00:31:29:13 - 00:31:55:12
+不明
+So folks who are familiar with Am, you'll recognize the teaser. These guys are pulling content directly from our from our PIM. This has a couple of implications. The first is it eases the lift on the authors of these pages because they don't have to rewrite the content. Another thing it does is it keeps us with a consistent source of truth for our product data within our PIM, so we don't have to keep track of what did we say about Clin Pro in this place?
+
+00:31:55:12 - 00:32:18:25
+不明
+What do we say about Clin Pro in this place? What do we see over here? When an indication change we changes in one place? The other cool thing about this is our PIM. Our PIM data has already translated. They've done a lot of work over the years to keep it localized, which means when we take this page and we bring it around the world, we don't have to worry about translating or reviewing the content within these teasers.
+
+00:32:18:25 - 00:32:50:47
+不明
+It gets updated automatically. I'm going to come back to Pro in a moment, but first we're going to scroll down the page and I apologize. Alex and I have opposite scrolling habits. I scroll the other way. All right. Okay. So one of the cool things that I just fell in love with a, is experience fragments. These things are amazing when you're managing lots and lots of content, and the reason they're amazing is because you have sections like this which you want to keep on all your pages.
+
+00:32:50:47 - 00:33:13:23
+不明
+They're handy. Right? You can put them everywhere. This is I know some people are chuckling. They're like, well that's why Ian's cool. But like this is a mind blower for me okay. We're going to keep scrolling down. This right here is our blog content. So by pulling our blog content out of WordPress and putting it in em, it meant that on pages like this, we could be displaying our blog content.
+
+00:33:13:28 - 00:33:31:48
+不明
+And importantly, we could keep it updated with the latest posts. Or we could use tags so that it was relevant to whatever product. We were talking about. And then finally, the thing I want to showcase on this page, because it was a big part of what we brought to life, was Project Sunrise. It was our form capability.
+
+00:33:31:53 - 00:33:53:55
+不明
+We needed to enable our businesses to take a many to one form strategy, both within Eloqua as well, within a, so that teams didn't have to manage forms on every single page. And so that when somebody needed to make a change, maybe they wanted to change industry, they wanted to add something to the drop down field.
+
+00:33:54:00 - 00:34:25:23
+不明
+They could do it in one place and update it across forms. So this is powered by experienced fragments. And so far it's proved to be a pretty big game changer in terms of how we replicate and go live with our countries. So as you could hear, you know, just from this discussion, right, the dynamic capability of how we created these pages, the ability for a lot of this to come through from external systems and not be self-managed, was a key part and parcel of this being done in eight months.
+
+00:34:25:28 - 00:34:49:41
+不明
+What it also meant is that Rajeev, who's sitting here in this crowd, who's our architect, had to be very adaptable in this whole whole refrain, as we defined what that content was going to be on the page and how that changed the architecture that we were building and importantly, the the setup that we had combined, sort of the traditional nature of a CMS for people to create those tailored experiences.
+
+00:34:49:46 - 00:35:08:00
+不明
+But it also allowed us to do the scaling that headless enables you to do. So this is one of those dynamically generated PDP pages that we were talking about. So all the data that you're seeing here is pulled directly from the PIM and the links to our dam. This is going to be crucial because we're about all this says 3 a.m. on it.
+
+00:35:08:00 - 00:35:26:07
+不明
+We're not solvent. We're going to have to go through the process of updating all of our assets to be solvent. And when we do it in the dam, because those links are already available in the PIM, again, we do it once. Where to buy? Big deal. For some of our businesses. Not everyone. So this is interesting.
+
+00:35:26:07 - 00:35:42:54
+不明
+In the medical business, we don't care about where to buy because we're talking directly to our hospitals. But in the dental business, it's really important that we have where to buy and that it's associated with all of our products. So this is one of the sort of things that we had to incorporate and think about as we were going through.
+
+00:35:42:55 - 00:36:01:36
+不明
+How do we accommodate all these various use cases? All right. Now this is pretty cool. So I mentioned earlier that we have the ability to inject content, to our dynamic pages. We actually have rich content displaying in two ways. The first one is what we see here. So this is actually rich content that's stored in the PIM.
+
+00:36:01:40 - 00:36:22:25
+不明
+Why are we storing rich content in the PIM, you ask? The answer is because we also use PIM for syndication. So content like this is really important for us to push to our distributors. Because they want to also show robust information. We've taken that data, transformed it to display via m components so that it fits the look and feel.
+
+00:36:22:30 - 00:36:47:04
+不明
+And our PIM folks no longer have to hardcode HTML in our PIM. Little bonuses as we scroll down the page. We're going to see some things that are just coming straight from the PIM. We're also going to see sections like this. So this is, a crucial piece. We need to be able to display assets and resources from our dam into our product detail pages, because this is what's relevant to our customers.
+
+00:36:47:06 - 00:36:50:55
+不明
+This is the type of thing they're looking for.
+
+00:36:51:00 - 00:37:11:27
+不明
+This section right here is an experience fragment. We enabled this because we knew that there was going to be things that didn't make sense in the PIM. This sort of information doesn't make sense for us to push to a distributor, but it does make sense for us to put it on a PDP to bring it to life. We enable the capability and I still think this is magic.
+
+00:37:11:27 - 00:37:32:28
+不明
+Rajeev. We can put it on one page. We can put it on a line of products within our portfolio, or we can put it on an entire category of products, which enables us to scale very quickly. And again, we can update it once and it updates in all these different locations. The last thing I'll show on this page is there's that form again.
+
+00:37:32:33 - 00:37:56:44
+不明
+This is so cool. We have this experience fragment. We're putting in all the things. But here's the extra magic of it. We have metadata that says this is what this pages. Any tracking codes that were from this page, any of the things that the marketers need to know when they're pushing that eloqua data into Salesforce. We bring it along so that we can send additional information about what a customer was doing in our site.
+
+00:37:56:49 - 00:38:01:32
+不明
+Before we leave, I want to show you one more thing.
+
+00:38:01:37 - 00:38:23:08
+不明
+We created our system so that we could we could scale. And scaling means a whole bunch of different things. We hear it all the time. We got a scale. We got a scale. Scaling might be we need to go global right. So we loading. But scaling that also mean our business is doing new things.
+
+00:38:23:13 - 00:38:31:05
+不明
+Our business needs to grow. Now here we go.
+
+00:38:31:10 - 00:38:52:17
+不明
+So then sum, like many other companies, has a suite of brands that get elevated. They get they get extra special treatment because they mean something special to customers. Littman was our first elevated brand to get its own web experience. One of the things that we did with this project was to say, okay, what if we use all of this?
+
+00:38:52:26 - 00:39:13:57
+不明
+All of this infrastructure, we built a solvent them and we enable other brands. So with lemon, this is the first time we took our basic components structure our templates, applied it to a new brand with a new look and feel, so that we could enable the Whitman team to go above and beyond for their customers. From a maintenance perspective, we want to keep these as tight as possible, right?
+
+00:39:13:58 - 00:39:27:24
+不明
+We don't we don't want to have a whole bunch of components for every single brand. But at the same time, we want to enable our brands to be able to do things differently. So as an example, our Litman folks.
+
+00:39:27:28 - 00:39:42:49
+不明
+It is imperative that people be able to find their products. That's one of the reasons they come to their site. And so as we've been thinking about our infrastructure and our growth, one of the things we do is we say, hey, lemon, yeah, you do need a custom component that's going to be part of part of what you do.
+
+00:39:42:54 - 00:40:09:36
+不明
+So and I'm super excited about what we did, partly because we, we, we pulled it off like holy smokes. Like that's amazing. But also partly because it's going to set the stage for us to grow in the future. And we've got a lot of cool stuff to do. Yeah. Yeah. And you know, as we look@whitman.com, this has been also an area where we set the foundation for these other standalone brands.
+
+00:40:09:36 - 00:40:31:07
+不明
+Right. So how do you quickly roll up in a couple of months, couple of weeks depending on what we're talking about, a whole other site, whole other domain, a whole other experience for these individual brands, acquisitions, considerations for how you want to grow in a market. So all of this sets that foundation for solvent, to grow holistically.
+
+00:40:31:12 - 00:40:55:43
+不明
+So thank you for joining us here today. But we want to open the floor. If there are any questions here. I know we have about 15 minutes left. There's a lot that went into this program. We only scratched the surface. But it was a very big teaming effort, a great collaboration powered by technology driven by people and ultimately realized by a joint group of solvent, e y and Adobe.
+
+00:40:55:48 - 00:41:00:18
+不明
+Thank you. Thank you all. We did it.
+

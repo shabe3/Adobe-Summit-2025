@@ -1,0 +1,480 @@
+00:00:00:03 - 00:00:23:09
+不明
+All right. I think we'll get started. Our mikes are live here, so, thank you all so much for joining our session today about Mark, how to engage fundamentals and your path to marketing excellence. So we're going to start just obviously by introducing ourselves. So my name is Chiara Riga Zao. I am a five time market champion.
+
+00:00:23:22 - 00:00:53:27
+不明
+I was champion of the year in 2021. I'm also an Adobe subject matter expert and Adobe Credentials Advisor, which were titles that were given to both AJ and I. For helping to write these certification exams. And a bunch of exams between the two of us that have been written. I am a marcato certified expert and have been in the tool for just about a decade, and I'm currently working as a senior marketing operations manager at a portfolio.
+
+00:00:53:32 - 00:01:17:51
+不明
+Pretty impressive introduction. Chiara. So hey everyone, I'm AJ supply, I'm based in Bangalore, India. I'm six times market champion and five times Adobe's subject matter expert. And this title, like Chiara mentioned, is given to those who are actually building and enhancing this certification and mainly writing these certification exam questions. So in addition to this, I am Adobe's Community and Credential Advisor.
+
+00:01:17:56 - 00:01:40:11
+不明
+I'm Marketo Certified Solution Architect with 15 years of experience in Adobe Market to engage and I'm also co-leading Virtual India, marketo and Marketo Major User Group. And I'm founder and CEO of unicorn MarTech. Awesome. RJ always, shows me up on these things. All right, so let's set the stage for what we're going to be talking about today.
+
+00:01:40:11 - 00:02:06:37
+不明
+So the problem we want to solve here is that marketers today have an avalanche of data, more data than any of us could hope to manually look through. And at the same time, personalized experiences are more important than ever, and it can be hard to maximize the Marketo engage investment. Because, as we all know, Marketo is not the most self-explanatory tool in the world.
+
+00:02:06:50 - 00:02:31:51
+不明
+So the solution we're hoping to provide you all with today is to show you how Marketo empowers you to orchestrate data driven campaigns. We want to show you how to, achieve better ROI with Marketo using advanced automation and workflows. And we want to give you all of the knowledge and strategies to succeed. So this is going to be a really kind of technical session less than, thought leadership.
+
+00:02:31:51 - 00:02:57:28
+不明
+We want to really give you kind of the tools to go out and apply some of this in your day to day. So what are we going to talk about? We're going to start with strategies for segmenting your audiences. Then we're going to move into building your lead scoring models, both a basic model and supplemental models. Then we'll get into, measuring and analyzing your campaign performance, how to report in and outside of Marketo.
+
+00:02:57:39 - 00:03:24:31
+不明
+And then we'll bring it all together with a really great case study of kind of how to use all of these together in a campaign, and we'll save some time at the very end for Q&A. So we'll start with segmenting your audience. So segmentations in Marketo are one of the most key, features right. Market. You could run a smart list to find whatever data you want.
+
+00:03:24:31 - 00:03:45:32
+不明
+But if I run a smart list and I want some people who have a title of chief and some people who have a title that contains information, CIOs are going to be in both of those lists. Right. And so how do I make sure that one person only ends up in one list? That is how that is where segmentations come in.
+
+00:03:45:42 - 00:04:14:39
+不明
+So you can segment based on any number of things, right? Market ability, geography, customer versus prospect, etc.. And segmenting can help you create hyper targeted communications if you are using them correctly, which is how we're going to, teach you today. So, first we'll go really quickly through how we create a segmentation. So you're going to go into the database section of Marketo and you're just going to click New Segmentation.
+
+00:04:14:39 - 00:04:36:48
+不明
+Pretty easy right. Then you're going to create all the segments within your segmentation. Remember that order matters. Like I said if you run a smart list, someone could be in two separate smart lists. And the order in which your segments are in is the order in which they will be prioritized for which bucket. If they fall into multiples.
+
+00:04:36:57 - 00:04:56:16
+不明
+So let's say in this example, we're looking at geographies. I don't know how I could possibly fall into both the USA and Africa, but let's say I did in this case I would go into the USA bucket because that is the first segment in the order. So you want to make sure that you are either adding them in order or dragging them dragging and dropping.
+
+00:04:56:16 - 00:05:16:15
+不明
+But this needs to be a key part of your segmentation strategy if you want it to work correctly. Then after that and all of your orders are or all of your segments are in and they're in the order that you want them to be in, you're going to go ahead and click create, and that will give you your segmentation in, database.
+
+00:05:16:15 - 00:05:42:49
+不明
+Excuse me. Then you're going to want to go in and click into each of the segments within your segmentation. And you're going to determine the rules. Now the rules look a lot like a normal smart list. And in a lot of ways there are. But there are some really key exceptions that you want to keep in mind. First of all, segmentations only look for, changes to which segment a person is in.
+
+00:05:42:54 - 00:06:07:49
+不明
+If there is a data value change. So using filters like in past, in past, before, in time frame, those aren't actual data value changes, right? It's just time moves on. And that is what causes people to qualify for those filters. Therefore, using those in segmentations is not actually going to result in people moving within your segmentation, within your segments.
+
+00:06:07:49 - 00:06:32:15
+不明
+So that's the first really big call out that I've seen a lot of people got stuck on. Next one is that CRM filters are not available in segmentation and account level filters. While some are available, they are not recommended. So aside from those exceptions, you are building a smart list in order to determine who goes into which bucket.
+
+00:06:32:20 - 00:06:51:31
+不明
+So once you've created all of your smart lists, you've shared it. You've had at least two other fresh pairs of eyes look over it and you're certain that it's great. You're going to click approve and you want to remember that this can take a long time, depending on the amount of records in your database and how complex your rules are.
+
+00:06:51:36 - 00:07:15:34
+不明
+This can take hours, right? So you want to make sure that you are not approving a segmentation at 9 a.m. and expecting an email to go out based on that segmentation at 930. I think best practice, you know, this is the lowest priority in terms of marcato processing is running these segmentations. So you're going to want to, I think best practices running it at the end of the day or over a weekend.
+
+00:07:15:34 - 00:07:42:34
+不明
+So give it time to, settle. So segmentations are great, but what can we do with them? First of all, I mean smart list filters for emails. And those are basic. We're probably all using some form of segmentation for marketability and using that as a filter in our emails. And that can be really helpful. But there's some things that our game changers, I think, when it comes to segmentation that aren't as often utilized.
+
+00:07:42:45 - 00:08:16:44
+不明
+The first one is dynamic content. So dynamic content allows you to send one email, blast in Marketo, and have different content show up depending on what segment people are in. In the specified segmentation right. So let's say I want to send an email that talks differently to VP and above than I do for practitioners. If I have a segmentation based around that, I can go to any element within an email or landing page in Marketo, click Make Dynamic.
+
+00:08:16:49 - 00:08:40:06
+不明
+Choose which segmentation I want to use, and then when that email deploys, or when someone goes to that landing page, they are going to see whatever I have chosen as relevant to their segmentation. So it allows you to purchase or their segment, excuse me, within that segmentation. So it allows you to personalize at a much bigger scale. Then we have snippets.
+
+00:08:40:06 - 00:09:08:34
+不明
+And snippets are reusable blocks of dynamic content that work functionally. They same way they live within Design studio. But they can be inserted into all sorts of emails. And so one, example of this that I did at a company that was really impactful was I created a snippet. We were really focused on driving attendance to in-person events, but we didn't want all of our emails to just be come visit us at this event.
+
+00:09:08:45 - 00:09:37:52
+不明
+So I made a snippet based off of geography. Then for each, based off of a geography segmentation. Then for each segment, I chose the top event that applied to that geography, and I put that event into that, snippet for each segment. Then that little snippet was put at the bottom of all of our emails, and we were able to send a personalized, you know, we are sending our normal marketing anyway.
+
+00:09:37:52 - 00:09:59:11
+不明
+And at the bottom, hey, by the way, you're in this region. Why don't you come see us at this event if you're going? And then when an event finishes, I just have to go once into design studio, change that out in my snippet and I'm able to that's going to apply to every asset using that snippet. And it's personalization at a huge, huge scale.
+
+00:09:59:16 - 00:10:22:04
+不明
+One thing I do want to call out, especially for dynamic content that I've seen people trip up on a lot. If you clone a asset that is using dynamic content, it will continue to be dynamic in the new location. So make sure if you have it in program templates, you are making everyone who uses those templates very aware.
+
+00:10:22:04 - 00:10:48:20
+不明
+I have had emails sent to certain segmentations with, tests and you know, lorem ipsum. So just keep that in mind. But otherwise these are really hugely powerful tools for personalization at scale. And I wanted to give some ideas as well for some key segmentations that could really help you get started on your personalization at scale journey, marketability.
+
+00:10:48:20 - 00:11:16:24
+不明
+Like I said, that's a pretty basic one that most Marketo instances will have. But then think beyond that. What kinds of ways you want to personalize your content, right? Do you want to personalize it based on persona? I would guess that is sea level and an individual contributor are going to read their emails very differently. And so having a segmentation for that allows you to, make your content dynamic based on that customer versus prospect is another really great one.
+
+00:11:16:29 - 00:11:38:19
+不明
+Industry by geography, like I talked about in the events example there, the sky's the limit here. These are just a few examples. But really think about for your business what are the different buckets that are relevant. And start thinking through how you create those segmentations. Now segmentations in Marketo are limited, so make sure that you're not just creating them for the sake of creating them.
+
+00:11:38:30 - 00:12:11:24
+不明
+And you know, put some thought and some strategy behind it. Most of the work with segmentations happens outside of Marketo. That is, Marketo is just the application. So moving on from segmentation. Let's talk about building a robust lead scoring model. So there we go. First of all we'll talk about building a scoring framework. So you're going to want to use a combination of quantity and qualitative data in order to develop your initial framework.
+
+00:12:11:31 - 00:12:36:23
+不明
+The quantitative data is going to be analyzing your opportunities. Your closed one deals your customer counts. And seeing what those people are interacting with that is leading to that closed one business. That opportunity created. Whatever it is that you are looking to achieve, right. But that can't live in a silo because the lead scoring information gets sent to sales.
+
+00:12:36:23 - 00:13:00:28
+不明
+And if sales doesn't buy into the model, you can have the most data driven model in the world and it's still not going to be successful. Right? So you want to take also that quantitative data from sales and make sure, you know, do they think this one piece of content really doesn't work even though the data shows otherwise understand why have those conversations and make sure that that is taken into account when you're building the framework.
+
+00:13:00:32 - 00:13:27:20
+不明
+And like I said, sales are the people who are actioning this data. So you want to make sure that you involve them very early on in the process. Make sure they are bought into the idea of a scoring model. Make sure they are bought in at every iteration because they are your key partner. In this. I like to think of lead scoring as the best way for us to communicate with sales about our leads that we are working together.
+
+00:13:27:25 - 00:13:53:38
+不明
+Another thing you want to really think about is negative scoring, right? I'm talking about behavioral scoring and, you know, filling out forms and things like that. We all know that's a positive indication. But what are those negative indicators. Is it visiting your careers page. Is it unsubscribing from an email. Is it visiting maybe a, strategic partner focus page that's not intended for your customer.
+
+00:13:53:42 - 00:14:18:25
+不明
+Right. Think about those things as you're developing your scoring framework. And then you want to agree on a cap and a decay. So when you think of a scoring cap, if if my scores are unlimited, then what does the score of 70 mean? Right. But if my score is limited at 170, means they're about 70% engaged compared to the rest of the audience.
+
+00:14:18:25 - 00:14:39:23
+不明
+Right? So you want to think about what that cap looks like. That's a business decision that you'll make. I like that 100 to keep it a clean percentage, but it can really be anything. You just want to make sure that it's not allowing people to gather so much score that even once you start degrading scores, they still stay so high that they look still engaged.
+
+00:14:39:23 - 00:15:00:51
+不明
+Right. And then in terms of scoring decay, if someone filled out like seven forms, three years ago and then you never heard from them again, do you think they should still have the score of three years ago? No. Right. We want this to stay, not just point in time data. We want it to be as accurate and current as possible.
+
+00:15:00:51 - 00:15:28:32
+不明
+And so you want to think about maybe every three months that they don't engage with us. Let's take away a certain amount of points. Right. Whatever makes sense for your business, but it's something you want to consider. And then lastly, agree on the SLA for each team and make sure everyone is agreed with and bought into their role in the in this process that sales and marketing and buyers and whoever else might be involved.
+
+00:15:28:32 - 00:15:48:20
+不明
+Right? Because like I said at the beginning, you could build the best model in the world, but if not everyone's bought in, it will fail. So let's go really quickly through how we create a scoring framework in Marketo. Similar to segmentations, 90% of the work for this is done outside of Marketo. Marketo is just the vehicle that gets it done.
+
+00:15:48:20 - 00:15:57:09
+不明
+So first you're going to create a, operational program that's going to house all of your scoring campaigns.
+
+00:15:57:14 - 00:16:09:59
+不明
+Then you're going to create tokens that correspond to the framework, that you defined, and you're going to want to create those within that program.
+
+00:16:10:03 - 00:16:32:39
+不明
+Clicker doesn't want to work. And then we're going to, create a smart campaign for each of those tokens so that we can, you know, for each of those tokens, we're thinking about scoring them. Right. Then in each of those, you're going to want to take the trigger or, filter or what have you that corresponds to each activity.
+
+00:16:32:39 - 00:16:55:03
+不明
+So in this example, obviously demo requests is not a real form in my instance. But for for examples sake, if someone fills out that demo request form and they are qualified for scoring, as we have decided, then they can go through this smart campaign and get that amount of points. You also want to think about your Smart campaign settings.
+
+00:16:55:07 - 00:17:14:42
+不明
+Do you want someone to get a point every single time they visit a web page? If they're potentially visiting that web page ten times a day? Maybe not, but do you want them to only fill out a form once and get a point once, even though they fill out a form seven times? Those are all things you need to think about and set at your smart campaign setting.
+
+00:17:14:47 - 00:17:48:21
+不明
+Level. Then in the flow of your smart campaign, you are going to do a change score step, where you are going to find that score that you're changing in this case, person score, and you're going to the change is just going to be that token. And this is really great, because if the score is let's say you are iterating on your scoring model, you want to change the scores instead of having to go find every single Smart campaign where you are changing that score, you change it once at the program token level, and that will apply moving forward for everyone.
+
+00:17:48:26 - 00:18:10:01
+不明
+For every campaign that is using that token. And then lastly, you want to make sure that your life cycle is set up to capture records once they hit your scoring threshold. So in this case, someone moving to 75 points would be considered. And, well, you want to make sure that your life cycle is taking that into account.
+
+00:18:10:06 - 00:18:35:39
+不明
+So that was a very quick, you know how to on scoring. Marketo has a ton of great documentation online if you want a deeper dive, but I wanted to talk to you guys about supplemental scoring models because Marketo has a ton of data, and oftentimes we aren't even thinking about it, never mind capturing that information. So, I'm going to show an example of product interest scoring.
+
+00:18:35:39 - 00:19:06:00
+不明
+But think about other things such as customer scoring. Use case interest scoring, all sorts of things like that. What information is sales often asking you? Right. Are they asking which of their customers are influencers versus detractors? Or are they asking what use cases resonate? Think about those. And those are all great ideas to get you started with a supplemental scoring model, to get a supplemental scoring model up and running, I'm going to use a product interest scoring model as, an example here.
+
+00:19:06:00 - 00:19:28:17
+不明
+So I am selling three. I am selling three products email marketing, data visualization, and content personalization. For each of those products, I'm going to assign a unique code. Now you can see here that I have put both letters and numbers in my code. You don't have to, but what you really want to think about is making sure that the code does not show up organically in the program name.
+
+00:19:28:21 - 00:19:51:01
+不明
+I would guess that the string M probably shows up a lot of places in Marketo, so adding some numbers there can help you, avoid triggering your scoring way more often than you intend. Then you're going to take these codes, and you're going to add them to the corresponding programs in Marketo for each of your products. So you've done an email program for data visualization.
+
+00:19:51:01 - 00:20:14:19
+不明
+You'll put that DV oh two and so on and so forth. And same with any URLs that you want also included in this model. Lastly, you will create a score field for each of the products that you plan to score. And then and you'll create smart lists, just like we did in the last step where we'll listen for a program status changing.
+
+00:20:14:19 - 00:20:45:59
+不明
+And that code, being part of the program name. And you can also add any sort of constrictions that you want, like new status, you could add filters, you could add success rate doesn't have to be within you know, these scheme or webinar. Statuses that I've set aside here. Right. You could just say success in anything containing m01 and then in the flow, you're going to use a, token, just like we did for the last scoring section.
+
+00:20:46:13 - 00:21:10:05
+不明
+I want to call out here a lot of times, and when I've launched product interest scoring, I generally don't think of a form fill for email marketing and a a web visit for data visualization to be showing so much different interest in one versus the other. And so I like to do it as just it's one point for any interaction.
+
+00:21:10:05 - 00:21:28:38
+不明
+And it becomes a count of how many times have they interacted with each product. Now you can be feel free to disagree with me. Right? That's just something that has always been a business choice that I have made in my instances. And then if you want to do the same thing with web, it's the same thing, just the trigger.
+
+00:21:28:38 - 00:21:54:45
+不明
+Based on visiting a web page, you might need to use query string instead of web page, but however you, set up your, website URLs, just listen for that. And again, changing the score using that token. But when we think about a demographic or a behavioral score, you can look at a number and think, you know, that number will tell you something, right?
+
+00:21:54:58 - 00:22:15:37
+不明
+We said 70% of 100 if they have a score of 70. But when I look at a product interest score, what does a three for data visualization mean? I guess it means that they've interacted three times with data visualization. But what does that mean on its own? Not a whole lot, right? The value in this is in the comparison.
+
+00:22:15:37 - 00:22:40:49
+不明
+And so your last step for really being able to assess being able to successfully use this, is to set up a field which probably will be best done in your CRM or other instance, that listens for changes to those scores and compares those scores against each other to surface what their top interest is. So in this example, they have a five for email marketing.
+
+00:22:40:49 - 00:23:11:08
+不明
+That's the highest score they have across all of the products that I sell. So in the top product interest fields I put email marketing right. And then think about the, dynamic content that we just talked about. Create a segmentation based on that top product interest field. And then you can start sending emails, one email based on all of the different, you know, products that you sell using information that you are already gathering on these people.
+
+00:23:11:19 - 00:23:28:04
+不明
+Right? So I challenge you all to take a step further and think about what data you have in Marketo that you might not be utilizing, and try and find an application just like this one.
+
+00:23:28:09 - 00:23:49:15
+不明
+There we go. All right. I will hand it off to RJ to go into reporting. Thank you. Like as always, great insightful details shared by Chiara. So thank you so much. So I'm going to cover two sections. One is the reporting side of it and another one the various automation especially engagement program. But the biggest question is why these are important.
+
+00:23:49:20 - 00:24:11:06
+不明
+Why is segmentation important. Why we need to do lead scoring. Because nowadays it is imperative for being a marketer to earn a seat at revenue table. And what does the revenue table stands for? That means that you are not only just convincing your chief marketing officer, but your chief revenue officer, as well as chief financial officer about the various campaigns which you are going to launch.
+
+00:24:11:11 - 00:24:39:28
+不明
+So that's where the right segmentation, right lead lifecycle model, which is backed by the lead scoring and the exam and the right reporting, will help you to earn that revenue seat, which is nowadays very important. So I'll first take a deep dive on the various reports that we could actually leverage to Marketo. So in this slide we are going to cover from foundations to forecasting mastering Marketo engage reporting.
+
+00:24:39:28 - 00:25:04:42
+不明
+So precisely there are three stages. One is fundamental foundational reporting. And what does that mean. It means just the foundational report. Mainly it shows about email performance report. And you know, it is all about where we are against our target. Let's assume if we have a target of 1000 mql, where exactly we are there. Second one is analytical report and it is all about understanding the performance.
+
+00:25:04:47 - 00:25:30:02
+不明
+That means how our channels are performing. You know, against the cost that we are spending into various programs. So what kind of reports will get into this? So those could be if we someone would like to know that, you know, how many people actually attended the webinar, how many leads are coming from the LinkedIn campaign, and what is the ROI from our all paid campaigns?
+
+00:25:30:06 - 00:25:59:00
+不明
+And third one, which is the most important, and that is where you can actually win the the seat in revenue table is strategic reporting, and it involves predicting and optimizing our campaigns that, you know, it helps us in finding out this specific stage that you know, which campaigns, which channels are working well as compared to other and which one, we could actually use it to upscale our demand generation.
+
+00:25:59:05 - 00:26:20:49
+不明
+And that it is very important nowadays because budgets are sort of restricted and we would like to actually spend our money on those campaigns and those channels which are working well. So there are precisely three ways to get or build report in Marketo. If we go with the standard out of the box functionality one, the first one is Smart List.
+
+00:26:20:54 - 00:26:48:44
+不明
+So we could build various small little an analysis using Smart list in marketing activities within the program and in database. Then we have reports. So reports we can actually find it out in the analytics module as well as within the Marketo program in marketing activities. And then we have the analytics section. So which reports I usually use the most and why.
+
+00:26:48:49 - 00:27:16:42
+不明
+So one is the million site report. And why do I use it. Because it is a fast and flexible tool that lets you explore and visualize your email performance data with various filters and dimensions, as well as in metrics and advanced report builder. That is the new advanced BI analytics. It is a self-service reporting tool that lets you create custom reports and dashboard using data from Marketo and other sources.
+
+00:27:16:46 - 00:27:40:51
+不明
+Performance Insight This is a one click reporting tool that that gives you a high level of overview of your marketing performance across channels, program and campaigns, and segmentation and custom column. So the custom column report is the one that I really like the most because it can help you to get that granular data, which is somehow a little tough to get it.
+
+00:27:40:56 - 00:28:05:06
+不明
+So this is how the Email Insight report looks like on the right hand side, if you see. So the thing is that, you could filter the audience by account list country segment. And, you know, you can also filter it based on the content that is email, program, platform, device and operating system type. And you can add ten custom dimensions.
+
+00:28:05:19 - 00:28:28:52
+不明
+And those custom dimensions are segmentations program tags, etc.. And the colors are very important in this. So green means, you know, a good change, red means a bad change, and gray means no change and everything is being compared against the period that we are going to select it. And by default it shows the analytics sections. But it has two aspect.
+
+00:28:28:52 - 00:28:56:36
+不明
+We could actually use email inside for the send section as well. So using BI analytics to measure the effectiveness of personalization. So this is the new BI tool which is going to replace RC. That is revenue cycle Explorer. And why it is actually important. We if you might have used RC in the past then you know that, it is a bit slow when it comes to processing the reporting in the large data set.
+
+00:28:56:40 - 00:29:24:38
+不明
+So the beauty of this new functionality, which is being launched in this Adobe Summit, is that it takes less time. It is five times faster than the RC. And, you can actually drill down and drill up and drill through and the reporting section and you can export that data, in PDF as well as in PowerPoint. So these are the reports which will be available.
+
+00:29:24:43 - 00:29:51:42
+不明
+These are already there in RC, E and the product team told me that, you know, these reports will be available in the new advanced analytics tool as well. So one is program cost analysis. So with the help of this report, you will be able to see the ROI of your programs. Then the program opportunity analysis that will help you to get more insights on opportunities generated based on distribution, their revenue and ROI.
+
+00:29:51:47 - 00:30:20:47
+不明
+And then you could also use program member analysis. You can see the results by channel participation success criteria, etc. and program revenue stage analysis. So these are the cool reports which I would highly recommend that you should use it. And using Performance Insight to measure the effectiveness of personalization. So how you are supposed to access performance insight, all you need to do is just log in to Marketo and from the main title, click on Performance Insight.
+
+00:30:20:52 - 00:30:55:44
+不明
+And the beauty of Performance insight is that, it can load up to the data from the past 24 months. And this is how the performance insight actually looks like. So by default it shows the data based on the engagement. But you can change the data to pipeline as well as with the revenue. And there are other benefits of using this report is that, you could choose the various attribution model and to calculate ROI, you have two ways of selecting it one, the ROI based on the month, and the second one, ROI based on the attribution.
+
+00:30:55:48 - 00:31:17:47
+不明
+And you can actually select the attribution as well in multiple ways, like you would like to see. Only those leads or contacts will be counted for attribution, who are added to the opportunity. Or you want to actually consider all those, contacts which are part of an account, to be considered, their activities to be considered for the attribution.
+
+00:31:17:52 - 00:31:42:37
+不明
+So there are multiple ways and it is a pretty flexible report, which I would highly recommend that and why segment is, important that that is something which Kiera already covered. But this is how the reports are going to look like. If you are actually using segment. And on the right hand side you can see the Email performance report, which is actually using the industry segment.
+
+00:31:42:42 - 00:32:07:51
+不明
+And it can actually show you that same email which was sent to different segments. How is that is performing? And if you see that, you know, the, biopharma has a better open rate, but the best one is default, which we didn't even segment. So, it will give you some insight. And then based on that, you can actually fine tune your content so that it is resonating well with the target audience.
+
+00:32:07:56 - 00:32:34:27
+不明
+And on the left hand side, you will see the people Performance report that actually shows you the, strength of your database, broken down by the industry. So it tells us that you know how many contacts we have it in pharma, biopharma, cross and default, and perhaps we could use this industry segment for the personalization as well. Custom column in People performance report.
+
+00:32:34:27 - 00:32:55:26
+不明
+So this is the report that I actually liked the most, which I told you at the start of our presentation. So on the right hand side, if you see it shows the person source and the record created in various quarter of a year. So that actually tells us which source is actually helping us to generate more names in Marketo.
+
+00:32:55:31 - 00:33:18:36
+不明
+We could use these custom columns for tracking lead sources and channel, tracking these segments by industry and persona and tracking the engagement level. So all you need to do is that you need to build your smart list using the filters, which you want to actually pull the data to the people performance report, and it will do the magic.
+
+00:33:18:40 - 00:33:50:14
+不明
+The only constraint with this reporting is that you can add only ten smart lists. And market measure. This is something that, you know, is not part of the standard Marketo offering. But you know, you could buy it. And this tool is actually good for those, who are not having a dedicated analyst or analytical team. So this is something, you know, just in case, if you do not have it and you know, your CMO is asking for the data, which which program is working well, which channel is working well, what is the ROI?
+
+00:33:50:19 - 00:34:11:01
+不明
+And just in case, if you are a newbie and you know, just in case, you do not have the proper team strength to get the data from the BI platform, you could use this tool as well. But the most important thing is that how how, how could we track the success and ROI in Marketo? Engage. Well, we need to follow the best practices and what those best practices are.
+
+00:34:11:14 - 00:34:37:53
+不明
+First, we need to add leads or person to the right program. Right channel. We need to tag them to the right channel. Right program right program member statuses. We need to ensure that we are tracking the acquisition properly. We are actually taking the leads to the right, success criteria within Marketo. And most importantly, we are enabling the, course and adding it to the campaigns.
+
+00:34:37:57 - 00:35:01:07
+不明
+And with campaign, I meant the program in Marketo. So advanced marketing automation workflows in action. So this is going to be the second part of my presentation. So what tasks can be automated through Marketo. So we could automate content related tasks like lead nurturing sequence welcome email drip campaign based on behavior and re-engagement campaign. We can also automate email campaigns.
+
+00:35:01:07 - 00:35:25:36
+不明
+Which are these scheduled send triggered email when you know, when as in when someone fills out the form, someone visits our webpage, you know, we want to send them an email notification and personalized, content based on segment. Then data management. These are the tasks, you know, which is pretty important because data hygiene is very important, not only, for the data security, but, you know, it is important for the email deliverability as well.
+
+00:35:25:36 - 00:35:47:09
+不明
+So for data normalization and cleansing, we could easily build within Marketo. We could use Marketo for lead scoring list segmentation. We could use it for event management, registration, confirmation, reminder email, post-event follow up. And of course we could use a market of the month for the most important feature. That is communicating with the sales team. We could use Marketo Sales Insight.
+
+00:35:47:09 - 00:36:11:12
+不明
+We could use lead qualification notification. We can update certain fields in sales, CRM and we can also add the leads to respective our Salesforce or Sales CRM campaign and update their member type. There are many other things we can automate. But you know, in the interest of time, I'm just covering only the most important one. Otherwise, there are other factors like web personalization, dynamic chat.
+
+00:36:11:12 - 00:36:33:26
+不明
+And there are so many other things which we could use. We could even leverage the new email editor with the AI functionality. So this is the case study, which I am going to showcase you all. So it is for a client of mine, who is in B2B space. And the biggest challenge was that manually lead nurturing was time consuming.
+
+00:36:33:26 - 00:36:59:46
+不明
+And they were doing a lot of sprint prep. And the solution was that we implemented automated lead nurturing sequence in Marketo based on lead lifecycle, and which was backed by the lead scoring model and segmentation. And the result, it was 60% increase in lead conversion and 40% reduction in nurturing time and overall improve the lead qualification and sales alignment.
+
+00:36:59:46 - 00:37:29:50
+不明
+And all this happened in less than two months and the client was pretty happy about it. So this is a lead lifecycle. This is a normal lead lifecycle that actually shows a lead's journey from different stages, like from anonymous web visitor to known then prospect mql SQL customer and cross-sell and upsell. And these all are those stages which are mainly built on lead scoring as well.
+
+00:37:29:55 - 00:37:56:03
+不明
+So this is the engagement program that I built. And if you see there are total five streams, there are 17 emails and four events. And it is all automated nurturing and this point set and forget is incorrect. You need to set it and you need to keep optimizing it. So that is the most important thing because set and forget you know it is just not real.
+
+00:37:56:08 - 00:38:22:03
+不明
+So so what we used for this to become a success we use a B testing that is called Champion and challenger. We change these streams of our leads, when the lifecycle change, lifecycle stage changes and we continuously performed edit on the content. So how to build multi stream. So they are mainly two ways of building multi streams.
+
+00:38:22:03 - 00:38:49:09
+不明
+And one is you know you can build it from scratch and another thing is that you can clone it. So I am going to show you a video on how to do that. So in this one the first one we are just building everything from scratch. And the second one we are just cloning it. And you see that when you are cloning it, your all content, which was there in the previous stream, will get carried over and then you can change it, you can update it.
+
+00:38:49:14 - 00:39:23:32
+不明
+And how to implement a B testing. First of all, if you would like your emails to deliver a knockout punch a b testing is really important because it helps you in finding it out which email is performing better than the other, and all the it is in the slide it calls a B testing, but mainly it is champion and challenger because when we are talking about trigger any email which is there in trigger program or engagement program, we mean we can't use the a b testing which is actually meant for default email send program.
+
+00:39:23:39 - 00:39:51:01
+不明
+So we use Champion and Challenger and I'm going to show you how it works. So you need to select the email. Right click and then click on test. And it is pretty much like how we actually perform a B testing. And you can see here I'm just recording based on the subject line. And then you need to select the distribution level that you know how many people will receive the challenger and how many will receive the champion.
+
+00:39:51:01 - 00:40:17:25
+不明
+And then I will define the champion criteria. And then I can select the reporting time and then close that. So what it does that unlike a B testing we need to manually select the champion. That is the only catch in this. That's it. Because if we are using a B testing in the standard email send program, then you know it is very easy.
+
+00:40:17:25 - 00:40:42:21
+不明
+We will just define the criteria and then automatically the winning email will be selected. But in Champion and Challenger it is a bit manual process to declare a winner and how to use nested program. So if just in case, if you want to add or if if your logic is more complex, you want to include event two, your not chosen.
+
+00:40:42:26 - 00:41:07:04
+不明
+Programs, then you know this is the best part and what use cases you could actually cover with this. So let's assume you would like to send a different message within the stream to a subset of audience. You could use that for the nested program if you want to use different message to different subgroups within the same engagement stream, then also you could use nested programs.
+
+00:41:07:09 - 00:41:34:19
+不明
+You could use nested program for sending out a notification to the sales team. You can actually use nested program for hosting events. And I'm going to show you that as well. You can add forms, landing pages, and all other cool stuff. Plus you can also enable multi-touch attribution with the help of these programs. All you need to do is just define the success criteria.
+
+00:41:34:23 - 00:42:00:24
+不明
+So this is the video which is actually going to show you first the default program. And you can add the default program over here. You need to add the smart campaign. And there is a catch. The Smart campaign should have the member of engagement program filter on. Plus it shouldn't it should not be activated. And this is how we are selecting now the availability.
+
+00:42:00:24 - 00:42:16:10
+不明
+And this is for the event program. Oh and now we are going to include the default program. Sorry I first spoke about the default program. But anyways process remains the same.
+
+00:42:16:15 - 00:42:37:19
+不明
+So if you might have seen the video in the video you could actually select the availability. So whenever you are building a webinar you know webinar there is a specific date. If there is an event, you know, there is a specific date, maybe a month of time for promotion, and then thereafter you just don't want any email or any other promotional activity to be carried out for that specific event.
+
+00:42:37:19 - 00:43:04:37
+不明
+And that's where the time selection for that, program is very important. So engagement program checklist. So engagement program create your nurturing program framework. This is the most important part because, you know, this is what is the most important thing. Stream you know, design segmenting journeys for targeted audience. This is what fourth stream is used for transition rule.
+
+00:43:04:42 - 00:43:31:51
+不明
+So define logic for moving leads between different streams. And there are two ways of, actually building transition rules. You could use the transition rule within the engagement program. But there are there is a catch it. You should be having one, one trigger. And that is that is really important for you to use transition rule. If you are using within the engagement programs functionality.
+
+00:43:31:56 - 00:43:52:52
+不明
+And then you can add your criteria. But just in case, if you have a complex logic and maybe there is a data that is actually coming from a third party API and that gets updated only overnight, and you know you want to add contacts using a scheduled batch veteran program, then, you know, these are a transition rule may not work.
+
+00:43:52:56 - 00:44:24:46
+不明
+So my suggestion here would be always use smart campaigns whenever you would like to move leads from one stream to another. Because smart campaign, you could actually, add as many complexities as possible and you could actually make it full use of this powerful engine stream content. You could add programs and email asset to the relevant stream. So one thing which I want to tell you, a nonprofit client of mine, we were sending different emails using default programs.
+
+00:44:24:51 - 00:44:47:04
+不明
+And in each stream we added close to 99 programs. So so that is a beauty of engagement program that, you know, this is how that you could actually set it up. And then you can actually check the performance using the engagement stream performance report and various other, reporting that we have it. And we could easily find out.
+
+00:44:47:09 - 00:45:09:46
+不明
+So exclusion rules. So you should build exclusion rule, which can actually pause the lead from the engagement program and then resume the lead through the Smart campaign. My only request to you would be don't remove a lead from engagement program, because the moment you are going to remove a lead from the engagement program, you will not be able to see their reporting activities.
+
+00:45:09:46 - 00:45:42:14
+不明
+So it is better to pause it and activate and launch and activate your program, and then sets within each stream, set the cadence. And it was the first send date. And ongoing measurement and optimization, like I said, that regularly regularly monitor and optimize performance of content and program using the Engagement Stream Performance report. So I'll just add a few more things to you, although I am done with my slides, is that what are the challenges we face whenever we are launching an engagement program?
+
+00:45:42:18 - 00:46:02:11
+不明
+So one client of mine is saying that, hey, I have just launched the engagement program. It's been two weeks, no email has gone out. So the most important thing that you need to keep in mind is that always keep an eye on communication limit. If the leads are meeting these threshold criteria of communication limit, your emails will not go out from engagement program.
+
+00:46:02:16 - 00:46:25:00
+不明
+Another one is bit funny. I was on the way to New York. The client called in very anxious and she was like, hey, my emails were supposed to go out after three weeks, but all emails went out just today and you didn't set up correctly. And I was like, hey, it's not that. Did you accidentally activate the smart campaign, which was actually getting added to the engagement stream?
+
+00:46:25:00 - 00:46:50:07
+不明
+And she said yes. So that's where the problem is. So you're not supposed to activate the Smart campaign. So with that, I'll hand over to Chiara. Thank you. RJ yes. So Audrey did a great job talking through all of engagement programs and reporting. I wanted to just quickly bring all of what we talked about together. So what are we going to do when we leave here today?
+
+00:46:50:19 - 00:47:13:00
+不明
+We're going to create a foundation for better marketing automation by creating thoughtful segmentations and scoring models. We're going to think about what data we might have that we are under utilizing. We're going to think about making sure our scoring models are following best practices. We're going to make sure that we are segmenting based on how we want to personalize.
+
+00:47:13:04 - 00:47:35:40
+不明
+And then we're going to start thinking about supplemental scoring models and how we can organize data in a more actionable way. Right. The way I talked about the, product interest scoring, all that data existed in Marketo. But until we set up the the framework for it, there was no way to action that. Right. So we're going to start organizing our data in a way that we can action it.
+
+00:47:35:45 - 00:48:01:31
+不明
+We're going to start using snippets and dynamic content. That way we can create personalized experiences with all of our marketing, and we can do so at scale. We'll be doing less work for more payoff right? We're going to feed our scoring and our segmentation data into our engagement programs, so that we can use dynamic content into our engagement programs.
+
+00:48:01:38 - 00:48:25:47
+不明
+We can use people Score to put them into a proper stream. Right. There are so many different applications for all of this data that I talked about at the beginning, that you want to start feeding into everything that you're doing. And lastly, as RJ touched on earlier, nothing is set it and forget it. And I folio we like to say we do things better, better, never best.
+
+00:48:25:56 - 00:48:48:59
+不明
+You can always improve on things. And so the last step with everything is to monitor your reports. It's to do a B tests. It's to continually fine tune things. Except that some things aren't going to work. But it's not win or lose. It's win or learn, right? Every failure is you've learned something about your audience and you'll do better.
+
+00:48:48:59 - 00:49:14:58
+不明
+The next time. So don't be scared to try some new things. Be creative. Use data you might not otherwise have, and you'll have yourself in a much better place for personalization at scale. And, be well on your way to marketing excellence. Thank you so much for being here. And if anyone has questions, feel free to head up to one of, the one mic there.
+
+00:49:15:03 - 00:49:16:43
+不明
+And we'd love to answer them for you.
+

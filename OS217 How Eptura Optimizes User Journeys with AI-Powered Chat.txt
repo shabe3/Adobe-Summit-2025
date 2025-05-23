@@ -1,0 +1,212 @@
+00:00:00:01 - 00:00:24:21
+不明
+I'm Stephanie Pounders and I'm excited to be here today to share a real world example of how obscura has used Adobe's Dynamic Chat to improve user experiences over the past year and a half. We've taken a phased approach to implementing and expanding it, and we've learned a lot along the way. I will be joined by Srikanth Reddy, Adobe senior product manager, who will dive deeper into some of the key functionalities and opportunities that chat can offer.
+
+00:00:24:26 - 00:00:48:04
+不明
+Let's jump in. In this session, we're going to walk you through how to implement a chat, what we've learned along the way, and some key takeaways that can help you on your own journey. We'll leave you with a better understanding of the value of adding chat to your website, and how to optimize your funnel with conversations, how to take a phased approach to implementation, and how its use can complement your outbound efforts.
+
+00:00:48:08 - 00:01:12:25
+不明
+Some best practices to make sure you're getting the most out of utilizing chat, and a sneak peek at what's coming next. Before I dive into inters journey, Srikanth, can you share some insights from your perspective? What have you seen in terms of the value of adding tools like Dynamic Chat for engaging web visitors? Hello everybody! Srikanth. Ready? I'm super manager and I'm very excited about the chat.
+
+00:01:12:30 - 00:01:36:23
+不明
+I've been part of this project from its IVF phase two years. And it's an exciting time. The age of air. How? Everything is changing. All tools are becoming smarter. And, everybody's bias, experience and expectations are changing rapidly in today's landscape. Even though all the with all these changes, the digital customer engagement still is the most critical driver for growth for this B2B marketer.
+
+00:01:36:28 - 00:02:02:15
+不明
+At its course, it basically means that marketers are still playing the key role by partner with SES to create a funnel, to optimize the funnel and generate a robust pipeline. To achieve this, marketers engage customers across various channels. I know the new channels getting added, as they appear by some, but eventually we are driving all the visitors on the leads back into your website and it is the main reason why.
+
+00:02:02:16 - 00:02:30:39
+不明
+But set expenses remains the most effective way to acquire and qualified your, potential opportunities for sales. Ensuring we are connecting the right prospects efficiently. So we have to focus on optimizing our website experiences to be personalized, repeatable, and scalable. Right? And by focusing on these three areas, we can meet customer needs and streamline funnel and drive meaningful progress with mql skills and ultimately slowing your growth for your business.
+
+00:02:30:53 - 00:02:53:24
+不明
+Right? So here are the three important points that we all need to. No. No. And keep it in our mind to optimize our web experiences. As we all understand, the B2B journeys are complex and purchases aren't straightforward or linear, right? So the first key point is B2B buying teams are diverse and often work on multiple task tasks concurrently and or individually, right?
+
+00:02:53:26 - 00:03:23:31
+不明
+And second, in these buying decisions, the majority of time is spent on researching about the solution. Buyers dig deep into the exploring the options, evaluating possibilities long before even they start engaging with, your sales representative or your representative. Third, increasingly, B2B buyers prefer self-service research at their own pace and time. They want to explore their, app on their own terms using these tools resources, which makes it even more critical for us to meet them where they are in this non-linear market.
+
+00:03:23:35 - 00:03:47:28
+不明
+Right? This emphasizes further the how web experiences has to change and, optimize for the visitors so that they can do their own research at their own time, at their own pace. Keeping these insights, we designed a couple of years ago, and this is rolled out to all Marketo customers. And today several, several hundreds of customers use Dynamic Chat to optimize their website experiences.
+
+00:03:47:33 - 00:04:14:17
+不明
+But at a high level. Then Mitchell offers four key capabilities, right. Which is into how can you enable your visitors go through an automated conversation, which you have defined based on who they are and what based? Aaron. Second is consistent forms, which is summary filling a form. How can you optimize the experience further? To extract more information or understand more intent about why they fill in the form?
+
+00:04:14:17 - 00:04:42:57
+不明
+What defining form for? Third is a live chat where you can enable your visitors who's engaging with the chat bot and they are interested in right audience. You want to connect them to your personal data right in there, so you can have a your representative sitting on the other side and have that conversation. And third is where the generative, chat that we launched last year, we can enable your visitors to come to your website, engage with the chat bot and ask their questions and get instant responses to their questions about your products and services.
+
+00:04:43:02 - 00:05:08:50
+不明
+Without me digging deep into each of these capabilities, let's hear how APRA has leveraged these capabilities all the time and, how chat has helped them to optimize their funnel. Thanks, Srikanth. Before we dive in, let me quickly introduce up Tara at. Tara is the global leader and work tech, connecting people, places and assets in one intelligent work platform to drive smarter decisions.
+
+00:05:08:55 - 00:05:36:59
+不明
+As the only company recognized as a leader in IWM as CMS and Am, we're trusted by 25 million users and across 115 countries, including 45% of the fortune 500. To realize a better future at work. After his journey with chat started small and focused. We began with a lite version of the chat functionality, using guided answers on a single page of our main website.
+
+00:05:37:04 - 00:06:11:10
+不明
+This allowed us to test the waters, learning how we can use smart automation to drive meaningful engagement while keeping things tightly managed. We stayed in this phase for about 60 days, giving our team time to understand the tool, leverage smart programs, and create more effective goals. While we're finding our approach and building trust in its reliability. And Tara, we've come a long way in how we use chat, which started as simple and small guided responses, has evolved into much more dynamic and AI driven experience.
+
+00:06:11:14 - 00:06:36:53
+不明
+Today, we're fully leveraging the generative capabilities of dynamic Chat, incorporating conversational flows with dialogs, smart campaigns, and more. One big shift over the last year and a half has been consolidating our public facing websites into a single website. Chat has been a key player in this transition. Guiding users through the new structure, reducing frustration and making sure that they can easily find what they're looking for.
+
+00:06:36:58 - 00:06:58:28
+不明
+For instance, if someone's searching for a specific feature, the chat now walks them through the steps to get there seamlessly. Chat has become a powerful tool for moving users down the funnel. By using repeatable dialogs, we can easily qualifier leads and connect them to our sales team more efficiently. Even if a visitor visitor isn't ready to engage right away.
+
+00:06:58:33 - 00:07:24:17
+不明
+Chat ability to retain those historical conversations means we can reengage later without missing a single beat. Beyond that, we're continually finding new ways to expand for all across the digital experience. Today, chatting serves as one of our top funnels for demand generation. In the last year, we've seen upticks in new leads and increase in the hand raisers from those leads that we were then able to pass over to our sales team and great interaction throughout our website.
+
+00:07:24:22 - 00:07:51:00
+不明
+When it comes to our conversion rates from interaction to lead, chat consistently sits at 22% or higher for any given dialog. When it comes to chat, we've definitely been expanding it beyond the web. As Srikanth mentioned earlier, adding chat to our website has been a game changer for improving our users journey from the start. Our goal was to make sure the end to end experience as was as seamless as possible to our customers and our prospects.
+
+00:07:51:05 - 00:08:20:14
+不明
+One way we've done that is by integrating it into our multi-channel campaigns to boost engagement. For example, we created regional specific events for our in-person flex events, tailoring them to the local interest and need our chat to set up such that our visitors only receive invitations relevant to their region. Ensuring a more personalized approach. Plus, we've incorporated messaging to reengage users who originally interacted with us through ads or email campaigns.
+
+00:08:20:18 - 00:08:46:40
+不明
+Thanks to our smart list, we're able to keep the conversation going with a consistent message as they engage with our content. We've taken this approach beyond other events, using dynamic chat and things like webinars, email marketing, and B2B campaigns to provide real time support and enhance user engagement. This strategy has driven us to better results while making sure every interaction feels relevant and timely.
+
+00:08:46:45 - 00:09:06:24
+不明
+By taking full advantage of our integration with Marketo Engage, we've also been able to make sure the experience is personalized, whether it's for an anonymous web visitor or a key customer. This ensures that our interactions feel relevant, timely, and allow us to deliver a high touch outreach when it matters most.
+
+00:09:06:29 - 00:09:39:06
+不明
+When it comes to best practices for utilizing dynamic chat, there's a number of things you should do. You should think about. First, you should think about creating goals to see progression. One of the key ways we optimize our user journeys and gather valuable feedback through Adobe Chat is by setting clear goals. From the outset, we've made sure to define measurable objectives with the dialog, so not so that we could not only see progression through any given dialog, but also track successes and allow us to pinpoint areas for improvement.
+
+00:09:39:11 - 00:10:10:46
+不明
+We like to think about our goals and stages, from the very first engagement to a key decision tree moment and all to ultimately a completed dialog. For example, here in Turin, we track engagement right at the beginning, after the first question, to gauge whether or not our visitors are interested. As this progresses, we monitor key milestones like if someone begins down the mql path or an event registration path that shows us that they have a deep enough level of engagement to pass to a conversational flow.
+
+00:10:10:51 - 00:10:36:54
+不明
+Finally, we capture goals when a visitor fully completes a dialog with us. By structuring our goals this way, we gain a deeper and clearer picture of visitor behavior and content can continually refine our approach to improve outcomes. Another one that's really important be up front. Users are chatting with a bot. Transparency is key in any kind of engagement and chat is no different.
+
+00:10:36:59 - 00:11:02:50
+不明
+If automation is handling the initial engagement, make that clear right away, whether through the chat name or an introductory greeting. There's nothing more frustrating than interacting with a chat bot thinking it's a person, only to realize halfway through they're not getting it, or being asked if you'd actually like to talk to a person. This is especially important when leveraging natural language processing features within the AI capabilities.
+
+00:11:02:55 - 00:11:27:52
+不明
+By being transparent, you're helping set the right expectations and reduce frustration, thus creating an overall better experience for your visitors. Also, don't forget to factor chat into your scoring models. Chat gives you such wonderful real time insights into intent and interest that you can build out. Scoring that allows you to quickly flag and pass over high quality leads to your team.
+
+00:11:27:57 - 00:11:53:03
+不明
+You should factored in both your behavioral data such as chat frequency, chat topics, and combine it with the goals reached so that you can identify and prioritize those high quality leads, leading to more efficient and effective sales processes. Finally, don't forget to stop learning. One of the biggest takeaways I hope you take out of this is never stop learning to get the most out of your chat tool.
+
+00:11:53:17 - 00:12:19:44
+不明
+You need to continuously learn and refine from your interactions. You can do so by regenerating AI responses, reevaluating existing responses, reviewing unanswered questions. And remember that learning doesn't happen in isolation. Engage with your community boards. Keep up with release notes. Gather feedback from colleagues. All of these things combined can help you make sure that your strategy is the best that it can be.
+
+00:12:19:49 - 00:12:47:03
+不明
+Srikanth, I know you know a ton about what's coming down the pipeline. Could you share more about what else chat can do, and maybe even give us a glimpse into the future? Thank you Stephanie. Have great, wonderful insights. Just like a Twitter, there are several server customers I collect day in and day out and leveraging dynamic chat for different different seven use cases and optimizing the funnel for themselves like make them safe from conversion.
+
+00:12:47:04 - 00:13:06:34
+不明
+Or how can you get more from the forms? If there is an event that's coming up, how can you drive more audience to your to those event registration pages? If there is, some kind of newsletter options that you are trying to get in, how can you get a little bit more about what they're interested in so that you can personalize the content that you can send them through your newsletter?
+
+00:13:06:39 - 00:13:47:44
+不明
+An emails just like this, there are several sort of use cases that can be an invitation to whatever you're trying to achieve today. And chat could be a nice fit. Helping you get a little more additional information about your visitor and also optimize the conversions for you for that aspect towards keeping that in mind. We have introduced first, in the beginning of launch of Dynamic Chat, we introduced a predetermined flows where it allows you to design, activate mind dialog and ask specific questions, ask specific contact or personal individuals information, and then offer them, if they are interested, to book a meeting or chat with a live chat.
+
+00:13:47:49 - 00:14:11:45
+不明
+So this is a capability that we have launched initially from a deterministic part where you have full control and you allow visitors to go through this flow and take necessary actions that you allow them. Detroit. Second is where, we have introduced with the power of gender capabilities and with a highly controlled environment. Now you allow visitors to ask that questions and get quick responses.
+
+00:14:11:50 - 00:14:35:04
+不明
+This unlocks the self-paced, self-learning experience for your website visitors. While your website might have all the content, but it is for the first time visitors or a second time visitor, it's very hard to find where that content is. It's not easy to navigate B2B websites in general because of the so much content and so much of great, insights about your products and services spread across the pages.
+
+00:14:35:09 - 00:14:58:00
+不明
+But with this chat, they can come straight and ask what they're interested in and get quick response. This is not just, awesome for the visitor, but also it gives great insights for you that so far we were just, trying to extract the intent based on pages that visited. But now here you have explicit asks from these visitors and trying to understand what they're looking for.
+
+00:14:58:00 - 00:15:19:58
+不明
+And that is an insight for you to leverage, to attribute the intent and interest of that individual based on these questions asked. How can you do this after every conversation? So you automatically generate a conversation summary and also topics that were discussed in that summary, which would be automatically available in your Marketo instance. And for every Smart list or, filter or to trigger the campaign that you're creating.
+
+00:15:20:11 - 00:15:44:12
+不明
+You can leverage these as constraints, saying that anybody who talked, engaged with a website, a chat bot in the last X days and talked about topic A, topic B, and etc. and you can even leverage this summary to push it to sales if you think this is somehow, and a person from our target account or high value individual, you want to push them to Salesforce database and you can also push the sales, conversation summary to the respective same.
+
+00:15:44:12 - 00:16:11:28
+不明
+So this even seamlessly integrated into our massage tool. If you're already leveraging the tool, this information gets pushed into that automatically. But going forward so far you have seen like this. Initially, it's all fully controlled by marketers. Second is where you enable visitors to ask questions and have general Genii provide responses to those specific questions. From there, we are moving towards gender powered conversations.
+
+00:16:11:32 - 00:16:34:18
+不明
+That means not just answering questions, but it will drive the conversation towards the KPIs at a for example. I want everybody who is coming to a certain page now to generate maximum number of leads. This chat bot will try to engage them based on where they are on the page. Try to nudge them towards engaging with the chatbot once they stop engaging with it.
+
+00:16:34:23 - 00:17:03:59
+不明
+It provides interesting insights. Ask. Follow up questions, and also try to capture those information that you are interested to learn to achieve the KPI that you are trying to optimize for. Let's double click on the card area to generate power on the sessions. So here is where, how it completely transforms the whole experience for the end visitors, and also supercharges the insights that you can get from your website visitors.
+
+00:17:04:04 - 00:17:31:57
+不明
+So first, from a predefined flows to a human like natural conversations where visitors can ask questions about multiple topics and chatbot will always try to, you know, respond and also provide them in nudge question to know a little bit more about what they're looking for specific, and then navigate them to the respective pages in parallel. It tries to capture the necessary information about that lead based on what that what is what you guys are interested to.
+
+00:17:32:04 - 00:17:58:56
+不明
+For example, if you want to capture their email, contact, contact number or company name, drone, employing employees, number of employees, revenue size, etc.. What are the information that you are interested in? If you can instruct the chatbot to drive those, dates, optimize the conversation for those details, it automatically in a natural way, engages with the visitor and capture that information and put it back into profit.
+
+00:17:59:01 - 00:18:25:35
+不明
+Along with that, it captures all the questions and responses that this visitor is asking and gives you, that give you that inside the individual. Give this XYZ the information and are about ABC products or services that you are offering and interested in these specific areas a lot, right. That that's a powerful insight that you can leverage not just by your scoring, but also, to optimize on what is the right content or the next touchpoint.
+
+00:18:25:49 - 00:18:48:44
+不明
+How do you personalize that based on this intent or interest for achieving this, for reaching this human like conversations? The key is building your own knowledge. How do this? I respond to visitor questions, right. So the key is to build your own knowledge base, which means you can provide your own website URLs or company documents and for that to dynamic chat.
+
+00:18:48:44 - 00:19:16:58
+不明
+And it always responds based on the content that's present only on that topic. While it is intelligent enough to talk about every topic in the world. We ensure that it only can answer from the content of your brand, which you have provided as a knowledge you. We are ensuring that we allow you to build multiple knowledges because I know there are there are companies like a Toyota has several brands talking about different kinds of products and solutions and also have different kind of content for different, geographies.
+
+00:19:16:58 - 00:19:38:55
+不明
+But so we allow you to create multiple knowledge bases. And when you're creating these dialogs with all this. Yeah. New AI, the AI powered two way conversations, you can choose what knowledge to be used for. What pages and what audience that even further personalize this experience for your and visitors. The third okay this is knowledge is great.
+
+00:19:38:55 - 00:20:02:22
+不明
+It is having a human like conversations. But it's important to always stay in the boundaries of your business rules and regulations. Right? That's where setting your brand preference for your tone style fallback messages, exclusions that you don't want the chatbot to never answer about certain topics. It could be a competitive keywords, or it could be about, anything beyond your brands, related to privacy or legal things of that nature.
+
+00:20:02:27 - 00:20:29:30
+不明
+And you want to set those preferences for yourself. This way, it not only simplifies and improves the experience for your website visitors, but also it simplifies a lot for you to design the dialog, because now you don't have to design the, whole structure of, cards, which becomes a large and large dialogs. And we've seen this with many customers, creating a lot dialog and then managing it, maintaining it is a pretty difficult, challenge.
+
+00:20:29:35 - 00:20:51:47
+不明
+So with this, it greatly simplifies that. You don't have to create big bots, but you can simply instruct the, dialog to optimize for certain KPIs and have that natural conversation with the visitors, with every visitor, 24 seven and optimize for that KPI for every conversation and interaction that's going on. Or this is something that we are hoping to launch, this year.
+
+00:20:51:51 - 00:21:08:53
+不明
+And I would love to hear from you if this is something that you are excited about and would love to participate in at Beta's and, partner with us to shape this up, in a way that it makes best sense for you to use this for your business. I'm really excited to work on this and get you to get into your hands as early as possible.
+
+00:21:08:53 - 00:21:31:43
+不明
+I hope you'll also look. We are also looking forward to leverage this for your own business. Thank you. At its core, Adobe Dynamic Chat offers us a ton of potential. Whether you're ready to dive in headfirst or prefer a phased approach like we did, chat can play a huge role in enhancing the user journey from anonymous visitors to well engaged customers for it.
+
+00:21:31:44 - 00:22:01:56
+不明
+Tura integrating Adobe Dynamic Chat with a tourist website significantly improved our user experiences during critical transitions by taking a phased approach, leveraging the generative AI, reengaging users, and continuously gathering feedback. We've seen major improvements and user engagement and satisfaction, and by using that, customizing customized messaging and segmentation, we've made sure that both our existing and potential customers feel valued and heard.
+
+00:22:02:01 - 00:22:17:35
+不明
+Thank you for all your time today, Srikanth and I hope you enjoyed this session and are walking away with some actionable ideas on how to leverage chat for your own use cases. Enjoy! Adobe Summit 2025.
+
+00:22:17:40 - 00:22:17:57
+不明
+With.
+

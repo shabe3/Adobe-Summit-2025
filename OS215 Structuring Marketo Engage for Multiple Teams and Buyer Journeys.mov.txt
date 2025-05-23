@@ -1,0 +1,268 @@
+00:00:00:01 - 00:00:17:01
+不明
+Hey, everybody. Thanks so much for joining us on this session at Adobe Summit. Or today we're going to be talking about structuring Marketo Engage for multiple teams and buyer journey. My name is Connie Davis. I'm VP of operations at GW consulting. And this is a topic that really gets me excited. And it's something that I'm really excited to be presenting along with.
+
+00:00:17:01 - 00:00:38:50
+不明
+Laura. Laura. Would you mind introducing yourself and sharing a little bit of your background? Sure. My name is Laura Hope. I am the senior director of marketing and digital strategy for Minto Communities. We are a new home builder, based out of Canada. But we also build primarily in the US, in the, southeast in Florida, South Carolina.
+
+00:00:38:55 - 00:01:01:06
+不明
+Soon to be in Texas. I have worked for the company for, I guess, almost seven years now, and we've been a marketo engaged customer since 2019 and during that time, too. The reason that I'm excited about this, Lauren, I have had a chance to work through a lot of these different themes and, sort of practices within Marketo engage.
+
+00:01:01:17 - 00:01:20:16
+不明
+And I think it's one of the things that has really been transformative for Minto in many ways. So as we dive into this, the first the first place we kind of have to start is there's a challenge behind lead management and complex buying cycles. And I always like to kind of give this funny quote, you know, if you will, lead lifecycle management is a piece of cake said no one ever.
+
+00:01:20:21 - 00:01:38:58
+不明
+It's a complex process. It takes a lot of effort. And the reality is without a tool like Marketo engage, it becomes even more cumbersome when you think about all the nuance that exists during that buyer journey. Now, when it comes to real estate, we kind of use this framing a little bit, but it's a B2B experience for the B2C market.
+
+00:01:39:03 - 00:01:58:25
+不明
+When you think about a home, there's a few things that go into it. And I, Laura, you could speak to this a lot better than I can, but it really is a complex, you know, it involved buyer journey. Sure. I mean, if anyone's gone through the process, buying a new home is the biggest purchase that most people will make in their lives.
+
+00:01:58:30 - 00:02:24:44
+不明
+Not only is it a big financial investment, but it's also an emotional purchase, and it's not typically an impulse buy. So there's a lot that goes into that relationship from first touchpoint to last, answering multiple questions. They're looking at our competitors as well. So how do we differentiate ourselves in that market? You're competing with not only other builders, potentially, but the resale market.
+
+00:02:24:44 - 00:02:45:49
+不明
+So there's a lot of noise out there when you're in the new home search, and we're here to help minimize that and obviously get them into their dream home. With Minto. And when you think about what Minto really needs, it's a solution at the time that it's going to align community interest. Right. What are they interested in?
+
+00:02:46:01 - 00:03:07:26
+不明
+Where are they at in this journey? How qualified are they and what is their timeline to actually make a purchase? I think one of the little queries we pulled out, during this discussion was a home purchase could take anywhere from six months to five years. Is that right? Sure. Yeah. There's, we have a very diverse, type of communities.
+
+00:03:07:31 - 00:03:35:29
+不明
+Everything from, community where we sell to first time home buyers, you know, younger Gen Z and millennial buyers to some of our communities that are 55 and better, that really target that retiree. So and obviously builder, buyers in between. So, someone could be, getting ready to retire and thinking about where do I want to live, what's important to me in terms of amenities, do I want to be near the water?
+
+00:03:35:33 - 00:03:57:52
+不明
+And so that they might start that, you know, five years before they're ready to retire. So I've seen that many times where people in our database, we get the sales celebration, and they've been in our pipeline for five years. You know, in a crazy market like we had during Covid where everyone was moving to Florida, that buying cycle definitely got a lot shorter and we were on waitlist.
+
+00:03:58:04 - 00:04:26:45
+不明
+Now things have kind of leveled out. So but yes, we it's it's like I said, it's a very emotional decision. So it's not something that people take lightly and do a lot of research. And so we, you know, there's a there's a whole buyer journey that goes into that, that we use Marketo for. And even if it was just six months, let alone five years, you still need that, that continuous engagement at set intervals for that variety of audiences.
+
+00:04:26:50 - 00:04:48:28
+不明
+And that kind of speaks to to the theme, too, that we've identified is that Minto is a diverse company. We're in real estate. You know, we're focusing on these different areas. There's multiple channels and touchpoints and intent signals along the way. So whether you get a direct mailer, whether you see a billboard or you're watching the YouTube series that talk about the lifestyle at these different communities, there's a lot of touch points that really go into it.
+
+00:04:48:32 - 00:05:11:35
+不明
+And I think one of the things that that helps the Marketo engage also helps with is understanding qualification. You know, I know lead scoring was a big topic and additional to that multichannel sort of consolidation, as well as like how qualified are they for marketing. But lead score, if I'm not mistaken, was one of the main ways that was or one of the main, I guess, sales points that Marketo engage really leaned into for Minto.
+
+00:05:11:39 - 00:05:39:47
+不明
+Yes, absolutely. So when we began this journey, probably back in 2018, we had a very big database of leads. And, you know, we have our onsite salespeople who help, customers that walk in the door every day. And then we have our online sales, team. So it was, you know, it's we were getting, doing promotions where sometimes we could receive up to 100,000 leads, which is great to have that many people in your pipeline.
+
+00:05:39:58 - 00:06:13:47
+不明
+But also, how qualified are those people and how realistic is it to have a sales team even, you know, even if we had unlimited resources to reach out to those people individually. So we looked at a tool like Marketo engage, because of the lead scoring. So that way we could really measure intent and put some, a process in place and a roadmap of, okay, if they if they are, you know, on our website consistently, if they're engaging with our emails, if they, are making phone calls, things like that to us that shows intent.
+
+00:06:13:47 - 00:06:36:26
+不明
+And so, that helped us, you know, develop our scoring model. So that way we could get those people who were serious buyers in looking to purchase in a shorter time frame in front of those people. To you know, convert them hopefully into into buying a home. So the lead scoring model has been tremendous for us in moving those people along the cycle.
+
+00:06:36:35 - 00:06:58:48
+不明
+And, you know, the great thing is we still engage with the other people. We have our marketing nurture program. We do our, you know, monthly, periodic blasts depending on, you know, what we have happening, events and things like that. And we have a very low unsubscribe rate. So we know that people are still engaging with us when we look at our metrics, but they just might not be ready to pull the trigger yet.
+
+00:06:58:48 - 00:07:26:32
+不明
+You know, life happens, and circumstances change. And so we understand that we don't want to disqualify them completely if they're not ready to purchase, within our, you know, a certain time frame. But we do want to keep that line of communication open, you know, for whenever they're ready to purchase. Absolutely. And if they come into the database, they might just be doing an info gathering, getting a phone call from a salesperson, even if we had the manpower might be like, why are you calling me?
+
+00:07:26:32 - 00:07:44:10
+不明
+This is this little bit of an odd interaction. And the nice thing about it is, once they are ready to buy, once they've started that conversation, we can suspend certain marketing communications. We can tailor our messaging, and there's an event that we know people who are on the cusp of purchasing really should attend to see their home, or to see their dream home.
+
+00:07:44:10 - 00:08:03:10
+不明
+They should come to this event. Simply put, Marketo engaged takes these complex lead lifecycles and makes them simpler by aligning them with marketing and sales. So our marketing efforts can really complement what sales is doing and help inform their decisions, rather than us just dumping a bunch of stuff their way and saying, hey, you know, figure it out.
+
+00:08:03:25 - 00:08:24:06
+不明
+Which is one of the powerful ways to kind of, enhance that buyer journey and life cycle. Another thing that we kind of identified early on, too, was that even though we have these different communities, communities also can range by where they're located and the regions that are being served. And particularly with Minto, we have this approach or this challenge around decentralized centers of excellence.
+
+00:08:24:19 - 00:08:45:42
+不明
+So even though we have, distinct teams and unique markets that we're approaching, we're still approaching things at a level of center of excellence. Now, what's what's unique about this kind of structure is we implemented workspaces, within marketable, engaged to allow, you know, if you're in the Calgary region or GTA or the US, we have specific sort of initiatives that will dial in based on what you need.
+
+00:08:45:47 - 00:09:04:15
+不明
+So events are always going to be important. Marketing is always going to be important. And even lead scoring is going to be important. But it's different across the unique markets and distinct teams. Now, when I was looking into this, I was able to find that we had roughly, you know, x amount of client retention folks, a large sales team.
+
+00:09:04:15 - 00:09:20:11
+不明
+And we had sent in marketing about 13 million emails. So, you know, Laura, if you could speak a little bit to one, I think the volume of communication we were able to achieve with Marketo, but maybe a little bit on how, the teams differ from the US to Canada and how that could impact some of the sales process.
+
+00:09:20:16 - 00:09:46:37
+不明
+Sure. You know, even though there are neighbors to the north, there are definitely differences in, how our, our, our buyers approach the home buying process. So even though we are a Canadian owned company, we still run our business, tailored to more of a US consumer. So we do. Email is still king. I've heard so many times emails that emails that it's not dead.
+
+00:09:46:37 - 00:10:16:32
+不明
+It is very much alive and kicking. So having a tool like Marketo Engage is great because there is, like I said, being in this industry, especially in, in a state, you know, South Carolina and Florida, that we're very hot in terms of people relocating and the amount of inquiries that we would get. It was it was definitely a, a, a challenge for us to understand our customer's needs and how do we communicate with them best.
+
+00:10:16:36 - 00:10:44:01
+不明
+And developing, you know, something in marketing, we're always pivoting, right? It's never a set, process. And so, you know, we do work closely with our, our team in Canada on certain things, but then we also do kind of run autonomously in how we, we market. We do a couple of big promotions here. So we for our Latitude Margaritaville brand have sponsored weeks of Wheel of Fortune, which hopefully a lot of you are familiar with.
+
+00:10:44:06 - 00:11:06:01
+不明
+Yeah. And so that obviously generates huge interest, a lot, just from having that national, technically international stage. Then also, we, are the primary sponsor for the US pickleball tournament over in Naples every year. Pickleball, same thing during Covid, really took off. You know, it was primarily thought to be more of a, typically an older audience.
+
+00:11:06:01 - 00:11:27:40
+不明
+But now that has grown, across the ages as well. And so, you know, those are two events that we participate in, not just to give us brand exposure, but also to to bring us potential customers as well. So, you know, that's they don't do those, up in Canada. But, you know, we also have to think, how do we how are we going to communicate with these people?
+
+00:11:27:40 - 00:11:47:36
+不明
+Right. Because like I talked about earlier, what's their intent? Did they just happen to be watching TV and saw, you know, oh, I have the possibility to win a house. Let me go sign up, which we know people do, but we've we've gotten I would, you know, a couple hundred sales from that promotion. So to us we consider that a huge win.
+
+00:11:47:40 - 00:12:09:07
+不明
+But like I said, that does come with the challenges of bringing those people into our database, creating a marketing communication for them, you know, because even if they are interested, they could have a friend or a family member as well. So, and like I said, we're very lucky they aren't unsubscribing. So they are interested in still receiving our emails even if they didn't win the home.
+
+00:12:09:12 - 00:12:31:56
+不明
+Awesome. And yeah, I mean, you know, to your point, there's the same ingredients, right? There's a sales team, there's a marketing team, there's events happening, but they're done in a different way. And I know for the mental team in particular that's located in Canada, they're open to reaching out to every lead that comes in or expresses interest where the US needs a little bit more of a tailored approach, you know, and it's funny, you mentioned the pickleball on the wheel of Fortune because those are huge audiences.
+
+00:12:32:07 - 00:12:53:17
+不明
+And with that in mind, the way that we approach marketing to them is going to be vastly different. I think, I could be wrong, but we almost canceled a, a home showing or an event that was that was happening for a US community because it was raining, you know, there was some heavy rain, and then in Toronto during, during the winter time, it's like ten inches of snow, you know, so it's a different markets even from that standpoint as well.
+
+00:12:53:22 - 00:13:32:05
+不明
+But Marketo enables that go to market motion that are familiar across teams while maintaining best practices. And that's really important when it comes to the workspaces. So sales qualification marketing campaigns and web campaigns, all different flavors of the same thing and being used with different teams to accomplish the same goal. I think that's the key takeaway here, is that even when you have different teams, varying capabilities through the workspace and partitions really allows you to unlock the true I guess, the power that's latent within Marketo, you can you can have multiple teams doing different things and scale up that effort while maintaining, best practice.
+
+00:13:32:10 - 00:13:51:38
+不明
+Third point here is just looking at advanced segmentation to have that personalized buyer journey, which again, Marketo engages really great at doing. Now this is kind of a simplified version of it. But, you know, Laura and I were talking. Laura was like, you know, it's kind of like a self-serve model, right? Where all the automation that's happening in the back end is fueling the engagement.
+
+00:13:51:51 - 00:14:07:35
+不明
+If you're interested in a community, you'll get community in a specific email, but it really depends on what you end up doing and how you end up moving through the funnel. It's really about like, okay, well, where did you come from? Where did you first hit that? You hit our CRM or Marketo? Engage. What was sort of your SEO?
+
+00:14:07:35 - 00:14:31:58
+不明
+Why or how did you hear about us? And, Laura, I know that when the sales team is looking at some of this data or they're going or, you know, bubbles up to the coke nurture, there's a lot that happens on the back end that they take into consideration when they start that outreach process. Yeah. It's you know, I think I've told you I used to use the term kind of like choose your own adventure type of marketing.
+
+00:14:31:58 - 00:14:51:40
+不明
+So, it used to be marketing, you know, pushing out a message, but now the consumer is so much more involved in the marketing process, and they're really making their own decisions. So between, you know, it used to be you'd have a television commercial, maybe a newspaper ad you were advertising in the Yellow Pages, something like that.
+
+00:14:51:54 - 00:15:27:19
+不明
+Now it's everywhere, right? It's it's digital. It's, you know, they're engaging on our website. With different tools. For example, we have a mortgage calculator. Right. So if you're looking at financing and so that could be, a message that we want to communicate a little bit more, personalized to a customer that, that needs financing. So in between, you know, they really the consumer now I think is a little bit in more control than we are, but we have to anticipate what those things are on the horizon.
+
+00:15:27:19 - 00:15:48:04
+不明
+And how can we tailor I mean, we all get personalized emails, right? So that says, hey, Laura, are you interested in this offer or Laura, we've missed you. So, it's I think the definitely here to stay. I mean, we've got tools like AI now that are going to help us do that even more. Because people are sharing that information.
+
+00:15:48:04 - 00:16:13:03
+不明
+It's out there, you know, on the internet for us to gather. And so it's a little bit scary, I think, for some people. But, but it's actually beneficial because we're we're giving you the information that you're telling us that you want versus us just pushing our agenda on the consumer, hoping that it works and that it resonates with someone and that they, you know, buy or use our product.
+
+00:16:13:08 - 00:16:35:12
+不明
+Well, yeah. And it's interesting you mentioned that too, because one of the things that we've implemented, the mortgage calculator being one. So if you fill out a mortgage calculator and we know who you are, on the website, we're going to send you an email and say, hey, what? You know, are you interested in financing? We saw you, using this tool on the website, but even more so we've been doing ongoing sort of, profiling where we say, okay, well, how many bedrooms are you looking for?
+
+00:16:35:16 - 00:16:50:44
+不明
+How many bathrooms are you're looking for? What are you doing with your current home? So when they speak with the salesperson, ideally the salesperson like, hey, I already know what you're looking for. Here's some of the homes that meet your criteria, and here are some of the other ones that you might consider if you have some flexibility. But again, it's all volunteered, right?
+
+00:16:50:44 - 00:17:05:17
+不明
+The the user is driving that that conversation. And if they don't want to share it, that's perfectly fine. But it's only going to allow them to get faster to where they want to go. And once they've kind of raised their hand enough to say, hey, you know, I've learned everything that I need to know about the community, let's book an appointment.
+
+00:17:05:22 - 00:17:34:12
+不明
+The conversation totally changes. And that's that's another, I think, powerful factor for Marketo, because we take the user all the way from awareness, through the inquiry process, through qualification, and then into conversion. And one of the things that's not pictured here is that if somebody goes through this process and let's say, you know, six months, seven months, they fall off and they don't return if they reenter, they're going to go through that same sort of process, get a different community interest if they're if they're interested in that, but even just be able to the top like print.
+
+00:17:34:13 - 00:17:51:06
+不明
+Right. And we could identify them a lot easier. Now it's a choose your own adventure to B2C marketing. And and now you have really informed buyers who want to make a great decision, and they really want you to give them what they need, when they need it, rather than just blasting them about it. And Marketo is a really allowed us to to do that.
+
+00:17:51:11 - 00:18:13:55
+不明
+Now, the last sort of, area I wanted to touch on was kind of this, approach to marketing operations and marketing technology, but from a marketing leader. And, Laura, this is where I think I really would, would love to have your insight on because so, so often, you know, as a marketing technology person, enthusiast, as a practitioner, I get lost in the fast when it comes to technology, and I want to measure everything all the time.
+
+00:18:14:00 - 00:18:43:30
+不明
+But the reality is, you can't always measure what marketing does, whether it's a brand experience. And I think we have a couple examples that kind of come to mind, but, I'll let you take it away. You know what? There are things that marketing does that are intangible but so important to the process. Sure. I mean, you know, obviously with the, things like our Google Analytics and tag manager and all of those things that we're able to track sources, QR codes, Covid was the best thing that ever happened to QR codes.
+
+00:18:43:30 - 00:19:07:46
+不明
+And, and we've added them to a lot of our materials. So the being able to measure, and see what's working and not working has been a marketers dream, you know, over the past ten years. But there's also things like, you know, brand awareness. So it's not always, going to convert to, seeing a direct result just because there are so many different verticals.
+
+00:19:07:46 - 00:19:30:31
+不明
+So we use a, we use a very big mix of things in our, in our marketing, plans, in our media plans, everything from traditional media using television, radio, newspaper and magazine, to signs. I always chuckle when I see on our sales celebration that, our sales, the source of the sale was a community sign.
+
+00:19:30:31 - 00:19:49:37
+不明
+So I was like, yeah, but here you go. Oh, they get to the community in the first place. That's what I want to know. But the great thing is, I chances are they probably came in through something I could track. So I can always go back into the CRM and see, oh, well, actually, they filled out a form on Zillow that got them out there, but hey, they bought a house at the end of the day, so that's a good thing.
+
+00:19:49:37 - 00:20:07:23
+不明
+So yeah. So it's it's still not a perfect science. I know you and I talked before. I use a brand a lot, like Coca Cola, right? They're the largest soft drink company in the world. Everybody knows the name Coke. If you live in the South like me, it doesn't matter what you're drinking. Everything's a Coke, right? And so.
+
+00:20:07:37 - 00:20:40:20
+不明
+But they spend more money than their competitors. Just on keeping brand awareness. So they do Coca Cola need to do that? No. Everyone's going to still drink Coke. But, they understand that it's still, you know, keeping top of mind. And it may influence you to, to go buy a Coke. You know? So, so there you can't discount enough, just making sure that you're in every channel, but also making sure that, you know, you it's a good mix, but also that you can track it back to the source.
+
+00:20:40:20 - 00:21:07:39
+不明
+Right. And that intangible to the awareness component is so crucial. And also the experience as well, because a lot of times what I've found is technology enhances actual brands, but it doesn't fix them. So, you know, without going to the if there's a certain online ticket vendor, one of the ones globally that everyone has a problem with, contrasted to that with maybe, you know, a well known fast food establishment that's closed on a Sunday and always says, my pleasure.
+
+00:21:07:39 - 00:21:28:45
+不明
+Right. The brand itself, that's an experiential thing that's hard to to, to measure. But is there. Yeah. I mean, that's I kind of geek out on that. Right. Like I love looking at different brands and seeing, you know, what they do, across their marketing, the, the ticket company that you mentioned, I'm a big concertgoer, as you know.
+
+00:21:28:45 - 00:21:51:22
+不明
+So I constantly but we have a love hate relationship, mostly hate only because the experience is never great. Right. So, you know, I think they could do a good job on the marketing side because I get emails, they tell me, oh, your favorite band is coming. Like they tailor the communications to me, right? Because they know that you have a history of of the, you know, bands that I've gone to see or, or shows or whatever.
+
+00:21:51:34 - 00:22:08:38
+不明
+And so they do a great job on that side. But the experience itself is a nightmare. And I think anybody watching this can attest that if you've ever had to buy tickets and trying to wait in a virtual queue, and then even if you get selected, what's available, most of the time it's already on the secondary market.
+
+00:22:08:49 - 00:22:29:25
+不明
+And so it's just not a great experience, you know? And then I always chuckle, excuse me when they send the survey email. That's like, how did we do? And I was like, you did awful. And I tell you this every time, and I'm sure other consumers do, but nothing changes, right? Yeah. They're it's still the same thing versus, you know, the other company that you mentioned, which is a fast food restaurant.
+
+00:22:29:25 - 00:22:49:45
+不明
+Right. So it's not, anything super sexy or anything, but they understand who their customer is. They understand what brings people back. You know, they're the most profitable super fast food restaurant in the country, and they're only open six days a week. That says a lot. You know, when you get an email from them that's like, hey, we're just happy that you're a customer of ours.
+
+00:22:49:45 - 00:23:09:43
+不明
+Here's a reward for you next time you come in. And so you know that not only you know, that's an incentive, obviously, to bring you back into into their establishment, but it also it's the feeling. So you can't you can't measure that feeling of when somebody's read something. Right. It's, it's I, I was in sales for the first 15 years of my career.
+
+00:23:09:43 - 00:23:30:39
+不明
+And I would always say, it's not what people are telling you, it's what they aren't telling you. And so, yeah, that's to me. Yeah. Sorry. Go ahead. No, no, no. I'm sorry. Laura, finish your thought. Oh, no, I was just going to say so. You know, that's why we're going back to your point of, like, we're never going to know everything about what we're doing if it's successful or not successful.
+
+00:23:30:39 - 00:23:49:59
+不明
+I mean, the metrics and the analytics obviously are telling us what works. But also, you know, like I said, it doesn't always tell you what doesn't work. But as consumers, you know, look at your own. I always encourage you, look at your own marketing constantly. You know, look at other people's, you know, what are they doing, right, that I could implement?
+
+00:23:49:59 - 00:24:12:16
+不明
+What do I don't like that I need to avoid for my company as well. And I think that's like The Tale of Two Cities, the tale of two companies. Both are leveraging technology to deliver or to manage really complex buying cycles. Hyper personalized. They respect the qualification and two completely different experiences that can only be, really identified.
+
+00:24:12:16 - 00:24:30:17
+不明
+When we talk about our experience with them. Right. So I think that's that's one of the things that's always a good takeaway. We love Marketo Engage. We're so happy with what it's done and how we've been able to implement it. But marketers don't lose sight of that brand experience and that unique brand, sort of take away that people, you know, it's not about, as you were saying, Laura.
+
+00:24:30:17 - 00:24:43:44
+不明
+It's not about what they say when you're in the room. It's what they say when you're not in the room. Right? That's always key for marketing operations folks. To keep in mind, but yeah, thank you everybody so much again for joining us for this session. We hope it was informative, practical that there were some key takeaways.
+
+00:24:43:49 - 00:25:01:21
+不明
+Again, we're so happy to be able to talk about this and talk about our experience with Marketo. Engage. We yeah. Take some of these takeaways and think about okay. Well what can we do with our technology to manage these complex lead lifecycle models, to have personalized buyer journeys and what we can implement? But yeah, enjoy the rest of the summit and we look forward to seeing you next time.
+

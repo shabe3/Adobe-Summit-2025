@@ -1,0 +1,264 @@
+00:00:00:01 - 00:00:17:51
+不明
+All right. Welcome, everyone, to our talk on revenue attribution. My name is Libby Cumnock. I work in marketing intelligence at PitchBook. And, we're going to talk about how to advance your marketing measurement strategy today.
+
+00:00:17:56 - 00:00:47:42
+不明
+So we're going to cover how to set a solid foundation for attribution models and practical next steps to advance your attribution journey. I'll talk about pitch books, experience with attribution models and our learnings so you can avoid some common mistakes. And we'll look at the we'll look forward at the potential of machine learning and AI to advance your multi-touch attribution models.
+
+00:00:47:47 - 00:01:17:22
+不明
+Everyone's on a different journey, and at different stages of marketing measurement. So I want to take a minute to just step back and cover the basics so that we're all on the same page when we're talking about what even is attribution. So attribution is a methodology used to determine which marketing channels, campaigns, or touchpoints played a role in influencing a potential customers decision to convert.
+
+00:01:17:27 - 00:01:34:14
+不明
+There are several use cases to and attribution model, and the underlying data. The main use cases being measuring channel or campaign performance, especially relative to one another.
+
+00:01:34:19 - 00:02:09:29
+不明
+Also calculating ROI or marketing influence and justifying budget allocation. You can also use the underlying data and your attribution model to map the customer journey and understand what channels are driving different milestones in the in your funnel, and you can use all that knowledge and information to optimize lead generation or opportunity creation or conversion.
+
+00:02:09:34 - 00:02:42:02
+不明
+So let's talk about the stages of measurement maturity. So you start with basic single touch attribution. It's generally a first touch or a last touch model. Whatever consistent data point you have in your system and what makes sense to your business. A single touch model might be your best bet if all your data is siloed into different places.
+
+00:02:42:07 - 00:03:15:24
+不明
+If you have all your data integrated, you can move to a multi-touch attribution model where you connect multiple touchpoints in a customer buying journey and give credit to the specific ones that influence the deal. So, for example, a U-shaped model gives credit to first and last touch. The full path model give some credit to every touch point in the journey, with more credit to kind of the big milestone touchpoints like lead creation, job creation, clothes.
+
+00:03:15:28 - 00:03:46:23
+不明
+And when your business is ready, you can introduce machine learning and AI to enhance those insights. Now you're not limited to a particular attribution equation. Machine learning can determine which touches have greater impact than others, and attribute more revenue to those touch points. This can include an element of time decay as well, to give more credit to touch points closer to the conversion event.
+
+00:03:46:28 - 00:04:06:16
+不明
+An AI can continuously refine those models, adapting to changes in business strategy and consumer behavior. Ultimately, moving from a very rule based attribution model to AI powered insights.
+
+00:04:06:21 - 00:04:38:10
+不明
+So I'd like to illustrate this journey using pitch books. Experience. But first, I should probably give you some background on pitch book and kind of how we handle attribution. So Pitch Book is a B2B SaaS company. We sell subscriptions to the Pitch Book platform, which is the leading resource for data on the global capital markets. We also have an incredibly talented editorial team that pumps out insights on the venture capital and private equity ecosystems.
+
+00:04:38:15 - 00:04:52:54
+不明
+Demand for that research and our brand. Our brand name generates over 20,000 leads a month, and that accounts for about 70% of our new business.
+
+00:04:52:58 - 00:05:21:06
+不明
+Who am I? Where do I fit into this equation? So again, I'm leaving company. I've been with PitchBook for nine years and managing the marketing intelligence team for the last seven. The marketing intelligence team is responsible for full funnel analytics, tracking those 20,000 leads a month through the funnel to converted customer, and attributing dollars back to the channels and campaigns that influence the deal.
+
+00:05:21:10 - 00:05:51:11
+不明
+We also had a lead forecasting account scoring build all kinds of evergreen, dashboards and self-serve reporting. I implemented visible for our first multi-touch attribution model back in 2016, and I have been on this attribution journey with PitchBook ever since. So this is our sales funnel in its most basic form. We generate a lead. We route it to a sales team, the sales rep books, a demo.
+
+00:05:51:16 - 00:06:00:56
+不明
+If that demo goes well, turns into a qualified opportunity. We close the deal, generate revenue.
+
+00:06:01:01 - 00:06:25:16
+不明
+We have a really big tech stack. But ultimately on marketing operations, these are kind of the hallmark tools that we use. So Marketo is our marketing automation tool. Salesforce is our CRM. Snowflake is our data warehouse. Almost every almost all our data is replicated into snowflake. And then Tableau is our reporting solution.
+
+00:06:25:21 - 00:07:01:21
+不明
+So since I started at PitchBook, we've always had a single touch attribution model in-house. We call it a last touch model. But really it's last touch prior to lead routing of the successful sales cycle, if that makes sense. So we recycle leads all the time at PitchBook. And with our single touch model we credit a sale to the channel that triggered the lead routing for the successful sales cycle.
+
+00:07:01:26 - 00:07:31:46
+不明
+We still have the in-house model. We still use it and look at it. But in 2016 we implemented our first multi-touch model with visible shout out to the old visible crew for helping us set that up a long time ago. They were great. And we included online and offline marketing, touch points and significant sales touchpoints in the model like call connects and demos.
+
+00:07:31:51 - 00:08:08:04
+不明
+We chose the full path model, which attributes 22.5% to each of the four milestones first, lead creation, opportunity creation, and close. The remaining 10% is, kind of split evenly amongst all the little middle touch touch points. In 2023, we migrated from those visible, which became the Marketo Tiers to Marketo Measure Ultimate to have access to the data warehouse and attribution and AI.
+
+00:08:08:04 - 00:08:30:24
+不明
+When it was to be released. We kept the full path model, but we decided to limit the scope to marketing touchpoints. So what we have now really is a marketing influence attribution model.
+
+00:08:30:28 - 00:09:02:40
+不明
+We opted to build our own attribution dashboard in Tableau. So we we built this via a direct connection to the MMO and the marketing Manager Ultimate Snowflake instance. We can just do a direct connect, in Tableau and really tailor the dashboard to our businesses use case for the attribution model and ultimately what our stakeholders want to see is how are the different channels influencing revenue?
+
+00:09:02:45 - 00:09:21:42
+不明
+At what particular milestones? What does that look like? Over time, what is changing? And we can, slice and dice the data however we see fit in our custom dashboard.
+
+00:09:21:46 - 00:09:56:13
+不明
+I mentioned there's additional use cases, not specifically for calculating ROI and, you know, attributing dollar value back to particular channels and campaigns. One of the additional use cases is looking at customer journey analytics. So when we first implemented our model, we analyzed the touchpoint data to better understand our customer's journey. 78% of our new business deals are touched by marketing in some way.
+
+00:09:56:18 - 00:10:10:21
+不明
+A lot of those journeys with marketing are really simple a single touchpoint on a single channel. But there are some journeys that are incredibly complicated.
+
+00:10:10:26 - 00:10:42:18
+不明
+There are sometimes hundreds of touchpoints across many contacts, all wrapped into one account. Especially when you get into our expansion, growth and renewal opportunities. And that understanding of, a typical journey and the many variations outside of typical is incredibly valuable for your marketing operations team.
+
+00:10:42:23 - 00:11:20:44
+不明
+Another use case of kind of the underlying data is data that feeds into MMO. We're using because mu collects landing page and form URL. On each session, we can tie the performance of our full funnel back to different segments of the website. So we're actually using the session data that Mu is collecting on our website to tie to the rest of our full funnel analytics.
+
+00:11:20:49 - 00:11:40:03
+不明
+This report, which just kind of segments our website and the full funnel analytics. This is one of the most use reports for our marketing web team.
+
+00:11:40:08 - 00:12:08:13
+不明
+So next steps for PitchBook specifically, I mentioned our current model is limited to marketing touch points. It's a marketing influence model. There's a couple more marketing data sets that are further kind of a lot further down the funnel that we would like to incorporate as well, including content that our sales team is pitching much later in the sales cycle.
+
+00:12:08:18 - 00:12:39:07
+不明
+We'd also like to incorporate back into the model some of those sales touchpoints, like call connects and demos, so that we can get a sense of the impact of marketing touchpoints and sales touchpoints, especially relative to each other. We also would like to split our models by business unit. A one size fits all model is probably not right for our business.
+
+00:12:39:12 - 00:13:15:34
+不明
+Our new business deals close in a median of about 60 days, with a very long tail. But our renewals are yearly. We have yearly subscriptions. So using the same model for our new business and our renewals doesn't really make sense. We currently have one model, but we are planning to split that, into our different business units.
+
+00:13:15:39 - 00:13:50:21
+不明
+And we would also like to experiment with machine learning and AI. So attribution AI allows for the capability of having various models trained on different data sets. And you can tailor your attribution for each business unit or product or customer segment, or however you may need to split your data to see. Should you really be using different attribution models for these different segments?
+
+00:13:50:25 - 00:14:27:13
+不明
+So for those of you that don't have Marketing Manager Ultimate and are curious of what that looks like, I thought I'd drop back the curtain a little bit and show you how it works. Visible became or pitch became a visible customer. Marketo as your ultimate customer. Back in 2016. With that original set up, there were direct integrations with Salesforce and Marketo, and you could turn any event or task or program into those systems, into a touchpoint.
+
+00:14:27:18 - 00:14:56:06
+不明
+There were also direct connection, direct integrations to some ad platforms like, Google Ads, Bing, LinkedIn, and they also collected engagement data on our website via the visible JavaScript, much like they do today. But that was really the extent of the data that they could consume. It, it had to be on the website in Marketo or, or in your CRM.
+
+00:14:56:11 - 00:15:20:28
+不明
+And if you had touches in another platform that you wanted, including attribution model, you had to somehow figure out how to get those touches into either Marketo or Salesforce and then feed that into, the the visible or MMP system. With NMU. That restriction disappeared because the data flow is different. I mean, you doesn't have direct connections to Marketo and Salesforce.
+
+00:15:20:33 - 00:15:48:39
+不明
+MeWe plugs into Adobe Experience platform to get that data along with any other data that you wanted to ingest. So ADP is now your data lake powering MeWe. You can push Salesforce data in their Marketo data. Anything at all from your data warehouse. So we have snowflake as our data warehouse. As long as the data lives in the in snowflake, we can push it into API.
+
+00:15:48:41 - 00:16:13:07
+不明
+We can get it into Mew. So you do have to set up the data pipelines. You do need some, engineering expertise to get it all set up, but there's no limitation to the types of touchpoints you can include in your model. You want to include engagement with high spot pitches or add that to snowflake. Get that into AP, geo survey tool, get it into AP.
+
+00:16:13:12 - 00:16:25:36
+不明
+You want to track sales engagement from outreach, get the data, get into AP. It's now in your model.
+
+00:16:25:40 - 00:16:53:45
+不明
+Then you need to build rules in the market, a measure platform to tell you what data out of everything that you push into AP, what data you want to turn into touch points so you can look for memberships in specific Salesforce campaigns. You can look at, members in a marketo program. You can pull Salesforce has that sort of given criteria.
+
+00:16:53:50 - 00:17:29:53
+不明
+I think this is a specific campaigns that we're looking for. You can grab any subset of events that you've pushed in ADP and turn those into touchpoints. You can also build rules to exclude interactions. So because most clients log into our Facebook platform via our website, we needed, to build a rule to exclude food product log ins from our, from our web visits.
+
+00:17:29:58 - 00:18:08:06
+不明
+We also chose to exclude web visits where someone is doing an action that is not desirable. For example, unsubscribing to our marketing or, newsletter these events. If that person does convert eventually, we probably shouldn't be attributing revenue back to an unsubscribe event. Right? So you can build exclusions as well. Channel rules. You really you need to define your online and offline offline channels and set up a channel hierarchy.
+
+00:18:08:11 - 00:18:34:46
+不明
+And it's incredibly important to standard ize your UTM when you're implementing your your channel definitions. You don't want to be constantly editing the logic. So standardizing UTM and the channel hierarchies, defining those channels with your business and marketing stakeholders is really important.
+
+00:18:34:51 - 00:18:59:46
+不明
+And then I just wanted to give a little peek. This like with our transition to Marketo Measure Ultimate, we also got access to the, the marketing manager ultimate data warehouse. And this is, this allows us to not just access just the attribution model output, but all of the inputs as well. So we can query MSU snowflake instance to pull web data.
+
+00:18:59:51 - 00:19:27:19
+不明
+For both anonymous and known users. Because the cookie and privacy laws, it's not going to match like exactly with Google Analytics or any other tool really. But, it is super helpful in identifying trends in the customer journey. And across the website and through the sales funnel, this is what we tapped into to build the customer journey analysis.
+
+00:19:27:19 - 00:19:36:20
+不明
+And that landing page report that I showed you with full funnel analytics segmented by, parts of the website.
+
+00:19:36:25 - 00:20:11:35
+不明
+So we've covered the basics of attribution. We've talked about the journey to advance your attribution practice using PitchBook as an example. We took a peek at Marketo Measure Ultimate on the back end of things and some of the inputs and outputs. So I want to cover the challenges of B2B marketing attribution and how to apply pitch books learnings to avoid some of those common mistakes, and how to continue to evolve your attribution models.
+
+00:20:11:40 - 00:20:20:13
+不明
+So these are some of the challenges in B2B marketing measurement.
+
+00:20:20:18 - 00:21:02:04
+不明
+Step one is data collection and standardization and data governance. Right? That can all be a challenge. Data integration can also be difficult when you're working with a large tech stack and deploying campaigns across various online and offline channels. And that can make customer journeys complex. And with B2B, you also need to think about person and account resolution. You need to integrate data across the entire buying committee.
+
+00:21:02:09 - 00:21:16:41
+不明
+Sales cycles can also get really long in B2B, and it takes a while to realize returns on marketing investments.
+
+00:21:16:46 - 00:21:46:16
+不明
+So let's start with data collection. You need historical data to train a model. So even if you're not ready to implement an attribution model, get a head start by collecting data. Now. Work with marketing teams to define your channels and standardize your UTM. Garbage in, garbage out. Right? Save yourself a headache and create definitions and rules at the beginning.
+
+00:21:46:21 - 00:22:18:20
+不明
+Define your touchpoints. So what interactions qualify? There's a level to each engagement. So generally speaking, an in-person interaction is likely to be more impactful than seeing an ad for like a millisecond on the internet. You have to set a threshold for the level engagement that qualifies for a touchpoint. Do you want account opens or do you require a click?
+
+00:22:18:25 - 00:22:29:48
+不明
+Do you include a voicemail that perhaps was never heard? You get to decide what that threshold is for, including the touchpoint in the model.
+
+00:22:29:52 - 00:22:55:52
+不明
+You also likely have interactions that you don't want to attribute revenue to. Like I mentioned before, you might want to exclude events where prospects are. Unsubscribe to your marketing or sales communications. That's likely not driving a future deal and should not get a dollar value. If that prospect does eventually become a client. You also want to determine the scope of the model.
+
+00:22:55:57 - 00:23:22:55
+不明
+Do you want to limit touchpoints to just marketing, or do you want to include sales touchpoints? What's the look back window if your sales happened really quickly? Maybe you only want to credit touches within a month of close. It can. If it takes years to close a deal, you might need to have a really long look back window.
+
+00:23:23:00 - 00:23:48:01
+不明
+And if you're at the end, if you're at the advanced end of the spectrum of of measurement maturity, let the tool answer these things for you, right? Machine learning AI can determine how impactful different touches are and how much credit to attribute back to them, and how far back you should be, including touches in your model, right? Use the use the tool to answer some of these questions for you.
+
+00:23:48:01 - 00:24:19:53
+不明
+If you're kind of at that other end of the spectrum. Once you have an attribution model, you have to gut check the results. Think about your business and marketing strategy. Does the channel mix seem right? Are you giving way too much credit to a rarely utilized channel? When PitchBook first set up our new instance, we noticed that the model was attributing almost 50% of new business revenue.
+
+00:24:19:53 - 00:25:03:02
+不明
+Back to email. And from our previous single touch model, we knew that our email campaigns generate a small portion of our lead volume. Our email strategy is more to build awareness and nurturing existing customers, less to directly drive new business. So we didn't think it was accurate to be attributing 50% of our new business back to email. And this was happening because we included email opens in our model.
+
+00:25:03:07 - 00:25:24:52
+不明
+And while our open rates are pretty good, our click through rates are not as good. And we knew we were over attributing to email. So we we removed email opens from our model and relied instead on web traffic that we could tie back to the email channel.
+
+00:25:24:57 - 00:25:52:12
+不明
+So you always want to verify the model output against the analytics you already have, and against your understanding of the business and the customer. Then think about the milestones in the customer journey. The classic Marketo measure milestones include first touch, lead creation, opportunity creation, and close. Do you consider any of those to be more important than the others for your business?
+
+00:25:52:17 - 00:26:16:48
+不明
+Do you have additional milestones that you want to track? Do you 99% of your sales only have one single touch, and you can get away with a single touch model? You don't have to overcomplicate it if you don't need to. Experiment with different models and see what fits your business. Now to go back to the scope of the model.
+
+00:26:16:53 - 00:26:45:09
+不明
+A one size fits all model may not be right for your business. Are you trying to focus on a particular business unit, a particular product line? You may need to limit the scope of your model, or find a tool that allows you to have multiple attribution models. I know in my gut, but the attribution model we have for new business is not likely the same model we should be using for our renewal business.
+
+00:26:45:14 - 00:27:08:58
+不明
+It's a different customer journey, a different business strategy. We sell subscriptions to accounts and then we expand on intervals in individual seed ads, and the seat ad opportunities are likely a much smaller buying group. Really a much faster sales cycle.
+
+00:27:09:03 - 00:27:31:18
+不明
+The touchpoints that are leading to these various types of opportunities and various deals are very different. So one of Pittsburgh's next steps is with our attribution journey is to develop different models for those different parts of the business.
+
+00:27:31:22 - 00:28:15:09
+不明
+Marketing measurement is a continuous journey. You're never done. So here's a few things to keep in mind as you continue to improve your attribution models. Insights flow both ways. Use the model and optimize your marketing strategy, and you need to adapt your model as your business strategy changes. If you introduce new products, new customer segments, new sales workflows, if the customer journey has significantly changed, you may need to update your attribution model to realign with the business.
+
+00:28:15:14 - 00:28:55:21
+不明
+Regularly audit your attribution input and output data. Did you introduce new channels that need to be accounted for? Are your touchpoint rules still relevant? Look at your model outputs. Can you explain the trends that you're seeing in your attribution with your marketing strategy? Are those two things aligned? Right. Your model should always be aligned with your business. If you're seeing a trend in your attribution that can't be explained with your marketing strategy, something's probably out of alignment.
+
+00:28:55:21 - 00:29:35:44
+不明
+There, and you need to realign. You need to examine that business and see where you may need realignment. And the ultimate question is the business ready to advance its marketing measurement? Right. Are you in the foundation stage? You've got your integrated data. You're ready for a multi-touch attribution model. Are you ready to introduce AI and machine learning? But you have to make sure you've got your foundation and your next steps to get there.
+
+00:29:35:49 - 00:29:41:47
+不明
+Okay. Thank you very much.
+
+00:29:41:52 - 00:29:42:19
+不明
+For.
+

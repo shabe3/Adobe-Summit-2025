@@ -1,0 +1,200 @@
+00:00:00:00 - 00:00:27:20
+不明
+Last session a developer's guide. Extending Adobe Studio for Performance marketing. I am so the end, and my colleague Jamie Del will be presenting the demo today. We are responsible for building the extensibility framework that enables partners, ISVs and customers to succeed in adopting Gen Studio for performance marketing to suit their content supply chain needs. Here is what you will learn today.
+
+00:00:27:22 - 00:00:54:07
+不明
+How Adobe Gen Studio for Performance Marketing can be extended to address your mind specific content, supply chain requirements, and frequently you will gain insights into using Adobe App Builder to build unique experiences and solutions for your business. Finally, you will understand the end to end process to create, build and publish a UI extension within Adobe Studio for Performance Marketing.
+
+00:00:54:10 - 00:01:23:13
+不明
+By the end of this session, you will be equipped with the knowledge and tools to extend Adobe Gene studio and enhance your performance marketing capabilities. Let's explore the importance of extensibility through a use case. Let us consider. A pharmaceutical company has implemented Gene studio for performance marketing to enable their marketeers to send product focused marketing emails to healthcare professionals and hospitals.
+
+00:01:23:15 - 00:02:11:05
+不明
+These emails contain critical drug information such as side effects, dosage instructions, and efficacy details. The statements within these emails, known as claims, must be accurate and often require FDA approval. Ensuring compliance with regulatory standards is essential before sending these communications. There are challenges to address the desired regulatory checks. While Gene studio for Performance Marketing facilitates rapid email creation, the responsibility for building domain specific content and implementing necessary compliance checks suggests medical legal regulatory validations fall on domain experts who are best equipped to handle this with their expertise.
+
+00:02:11:08 - 00:02:43:19
+不明
+Not to worry. In studio for Performance marketing was designed with extensibility in mind. By leveraging Adobe App Builder. Domain experts can integrate their own complaints, check processes. This approach empowers organizations to seamlessly perform regulatory validations before email distribution, ensuring compliance without disrupting workflows. UI extensions. Let us take a look at the extension points published by the product to tackle the above use case.
+
+00:02:43:21 - 00:03:21:02
+不明
+Our initial focus is on the additional context on the canvas model extension point. Customers and partners can develop Adobe App Builder applications that allow marketers to extend the generation context within the prompt drive. For example, a claims app extension could empower marketers to filter and select approved claims for a drug like whitelist during email generation. Thus extending the available context at this extension point, the extension belt is loaded in a model to display the claims for selection.
+
+00:03:21:04 - 00:03:52:11
+不明
+Claims are loaded from external system. Typically, the claims libraries are fetched from a customer data store. Claims are then added to generation context during email generation. In addition to being on brand targeted to the selected persona, adhering to product guidelines and the user prompt, the generated email will also be inspired by the chosen claims. Once the emails are generated, they must undergo narrow compliance and regulatory checks before distribution.
+
+00:03:52:14 - 00:04:25:10
+不明
+These checks ensure adherence to all applicable rules and guidelines. Only after successful completion of these checks. Can an email be sent. The Adobe Gene studio for Performance Marketing product team provides an extension point on the right panel, specifically for compliance checks on generated experiences. Customers and partners can build extensions using Adobe App Builder to leverage this extension point and validate generated email experiences directly within the right panel.
+
+00:04:25:13 - 00:04:56:23
+不明
+For example, an Adobe App Builder extension can validate the email against the claims libraries in the customer's data store, providing real time feedback to marketers. This feedback allows marketers to quickly identify and correct any issues with the claims, ensuring that only compliant and accurate emails are sent. Let us now explore the distribution of responsibility between the Adobe Gene studio product team and partners, ISV and customers.
+
+00:04:56:25 - 00:05:29:09
+不明
+Doby Gene studio product team publish extension points to empower customers to extend the product partners. ISV and customers will be able to add implementing the published extension points. Partners can then publish their extensions to exchange.adobe.com, making them available to multiple customers. Customers also have the option to create extensions tailored to their specific needs and publish them privately. A single application can implement multiple extension points.
+
+00:05:29:11 - 00:06:04:16
+不明
+Typically, an application is designed to address a comprehensive use case suggesting medical legal regulatory scenario described earlier. Let us look at how extensions work. The development process begins with partners or customers joining the reference application. They then implement their domain specific extensions. Building and testing are performed using the Adobe Developer Console. Finally, the completed application is published either privately or publicly on exchange@adobe.com.
+
+00:06:04:18 - 00:06:36:17
+不明
+A sysadmin on the IMS organization then installs the Adobe App Builder app from exchange that adobe.com, or approves a privately published Adobe App Builder app. Adobe App Builder apps are installed to your company's IMS organization. Once a marketer in that organization logs into their Advanced Studio for performance marketing platform. The product communicates to the Exchange Registry on available extension apps for current IMS organization and display them on their respective extension point locations.
+
+00:06:36:19 - 00:07:03:06
+不明
+When marketing interacts with the app, it renders details based on the logic written on the single page application and server side runtime actions which communicate with customer data store. Enough of theory. I will now hand it over to Jamie for the demo. Let's dive into a demo on how to create, build and publish an Adobe Gen Studio for performance marketing, UI extension.
+
+00:07:03:08 - 00:07:33:19
+不明
+For this demo, I will create an app to enhance the Gen Studio, create prompt with medical claims, and validate that these claims are used in an experience as described by Sundar. Let's pretend I work at company, so as a bioscience company, I'm creating an ad for a new drug Fatalis, which cures next to a fictional condition. Let's head over to Gen Studio to an experienced template I created for Celeste X.
+
+00:07:33:22 - 00:07:39:06
+不明
+Let's go ahead and create a new experience.
+
+00:07:39:08 - 00:08:04:12
+不明
+There are two parts to the Gen Studio UI extension. The first is the AD context and on which appears in Gen Studio. When a user creates an experience and opens a project, you can see my extension here listed as MLR for Celeste X. Let's go ahead and add the brand, persona and product first, which use Celeste X, the persona health care professionals, and the product avatars.
+
+00:08:04:14 - 00:08:12:08
+不明
+Let's also go ahead and add a prompt.
+
+00:08:12:11 - 00:08:33:25
+不明
+Now let's go ahead and open up the context and this opens up my customer's app in an isolate. In the case of Celeste X Bio Sciences. This displays a dropdown for choosing a claims library. Let's go ahead and pick the efficacy claims. After picking a claims library, I can choose a few different claims to add to the prompt.
+
+00:08:33:27 - 00:08:56:01
+不明
+I'll choose the first two. Pressing select sends a message from my to the host app Gen Studio, triggering the addition to the prompt. I can see that these have been added by the two here. Now let's go ahead and generate these experiences.
+
+00:08:56:04 - 00:09:11:12
+不明
+I will expect these experiences to contain the two claims that I added to the.
+
+00:09:11:15 - 00:09:29:21
+不明
+As you can see, these generated experiences do contain the claims that I that I had added using my context add on extension. The next extension point is over here on the right. Using this icon.
+
+00:09:29:23 - 00:09:57:27
+不明
+This opens up my app for validating the claims. I'll open up the app and select efficacy claims, the same that I added to the prompt. Next I'll choose experience one to go ahead and check the claims. My app accesses these experiences through the Gen Studio UI extensions API defined in the Gen Studio SDK, which is open sourced and ready for customers to use.
+
+00:09:57:29 - 00:10:26:16
+不明
+Let's run the claim check. As expected, there are no violations here. Now, just to show how the app we made works a little bit more in the use case of a customer. I'll go over to a pre-created experience that violates some claims. As you can see, experience one violates two claims. Fatalis is clinically proven to reduce joint inflammation by up to 50%, not 70%.
+
+00:10:26:18 - 00:10:45:25
+不明
+Additionally, our drug is a little bit better. It actually cures pain associated with chronic set in two weeks. Not a. Let's go ahead and run it through our claims checker again to see if our app can catch this.
+
+00:10:45:28 - 00:11:08:21
+不明
+As expected, it did catch that experience. One did violate both of those claims. At this point, I can go ahead and edit the track to contain the proper form claims. This use case is just the tip of the iceberg with Gen Studio UI extensibility. Customers can enhance the prompt in other ways and validate other aspects like legal claims.
+
+00:11:08:24 - 00:11:16:13
+不明
+Now that you've seen how this works, let's see how this is made.
+
+00:11:16:15 - 00:11:44:19
+不明
+The first step in creating a Gen Studio UI extension is to create a project in developer console. Here is my Pre-Created project. When creating a project, select Create Project from template and choose App Builder. As you can see, my project was created with the App Builder template and you can see that listed here. Additionally, make sure to keep the button selected for runtime enabled so that the project comes with runtime.
+
+00:11:44:22 - 00:12:07:22
+不明
+First elastics. For example, we may want to use a runtime action to access the company's external medical claims database. In my project, I'm going to go to the workspace. I'll be working in production and download the project details. I need this later when developing the app to be able to switch to this environment for deployment.
+
+00:12:07:24 - 00:12:31:29
+不明
+Now, now that I have the project and its details, I will show a few open source repositories that we have built to help customers and partners develop their. The first is the Gen Studio UI examples repo, which contains example projects including one similar to my demo. Following this repo is the starting point for anyone creating a Gen Studio UI extension.
+
+00:12:32:02 - 00:12:59:20
+不明
+It comes with all the necessary tools and wiring, so that customers and partners can focus on defining two components. The add context add on for enhancing the prompt and the right panel for validating experiences. Next, I'd like to show the Gen Studio UI SDK, which is used by all reference apps. This encapsulates the API contract between Gen Studio and the IO.
+
+00:12:59:22 - 00:13:34:07
+不明
+Vastly simplifying the integration. Now that I've shown these two repos, let's start developing the app. Let's go to my ID here. Here is my project created from one of the reference apps in the open source repo. Before we get into the code, there are a few prerequisites for development. First, you'll need to install npm. After installing npm, you'll need to run npm install to install all the dependencies in package.json.
+
+00:13:34:10 - 00:14:11:14
+不明
+Another alternative is you could use npm ci. I've already done that, so I won't show that today. Second, you'll need to have the io cli installed globally. I have already done this also. After installing the icon locally, you'll need to log in using IO logging. I have also already done that so I won't be showing it. Next I'll use arrow app use to switch to the context of the project I created in Developer Console.
+
+00:14:11:17 - 00:14:37:24
+不明
+If you've logged in before to a different project, it might ask you to overwrite these files. Now that I have all the prerequisites and I'm in the correct org project in workspace, I can run and build my art, but before running the app, let's review some of its components. There are the typical configuration and dependency management files found in a TypeScript, such as the package.json.
+
+00:14:37:26 - 00:15:08:26
+不明
+Jest test set up TypeScript config eslint. Gitignore and others. Additionally, there are some app builder specific files that tell Aoki what to build, run, and deploy. Let's first open up the app config Yama. This defines the app as a Gen studio extension. Another important file is the.io file, which contains the project details we downloaded and installed using a IO app.
+
+00:15:08:27 - 00:15:33:22
+不明
+Use. If you want to find out more about the specifics of the IO app, please refer to the App Builder Development Guide. Now let's move to the actual frontend code, which lives in the web source folder. Let's go to the extension registration component.
+
+00:15:33:25 - 00:16:00:13
+不明
+This contains all the methods required for Gen Studio to display this file. Although complex is part of our reference app, so customers only need to define a few UI components that are referenced here. There are two key components that we expect customers to define. The first is the additional context type, which is loaded in here, which maps directly to this component here of the same name.
+
+00:16:00:16 - 00:16:28:19
+不明
+It gets mapped to that component using this. Using this route in the app dot TSX. Again a reference that's all come with this preloaded. So we expect this to be pretty easy for a customer to start working with. First elastics. This dialog lets users pick claims from the internal claims library to add additional context to the generation context.
+
+00:16:28:22 - 00:16:56:18
+不明
+The second component I will show is the right panel, which is loaded in here and mapped directly to this component of the same name. This handles claims validation for a Gen studio experience draft. Additionally, I've created a few other helper files the claims checker component and the Claims Validation utility, which basically runs a simplified version of what a customer may implement for validation.
+
+00:16:56:21 - 00:17:21:11
+不明
+Now that we're familiar with the app and some of the pieces I've built. Let's get it running. Let's first run IO app right? This doesn't show the app since we expect it to run in an iFrame, but it will check for population errors, so it's still good to do before deploy. Let's copy this and open it in a browser.
+
+00:17:21:13 - 00:17:51:18
+不明
+As you can see, the app runs fine. Now let's run ioctl to build back. Now that that worked let's run aerospike deploy. This deploys the app under our project. But it doesn't actually make it appear in studio yet. To show it in Gen Studio, I will have to publish the app either publicly or privately. But before publishing, I can preview the app in the UI using a URL parameter.
+
+00:17:51:20 - 00:18:01:12
+不明
+Let's copy this result here, the resultant URL of our deployed app and go to Gen Studio.
+
+00:18:01:14 - 00:18:26:16
+不明
+I go to Gen Studio and I add our deployed URL as a parameter. Right? By basically adding XT equals the URL to our action. Now let's reload this draft. Now when I open my draft, I see my validation extension working as expected.
+
+00:18:26:19 - 00:18:41:10
+不明
+The parameter. Let's take a look and see. It also reflects our changes. It looks good. We can select claims.
+
+00:18:41:12 - 00:19:14:07
+不明
+Since everything looks good. I'm ready to publish. Publishing can happen either publicly or privately. However, after publishing privately, I can't use the same project for public publishing. Instead, I must create a new project. Since my project that I used today has already been published privately. I will be going through that flow today. I go back to the project and developer console, and I go to the workspace, and then I click on the approval tab here.
+
+00:19:14:09 - 00:19:30:07
+不明
+Then you'll be asked to fill in some details about the app, like the app details and icon, and a note for the reviewers. Since I've submitted this before, it's already pre-filled out. So next I submit a request.
+
+00:19:30:09 - 00:19:51:06
+不明
+After submitting, a sysadmin in the org must approve it. Since I am a sysadmin, I can go ahead and approve it through Adobe Exchange. Let's go ahead and refresh and we should see our request. I go ahead and approve the request for our app.
+
+00:19:51:09 - 00:19:58:29
+不明
+Now that my app is approved, I can go to Gen Studio and see it listed under extensions.
+
+00:19:59:02 - 00:20:29:20
+不明
+I won't show that now as I've already shown it in the earlier demo. Public publishing follows a very similar process, but requires a submission to be approved by the App Builder team. Now that I have walked you through the steps for developing, deploying and publishing an app, you are ready to build your own Gen Studio UI extension. Now it's time for you guys to build your own Gen studio for performance, marketing UI extensions to unlock your unique use cases.
+
+00:20:29:22 - 00:21:00:10
+不明
+Here are links to our documentation, our SDK, and our reference apps to get you started. You might be wondering how you get App Builder customers who purchase Gen Studio for performance marketing. Get one pack of App Builder included with their license. We are excited to announce that a number of tech and solution partners are actively building extensions to support compliant use cases in the pharma and FSI space.
+
+00:21:00:12 - 00:21:15:25
+不明
+In addition, many partners are working to extend Jen's studio in areas like Dam integrations and export of approved experiences. We can't wait to see what you will build. Thanks for joining and let's get developing.
+

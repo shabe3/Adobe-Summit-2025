@@ -1,0 +1,448 @@
+00:00:00:37 - 00:00:23:23
+不明
+Awesome. Good morning. Welcome, everyone. It's exciting. Time to get started. Wear your Wranglers up here today. Yeah. Thank you for hopefully everyone's excited. We handed out some super fun belt buckles. You know we are going to be the Wranglers. You are also our wranglers. Hopefully the bash was super fun last night. We really appreciate you coming to a morning session.
+
+00:00:23:23 - 00:00:50:53
+不明
+So really excited to get started. We're going to be doing identity twisters, becoming a Wrangler across devices and channels. So we're going to get started with some quick introductions. Yeah. Howdy everyone. Matt Thomas here. I'm a wrangler, on the stage with these fine folks. Yeah, I've been a practitioner. I've been a consultant. I now sit in the product org within, analytics space.
+
+00:00:50:58 - 00:01:10:13
+不明
+This is, some pictures from the adventures I have a couple of wranglers myself up in that top right corner, as you can see. And, fun fact about me is, my one of my early first summits was 2008, where flight of the Conchords was the entertainment. Was. Was anyone here for that one? Raise your hands.
+
+00:01:10:19 - 00:01:33:30
+不明
+Okay. Two. Three. Okay, four. Cool. That's me. I was like, oh, thank you. I am Claire Grillo. I'm an enterprise architect at Adobe. I'm on the pre-sales side. I cover the digital experience. Some fun facts about me is I'm a big sports fan, and I grew up in San Francisco area, so go Niners. And I was an athlete at the University of Utah.
+
+00:01:33:30 - 00:01:52:52
+不明
+So go Utes. And there's some fun little things that I've been up to in the last year. So thanks, Claire. I'm Chris Pablo. I have not yet earned my. You know, I know I'm not earned my cowboy hat yet. But I do have my buckle. I love a lot of things. These are things I can actually find pictures about.
+
+00:01:52:53 - 00:02:17:51
+不明
+So oysters, pink drinks, yoga and London. And I like little, you know. When's your first summit? My first summit with. Back in 2011 or 12. It was actually called the summit. Then it was called a digital marketing conference. I think I like the most, though, is presenting with people that really know what they're talking about and a really fun.
+
+00:02:17:56 - 00:02:34:31
+不明
+Oh it's me. Sorry. Again. I screwed that up. So maybe to set up you know Clare and that are going to talk a lot about an entity graph and why it's useful and the use case, but the kind of set up the use case I think is important to know what Wells Fargo is. And that should not be a mystery, hopefully.
+
+00:02:34:31 - 00:03:02:10
+不明
+But, we serve 1 in 3 households, and I'm just a show of hands. Who here is a Wells Fargo customer? Awesome, awesome. Thank you for being a customer. You can probably imagine that in serving 1 or 3 households and being a full service bank, all in all sorts of retail, all sorts of commercial. There's a lot of opportunity to to talk to customers, to interact with customers, through various different means, digitally, for sure.
+
+00:03:02:11 - 00:03:12:34
+不明
+5600 branches, a load of call centers to service people. So there's a lot of activity that needs managing.
+
+00:03:12:39 - 00:03:37:27
+不明
+Also, time to get into the session. We're gonna discuss. We're going to cover real fast. We're just going to be covering cross-Channel analytics for you. Wrangler's running going to what an identity is identity strategies, assessing your current identity efforts, why these identities are so important, and customer journey analytics specifically elevating this through stitching, as well as an example from Wells Fargo on those identities.
+
+00:03:37:27 - 00:04:00:41
+不明
+And how do they how to wrangle them just to level set. This is mainly a CJA session. So identities in CJA. However, it starts all the way back at the foundation of Adobe Experience platform or app, as I'll probably call it with our acronyms. So you will be having to do your schema setup. This is where you're setting your primary identity, your namespace and everything around there.
+
+00:04:00:51 - 00:04:24:07
+不明
+And that's going to flow through when you do your data, creations, your data sources, your connections and mapping. Matt is going to really touch specifically on the difference between field based stitching and grass based stitching for identifiers. And then customer Journey Analytics is going to be leveraging all of that to allow you to do reporting, creation and, anything around reporting creations.
+
+00:04:24:12 - 00:04:46:03
+不明
+But we want to start off with what is the basics of an identity and why that's so important. You know, we were playing around with what a definition was. We really struggled to come up and find the best definition. And Matt, you know, said this and I said this fits perfectly for how Adobe sees an identity, and identity represents that link between an individual and the channel through which they're trying to engage.
+
+00:04:46:08 - 00:05:10:51
+不明
+So does our job to personalize messages, and we want to provide that tailored experience for our users. So we have to do this by figuring out that singular view of a person. So that person centric view is really leaning in on those identities. So how are we getting identities? Where are we seeing identities pop up? We're going to see them, for example, at a bank branch you're going to walk into the bank.
+
+00:05:10:51 - 00:05:33:50
+不明
+You're going to already have an account. You're going to go up to a teller. You're going to ask them questions. I want to do a transaction today. When you're at that branch, you're collecting all that information. You're getting customer ID, a transaction ID, all of that information. And that's where CJ's so powerful. By being able to get that cross-channel and be able to get branch information into the platform.
+
+00:05:33:55 - 00:05:52:40
+不明
+Not only that, but web. We have an unknown user looking for loans. They're trying to determine what loan they want. You know, they're a new homeowner. Maybe they need a mortgage loan. They're browsing the site. So an e-cig or an Adobe Experience Cloud ID is placed on the page. But we still don't know it's Cassidy in this situation.
+
+00:05:52:54 - 00:06:13:06
+不明
+We just know that she's been browsing and looking for things. But that identifier was placed, so we have an anonymous way to target her. You know, maybe do some AB testing and figure out anything else. But that identity is important to get started. And then we have McKay sitting and he's he's a current bank member. He's struggling with something in his app.
+
+00:06:13:06 - 00:06:31:12
+不明
+So he calls the call center. The call center is going to have all that customer data. You're going to get that customer ID, you're going to get phone number, more information. But when we look at this we can tell some are durable IDs and some are non durable ideas. And this is really important to think about when you're thinking about your identity strategies.
+
+00:06:31:16 - 00:06:50:43
+不明
+A durable idea or a non durable idea is going to change over time. So we see Cassidy. She is a non durable ID that idea. She could clear her cookies. She could go in an incognito. She could switch devices. So it's important to try to motivate your customers and your users to try to give you those identifiers.
+
+00:06:50:48 - 00:07:08:45
+不明
+Because you want to have that main goal to working towards that durable, stable identifier. So some of the importance of that is going to be the device, the channel and the session are going to remain the same once we know that user and we get that durable idea. So when they go into the bank we have a very strong durable idea.
+
+00:07:08:50 - 00:07:31:54
+不明
+Some great examples and I've kind of call them out here is that customer ID, CRM ID, account number, anything around those? I know a lot of banks create their own customer ID as well. So that's a really great, durable identifier. With that, we can get a full image of McKay. McKay is our cowboy who's been out there looking for loans, looking for information.
+
+00:07:31:55 - 00:07:54:19
+不明
+We can get that full image. Every single identifier is slowly coming together to get us a better image of McKay. So you might start with just SC, id really unknown. You might get email, you get a little bit more of him. Then maybe you pull your CRM data, you're getting more of him. So the goal is to get more and more of that person centric information.
+
+00:07:54:24 - 00:08:11:54
+不明
+So we got to get thinking, how do you get your ideas today? You probably have a lot of IDs. You ought to figure out what IDs are really important. What I do want to push into the platform, which one's going to be the one identifier to rule them. All right. This is going to be really important. And how are these generated?
+
+00:08:11:54 - 00:08:33:10
+不明
+Where are they coming from. Anything around that. So to do that let's jump into identity strategy. And this is where I feel like we get a little bit more fun with my Firefly generated images. So we are all on our horses trying to wrangle in all of these ideas that we have. I'll, you know, you probably have many ideas that cover many different locations.
+
+00:08:33:10 - 00:08:55:05
+不明
+So this is that figuring out roaming those pastures, those cows are your identifiers. So, you know, think about your cows. You want to get them into a trailer. You want to make sure you can determine that primary identifier. So in this example the trailer is my primary ID, which is our customer ID, and we want to get the other identifiers to link to those.
+
+00:08:55:05 - 00:09:19:11
+不明
+So we want to get all those cows inside of that primary identifier. Yes I love the laughing. It's fun right? You got to think of it fun. It can't always just be work. So with a good identity strategy, we can manage customer identifiers better and we can get that relationship across those data set systems and channels. This will ensure that we're capturing every touchpoint and can link them together.
+
+00:09:19:16 - 00:09:41:16
+不明
+This strategy will really help with our cross-channel analytics and personalization. But how do we get them from unknown to known, you know, what's that first step? We got to start with some baby steps. You can't always get that amazing perfect step of a log in. We often see banks have an app. When you have an app, you immediately require them to log in.
+
+00:09:41:30 - 00:10:10:17
+不明
+But that's a known customer and that's a great, perfect use case for mobile. You know who they are on a mobile application because you force a log in, but you might have them on a web page. Searching around it may not be so bank specific. However, it's important to think, you know, for other industries here as well, that you could give them a small discount to get the email, to get a little bit more clear of an image, to get that first version of an image, start putting that picture of that individual together.
+
+00:10:10:22 - 00:10:31:05
+不明
+And hopefully with that $10 off, they convert. So you'll be able to see that in customer journey analytics that they want from an unknown to an email to a known two to conversions. Hopefully with the 10% off that went really well, you could run another AB test and do a, you know, ten, 10% off, 20% off and see which ones do better.
+
+00:10:31:05 - 00:10:52:46
+不明
+And hopefully in CJA, you can see that through your identities and how they slowly got stronger and also for banks, I really want to give this really easy one at the bottom of the page. You can do. We'll give you your rates, we'll give you a quick email. If you kind of start giving us a little bit of your information, and hopefully you can then retarget them and convert them to be a bank member.
+
+00:10:52:50 - 00:11:12:59
+不明
+Again, I just want to emphasize it doesn't need to get perfect. We don't need to get all the way to the mobile app. I think oftentimes we think we got to get to the best desired state, but it's important to remember getting from idea to just an email is still a good state to get started and then try to get them to that final state.
+
+00:11:13:03 - 00:11:33:15
+不明
+Awesome. Now we're going to talk about the benefits and the identity strategy. I again, I'm trying to keep with our fun theme here. So sometimes they're kind of funny. So for operational festivals and say we want to reduce redundant data process and storages by unifying those identities. So we want to get them all into that individual trailer.
+
+00:11:33:20 - 00:11:50:46
+不明
+We want to be regulation compliant. You don't want your sheriff coming out and yelling at you. You don't want to get it. That's, you know, not good in the corral of things. It's not safe. So we want to adhere to privacy laws and governance standards. So with identity, strategies, we can do that. We're going to be future ready.
+
+00:11:50:48 - 00:12:13:09
+不明
+You don't want to get stuck in a twister. You don't want to get in that tornado. It's not safe. It's not good. So let's ensure through identity strategy that you can be evolving with your customers across every touchpoint. And Chris, we'll be talking about that a little bit further soon. And then also this is going to enable those experiences so you can understand the behaviors they did in customer journey analytics.
+
+00:12:13:09 - 00:12:33:13
+不明
+So you can enhance your personalization down the road. I'm going to pass it to Chris to start to get, telling us a story about where Wells Fargo has seen this. Thanks, Claire. So we got three things going on in this analogy. We've got, cows and cattle being wrangled, belts falling off. We've got twisters, and we have Glen Powell.
+
+00:12:33:13 - 00:12:55:29
+不明
+I am not Glen Powell in any of this. So, let's be really clear. So, but but the analogy does work, right? So, and I said at the beginning, lots of touch points, lots of things to coordinate marketers, trying to piece together pieces, for audience building, but also for, obviously for tracking, knowing who's who's who is critical.
+
+00:12:55:34 - 00:13:22:02
+不明
+Let me tell you a really specific story that I think kind of points to the the twittering that's going on. So, we have, we're trying to grow our business and checking accounts. We need to incent, customers and non-customers to come to us. Therefore, we have promotional, programs 100, 200, and $300. And that's really, really important to understand how much money is going to whom and how does that track through.
+
+00:13:22:02 - 00:13:44:09
+不明
+So in, in our less than ideal experience and less than ideal process right now, we generate unique offer codes that are used in direct mail or mailed, emails. Or you can actually see some of these offer codes pop up in, some of the ads in mobile banking, if you're not a check out customer, then you some people take those codes and they walk into branches.
+
+00:13:44:14 - 00:14:03:51
+不明
+You sit down with a great person talking about your needs and not needs and make sure it's the right thing. And then branch person generates a another code. It's called a marketing offer code. And in that process, we also get a kind of an application ID. After that we don't want to pressure customers. So they then say, well, you know, you don't have to do this right now.
+
+00:14:03:51 - 00:14:21:24
+不明
+You can take this home. And here is a little QR code that you can start the process. So the customer goes home. They start the process. They take the marketing offer code and then another application ID that we don't know who this person is yet. We just know that they've got a bunch of codes, right. They complete the application process.
+
+00:14:21:36 - 00:14:44:01
+不明
+Maybe they start one time application code one, maybe they pick it up later. Application code number two, and then finally over, say, a week or so, they actually become a customer. If you're trying to understand, like what was the effectiveness of each of those channels and driving the outcome, good luck. So it's like a nightmare, right? So it's a twister, if you will.
+
+00:14:44:06 - 00:15:08:53
+不明
+Different kinds of identities to two, maybe three application codes, probably a cookie ID, a unique offer code at the beginning. And this creates the, the issue. And I think the opportunity that we're trying to tackle with customer analytics coupled with the identity graph and I'm sorry, I'm sort of the transition. Sorry, what Matt's going to do. Now, the first step in that is to assess your graph.
+
+00:15:09:04 - 00:15:30:57
+不明
+Yeah. Sorry. Thanks, Chris. I think I got lost somewhere along all those different identities. That is definitely a twister. Well, I don't know about you guys, but I'm hot in here. This this, outfit is not my normal get up, but it's, it's pretty warm in here. Yeah. Let's start by assessing the the identity efforts that you have today.
+
+00:15:31:01 - 00:15:57:06
+不明
+Claire touched upon the qualities of a good identity strategy and regardless if you're at the beginning of that or you have a well-established identity strategy, you know, it really is important to kind of assess what is in your data today, what is you know, what identities are prevalent. What are they? Are they durable or not durable? Getting back to what what Claire talked about.
+
+00:15:57:06 - 00:16:29:55
+不明
+So let's let's talk about that, as, as was kind of mentioned and that that visual of a. Yep. And a, you know, the the journey that C.J goes on doesn't start with C.J. It definitely starts with ADP. And so these two screenshots are from within ADP. You know what identities do you have in your data. That left screenshot is from the identity section ADP where we have some out of the box identities defined email hashed email phone number.
+
+00:16:30:00 - 00:16:55:52
+不明
+Eci id and also has a classification for them in that type category. Like are they durable. Are they non durable. Plenty of headroom there for you to to add in your own custom IDs, associated with your organization. That's kind of the first step is really, you know, understanding what they are. And adding any that might, exist within your organization on the right.
+
+00:16:55:57 - 00:17:16:04
+不明
+The next step is really where are these identities located? Are they standalone fields in the schema? You can see I don't know if you can see very well, but the little, thumbprint icon in the email and my cust ID, you know, that it shows that there are identities. Are you using a web SDK deployment? Are you using identity map?
+
+00:17:16:08 - 00:17:40:34
+不明
+Is that where your identities are stored? You know, this is critical. And making sure that you set them up and mark them as identities, as as noted in the the graphic there, that is crucial for not only Ajao but CDP as well. And also now CGA, you know, when you go in and create a connection in CGA, it it hinges off of the identity.
+
+00:17:40:34 - 00:18:02:56
+不明
+It's very important to the whole entire system. And we'll we'll get into that a little bit more. Okay. So now we've established, you know, what identities we have, where they're located. How prevalent are those identities in your data today? That's a logical next step right. So let's assess that. I have a lot of favorite features of CGA, one of which is derived fields.
+
+00:18:02:56 - 00:18:26:31
+不明
+But the other favorite one I have is you creating a metric from a dimension. This is a cool feature. What it allows you to do is taken dimension like email, right? You might have a dimension that houses hashed email addresses. You can drag that when you're configuring your data view in as a metric. So that's what I've done here.
+
+00:18:26:31 - 00:18:49:44
+不明
+I have four different dimensions of different identities in my data set. And I've dragged it into the metric area area when I've defined my interview. And now I have a metric of those four identities. Simple. Count how many times it's been set, on the events. That's step one. Step two is creating a calculated metric off of that dimension that is now a metric.
+
+00:18:49:44 - 00:19:17:58
+不明
+So we'll take one identity email set. That was my metric that I newly created. I'm going to take that and divide that over the total events in my data. What this does is it gives you an authentication or identification rate and tells you, you know, how prevalent this is against all of the events in the data. You would repeat this process for any identity found in this data set, and then bringing it all together in this free form table.
+
+00:19:17:58 - 00:19:43:18
+不明
+Here you would see in the very right you see ID authentication or identification rate. It's under percent. That's kind of what you would expect if this is a web data set. The other two columns you start to see different identification rates based on those identities. And this may help you start to form your strategy on like what? What identity should I use in my organization based on what's prevalent?
+
+00:19:43:23 - 00:20:07:29
+不明
+There may already be an existing, golden ID within your organization that you have, but this can also help guide you in kind of arriving at what that golden ID is, maybe hash phone number because it's so prevalent. Maybe that's the one I choose, and that is the one that we use within our organization. Okay, now shifting gears a little bit.
+
+00:20:07:33 - 00:20:42:06
+不明
+Let's talk about a shared device. Now, I'm sure most of you guys have heard the term shared device, but just to make sure everyone's aware of what a shared device it literally is, a device that is shared by more than one person where, an authentication event happens and more than one person is using that same device. So a couple examples that we've seen in scenarios where we've seen shared devices are these, that first image on the very left, we had maybe a husband and wife are using a family computer where they're both logging into their bank.
+
+00:20:42:11 - 00:21:11:57
+不明
+Or maybe there's a kiosk where you can check in for your flight or a hotel, or maybe even order food. You know, you have multiple people authenticating, performing some behavior, and checking out on a single device. And then lastly is, or the last example I have is, is, a call center. You know, maybe you have a call center where customers call in and, and the call center agent maybe helps you, you know, finish or finalize a transaction on behalf of a customer.
+
+00:21:12:02 - 00:21:39:49
+不明
+Again, a single device, multiple people, multiple authentications to that shared device. Now, why is this a problem? Well, it has actually a pretty big impact on your data, as you can see here. From this table, we have Cassidy and McKay both using the same exact device. They're both exhibiting very different behavior. One is looking at product A and one is looking at product B.
+
+00:21:39:54 - 00:22:08:14
+不明
+How do you attribute any pre acquisition marketing efforts? Who who gets the credit. Not only that. How do you remarket who you know, who do you remarket to and which product are you remarketing? It becomes very, very quickly when you start to think about shared devices. Now you're probably thinking, well, I don't know, do we have shared devices in my organization?
+
+00:22:08:18 - 00:22:32:51
+不明
+What at what level do I have, shared device problem? Well, let's talk about that shared device exposure. I like to kind of look at it in four different areas. Starting with we need to identify how many devices are shared within my data. If you look at this histogram here, you can see that very left bar shows that most devices have a single person associated with them, which is great news.
+
+00:22:32:56 - 00:22:57:46
+不明
+But we do have some bars of people that have more, a device that has more than one person on it, upwards of 15 or more. Right on that very right bar. So first step, identifying the devices that are shared. Second step, how many events are coming from these shared devices. This example it's 20%. Maybe it's not that high.
+
+00:22:57:46 - 00:23:28:23
+不明
+Hopefully it's not that high within your organization. But this helps you understand. You know what what level of events are coming from these shared devices. Then the next step is, is understanding from that 20% what percent of the events in that are anonymous or unauthenticated, right. So if I take a portion of that 20% and I look at the anonymous events in that 20%, 88% of those events are now are anonymous.
+
+00:23:28:28 - 00:24:02:53
+不明
+And the reason that's important is because if you have any sort of algorithm or way of attributing identity to the these anonymous events, you know, you may have some misclassification. So if we take that 88% and we look at that, all of the events, now, we know that 15% of our events, total events come from shared devices from a non A that are also anonymous, that could potentially be misclassified if there's any sort of algorithm you're using to attribute these events to the right person.
+
+00:24:02:58 - 00:24:35:48
+不明
+Now, I've just walked through this, you're probably wondering, how do you do this analysis on your own? Well, besides the awesome belt buckle we gave you, we're going to give you something else as well. We've created the queries for you to do this analysis on your own. That QR code links to a some experience leaked documents. But we have four different queries that you could run today or when you get home or next week, but allows you to assess the, the shared device exposure you have within your data sets.
+
+00:24:35:52 - 00:25:01:48
+不明
+Today. So cool. Hopefully that's, just as good as the belt buckles we gave you. But I will say the belt buckles are cool. So we've been talking a lot about identity. Why why so much talk about identities? You know, Adobe Analytics, we don't nearly talk about identities as much. And it's pretty critical because it it it really is the hinge point at which CGA operates on.
+
+00:25:01:53 - 00:25:25:35
+不明
+So let's go back and get dive a little bit deeper into how, CGA operates today as we, as we kind of started, it sits on a PC. So if you look on the very left, you'll see three different data sets. The colored columns kind of start to highlight identities found in each of them. Now the green the darker green it looks like is found in data set one and two.
+
+00:25:25:47 - 00:25:49:46
+不明
+And the lighter green and one and three. And so those are used in CGA. And when you're in CGA it tries to combine or join these data sets together on the premise of a person ID on the identity found in it. So to get the full value out of CGA, all these data sets need to be aligned to the the exact same identifier.
+
+00:25:49:51 - 00:26:10:50
+不明
+So let's talk about that a little bit more. So for those that haven't been in CGA and looked at the connection screen before, this is inside CGA. And the connection screen. Again big jump from where Core Analytics is today to CGA here you're picking that person ID. In this example I have a call center data at the top, and I have a web data in the bottom.
+
+00:26:10:55 - 00:26:36:34
+不明
+I may choose email because that's the identity in there, and I may choose customer ID in the, the, web data now are two things here. One, if the if the field that you select as the person ID doesn't contain a value, that row gets dropped from CGA, it requires a value there, which is different from core analytics, where every single event had a visitor idea at Asid.
+
+00:26:36:43 - 00:26:58:08
+不明
+Right. So a big difference from that. Also, like I said earlier, to get the full value out of CGA, really these data sets need to be aligned to the exact same ID or identity. So to get, you know, to be able to connect a journey of a customer from your call center in your web data, really both of these should be email.
+
+00:26:58:13 - 00:27:18:32
+不明
+In the connection. But as we learned from Wells Fargo and probably all of you in the room, that's not always the case. Now, all these, data sets aren't aligned to that, right? Identity. And so we'll get to how we solve for that. Let me jump into it. A quick example. So in a here's a web data set, if you pick device ID is the person ID.
+
+00:27:18:37 - 00:27:41:32
+不明
+Well the good news is all the events are going to be brought into the into the connection. The bad news is, is now you have a device centric approach and, you know, reporting very similar to what you have in core analytics today. However, if you pick customer ID that's a problem too, because one, you are missing out on those unauthenticated events.
+
+00:27:41:32 - 00:28:05:31
+不明
+Those first three events and those last two will be dropped from CA, but the plus side is a zero. You do have person centric reporting, and you actually could probably align this data set with other channels that may have that customer ID in it. So how do we have our cake and eat it to this is done through stitching.
+
+00:28:05:36 - 00:28:29:54
+不明
+That term stitching, it means a lot of different things to a lot of different people. So I will define it as, the way I'm talking about it today. So this stitching sometimes referred to as identity stitching or cross-channel analytics, it really is the process of mapping a persistent ID or ID that's found on every row to a person.
+
+00:28:29:54 - 00:28:55:30
+不明
+ID and then taking that and applying it to other events. In the case we don't have a person ID, it does have a fallback method, so we don't lose out on that unauthenticated traffic. And all of this is done prior to the data being even ingested into CGA. And the best part of all, it is compliant with any sort of, privacy regulation that exists.
+
+00:28:55:35 - 00:29:22:17
+不明
+Okay. So we don't have 31 flavors like Baskin Robbins, but we do have two flavors of stitching. We have, field based stitching, and we have graph based stitching with field based stitching. It assumes that all the identities you want to elevate to are found within that single data set. It uses a device split approach when it encounters, shared devices.
+
+00:29:22:22 - 00:29:48:05
+不明
+On the flip side of that, graph based stitching does not assume that all identities are in that single data set. It uses relationships that it finds from other sources to help complete the picture of the identity that you're trying to elevate to. And it uses a last off approach when it encounters a shared device. Scenarios. So let's get into this a little bit more and into the details.
+
+00:29:48:10 - 00:30:14:50
+不明
+So with field based stitching what we do is we create another column with, the best person that we can elevate this data to. It is deterministic, based on the, fields that the data that's in that data set, and we pass over the data a minimum of two times. So as you can see from this data right here, when we run through stitching, I'm going to show you what happens.
+
+00:30:15:05 - 00:30:41:11
+不明
+This additional column gets added. We call it the stitched ID. It's not a proprietary idea. It's just a column title. And it really is either the fallback identifier, which in the first three events is one, two, three, four, because we didn't know that those events belong to Michael yet. But once we do know that one, two, three, that for that device belongs to McKay, we're going to add him in as the stitched ID.
+
+00:30:41:16 - 00:31:03:46
+不明
+You'll notice on those last two events there that the event didn't even come in with McKay. But we are still we're able to put McKay in as the stitched ID once we have that mapping, and we know that this device belongs to him, we can add in his name or in this case, his name, as the stitched ID in a going forward basis.
+
+00:31:03:51 - 00:31:27:39
+不明
+And probably thinking, well, what about those other events? I want attribute those back to McKay as well. I did say that we pass over the data a minimum of two times. So the other time that we pass over the data, we call it replay through replay, we can go back in time and restate history. We can take those formerly anonymous events and a tree attribute them back to McKay.
+
+00:31:27:44 - 00:31:52:08
+不明
+So now that we know one, two, three, four belongs to McKay, we go back in time and correct it. This is done. Daily or, with a daily look back, a seven day look back, a 14 or even a 30 day look back so we can go back 30 days and correct and true up the data based on additional learnings that we find, around these identities.
+
+00:31:52:13 - 00:32:16:49
+不明
+Okay. So that's field based stitching. Now the fun thing is graph based stitching. And both are great. But graph based was released last year around this time. And what the power of it is, it leverages the, the app identity graph. So this is the exact same graph that CDP uses that AJ uses. And now CGA can use it.
+
+00:32:16:54 - 00:32:35:00
+不明
+So again, if we go back to the very beginning of what we were talking about, how we were talking about identities and an app and marking them as identities in the schema. All of that's important because it gets us to this stage. All of the relationships and links between the different identities kind of come together in the graph.
+
+00:32:35:05 - 00:33:00:07
+不明
+Multiple sources make up the linkage between all these different identities, and it allows you to really hop from, we'll say, Asid all the way to loyalty ID when you never have that relationship at all, you can traverse it and get to that loyalty ID or to a customer ID, even though there's no direct relationship there. So again, let's walk through an example.
+
+00:33:00:12 - 00:33:24:32
+不明
+Much like field based stitching, there's two passes of the data with graph based stitching. And again we also create that stitched ID column, based on what we find in the graph. So if we take these first two events we see 1234. We go to the graph and hey there's a relationship between 1234. And okay. So now we can add that in as the stitched ID.
+
+00:33:24:37 - 00:33:47:39
+不明
+Now I'll pause there. That is huge. This data set never knew that 1234 belong to McKay. But now through the power of the graph, we can go and get McKay's information and augment and enrich this data with his with his name on that to show you Cole, which is really cool. Five, six, seven, eight. We go to the graph.
+
+00:33:47:52 - 00:34:03:46
+不明
+Hey, five, six, seven, eight doesn't belong. It's not in there yet. We don't know that this belongs to McKay yet, so we have to put it forward so we don't lose that event in our analysis. Last two events, as you would expect, five, six, seven, eight. Go to the graph and look, the relationship is now there.
+
+00:34:03:46 - 00:34:24:59
+不明
+Five, six, seven, eight is tied to McKay. And now we can pull back and add McKay to our stitched ID column. So just like field based stitching, we want to fix that third row there at five, six seven, eight. That doesn't look right I know it never works out perfectly like this, but hey, it's my example. I can make it work perfectly.
+
+00:34:25:04 - 00:34:47:11
+不明
+So on our replay, which lets us again go back that seven, 14, 30 days and time, we can now go to the most updated version of the graph, which has that linkage between five, six, seven, eight and Matt. And now we can go, hey graph, do you have a linkage between this. Oh I do here's the the customer ID McKay I'm going to add it to my stitched ID column.
+
+00:34:47:16 - 00:35:19:37
+不明
+So the power of this is now I've aligned this data set to customer ID. Other data sets like call center or any other CRM data might already be aligned to call to customer ID. So I've taken my web data align it to the same exact identity that other data sets in my org are line to. And now when I go and create my connection in CJA, I have all these data sets aligned to the exact same identity, and so I can follow a customer journey through all of these different channels together.
+
+00:35:19:41 - 00:35:41:40
+不明
+Now, I'm sure it doesn't work as as seamlessly as that as I just talked about here. So I want Chris to come up and talk about some of the challenges that he faced as they implemented, graph based stitching earlier. Again, sorry. More dramatically, there we go. Thank you. So, right, this is a dense subject, right? Hence the need to make it as fun as possible.
+
+00:35:41:44 - 00:35:58:11
+不明
+When this was announced last year, I just went right over my head in the session. I took this session slides, and I read them, like, over and over and over again. But I'm going to make it now. I'm going to make it even more complicated, unfortunately. But there's maybe two takeaways before you get to this.
+
+00:35:58:11 - 00:36:18:14
+不明
+But so the first is if you have any use case that sounds like our use cases, right. So where you've got event data that has different identifiers, right. It's not always easy ID or it's not always the customer ID that you want graph based stitching. And the reason is, one doctor identified, but you're going to lose rows, right.
+
+00:36:18:18 - 00:36:37:38
+不明
+So again big difference in database analytics. Everything's inside the world is easy right here. You're trying to merge different data sets. They all have different identifiers. If you just declare a single identifier then you lose the rows. The data goes away. You've got to create a different connection for that. You can't put them together. Graph. Graph identity stitching allows you to keep the rows.
+
+00:36:37:47 - 00:36:54:44
+不明
+And that was the thing I ended up with, with team midway through the year. And a yes, let's take this. Let's bring it on. I want the rows of data, because if I can't have the rows of data, then I can't join. So it was as simple as that. So, we go to the next slide a little bit.
+
+00:36:54:44 - 00:37:12:08
+不明
+Some people always like stats right. So and this is, this gets a little bit more complicated. Other things we needed to do to make this work. First is like to actually discover the behavior of customers. Talk about shared devices. How often does this actually happen? Is it not just like once in a while people share the same computer?
+
+00:37:12:13 - 00:37:37:00
+不明
+No, it turns out they do it a lot. And this was totally dumbfounding to me, right? That like, there's this literally means people are giving their phone or their PC to other people and then logging in at different times. There's quite a few people. Maybe retail banking is examples of this, I don't know, but totally shocking. And what that was, what was happening is we were getting lots of collapse.
+
+00:37:37:05 - 00:37:57:06
+不明
+So into CRM IDs or we call e-cards where with that is just can't happen. So that was a a big wake up call. The second big wakeup call was in that trying to find other identifiers that we could do use the merging like hashed email, hash phone, or just plain old email and phone. Again, lots of sharing.
+
+00:37:57:06 - 00:38:20:48
+不明
+And you think about and so yeah, well, some of our very best customers, they'll have multiple accounts with us and they'll purposely use different phone numbers in emails to separate concerns. Right. My home loans. Can I go to that email? And my you know, my wife manages a checking account. So we're going to use that email. So we were trying to use that and just like okay that's a problem.
+
+00:38:20:48 - 00:38:46:02
+不明
+Right now I'm so I've already talked to us a little bit. We started the okay, now we got a problem collapsing, you know, how long is it taking to, to authenticate? And what does this look back thing look feel like so pleasantly surprised that actually 97% of our traffic authenticates within a seven day window? That's pretty good, actually.
+
+00:38:46:07 - 00:39:08:04
+不明
+A lot of that is because people are still using, login experiences on the web, particularly when it's web and mobile. But, so that was really good. So that means that we weren't having a lot of hanging the IDs. That might be different, but they were they were still authenticating. And the seven day look back window, I think it's just true for, for people staging, you call it replay, right?
+
+00:39:08:04 - 00:39:33:24
+不明
+So field based stitching and angry graphics stitching, I think the key thing is, when you set up a, a new event data set, connect into it, the initial, the initial load can backfill so it isn't, you start it and then you only get seven days when you initiate and you can ask to backfill. The backfill might take a very long time depending on how far back you want to go.
+
+00:39:33:29 - 00:39:55:34
+不明
+But you kind of top up, if you will. And that's how you establish a base and you top off the top up after that, one of the really big thing. So, when we're getting device collapse. So what do you do? First, the first thing we did was we called Adobe and said, like, there's nothing to fix this.
+
+00:39:55:34 - 00:40:18:42
+不明
+What do we do? Right? And, we got some smart engineers, from Adobe said we can fix this. And they created a thing called the penalty box. So penalty box was a you go ask them to, basically un untangle or, d collapse or re inflate whatever the written word is, those things you don't want to collapse.
+
+00:40:18:47 - 00:40:35:51
+不明
+And then about I think it was 2 or 3 months ago, the I don't know what the exact name of it is, but essentially it's an identity simulator, which there was a couple labs this week that you should really go to if you want to get into this, which allows us now to do two things. One is to simulate a scenario.
+
+00:40:35:51 - 00:40:57:42
+不明
+What if customer A, you know, did this, you know, on two different two devices, then what if they shared an email address and you you sequence the activity to figure out what would collapse and what would not. And then underneath it you simulate the rules. So the rules are two things. And you're doing this, by the way inside ATP, not in TGA.
+
+00:40:57:47 - 00:41:21:33
+不明
+The rules are two things. One is what thing? What identifiers can never collapse. You can never have see, our minds absolutely cannot happen, right? Particularly in like we cannot send audiences to, you know, we can't be eligible for a home loan to two different people like that. It has to be the person. So there's an absolute and then there's a hierarchy.
+
+00:41:21:38 - 00:41:42:19
+不明
+So after the absolute like what's the hierarchy of IDs. And so we're in the middle of that right now trying to simulate well here the three different kinds of application IDs. And what if we layered an email and phone. What would happen to the graph. And you can't really see it. But if you go you can't see it actually, it'll tell you which ones that break apart and which ones it'll keep whole.
+
+00:41:42:23 - 00:42:03:53
+不明
+And then you can basically manage your graph that way and then that, then determines exactly what gets stitched and what, and what frame. So big things again are number one, if you want to graph DB and you have event rows with multiple IDs, you're going to lose rows and it's going to be a nightmare. So for that reason alone you want to be doing graph stitching.
+
+00:42:03:58 - 00:42:23:28
+不明
+And a second know that, it isn't as simple as just taking in the connection. You've got to also play with this, ID simulator and do a hierarchy. Put those two things together and you have a chance to try to stitching in these journeys. I think that's it. Clear you're going to bring it home. Bring us home.
+
+00:42:23:29 - 00:42:40:16
+不明
+Yeah. Hopefully everyone had a fun time. I know there's a lot of information. It was pretty dense, but, you know, hopefully you got a fun belt out of it and got some good real life examples from Wells Fargo here. So excited and glad we were able to present today. And just a quick reminder. My name is Claire.
+
+00:42:40:16 - 00:42:46:23
+不明
+I'm an enterprise architect. This is Matt. He's a product manager and Chris at Wells Fargo. So thank you again for coming.
+

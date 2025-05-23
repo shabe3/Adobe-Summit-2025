@@ -1,0 +1,240 @@
+00:00:00:09 - 00:00:23:36
+不明
+And welcome to the true cost of a failed martech implementation. No snarky, clever title, just like right to the point. And let's dive right in. Who am I? Why should you trust me to have this conversation with you? Well, my name is Andrea, like Rebecca. I am chief strategy officer at a company called GSW consulting. We do Adobe consulting, B2B marketing in general.
+
+00:00:23:36 - 00:00:49:01
+不明
+We are platform agnostic. But we do love and support a lot of Adobe clients on both. Marketo engage, Marketo measure. And then also, all of the other products, the campaign product and the analytics product and all of the things. I have a soft spot for Marketo. I have been consulting on Marketo since 2011, from 2011 to 2022.
+
+00:00:49:03 - 00:01:06:20
+不明
+I was with a company called lead, and if you've been around the ecosystem for a while, you probably recognize that name. So I, I still, as we, all of us old school Marketo people say I still bleed purple. And that is to say, I've been around for a really, really long time, and that's going to be useful information for you in a little bit.
+
+00:01:06:21 - 00:01:32:13
+不明
+I don't just say it for my own ego. So here's the agenda of what we're going to talk about today. First up we are going to talk about the current state of martech. So, if you've been on LinkedIn or if you follow chief Mark MarTech, you already know that the options in martech are exploding. You might not even know how much they have exploded since I began in 2011 through to 2024.
+
+00:01:32:13 - 00:01:54:33
+不明
+But we're going to talk about that a little bit, because it adds some context to the rest of what we're going to be talking about, which is the current state of martech implementations, which has first party research that we've just finished. In fact, this is like the first presentation that we're even doing with some of the results. So you get, sneak peek of this research that we just did last month.
+
+00:01:54:39 - 00:02:22:26
+不明
+This is not like 2017 research or anything like that. It's fresh, hot off the presses. And so we're going to talk about what the true cost of failed martech implementations is, in hard dollars and then also, some soft stuff that happens. Derivative of the fact that you've had this, failed martech implementation one. And we actually pride ourselves on being very pragmatic, very practical.
+
+00:02:22:26 - 00:02:48:46
+不明
+And therefore, I want to talk a little bit about some warning signs to watch out for if you are in the midst of a MarTech implementation to know if like, is it going well or like not so much. And how can you usher in real success with martech? So, through the research, there were very specific things that people who were succeeding at martech implementations were doing very differently from those that worked.
+
+00:02:48:46 - 00:03:09:46
+不明
+And so we are going to highlight those for you and give you, some very explicit ways for you to improve on things that make you more successful versus not. And that's the resources that I speak of there on my last bullet point. Without further ado, what are we currently dealing with in MarTech? Well, let's just state for the record, martech.
+
+00:03:09:46 - 00:03:39:39
+不明
+It's critical for modern businesses to when your competitors are all using your fancy schmancy new tools. And therefore, we have a a game of catch up that we are all sort of, suffering through. And so the other component of this is martech options. They have just been they've been crazy for a long time. And this year in particular, or I should say 2024 was the biggest amount of growth we have seen in a lot, a lot of years.
+
+00:03:39:39 - 00:04:06:40
+不明
+So from 2023 to 2024, we saw almost 30% growth in the number of technologies that were available for marketers. So there is now over 14,000 martech solutions, according to chief MarTech, which is insane growth. When I started, I started over there in Little Baby 2011, and I have seen platform after platform after platform after platform of growth, it has been absolutely insane.
+
+00:04:06:43 - 00:04:26:25
+不明
+So there are more technologies than ever that we are trying to figure out how they all are going to work together, and we're trying to figure out how do we do one point solution, or do we buy something like an Adobe product and get a lot of bells and whistles in one product? Is it better to have all of our data in that space, or are we trying to integrate from here to there to there to there?
+
+00:04:26:33 - 00:04:50:18
+不明
+So a lot of complexity in this space. And let's just talk a little bit about what people are investing in. That's not the main point of this. So I just want to kind of like level set a couple of things because again, I'm on LinkedIn a lot, okay. And I've seen a lot of people, get a little bit down on Marketo and, and the Adobe products and say that a lot of people are moving to HubSpot and all of those things.
+
+00:04:50:29 - 00:05:11:33
+不明
+So I feel like it is worth just saying that old players are still very much dominating the conversation due to our research, and then the other things that I'm going to be showing here on this slide and that really Marketo and Salesforce are still trusted by a lot of not only just companies, they have a really big market share, but also by leading companies.
+
+00:05:11:38 - 00:05:38:13
+不明
+So our friends over at Castrol did this, research where basically they looked at everybody who were leaders in Gartner's Magic Quadrant. So Gartner does a magic Magic Quadrant about all sorts of different categories like cloud storage and AI and all of these sorts of things. And what capture all did was look at what marketing automation technology are those leading companies over in the Magic Quadrant using?
+
+00:05:38:13 - 00:06:04:14
+不明
+And they found that over 75% of them are using Marketo now. Is that causal? Right. Like, are those companies winning because they use Marketo or is it just happened stands? I don't know, but I think it's like very impactful that all of these companies who are leaders in their specific areas are often trusts Mark Meadows product to help them communicate with their clients and really do what marketers do, which is mass communication.
+
+00:06:04:19 - 00:06:25:33
+不明
+On the CRM side. This is a this is from Sixth Sense. It's a little bit odd because you've got Salesforce and Salesforce CRM here. So I think market share details are one of those things that's pretty hard to come by in a category like CRM or map. But the other stat that I saw around this is that the estimates are that Salesforce owns probably 30% of the CRM market.
+
+00:06:25:39 - 00:06:54:45
+不明
+So somewhere between 30 and 50% is likely true. HubSpot is down there under 5%. So again, like that old saying is like the the rumors of my demise have been greatly overexaggerated. Like, I think that a lot of people, because they use these technologies, Marketo and Salesforce have some beefs with some of the technical elements of them, but they are still very much the toolkit that the majority of winning businesses in B2B are using to do their marketing and sales.
+
+00:06:54:50 - 00:07:18:07
+不明
+With that said, what is the state of martech implementation? So we and we, conducted a survey. Around 200 people responded to it. And what we found in the survey is that failure is pretty common. Okay. So, one out of three martech implementations outright fail or deliver neutral results. So it kind of is like a myth, right?
+
+00:07:18:07 - 00:07:41:05
+不明
+Like, like we did this thing, we implemented this technology. And the answer is like, was it good? No. And so, let's just talk a little bit about what we can ascertain from this statistic. So on the one hand, you might look at this and say, well, one out of three at least it's not more right. Like one out of three is, is like not so bad, right.
+
+00:07:41:06 - 00:08:14:18
+不明
+Like at least 90% of martech implementations aren't failures. But the thing to keep in mind about this one particular stat is that this is the question was, how do you classify your most recent martech implementation in terms of complete failure, failure, neutral success, or like highly successful? And so one third of people, just their most recent martech implementation, they would consider either one of those failure options or neutral and like to some extent I think like one failed martech implementations, probably one too many.
+
+00:08:14:18 - 00:08:32:20
+不明
+Right. Like this has a huge impact not only on the business but also on the individual. Right? This is how people lose their jobs, right? If we implement a technology and it doesn't do what we said it would do within the organization, and ultimately we're not getting the business result from it. That is very bad for us personally.
+
+00:08:32:20 - 00:08:50:36
+不明
+And more and then broader the business not good there either. So, so that's kind of how to think about that. And then the other thing that I would add is like, this is just the most recent martech implementation. So people like me, maybe my most recent martech implementation. Totally fine. Great. Good to go. But have I failed?
+
+00:08:50:47 - 00:09:08:40
+不明
+Oh my goodness, have I failed? I have failed a lot, which is part of why we wanted to do this research, to really understand how much failure is still occurring and what do we think the impact of that is. And so this is where things get, I think, a little bit more interesting. So we know that martech implementations don't always go to plan okay great.
+
+00:09:08:51 - 00:09:29:20
+不明
+So it's pretty common but it's also really costly. So one of the questions that we asked was what do you think that the impact of failed implementation is? And let's just talk about some of what we're seeing here a little bit more explicitly. So essentially you have in blue successful implementations. Again that is was your last martech implementation successful or not?
+
+00:09:29:31 - 00:09:52:10
+不明
+These are the group that said yes, we were either highly successful or at least successful. And then you have the oranges which are the failed or neutral implementations. So when you look at this first item you have revenue loss. To me this is like people whose most recent implementation has been successful. Their biggest fear of the impact of a failed implementation is revenue loss.
+
+00:09:52:19 - 00:10:23:25
+不明
+To me that is very, very telling versus people who have a more recent failure. And they're or their impact is really high. Over 60% of them said that one of the impacts of this failed implementation was it took too much time to get a campaign to market. So that's a very preliminary impact, right? I, I failed to get this martech up and running at the speed that I wanted to, and therefore it affected my campaigns versus people who are successfully implementing martech are thinking much more long term.
+
+00:10:23:33 - 00:10:44:40
+不明
+They're thinking about revenue loss as the impact instead of that more immediate, oh, this person quit because they were frustrated with it, or this campaign didn't get out into the market as quickly as I wanted. People who are successful think way more about customer churn. They're the only people who had a customer churn number, right? Failed people weren't saying that it cost them any clients, which I think is probably not accurate.
+
+00:10:44:52 - 00:11:06:19
+不明
+So you kind of see in the data, the story starts to arise that people who are who have a more recent successful implementation probably have learned a lot of lessons from failed implementations, and we should all learn from them. So how is failure defined here? So more and more like when I started in 2011, it kind of was good enough.
+
+00:11:06:19 - 00:11:39:41
+不明
+If you just got Marketo stood up and you got some forms on your website, like there was a pretty low bar to success. Now companies really are scrutinizing budgets. They are scrutinizing how much is spent on all of these platforms, and they really need to see return on the investment. And so again, blue success, orange fail. And what you're seeing in this data is that successful recent implementations showed incredible speed for time to value within the first 1 to 6 months.
+
+00:11:39:50 - 00:12:14:46
+不明
+You are getting an ROI on this implementation versus, as you'd probably expect, right? Failed or neutral implementations. No measurable ROI at all was much, much, much more common. The other interesting thing that, doesn't just come from the size of the bars on this chart, but it really comes from looking and scrutinizing the data is if you think about people who have a failed or neutral implementation, and yet they had ROI in the first 1 to 6 months.
+
+00:12:14:51 - 00:12:42:15
+不明
+Well, if you got ROI, why do you still not consider it successful? And we have an answer to that in the the later bits of this presentation. So what are the downstream effects of failure? I think the big one, as I've already mentioned, is revenue loss. Right. So the higher your ACV or average contract value plus, the more expensive the technology equals, the bigger risk.
+
+00:12:42:19 - 00:13:09:05
+不明
+This is a no brainer. You don't need a report to tell you this common sense thing that if your price point is high, you're selling multi-million dollar deals and you're investing $1 million in a technology. Your risk factor is exponentially greater than if all of those numbers are smaller. If you drop five grand on a martech implementation and you have an ACV of $1,000 a year.
+
+00:13:09:07 - 00:13:45:18
+不明
+Your risk factor is a lot smaller. If your numbers are smaller, that's the no brainer thing. However, the interesting thing here that came out of the data is that successful organizations projected that risk of revenue loss insanely higher. 24.2% of people whose most recent martech implementation was successful. They estimate that the losses that a company would incur by failing at martech implementations is between 5 to $9 million annually, versus the failure group estimated their revenue loss was like $100,000.
+
+00:13:45:28 - 00:14:11:58
+不明
+So I am calling this we like previous failure quotient of around 49 x right. Like and that's on the low side. That's the 5 million side. If you did the math on the 9 million side you're talking about like an 89 x previous failure quotient. Right. This is the fear of like this sucked. Maybe these people had big impacts like they lost their job or they the entire team got downsized or something.
+
+00:14:11:58 - 00:14:38:10
+不明
+There is a big fear happening here of people who now are successful at their motivation previously. Not that I think is really, really interesting. The other big thing here is you have Team Churn that happens. So the journal of the Academy of Marketing Science, do you subscribe? They report that a CMO, obviously there is a big CMO turnover problem in B2B.
+
+00:14:38:15 - 00:15:10:28
+不明
+The average tenure is hovering around the two year mark. It has for a long time, they conducted research that showed that Cgms have a 50% greater chance of being fired if there is not revenue growth. So it has nothing to do with overall company profitability. But when revenue growth slows and the buck stops with the CMO, oftentimes, in addition, from our own research, 42% of respondents with failed implementations said that the failure resulted in employee churn.
+
+00:15:10:30 - 00:15:34:39
+不明
+So very straightforward, clear cut. They are seeing firsthand that there is they frustration that and whether that that churn happens from, the employee themselves being frustrated and quitting or if it comes from the top down, you failed and therefore you're fired. We didn't we didn't explore that. But there's certainly this very human component of churn that happens when failure happens.
+
+00:15:34:51 - 00:15:55:19
+不明
+Okay, so as I mentioned, though, we like this isn't all going to be grim. I am going to give you some very pragmatic things. So these are things that you can be on the lookout for where your risk of failure is increasing. So if you cannot tie tech outcomes to a company objective, we're going to talk explicitly how to do that.
+
+00:15:55:21 - 00:16:16:52
+不明
+I'm going to give you a little spreadsheet to, if you do not have a set due date for expected outcomes. Also highly risky. The exact team is not receiving regular updates on the project. Very bad, as you will see in the rest of this data. Like your exact team needs to be active from beginning to end in order for the perception of success to be there.
+
+00:16:16:57 - 00:16:51:31
+不明
+And then the last one is very explicit. If you do not have a training schedule for how your team will be onboarded and enabled into the tool itself, along with ongoing support afterwards, very, very risky. Okay, so what are the biggest issues in a MarTech implementation? This is what our data found. So what we asked is okay if you failed in the in a martech implementation or if you've been successful, what are the biggest challenges to this and the biggest things that came out is change management, misaligned cross-functional teams and then post implementation support.
+
+00:16:51:36 - 00:17:14:40
+不明
+And really I'm going to reiterate this again. You're C-suite in many ways must drive these priorities. Okay. And so failure also means on forecasted investments. So one of the things that we asked was, what did you end up having to invest more in than you originally did with the initial implementation in order to eventually get success in your martech?
+
+00:17:14:45 - 00:17:35:38
+不明
+And the answer was mostly training and enablement, right? Like sometimes we had to hire new staff, sometimes we had to hire new consultants. Sometimes we had to purchase new stuff. But really what we found in most of the data is this it came back again and again and again to training and enablement and post implementation support. So how do you shift the tide of success?
+
+00:17:35:50 - 00:18:15:03
+不明
+This is a three step process. The first is you must align your martech investments with your business strategy. So that kind of sounds ethereal in some ways, right? A little foggy. What does that actually mean? Well, what it means is you must document your goals explicitly. Okay. So this is the spreadsheet that I told you about. So in a for profit business and even one could make an argument about non profit businesses, but in a for profit business we want anything that we invest in in the business, whether it's a person, whether it's a process, whether it's a technology to do one of these things and most of them have a direct impact on the
+
+00:18:15:03 - 00:18:42:02
+不明
+business besides the last one, which is compliance, which is basically like not getting sued, which ultimately saves money. But you really want to focus on these first three, right? You either want to save time. You want to make more money or you want to save money. And I'm not going to go through all of these explicitly, but you really want to figure out when you implement this technology, which one of these things is it going to impact when and by how much.
+
+00:18:42:07 - 00:19:02:30
+不明
+And you want to quantify that in hard dollars as much as you possibly can, even if it's an estimate, this is going to save 20 hours per week times this amount of rate that we're paying the people that do that thing. That equates to this much savings in a weekly basis, which multiplied by 52 weeks. Is this much in a year?
+
+00:19:02:34 - 00:19:28:49
+不明
+Boom proves the ROI for you. Step two you are going to shift the tide for your success. If you ensure that the C-suite actively participates in the implementation. Vendor selection. Okay, I know it can be tempting to cut C-suite people out because they have so many opinions that calendar is always booked, they're blah blah, blah, blah, blah. Like, I know C-suite people can be a pain in the ass.
+
+00:19:28:49 - 00:19:55:51
+不明
+I say as one myself, I understand. However, it's very important. We saw time after time in question after question that if the C-suite is not involved in every bit of this process, it really does dramatically increase the risk of failure for your project. So include them. Make sure that they are aligned to the business goals, just like we already talked about.
+
+00:19:55:51 - 00:20:22:40
+不明
+But then also, honestly, I would be showing people this research. I would be using this with my C-suite to convince them of the importance of these elements, because training is often a place where there is not a line item in most departments that help with training. And so if you are not putting training in as a part of your implementation project, you're never going to be able to pay for it, essentially.
+
+00:20:22:48 - 00:20:50:25
+不明
+So show how important this is, right? Look at the difference between successful and not successful people on this training services like it is insane, right? Almost 50% of people with successful implementations are investing in training versus under 10% when it's not successful. That is not good. Okay. And also when you're searching for somebody to help you implement products, product expertise, I it's a no brainer.
+
+00:20:50:25 - 00:21:10:39
+不明
+But it is important here. And then you want to make sure you're also getting strategic chops. What often happens when you are looking for someone to help you implement a martech solution? What happens? I'll just give you a second. I'll pause for you to think about it. Where do you get people's information? Referrals. Right. Like, oh, well, you know, nobody gets fired for working with Accenture.
+
+00:21:10:44 - 00:21:37:36
+不明
+Know that if you look at the number of people with failed or neutral implementations, internal external referrals are the two biggest ways that they evaluated partners and then they failed. Okay. So like do not rely on referrals and also do not go with just the cheapest option. It is the it is not the right approach to figuring out who is going to be most helpful in order to get your martech implemented correctly.
+
+00:21:37:40 - 00:22:03:16
+不明
+Third is is it prioritized post implementation support and training? Again, I cannot beat the training drum enough, right? When we asked what sort of future resource requirements people would put into their plan in order to avoid failure in the future, both groups of people said. Com apprehensive training for internal teams and post implementation support, access to better trained consultants would also help.
+
+00:22:03:21 - 00:22:29:29
+不明
+But that's not under your control. What is under your control is comprehensive training for your internal folks, and then also partnering with somebody that has post implementation support. My tip to you as a person who does this is that if you ask for this, while you are working through the scope of work to do the implementation of the technology itself, you can often get a retainer at a cheaper rate in order to augment that post implementation support.
+
+00:22:29:34 - 00:22:48:52
+不明
+And again, my tip when you are thinking about implementing a new piece of martech is you have the most negotiation power at the beginning, and you also just have to go through procurement once to get this all done. And so you really want to be prioritizing training post implementation support right at the beginning. And how are you going to fund it.
+
+00:22:48:52 - 00:23:11:42
+不明
+Because if you wait until afterwards, it increases that likelihood that whoever you're asking for more money is going to be like, well, we should already be implemented, why don't we already have what we need? Why didn't we know this was going to happen? You want to be able to look around that corner and give the advice to your C-suite person, or whoever's writing the check, that this is what we need in order to be truly successful and use this data to do it.
+
+00:23:11:52 - 00:23:33:16
+不明
+So, in conclusion, martech outcomes must tie to hard business objectives. And mostly you're going to be the best off if you tie it directly to revenue, not even profit revenue. It might seem like a good idea to not involve your C-suite because it might be easier and blah blah blah blah blah, but it's not. Not in the long run.
+
+00:23:33:25 - 00:23:55:07
+不明
+In the long run, the change management components of their sponsorship is going to be really, really important. Three, you want to invest heavily in getting to know the strengths of your implementation vendor and prioritize training and go live. Support. Do not just pick a vendor because they were referred to you by somebody in your organization, or a friend or a peer.
+
+00:23:55:12 - 00:24:23:24
+不明
+Finally, huge QR code for you to sign up to receive the full report. Again, we have just released this, so, you are going to be one of the very first people if you fill out this form to get this into your inbox and use it to be able to convince your boss to invest in the right things, to make sure that your implementation goes off without a hitch and you get promoted, and a bonus and all sorts of fun stuff.
+
+00:24:23:25 - 00:24:45:13
+不明
+So that's my time. More resources here about GSW, including people that we've worked with, a rev ops framework so that you can do even more things around getting additional budget to help and grow your department and all the things. So, reach out to me on LinkedIn and, ask any questions or go to our website. Reach out to us there.
+
+00:24:45:18 - 00:24:47:25
+不明
+Hope you enjoyed. Happy implementing.
+

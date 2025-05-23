@@ -1,0 +1,448 @@
+00:00:00:16 - 00:00:26:28
+不明
+Hello everyone. Welcome to our session today Lean Teams big growth best practices for your experience. Platform investments. My name is Anne Sharp and I'm a director of solutions consulting at Adobe. And today I'm joined by Leanne Buckley from Vanguard Australia. And Andrew Church from Wegmans Food Markets to talk about a topic that clearly generates a lot of interest.
+
+00:00:26:32 - 00:00:47:19
+不明
+And that is to answer the age old question, what is the overlap between 400 and K's and produce? And my hope is that by the end of the session today, you'll come to learn that the answer is actually quite a lot. But before we do that, I want to start out talking about how this session came to be.
+
+00:00:47:23 - 00:01:10:48
+不明
+So I stay within the technical pre-sales organization here at Adobe, and we are the people who come to you with our custom demos all cued up our presentation decks. Ready? Really excited to talk to you all about the value of Adobe Experience Platform. And one of the things that I love most about my job is the variety of questions that I get from folks like you.
+
+00:01:10:53 - 00:01:43:03
+不明
+In one breath, I could be asked about how to summarize experience platform in ten words or less. And then in the next breath, I'm being asked about message payloads in Adobe Journey Optimizer. Now, ignoring the fact that I actually enjoy being in this constant fight or flight mode, which is a tad concerning. I'm constantly leaning on my product knowledge of Adobe Experience platform to answer your questions and speak to the value of AP and what it can do for your organizations.
+
+00:01:43:08 - 00:02:04:52
+不明
+But one thing I realized over the last couple of years is that the way people were asking questions when they evaluated new tech started to change. And while the questions themselves were still rooted in will this solution meet my need? They started to take on a bit of a different tone. Questions around real time segmentation started to focus on reusability and scale.
+
+00:02:04:56 - 00:02:40:14
+不明
+Calls for references started to focus on organizational models and measuring success. And instead of asking about setup time, people wanted to know about best practices for success. And before implementation had even begun. In other words, people were really excited and eager to learn about the enablers of success outside of the capability itself. And the more we got these questions in the field, the more we realized we needed a forum like this to share our insights and recommendations, making sure that those are rooted in real life client examples.
+
+00:02:40:19 - 00:03:08:56
+不明
+And that's what I'd be focusing on today. Answering the questions. What do lean teams lean on best practices to maximize your experience, platform, investment, and to do that, we'll hear from two individuals that are very familiar driving digital transformation within their organizations. We'll ask them how they did it using Adobe Solutions and their investment in ADP. And we'll end by giving you tangible takeaways to apply within your teams to deliver meaningful results and impact.
+
+00:03:09:01 - 00:03:28:53
+不明
+So with that, I'd like to hand it off to Leanne Buckley, martech strategy and delivery manager at Vanguard Australia. She'll be introducing herself, her company, her team and some of the initiatives they're launching with their hyper personalization program. Yeah. Thanks, Sam.
+
+00:03:28:58 - 00:04:02:11
+不明
+Thank you. Hi, everyone. So I'm Leanne Buckley, and I lead the marketing technology function at Vanguard in Australia. My career has been centered around bridging the gap between marketing technology and data. And, driving. Sorry. And my my role as I used to lead the digital marketing function was to transition into it, to build the engineering team, to bring a business lens to the engineering outcome.
+
+00:04:02:16 - 00:04:36:02
+不明
+And we've been successful at, implementing an integrated, marketing stack, leveraging Adobe solutions. And I'm really excited to be here, my first from it. So, I'm on the stage, but being my first summit, to share some key learnings and best practices that we've learned along the way, and potentially help you with, with your, with the oscillations at Vanguard, in Australia and globally, we focus on delivering innovative investment solutions to our customers to help them grow their wealth, and navigate the evolving markets.
+
+00:04:36:06 - 00:05:00:03
+不明
+So whether that's through an ETF, a managed fund or a listed stock or share, our mission remains the same. It's to take a stand for all investors to give them the best chance for success and to treat and fairly and give them the best chance of investment success. And it was about two years ago, in Australia, we launched a brand new business line to this.
+
+00:05:00:03 - 00:05:33:56
+不明
+So superannuation or what you would like to call a 401 K product. And so our Vanguard Australia journey has been one of rapid transformation. You know, we were originally a B2B focused business, and we made this decision to a strategic shift to redefine, how we allow our retail customers to access our products. And it's a funny story, but just about four years ago, as an investor in Australia, from a retail perspective, you had to send us a fax to instruct us to do your investment.
+
+00:05:34:00 - 00:05:53:48
+不明
+I don't even know. The last time I saw a fax machine in a store. So, you know, you know, you were really dedicated, to to want to invest in, in Vanguard. And so that's why our investment in a modern marketing infrastructure was so critical. We needed to, to deliver the digital, access to our customers.
+
+00:05:53:48 - 00:06:14:30
+不明
+And we needed to be in a channel that they were engaging in. We needed to give them relevant content, that they could, that could help them along their journeys. And so, yeah, our investment in Adobe product has, has really helped us along that journey. And when you think about digital transformation, it is really easy to get caught up in the technology.
+
+00:06:14:30 - 00:06:41:36
+不明
+Believe me. I mean, it. But at the core, it's really about enabling people, and empowering your teams to work smarter, not harder. And just ensuring that we can get the most relevant content in the most timely fashion and personalized experiences to our customers. And our vision was really ambitious, you know, deliver real time content to every customer in every channel they engage in.
+
+00:06:41:36 - 00:07:08:32
+不明
+Go forth. And Cronkite was like, yeah, so simple. And at the time, our data was completely fragmented and siloed. Our campaigns were extremely resource intensive, and personalization was impossible at scale. With just two engineers in our team, we knew that we needed, some product, deep product expertise and a partner to help bridge the knowledge gap.
+
+00:07:08:32 - 00:07:35:36
+不明
+And enable this, implementation for us more effectively. And our challenges as you're all here today facing that they weren't uncommon or may still not be uncommon, you know, campaign execution being really siloed. Everything being done manually for us. We had our teams creating manual lists and having to automatically, you know, try and upload them into an email platform only to send a single send email.
+
+00:07:35:41 - 00:08:00:39
+不明
+And this required extensive deduplication and cleansing. So again, just a really multiple teams doing countless preparations to send this single touch campaign. So we had limited reusability and just know scale. So our approach was really stagnant. There was no way that we could think about optimizing or even personalizing at scale just because of these manual processes.
+
+00:08:00:44 - 00:08:24:48
+不明
+So we knew that to move to this hyper personalized goal, we would need a fundamental shift. And for us, it was the Adobe Customer Data Platform. Okay. Thanks. Land. And I have to say, it's been really fun getting to know you through this process and, sort of swapping war stories. And my kids were super excited to hear that.
+
+00:08:24:48 - 00:08:49:22
+不明
+I was giving a presentation with Louise, mom, I'm so excited. I have to. First of all, I'm from South Africa. All right, I won't tell them. I won't tell them. Hi, everyone. I'm Andrew Church. I oversee the, martech team and function, within Wegmans. Unlike the. And I actually sit within our marketing organization. And I'll talk a little bit about kind of how we got to that point in our journey.
+
+00:08:49:27 - 00:09:13:22
+不明
+Quick show of hints. Anyone been in a Wegmans in all of our stores? Oh, great. Wow. Quite a few. Awesome. Many of you may not know that, we are family owned and operated, and we've been in business over 100 years. We started as a just a fresh produce cart in Rochester, New York. And since then, we've grown to over, over 100 stores across nine states, with over 50,000 employees.
+
+00:09:13:27 - 00:09:36:21
+不明
+And our mission has always been to help our customers live healthier, better lives through exceptional food. And we believe that the way that we can do that is through getting to know our customers almost as friends. And for a majority of that history, we've been doing that with these really, personal interactions in our stores, at the cheese counter, at the sushi counter.
+
+00:09:36:26 - 00:10:00:01
+不明
+But we knew as digital would continue to evolve, we needed to evolve with it. We just weren't exactly sure how. So we started with just simple tools that would kind of carry through that mission and help our customers. Really starting with the debut of our first mobile app in 2010. And it was really just about helping customers build a more effective shopping list to plan their trip.
+
+00:10:00:01 - 00:10:22:00
+不明
+And our stores. But then, of course, immediately after that we were like, well, how do we talk to them in the app? How do we deliver a personalized message in the app? So we started looking to best in class partners. And then really started the conversation with Adobe, which kind of led to this point in 2016 where we said to Adobe, okay, we feel like we need to catch up here.
+
+00:10:22:00 - 00:10:40:40
+不明
+So what we'd like to do is implement all the tools you have all at once. The sales team was ecstatic, and they said, we can absolutely help you with that. Professional services team, on the other hand, looked at us and said, are you guys crazy? We said, yeah, a little bit, but can we do it in six months?
+
+00:10:40:45 - 00:11:01:35
+不明
+So we got through the implementation and we thought, okay, how hard could you know? We launched a website on, we implemented onsite content optimization with target and Blended, Adobe Analytics, Data Workbench, Adobe Campaign, and everything you could ask for all at once. And what we didn't realize at the time was the practicality of actually doing that work.
+
+00:11:01:40 - 00:11:21:39
+不明
+And I think in reference this, just like the organizational readiness of that, we had one power user in the organization sat with an it, we just weren't ready. So unfortunately, it kind of became this, this internal, dialog around the Ferrari that's sitting in the garage that we haven't been able to take out for laps. Oh my gosh.
+
+00:11:21:39 - 00:11:46:12
+不明
+Yeah. That's so, so similar in Bangor. That's really not on the on the track. You know, the Ferrari was a common metaphor. And that was that was kind of the way we operated. We, you know, we were sending a weekly email newsletter, publishing content on the site, but, it was all super personalized. We were measuring a little bit, but none of it was tying back to our sales, which at the time were still mostly happening in store.
+
+00:11:46:16 - 00:12:13:31
+不明
+Fast forward to 2020, and that was really the pivotal moment for our journey when it came to e-commerce. Thankfully we had been investing in launching our own e-commerce platform on our own website. So we we launched that in January of 2020, and we all know what happened in March, so we were there to catch it. What also came out of that was a analysis about the omnichannel customer and what the impact to the Wegmans business was.
+
+00:12:13:36 - 00:12:40:56
+不明
+We didn't have a CDP yet, so the analysis took about six months. But when the numbers came back and we saw that, oh, customers that are engaging with our app and also shopping in store actually shop on average one more trip a year with us, which is actually a pretty big impact. And as a result, we sort of leapt from that and started to rethink how we were approaching getting the value out of the Adobe tools, how we were investing in tech as a whole.
+
+00:12:41:01 - 00:13:01:11
+不明
+And I'm excited to share that, next month we will actually be launching a newly re-envisioned, digital store platform. For us, that's all about being extensible and open so that we can kind of help our customers transact on any surface that makes sense to them. And a lot of it powered by the platform. So quick stats on where we've landed to date.
+
+00:13:01:11 - 00:13:27:23
+不明
+So last year we took, over 12 million orders, strictly e-commerce. A million customers are building shopping lists in our app, as they plan their trips with us. And about 30% of our overall business can be attributed to digital activity at this point, which is a pretty big shift for us. After 100 year lifespan.
+
+00:13:27:28 - 00:13:45:35
+不明
+Some of the key challenges. Again, this hopefully is not new to all of you, but these are, some of the challenges that we faced. The first one being just unifying the measurement and being just that 30% number that I threw out there without the Adobe platform. Before we implemented that, we couldn't even tell that story.
+
+00:13:45:40 - 00:14:08:13
+不明
+So it was really hard to connect the investment we were making in our app and our site and our experience to how does it actually impact an in-store sale in a grocery store? The second was perfection over progress. A lot of you have been in our stores. We are incredibly meticulous about the design, the merchandizing, the floor plans, every aspect, every detail.
+
+00:14:08:17 - 00:14:31:25
+不明
+So the idea of an AB test where either option A or option B is going to fail, it was a little bit hard to have a conversation about internally. And so we just had to get through it and kind of show people how that worked. And last lastly was something, if I'm being honest, we still kind of, working through as an organization, that's being product centric versus customer centric.
+
+00:14:31:25 - 00:14:56:56
+不明
+And the idea that, and in any given season, we typically will have a handful of new items or new programs that we're really, really excited. We want to make sure everybody knows about. Well, that's a little bit in tension with, 1 to 1 communication and the right message for the right customer at the right time. So we're starting to make the shift to thinking more about the customer and their journey and putting the right things in front of them.
+
+00:14:57:01 - 00:15:16:47
+不明
+But it's it's been a journey and we're still on it, as I'm sure a lot of you are as well. So first off, thank you for sharing your struggles. I know it's not easy sitting up here and talking so candidly about some of the challenges you face within your organizations. If you want to go to the next slide, Andrew.
+
+00:15:16:52 - 00:15:42:17
+不明
+So this next section I am calling ask me anything and you can think about this as a fireside chat. As you can see, our plush chairs, the fireside chat, really meets presentation mode. So what I'm going to do is I'm going to ask Andrew or Liam a follow up question based on what we just heard, and they're going to answer using a slider to to talk about how they use Adobe Solutions to overcome a lot of those challenges.
+
+00:15:42:22 - 00:16:04:09
+不明
+The goal with this, and even as we were talking about designing this session, is to bring candor back, like speak, speak truthfully, speak honestly about some of the challenges, and hopefully hope, helps you all an audience understand and, see and recognize the value that app and the investments can provide to you. So, Andrew, my first question is for you.
+
+00:16:04:14 - 00:16:32:52
+不明
+You mentioned challenges unifying measurement of digital at Wegmans. Can you walk me through how Adobe Solutions helped you align on a common definition of success, and how that alignment drove ongoing prioritization and investment in digital? So if if our goal was to help customers live healthier, better lives, we have always believed we would need a best in class digital experience as that evolved.
+
+00:16:32:57 - 00:16:55:18
+不明
+And that really became crystal clear after our push into e-commerce, when we have some stores where more than half of the sales are coming from a purely e-commerce customer, meaning they're not setting foot in our stores ever. So we really have to deliver on the magic from the stores and bring it to life digitally. The challenge is really starting with measurement.
+
+00:16:55:23 - 00:17:18:41
+不明
+We had separate teams doing separate measurement. We had a customer analytics team over here that was pulling insights from our loyalty program. Our online account database was over here tied to the website. We didn't have a common identity framework. There was logistically, it was a huge lift to even try to measure the impact on digital, let alone iterate on the metrics with our leadership.
+
+00:17:18:45 - 00:17:43:29
+不明
+And report on it on a regular cadence. So as we started talking about that, starting to talk about that challenge with Adobe, it was really our implementation of the CDP, which started for us internally in the way we kind of sold it was it's going to help us know our customers better. But we really used it to lean into, first and foremost, what's the real data here?
+
+00:17:43:30 - 00:18:01:49
+不明
+What was the impact on all of this activity on our business? So we kind of we came up with this notion of digital sales. That's what we call it internally. And that turned into a metric that we put on every, every week. And it's a combination of the sales that are attributed to people using our app and then following up in store, as well as our e-commerce orders.
+
+00:18:01:54 - 00:18:25:11
+不明
+And it really helped our, our leadership team understand the true impact of our digital investments, and help them feel comfortable that we were making progress. Yeah, I think a lot of the meetings that I've had at summit, especially yesterday in the day before, there have been questions around how do I sell the value internally or how do I sell the notion of an investment and the value that it will provide internally?
+
+00:18:25:11 - 00:18:51:50
+不明
+It sounds like measurement was your anchor in a lot of that. Yeah, measurement was huge. I think. Also, if I'm being candid, translating, the value prop from Adobe language into internal Wegman's language, because, you know, our leadership team, they're not marketing practitioners. They, they understand the concepts. But, putting it in Wegman's terms and then, plug Alex, our account manager, he would always be texting me like, okay, what's next?
+
+00:18:51:54 - 00:19:07:29
+不明
+What are the meetings? Can I help with the presentation? I'm like, no, just give me a month. I'll come back. I promise. I just need to translate this for sure. For sure. Yeah. I think, in even in talking about that, it provides a lot of value and context for the folks in audience to be able to say, I can relate to that.
+
+00:19:07:29 - 00:19:31:09
+不明
+That's a good piece of advice to bring back to my business as a team. Awesome, awesome. So transitioning to Leanne, if we want to go to that. Perfect. You mentioned difficulties maintaining standardization when launching hyper personalization and really how that impacted speed to market. So my question for you is twofold. The first is how would you say Adobe Solutions have helped you to drive automation and scale?
+
+00:19:31:14 - 00:19:56:18
+不明
+And the second is more following this theme of the announcements that you've heard here at summit, especially around AI, which of those are you most looking forward to applying within your teams? Yeah, sure. I guess our goal for us was really to to drive automation, to scale and to get those efficiencies, those manual processes way. Yeah, that we're really holding us down.
+
+00:19:56:22 - 00:20:27:48
+不明
+And that strategic shift. So, you know, moving away from this one time list into this one time use campaign to really dynamic multi use audiences so that we could power, our personalized engagement across multiple channels, and to allow our teams to be able to move smarter and faster. So for us, the CDP was and I know this term has been said multiple times across the the couple of days, but it was a game changer like there was no other, option for like that's the word for it.
+
+00:20:27:52 - 00:20:52:48
+不明
+These challenges and I guess we were all facing the same things, is just that lack of audience centralization and just being able to having to create these lists every time. It's it's not it's not conducive, it just slows the teams down. And Andrew, you mentioned like 50% of your customers, they they don't come into your store, they just purchase in some stores online if we don't have a physical store.
+
+00:20:52:48 - 00:21:13:27
+不明
+So there is no way you can come to, you know, your interaction is with us online through a digital channel of some sort. So it's really critical for us to show up in that moment and to be able to provide you relevant, contextual information that is part of your journey, and it will help you with your next best action in that critical moment.
+
+00:21:13:32 - 00:21:40:49
+不明
+And so for us, the customer data platform and the audience portal really help solve for that. So, you know, solving for that unification of a customer profile, really creating that 360 degree view, that utopia, it did it. You know, we can we can have our customers that can, in it can include their transactional history, you know, the products that they potentially purchased or their online behavior where they've been on our sites.
+
+00:21:40:54 - 00:22:10:31
+不明
+And it was all centralized in this central location, not on some analysts machine that we needed to magically get to a marketing system. So it automated our segmentation and it freed up our marketers and analysts, so they could do the strategy. They didn't need to to do this manual creation of lists. We could just define the rules, and our customers would move through their segments based on their engagement with us.
+
+00:22:10:36 - 00:22:52:34
+不明
+And that's really important. So that's how you show up with the relevant content for that customer and help them along their journey. And it's removed our campaign silos. So, you know, we can activate multiple audiences. We can reuse our audiences across multiple touchpoints. And to plug one of my colleagues here who reminds us constantly of our favorite F-word, which is our fiduciary responsibility, being a financial institution, you know, we have really, high compliance and regulatory and especially in Australia with our product, the 400 1KA like there are really strict regulations around that.
+
+00:22:52:39 - 00:23:12:08
+不明
+And so the, the Adobe solution has allowed us to be able to label our data to commission our data. So, you know, we have confidence that our marketing teams, have the right access to the right pieces of data, and they can activate it safely so that we, you know, we know that we're using the right, the right data.
+
+00:23:12:13 - 00:23:36:28
+不明
+And this has been really, like, extremely impactful, not just for our marketing and insights teams, but for our business. Like, as you can see from from the stats, you know, we've increased our speed to market. So, you know, things that would take us, you know, months, for a single campaign can now take us, you know, a day, maybe even hours at a click of a button and it's out the door.
+
+00:23:36:33 - 00:24:02:43
+不明
+And our campaign reusability has increased. And instead of starting from scratch every time, we can now reuse, we can refine, and we can optimize our audiences and our content. So about three years ago was our first automation of an email. So it was our most well-regarded email, a weekly newsletter to our entire customer data database, in Australia.
+
+00:24:02:47 - 00:24:28:52
+不明
+And just the automation of that one email saved one of our crew members 25 hours a month. So you can imagine every Monday coming to work thinking, I've got to get that email. And it's all like, that just doesn't generate innovation. Or, you know, a drive for somebody to do, like, do more. And since then we've scaled our emails 65% in volume, not with increasing.
+
+00:24:28:52 - 00:24:57:23
+不明
+We've had a 0% increase in results. So this is a testament to the automations and the integrations that we've set up. To be able to get to to our Jack customers. And it sounds like centralization is core to that, not only of audiences, but being able to scale those audiences. As a result, we see customers all the time creating what we call seed audiences, and then continuing to build on those core audiences with different attributes or different, elements of the profile.
+
+00:24:57:23 - 00:25:16:29
+不明
+For further personalization and even talking to you both before this, it sounds like both of you have, been able to do that. Yeah. Yeah, absolutely. Yeah, we call them based audiences. So yeah, we've been able to create these base audiences that are reusable. So again, you know, our teams don't have to sit and create that every time.
+
+00:25:16:34 - 00:25:35:08
+不明
+You're just really defining your goal for the year for, for the campaign. And measurement as well. Like, I know it was something you were talking about, but introducing something where, you know, we can actually measure a campaign effectiveness and not take six months post that single sane campaign to understand, you know, a click through rates and great.
+
+00:25:35:15 - 00:26:04:39
+不明
+But you know, what did it what did it mean for our bottom line in that that funnel, and I'll talk about penetration product for, for us. We, we launched superannuation to our Australian market to 2 or 3 years ago. So superannuation and pension and we were really challenged to use our marketing technology stack. How could we, look at our existing customers who had investment products with us and how could we target them?
+
+00:26:04:53 - 00:26:28:00
+不明
+So, you know, this enabled us to do things as simple as we just want to create the segment and we want to send them content about this new product. We can tell you've never showed anything about superannuation. You never expressed, any interest in learning more. So we're coming in cold and we can send you something completely different to the customers who had expressed interest.
+
+00:26:28:05 - 00:26:59:41
+不明
+Or perhaps you'd engaged in content on our site. You searched for something that was, you know, retirement related. We could go to you with this information and try and help you, nudge you to become a member. Because, you know, I'm biased, but it is the best product in Australia. And so each year with through this, this process, we were able to, provide 185% uplift, to the campaign conversion of this and one to be able to measure it is amazing.
+
+00:26:59:46 - 00:27:26:26
+不明
+But to to be able to see the impact of marketing for these campaigns is incredibly impactful for us. Exactly as Andrew was mentioning before, I was going to say, we had a couple of similar examples. I mean, one, our big focus, on digital engagement that started with how can we properly welcome customers who create a membership with us Shoppers Club membership, and make sure that they have a hyper focused onboarding, understand the benefits of of that.
+
+00:27:26:31 - 00:27:52:34
+不明
+And we use the Adobe tools to isolate them for the first few weeks of the membership. And they're only getting really, really focused benefit, communication. And today we were able to see that those customers that started after we implemented the welcome journey, they were much more likely to reengage digitally after that. If we kept them focused and then, you know, kind of layered in the other marketing layer and it's all automated.
+
+00:27:52:39 - 00:28:19:24
+不明
+I feel like a lot of the conversations that I have are around, like you said before, getting to the right channel with the right person, right time. Right, right, right. And starting small and just with that initial, okay, I want to target somebody who, you know, isn't made a one time purchase. And, putting them into a segment of the goal being second time purchasers, even just starting with that, starting very small with that binary value can even create a lot of value.
+
+00:28:19:24 - 00:28:40:35
+不明
+And yeah, we've started to call them micro moments internally. And like one example, we've got a very, very small focused journey that, looks at purchase behavior. And if you look like you are beginning to follow a gluten free diet, for example, we've got a couple follow up communications that just share. Hey, here's the resources at Wegmans.
+
+00:28:40:48 - 00:29:05:22
+不明
+Here's the recipes. Here's some of our items. Not a huge, extensive journey, but it's like we've tried to start attacking these little niches. And just using automation. Keep scaling it. That's great. Yeah. I think of a button, right? Like. Yes. Right. I we didn't talk about the last stat on here, which I think is great, is a 0% increase in resources as the audience likely has lean teams as, as you both do.
+
+00:29:05:29 - 00:29:26:44
+不明
+Can you talk a little bit about that? Yeah, exactly. I think for us, the the core to this, technology implementation was about creating that efficiency. We knew we couldn't scale by growing our team. So how can we implement solutions that drive internal efficiencies but also have a customer impact? At the end of the day, the customers who we're trying to speak to.
+
+00:29:26:44 - 00:29:50:40
+不明
+So, I'm incredibly proud of the fact that we've implemented what we have. We we do have, you know, partners and we've got a great, you know, backed by the global, Vanguard US team. But we didn't need to scale. We just needed to stay focused. That's great insight. Yeah. It was the same for us. And and we've got a pretty lean mean team shout out to the team back at home there for for engineers.
+
+00:29:50:42 - 00:30:28:30
+不明
+Incredibly talented. And we used to rely pretty heavily on Adobe Professional Services up until a couple of years ago when we really built out the team. And again, to your point, kept it focused and small. And, I've really been able to see some success. Also, having it housed within our marketing organization has helped the team stay really, really close to the needs of the marketing side of things and the business, which has really translated into not having to have such a huge team, because there's, there's so close and they know kind of what the needs are or to constantly be needing to go back to it and, and market
+
+00:30:28:34 - 00:30:45:39
+不明
+share and that type, I'm sure everyone in the audience can really do that at some point in time. So that's great. Leanne, you spoke a little bit about measurement before, and Andrew, as you were saying, with the with the AB test. So you spoke also earlier about overcoming the progress versus perfection mindset. I want to drill into that a little bit more.
+
+00:30:45:39 - 00:31:05:35
+不明
+So since then, I'm curious how you and your teams have become more experimental in the way that you operate and how that's driven more focus around KPIs? Sure. So with most of our history of being in brick and mortar, as I've mentioned, we had a lot to learn about digital and how it was going to impact our business.
+
+00:31:05:40 - 00:31:40:56
+不明
+And how we could use it to communicate effectively with our customers. And while the initial notion of kind of AB testing was a little bit scary for some in the organization, the goal we came to a conclusion that to learn and really we're going to have to test end of this. But as I mentioned and we've talked a little bit about like just activating a simple test audience before we introduced the platform was like, okay, customer analytics has to build a list for us and then ship the list, file over email to somebody and then program it into the activation platform.
+
+00:31:41:00 - 00:32:02:00
+不明
+But once we implemented, you know, CDP and some of the tools and CJA, not only can we activate the audiences really quickly, but then see the same audience in the dashboard and measure what the impact of the test was on them. So it's been really, really helpful, to just effectively execute all of the tests that we're trying to do for sure.
+
+00:32:02:00 - 00:32:23:22
+不明
+For sure. And so that capability that you just talked about is something that came out, I believe, around two years ago. Right. The ability to, take an audience from CDP and be able to understand the impact of that audience across channels and measure that in CJA and tie this back to your first one around core metrics. I bet that said, a lot of the reports that you were bubbling up to leadership also did.
+
+00:32:23:31 - 00:32:40:46
+不明
+Yeah, I mean, the other piece too, we started playing around pretty early on with customer AI and using those scores to build out audiences rather than trying to take the time to to like, analyze, purchase behavior and build an audience. Let's just see what the model can come up with, and we'll send to 10% of that AI generated audience and see what the impact is.
+
+00:32:40:51 - 00:33:01:19
+不明
+Some of you maybe picked up during the keynote, we've actually seen some pretty good performance, especially when we do mobile campaigns, just using those propensity based audiences. And it's really, really simplified the execution work for the team. And a lot of that is, is out of the box capabilities for the customer, AI to be able to predict propensity to convert, however you define conversion or propensity to churn.
+
+00:33:01:19 - 00:33:21:05
+不明
+And that's actually how oh, I was gonna say, however, trying to explain that to, to, leadership and traditional targeted marketing folks, it was pretty challenging. You right. That's Adobe lingo. Well, thankfully it was right around the time the ChatGPT and all of those tools started to come about, and everyone just trusted those. So we were kind of free.
+
+00:33:21:05 - 00:33:41:00
+不明
+Invigorated the conversation. Just trust the model and it's math and it works. Yeah. Makes sense. Great. So my next question is for both of you. So I'm sure a lot of the folks in the audience are very excited about the new announcements they've heard at summit, especially around AI. So, I want to get a little tactical for a second.
+
+00:33:41:00 - 00:34:09:04
+不明
+So how would you go from I just learned about this new feature on Mainstage at Summit, all the way through to implementing that feature within my businesses. What are some of the steps taken in between? Sure, yeah, I guess I'll blend it into, into this around, our, our approach. And I guess my advice would be embed a culture of learning and experimentation.
+
+00:34:09:09 - 00:34:30:25
+不明
+In my team and at Vanguard, it's, it's core to how we operate, but it's incredibly, empower for our teams to, you know, we talk about fail fast like, this is a real space to do that. We've got, you know, sandboxes. You've got environments where you can do that. You can practice and learn. So, you know, that would just be be my, my, my core advice.
+
+00:34:30:30 - 00:34:49:01
+不明
+And to start small, we we at Vanguard Australia, we started with our CDP implementation. It was I just come back from Matt leave, and I remember reading through this, I have, you know, brief that I had received, from our head of head of martech saying, you know, we're going to get this thing called a CDP.
+
+00:34:49:03 - 00:35:07:18
+不明
+And I was reading the brief and I was like, oh, my God. It's just like, oh, how do I get onto this? And, you know, I was on those like 2 a.m. calls, you know, new mom. I was like, I got this. We can we can get this done. And, you know, I was chomping at the bit because I just, I really knew what the impact would be.
+
+00:35:07:22 - 00:35:31:46
+不明
+And that test it, let's just, you know, get it in. And, so we did that. We started with the CDP, we call it our heart. And we actually look at it. It's now called the Butterfly because we've got this beautiful stream of sources going into this customer unification and multiple data. Data source, destination. Sorry that it goes to so, you know, we constantly refer to the hot and the butterfly within our team.
+
+00:35:31:51 - 00:35:48:46
+不明
+And it was pretty successful. So for us, my, my guess, my advice and our use case was we thought, gosh, we're going to I'm going to lift our entire data lake and we're going to plonk it in this customer data platform because that's what it's going to do. Right? I'm going to get all of these 20 sources.
+
+00:35:48:46 - 00:36:08:35
+不明
+And you know, Bob's your uncle. We're going to be 20. We're going to go all all destination real time. You know. So every channel. Yeah. Like let's do this. And we realized pretty quickly that that wasn't going to work. And so again, we scaled up right back and we, we chose one business of one line, one line of business of the three.
+
+00:36:08:40 - 00:36:34:29
+不明
+And we took a subset of it. And we started with that. And our goal was also to look at introducing a brand new channel. So for us email was our main channel. So how could we look at introducing web personalization as an example. And that was really a use case. So we took one of our websites public websites, and we took a homepage banner and we did what we wanted to test.
+
+00:36:34:29 - 00:36:58:23
+不明
+We wanted to test could the CDP at its core, could it combine multiple sources into one location? Could it dynamically create these segments based on signals or behaviors, and could it activate to another channel? That was the test case. And so from a capability perspective, it was successful. But if you look at a marketing metric it was a failure.
+
+00:36:58:28 - 00:37:21:05
+不明
+You know, we did not drive our ROI from that simple use case. You know, we got engagement and that was really great. But for us that really it really solidified the use cases of, hey, we didn't have to have all of those resources create that list. You know, we, we, we can reuse this and we can now do a channel in real time.
+
+00:37:21:10 - 00:37:44:08
+不明
+You know, when a customer is coming to, to the site. So again, just start really, really small. And it was this use case approach that we said is kind of like our we call it out blueprint. It's our blueprint use case approach to how we think about, all of the next evolution. And so for, you know, thinking of actually brand new ocean use case.
+
+00:37:44:13 - 00:38:14:32
+不明
+In January of this year, Vanguard Australia launched one of our biggest ever marketing campaigns. So do you not like money? That's really. And and for finance, it's it's really meant to cut through the industry of the noise that sits in finance. And, for our business, the it's incredible to see how that shift has moved from, hey, how do we think about creating these campaigns and multi segments and that's become the norm.
+
+00:38:14:41 - 00:38:38:55
+不明
+And the culture the shift now is how do we measure. So we are going to be spending money on advertising and you know reaching customers in all of these multiple channels. How do we measure which channel is most effective or driving the biggest engagement? And how can we optimize in the moment so that, you know, our customer, that we can we can build upon this campaign.
+
+00:38:38:59 - 00:39:06:14
+不明
+And so our shift is now looking at things like customer journey analytics and general frustration as that next evolution to really help these use cases along. And again, starting really, really small. Yeah, I know what I loved most about what you said there is you're really using the CDP and the successes and successes and learnings as fuel for exploring new ways of using that data and using that those experiences for, for further use.
+
+00:39:06:14 - 00:39:30:23
+不明
+So yeah, absolutely. Like that was a you know, we started with just that one simple segment. But we now have all the lines of business, multiple data sources and multiple destinations. Personalization across our website, our mobile app, in our email, in our portals. You know, it's incredible to see how far and what it's enabled for our teams and teams to actually get really excited about it.
+
+00:39:30:23 - 00:39:58:58
+不明
+The innovation and experimentation comes by having the tech at your hands and yeah, so that way I guess the, my my advice, you asked about the, the AI solutions and you know what we're most excited about? I think for me and hearing some of these, you know, announcements is a genetic AI. And I'm actually really excited, and, my team is going to kill me.
+
+00:39:58:58 - 00:40:23:38
+不明
+I'm going to go back and be like, imagine, imagine having this, you know, AI assistant in our app platform that, you know, it's not this human led interaction. It's actually AI assisted orchestration. You know, tell it's telling you, hey, this is how you can do it. And it's automating it for us. Like, that's the that's the power.
+
+00:40:23:43 - 00:40:44:56
+不明
+So we can sit back and think about the strategy and what we want. The message is we want our customers to get. I'm glad you said that, because it's it's augmenting. It's not replacing. It's augmenting it. Right, exactly. Andrew, would you say if you have any advice for for us? Yeah, absolutely. I think we, I would not only echo what you just described on starting small.
+
+00:40:44:56 - 00:41:11:02
+不明
+I think we started with a similar use case. One banner led to our whole app homepage now is sometimes targeted. I think it was probably I had heard the Ferrari or metaphor one one too many times, and I said, you know, we can target this stuff, so let me show you. Yeah. But the other piece that we've focused on fairly recently, in our kind of evolving relationship with Adobe, is just one having consistent long term ownership organizationally.
+
+00:41:11:02 - 00:41:42:25
+不明
+So and that's been me for the last, really since 2016, in partnering with, Adobe on our key initiatives and being willing to dedicate time within the team to lean in on the betas and the alphas that that they approach you with, whether that's going to turn into an ROI out of the gate or not. It's, you know, our team has found success with even the early versions of AI assistant just in troubleshooting problems they're finding.
+
+00:41:42:30 - 00:42:08:17
+不明
+And we're super excited for what's coming with, the agents and copilot integration and all that. But it's also kind of given us a direct line to many of the product teams. And we've seen feedback that we've shared turn into functionality sometimes within a few months. And talk about engaging for the team. It's super exciting for them to say, hey, Adobe, we really would like it if this worked this way.
+
+00:42:08:21 - 00:42:27:46
+不明
+And all those conversations tend to happen during these alpha periods. So we've really leaned in and on on all of those activities. That's great to hear. Right? I think that, there's this assumption that, okay, I have to bring a big brand name to the table to influence product. And I think that there, there's a lot of power in that feedback.
+
+00:42:27:46 - 00:42:49:42
+不明
+And it's like you said, it's energizing for the teams to see that being taken into account and really built in for the benefit of other customers. Also, the quote that you see on the slide, there is actually one that I found a couple of weeks ago when I'm going through previewing some of the announcements we would make at summit around, I support assistant and I asked Andrew, I said, is this a quote that we could use in the presentation?
+
+00:42:49:42 - 00:43:06:41
+不明
+Because I think it's great around how AI has helped in troubleshooting. And this is based on your team's participation in a lot of the alphas and betas with, with support. And yeah, I know that seems super exciting. And the same individual I asked them, what's some other feedback that you have that I can share with Adobe when they're at some of that?
+
+00:43:06:41 - 00:43:29:11
+不明
+I got it like a book of all of the different changes they would make to the I was like, okay, I'll maybe I'll summarize that, but have I summarized that? Yeah, exactly. Yeah. That's great. That's great. Okay. Well, thank you for sharing that advice. I think that a lot of the folks in the audience have really resonates, and some exciting avenues on the horizon for both of your organizations in adopting that.
+
+00:43:29:16 - 00:43:56:02
+不明
+So before, we start our Q&A, I do want to summarize what we talked about today that to drive outcomes and impact with the lean team, these are the things you should lean on. The first is core metrics. We heard from Andrew how Wegmans uses customer journey analytics to unify measurement, to align on a common definition of success, and how that's really allowed them to improve the value of personalization internally.
+
+00:43:56:07 - 00:44:30:37
+不明
+We heard from Leanne talk about centralization strategies being the second one around her team using experience platform and particularly an audience portal to increase audience reusability, drive consistency and enable faster activation as a result. The third is constant testing and learning. When Andrew talked about overcoming the progress versus perfection mindset, the experimentation tools that Adobe offered really allowed for an easy delineation between what's working and what's not and quickly make changes as a result.
+
+00:44:30:42 - 00:44:59:24
+不明
+And then the fourth is actually leaning on a core team. And this is where a lean team, actually, it sounds can can be an advantage in streamlining not only collaboration and coordination with Adobe, but also increase partnership as well. So I do want to leave you all before we wrap with a fun little saying that Andrew. And, he told me about it a few weeks ago, and it's one that his team, his leadership, actually uses internally to talk about digital transformation.
+
+00:44:59:28 - 00:45:30:12
+不明
+And that is, if you want to mow the lawn, you have to buy a lawn mower. And I really like this quote because I feel like it brings back a level of, simplicity to the conversation, especially when we're talking about embracing AI as an enabler of success in itself. I really is the next frontier. As we continue to hear here at summit, and the sooner we can harness that power, the sooner we can deliver more value for our customers.
+
+00:45:30:17 - 00:45:30:42
+不明
+Thank you.
+

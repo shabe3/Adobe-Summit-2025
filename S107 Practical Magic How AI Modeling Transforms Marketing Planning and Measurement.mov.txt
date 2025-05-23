@@ -1,0 +1,404 @@
+00:00:01:19 - 00:00:21:57
+不明
+Okay, let's wake everybody up a little bit. Jump in.
+
+00:00:22:01 - 00:00:50:29
+不明
+I.
+
+00:00:50:34 - 00:01:15:30
+不明
+Okay, so just to make sure everybody's in the right place. Welcome to session 107. Practical magic. How I modeling transforms marketing, planning and measurement. I'm Whitney lee. I'm called a principal expert solution consultant. That's a mouthful. Here at Adobe, I focus on data and insights, which means I go really deep in tools like Customer Journey analytics and Adobe Mix Modeler.
+
+00:01:15:30 - 00:01:36:30
+不明
+Also just means I'm kind of a data nerd. So what is this session? A few things. So first and foremost, it's going to be a little bit of an AI education 101. I think that there's a lot of fear and a lot of lack of understanding about what I actually is and how it works, but a lot of buzz about it.
+
+00:01:36:44 - 00:01:59:41
+不明
+So I wanted to take this chance to really go into that and explain it further. We're going to talk about how Adobe is using AI and mixed modeler and customer journey analytics. We're going to talk about outcomes, real use cases of how people are using this along the way. And it might feel a little bit like a mad scientist school class, because admittedly, I have gone down a deep rabbit hole learning about, the last few months.
+
+00:01:59:41 - 00:02:32:57
+不明
+And part of what made me want to speak on this is because I've learned a ton and wanted to simplify it and translate it to other people. So this is for you. If you're interested in AI, you're curious about how Adobe is using AI and our technology, or it's totally cool with me. If you're just here for a good time and hoping to learn something, I hope that you'll leave feeling a little smarter, more confident, and informed, inspired and empowered to go use some of this stuff with a greater understanding.
+
+00:02:33:02 - 00:02:59:58
+不明
+I always personally like to start with why? So why even talk about this AI stuff? Well, a few reasons really bubble up to me. One, there's a better way from the way that we've been doing things. I actually see a a past colleague in the audience right now. I used to be a media planner for many years, and if I had the tools that we have now and some of this, this AI and some of the functionality that's coming out, when I was a media planner, it would have been like a kid on Christmas morning.
+
+00:03:00:13 - 00:03:21:33
+不明
+It's making us more effective, more efficient, and just better and more agile at what we do. Number two, it's driving results, and I'll infuse some of those throughout the conversation today. And lastly, and probably the biggest one to me and why I wanted to speak on this topic at summit this year is because we we fear what we don't understand.
+
+00:03:21:38 - 00:03:42:35
+不明
+When I'm in conversations and the top the topic of AI or machine learning comes up, I hear people or I see people quite literally start to recoil, kind of get smaller and just skirt around the subject. And I think that's a lot because we don't understand it or nobody's really satisfied and said, here's what this is and here's how it works in really simple terms.
+
+00:03:42:40 - 00:04:03:40
+不明
+So what we don't understand, we tend to avoid when we avoid, we tend to stop learning. And when we stop learning, we stop growing. So want to dive into this and really kind of help alleviate some of that fear and lack of understanding. And I think some of that lack of understanding is because when we don't understand it, it feels like magic.
+
+00:04:03:40 - 00:04:28:45
+不明
+We don't really know how it's working. So we just assume it's black, boxy, it's magical, it's unexplainable, and I'm a little woowoo. I'm a little bit of a hippie. I believe in magic in some ways. I believe in the miraculous and the serendipitous. This is not that AI is very explainable. It's all grounded and data and science. But when it's built well, when any technology is built well.
+
+00:04:28:45 - 00:04:55:09
+不明
+I love this quote from Arthur C Clarke. Any sufficiently advanced technology is indistinguishable from magic. You know, when television was first invented, it felt like magic to everybody. When electricity was first introduced into civilization, it felt like magic. And now we're experiencing that with AI. When it's well built and it's well executed, it feels like magic because it's making our lives easier and transforming the way that we do things.
+
+00:04:55:14 - 00:05:16:07
+不明
+So in that spirit of magic, and because we're here in Vegas, let's have a little fun. I'm actually going to do a magic trick for y'all to start off. So do I have any volunteers? I promise I won't be cutting anybody in half or anything like that, but would anybody like to participate? Got a couple. You're because you're in the front row.
+
+00:05:16:09 - 00:05:34:31
+不明
+You're you know, that's what you get for sitting in the front row. So you going to be. Yes. Going to be really easy. I'm going to hand you a note card and a pencil. All I want you to do is pick a number between 1 and 100. Any number that you want. I've got a note card up here too.
+
+00:05:34:31 - 00:06:00:48
+不明
+I'm going to try and predict the number that you're going to pick. So just go ahead and write it. Yep. And I made it. Look I'm even going to throw this pencil away. So they all know I'm not doing anything crazy. You got it. Yeah right okay I've got my number. So you go ahead and share with everybody loudly what you picked for you.
+
+00:06:00:53 - 00:06:31:29
+不明
+Okay. You want to come get my card and then you can share with them? If I predicted correctly. And you can show it to them. Do. What? And that's my time, everyone. We're done. No. So. So just like with AI, there's a perfectly rational explanation of how I just predicted and picked the same number that I thought this gentleman was going to pick.
+
+00:06:31:34 - 00:06:56:05
+不明
+But I will reveal that to you at the end of the session. So you have to stay till the end to find out how I performed that magic trick. So moving on. You know, kind of the magic of AI. So here at Adobe, we've been investing in that magic of AI for over a decade across things like content, data and journeys.
+
+00:06:56:10 - 00:07:26:40
+不明
+You probably, if you've probably already, whether it's in keynotes or other sessions, heard a ton about AI, a gente AI, what Adobe's vision is for the future of AI, and how it's, you know, changing things and how we're infusing it into everything that we do. One of my personal favorite pieces of the vision that we've set out for AI is that we want it to enable teams and people to focus on what is uniquely human creativity, differentiation, and growth.
+
+00:07:26:45 - 00:07:51:51
+不明
+You know, especially here at Adobe, I want to take here a moment to pause here, because I think part of the fear around AI is that people think it might take something away from their job or even steal their job, potentially. I think when AI is done really well, especially in the business world and the way that we're doing it here at Adobe, all it's going to do is actually enable human creativity instead of stifle it.
+
+00:07:52:04 - 00:08:16:51
+不明
+So I'm an analyst at heart. I love digging through data, spending hours finding that right insight that's going to change the way that I do things or make our business better, lead to more revenue or more growth, more conversions. I think the way I'm seeing us develop AI in our tools, which we'll go into, it's really an excuse me, I was at the booth all day yesterday, so my throat's a little dry.
+
+00:08:16:51 - 00:08:39:32
+不明
+So if I take a drink of water or I'm a little cranky, I apologize. But it's it's allowing us to get to those insights faster and easier. So it's taking away some of the mundane tasks and some of the digging. If you love the digging, cool, keep doing it. But I think it's really just going to enable us to get to what we love faster and more easily.
+
+00:08:39:37 - 00:09:10:18
+不明
+So, we're infusing that AI, as I'm sure you've heard across multiple areas, whether it's content creation all the way to marketing, planning, today we're going to focus on a couple key areas of that marketing, planning and analysis. And we're going to do this specifically in two solutions and how AI is being used in these two solutions. So Adobe Mix Modeler aka AMP and Customer Journey Analytics CGI, if you hear me use those acronyms, that's what I'm referring to.
+
+00:09:10:23 - 00:09:33:58
+不明
+And just in case, can I get a show of hands for people who are somewhat aware of what Customer Journey analytics and Mixed Modeler are, have heard good, really healthy response. So love seeing that. But just in case and just to remind everybody. Customer journey analytics and mixed modeler work really well together. But there's sometimes some confusion of well, when do I use one versus the other?
+
+00:09:33:58 - 00:09:55:09
+不明
+Or how are they different? So let me ground everybody in that. So Adobe Mix Modeler is really about budget optimization, giving you like a really easy silver platter blueprint. What should I go spend and what am I going to get when I do that scenario planning things like that? And we'll dig more into that customer journey.
+
+00:09:55:09 - 00:10:21:31
+不明
+Analytics, on the other hand, is more about, as it sounds, looking at customer journeys, digging into, flow charts, making, you know, really easy visualizations, data exploration and discovery at the person level. So they go really well together and I'm seeing more and more people acquire them either at the same time or is a fast follow because they're really threads on the same DNA.
+
+00:10:21:33 - 00:10:50:19
+不明
+I would say they're they come into play at different points in the planning and marketing journey, but they're both needed at different times. With Mix Modeler, it's kind of when you're approaching budget planning with CJA, it's going deeper into those channels and breaking things down and understanding things even further with really exploratory analysis, if that makes sense. And come chat to chat with me after or at the boots if you want to dig into those or even see a demo.
+
+00:10:50:24 - 00:11:14:31
+不明
+So let's open that black box, that magic of AI, what we want to do for the rest of our time together is break down AI. Let's make it simple. Talk about what is it really? And through this, we're going to do that in kind of three steps. So we're going to define, explain and apply by define I just mean what is it really.
+
+00:11:14:40 - 00:11:37:49
+不明
+Let's let's kind of break it down by explain I mean how does it work. And then lastly when we apply it we're going to talk about what is it used for through the form of real world examples as well as how it's it's being used on Adobe in mixed Modeler and customer journey analytics. So let's start with the broad term of AI.
+
+00:11:37:53 - 00:12:02:26
+不明
+So artificial intelligence just to make it, you know, really simple here. It's the ability for a computer to think and to learn and to perform tasks that we would typically associate with human intelligence. So and within that I highlighted purposefully perform tasks. Because another buzzword that's thrown around a lot is algorithms. And a lot of us are like, yeah, it's an algorithm, whatever.
+
+00:12:02:26 - 00:12:28:19
+不明
+It's just doing its thing. But what is an algorithm? An algorithm is what gives AI the instruction that it needs to go perform those tasks. So maybe a really simple kind of analog example of that is every time you make a meal and you follow a recipe, that recipe and the instructions you're following is kind of similar to an algorithm and how it's instructing AI to do its thing.
+
+00:12:28:24 - 00:12:52:41
+不明
+So we talked about and defined AI, but it's important to remember that AI is a really broad term, and it encompasses many different types of AI within it. This was big for me as I started going down this rabbit hole, because even as simple as hearing people say in AI and ML, it made me assume that AI and machine learning are kind of two separate things.
+
+00:12:52:46 - 00:13:29:32
+不明
+And that's simply not true, because machine learning is actually a type of AI. And so we're going to dig into two main different types of AI today in our conversation in machine learning, which you might also hear called ML or predictive AI as well as, generative AI. So let's actually start with machine learning. And machine learning is really, you know, all about algorithms whose performance improve as they are exposed to more and more data over time.
+
+00:13:29:37 - 00:13:44:13
+不明
+And just as machine learning sounds, the machine is learning. I don't have to program it. I give it lots of information and it observes things. So, for instance, if I start doing this.
+
+00:13:44:18 - 00:14:05:02
+不明
+And I ask you to predict what's next, it's probably going to be pretty difficult for you to predict what comes next after this. But if I give you this, you're probably going to say this and then that, and then we keep going with the pattern. But then I give you this and I throw you a little bit of a curveball, but maybe we carry on with the rest of the pattern like that.
+
+00:14:05:07 - 00:14:27:59
+不明
+So, ML is really good at recognizing patterns and making predictions. It's also really good at recognizing outliers like this one. So the more data that we give it and feed into a machine learning model, the better it's going to get over time. And that process of feeding more and more data into a machine learning model is referred to as training.
+
+00:14:28:04 - 00:14:50:13
+不明
+So the more training data that a machine learning model has, the better it's going to get at predicting and performing the tasks that you've set it out to do. So within machine learning, there are two main types supervised machine learning and unsupervised machine learning. Show of hands for people who are somewhat familiar with those terms. Got a couple.
+
+00:14:50:13 - 00:15:11:53
+不明
+But yeah, okay, that's kind of what I expected with our crew. So, supervised machine learning is a type of machine learning where the data is labeled as opposed to unsupervised machine learning where the data is not labeled. Well, next, natural question with anybody that I kind of ran this via was, well, what do you mean? The data is labeled.
+
+00:15:11:58 - 00:15:35:28
+不明
+So let's dig in to supervised machine learning first on kind of a R 101 level. So what do we mean by labeled data. Essentially in supervised machine learning labeled data refers to data that's been assigned specific tasks or labels, providing context and meaning to each data point, which helps the ML model to learn and to get better over time.
+
+00:15:35:33 - 00:15:56:58
+不明
+So essentially, we're pairing each sample piece of data with a known category or outcome. So this is a really simplistic example. But we're 101 in this session. This is what we want to do. Get a foundational understanding. This one helped me understand it a little bit better. So let's just say we're wanting our machine learning model to be able to predict based on photographs that I give it.
+
+00:15:56:58 - 00:16:16:56
+不明
+Is this a cat or is this a dog? So what I mean by labeling the data is that the data we're going to train it with in, supervised machine learning is we would pair each photo with a label of cat or dog, cat or dog. And the more and more that we do that, the better it's going to get over time at predicting for us.
+
+00:16:17:01 - 00:16:41:10
+不明
+Oh, that photo of the cat that photos a dog. And we might be feeding it hundreds, millions, maybe even trillions of data points to make it get really good at the job that we're trying to do. That example is actually known as classification. We're saying this or that. In that process of labeling the data, there's also within supervised machine learning, something called regression.
+
+00:16:41:10 - 00:17:13:39
+不明
+We've all probably heard of regression models that at some time or another are really common example. This is trying to predict house prices based on size or square footage. So let's say that we, you know, maybe start mapping out where the size of houses hit within, relation to price. We map a lot of those different variables. And then we start to understand it's all about really trying to find a calculation or a formula that tells us what is the relationship between these two data points.
+
+00:17:13:44 - 00:17:33:54
+不明
+How does the size of the house affect price? And let's get better at that. Over time, as we start to see more and more of those houses, if we were using one of the big differences between that other example of classification with the cats and dogs versus regression is that regression is more of a continue a scale. It's not really this or that.
+
+00:17:33:59 - 00:18:03:01
+不明
+It's got a continuous scale of potential possibilities. So maybe instead of is this photo a cat or a dog, we would be saying, help me predict the age of that cat or dog, which is more of a continuous scale. So an example of how Adobe is using supervised machine learning is mixed modeler. So as opposed to some of our other solutions that have features that are a, AI powered mixed modeler is quite literally AI from the ground up.
+
+00:18:03:01 - 00:18:19:59
+不明
+It is a machine learning model that's helping us do what it does. So at the end of the day, I a lot of people actually at the booth would come up and ask me like, tell me what mixed model is in a couple of sentences. This does that and this is kind of what I always point people to.
+
+00:18:20:04 - 00:18:57:32
+不明
+It's helping us understand what is the true incremental impact of my marketing efforts. It's also helping us understand how should I allocate my budget for best impact or best ROI. So a couple, or a couple of the key capabilities that come out of this, not an exhaustive list or anything, but just a few of them, some of them are that, you know, you get a complete view of that incremental marketing channel performance and what we mean by Incrementality, in case that's not clear to anyone, is that some models assume that 100% of your business outcomes come from your marketing efforts.
+
+00:18:57:36 - 00:19:25:59
+不明
+That's simply not true, right? I think we all know that there's a there's a baseline of awareness that your brand might already have. There's also seasonality, which might affect your business. There's also the state of the economy, which might affect your business competitors that might affect your business. So in this model, we actually take that into account and show you how much those baseline factors are contributing to your business and impacting how your business is doing.
+
+00:19:26:04 - 00:19:46:05
+不明
+So when we say incremental, we're able to answer the really important question that I hear so many people want to get out of Am, it's just one question. We've got a C-suite or our finance team asking us how much what would happen if we went dark. Like if we stopped doing any marketing, what would happen? What would we still drive?
+
+00:19:46:18 - 00:20:05:28
+不明
+What are you guys driving on top of that? Like, prove to us your value. This does that and shows what the incrementality is of marketing. So that's what we mean by Incrementality. It also helps you to forecast incremental marketing ROI with confidence. So you can go in there and plug in numbers and say, here's what we're planning to do.
+
+00:20:05:30 - 00:20:33:12
+不明
+How much, you know, conversions and revenue and ROI can we expect from that? Also scenario planning, which is one of my favorite pieces of mixed model. Or you can go say, here's one of our plans and how we're planning to allocate our marketing budget with display, TV, out-of-home, print, social, all of your channels. Maybe you want to take a look and play around and see what would happen if we had 10% more budget to play with.
+
+00:20:33:16 - 00:20:55:20
+不明
+That's a really common example of people wanting to go, you know, kind of fight from our more budget with their finance team or their C-suite and say, we could really do a lot more if we had 10% or 20%, whatever it might be more budget. You can actually plug it in and go prove out. Well, this is going to drive more, or maybe it's not quite as efficient and you need to stay where you were.
+
+00:20:55:25 - 00:21:20:23
+不明
+You can also make in-flight optimization. So a lot of our peers are out there with mixed modeling. Again I mentioned I used to be a media media planner. So when I, interacted with a lot of, kind of legacy mixed modeling solutions, I was left waiting 6 or 9 months after I gave my data to some vendor, and then they'd come back to me with a PowerPoint that I couldn't interact with at all.
+
+00:21:20:28 - 00:21:47:39
+不明
+And hopefully I didn't need to make any changes to that model or have an additional question, because if I did, it was going to be another six months before I got a new model with this. It's actually UI based. We're putting the tool in marketers hands so that you can go plug things in, play with them, have a lot of control over your model, and making it easy for you to get results quickly so that you can make those in-flight optimizations and be more agile.
+
+00:21:47:44 - 00:22:13:07
+不明
+One thing I wanted to make sure and call out I'd be remiss if I didn't. One of my favorite things that you might hear and hear announced here at summit is, a few months down the line. We're actually going to introduce something called goal based scenario planning. So you'll be able to put in Mix Modeler. I have a revenue goal that we need to hit this year or this quarter, or however long your campaign is, could be a conversion goal as well.
+
+00:22:13:12 - 00:22:33:13
+不明
+But let's say, you know, our executives have have set a charter of this is our revenue goal for this year. You can put that revenue goal in, and we'll give you a blueprint of what you should spend and in what channel to go achieve those goals. So I am super excited to see that come out. And I think a lot of other people are too.
+
+00:22:33:18 - 00:23:08:13
+不明
+So bird's eye view of mixed modeler. We're taking aggregate level data. So combining that with event level data, configuring it with all of your constraints and business rules, and then bringing it into the middle with our actual machine learning models, which are similar to the ones I gave. Those are really simplistic examples of they're more complex than those examples, but it helps you grasp the foundation of how it's working, and it's really important within here to show that you'll see both marketing mix modeling and multi-touch attribution.
+
+00:23:08:18 - 00:23:36:01
+不明
+Usually you're going to see, you know, people with multi-touch attribution over here, mixed modeling over there, and you kind of have to consolidate the results and pick which one you trust the most, because they don't they don't really speak together. So with this, we're actually taking event level data and combining it with summary level data and using these two approaches to give you that rapid model creation, exploratory planning and in-flight optimization.
+
+00:23:36:06 - 00:23:58:47
+不明
+So those two, you know, types of approaches we're using both of you know, what I showed you with classification and regression. So in am we use both the classification example of the this or that with the cats and dogs is most similar to a multi-touch attribution type of approach. We're saying did a conversion happen or did it not?
+
+00:23:58:47 - 00:24:30:13
+不明
+And looking on the touchpoints of that to determine the impact. And then with that regression modeling, it's more akin to a marketing mixed model approach. It's a continuous scale of possible outcome and impact on revenue or conversion. It's actually not linear, though it would be more of a squiggly line because it's multivariate non-linear type of model. But those examples help you understand, you know, where multi-touch attribution comes into play and where marketing mixed modeling comes into play.
+
+00:24:30:18 - 00:24:55:14
+不明
+Now, why are we using both of those? We're using both of those because different types of data call for different types of measurement. So every organization is going to have both mass reach and aggregate data as well as event level data. So your mass reach or aggregate level data, you know, think of things that you can't really get at the person or the event level out of home.
+
+00:24:55:19 - 00:25:16:02
+不明
+You know, broadcast print short of having chips in people's arms, which I hope we never do, we aren't really able to see those in a time series or event based way. It's more aggregate exposure or impression based data. And this is the type of data you typically are going to see used with marketing mix, modeling, types of approaches.
+
+00:25:16:07 - 00:25:42:08
+不明
+And then with your event level data. This is more, you know, as it sounds, you're able to get to the event level or the person level with things like digital data like display, social email, etc. so we're actually combining both of those approaches and using the best of both worlds. So it's called bidirectional transfer learning. If you want to sound really smart when you leave here, tell somebody you know what bidirectional transfer learning is.
+
+00:25:42:12 - 00:25:59:45
+不明
+So really, you know, to kind of put that in layman's terms, we're just letting these both speak to each other and using the best fit model. So where we've got event level data for those channels, we're going to use it. And we're going to take a multi-touch attribution approach to get as granular with the results as we can.
+
+00:25:59:50 - 00:26:22:15
+不明
+But those results are going to help right size the mixed modeling approach and the summary level data. So they're actually speaking to each other. And there's a lot of synergy created between those so that you no longer have to question or pick between, well, which model is right, because we're kind of combining both of them. This is where I start to get out beyond my skis.
+
+00:26:22:20 - 00:26:41:36
+不明
+We're not going to go into actual, you know, formulas and calculations of how mix modelers working. If you want to, I will send you to, a data scientist, session that's going to be later today. I'll show you, a couple of sessions that I recommend if you want to go deeper into these things at the end of the session.
+
+00:26:41:41 - 00:27:16:16
+不明
+But like I said, it's not magic. It's it feels like magic because it's working really well and it's really well thought out and built. But we're trying to get everything down to a multiplicative model. And normally when math is involved, I typically end up feeling a little bit like this because math is not my favorite subject. But then I end up feeling a little bit like this because I remember we're solving incredible problems for people that we haven't been able to solve before, especially not with the the speed and agility and ease that we were in the past.
+
+00:27:16:21 - 00:27:38:57
+不明
+And then my love of, you know, murder, crime, mystery starts to show and I feel a little bit like this when we get deep into it. And then I remember we're putting money back in to people's pockets and I feel like this. So speaking of putting, dollars right back into people's people's pockets, here are a couple of ways that some of our customers are already seeing value using Adobe Max modeler.
+
+00:27:39:02 - 00:28:05:42
+不明
+So, Michael Kors is actually, I think, speaking here at summit, they've seen some incredible results. Saw about a 50% increase in their time efficiency. And there are plenty of others. But my favorite story is actually Adobe's own story. We actually fun fact Mix Modeler was created for ourselves. We went out and looked at the market and what was available, and we didn't love what we saw.
+
+00:28:05:42 - 00:28:24:54
+不明
+So we said, hey, let's take our own really smart people and data scientists and go build what we want. So we went and built it and we saw such crazy results like this 80% return on media spend and kind of started, you know, it started to travel through the grapevine and we all thought, let's not keep this a secret.
+
+00:28:24:54 - 00:28:47:16
+不明
+Let's offer it to other people and productize it. So with some of these results, we decided to release a modeler out into the wild, into customers. I love this as well. So, one of our own here at Adobe, Matt Scharf, actually said that, you know, they're invited to finance conversations now, and they trust marketing's recommendations as gospel.
+
+00:28:47:20 - 00:29:10:34
+不明
+How crazy is that? Like usually with marketing and finance, there's quite a bit of friction. And we've got a fight for budget as marketers or fight for our value as marketers. But when they start to trust what we're doing because we're using such a solid, data driven approach, they're actually inviting us into the room to have conversations on how to reach business goals and business targets.
+
+00:29:10:34 - 00:29:34:14
+不明
+So this kind of reminds me of that, that old, faithful quote of like, I know that 50% of my budgets wasted. I just don't know which half. Not anymore. Now we know which half. So, moving on. So we talked a little bit about machine, supervised machine learning. Now let's move over to unsupervised machine learning where the data is not labeled.
+
+00:29:34:19 - 00:29:59:51
+不明
+So, with unsupervised machine learning, we're not giving those explicit tags like we are with supervised machine learning. But rather it's more about discovering patterns and relationships or groupings within the data. So with our dog and cats example, maybe we're just grouping them like this. And if you've got an iPhone in your pocket, you've got a real world example of this sitting with you right now.
+
+00:29:59:51 - 00:30:22:29
+不明
+Whether you knew it or not. This is my pup. But, it you know, your People and Pets app that's using unsupervised machine learning to just recognize patterns and all of your photos, and group them together. So maybe you didn't know, but you've got an unsupervised machine learning model right in your pocket. And an example of unsupervised machine learning here at Adobe.
+
+00:30:22:34 - 00:30:44:51
+不明
+Remember how I showed you the pattern of the shapes and said, machine learning is really good at recognizing outliers? That's how we're doing anomaly detection. So within your data, whether it's in Adobe Analytics or customer journey analytics, when you do a time series view of a line graph like this, for any of your data, you will be able to understand did an anomaly occur?
+
+00:30:44:53 - 00:31:04:54
+不明
+Did something way higher or lower than the patterns we typically see with your data happen? When did it happen and how much above or below the norm was it? And you can even set up alerts so that you can rest easy knowing that you'll be alerted if something like this happens that you need to pay attention to. So tons of examples of how this is working.
+
+00:31:04:54 - 00:31:38:47
+不明
+One company recognized a browser issue, and the fix led to a 1.2 million per day incremental lift in revenue. That's more than $30 million a month just from seeing anomalous behavior and going and fixing a browser issue. My favorite one, however, is a little bit more intangible. I hear people all the time talk about how having these anomaly detection alerts set up allows people that need to be alerted of those things, to go home and be present with their families so they know that if something happens, the right people will be alerted.
+
+00:31:38:52 - 00:32:03:29
+不明
+They can rest easy, go home, spend time with the people and pets that they love and rest. So that's actually my favorite part that I hear from people. So our last piece is generative AI. And in between this we probably could have deep learning. We're not going to go super deep into deep learning, pun intended. But deep learning really just involves deeper neural networks.
+
+00:32:03:34 - 00:32:36:00
+不明
+And deeper neural networks mean that there are more hidden layers, more nodes and more parameters. I won't go too deep into that. But just to put it into perspective, I think ChatGPT has something like 1.8 trillion parameters and 120 hidden layers, so this stuff can get pretty complex when you start to build these really sophisticated models. But if and actually this is, this is an example of when we blow up, images of the human brain in our own neural networks.
+
+00:32:36:00 - 00:33:03:31
+不明
+It actually looks very similar to AI neural networks, which is fascinating. But generative AI, in addition to kind of starting to involve deeper neural networks. As everybody probably is aware, generative AI is is specific to a machine learning model. It typically involves machine learning. That's why it goes deeper in AI. It's a model that generates content like text, images or code based on the data.
+
+00:33:03:36 - 00:33:25:19
+不明
+And provided input. So often we're giving it prompts to write. So for an example, maybe we give a prompt to our generative AI that says, give me a dog, generate for me a dog. And it gives me this. That's already pretty incredible that we can just tell a large language model or an image generative model to give us that.
+
+00:33:25:34 - 00:33:51:08
+不明
+But maybe I want to be more specific. And so I actually change my prompt and say, give me a Bernese Mountain dog hiking in Colorado, and it gives me this. That's much closer to what I was looking for. So if you're interacting with any prompt based model and you're getting something that you don't want, or it's not performing in the way that you would like it to, it's probably for two reasons.
+
+00:33:51:13 - 00:34:11:07
+不明
+The data that it was trained on as well as the prompt you're giving. So you might need to do better prompt engineering. So I'm going to need to speed along here because as I always do, we always run out of time. But examples of how we're using, generative AI here at Adobe within Data and Insights.
+
+00:34:11:12 - 00:34:49:58
+不明
+Here's just a few. This isn't an exhaustive list, but intelligent captions, which are actually giving you captions on your visualizations and the data to say, here's what you should pay attention to or key insights within this visualization so you don't really have to interpret it or dig for yourself. Also, our data insights agent, which you might have heard something about, this starts to veer into that, a genetic world where it's actually performing, a multi-step task for you, where you can go punch in and say, how much revenue did we drive in, you know, January 2024, or make me a visualization that shows X, Y, and Z, and it'll actually go do
+
+00:34:49:58 - 00:35:16:13
+不明
+that for you. And then last but not least, of course, content analytics is another great example. So has anybody show of hands been in sessions around content analytics during the summit? A few so content analytics and I'm actually going to go forward just a little bit. But it's going to be giving you the ability to understand what attributes in your assets are actually driving revenue, conversion and results for your business.
+
+00:35:16:18 - 00:35:41:38
+不明
+This has been a really tough problem for people to solve, and there's always been kind of a gap between creative content makers and analysts. We might at best have surveys or focus groups to help us understand what type of creative we should be making, but I think this is really going to bring content creators to the table and create really great conversations between content teams and analysts and marketers.
+
+00:35:41:43 - 00:35:58:49
+不明
+And also, I love this. Within the UI, you'll be able to see thumbnail images of the actual asset, because sometimes we don't know what an asset is just by the long, jumbled up name of the asset we need to see what is it. So that's going to be a great function of this. And I also mentioned this.
+
+00:35:58:49 - 00:36:25:18
+不明
+But really we're bringing content and data teams together to have more insightful conversations through this. So we're really excited about it. And it's actually I think being released seven days after summit. So coming really quickly, moving right along. How are we doing on time? We're almost. Oh, we're only at 22 minutes. Guys, my watch is off. Okay.
+
+00:36:25:18 - 00:36:57:42
+不明
+We're doing good. So, with, we kind of went through and defined AI. We defined machine learning or predictive AI. And we talked about generative AI, and we did this in a way of defining, explaining and applying. Showed a couple of examples of how Adobe's using it, examples of how it's working in the real world. And we did that in the context of customer journey analytics and Adobe Max modeler.
+
+00:36:57:47 - 00:37:17:02
+不明
+And I just wanted to kind of call out one more time here that these are working really well together. And I think we're only going to continue to see these work really well together. I love where the product teams are headed of bringing these together, because it's kind of just a no brainer for how people are working across them.
+
+00:37:17:06 - 00:37:42:53
+不明
+I think we're going to see more ease of implementation across the two. So being able to, have kind of synchronicities within the data of how you implement CJA and the rules you've set up and C.J carried over to mixed model or to make implementation flow easier. Also you're going to be able to in the future see the incremental scores from mixed model or flow right into customer journey analytics.
+
+00:37:42:58 - 00:38:14:40
+不明
+And last but not least, I always love calling out the fact that, you know, there's the optimization or budget optimization side of Adobe Mix Modeler, and then kind of the more exploratory side of customer journey analytics. Actually, one of my friends here in the audience from, a Las Vegas resort, you told me something I really love and love to hear, which is we see ourselves, you know, using mix modeler to understand budgets and optimization at the channel level, or maybe the campaign level.
+
+00:38:14:45 - 00:38:34:44
+不明
+And then we're going to probably turn to customer journey analytics to go deeper and make that work harder. And instead of seeing things just at the campaign or channel level, what segments are doing well against those top, you know, performing channels and campaigns? What do the journeys of those segments look like? What creative and assets are doing well?
+
+00:38:34:59 - 00:38:56:02
+不明
+So really people are going to flow seamlessly across both of these solutions. And I love to see how people are already doing that. So I promised you that I would reveal to you how I perform that magic trick. So the first thing of how I did it is I have this weird little tool called a thumb tip writer.
+
+00:38:56:02 - 00:39:15:14
+不明
+I slipped it on my finger without you guys seeing me, and just wrote down the number as he was calling it out to you. Also, that's my manager, Ryan, so I knew nothing could go super wrong, but. So everybody, round of applause for Ryan for being a good sport.
+
+00:39:15:18 - 00:39:42:37
+不明
+So, I will just, you know, end with. And we're ending with tons of time. So hopefully I can give you all some time back in your day, or we can all just have QA and chat for 15 minutes or so. But as we wrap up our time together, as I said when we began the intention of AI, especially here at Adobe, I can't speak for everybody, but especially here in Adobe, it's to enhance human creativity and not to stifle it.
+
+00:39:42:42 - 00:40:11:36
+不明
+The way that we create real magic is through the collaboration of humans and AI working together. And, what I'm not suggesting is for you to go use ChatGPT with every single question you have. There's actually environmental impact implications of that. So don't do that. But what I am saying is that it when it comes to marketing, analytics and measurement, it's really, as the title of this session implies, it's transforming the way that we do things in a great way.
+
+00:40:11:36 - 00:40:49:31
+不明
+And as I've learned more about it, I actually have a really optimistic view of it. And I heard someone say recently that I won't take your job, but people using it will, and I thought that was a little funny because I think it's really true. But if we fear what we don't understand, like, we kind of talked about at the beginning, I hope that I've helped you gain a little bit more of an understanding through some of these 101 explorations of what AI is, what machine learning is, the types of machine learning, you know, what generative AI is and how we're applying it here at Adobe so that you can lead with curiosity,
+
+00:40:49:36 - 00:41:17:37
+不明
+rather than fear. So, here are some other sessions that are happening today as well as tomorrow. If you want to go deeper into Mix Modeler, some of our data scientists who are just incredible, actually, what in 30 minutes after this session closes, are going to be going deeper in a mixed modeler, how we built it and some of the kind of deeper I would I would call that maybe A201 if this was a 101.
+
+00:41:17:42 - 00:41:38:39
+不明
+And then there's an analytics and CJA product impact product input session. So if you want to kind of help shape the product, go hang out at that session today at four. And then more on CJA tomorrow or Thursday at 9 a.m.. Talking about AI driven analytics, session 106 will also be a really great one to check out.
+
+00:41:38:44 - 00:41:54:33
+不明
+So thank you all so much for being here. I really appreciate it. I hope you learned just a little bit, being in this session and maybe have a little bit less fear around AI, machine learning and generative AI. Thank you so much. I appreciate you all have a great summit.
+

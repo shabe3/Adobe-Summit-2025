@@ -1,0 +1,312 @@
+00:00:03:16 - 00:00:33:52
+不明
+Hi, welcome to Adobe Summit. My name is Scott Rigby, and I'm a principal product marketing manager for Adobe Commerce. And I'm super excited today to be able to present to you how AI is transforming the commerce ecosystem. So I don't think any other topic is really got as much focus, in the last couple of years then AI and obviously we've had the benefit of things like chatbot that have really driven this rapid adoption of AI.
+
+00:00:33:57 - 00:01:08:20
+不明
+And so in respect of the commerce landscape, you know, we start to see some very, fluid changes in respect of capabilities that are being made available to customers and just customer expectation as a whole is changing around AI and what this can mean for them in respect of better commerce experiences. Hopefully through today's presentation, I'm gonna walk you through some of the areas that we're starting to see AI development, but also talk to you about what's already available within the toolset for you to be able to leverage today.
+
+00:01:08:20 - 00:01:37:10
+不明
+And then what does that mean in respect of once we start to put, for instance, Adobe Commerce together with other AI capabilities and what's the better together story to look like and what's available for you to be able to leverage as an Adobe customer. So let's dive into it. The agenda that we're going to be looking at today is really going to be looking at, first of all, a very high level overview of AI and what that means within commerce.
+
+00:01:37:15 - 00:02:15:33
+不明
+I'm going to talk about some trends, and I'm talking about some areas that we're seeing investment that I want to talk to you about, Adobe Commerce specifically what's available in the toolset today, what some expected for roadmap for this year, and then what's the the Better together story. How do we add capabilities on top of the e-commerce platform so you can branch out into utilizing AI into not just tens of different ways, but potentially hundreds of different ways, and hopefully give you an understanding of how we have curated this platform to be able to extend AI capability on top of it.
+
+00:02:15:37 - 00:02:19:18
+不明
+Let's dive into it.
+
+00:02:19:22 - 00:02:44:46
+不明
+So the first area we're going to be diving in here is really just a quick overview of AI. And then kind of get into the applications of AI within commerce. So an overview of AI right. What is AI effectively AI is, you know, technology that enables machines to be able to learn from data and start to make decisions autonomously.
+
+00:02:44:51 - 00:03:10:01
+不明
+We're also using AI here. And more recently you would have heard about generative AI, where we have, you know, inputting data, and it's then curating that into either text or it could be into an image or it could be into video, and in some cases also generating code that we can either use to and create amazing customer interfaces or create integrations to other toolsets.
+
+00:03:10:06 - 00:03:36:29
+不明
+And so we have this expanding use case of where I can be used within AI. There is this thing called machine learning. And this is effectively a subset within AI where the algorithms have very defined parameters. And to learn around, you know, programing and be able to, output to launch. Great. A very curated subset of information.
+
+00:03:36:34 - 00:04:23:25
+不明
+We also have natural language processing. And this is our ability to be able to interpret what is being spoken and then be able to interpret that into human language. And so things like llamas are using this to be able to deliver that. Large language models, AI in e-commerce, we utilize in this way from identifying interesting new segments to be able to target through to, you know, curating that experience to them actually coming to buy from us and making recommendations while they, in the purchase funnel and then delivering autonomous, responses back to the customers, potentially after the purchase, after they purchase with information around their shipping order, etc., and so we
+
+00:04:23:25 - 00:04:32:58
+不明
+started to utilize technology across the entire spectrum of the customer lifecycle.
+
+00:04:33:03 - 00:05:02:55
+不明
+Some of the areas and capabilities that we're starting to see AI being applied. So personalized shopping experience. This has been around for a while, but we continue expand on top of what this truly means. So this could be, you know, as for instance, curating the search capability. So what they have searching for we identifying the segment that types of products or merchant categories that they're potentially looking for or we making, you know, identifying the types of products that they might be testing.
+
+00:05:03:00 - 00:05:24:47
+不明
+We're testing out, you know, layouts that are specific to a particular customer segment. It might be predictive analytics. What's your propensity to buy or what's your propensity around, you know, being a lead for a business, from a B2B perspective, it could be, you know, looking at, what is the likelihood of, you know, what's the lifetime value?
+
+00:05:24:52 - 00:05:58:28
+不明
+What is the the you know, what are our sales going to look like in the next quarter? And so we can start to use analytics built to predict forward what this looks like, fraud detection, you know, identifying, you know, some anomalies outside of kind of the bell curve and that sort of identified that this is probably, a fraudulent purchase or the idea that, you know, that coming from this particular postcode or this particular area, is I, you know, indicative of being focused on it.
+
+00:05:58:28 - 00:06:23:07
+不明
+And so being able to help identify and mitigate those, we're enhancing kind of AI, capability. Right. Our ability to do augmented reality experiences. So be able to kind of, you know, render, products, for instance, in 3D to make them very lifelike and be able to understand, you know, are they a good fit for myself, for my business or whatever it might be?
+
+00:06:23:07 - 00:06:46:45
+不明
+And I'll show you some examples of that shortly. Chat bots and virtual assistants are getting a huge amount of focus in, particularly because of all of the focus around Lims. And you know what this could potentially do in respect of to writing that customer experience. So that could be, you know, you know, chatting to you right into a chat bot.
+
+00:06:46:49 - 00:07:14:53
+不明
+Help me identify, you know, mountain bikes that have both, shock absorbers in the rear and the front that have these types of accessories, that have this kind of componentry made by this particular, manufacturer. Because I like that. That is your robust componentry, etc.. And I want it in purple colors and, you know, they can then go and quickly index and search for products that fit that criteria and be able to surface that up very quickly.
+
+00:07:14:58 - 00:07:53:31
+不明
+Dynamic pricing. We're starting to test this idea of, you know, what is your propensity to spend? And, can we drive an incremental margin out of this segment versus this other segment in trying to increase margins? And, you know, look at that from a customer segmentation perspective. We might be looking at supply chain optimizer. Right. Are we are we ordering the right amount of products in the right mix across the different, fulfillment centers at the right time of the seasonality for the year to ensure that, you know, we have products available, but we're not over investing in products so that they sitting on the shelves, and we have to discount and sell
+
+00:07:53:31 - 00:08:13:46
+不明
+them out the back door later, and then obviously voice commerce. And again, this kind of ties into, you know, large language learning models where the right customers are coming because limbs are getting so good that, you know, we can then use voice to identify, you know, the information around products that we're looking for and be able to research that.
+
+00:08:13:46 - 00:08:35:46
+不明
+But also then start to make product recommendations and even potentially purchase that for you. And so plugging your commerce experience into that because it creates a shortcut, tools to be able to buy from you and be able to research more customers. That kind of embracing voice as it gets better with Lims.
+
+00:08:35:51 - 00:08:58:05
+不明
+Next, around just the the market trends in adoption, as you would expect, demand for personalization. And, you know, we're all dealing with the customers that are there, what I would call the instant gratification generation that have high expectations around personalized shopping experiences that could be, you know, products and product catalogs and pricing that is curated for their experience.
+
+00:08:58:10 - 00:09:25:17
+不明
+It's product recommendations. It's helping them search. It's helping them. It's rendering, the experience in the way that they like to, to digest information. And it's providing the right degree of appeal to that particular customer segment. And in order to be able to scale personalization, you can't do this manually. You need technology. You need AI to be able to do this automation around operation is right.
+
+00:09:25:17 - 00:09:52:04
+不明
+How do we start to automate our some of our capability? This could be everything from the content that we have around our various products and being able to create different iterations of that to be utilized across different social media channels or, across, different bandwidths, whether it be a 3G with a low quality rendering or, you know, 5G with a 4K definition, we need to think about how we start to scale operations.
+
+00:09:52:15 - 00:10:17:49
+不明
+This could also be utilized in respect of our reps and their ability to be able to, you know, accelerate sales and streamline what they do with enhancing our customer interactions. Or we're looking at real time, how do we, you know, interact with that customer and give them the information that they're looking for at the right point of time, so that we're driving them to the next best path to purchase or path to action or, or service.
+
+00:10:17:49 - 00:10:51:43
+不明
+Right. And then using analysis to identify areas that we can drive improve in customer behavior and decision making. Right. So again, you know, the what the quality of data that we collect day in and day out is increasing day and day. And so we need to be able to utilize again, AI to be able to surface this up and in in increasingly so make recommendations for us to be able to execute in action, because we just simply don't have the bandwidth to be able to do this from a manual perspective.
+
+00:10:51:48 - 00:11:13:46
+不明
+Why should we be using AI? Well, there is numerous benefits for why we should be using it, whether that be customer experience, whether it be, you know, helping customers search and find their products. And there could be both B2C and it can be driving operational efficiency and cost savings. It could be driving better inventory managing and supply chain management.
+
+00:11:13:51 - 00:11:38:48
+不明
+We have data that shows that 50% of e-commerce businesses are already utilizing AI, and so if you're not already utilizing it, then obviously we encourage you to get started as soon as possible. The gap between those that are utilizing it and those that have not continues to increase in respect of the there are accelerated capability. And so if you're not adopting it, we encourage you to do that at this soon as possible.
+
+00:11:38:52 - 00:12:06:55
+不明
+We can see phenomenal uplift from using AI. You know, 15 to 20% around product recommendations. We can see an increase in traffic. You can build out the content that you're, delivering that can then be indexed and and made searchable through SEO. And that can in some cases drive a X increase in traffic. And even more recently, in November 2024, with the Black Friday sales, we saw retailers that utilized.
+
+00:12:06:55 - 00:12:20:12
+不明
+I saw a 10% increase on those that didn't. And again, you want to be at the forefront of your competition. You want to be utilizing these technologies to able to get these commercial benefits.
+
+00:12:20:16 - 00:12:50:12
+不明
+So look at Adobe Commerce in our AI capabilities. I'm going to give you a run through of kind of what's available, what's expected on roadmap for this year. So you have some understanding of the capabilities that it's already available within the toolset. So we have product recommendations. This is looking at, you know, products, people that have looked this also looked at that and expanding, customers understanding of the products we have available, but hopefully also increasing your average order value.
+
+00:12:50:16 - 00:13:11:00
+不明
+Life search is looking at how do we search for the right types of products, making sure that out of, you know, the millions of potential SKUs that you have, customers find the 4 or 5 that are relevant to what they're looking for. Image generation, our ability to be able with create images and be able to deliver personalized content at scale to individual customers, is an aspiration.
+
+00:13:11:00 - 00:13:31:41
+不明
+And certainly with AI, we have this ability to be able to wrap this up. Performance recommendations. So, you know, one of the things that we're looking at is, you know, how can we improve the performance from your side in respect of the speed at which it renders, but also, areas that you can improve the code so that it delivers a better experience for customers.
+
+00:13:31:46 - 00:14:06:25
+不明
+Intelligent merchandizing. This is our ability to be able to identify, categories and be able to then use different types of ranking techniques to be able to deliver different types of personalized experiences for customer segments. Generative variations, our ability to be able to create different types of variations and so that you have not just one but you have multitude of of potential experience and you can start to, you know, test whether the experience that you currently deliver to this customer segment is optimal or whether there's opportunities to improve upon it.
+
+00:14:06:30 - 00:14:27:38
+不明
+Segmentation targeting. So to identify certain segments and be able to then target content again, that and those segments, can be identified and surfaced up through AI. And then lastly, predictive targeting, you know, working out what is the the right content to put in front of the right customer at the right time?
+
+00:14:27:43 - 00:14:57:18
+不明
+When we start to look at AI applications, when we start to look at AI applications within commerce, we have a number of capabilities that's already available within the toolset. Today, we have these capabilities that are already embedded, within the toolset. And then we've got some that are on roadmap or expected. Our roadmap for this year. I'm going to dive into some of you see, you have a better understanding of what they do and how they can benefit your business.
+
+00:14:57:23 - 00:15:35:37
+不明
+So let's start with live search, right. This is our ability to be able to deliver, search results and help to write those search results for customers. And this is really focusing around simplicity and speed. And I'll talk a bit more about effectively what this does shortly. But essentially what we're doing here is managing multi-language, identifying, you know, categories and filter facets that help customers get from those millions of SKUs down to those 4 or 5 product recommendations, 13 different algorithms to use here, both image based and both database.
+
+00:15:35:42 - 00:16:04:34
+不明
+To be able to work out what is the next best product and recommend customers so that they understand what's available to them within a certain product set, but also to expand that court size and average order value and then category merchandise. Five algorithms to choose for from here, where we can push or pull certain results up or down utilizing these different algorithms, and then test that out to see which delivers the best results for your customer.
+
+00:16:04:39 - 00:16:30:50
+不明
+So let's talk about live search. Right. So live search is first of all is used quite widely amongst a number of customers. And you can see there's a number of well-known brands here on the left hand side. But as I alluded to, this is effectively the ability for us to be able to make search suggestions. So autocomplete we're also making recommendations on filters to be able to narrow down your search results.
+
+00:16:30:50 - 00:16:55:27
+不明
+We're also helping you push or pull your search results so that the right products are being pushed to the top for a certain search result. And, those that are not, being pulled down. And so typically customers that are leveraging this are seeing a 7% increase in conversion. But we've seen some customers have phenomenal success of up to 100% increase in conversion by utilizing this toolset.
+
+00:16:55:31 - 00:17:12:07
+不明
+And it's a robust toolset that's had, you know, in this case, as you can see, billions of requests put through it, so that we're leveraging this data to be able to better understand how customers utilize this and be able to deliver better results.
+
+00:17:12:12 - 00:17:40:41
+不明
+Now, recommendations I talked about this in respect of, the 13 different algorithms that you have, but you have both database algorithms and you have image based algorithms, database algorithms being ones that effectively look at, for instance, a recent customer behavior giving a higher degree of weighting to the most recent or recency of data and allowing, those products then be surfaced and recommended to your customer.
+
+00:17:40:46 - 00:18:05:42
+不明
+And you can choose different algorithms and you can use both the algorithm and you can still layer rules on, manual rules on top of that. And then we also have image based a recommendation. So here we can effectively use our image based recognition technology to identify and add keywords effectively meta tags to those images. And start to look at similarities between those images.
+
+00:18:05:42 - 00:18:33:31
+不明
+So an example here might be a blue hoodie. And when customers are looking at one blue hoodie, we used image based algorithms. Look through the catalog and identify other, blue hoodies that are available within our catalog and surface that up and typically we're seeing customers here achieve a 15% click through rate and a 20% lift in average order value by deploying product recommendations.
+
+00:18:33:36 - 00:19:09:03
+不明
+Next, we have intelligent, category merchandizing. And again, here we have five different rules to automatically rerank products sequence in and searching on the page. And so here, whether it be, you know, trending products or it could be, you know, those that have added to cart or, recommended by you or you know, the, the most purchase we can start to use these different algorithms to ratio our, category and be able to then test this with customers to see which delivers the most beneficial result for customers.
+
+00:19:09:03 - 00:19:13:39
+不明
+And therefore your business.
+
+00:19:13:44 - 00:19:47:40
+不明
+Next we have example here from Coca Cola, which obviously is a substantial brand there well recognized within the market. And they're using both our live search as well as our product recommendations to drive some very significant business impacts. For instance, on the live search side, they've seen increase of 18.6% within the conversion rate, which is obviously millions of dollars for them that had, you know, 66, 60,000 unique searches, indicating shopper interest, which helped them then better curate that experience.
+
+00:19:47:45 - 00:20:13:28
+不明
+Then that 117% increase in, click through from new products that are being displayed and 17% increase in click through rate for frequently brought together, effectively increasing, you know, the number of products within a shopping cart, therefore average order value per customer. And again, some pretty phenomenal results from a well, recognized brand.
+
+00:20:13:33 - 00:20:48:00
+不明
+Next we're looking at gen AI within commerce. And again we're leveraging here our ability to be able to personalize, content, for different products against different customer segments. And you know, example here is a B2C one where we're swapping out the background for these different pieces of apparel. This could be equally represented within the BTC environment. Maybe you're selling, you know, hard flooring that is utilized within, you know, offices or warehouses or various of other types of commercial premises.
+
+00:20:48:05 - 00:21:17:19
+不明
+You could swap out the background here to be representative of those different customer segments and start to use generative AI to be able to very quickly create these different types of representations. On top of that, we can start to then create, text based content for your product description, pages or titles around your products to engage audiences. Maybe you want to change your, current product description to be more value based.
+
+00:21:17:24 - 00:21:41:39
+不明
+And again, we can start to use AI to be able to very quickly personalize this merchandise for your customers. Next, we're looking at, what we call generative variations, right. This ability to be able to create a number of, a number of generations of content. Now, this is more around the ability to be able to create variants for.
+
+00:21:41:41 - 00:22:22:40
+不明
+Right? So we can obviously create, experience. And that would be typically your default content. And then you creating numerous experiences on top of that. By utilizing, the different variants in with this video, you can start to see that we can very quickly start to expand out the number of variants we can create and start to test, which resonates best with your customers based on in, you know, the KPI that you said mostly this is or is it could be some other type of KPI might be revenue based or whatever, it might be applications, etc. but we can start to very quickly expand out using, generative variations to be able to
+
+00:22:22:40 - 00:23:00:28
+不明
+create these and test them into market, to be able to get maximum impact. Next, let's jump to, expanding Adobe Commerce and our AI capabilities. So one of the areas that you can start to really expand out Adobe Commerce here is, to be able to leverage our integrations that we have. So we have database integrations, with our technology into what's called Adobe Experience Platform, where we effectively sharing data, from commerce into Adobe Experience Platform that can then be utilized within a number of other toolsets.
+
+00:23:00:28 - 00:23:23:22
+不明
+So, for instance, within Adobe Experience Platform, we can start to use AI assistant around this data to be able to curated further. We can start to do localized modeling and the like, or we can start to pull that into our real time CDP and start to do media mix modeling. How should we spend our media budget against the different segments that we identified from the Commerce data?
+
+00:23:23:27 - 00:23:48:52
+不明
+Maybe we can do propensity scoring or lead scoring. We can also curate journeys through Journey Optimizer that we can I, you know, create adaptive journeys. We can decide on which office to deliver to different segments. We can to enrich our analytics through, customer journey analytics and start to do predictive analytics or journey AI. And then we've also got integrations into our content toolset.
+
+00:23:48:52 - 00:24:12:04
+不明
+So Adobe Experience Manager and Assets where we can do content personalization, we can start to do contextual targeting. Or with assets we can start to create different types of various assets, that are also plugged into, our credit card capability, which I'll show you shortly. So I wanted to give you a quick example of what this looks like.
+
+00:24:12:09 - 00:24:37:36
+不明
+So, from a data side, we have, what we call our customer side data. So this could be, you know, added to court. It could be checked out. It could be, products that are being viewed. We also have our service side that allows services or status or, delivered, etc., inventory availability. And we're starting to then make that available through Adobe Experience platform into our real time CDP.
+
+00:24:37:40 - 00:25:02:57
+不明
+And so we can effectively now do things like and suppression. Quite often what happens from a retail perspective is a customer buys from us and then, you know, for the next day or week, we continue to deliver them ads for the same product they just bought for us. And so what we want to do here is ensure that we, you know, maximize your ad budget by suppressing ads like that for customers that have already bought from us.
+
+00:25:03:01 - 00:25:42:50
+不明
+We can make those segments available into Adobe Commerce, where we're then, you know, curating the experience that customer gets. That might be based off court price rules, it might be based off next best offer, or we might be managing the marketing journey with this data and delivering different types of journeys for those customers that are abandoned versus those that are poor, to new customers versus loyal customers, we can also impact, drive this into analytics and have an impact that by looking at campaign analysis of customers that are responded to campaigns and then export from us and be able to identify the downstream impact of campaigns that are delivering a result versus those that are
+
+00:25:42:50 - 00:26:04:26
+不明
+not. Or we might be looking at different types of channels, etc.. And so we can start to leverage this, and we can start to feed this data to two way integration back into Adobe Commerce. Next is around our, digital asset management from the content side. Right. We have this ability to be able to then, you know, create different types of content.
+
+00:26:04:26 - 00:26:31:10
+不明
+We can start to leverage things like Adobe Express where we're creating, you know, different types of content with, different backgrounds or, or different types of elements within those, those products. And you want to, you know, make a product more realistic by adding certain elements to it that can be adding a water bottle to a backpack or, you know, adding various types of accessories to a mountain bike.
+
+00:26:31:15 - 00:26:55:51
+不明
+And so we can start doing that, really utilize our asset management system here to be able to bring these products to life, be able to create different types of iterations of that for different channels. You might use it in social media. And so the type of asset that you use within Instagram will defer to the one that you might use within Twitter, or you want to use it across different, portals.
+
+00:26:55:51 - 00:27:18:20
+不明
+It might be mobile versus desktop. And so we again, we're rendering different assets here. We're also wanting to personalize that. So again we talked about this idea of, you know, different audiences from a B2B perspective. You might sell into a warehouse as well as into commercial office. You want to be able to swap out kind of those environments that appeal to the white customer.
+
+00:27:18:25 - 00:27:29:57
+不明
+And with our digital asset management integration, we can very quickly create these different types of variations and make that available to commerce.
+
+00:27:30:01 - 00:27:56:26
+不明
+Next is our ability to be able to add our Creative Cloud. And again we've got integrations into Creative Cloud. Now credit card has a large number of AI capabilities. That could be everything from sort of 3D model generation. It could be video creation, it could be, creative assistants. I'm going to give you a couple of quick examples of how we using some of our integration capabilities into, Creative Cloud.
+
+00:27:56:31 - 00:28:20:58
+不明
+So one of those areas is within technology called substance 3D. And this integration has been around for a while. And the amazing thing here is obviously we're using AI here to render, lifelike products. Now, you could be creating products in, different colors. It could be, you know, apparel. And we're going to test out different colors for our range for the next season, but we're not quite sure what to actually manufacture.
+
+00:28:20:58 - 00:28:56:03
+不明
+And you have the ability to be able to manufacture on demand. We can use this integration with substance 3D to bring those products to life. Or maybe, your B2B business and, you know, you're you've got sort of, you know, a bobcat type, digger. And it comes with different types of, tool sets that go in the end, whether it be sort of an ogre or whether it be sort of a, barrel, for, being able to pick up, Earth, etc., you can show you the different types of accessories that could fit on the end of it and bring that to life from a, from a customer perspective.
+
+00:28:56:07 - 00:29:17:47
+不明
+And so this tool is, is fantastic in kind of bringing this 3D element to life. If we wanted to give you some examples on both the BDC and B2B side, right. The beauty of, you know, augmented reality, you could do, you know, in this case we were rendering here a carry bag and we're we're showing this. We could show this in different colors.
+
+00:29:17:47 - 00:29:54:37
+不明
+We could show with different fabrics. We can also show the quality of the products here by surfacing up the, the sheen within the bros that has. Or maybe you selling a B2B, robotic arm that does, you know, so it has certain capabilities and, you know, they want to see if this will actually fit within their warehouse. And so again, we can use this to be able to bring it to life, place it within that warehouse environments and sort of, you know, test the the swing arm capacity or Brett developed to see if it fits in that environment and we can start to see the different types of tools that could fit onto
+
+00:29:54:37 - 00:30:11:17
+不明
+the end of it. And so we can start to really bring this entire ecommerce experience to life by our connection into Adobe Creative Cloud, through our connection with Adobe Creative Cloud.
+
+00:30:11:22 - 00:30:56:51
+不明
+Next is our ability to be able to, connect to our developer marketplace. So we have a developer marketplace that sits on the e-commerce platform. We actually have 4700, extensions applications that sit on Adobe Commerce Cloud and this these capabilities are in a lot of cases just for a nominal fee. But you have a huge number of AI capabilities that you can bring in very quickly into Adobe Commerce and be able to leverage these on top of what's already included within the product, whether this be from a content creation perspective, this could be text or images, video, etc. it can be from an SEO delivering more keywords to be able to drive better
+
+00:30:56:56 - 00:31:24:21
+不明
+SEO, indexing within search engines and can be around language translation. It could be around fraud. It could be around, you know, support assistance. And so using our affiliate technology, T, which is an extension capability on Adobe Commerce, you can very quickly integrate and bring these capabilities through. And so an example here looking at the developer marketplace, you can start to see some of the applications.
+
+00:31:24:21 - 00:31:47:04
+不明
+And we've got roughly the 80 plus applications that are available around AI today that you can really use. And as you can see from the pricing in the bottom right of each of those boxes there for a pretty nominal fee, if you need to be able to add this capability to your business. So again, something I we encourage you to leverage.
+
+00:31:47:09 - 00:32:14:01
+不明
+Next, I want to talk about this ability of adding further cloud services or AI services through your cloud provider. So you know, whether it be chat bots, whether it be code generation, whether it be an AI agent builder on AI builder, we have, again, Apple that allows you to be able to bring these services, whether it be from AWS or whether it be from Azure into a go e-commerce through using the App Builder.
+
+00:32:14:11 - 00:32:29:30
+不明
+Extensibility capability. So or what we call our Apple the framework. And so very quickly you can start to bring these capabilities into your Adobe Commerce solution.
+
+00:32:29:34 - 00:33:02:12
+不明
+Next is our ability to be able to bring in lambdas, large language models into w commerce. And again using our app, build a framework. You have the ability through ChatGPT. Or whether it be anthropic perplexity, llama Gemini, etc. to be able to leverage their capabilities and the unique strengths for your business and be able to leverage them within Adobe Commerce, the Apple, the framework allows you to be able to provide this two way integration.
+
+00:33:02:16 - 00:33:47:36
+不明
+So hopefully you've kind of get an understanding of both the AI landscape for commerce. And then more importantly, what does this mean for Adobe commerce existing today? The capability, the the expected roadmap, together with the extended capability through, Adobe Experience Cloud or Adobe Creative Cloud, the extension capability through our developer marketplace. And then if you want to go even further, whether it be through your cloud service provider or various types of Lims, you can start to you very easily bring this capability to the floor to deliver some amazing commerce experiences for your customers, but hopefully better operational efficiency for your business and, an opportunity to create new products and new markets that you
+
+00:33:47:36 - 00:34:14:24
+不明
+can go to. Marketing AI is really enabling businesses to operate more effectively and efficiently, and Adobe is at the forefront here in respect of bringing this capability to you and making it available within your hands, as well as be able to very quickly bring in, external, AI capability if you're willing to layer on top of that Gobi commerce platform for those that are not currently utilizing.
+
+00:34:14:24 - 00:34:37:39
+不明
+We obviously encourage you to start utilizing it today. Those that are already using it, are learning, amazingly quickly, and they are building up core capability. And, the gap between those that are not utilizing is getting great, some great. And so we encourage you to, to start learning to use what's out of the box available to you today, and then start to think about how you can expand on top of that.
+
+00:34:37:44 - 00:34:46:53
+不明
+Hopefully today's session is being, informative in respect of AI and the commerce ecosystem. Thank you for your time. I will hope you have a fantastic Adobe Summit.
+

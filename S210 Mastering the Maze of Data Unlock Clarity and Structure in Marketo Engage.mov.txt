@@ -1,0 +1,396 @@
+00:00:00:01 - 00:00:29:22
+不明
+To talk about mastering the maze of data, unlocking clarity and structure in Marketo. Engage. My name is Charissa Russell. I am currently with McGraw-Hill. I'm a four time Marketo Champion. I have been certified since 2015. And I'm also an Adobe subject matter expert. I am experienced in front end web development and data management. And I'm here with the esteemed Chris Kelly.
+
+00:00:29:27 - 00:00:57:15
+不明
+Thank you very much. As Chris said, my name is Chris Kelly. I am a principal marketing automation architect for Qualified Digital. I've been in the Marketo Champion program for two years now, and I am a certified Marketo Solutions architect. Please feel free to reach out to us at any time. But the agenda for today, why we're all here, why we're all super excited to be awake at 8 a.m. in the morning.
+
+00:00:57:20 - 00:01:20:36
+不明
+We're talking about Marketo and how to understand the data landscape using Marketo as the hub and spoke central spoke talking about some common pitfalls that might happen when you have a data instance that you're running, inheriting or possible duplicates that are coming through and the importance of having clean data as you operate your Marketo instance.
+
+00:01:20:40 - 00:01:45:04
+不明
+Then it's Adventure Time. You all have to stay and watch for that what that means. But it's a good time and I'll be handing that back to, the rest of the group for some questions when we talk about the key tenants. After going through our presentation. All right. Thanks, Chris. So let's first talk about data as a landscape.
+
+00:01:45:09 - 00:02:04:03
+不明
+So when you walk into a new operations role, you really have to get the lay of the land. You have to understand your systems. What kind of data is in front of you. You have to understand your sinks. What kind of data is coming and going. You have to understand your processes. Are there data coming in, going out that are kicking off workflows?
+
+00:02:04:03 - 00:02:25:54
+不明
+Is there data updates happening that are triggering automations within your instance? I know when I log in, it can really feel like a maze. It's dark bits and bytes everywhere. I mean, I'm being silly, but where do you begin? The choices seem infinite and every path leads you down a different turn and you never know what's behind it.
+
+00:02:25:59 - 00:02:50:47
+不明
+Some of them can lead you to dead ends a lot faster than others. And this is a lot like the processes that we have and how we structure our systems. So what are some common options for structuring data? Well, let's talk about databases and data streams from a central hub perspective, using Marketo as that central spark. So we see here we have Marketo engage a very rich database full of people and engagements.
+
+00:02:50:47 - 00:03:12:13
+不明
+What we're all familiar with. But what's behind it right there? Well, that's a tiny little relational database called a marketo custom object. Now, this gives Marketo CRM like capabilities where you can add additional data sets and relate them to the person record in a bunch of different ways. Marketo offers 1 to 1, one to many, many, many options to link these records together.
+
+00:03:12:25 - 00:03:35:34
+不明
+So you can have a very rich data set just here, but let's take a step back and look from a little more birdseye point of view. And we have a CRM. Now a CRM also has that ability like Marketo to have relational databases inside. And these are also called objects. These objects can sync over with the people. These objects can also sync directly into Marketo Custom objects.
+
+00:03:35:38 - 00:04:04:10
+不明
+Not just that though, we have services. There are tons and tons of really useful services out there. Can really supercharge your marketing campaigns. Marketo is a widely adopted product, so a lot of these services have out of the box integrations ready to go with Marketo. Not only that, from a Rest API standpoint, Marketo is even more powerful. You can create custom service integrations to integrate it with nearly any business system you could think of.
+
+00:04:04:15 - 00:04:19:00
+不明
+And there's just one more thing I want to reference. If you're in a larger, more global or enterprise business, you may also be integrated with a data lake. If you are, that is a beast of its own. So.
+
+00:04:19:05 - 00:04:43:54
+不明
+Now what was that? He was cute, All right. What are the, So now that we have the landscape, what are the pros and what are the pitfalls of these setups? Well, first let's take a look at CRM sync. So this ensures that marketing and sales teams are working with consistent and up to date data. This automates your lead in contact updates, so this reduces any manual entry or any delays on your workflows.
+
+00:04:43:59 - 00:05:06:33
+不明
+It has a single source of truth because Marketo, that person in Marketo is that exact person in the CRM, because those two systems are sync together. Now, some of the cons of this setup is that it can create duplicate records if it's not properly configured. The sync delays can cause Marketo data issues, and the field sync and overwrite are managed from the CRM side.
+
+00:05:06:34 - 00:05:32:37
+不明
+So this could feel a little limiting when you're looking at it from a marketo perspective. Now let's take a look at APIs. So some of the pros here are that it allows customized data flows. So you can integrate Marketo with nearly any system that's API accessible. It provides real time data updates. So this offers you a lot more options to personalize your campaigns and create more automations around them.
+
+00:05:32:41 - 00:05:54:11
+不明
+It provides you flexibility so you can enforce unique business rules. This is really handy if you are managing large data sets and you need to manage duplicate duplicates or audience segmentation. Now some of the cons here. It requires development resources to build and maintain your API calls. Depending on what expertise is available to you, this could be complicated.
+
+00:05:54:16 - 00:06:15:27
+不明
+API rate limits can slow data processing if you have high volume, and if API calls aren't structured correctly, you could have a lot of data mismatches or, orphaned records if you are not, using proper validation rules. So you want to be careful with API because you can do a lot of damage if you do not have the expertise very quickly.
+
+00:06:15:32 - 00:06:38:49
+不明
+So before I finish, let's talk quickly about custom objects. Some of the pros here are that it enables complex data relationships beyond your standard lead and contact fields. It enhances personalization by storing additional attributes that are specific to your business, and it provides a way to enrich Marketo data directly in Marketo Marketo without depending on any other systems.
+
+00:06:38:54 - 00:07:00:59
+不明
+You can also take your data set and upload it directly to the custom object within the Marketo UI. If you're interested in the ins and outs of this, you can check out my session from last year, which is also S2 ten, where I dive in really deep about the idea synchronizes with custom objects. Some of the cons here are that matching records correctly can be very difficult if your linking fields are not very clear.
+
+00:07:01:04 - 00:07:19:12
+不明
+You have to be very careful when you plan to use these, because you have to choose that right data model. If you're going to scale it. And then managing duplicates and orphaned records can be very complex. They can only be managed through the API. So this is something that you very much want to consider if you're going down the custom object route.
+
+00:07:19:17 - 00:07:36:43
+不明
+So now that we understand data and landscape, I'm going to pass it over to Chris so we can talk about why it's important to keep it clean. Awesome. Thanks. So as Chris said, there are so many different ways to interact with your data. But at the same time, there are so many ways to bring that data into Marketo.
+
+00:07:36:43 - 00:08:11:16
+不明
+And that is when we have the option, the, capability or the opportunity to create duplicates. There's a couple of different ways. One is the most, common. Your clients or your end users are going to be coming in through form submissions. And for the most part, it's pretty bulletproof. It's handled via API. However, you do have the capability of, being susceptible to spam attacks where if, you know, if they are.
+
+00:08:11:21 - 00:08:45:20
+不明
+Wanting to, they have the ability to create multiple inputs within one second. So there's the possibility the API has not updated your system yet. And boom, you have duplicates. So nothing that we can really, go against in that way. But there is that capability of having spam attacks within the form submission. And then you also run into the issue if you have multiple fields set within your Marketo instance as the Dedupe record, by default, Marketo will always be set up as email to be your Dedupe field.
+
+00:08:45:25 - 00:09:08:46
+不明
+But there are capabilities where you can ask for multiple fields to be that need to be in combination. For the Dedupe logic. So if you are running your Marketo instance, always make sure that you are sure how your Marketo instance is set up, because this is going to be a reoccurring theme as I go through the remainder of these inputs.
+
+00:09:08:51 - 00:09:32:04
+不明
+The next one is the data imports manual data imports. So as many people might be aware, this is probably one of the most common ways that you're going to bring in bulk data into your Marketo system. So the vulnerability from before, if you are not just using your email instance, you could email field as your dedupe field.
+
+00:09:32:09 - 00:10:04:54
+不明
+You can accidentally create a huge amount of duplicates because Marketo will check against those fields and say, oh yes, Chris Kelly, qualified digital exists, but he may or may not have, you know, first name fields intact as well. So just be aware the ability of taking the values as written. So if you've had finger information inside of your input, Marketo doesn't know that it's going to take it as okay because you put it in there.
+
+00:10:04:54 - 00:10:25:48
+不明
+You know what you're talking about. Let's go. So you need to do that validation before you bring it in. And then also this allows you to do your own field mapping. This is not done automatically. You do not have that form Sims where you say first name equals first name. Underscore what have you. So you need to be in charge of your own field mapping.
+
+00:10:25:52 - 00:10:56:02
+不明
+So just be aware of that. You are your biggest strength and your own worst enemy. So going on to the next one, the CRM, this is probably one of the most powerful, the main reason that you're going to run into duplicates here is because the CRM is considered the source of truth, especially with a native integration. So if you are having multiple Chris Kelly's in your CRM, Marketo says, okay, all of them are coming over.
+
+00:10:56:13 - 00:11:18:51
+不明
+So you need to make sure that you understand how that data is being brought in. Have that communication between the sales team, the CRM team and Marketo, and just understand what data you're getting in before you run that sync. It can be a very manual process. What do I mean by that? CRM sync it should be automatic. It can be a very manual process and how that data is brought into CRM.
+
+00:11:18:56 - 00:11:42:17
+不明
+The sales team or whoever is in charge of CRM is going to be bringing that data in. They may or may not be doing some proper protocol before they bring that data in. So again, we're dealing with that human element on how that data is being brought in and sung between you and your system, and it's outside of Marketo control.
+
+00:11:42:21 - 00:12:12:39
+不明
+So even if you decide to go through this whole escapade of wiping out all of that data inside of Marketo, because the CRM is the source of truth, that data is going to be brought back in. You need to be able to update the source of truth in order for those edits to stick. So just be aware that even if you decide to take care of the duplicates inside of Marketo, that does not necessarily mean that the duplicates are gone for good.
+
+00:12:12:44 - 00:12:38:34
+不明
+And then, as Charissa has said before, the API sync capabilities are insanely powerful. You can do so much with your data with the Marketo instance as a whole, with the API capabilities that are available. However, you are in charge of creating that call. So again, your own worst enemy. If you know what you're doing, you can create some very powerful automation.
+
+00:12:38:39 - 00:13:07:59
+不明
+But if you are writing these calls incorrectly, they will take that as gospel. Marketo says, you know what you're doing. We're going to do whatever you tell me to do. So just be prepared for that. And again, that comes down to understanding if your system is set up for just email as your dedupe, or if you have any custom field as your dedupe, it really comes down to when you're going this custom, when you're going this hands on, understand your data.
+
+00:13:07:59 - 00:13:42:28
+不明
+Understand how your Marketo instance is set up. So that being said, these duplicates, why is that such a big deal? Well, they can screw your analytics. They can screw you with your app, with your communication. Do you understand which person you're actually emailing? How is that data being assigned back? You really need to understand how the duplicates are messing with your system, messing with your communication limits, and just in general harm the customer experience.
+
+00:13:42:33 - 00:14:08:55
+不明
+All right, the adventure path, like I promised Chris is going to take us off here. All righty. You guys ready? So thank you. All right. So we're going to do something a little different here. And you may see some stickers on your chairs to set the scene. But you know Marketo is a complex system. And there are a lot of different scenarios we deal with every single day working in marketing operations.
+
+00:14:08:55 - 00:14:31:01
+不明
+So we're taking a little different, different round here. And we're going to set it up with some scenarios. So each problem is going to be a thing that we deal with every day in marketing operations. And if you will bear with me here and give me a moment to set the scene, I know some of you out here into this.
+
+00:14:31:05 - 00:15:02:08
+不明
+Imagine you're an adventurer in a vast dungeon, hunting through a maze of data around each corner is a unique challenge related to data management. Can you untangle all of the data streams and best the Spaghetti Beast? Your choices will determine the success of your quest to maintain a clean and efficient database. Now you will only be armed with your intellect, but we are here to help you through this terrible maze.
+
+00:15:02:08 - 00:15:26:56
+不明
+And we have two teams today. We have the workflow Warlocks right here. I told them this leather on to make people have feelings. I don't know about you guys. All I told the Sorting Hat is I don't want a dynamic system. And we have the data Knights of the clean table. So are you guys ready to traverse the maze?
+
+00:15:26:56 - 00:15:54:39
+不明
+Because it is, what, now? 8:15 a.m.? Let's go do it. You got it. All right, so the first beast is here. The legacy data nightmare. A bad data migration. Now, I don't know about you guys, but this one has me shaking in my boots because we just lived through this. So the problem, a global company recently migrated customer records from an old marketing automation platform into Marketo Engage.
+
+00:15:54:44 - 00:16:19:58
+不明
+However, the previous system didn't enforce strict data hygiene rules, so the import resulted in thousands and thousands of duplicate records. The marketing team now faces challenges in segmenting their audience accurately because that outdated duplicate record will misfire. Promotions inflate email value volume, and cause their workflows to go awry. So, presented with a beast of this nature, how can we attack it?
+
+00:16:20:03 - 00:16:41:11
+不明
+Well, we can turn left or turn right. Now. One thing you'll notice as we go through the solutions to our problems is that no answer is truly right or wrong. Marketo is a really powerful system that comes with a lot of problems that you can solve, but you can be so creative because there are that many ways to solve it.
+
+00:16:41:16 - 00:16:59:41
+不明
+A lot of these issues, depend on things you have in front of you. They depend on the skill level of your team, the bandwidth of your team, maybe your budget, maybe the technology stack in front of you. So what we want to help you do is figure out how to think about these problems so you can navigate your way through the next time you hit a spaghetti beast.
+
+00:16:59:54 - 00:17:23:51
+不明
+So with that being said, how do we fight this bad data migration? Well, we can turn left and bulk export clean in Excel and Re-Import, or we can turn right and run a one time deduplication API script. So I'm calling on all y'all. Raise your right hand if you want to turn right or your left hand if you want to turn left.
+
+00:17:23:55 - 00:17:48:28
+不明
+Right. Second. Okay. I was expecting to see a lot of rights. I know how this one hurts, you know? Okay, so let's talk about the people who turned left first so your team can export the possible duplicates list. You can clean that data in Excel using the formulas in that platform to match those duplicate records based on however you program the formula and then re-import that clean data set.
+
+00:17:48:33 - 00:18:13:54
+不明
+Now this method is usually very accessible. A lot of people have this technology and are able to do it, but depending on the scale of your issue this could be a heavy, heavy lift. So it will solve your problem, but it may not be feasible. So if we have a global company with this issue, a sizable issue, a better option would be to run a one time duplicate deduplication API script.
+
+00:18:13:59 - 00:18:35:37
+不明
+So what does that look like? The team can leverage Marketo Rest API to scan for duplicate records based on email, phone number, or any custom fields that your business deems, and then automatically merge them. Now, this requires developer support, and it requires that level of expertise to execute because like Chris said, you could do a lot of damage very quickly.
+
+00:18:35:42 - 00:18:55:56
+不明
+You want to make sure when that's being created that you are choosing those what fields when creating that hierarchy properly and then testing it first. So when you run it, you make sure that everything is merging correctly, but it is extremely scalable. So this was the way that we solved it and it worked very well. So we have bested this beast.
+
+00:18:55:56 - 00:19:22:48
+不明
+And now Chris, you're up. All right. What do we have next. Duplicate overload. So I know that many people out here have done it on purpose. And, you know, shaking their head afterwards on, was that truly necessary? Why did I do this to myself? But let's talk about the problem. Rapidly growing SAS company recently integrated with Salesforce CRM into Marketo.
+
+00:19:22:48 - 00:19:51:07
+不明
+However, the sync there after the sync marketing team noticed that there's a huge buildup or new duplicates that have come through. So some customers had four different profiles. And this led to huge conflicts in email communication, inaccurate scoring, and confused reps who are engaging with the wrong lead or been given the wrong information because they were looking at the wrong duplicate.
+
+00:19:51:12 - 00:20:24:53
+不明
+So this company now faces an urgent need to consolidate this data before an upcoming product launch. What are we going to do? We can turn left the manual merge method within Marketo, or we can turn right so hands who's turning left and who's turning right out of left right. Okay, great. I'm keeping track so nobody's, you know, changed their answering.
+
+00:20:24:58 - 00:20:57:14
+不明
+So if we turn left, the manual approach Marketo has a possible duplicate filter built in. And you can choose this to manually move these merge these records and ensures incredible control over the data. You can go field by field, ensuring that each one of these records is merging exactly as I need it. And this is incredibly important for certain systems, certain industries where you must have that level of control.
+
+00:20:57:14 - 00:21:23:28
+不明
+You can't have the merge happen in some mysterious black box where it happens for you. I need to be insanely accurate about how my data is being represented, how it's being merged, and the manual merge system within Marketo will allow you to do that. However, it is manual if you have thousands of leads, are you really wanting to sit down and do that every single time?
+
+00:21:23:32 - 00:21:52:14
+不明
+And it's not just the first time it might happen, right? They could come back. So yes, you have an insane amount of manual control. However, it's not scalable. It's not a long term solution. However, it gives you that control. Or you can turn right. You can have an automated duplication, duplication with an AI pass tool. So you can implement an AI pass tool like a Ricardo or a certified, which will handle that information in flight.
+
+00:21:52:14 - 00:22:16:08
+不明
+So it never even makes it into Marketo. And it will be able to allow you to keep sure that that data stays clean. Like I said before, in the manual option, it could still come back and deep and dirty your data again within Marketo. However, if you have some sort of tool standing in between, you can be sure that that data is going to stay clean.
+
+00:22:16:12 - 00:22:42:24
+不明
+However, it is a tool, it is another integration. It's going to take that time. It's going to take that scale scalability. It's going to take that, you know, training. How am I going to do this? Who's going to handle it? How am I going to report on it. So it just if you have the time, if you have the budget, if you have the skill set, are you going to go more manual or are you going to go more scalable?
+
+00:22:42:29 - 00:23:05:08
+不明
+It depends on what the requirements are for your company. All right. Back to Chris. All right I think we're taking him down here. He looks like he's getting smaller to me. All right. So this one is the paid ad retargeting mishap. So some of you may be familiar with things like this. An e-commerce company runs retargeting campaigns on Google Ads and Facebook.
+
+00:23:05:13 - 00:23:29:05
+不明
+But the marketing team noticed that customers who were abandoning their cart were getting multiple reminder emails. The source was sometimes there was an old duplicate record, and then sometimes it came from a more recent purchase record. They noticed frustration among the customers with, peaks and unsubscribe rates and spam complaints. So seeing how this is happening, what are some ways that we can attack this?
+
+00:23:29:09 - 00:23:50:02
+不明
+Well, would you like to turn left and use Mark Meadows Merge People function, or would you like to turn right and implement an auto deduplication smart campaign? I know which one I'm doing. Let's see it. Hands up. Am I know? Thank you, I love it. We're keeping everybody awake. All right, so the people who turned left, they can regulate.
+
+00:23:50:02 - 00:24:19:38
+不明
+You can create a process within your team that will regularly review and manage, merge those duplicate records manually before launching any retargeting campaigns. Now, depending on the size of your database, depending on the frequency of your campaigns, depending on how much team bandwidth you have available to run these projects, you know, this solution could solve it for you and get that at the beginning, but it will be very manual, especially if you have large data sets.
+
+00:24:19:38 - 00:24:41:46
+不明
+So you can see my little guy down there, he took a bit of a hit because that would hurt. So if you want to turn right and implement an auto deduplication smart campaign, you would be setting up automated triggers that detect when a user has two or more records with recent cart activity, and then merge them using that most recent engagement as the master record.
+
+00:24:41:50 - 00:25:13:45
+不明
+Now, this solution is fantastic because it's automatic, but you need that level of expertise to set this up, because if you are basing a workflow like this on the most recent engagement and using that as the master record, does it have all of the other data points that you call important to your business retained? When it does the merge, you will want to make sure when you set up anything automated like this within Marketo that you are planning for those eventualities and make sure that they are in those workflows.
+
+00:25:13:45 - 00:25:38:16
+不明
+Because then when you set something up like this, then it's handling them all as they go all the time. You can trust it and set it and forget it. All right. I think we got in there. Oh, it's looking smaller to me. I think we're getting through that nasty data. All right. So everybody has run into this one at any point in time where too many cooks in the kitchen.
+
+00:25:38:21 - 00:26:04:35
+不明
+What does that mean? Well, it means that in our instance, a B2B software company is struggling with duplicate records across multiple different layers in the database. Gross, their marketing and sales team, work with the leads and contacts in Marketo, engage and Sales Force. But there is no structured process. Who wins? Why are they here? It all depends on who's asking, right?
+
+00:26:04:48 - 00:26:29:11
+不明
+No. So the leads, to existing contacts. So we have multiple different ways that the lead are updating. When a new lead is generated via a form fill or list import, they don't always get matched correctly or, an existing contact already exists and a duplicate might be created. That causes confusion and outreach. Who am I supposed to be talking to?
+
+00:26:29:25 - 00:26:59:34
+不明
+Is it supposed to be the lead? Is it the contact? What status are they in? So the second been being a lead to lead. So some leads can be created multiple times due to a sync error or some of the other issues that we talked about before. And side of a regional marketing campaign leading to multiple or disconnected records at the same person, at the same time causing orphan data and then again, confusion with who am I actually supposed to market to?
+
+00:26:59:39 - 00:27:30:02
+不明
+And then within contacts, the contacts key accounts have multiple contacts, and they are listed separately, changed roles, somehow updated new information. Which one is the most up to date? When you have multiple records, sometimes it's impossible to tell based off of what logic you have set up inside of your system. So without a true hierarchy, without a true understanding between all of the systems and involved, how are we able to track the accurate history?
+
+00:27:30:07 - 00:28:05:09
+不明
+Who am I supposed to be talking to? So turning left, we can use a third party tool. I know that's super ambiguous, but anybody any takers? Okay. Turn right. Leverage a CRM as the source of truth. Okay. Okay. Thank you. So, we turn left. What does that mean? So using a third party tool such as, other SAS or systems R and I pass to or something like that can help you create that hierarchy.
+
+00:28:05:09 - 00:28:32:05
+不明
+It is going to be outside of Marketo. It's going to be outside of your CRM. Some level of appetite needs to be able to take on that integration. So you can do it in flight. So what does that mean? It means that on the way from your CRM or whatever data input is happening, that data is being collected and then having that mapping predetermined, it is happening automatically.
+
+00:28:32:05 - 00:28:51:32
+不明
+You can happen at scale, but it does have a huge data upload, overview that you need to understand as a company why it's happening in sway. Educate the people, why it's happening this way. And you need to have a lot of documentation to ensure that you understand how this tool is happening. It's a bit more hands off.
+
+00:28:51:37 - 00:29:17:41
+不明
+It's a little bit black box. If you do not have access to it. So it depends how much access you need to your data, understanding processes and things like that. Or you can handle the data at rest, meaning it's already inside of Marketo. We already talked about how that can be a benefit and a disadvantage, because when it's inside of Marketo, there are other sources of truth that can overwrite that data.
+
+00:29:17:46 - 00:29:36:14
+不明
+However, it can ensure that you clean up your information at any one point in time, and it allows you to create a master record so that you know for a fact. Who am I supposed to be talking to? At least in the Marketo instance, if somebody reaches out and says who is the source of truth, you can say this record.
+
+00:29:36:19 - 00:30:04:03
+不明
+So you can see here I have a couple of options for, in flights or Ricardo or MuleSoft is very good at this or at rest. I have undo it is a tool that I have created after ten years of working in the automation space that is designed to allow you to have hands on approach, understand your data at every point in the future, and you are very detailed level of control on how you want to merge those records.
+
+00:30:04:07 - 00:30:35:11
+不明
+If anybody's interested, please let me know. I'd be happy to talk about it. If we turn right, we leverage the CRM as a source of truth. So if you are able to, you are able to create a level of communication and understanding with the people who run the CRM, your sales team. In an ideal world, that is best practice anyway, where you have that open communication between marketing and sales and understand why that information is coming over.
+
+00:30:35:16 - 00:31:00:48
+不明
+Why the information that you're putting in affects marketing. And again, how marketing can send that right lead back to sales. So really getting on that same level of understanding education throughout the team, breaking down those silos. But it is really, really important that you're able to understand how data is coming in and who is in control of that and how that affects you down the way.
+
+00:31:00:48 - 00:31:33:20
+不明
+So leveraging CRM as a source of truth relies on education, understanding as a team, as a whole company, and understanding that the CRM will overwrite Marketo. Marketo considers CRM the source of truth. All righty. All right. Next up, I'm the multi-channel attribution conflict. So an enterprise company tracks customer interactions across multiple channels emails, paid ads, webinar sales calls.
+
+00:31:33:20 - 00:31:58:48
+不明
+You can imagine they're all done in the same system. I'm kidding. They're all very different. Every system tracks every single interaction differently. They are all faked behind the scenes, but the marketing team noticed that incorrect attribution was appearing in their reporting, so it made it very difficult to understand truly which channels were driving the actual revenue. So let's take this meat ball out.
+
+00:31:58:53 - 00:32:10:22
+不明
+We can turn left and standardize data ingestion rules, or we can turn right and duplicate across systems using an AI pass tool. So make your choice.
+
+00:32:10:27 - 00:32:34:32
+不明
+Back to the left. So this time I was expecting to see a bunch of that side. Yeah. All right so let's talk about turning left so the company can define a global unique identifier, an ID field, and then configure all inbound marketing sources to check for existing records before creating new ones. Now this is standard best practice before you integrate any systems together, you want to make sure they are matching on IDs.
+
+00:32:34:32 - 00:32:53:01
+不明
+So every system transferring who knows what record they are touching. This is not always the case. So if you are in your new role and you're getting your lay of the land, make sure you check this. Make sure all of your systems are set up to standardize that data ingestion. Or you can find dupes coming in from all which ways.
+
+00:32:53:14 - 00:33:20:24
+不明
+So let's take a look at turning right. So an AI pass tool can act as a data orchestration layer, ensuring that records from different platforms are merged before sinking into Marketo. And that creates the single source of truth. So to do this solution, you would likely have to have a more adopted technology stack because this is adding a layer outside of Marketo that is doing the processing across all of your systems that are integrated.
+
+00:33:20:24 - 00:33:39:22
+不明
+They are looking at all of those records globally. They're using one global ID to match them all across systems. And when they flow through back and forth, they know exactly which one that is. So adding that data orchestration layer is amazing. It's awesome. But, you know, depends on what you have in front of you. If it's possible to do so.
+
+00:33:39:22 - 00:34:01:53
+不明
+All right. I think we got them. And I think this might be the last one. You're going to take them out and we're going to do it. All right. So last choice I know it's a lot of pressure, but we can handle it. The last problem everybody has it. It's the human error. Duplicate crisis. Can't run away from it because it's right next to you.
+
+00:34:01:58 - 00:34:25:00
+不明
+And it's going to be with you everywhere you go. So how do we handle it? Company relies on manual data entry process for adding leads into the CRM. Because there's no structured workflow, there's no data validation. They're unknowingly creating duplicate records and you don't know if it's already in the system or under different email variations or what have you.
+
+00:34:25:05 - 00:34:56:21
+不明
+There are so many different fill your blank. You know what I'm talking about here. So since the, Marketo treats the Sierra source of truth, and these duplicates sink into Marketo without being flagged as duplicates, over time, you have inflated lead records. Yeah, which leads to inconsistent customer journey tracking and consistent scoring, skewed marketing attribution. The list goes on.
+
+00:34:56:25 - 00:35:11:52
+不明
+Do we turn left? The manual process overhaul? Every lift or do we turn right and we move away from the manual process?
+
+00:35:11:57 - 00:35:47:44
+不明
+A lot of writes on that one. Don't blame you. But sometimes that is not an option. Sometimes all you have is the manual. Sometimes you are an army of one and it kind of sucks and it's lonely, but we can get it through it together. So how do we get through it together? By communicating with the rest of the team, by communicating with the other siloed workflows, by bringing one team from our many teams into one team.
+
+00:35:47:48 - 00:36:22:33
+不明
+So you need to be incredibly, incredibly detailed. You create a lot of documentation. You communicate excessively with the teams so that they understand why we are doing it. Yes, Steve, you have to check for duplicates before you put Chris Kelly, a qualified digital icon, into the CRM. Yes, it is important. This is why Steve so again, manual process overhaul.
+
+00:36:22:48 - 00:37:07:28
+不明
+It's a lot of work. But it needs to happen. It needs to happen now. And you have the added benefit of having the best practice communication, opening with the marketing team, the sales team, all the stakeholders involved so that everybody knows the processes know everybody knows where that data is supposed to be located. Everybody's things come by and we have a clean system or we turn right, we move away from manual, we implement change management, educating the sales team similar, but we also allow the automation that you purchased to automate, let it do its job, check duplicates in the CRM before entering the lead, make sure that you have that source of truth acting as
+
+00:37:07:28 - 00:37:44:50
+不明
+a good source of truth, so that when people talk about the CRM, they trust it. They understand that this data is good, and we understand as a team the efforts and capability that went into it and together as a whole ecosystem. It works as intended. Prides longevity, scalability, accountability. So each one goes for time. Each one has education involved, but it allows for how much time, how much cost, how much education.
+
+00:37:44:55 - 00:38:21:30
+不明
+All right. Who? We made it. We made it through the adventure that anybody take an arrow to the knee gets pushed by a boulder eaten by the flying spaghetti data monster. How did we do it? We make it. Do we find the answers we're looking for? Yes. At a yeah. All right. As you can see down below here, I do have a QR code for a video series that I did on Dedupe management, hosted by Adobe.
+
+00:38:21:44 - 00:38:42:23
+不明
+It goes through many different iterations of if you can only do manual all the way. Increasingly, going through Marketo and then even out of Marketo into more of a system I pass. So if you want any more detail information, please check out this video series. But I think that we have all understood just how powerful Marketo is, right?
+
+00:38:42:28 - 00:39:09:26
+不明
+Each one of us here has our own Marketo story, we have our own experiences and we have our own. I wish we could do that. It's not about the tool, it's about the knowledge. It's about coming together and understanding. As a team, how can we utilize our current existing software, current existing architecture to our benefit? Right. It's not about we can't do it.
+
+00:39:09:26 - 00:39:45:15
+不明
+It's about let's do the best we can with what we have. All right. So by some miracle, we did not happen to hit on your specific use case. That is okay. If you look through all of our different options, there are some key tenants that are ringing true throughout all of them. And if you use these key tenants, they will allow you to take home and apply it to your current situation and walk out with a best practice capability to handle what you're going through.
+
+00:39:45:19 - 00:40:15:32
+不明
+So regular audits. This is incredibly important to understand if your data is cleaned, if it's not, let's start that process. If I did clean it, is it staying clean? If not, what happened? Where is it broken? Where can I track it down to the situation and stop it from happening again? Automation marketing is incredibly powerful tool. You have many other powerful tools feeding into Marketo.
+
+00:40:15:37 - 00:40:43:34
+不明
+Let that automation work for you. Let that power work for you and allow you, as a marketer or any other person interacting with marketing ops. Do what you need to do. Don't babysit the system. Don't be doing all this manual work when you don't have to leverage that strategy. Leverage that communication, leverage that technology, user training. Everybody hates it, but it is insanely important.
+
+00:40:43:39 - 00:41:10:25
+不明
+Every single time that we have spoken about it, turn left or turn right. Education has been involved. It is necessary not only for how do I use this tool effectively, but how do I work as a team holistically through the lead journey, effectively? How do I provide the best experience for my end user as possible? How do I provide that consistent communication user training get people involved.
+
+00:41:10:30 - 00:41:41:47
+不明
+Make sure they're all on the same page. Have those clear protocols so document everything. Always. I know it's the worst, but you must do it. If you have those clear protocols, you will cut down on the number of meetings at 8 a.m. and work on other things that need to happen. Don't allow yourself to run into the situations and have to climb your way back out of it.
+
+00:41:41:52 - 00:42:24:52
+不明
+Fight the monster before it exists. Continuous monitoring. Like I said before, you created this amazing system. Make sure that it's still amazing. Make sure that you have ways to view that data. Make sure that it is still performing. Don't make it a black box. Understand how things are working and continue to monitor your Gloria system. So by adhering to all of these principles, by going through and understanding each of these tenets and applying them to yourself, your company, however you need to, you're able to navigate your own maze of data, conquer your own spaghetti data monster.
+
+00:42:24:57 - 00:42:33:24
+不明
+Thank you very much. Please fill out, some.
+
+00:42:33:29 - 00:42:34:00
+不明
+New.
+

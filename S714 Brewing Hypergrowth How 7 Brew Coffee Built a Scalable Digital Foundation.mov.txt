@@ -1,0 +1,384 @@
+00:00:02:09 - 00:00:24:12
+不明
+Welcome, everyone. My name is Jen Spafford, and I am the managing director of the consumer business unit at bounteous. We oversee relationships with many of our clients in the hospitality and restaurant verticals, and, we are a digital consultancy that serves clients, helps them really make more out of the investments that they've made in their digital ecosystem.
+
+00:00:24:25 - 00:00:45:42
+不明
+So you all make a lot of really, important decisions about platforms and technologies. And we're a company that works with those clients to ensure that they extract the most business value out of those investments. We're about 4000 people strong globally in the US, Canada, Europe and India, and we've been at that since 2003. So we've learned a few things.
+
+00:00:45:46 - 00:01:08:29
+不明
+We are so lucky to work with some of the world's most ambitious and favorite brands. I'm going to take a quick poll before we get started. Who knew what Severn Brew was before you saw this session in the Adobe catalog? Okay, so a good number, but not I would say not half. And so I wanted to make sure that we shared a little bit about the brand in that introductory video.
+
+00:01:08:38 - 00:01:29:25
+不明
+I am so lucky to be here with seven breweries. CTO Danielle. Would you introduce yourself? Thanks, Jen. So Danielle Bischoff, CTO at Seven Brew Coffee. I've been there, just over a year. And so seven brew, just like you saw on the video, is a drive through coffee concept, and it's more than just coffee. We have, anything from our own energy drinks, hundreds of flavors.
+
+00:01:29:38 - 00:01:50:37
+不明
+We've got smoothies, shakes, you name it. You can find something at a seven brews. So for the other half of you that have not visited yet, please, make a stop and and see, we are currently at over. Actually, as of today, 353 stands, with our sights set on a couple of thousand and that growth has come really, really quickly.
+
+00:01:50:42 - 00:02:13:36
+不明
+Just last year, we started the year in 24 at 180 stands, and we ended at 330 and so almost doubled in size. We're looking to do the same again this year. And so the growth is just amazing. Again, part of what you saw in the video is it's really all about the experience. And, our mission and the mission that we have that we live, we are very true to is cultivating kindness.
+
+00:02:13:40 - 00:02:33:25
+不明
+So, the experience is what we're all about. So when you get a chance to go through a seven brew, hopefully that's what you'll feel. Awesome. So much of the brand is about speed. You have amazing speed of growth. The speed of getting people through the drive through, it's a it's a completely drive through experience at a seven brew.
+
+00:02:33:36 - 00:02:53:39
+不明
+And then, the speed of your expansion of locations ever since you started franchising in 2021. I know that the brand has been recognized as the fastest growing restaurant in the U.S. and there's a lot of pressure, I imagine, to support the growth of the brand. And we just saw on the video that so much of it is about cultivating kindness and happiness and joy and the human connection.
+
+00:02:53:43 - 00:03:19:30
+不明
+So I'm just curious, as you balance these two things, having to support with it, with a digital infrastructure, this brand that's experiencing amazing growth and keeping that human connection, how do you keep the magic in that? Yeah. So when we say our mission is cultivating kindness, we're 100% serious about that. And it's about the experience and what that doesn't just mean that when you go through that, you're treated with respect and actually as much more, you do get treated with respect.
+
+00:03:19:30 - 00:03:41:53
+不明
+But it's about more than that. And so, the speed you mentioned is an important part of that. We value your time. And so we want to get you through quickly. Quality is another important part. We want you to feel like you're getting great quality product. The customization, there's an unlimited number of ways you can customize that drink, and we want to make that perfectly every time for you.
+
+00:03:41:58 - 00:04:01:22
+不明
+And so all of that plays into this idea of cultivating kindness in the experience. I think, the whole balance, this growth with also providing uniqueness is important. And so when we look at our baristas, so those are the employees that work in the stands as freestanding units. We want that to be the best job on the planet.
+
+00:04:01:37 - 00:04:17:53
+不明
+And we want their uniqueness to show. And so what I love about it, when I started last year, I saw even as far as the training manual that we have for those resources, it talks about, we want you to shine through. We want you to engage with the customers how you would naturally engage with them. We're not going to script your interaction.
+
+00:04:17:58 - 00:04:38:22
+不明
+We want it to become very natural for you. And so it creates this unique experience. But then, as you said, Jen, at the same time, we want to balance that with consistency as we grow. And so the way we do that is we, we are in large part of franchise model. We have 23 of those stands. Those 353 are corporate owned.
+
+00:04:38:22 - 00:05:00:36
+不明
+And then it's the franchise model we're going through. And so what we've done is we've put a lot of not just technology, but really process and people in place to support that. And then the technology comes in and is just there to support the human interaction. And that's the bottom line. That's awesome, because keeping your culture is so important to making that experience something that people want to keep coming back to.
+
+00:05:00:41 - 00:05:26:15
+不明
+So let's talk about the digital a little bit. We're having this conversation because you are in the middle of a pretty significant digital transformation focused on maturing your martech. We do this a lot with clients, and usually these processes start with just a ton of planning and information gathering and some really frank discussions about where your sort of ecosystem serves your needs, the needs of your brand, and where there's some significant gaps.
+
+00:05:26:29 - 00:05:54:38
+不明
+So can you talk a little bit about the process that you had at seven, just getting an initiative this big and important going? Yeah. So when I joined the organization a year ago, there was minimal tech in place, and a minimal process. And by the way, only two people on the IT team. So when I joined, it was a pretty big feat to, to, you know, be in a position to start to put just enough process in to hire up a team and to really start to be able to scale the organization.
+
+00:05:54:43 - 00:06:14:06
+不明
+And I wasn't alone. It wasn't just the tech group that was in that position. It was the entire organization from marketing to operations. Everybody was in the in the same position. And so what we ended up doing was, we determined within it, we came up with a mission statement that aligned to that company mission statement, which was around cultivating kindness.
+
+00:06:14:11 - 00:06:42:22
+不明
+And our position from it is that we are driven by enabling capable business capability. So it's not it variety. It's not tech for tech's sake. It's truly, getting behind enabling the business, but in a way that is for things. It's scalable, it's supportable, it's resilient and it's secure. And so that was really the key tenants that we used from an IT standpoint when we started this journey around putting in this technical infrastructure.
+
+00:06:42:27 - 00:07:03:50
+不明
+And so you ask what started this or what kicked it off. So I have a couple a couple of stories about what actually happened. Shortly after I joined the company. The first one happened when I had the person that was in charge of marketing came to me. Because I had this new technology leader title, and he said, hey, we've got an outside company that is managing our website, and I can't get them to respond.
+
+00:07:03:50 - 00:07:21:09
+不明
+And we're needing to make changes. We have a promotion coming, and we just are not getting the responsiveness we need and the changes we need made to our site. And I don't know what to do. I'm looking at changing firms. Can you help me do this? And at that moment, I knew we have got to have a better plan where we have control over our site.
+
+00:07:21:18 - 00:07:52:04
+不明
+Yeah. And so that was the first interaction that I had that told me we need to bring more kind of, you know, in-house to where we control our own destiny, especially if we want to move as fast as we're moving. And then the second thing that happened was really close to that, was I had another person came up to me, holding a thumb drive and telling somebody in marketing and, asking me, telling me they were having trouble getting their assets, the video that they had created that they wanted to put online, getting it actually physically sent, and placed online.
+
+00:07:52:17 - 00:08:10:21
+不明
+And again, you know, as I started to dig in further, I found out that, a very talented marketing department that was creating tons of assets, but they were keeping them on their laptops. They did have a shared drive that was used little at that point. And there was just a lot of, well, we had brand standards.
+
+00:08:10:21 - 00:08:31:36
+不明
+Absolutely. There was just a lot of duplicated effort working on some of the same assets. And, again, it was like, we need something that can help us organize this in a way that we can continue to grow and be more efficient as we scale. So those were the couple of things that happened. And right out of the gate, you never told me those stories because she wanted my genuine reaction.
+
+00:08:31:39 - 00:08:50:20
+不明
+You were starting from scratch, my friend. Starting, starting from scratch, starting from scratch. So we we go on this journey with clients a fair amount. It's it's it's these days a little bit rare that we get the privilege to start, at scratch with somebody, in it with an entrepreneur perennial brand like this one that's really growing at the rate that it is.
+
+00:08:50:34 - 00:09:12:18
+不明
+But we have these sort of like two diverging approaches. The clients take when they have this many needs. Often they will, find a provider they love, maybe someone like Adobe, and they will kind of say, this is how I'm going to go all in on an Adobe stack. And I am going to just purchase every product. I'm going to take two years and I'm going to roll out a beautiful stack, and I'm going to have this sort of, massive improvement in my business.
+
+00:09:12:23 - 00:09:41:04
+不明
+And then we have clients that take what we all know and love the crawl, walk, run approach, where we look at the specific sort of most prioritize needs, create some sort of multi-phased roadmap and make really precise decisions about each part of the stack. The whole stack might take longer to get composed at that point, but we often see clients driving, value a little bit earlier and then, building on that incremental value to kind of justify the investment and, and the rest of the work that needs to be done.
+
+00:09:41:04 - 00:09:59:29
+不明
+So y'all are taking a phased approach where part of that can you talk a little bit about, like as you were sitting there hearing these stories and thinking, I need everything. Like, how did you decide to take a phased approach and what did you decide to do first? Yeah, it was a pretty easy decision. So just like I described, my team started from two, you know, and we we grew significantly.
+
+00:09:59:29 - 00:10:19:10
+不明
+So did the rest of the company. And we're in a hypergrowth mode when it comes to the number of stands we're deploying. But the company itself was in an extremely hypergrowth mode also. And it's about change management. We cannot bite off everything at once. It was just it was not going to happen. We didn't have, you know, it's all the time we can, you know, we can build the plane, but we don't have anybody to fly it.
+
+00:10:19:15 - 00:10:39:51
+不明
+At that point. And so what we had to do was look at each of the business capabilities that we wanted to put in place and really a future state. I mean, look, a couple of years out and say as an entire organization, what do we need? And then, put together a plan and a roadmap that, clearly set out what we needed to do foundationally and build on top of that.
+
+00:10:39:55 - 00:11:06:34
+不明
+And so that's what really drove, it really wasn't a choice. We drove our choice to decide to go in with a phased approach. So we we started together on a, and we started with, with the web experience and, and, a dam essentially. Can we get into some of the details, in terms of understanding the outcomes that you felt like you really needed to drive with web, that kind of made this the priority?
+
+00:11:06:39 - 00:11:31:28
+不明
+Yeah. So other than the couple of stories that I told and a and a big need, just some more structure and systems to do that. The seven brew customer probably doesn't surprise you, but we overindex in, the social channels by over hundred and 50%. And so they're highly active online. They were, very much hitting our website, in many cases looking for an app, which we don't have yet.
+
+00:11:31:33 - 00:11:53:10
+不明
+But, you know, we saw a lot of activity in that space, combined with the fact that our brand is everything at Seven Brew and that marketing department, you know, they're very, very active in, in social and, and on the web. And we just needed a way to be able to capture those assets and be able to store them in a way and create them in a way.
+
+00:11:53:15 - 00:12:13:27
+不明
+That was efficient, effective with the group that we had. So we started with, actually, January is when we, deployed the dam or assets. And we did that in a way that we took we ended up finding thousands and thousands of images and videos and probably a lot of content that we may not have remembered we created.
+
+00:12:13:28 - 00:12:33:52
+不明
+And now we're excited about having and we put that in, in the, in the dam and Adobe assets. And, you know, to our surprise, not only did it help us structure everything, some of the features were just, wildly excited about getting, we used the auto tagging features were something that, again, we didn't have enough people to do the job already.
+
+00:12:33:52 - 00:12:51:46
+不明
+We're very lean. And so some of those features with, you know, the leverage AI to do that were great. And so it was it allowed us to just consolidate all of that and be able to take advantage of some of those features. You also mentioned the, the website. That's where we implemented about the same time frame at the beginning of this year.
+
+00:12:51:46 - 00:13:14:54
+不明
+We put in, Adobe sites and we replatform to, seven root.com and about 17 other websites that we had. We brought them all together under one infrastructure and completely replatform that, and at that point we got control. So my team learned how to make the changes, my business partners learned how to make changes. And, we were turned races.
+
+00:13:15:03 - 00:13:34:37
+不明
+Exactly, exactly. Awesome. Well, let's talk about just a little bit, because with the with the core website, it was a platform. It was not a redesign. So not much to see here if you are a customer. But you now had the control and we were able to fix some of the sort of performance issues that the website had had in the past.
+
+00:13:34:37 - 00:13:53:00
+不明
+So I'll cover these a little bit, left to right, and then we can go into any that you want to add more context to. But first of all, the immediately after launching the new site, you got a score of 90 for mobile responsiveness, meaning that the site was resolving well and fully for any of those mobile devices that our customers are using.
+
+00:13:53:00 - 00:14:17:22
+不明
+And as we just heard, they're primarily experiencing the brand on a mobile device. Right. So that's a great for usability and, and customer engagement. We then saw A3X increase in site searchability. So the ability for Google on the other engines to find this site, or any of the many sites that were replatform and be able to deliver it up in search results for customers looking for those, those sites.
+
+00:14:17:22 - 00:14:36:14
+不明
+And that's so important because the rate of your expansion means that locations are changing every day. Information on that site is changing every day, and it needs to be highly, highly probable. And then finally, we saw a 40% improvement in efficiency using AMM assets, to be able to store and programmatically pull in those assets as needed into the, into the site experience.
+
+00:14:36:25 - 00:14:54:12
+不明
+So it sounds like overall your team must be very satisfied with with the performance as well as the efficiency that they're getting out of this. And as a bonus, then our site also met all of the accessibility requirements as well. So I mean, all the way around and you didn't mention it, but our mobile score was 30 before we.
+
+00:14:54:12 - 00:15:12:36
+不明
+Oh yeah. Platformed. And so I mean just overnight just significant improvement by the Re platform without even doing a redesign yet. So we're very, very pleased with that. And you know, as a technologist, what I'll mention is I love the idea of reuse and being able to take, you know, one platform and use it for multiple purposes.
+
+00:15:12:41 - 00:15:33:00
+不明
+And so with this implementation, especially with the Adobe sites, and of course, we keep the assets within and leverage them on our site. But we're able to, launch a couple of additional projects based on without incremental investment and an additional tool. And so with Adobe sites, we were able to we didn't have, believe it or not, we didn't have an internet.
+
+00:15:33:10 - 00:16:00:42
+不明
+So we had 100 different, places where we had bookmarked, sources, employee handbooks, etc.. And so we are building an internet on top of the site, which is, which is beautiful with a lot of reuse of components that we used on the website. The other thing that we're building and I know there's tools out there that, that do this, that are very specialized, but we were able to build a franchisee portal that is amazing, using sites as well.
+
+00:16:00:46 - 00:16:20:42
+不明
+And so again, I love the idea of using one thing for multiple purposes, but that's something that we're launching in April so that all of our franchisees can come to one place, and gather all of that information. And then, of course, since we are a franchisee model, we do share a lot of assets with our franchisees for their marketing as well.
+
+00:16:20:56 - 00:16:41:39
+不明
+And then we loop in, assets to be able to do that and start sharing with our franchisees. So it just it really has played out really beautifully to be able to put the foundational tech in place and just keep building on top of that. Awesome. That's fantastic. You need to get a lot of use out of each tool when you're dealing with the situation that you that you're in.
+
+00:16:41:43 - 00:17:02:09
+不明
+And the second, platform that we have worked on together is Customer Journey Analytics. I this is my, my favorite program that we've worked on together because I think it's been really meaningful for the business, which I want to talk more about, but also because, it's a fairly rare situation as a, as a partner that a customer comes to us wanting to implement.
+
+00:17:02:18 - 00:17:27:27
+不明
+I am shortly followed by CGA. Those two tools are not always purchased and implemented together, and I think we have some, customers who will, sort of push a tool like CJA to a little bit later in the, in the digital sort of, multi-phase roadmap. And I'm so happy that we did it first. Because now you're able to get, that view at that data.
+
+00:17:27:32 - 00:17:43:17
+不明
+And be able to make those incremental improvements and drive more value as we continue to expand the focus across the stack. So I know we just have we just launched, what, two weeks ago. We just have a few marketing channels, in there right now. But it's already making a difference for your team, right? Oh yeah, it's incredibly awesome.
+
+00:17:43:17 - 00:18:03:40
+不明
+So on this one, I had the, the person, the marketing exec that was in charge of digital marketing came to me and said, you know, look, I'm going to also came from TikTok. So, we have a lot of advertising going on in the social space. And, and he said, look, I'm having to go to multiple platforms to look at this investment I'm making to see if I can correlate, you know, the payback here.
+
+00:18:03:45 - 00:18:27:13
+不明
+And it's every day, multiple times a day. I'm going in to multiple platforms to look at that. And, so that is exactly what CGA is, is geared to do. And even though, even though we haven't expanded to all of the platforms yet, you know, it was a huge win for us. And the tool is incredibly, I would say, fairly intuitive to use, easy to use.
+
+00:18:27:18 - 00:18:49:50
+不明
+We were able to pull in. And that's actually a snapshot of one of the dashboards, that we bring in, real live activity, you know, clicks from our customers. We line it up against some of the advertising that's done. And you can see the correlation between the two, and you can create those dashboards really, really quickly and put side by side whatever data you're wanting to compare.
+
+00:18:49:55 - 00:19:12:21
+不明
+And then what I love about the relationship that we have is your team taught us, as you put in the, the, the data flows from those flat platforms you see up there and taught us to fish. And then my team is going to put in meta and the upcoming two weeks. So it was a really nice arrangement that we're just, you know, we needed some help from a manpower standpoint.
+
+00:19:12:21 - 00:19:33:50
+不明
+Great partnership, great architecture. And then taught us to fish. And so we'll take it from here. Awesome. And we we blacked out the dollar sign there because we didn't we're not ready to share that publicly yet. But we are looking at the, the the sales value of these journeys, which is really, I think, one of the powerful components of CJA, because we're bringing in that, that offline data.
+
+00:19:33:52 - 00:19:55:12
+不明
+Right, right. It's awesome. Let's talk a little bit more about the multi horizon roadmap that, that, that we talked about earlier. I know that our teams work together to develop multiple looks at at that roadmap. And we're not showing one of the actual ones that you, that you shopped around because there's plenty going on that we can't share yet.
+
+00:19:55:17 - 00:20:19:30
+不明
+But actually having a view of the multi phased approach was something that you used to walk around, get championship, get alignment, get people all on the same page that we could take these, these phases together as as an organization. What we have here is a simplified version. So we went with sort of the, the, the largest sort of areas of focus and then the multiple phases that we're looking at.
+
+00:20:19:30 - 00:20:42:15
+不明
+So we have this simplified version. We're in phase one. We've talked a little bit about the web experience and the assets experience. And right now we're in the laying the foundation, part of that journey. It enables, as Danielle mentioned, numerous other implementations of Am to be used throughout the organization and for that web experience to continue to grow.
+
+00:20:42:19 - 00:21:01:16
+不明
+So when we get to phase three, we will do things to fully enable that customer journey and, have an ambition to kind of use more of the content supply chain, whether or not that's Adobe content supply chain or just our content supply chain, to use AI and automation to be able to do more of that marketing and help the team, scale that website content.
+
+00:21:01:21 - 00:21:23:58
+不明
+Because eventually we do hope to have, you know, online ordering and full, full, interactive menus and things like that. Right now, we're at sort of a foundational content point. And then, of course, we talked a little bit about the data and using CJA, where again, at the beginning of that, with just a few of our paid and owned, media channels coming in, and there's even so much more we can do with those journeys.
+
+00:21:24:03 - 00:21:49:40
+不明
+But eventually, the idea would be that all of those, marketing journeys are feeding into CJ, and your marketers are empowered to do, real time optimization of their dollars in their efforts to impact the business results, which is awesome. We're not really, touching on right now, marketing and loyalty. It's we're in the strategy phase of that, and there's a lot planned, for phases two and three with regard to marketing and loyalty.
+
+00:21:49:48 - 00:22:07:57
+不明
+And then that last question, which Danielle sort of indicated earlier, is the number one question I think people bring to you is they're going to be online ordering. Where is the app? I know we were at dinner last night with one of our team members, and she said, there's a fan group on Facebook and the header image is just there is no app.
+
+00:22:08:02 - 00:22:30:40
+不明
+Because those admins are so tired of answering that question, they just made it the cover image of the group. So there's clearly demand, and there's, more coming in the future with with seven room. But we certainly want, when online ordering is available, to integrate that with the rest of the journey and be able to incorporate that with the offline data that we have right now about the stands.
+
+00:22:30:45 - 00:22:51:19
+不明
+So, a very full roadmap. When you look at the different pieces of technology that we, we need to touch, is there any contextualization that you want to add to that? Well, I would just reinforce for me, because I had the feature state drawn out, it made it a lot easier to go sell. Even though we're only taking the first couple of steps, I think that was really important.
+
+00:22:51:19 - 00:23:14:38
+不明
+And then again, at the end of the day, it's all about improving that customer experience. So we're stepping into some of these places really, really carefully because it is all about the experience. And and if you want to know about the app, go follow our socials and you'll be the first to know. Everyone wants to know. So we talked a lot about, what needs to be done, and what you've done so far.
+
+00:23:14:38 - 00:23:30:16
+不明
+But I'd like to talk because we probably have, folks in the room who are in a similar situation and ready to jump in to, let's say, a platform or a piece of technology. But as you mentioned, you have a I know your team is bigger now, but still fairly modest size team, more than two people, but fairly modest size.
+
+00:23:30:21 - 00:23:52:27
+不明
+So, to get that work done, you needed to bring in partners. And I'm just curious to understand a little bit more about your approach to identifying and then pulling in the right partners at the right time, recognizing that you really want to own a lot of this internally. In the end. Yeah. I mean, so I, I've spent my 35 year career in partnering with amazing vendor partners to get things done.
+
+00:23:52:31 - 00:24:17:51
+不明
+You know, I don't want I want to staff up only to continue to maintain things. There's an incremental, you know, implementation that's involved. A lot of times, partners are a great way to do that. And, and so exactly you ask about, you know, the selection process and how we jumped in. It really is I will you'll find I'll bring a lot of the same partners with me, you know, from company to company, from project to project.
+
+00:24:17:56 - 00:24:43:37
+不明
+And so I'm looking for partners that I have a great relationship that have delivered before, and ours is a fairly new relationship. And so what I saw is that, you have delivered for other people that I trust, know and came with great, references and just the interaction was, was phenomenal. You know, you ask about, you know, what I look for, I think in particular, we're moving so fast.
+
+00:24:43:37 - 00:25:05:04
+不明
+I need somebody that's going to move fast with us. I need somebody, especially with, our growth, it's almost immediate response. I mean, we are moving and changing things, so, so quickly. And through the selection process, you know, you're extremely responsive. And then I would also say I look to, all my partners as thought partners.
+
+00:25:05:12 - 00:25:28:24
+不明
+I want somebody that's going to challenge me. I want somebody, where I can pick up the phone and say, hey, we're looking at this capability. Help me know, you know, which direction would you head? What have other other clients done? How can you connect to me? How can I learn from those experiences? And so those are all, you know, some of the aspects that that we look for in a partner because it's a it's a long term partnership.
+
+00:25:28:24 - 00:25:45:36
+不明
+It's not just a I love short term experience. I love that we we talk a lot about not wanting to date clients. We want to marry clients. And so we want to lay a strong foundation for that. You didn't mention price. I did not mention price. I still have to be competitive. Right? Of course. I just feel like there's so much pressure put on that sometimes.
+
+00:25:45:36 - 00:25:59:42
+不明
+And you've talked a lot about, like, the intangibles that make a really strong partner for the future. Well, there's a there's a TCO involved in a partnership also. I mean, if I get, you know, just because I go lowest price with one provider and then they're going to change control me to death, that's not that's not any fun.
+
+00:25:59:42 - 00:26:19:15
+不明
+Or if I have somebody that isn't going to be responsive and I don't hit my dates and we don't deliver what's expected, that also comes at a big cost. So. Right. I think that's why I focused on the things that I, I love it. No, I love it. So it's really it's really kind of like heady work that you're doing collaborating with, technology teams, external partners.
+
+00:26:19:15 - 00:26:41:49
+不明
+You've got a new president, a new CMO this year. And so a lot of stakeholders and people contributing to the story, I'd really love to hear some of the lessons that you've learned so far in trying to make this, this major change inside this just company growing at Hockey Stick right now. Absolutely. So and I the four listed up here as I as I really reflected back you know about about this journey.
+
+00:26:41:54 - 00:27:00:37
+不明
+So I think the first one like it says is build that strong foundation. You know, we are leveraging AI is the big question of the day. And we've got, you know, many of the executives are asking, what do we do with AI? And my answer right now, especially as we're scaling, is, you know, we're leveraging the foundational components of the tools that we're implementing and what we're building.
+
+00:27:00:50 - 00:27:19:28
+不明
+And in some cases, we're taking advantage of AI that's inherently in there, like the auto tagging example, or we're using it to change images and remove things, in the images. But it's really, we can go after those things, as we do the crawl, walk, run, that's just that the foundation is absolutely key for us.
+
+00:27:19:28 - 00:27:46:54
+不明
+And so that's where our focus is. I think the second thing is it says there is focusing on business capability first. And so that map that we drew out was all about the business capabilities. It wasn't about the tech. And so when we drew out all of the capabilities of that feature state vision that we have, then we went in and said, you know, who are likely candidates or build, that we would want to to look at for each of those business capabilities.
+
+00:27:46:58 - 00:28:05:52
+不明
+And that helped guide our way to then see, you know, what what made sense. And and like I said, the the tenants that we used from it were, you know, it's got to be scalable based on our growth. So we're actually looking at capabilities, a few years out, not where we're at now. It's going to be much different from the expectation.
+
+00:28:06:07 - 00:28:30:45
+不明
+And then of course, they need to be the whole supportable, resilient and secure. Still very, very important. When we looked at those options. But again, business capability first, it's about the human experience, not about installing tech. Then the third item there, which is, really, it's just, beyond marketing, and it's looking at the entire ecosystem and, and like I said, foundational is important.
+
+00:28:30:45 - 00:28:59:21
+不明
+And as we build on that, as an example, when we're building our intranet and then our franchise portal, we're looking at it across the board where we can actually take this technology we're implementing and these capabilities, and we're looking at our entire ecosystem. So it's obviously about the customer that drives us first, but we're also making sure that we're, ensuring that the baristas job is the best on the planet, that we're not interrupting operations for them, that they're, actually supporting them and enabling them.
+
+00:28:59:25 - 00:29:18:38
+不明
+We look at making sure our franchisees are an important part of this ecosystem. And so, you know, like the franchise portal that we're developing is for them to be able to put their, you know, their hands on whatever, whatever information they need, whenever they need it. And then a corporate is also a great beneficiary. So it's just really solving for the entire ecosystem.
+
+00:29:18:43 - 00:29:47:31
+不明
+When we're looking at this technology. And then of course, the last item there is keep it simple. You know, we really we don't have a large organization to get, incredibly complex and and actually, simplicity is something we're really proud of, and everything that we do from a company standpoint. So making sure that we do our very best to keep things as simple as possible makes sense, especially when you're working with a really concise team trying to get a lot of work done.
+
+00:29:47:36 - 00:30:09:45
+不明
+You've only been at seven for a little over a year, right? And you've it seems like you've just plowed through so much of this strategy work in that time and taken on even some of the implementation. Would you change anything if you could go back to day one? Would you approach anything differently than the way that you have?
+
+00:30:09:50 - 00:30:28:15
+不明
+It's been it hasn't been a heck of a year. You know, I think when I look at the past 12 months, we've moved quickly. We put in people, process technology. You know, I would say we've learned a ton, but I don't know that I would go back and change anything as part of that journey. That has to be an amazing feeling.
+
+00:30:28:15 - 00:30:43:28
+不明
+I know that you probably had times in your career when you wanted to, and it's got to be amazing to kind of set this one up really, really well. I'm, I, I love this story and I love how fast you are moving. We don't have a lot of clients that move as fast as Evan is able to move.
+
+00:30:43:28 - 00:31:08:11
+不明
+And I know that there are reasons why you can move fast. Being an independent company, but it's really impressive what you've done in that time. So we have a little bit time. Let's. I wanted to talk a little bit about the intersection of the restaurant space and digital, because it is such a human, a human experience, as you've talked about with, your culture being so important with technology having to enable the human experience.
+
+00:31:08:24 - 00:31:28:55
+不明
+And this probably goes beyond some of the martech. But how what what are your thoughts on that sort of intersection and how, you best leverage technology, but without losing all of that? The, the core services of hospitality. Yeah. You know, I think if, now that I, I didn't have any restaurant experience before this, this role.
+
+00:31:28:55 - 00:31:47:22
+不明
+And so you know, I'm following a lot of channels and a lot of people in the restaurant space making a lot of connections there. And I haven't met anybody who is not going in big on, how to support the experience with customers. It's not about the technology. It's about, you know, how we improve the interaction with the customer.
+
+00:31:47:27 - 00:32:04:13
+不明
+And so I think we're no, we're no different than that, which is why the roadmap is important. It's why we're stepping in very carefully to make sure that everything that we do, is going to support that interaction. And, and then I think it's interesting, you know, a lot of our, and I would say competitors in the SR space.
+
+00:32:04:13 - 00:32:26:28
+不明
+So not not necessarily drink competitors, but a lot of them are coming out with announcements where they've, created custom technology solutions with their, their customers. And, you know, when I look at our team and how fast we're moving, I, you know, I'm not at a luxury to spend the next three years developing, you know, something that's custom for our customers.
+
+00:32:26:33 - 00:32:47:36
+不明
+We're in a position to, you know, a lot of, you know, in a lot of places, buy things, put them together, and then we'll build. I do have talented builders in the team, but we'll build where we think we're going to have a a competitive advantage in this space. And so staying true to our mission, our cultivating kindness, you know, around the customer experience, you know, we're going to keep laser focused on that.
+
+00:32:47:36 - 00:33:13:21
+不明
+And the technology will then be there to support that. But you're seeing you're seeing a lot of activity in the QSR space, right. As well as you've kind of immerse yourself in that restaurant industry. And I didn't ask you this question when we were prepping. Is there a brand from a digital standpoint? Not necessarily from what they sell or what their customer base is, but is there a brand from a digital standpoint that you have kind of come to admire how they've, address that intersection of, of, of restaurant and digital?
+
+00:33:13:26 - 00:33:32:33
+不明
+That's a good question. You know, we look at a lot, we look at our competitors, we look at a lot of, a lot of people in this space. I would say for us, we're going to be very, very focused on not messing up the interaction with the customer and not making it be about the tech where, you know, it's why we're being so careful with the app deployment.
+
+00:33:32:33 - 00:33:53:06
+不明
+It's why we're being so careful with any type of ordering. That is not in our lines. It's we're going to be really, really careful about what we do that could disrupt that. And so what I would say, we're not going to do is we're not going to just roll something out that we haven't, you know, well thought through, well tested and looked and learn from others in the industry.
+
+00:33:53:06 - 00:34:08:46
+不明
+And you've seen some other brands do stuff, I always laugh. Oh yeah. Okay. We won't name those brands. Thank you so much for being here, Danielle. Thank you for being here. You are an amazing partner to us, and we're so lucky to have the relationship with seven that we have. And thank you everyone for joining us. Have a great rest of your show.
+
+00:34:08:51 - 00:34:09:14
+不明
+Thank you.
+

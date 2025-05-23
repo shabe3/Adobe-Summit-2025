@@ -1,0 +1,300 @@
+00:00:00:21 - 00:00:25:24
+不明
+Welcome to the global consistency with Marketo. And we're going to look at scaling across workspaces languages and teams. This session is myself. So we format. I'm senior marketing operations for a major with MSA, Safety Manufacturing Company. Alongside me today, we've got, catcher who will introduce herself now. Thank you so much.
+
+00:00:25:29 - 00:00:57:18
+不明
+Zoe, my name is classification. I'm principal martech consultant at Chapman Bright. Where I lead a team of consultants in, managing, quite a few multinational customers, across their, global markets market delivers. Today we'll be walking you through, different aspects of how you can manage a global Marketo instance and how Marketo can actually help you in balancing the local needs and the global requirements.
+
+00:00:57:23 - 00:01:24:22
+不明
+At scale. We'll be going through a quick introduction. And then I will walk you through, the architecture choices you can make to lay the foundations for success. After which Zoe will walk you through, some, basic principles about data management, and handling privacy policies, policies in the best possible way. And then together, we'll walk you through scalable campaign management.
+
+00:01:24:26 - 00:01:54:44
+不明
+So the whole essence of why you would want to set your Marketo instance up, in a consistent and scalable way is you've basically got two different views on how users will handle, Marketo and what they need from Marketo, and, from any other, marketing automation platform like that. First of all, as a global Marketo admin, you want data consistency.
+
+00:01:54:44 - 00:02:24:29
+不明
+You want to be able to, look at your entire Marketo database across different markets and, do your attribution, do your reporting in a scalable, consistent way. You also want to make sure that all of the local, marketing teams adhere to your brand guidelines. You want the look and feel to be consistent. Wherever somebody is around the world, and you want to make any deployments as easy and scalable as possible.
+
+00:02:24:34 - 00:02:48:59
+不明
+If you look at a local marketeers, there's completely different needs because, local stakeholders could be completely different business priorities can be different from market to market. There's different dynamics that you need to, be able to cater for and for that local market or what the local market looks like is going to be leading what they want to do in terms of their, marketing activities.
+
+00:02:49:04 - 00:03:20:26
+不明
+Also, there can be local legislation, that varies from market to market and also make sure that you understand that different markets kind of have different maturity levels. One mark going to have a, multi-person marketing automation team where another market has one person that double has between marketing, and customer service or sales. And lastly, every market will have different business goals.
+
+00:03:20:31 - 00:03:48:32
+不明
+So balancing those two and making sure that you meet both the needs of that global admin and, your global stakeholders and the local markets is why you would not want to, set up for success. That begins with how you set up your marketing architecture. That's really where the foundation is for, managing this in a successful way.
+
+00:03:48:37 - 00:04:12:37
+不明
+This couple of terms in there that are, going to be really relevant, and I have to admit, some of my own customers and even some of my colleagues get these terms wrong, every now and again. So, for instance, is the Marketo that you log into. Everything that's in there is an instance, and most customers will have one production instance.
+
+00:04:12:50 - 00:04:43:30
+不明
+And likely, sandbox for testing purposes. But no other instances. Sometimes there's more than one production instance, but usually it will only be one. But in that instance you have two different concepts. One is workspaces, and a workspace is actually where people collaborate. So you can look at it as two different departments within the same office building.
+
+00:04:43:35 - 00:05:08:13
+不明
+Within that department, you, work closely together, but you're not involved with what somebody else is doing. And you can most likely not even see what other teams are doing. That's the same with how workspaces work. So a workspace is where a specific team to a local market works together, and it consists of your campaigns, your assets.
+
+00:05:08:18 - 00:05:33:41
+不明
+Also your, reports. And there is a possibility to share things between one workspace and another where the, workspace, where it's set up, can control whatever is being shared. The other workspace is can only see what's there and not edit it. So that's the use case that will come back later in the Center of Excellence can come in really handy.
+
+00:05:33:46 - 00:06:12:38
+不明
+And a workspace can access one or more partitions. And partitions are sections of the database. So that's where your lead your person records live. And each person in the database can exist in one partition only. And each partition can be visible to one workspace but also to multiple workspace. So there's different combinations that you can make. There and how you set up your workspaces and partitions and how they work together is actually quite important for how you can, manage this whole scalable solution.
+
+00:06:12:43 - 00:06:39:52
+不明
+And how you manage this will also help you in, making sure that you can prevent any errors where a local marketeer accidentally emails the entire global database. Now, the first use case is the most simple one. I've got three different, in this case, country markets. Each of them have a workspace, and each workspace has access to that country's partition.
+
+00:06:39:57 - 00:07:21:27
+不明
+Simple, neat, clean, but doesn't always cover all the, different scenarios. A second scenario can be if in one market, in this case Argentina, you have actually two different brands, that are active side by side. They both need access to the same partition because the market, still consists of all of your leads and contacts in Argentina, but they have different workspaces so that they don't have access and visibility to the campaigns that the other brand are doing keeps life a lot simpler and avoid confusion between the two teams.
+
+00:07:21:32 - 00:07:44:33
+不明
+In this case, for the US and Brazil, nothing changes. They still have access to their own partition and work together with their own country team. Taking it one level further. I've removed Argentina from this, picture, but I've put a regional theme in there, so I've still got a US team. I've got a Brazil team. They each have access to their own database.
+
+00:07:44:34 - 00:08:13:46
+不明
+So still, for those two teams, nothing changes. But I now also have a regional team that responsible for the entire Americas market. So they want to do regional campaigns so they have access both to the US partition and to the Brazil partition. But they also have their own regional partition where people would be, hosted that are neither a part of the US nor Brazil.
+
+00:08:13:51 - 00:08:37:41
+不明
+A regional workspace can be where you set up, your central standards, like your templates, like, like example programs. And you shared them with the workspaces in the US, in Brazil, so that they can see them, they can refer to them, they can copy them, but they cannot edit them.
+
+00:08:37:46 - 00:09:09:05
+不明
+Last scenario, and I promise I'll stop. Making it more complex is where you actually, use that regional partition to host, shared people. Because in a multinational organization and some of your customers might be as well. It can be that the customer contacts is actually active both in the US and in Brazil, and maybe in Argentina or one of the other regional countries.
+
+00:09:09:10 - 00:09:35:37
+不明
+And as mentioned before, that person can live in only one partition at a time. So if you have a contacts that should be accessible to both the US team and the Brazil team and the regional team, you can put them in that regional partition and give the US and the Brazil team, with their workspace, access to their own partition, as well as that shared partition for shared contacts.
+
+00:09:35:41 - 00:10:00:57
+不明
+So as you can see, there's a whole range of different variations, of how you can set up workspaces and partitions to work for you and support your use cases. Best. Now, having this in place, your next step is to work on data governance. Data privacy policy implementation. So we can you take us through the. Yeah, sure.
+
+00:10:00:57 - 00:10:30:52
+不明
+Thanks, Katja. So I'm going to, follow now with, some information about global data management and, privacy policies, best practice. So I'll be looking at global and local. So first of all, data management and privacy best practices. These are critical for your maintaining your customers trust, ensuring that you have regulatory compliance and you're optimizing your, marketing efficiencies.
+
+00:10:30:57 - 00:10:57:38
+不明
+The first thing I would say is I'm not a legal expert. And, many marketing operations or admins aren't. So please make friends with your company's legal team. It is estimated that by the end of 2025, that 70% of the world will be under some kind of, privacy policy. Now, there are some industries and countries, existing and coming up in the future that are more, more regulated than others.
+
+00:10:57:43 - 00:11:27:02
+不明
+Specifically, healthcare and finance. They have there's a lot more rules around, personal information, what can be kept, how long it can be kept. And of course, in Europe we have GDPR, which we've had since 2018. And that is probably one of the stricter policies around, individuals data. So what we recommend is that privacy by design, it's an essential approach that and it should be at the forefront of your mind.
+
+00:11:27:07 - 00:11:55:43
+不明
+It shouldn't be an afterthought. So really setting up, the privacy structure, the infrastructure globally and locally is, is so that you can from the beginning, you can protect individual privacy and also follow data protection compliance. And this is done through intentional design choices. Right at the beginning as you set up your Marketo instance and your operations. Next slide please.
+
+00:11:55:47 - 00:12:25:17
+不明
+So we'll look at going to look at the importance of data governance and consent management. Now data governance is is about ensuring the data quality, the accessibility of that data and the security through the various policies. It'll include procedures and frameworks, which can be global and local. And it's it's crucial for maintaining that data integrity and compliance with legal and regulatory requirements.
+
+00:12:25:22 - 00:12:56:02
+不明
+Data collection. This is how you actually gather your customers information. So this could be through forms, landing pages or other touchpoints. And this doesn't matter whether it's first party or third party. Your data storage this is about safely storing the data within Marketo database, under the platforms. And it's ensuring that is secure and accessible, but it should only be accessible for those needing to access that information, and it should only be accessible for as long as required.
+
+00:12:56:04 - 00:13:23:22
+不明
+So do not keep hold of data that is outdated or you're not going to use it unnecessarily. So just keep the data that is, that is required by your company in your company's policies, and be aware that this may vary from country to country. Consent management. This involves, how you capture and obtain consent, from an individual and managing that use.
+
+00:13:23:25 - 00:13:48:21
+不明
+Use this consent for data collection and processing. It's essential to build trust and comply with privacy laws like GDPR and the Canada laws, which require explicit consent. Or it may be that consent has a timeframe that, you're allowed to keep that consent before you have to, purge it or re, gather that explicit consent. So there are differences.
+
+00:13:48:21 - 00:14:35:37
+不明
+There's explicit consent and there's implied consent. And again, that varies on industries, countries and the, the local laws potentially that you are operating within. So the benefits of the data government, governance, sorry. And content management is to ensure data security. We're looking to reduce, data breaches, ensure that you comply with, global data protection regulations, and that's for the protection of the individual, your potential, your customer, but also the controllers of this, information and this data, who do not want to, to get exposed, for any breaches or, mis practice.
+
+00:14:35:41 - 00:15:01:28
+不明
+Next slide please. Okay. So again, briefly look at the difference between local and regional variation. So again if you're a global company. So a bit like capture explain just earlier on with the different partitions and workspaces, there may be, compliance that affects different regions. So the Americas would be very different to Europe, which could be different to Australia and New Zealand.
+
+00:15:01:33 - 00:15:35:33
+不明
+So the while global standards provide a unified framework and these can include, things like your, your opt in, opt out. Then there's local requirements that require specific adaptations and management of your data and your consent. So for example, obviously in Europe we've got, GDPR, in, Canada they've got Castle, there's California, and there's, there's many other local ones, in like Brazil, Singapore, Australia, New Zealand, Japan.
+
+00:15:35:38 - 00:16:10:07
+不明
+So be aware of your local, requirements. So strategies. How do you manage all this. So it's a it's about implementing a flexible compliance framework, which acts globally. But within that you can adapt and, work towards regional roles while maintaining a global standards. So similar to the the shared workspaces in partitions. One example is you could use dynamic forms where you're using the country to display the correct legal text and the checkboxes as required.
+
+00:16:10:08 - 00:16:15:59
+不明
+So if is explicit, you display checkboxes.
+
+00:16:16:04 - 00:16:50:13
+不明
+Next slide please. So how to organize for success. So this is this is about maximizing and leveraging Marketo features that are inbuilt. So you can use things like, segmentation, use workspaces and partitions that you mentioned earlier. And this is how you can manage your compliance across your different regions. So first of all, you've got your, you global preference center and your opt in management.
+
+00:16:50:22 - 00:17:15:27
+不明
+So this is where, subscribers can also manage their communication preferences. And this is essential for complying with your data privacy regulations. So this could be that they decide that they only want to hear about events from you. They don't want to hear about a newsletter, for example. So or they want to change their language. They want to change their language preference preference from French to English.
+
+00:17:15:32 - 00:17:41:15
+不明
+The other thing is training and collaboration. And this is where documenting the process and the policies is crucial. And it's to ensure that your team is well trained on Marketo, the compliance requirements for their region, region, and fosters a collaboration between global and regional teams so that teams understand what the global requirements are, but also they can practice their local requirements.
+
+00:17:41:20 - 00:18:08:00
+不明
+Each team and globally there should be monitoring reporting. So this is to make sure that the compliance activities, are on target, that your generating reports to ensure ongoing adherence to the regulations through market and program organization. So this could be weekly batch campaigns, which is pulling in leads that have got an unknown value or whether there's a fail or whether there's a missing, element like country.
+
+00:18:08:00 - 00:18:47:44
+不明
+So therefore you don't know which privacy policy to, to put in place. So, weekly monitoring, by region should, should cover that. And then of course, there's data deletion. So this is for data data hygiene. So first of all processing removing or unnecessary data that is sitting there. But also, if a person, requests for data deletion, it so that, everything can be purged, all the data held by a company of that individual, if they request a full data deletion, you need to make your required to complete that.
+
+00:18:47:49 - 00:19:17:20
+不明
+And this isn't just Marketo, so you'll work with other stakeholders in CRM, data warehouses and other platforms that it's quite extreme that people do ask for a full data deletion. I think in the last six years I've literally had to request. So it's not often that you need to have a policy in place. And so it's not just, marketing operations in Marketo, but it goes across all your platforms and where your, data is held and managed.
+
+00:19:17:25 - 00:19:38:46
+不明
+Okay. Now catch is going to, take over and go on a bit more about some global campaigns. Yes. Thank you very much. So we very interesting stuff on, all the compliance stuff. Not the most popular, but I think extremely important to organize correctly. Now, one thing, that I alluded to a little bit, before is a center of excellence.
+
+00:19:38:47 - 00:20:05:31
+不明
+Of course, I talked about the needs of the global market to help in your market, operations, person and the local marketeers need your center of excellence is where all of those actually come together. It's a central workspace. Typically speaking, if you don't have workspaces, you can do it in a central folder. But, with workspaces, it works all that much more, consistently.
+
+00:20:05:36 - 00:20:30:27
+不明
+And that's where you have your, most commonly templated, programs. So that's where as that central global responsibility person, you can set up the programs for all the different use cases. In the way that they are all set up with the right naming conventions, with all the proper processes in place to have your attribution and other information organized properly.
+
+00:20:30:32 - 00:20:59:10
+不明
+And that is where local users go to copy from. So no campaigns actually run in the Center of Excellence. It's a library. It's a repository of campaigns that, local marketeers should use, and in some cases can use. So typically speaking, if you set up a Center of Excellence workspace, you also create an empty, partition to go along with it.
+
+00:20:59:14 - 00:21:22:45
+不明
+So from the center of Excellence, it's actually not possible to run any campaigns because your database is not visible to the center of excellence. And what you can find in there are example programs. So those would be the, campaign standards for all the different campaign types, that you run that are the most common, but the same, all the most common assets.
+
+00:21:22:46 - 00:21:54:41
+不明
+You can also have your, templates hosted in the Center of Excellence. All the countries can actually see those and use them, but not edit them. And your example programs also contain the smart campaigns that you need to manage the progression of people going through the programs and having that as a central repository, that local Marcos clone from ensures that the most important processes are executed correctly, consistently across those different workspaces.
+
+00:21:54:46 - 00:22:23:51
+不明
+Also, some of the operational programs like the data management, and data governance that so we refer to some of those can have local variations, local, import local language. So there are use cases where you would have local versions of operational programs where again, your different markets can go in to the Center of Excellence, copy it from there, localize it and activate it in their own workspace.
+
+00:22:23:56 - 00:23:02:28
+不明
+But I think the last one is even the most important one, because Marketo is also about shared learning. If one market develops a really successful campaign, let them share that success story. Create a platform that they can actually, do the storytelling on, but also take that best practice program from the local market, put it in your center of excellence, documented properly, standardize it so that it's usable across all markets, and make it available to all those other local markets that can generate success based on that same success story.
+
+00:23:02:32 - 00:23:40:44
+不明
+Now, one thing that Zoe referred to as well document everything. So any program that's in your center of excellence, make sure that it's documented that markets know what they should do to create a local version of it. And the easy way to do that is actually generate a PDF with that work instruction, upload that in your images and files and put a link to that work instruction that's in Design Studio in the description of your program, so that from the program you can always access the work instruction.
+
+00:23:40:49 - 00:24:11:04
+不明
+Now. So we what more can we do to actually help market the years locally to, deploy their campaign smoothly? Okay. So this is where the magic of Marketo comes in. So this is utilizing the power of Marketo. The features it has. And so you can maximize your campaigns. So the first thing is dynamic content. Dynamic content is great when you want to send the same information out to different people with variations.
+
+00:24:11:04 - 00:24:33:39
+不明
+So one example is you can use your segmentation. And that could be based on it could be based on language. It could be based on region, it could be product, it could be job title or authority. So the examples here, the segmentation, I, what I'm using here is global language. So you can see there's multiple global languages set up.
+
+00:24:33:39 - 00:24:54:58
+不明
+So that set up operationally, in Marketo and then the email you can see on the right this is the same email going out to. It's one from a nurture campaign. It's the same email, but it's an English, French and German. So you can see that, whilst the format and structure is the same, we've got the logo at the top.
+
+00:24:55:02 - 00:25:19:59
+不明
+We've got the content image, tagline and footer. There's each of those modules or elements change dynamically based on the the language segmentation. So you can see the header image, changes each time that obviously the text changes. And then at the bottom, in the footer, the the address can change. So this is now where I'm also introducing snippets.
+
+00:25:20:04 - 00:25:44:18
+不明
+So snippets or reusable blocks of content, that can be used to maintain consistency across multiple emails. And in this case I'm using it for the address. So the address is based on French UK or Germany. That's the office address. And then also you can see that there are the social media icons. And again these are based on language.
+
+00:25:44:18 - 00:26:14:04
+不明
+So Facebook in French, in German, in English. So those are individual links that go to the relevant social media platforms. Note that you can also have dynamic snippets. So for the social media that's a dynamic snippet. So if it's going out to the French audience, then all those social media links will be obviously to the, the French, audience.
+
+00:26:14:09 - 00:26:48:08
+不明
+Alongside this, you can also use use tokens. This saves time, ensures uniformity in your messages. And that's in your, in your emails going forward. The other great thing for global consistency is global formats. They improve the data quality. They simplify the management. They're scalable. For example, I used to be at over 600 forms because there were so many custom forms and the same form in multiple languages, and I was just getting out of control.
+
+00:26:48:08 - 00:27:08:11
+不明
+So by bringing it back into global forms, we have less than 50 forms we use globally. And then also the this enhances the, the user ability that they're getting the form in the correct language. So what we do in a form is when you fill in your country, you will get, your privacy policy based on that.
+
+00:27:08:22 - 00:27:41:49
+不明
+But also, that privacy policy will be in your language. Another area to reduce the number of forms is I've used multiple language forms. So I have an English, French and German version. I have a Polish, Italian and Spanish. They are our core six languages, so I can manage those within a couple of forms. A couple of tips here is as these global forms are obviously reusable, multiple landing pages, it is a great idea for your naming convention to include the form number in that.
+
+00:27:41:54 - 00:28:08:17
+不明
+And this is so that you can find using the use by tab, you can find where the individual form has been used, which programs it's used in, which landing pages it's associated with. So for example, you've got a gated content form now that could be used for multiple white papers across multiple business units in different countries. And so you're reusing those forms again and again.
+
+00:28:08:21 - 00:28:28:38
+不明
+So that is my one of my tips for finding out, an easy finding out which form you've used, where you've used it. And straight away, also in your naming convention, make sure that you've got a description so you know what language that form is in. What the audiences, what the intention of the form is, is a contact us.
+
+00:28:28:40 - 00:28:59:15
+不明
+Is it a, a gated content is a registration. So again, the better the naming convention you have and the more standardized. And it goes again, back to documentation and keeping a list of that and keeping the naming consistent. Question. So when you say global forms and reusing the same form on multiple landing pages, how do you make sure that, for the different landing pages, something different happens when you use the same form?
+
+00:28:59:20 - 00:29:30:39
+不明
+Okay. So what you what you're doing is you're linking, these up into a marketo smart campaign. So every form has to have it has to sit on a landing page. And like I say, that single global form can sit on multiple landing pages. So in the the smart campaign, in the program, you're listening for the form fill and you're also listening for the referrer which, which landing page URL was that form sitting on so that you're matching the form and the landing page to come together for that particular campaign.
+
+00:29:30:48 - 00:29:57:30
+不明
+So you can, so what we don't want is one big bucket which just contains that single form that's been, filled in thousands of times across hundreds of different, landing pages so that that's how we so you you again, you're using Marketo. Marketo smart campaigns to identify not just the form, but the landing page and what content that person was, had requested.
+
+00:29:57:35 - 00:30:09:09
+不明
+So is it a particular whitepaper or was it a video download? So yeah, that information is all accessible within within Marketo.
+
+00:30:09:14 - 00:30:36:50
+不明
+Okay. Thanks for the question. Next slide please. So this is a bit more on the advanced, thing. So this is very much for your for your admins. So once you've got your foundations in place, you've got your workspaces, your partitions, your center of excellence, your privacy by design, you've got your documentation, you've got templates, for, programs, for email templates.
+
+00:30:36:55 - 00:31:01:09
+不明
+Then you can really start to maximizing the next level of marketing. So powerful features. So the first one is script tokens. You can use these to automate and customize your campaigns. And they allow you to to insert dynamic, values and logic into your emails and landing pages. So making your campaigns that bit more dynamic and also personalized.
+
+00:31:01:13 - 00:31:28:23
+不明
+So you're not just got the shotgun approach, but you can be very targeted and specific, with your, your audiences. I mentioned earlier, earlier segmentation and about creating segmentation based on criteria. This could be demographics, behaviors, regions, subregions, languages, products, business units. This very much depends on your company and how your company is organized and set up.
+
+00:31:28:27 - 00:31:59:40
+不明
+But then once you have this, this this enables, targeted messaging, it improves campaign performance. And, it will also help you with, audience setting affordances and also your reporting. We can't emphasize enough standardization, especially when you're going global. You need to have that that standardization and agreement, globally and regionally. So it could be, things like naming programs.
+
+00:31:59:45 - 00:32:23:38
+不明
+You put your regions up front so you have North America, you have a mayor, you have a PAC, you have Latin America. So whatever your company abbreviations, get those in the, the, the naming convention. But then you can start using, program templates in email templates. So you adapt these, to your local region. You include languages if that's there.
+
+00:32:23:43 - 00:32:49:45
+不明
+And and these templates can then go on and be used for, let's say you dynamic content, you're multi-language forms, you snippet so you know which snippet you're using each time. And they just allow that global consistency, for branding. But also for the local compliance and the giving you the flexibility of local content. The other thing this is not do you want to forget?
+
+00:32:49:45 - 00:33:11:20
+不明
+So once you've got your structures in place, there needs to be regular audits of your instance. So this is of the instance in a whole. What is the database hygiene looking like? Do you have lots of, inactive leads that are sitting there? You need to look at campaigns, all the, some old campaign that was retired a year ago because that promotions finished.
+
+00:33:11:25 - 00:33:44:02
+不明
+So could they be, deactivated? Because the more that you've got sitting there, whether it be small lists or campaigns that's running in the background, that's drawing, search and and data processing, where you can speed up and help the efficiency of your instance by basically clearing the clutter, clutter. So regular audits, and they will help optimize, and improve the efficiency of your, in this, instance, but also make sure it's a checkpoint.
+
+00:33:44:02 - 00:34:10:26
+不明
+Like I mentioned earlier about checking on about compliance. It gives you that chance to go back and check and make sure that your, your instance, database is as healthy and clean as possible. Leads us to thank you very much for your attention. I hope you found this a useful presentation. And I hope to see you at some.
+
+00:34:10:31 - 00:34:29:02
+不明
+Yeah, thank you very much for your time. Attention. And like you said, we'll both be at summit, so please come and say hi. And if you've got any questions or queries, we're more than happy to answer those for you. Thank you and goodbye.
+
+00:34:29:07 - 00:34:30:06
+不明
+To.
+

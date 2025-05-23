@@ -1,0 +1,624 @@
+00:00:01:12 - 00:00:25:01
+不明
+All right. Good morning everyone. Welcome to our session Accelerate Journey. Time to value how MLB delivers game day messaging to fans. My name is Dan Burns. This is Ken Gorecki. Some quick intros before we go ahead and get started. I'm a senior technical consultant with Adobe Customer Solutions. Specifically, I'm in the professional services team and the customer journey management practice.
+
+00:00:25:06 - 00:00:48:27
+不明
+I've been with Adobe for three years, and in the marketing automation delivery space for 11, based in Rochester, New York. And a fun baseball related fact about Rochester, New York. Its minor league team, the Rochester Redwings, participated in the longest ever baseball game recorded, losing to the Pawtucket Red Sox in 1981. After 33 innings. That is a very long game.
+
+00:00:48:28 - 00:01:12:04
+不明
+Hopefully this session is a little quicker than that. Morning everybody. Thanks for showing up for a fun early morning session. I'm Ken Gillespie in the senior manager of email marketing and automation for Major League Baseball. I have, ten plus years experience in email marketing with a strong focus on automation and customer lifecycle journeys. I am located in Chicago, Illinois, and this is going to be my fourth season with MLB.
+
+00:01:12:09 - 00:01:26:58
+不明
+I don't have a fun fact, but I have a cool fact. I did get to live out a dream and caught a homerun ball in the bleachers of Wrigley Field, and because it was hit by the other team, you bet. I threw that sucker back as far as I could under the field. Which was a really fun bucket list item.
+
+00:01:27:03 - 00:01:49:10
+不明
+All right, so why do we all gather you here at 8 a.m. this morning in Las Vegas? Well, two takeaways that we want you to get out of this session. One is to celebrate and share the adoption story of with Major League Baseball. We want to walk through some of the touchpoints within the game day life cycle where how is able to activate and deliver those messages to fans.
+
+00:01:49:15 - 00:02:12:00
+不明
+We want to also highlight the partnership that Major League Baseball had with aces to get to the adoption to that. And second, we also want to give you your own tips and tricks to accelerate your own use cases. Now, from selecting the first use case to all the way through the development cycle, and point out some features that can accelerate both customer value as well as business value.
+
+00:02:12:05 - 00:02:29:22
+不明
+So I'll take a pause there. And Ken, why don't you give us a rundown on all things Major League Baseball? Yeah. I'm sure most of us in the room are aware of Major League Baseball, but we are made up of 30 Major League Baseball clubs located all around the United States and Canada. Season runs for ten months of every year.
+
+00:02:29:27 - 00:02:48:15
+不明
+Every team has 81 home games across 30 teams. That is over 2000 baseball games that are played every single year. That is a lot of games. A lot of a fans, a lot of engagements, all arriving at one winner for the World Series at, in the fall. And, baseball, MLB continues to see really strong fan engagement in, just attendance.
+
+00:02:48:19 - 00:03:10:24
+不明
+2024 was our highest attended year in the last seven years, with over 71 million fans attending the game. We also continue to see really good success with our recent rule changes. Obviously this got a lot of attention in the last couple of years. We worked to make the game shorter, remove a lot of the dead space within baseball games and increase, activity on the base paths have received a lot of positive feedback from that.
+
+00:03:10:39 - 00:03:25:51
+不明
+A lot more fans attending the games because of that. And then 2025 season, we're really excited to see where this goes. Just kicked off the other night with the Tokyo series, receiving a lot of positive feedback from that as well. It's been really fun to see, the fan engagement in interaction, over in Japan.
+
+00:03:25:53 - 00:03:41:45
+不明
+I will not spoil if there was a game this morning. I'm sure everyone has that caught up on their phone in the news yet, but, that, series wrapped up this morning. So excited to get the actual opening, opening day for all the other clubs starting next week. Do you want to take a minute to talk about the kind of internal team structure at MLB?
+
+00:03:41:45 - 00:04:12:42
+不明
+Because it is pretty unique. It's different than a lot of the other sports leagues and companies out there. In the year 2000, MLB in all 30 clubs, reached a digital rights agreement that centralized all of, digital marketing within MLB. That means we have a really close working relationship with all 30 clubs. To handle this, MLB has what we call digital producers, which are signed 1 to 1 relationships with each club that allows them to work in day in and day out with each club build up a working relationship with each club, and work as a great liaison between the club and the rest of MLB.
+
+00:04:12:46 - 00:04:33:56
+不明
+We, my team, the email, tech and ops team then work very closely with these digital producers. We are the journey leaders. We run everything. Journey. We build journey. We educate everything on journey. So we work really closely with these digital producers to intake club requests, build out new processes, educate people on how to build and, just everything, learn everything, journey related.
+
+00:04:34:01 - 00:04:54:56
+不明
+We also then work very closely with other internal MLB teams like data teams, our tech teams, our mobile app and, mobile app teams to, coordinate club requests, gather information and what we can and can't do, and then roll those out through educational sessions to digital producers and clubs. This also means we have a lot of data, flowing in constantly across all the clubs.
+
+00:04:55:01 - 00:05:23:17
+不明
+That opens a lot of really cool, fun doors that we are continuing to leverage when we can to build up really fun fan experiences that we're going to go through a bit today. Then why don't you, tell us a little bit about some of the, Adobe adoption that we've got into? So before diving deep into Adobe Journey Optimizer, AJ was one facet of the overarching foundation that Adobe Experience platform is playing today in the day to day operations for Major League Baseball.
+
+00:05:23:22 - 00:05:50:03
+不明
+If you were here in 2023, you may have attended a session by catcher Daniel Chuck Fan data, director, as well as crystals X Enterprise architect, where they highlighted what app was going to do for their team in terms of segmentation and democratizing segmentation, reducing the hours that it took to build and activate audiences, as well as the number of resources that it took to productionize those audiences.
+
+00:05:50:07 - 00:06:38:33
+不明
+And needless to say, that still remains a pillar of the overall adoption. With App the clubs marketers are able to go and build those robust audiences. They are able to focus on building those and allowing still allowing content enforcement, to ensure the fans privacy and preferences are maintained. And so they're building those at scale. And further, they're able to also use some of the destinations within real time CDP, both owned and paid to activate and some are even using CRM destinations like Salesforce and Dynamics 365 to enrich some of those, leads in those, sales CRM systems just to further engage with those leads as they're becoming potential season ticket holders.
+
+00:06:38:38 - 00:07:04:03
+不明
+And is also using other tools like Adobe Media Mix Modeler, to optimize marketing channel spend holistically across channels, gathering those insights and providing them to clubs. Other use cases are within customer journey analytics. So clubs are using ticketing sales dashboards that are within CX and also identifying how marketing tactics are performing, using dashboards within CGA as well.
+
+00:07:04:03 - 00:07:25:14
+不明
+So all this to say is, when you look across the spectrum of all the capabilities that MLB is using, it's it's even more impressive when you think about the fact that it's also being done for all 30 clubs in a standardized and scaled way. So, Ken, why don't I hand it to you to highlight how you're using agile for your team and ultimately for the fans needs?
+
+00:07:25:19 - 00:07:45:36
+不明
+Yeah. So, what we're going to walk through today is how we're using aggregate to fulfill our customer acquisition lifecycle. More specifically our ticket acquisition lifecycle. We've been able to utilize agile to either come up with new programs or expand upon existing programs to, really hit every single step of this fan lifecycle that is, acquiring a ticket purchase after ticket purchase.
+
+00:07:45:36 - 00:07:57:36
+不明
+What do they need to know before they go to the game? Then what do they need to know when they're at the game? What do we need to tell them after the game? And then how do we get them to come back to another game? So we have some great use cases. We're going to go through each of those here in a minute as well.
+
+00:07:57:41 - 00:08:06:22
+不明
+But we've seen some really good, evolution using agile to help expand these programs in this life cycle.
+
+00:08:06:27 - 00:08:25:01
+不明
+So we've seen, a lot of good success with agile, last season. And we knew to scale this out, we've already talked about how we work with all 30 clubs. So everything we do, we have to do 30 times. That is a lot. We knew if we were going to actually efficiently scale this out, we were going to have to come up with a templated approach that we'd be able to, carry across all the clubs.
+
+00:08:25:01 - 00:08:42:27
+不明
+So 2024, we worked to generate ten use case templates that all clubs would have access to, opt into and utilize. We also knew that we were going to need help in building these out, email tracking apps. Team being the leader and the, dictators of these, journeys. There's only seven of us on the team.
+
+00:08:42:27 - 00:08:59:35
+不明
+There's 30 clubs. That's a lot of requests flying, and we knew we were going to need help from those digital producers. So we worked to train up and educate them. By the end of last season, we had 15 people, educated on creating journeys. And, that is largely 15 people that have never created journeys before. So, some good success there.
+
+00:08:59:40 - 00:09:19:27
+不明
+By the end of the year, we had all 30 clubs running at least one journey, if not multiple. And extrapolated out we had over 180 journeys, created and launched last year, which is a lot. And thanks to scalability, we were able to do that. And with the help of digital producers, we wouldn't have been able to do that without being able to scale this out.
+
+00:09:19:31 - 00:09:33:16
+不明
+For those that don't have it has a great capability to package up a journey, and then you can share that journey out to multiple sandboxes. So each of our clubs has a sandbox within. Now that is very beneficial because we can build it in one place and then copy and paste that to all three of our clubs.
+
+00:09:33:21 - 00:10:01:59
+不明
+And we're not building from scratch in every single, club sandbox, which was hugely beneficial in scaling this out. So how do we get there? How do we get to 180 plus journeys with everything Ken just mentioned? So in the last 18 months, what Adrian look like in terms of use, drastically has changed. So late in the 2023 season, there were a handful of journeys that were run by the AKS team on behalf of Major League Baseball.
+
+00:10:02:04 - 00:10:38:04
+不明
+And over those 18 months, we've come to a point where Ken and Team manage a full intake process to facilitate and activate on behalf of the clubs and branch where those requests need to go. So the flexibility there is that when new valuable use cases are proposed by the clubs, that maybe we weren't necessarily thinking of and they weren't necessarily in the use case library that was mentioned, then those can be facilitated and passed to the AKS team to help develop and then work with the fan data product team for any sort of technical integrations that need to take place to bring that use case to life.
+
+00:10:38:09 - 00:10:59:33
+不明
+So initially getting the use case and the capabilities was critical back in 2023, but in order to scale this, we had to work with a lot of teams to ultimately provide those use case templates that were available for all 30 clubs. So some of those activities are outlined here in this slide. But we'll also dive into a few of those here just now.
+
+00:10:59:38 - 00:11:28:33
+不明
+So we'll dive a little bit deeper into 2023. And the initial capability and the capability focusing on using ticket scans at the ballpark and streaming them into Adobe Experience platform for 1 to 1 journey, orchestration and ultimately messaging. After that, check in. So if you attended 2024 summit, you may have heard on the keynote session by Chris Mackinac that the ballpark app is the means to have a direct conversation with their fan.
+
+00:11:28:33 - 00:11:59:08
+不明
+It's the flagship app to do so, and as fans are checking in or scanning into the ballgame, they're doing it on the ballpark app. And so this information is able to be streamed from MLB's ticketing platform into app and ultimately into Journeys and Journey Optimizer was that place to facilitate and orchestrate that direct conversation with the fan so that information, there's jam packed information that's on that ticket scan that we can make use of to orchestrated journey.
+
+00:11:59:13 - 00:12:21:07
+不明
+So as information about the fan. So not necessarily who purchased that ticket, but it's it's associated to them as a fan and associated with their device. We know who is checking in and scanning into that game. We also have information about the device. So we can ultimately also send push notifications afterwards. And then we also have information about the context of the game and where that fan is sitting.
+
+00:12:21:12 - 00:12:40:40
+不明
+So we have all this information that we can make use of to start a journey now. So we apply and allow Adobe Journey Optimizer to do its magic in terms of conditioning and determining whether to send or not send a message to weight all within the journey, in real, in near real time so we can do things like checking.
+
+00:12:40:40 - 00:13:04:30
+不明
+Is this fan a season ticket member? Is this their second time attending a game this season? We can also leverage some of that event context on the ticket scan itself. Do we want to send them a message if they're sitting in a particular section and then asks, also, work with a ballpark app team in 2023 to find a means to activate through a custom action and Adobe Journey optimizer to actually send that push notification to the fans.
+
+00:13:04:42 - 00:13:30:39
+不明
+So we packages all together, and we had a really neat way to go to clubs to start to activate. And I, you know, use this to address a net new opportunity, a new, stage in the customer life cycle that hadn't previously been addressable. So in 2023, we ran those handful of journeys. We were running journeys for clubs to send to those that are sitting in premium clubs.
+
+00:13:30:39 - 00:13:55:58
+不明
+There was merchandise associated to those clubs and send them messaging to promote the merchandise. We also sent messaging around seat upgrades using that seat suction value to ultimately get you to, you know, potentially upgrade your seats for that game. We are finding very quick wins after running those journeys, specifically around engagement. Now, these journeys saw a significant uplift in the push notification engagement.
+
+00:13:56:03 - 00:14:18:22
+不明
+And compared to a baseline of how MLB was originally doing campaigns for push. So that was a huge win. This culminated in these wins culminated in the World Series and the postseason with running journeys on behalf of the Texas Rangers. The Texas Rangers wanted to promote the use of their mobile, ordering app feature within the ballpark app for the postseason.
+
+00:14:18:27 - 00:14:36:58
+不明
+And we started in, early on in the series and one of the series running this and very quickly saw success and incremental lift in that mobile app feature in the mobile ordering app feature. So it was valuable for the fan. And obviously the Rangers wanted to proceed with leveraging that all the way into the World Series.
+
+00:14:37:03 - 00:15:06:06
+不明
+And they eventually became the winner of the World Series. So also in parallel, we were ramping up additional capabilities like we are seeing these quick wins, but we wanted to continue ramping up the capabilities. So internally, all of us, while we were watching the games, we were running these World Series of Business event triggers. So being able to automate, you know, after the fourth inning started being able to trigger real time messages to ourselves internally to validate this capability was working before rolling it out to two clubs.
+
+00:15:06:10 - 00:15:26:55
+不明
+So we had a lot of wins in 2023 that rolled into preparing for the 2024 season. Yeah, those winds were awesome to see in 2023. And as soon as we saw that, we're like, we have something here. We need to figure out what to do with this now, baseball is nice. We do have an off season that allows us a little bit of breathing room, but anyone at baseball will tell you that there is no offseason.
+
+00:15:26:56 - 00:15:41:58
+不明
+It just continuously goes. And it is busy all year round. But we took this offseason to, kind of take a step back, realize, okay, this worked. How do we how do we move this on? How do we expand upon this? We considered, a couple of things here. We took the user requirements from the MLB site.
+
+00:15:41:58 - 00:15:58:24
+不明
+So what data did we have available to us? What who did we want to be the leaders of this ultimately, arriving and the email tracking apps team that I'm a part of, as we are then able to facilitate, who is designing these journeys, who's going to build them, and stuff like that, as well as club requirements.
+
+00:15:58:39 - 00:16:17:40
+不明
+Clubs now know we have this tool. What are they looking for us to utilize this tool to do as well? Obviously that is 30 clubs, 30 opinions, 30 thoughts, 30 wish list. We needed to kind of consolidate all of that into some, some journey MVP's or minimal viable products of what can we roll out at a base level for every single club to start with before we start?
+
+00:16:17:45 - 00:16:43:43
+不明
+Revolving and reinventing the wheel for every single club, we consolidated this into our can use cases in 2024, which we, evolved into journeys and journeys led to documentation. And that is kind of where we got to in 2024 with those 180 plus journeys. We could not have done that without paralleling training up the digital producers like I talked about earlier, these are folks that are already working in 5 or 10 other different tools, helping out the clubs on a day to day basis.
+
+00:16:43:48 - 00:17:08:48
+不明
+We now are throwing them another tool and saying, now you need to learn journeys and you need to learn how to utilize that. It was not an easy task. These are people that have never built a journey, never activated a journey before. We had three months to do that in as well. So over the course of January to the end of March, beginning of April, which is the opening day, for Major League Baseball, we, held, four enablement training sessions for our digital producers that were required and mandatory for them to attend.
+
+00:17:08:52 - 00:17:39:51
+不明
+These consisted of hands on, step by step instructions to walking them through how to build a journey, start to finish, cultivating and, push notification that showed up on their own phone, showing them that what they built actually did work. So they got to actually experience it as well. As well as we also held weekly reoccurring office hours in which, Dan X team, MLB team, all kind of were available, as an open forum for these digital producers to come to us with questions, thoughts, concerns about what they were seeing, to really continue to educate them as fast and quickly as we can.
+
+00:17:39:55 - 00:18:00:15
+不明
+So a really strong success in doing this, in the hands on approach was very beneficial. Like I said, that led to, almost 200 journeys last year and largely thanks to their capabilities of scaling that out. So quickly, before we jump into the use cases, we did just want to call out just really quickly of how Adobe continues to be a standout name in MLB.
+
+00:18:00:19 - 00:18:24:37
+不明
+Like they mentioned, some of the clubs are now designing and developing, outside of journeys, their own audience segmentation. They're using real time CDP to go in and draw up audience segments. This was a huge win, huge win for us because up until this point, it was either audience requests that came to our team that required very heavy manual SQL, loads within our data to to pull these lists for the clubs or, working in data teams or club ticketing teams to pull this audience list.
+
+00:18:24:48 - 00:18:42:34
+不明
+This now gives us the access and the clubs access to go directly within real time. Step and design these audiences themselves, and then kind of let us know when those audiences were created, which was awesome. Ego has also hugely helped the expansion of a lot of our programs. You'll see in this case studies here in a minute.
+
+00:18:42:39 - 00:19:08:21
+不明
+Obviously before agile, we have, external tools that we're using and launching programs with, that had been existing for years. Those programs have kind of reached their limit within those tools. We've extended as far as we can within them. Agile really helped kind of, loosen those handcuffs and open up the program and allow us to expand those into some new cool functions and features, that we're going to show in these use cases, have been very beneficial for us so far.
+
+00:19:08:25 - 00:19:23:58
+不明
+We also created a use case library in close conjunction with, Dan in our team working with all 30 clubs. Two of the most common questions we get are what are other clubs doing that I'm not doing? And what aren't I doing that I should be doing? We answer that question so often that we said, Dan, we need a solution for this.
+
+00:19:23:58 - 00:19:42:45
+不明
+We need a place that every club can go and see a visual, basically living library of all of our use cases. They developed a microsite of sort that all the clubs have access to. They can go to it. They can visually see what each use case, looked like. They can opt into it. And very high level metrics of, the clubs that have been running those programs.
+
+00:19:42:45 - 00:20:02:31
+不明
+What are they saying to, help share that out with the clubs as well? Seeing really strong, feedback from that as well. The input requests. So, I mentioned that our email to an ops team, is kind of the facilitators of all requests from clubs up until, creating an official process for them. It was the wild, wild West.
+
+00:20:02:31 - 00:20:19:58
+不明
+We had 30 clubs emailing our inboxes. Everyone's trying to flag who's handling what and trying to keep everything organized. It was pretty chaotic, and we knew we had to solve that. So we created a, very formal, intake process in which the clubs would have a form that they could fill out. The form would get submitted to our project management tool.
+
+00:20:20:11 - 00:20:43:49
+不明
+We would be notified that a new submission was created that allowed one team to be the centralized shareholder of. How was that going to be submitted or how is that going to be handled? So it could be, everything from yep, I want to use one of those use cases. Just turn it on. I can pass it on to our digital producers and say, this is, pretty easy to take this use case, and you should be able to build it out from there, to the complete opposite end of club coming to us saying, I have this crazy new idea, us saying, that is a great idea.
+
+00:20:43:49 - 00:20:58:45
+不明
+Let's let's figure out how we can make that happen, in which we can then pull in Dan and our team to be like, hey, this club came to us with a really fun idea. We think there's a benefit here that not only for this club, but potential to be used across all the clubs and working with them to build up these new net new use cases.
+
+00:20:58:49 - 00:21:20:26
+不明
+The project management tool also allows organization of all these requests. We can see them in one spot. We can then see, due dates and who's working on what, and certain projects that. So that has been very beneficial for us as well. And my inbox thanked us tremendously. And then lastly, evolving real time CDP into a one stop shop for journey optimization, journey activation and performance measurement.
+
+00:21:20:31 - 00:21:35:40
+不明
+The call out here is CJA, and this is, work in progress here down at the bottom. But, up to this point, clubs are also very much on their own to do reporting. And we get hit with those requests. A lot as well as how is this journey performing for me or, what are we seeing from this program?
+
+00:21:35:45 - 00:21:59:27
+不明
+We have worked very closely again with Dan and their team to define, to define some dashboards, that are again, a one stop shop for all clubs to go and see the exact same thing. So when they're doing it on their own, that's 30 clubs doing reporting 30 different ways, looking at 30 different things. This gives us all a centralized, place to go to look at the same metrics, the same type of, reporting on program performance.
+
+00:21:59:38 - 00:22:17:33
+不明
+And it's going to be hugely beneficial for us as well. All right. Use cases today. I know that's what a lot of us here want to see. So let's just go ahead and jump right into this. We're going to start at the very beginning of our lifecycle for our ticket acquisition, with a program we call our displays fans.
+
+00:22:17:33 - 00:22:38:48
+不明
+Now, when you probably think of ticket acquisition, you probably think of, a club reaching out and asking you to buy tickets. Yes. That is the broad sense and largest user acquisition step. What we wanted to showcase today was, a more niche approach, within our acquisition. That is a league wide program called our Displays Fans Program that has allowed us to, open up and expand upon.
+
+00:22:38:52 - 00:22:54:47
+不明
+So let's use the use case scenario. Dan is a San Diego Padres fan. Dan lives in San Diego. Pretty easy for the Padres to say. Cool. I'm going to send Dan an email and say, hey, Dan, come to Petco Park this week. We're, we have a home game. Inversely, Dan's a Padres fan, and Dan lives in Atlanta.
+
+00:22:54:52 - 00:23:24:18
+不明
+Not going to be successful if we send in an email and says, hey, Dan, Padres are at Petco Park in San Diego this week, come on out. Dan Sarnoff driving across cross-country, flying across the country to go to that game. Unless he's a true diehard fan. But this program is designed exactly for that. And I do need to say that this program was preexisting to, but prior to now, it was a, automated daily triggered email that went out once a day and it was generated, via very heavy Google audience, 102 hundred rows of SQL that make any adjustments to that.
+
+00:23:24:18 - 00:23:43:26
+不明
+You don't want to mess anything up. Not very flexible in terms of making, edits. Working with, Dan and their team, we were able to, transition this program to agile and trigger it off of a custom business event. This custom business event, which Dan is going to get into the technicalities of in a minute, because that is all stuff that was, well, well over my head as well.
+
+00:23:43:26 - 00:24:01:19
+不明
+But, the custom business event was able to tap into our stats API. We have a stats API that contains a lot of very powerful and useful information. Part of that information is a way series information. We can use that information and then say this club is starting in a way series in this town. And we know those fans in that town.
+
+00:24:01:24 - 00:24:16:14
+不明
+Let's reach them out. Let's reach out to them, via this journey. That allowed for a lot more flexibility within the program. Moving to agile also allowed us to expand the program in terms of multi-channel. So this was just a daily triggered email that went out 14 days before that team was coming to your town.
+
+00:24:16:19 - 00:24:31:22
+不明
+Moving this agile, we've expanded it into two emails and a push notification. So we're now doing 14 days, and seven days is kind of a hey, heads up, your team's coming reminder your team's coming next week. And then the push notification is a great kind of Hail Mary, a day or two before the game that says don't have plans this weekend.
+
+00:24:31:22 - 00:24:57:41
+不明
+Come on out. Your, Padres are in town in Atlanta. Don't forget to to to purchase a ticket. So we've seen some really good growth success from this program and evolving it into agile. And then let's get into the technicalities. Tell us about that. Yeah. So a fun thing. And what's really unique about this journey. And specifically you'll see a handful of game event journeys later on is using the business event in agile, which I feel like is a nugget a feature that is underutilized and really powerful.
+
+00:24:57:41 - 00:25:32:07
+不明
+So, think of it like a back, back in stock business event, something that's happening about your business, right? That, order, that skew is now replenished. You may have, a subset of customers that are interested. Maybe they save that item for later when it's back in stock and they saved it to their online profile. This is a great example of a great use case for leveraging a business event, but also then making it really, truly customized and associating it with a group of customers who are interested in that business event and so what we did, we worked with the data engineering team in Aces to build and compile a waste series, record
+
+00:25:32:07 - 00:25:49:07
+不明
+or event, if you will. So we pulled out stats API 14 days out. We do this for all 30 clubs. It's pretty straightforward, even from a technical aspect. But then it streams that business benefit and we're able to associate that with all of the Padres displays. Fan. So we bring all of those displays fans into the journey.
+
+00:25:49:12 - 00:26:06:37
+不明
+But very quickly, you see, maybe in that third node within the journey, we're able to isolate those that are displays, fans that live in Atlanta. And we're able to do that by identifying the away team or the, excuse me, the home team on the event, and then just say, okay, well, these are the Padres displays fans that we want to target in this journey.
+
+00:26:06:39 - 00:26:23:22
+不明
+So, a really nice use case for the business event. All right. This next use case is the next step in our lifecycle. So a fan has purchased a ticket, but they have not gone to the game yet. What do they need to know before they attend the game? This is potentially the most important step within our customer lifecycle.
+
+00:26:23:22 - 00:26:42:54
+不明
+Is this is delivering highly important information for the fan. No. No. Before you go program is pretty standard, in the industry, but to exactly that is telling them what they need to know before they go to their event. And this includes everything from, the pitching matchups to, gate times to parking updates. Just very important information a fan needs to know.
+
+00:26:42:59 - 00:27:01:10
+不明
+It's also great to call out that this is not a sales email. Not everything within your lifecycle, needs to be promoting sales. It's not all bye bye bye. This is fan experience. This is fan engagement. Getting them to really have a better time with, the over overarching experience of going to a game, the wins here by moving this to agile.
+
+00:27:01:13 - 00:27:23:53
+不明
+Again, this was a preexisting program very similar to displace Fan. We were launching it on a daily triggered email that would go out every day before, we'd look at our ticket holders who had a ticket to a game tomorrow. We'd send them an email. That was it. It was pretty hard coded. We heard and we listened to the clubs that a lot of clubs say, that's great, but I get a lot of my ticket sales on the day of the game, and those people aren't getting this email because it already went out the day before.
+
+00:27:23:58 - 00:27:39:50
+不明
+We're like, okay, that's a big problem. We need to solve this. We work with Dan and our team to create this time, a custom unitary event that is attached to our ticket holder data. The benefit of this is we can ping that custom event every hour and scoop up new purchases that we were missing out on before.
+
+00:27:40:03 - 00:28:00:54
+不明
+So because that other one was hard coded SQL and hard coded template daily triggered message, there wasn't much flexibility to bring in those new users. This program allows us to do that. So we still send out that email 24 hours before a game. Everyone has a ticket. Awesome. They get to know it. But now every hour leading up to that game, we can scoop up new purchasers or ticket forwards, which we also get a lot of on the day of games.
+
+00:28:00:54 - 00:28:13:01
+不明
+Or hey, I bought a ticket. I'm forwarding it to you on the day of the game. Before we weren't able to accommodate for those. That person now registers as a ticket holder and is going to be scooped up by this journey and pulled and say, hey, we know you have a ticket. Today's game. Here's what you need to know before you go.
+
+00:28:13:06 - 00:28:28:22
+不明
+That was a huge win. That was oh. Some clubs set up to 60% of their audience was buying day of game or within 24 hours of the game. So we filled that huge gap of missing out on 60% of those people. Other win here. Just like this place fan, we were able to evolve this into multi-channel as well.
+
+00:28:28:35 - 00:28:47:27
+不明
+So, a push notification before, you know, you know, before you go prior was was not unheard of. But it was done very manually. So club would say, hey, our parking lots actually closed or this part of it is closed. Today we need to send everyone a push notification that required them pulling a list of all going to their ticketing or data teams to pull list of all those people saying it to the digital producers.
+
+00:28:47:27 - 00:29:05:29
+不明
+Digital producers would have to go to our tool, send it all up manually, and potentially have to do that for every game within a homestand. Very manual approach. This allows us to bake that communication into the journey, obviously try to keep that as evergreen as possible. So the goal is here not to change that messaging. Every for every game, every series.
+
+00:29:05:29 - 00:29:22:12
+不明
+But allows us to automate that process with email. So an email, then a push could go out the day. Hey, today's, test, you're going to do this game. Don't forget the parking lot is under construction or gates are opening at 310 for tonight's game. Stuff like that was all great information we could then send to them via the push.
+
+00:29:22:17 - 00:29:27:07
+不明
+Push notification through the ballpark at.
+
+00:29:27:12 - 00:29:46:24
+不明
+Okay, so so far, we've seen promoting that ticket acquisition, educating fans as they procure that ticket and are preparing to go to the game. Now it's time for the fan to arrive and ultimately check in and scan their ticket through the ballpark app into the venue. So this is where the check and use case comes into play.
+
+00:29:46:24 - 00:30:06:13
+不明
+And this is all derived, this template from those early capabilities that we were exploring that I was mentioning earlier. So this is a very streamlined use case, a very popular use case. Again, this was the capability that didn't previously exist to be able to speak to fans in this, new way and new means, in a very important part of the fan lifecycle.
+
+00:30:06:18 - 00:30:25:06
+不明
+And so this has been very popular, and we've seen it use a number of ways. We've seen it, like I mentioned earlier, for seat upgrades as they check in, if a, for a given, let's say homestand or maybe even a longer period of time. If there's inventory available, clubs will identify the sections that are eligible for this promotion.
+
+00:30:25:06 - 00:30:45:19
+不明
+Upgrade. And then that fan may see their ticket. They may have a sense of where their seats are. They get that push notification, they see the value in doing that upgrade, and then they get a better, fan experience. During that game, we've also seen that, or are seeing it used for two clubs that are going to be playing in new ballparks this season.
+
+00:30:45:19 - 00:31:09:34
+不明
+And one of those clubs we know will be leveraging this check in journey to educate their fans around that ballpark as they enter, as they enter it. We've also seen a to welcome back season ticket holders. Maybe they're returning for the first game of the season. Like I said earlier, the journey can pick up some of those attributes, around the fan and make use of them to personalize that that communication.
+
+00:31:09:34 - 00:31:35:34
+不明
+After checking it, we've also seen patterns where instead of, you know, leveraging the seat upgrade and actually promoting the the actual upgrade, but rather as a surprise and delight for, venues that are maybe north, you know, in the northern states during April, it's cold, it's wintry. Some of those higher level sections, if they see someone checking in to those higher level sections, they can send a note that says, hey, you know, surprise and delight.
+
+00:31:35:34 - 00:32:09:01
+不明
+We're going to bring you down, to a lower section, get you out of the wind before the game starts. So a really nice, example we've seen this use as well. Not just the clubs are using it. The league is using it and use it in the Or at the end of 2024 season as go ahead entry and using facial recognition through the ballpark app to get in an even more seamless way to get into the ballpark the league was using the ballpark app specifically, was wanting to use this journey to segment 5% of those that were using the go ahead entry, and then get there, basically survey them and poll them
+
+00:32:09:01 - 00:32:32:24
+不明
+about their experience of using that new capability. So a number of great ways that the clubs have been using this track and the use case. So the next two use cases do a great job of bridging that physical experience and delivering a digital one through the ballpark app in a very contextual or personalized way. And this one specifically is called the game event, inning change, use case.
+
+00:32:32:29 - 00:33:11:06
+不明
+So the way this works is very similar to what I was mentioning earlier with, the business events and leveraging the stats API information. What this does is over the course of the game, that similar process that was developed by our data engineering team is able to connect to the stats API and use a WebSocket to exchange information about the game and those live in-game events into that process that our data engineering team built, and they can parse out the events, whether it's, events about the state of the game, like inning change, start of game, game over, or things that are actually events like strike out, stolen base, home runs and pass
+
+00:33:11:06 - 00:33:31:13
+不明
+those out and bring them into platform as business events. And we can make and allow clubs to make decisions whether they want to activate on some of those events. So really cool. Another cool use case of business events. And the way this works is identifying who the right audiences to actually associate with that business event is pretty straightforward.
+
+00:33:31:13 - 00:33:51:04
+不明
+We make leverage of streaming audiences and are looking for at that ballpark. You know, those check ins and those ticket scans that took place in the last few hours. And we associate that those that are attending the game with the business event, and then we can filter condition, whatever we want to do to ultimately deliver a push message to the fan while they're at the game.
+
+00:33:51:09 - 00:34:15:05
+不明
+So a really meaningful way. And, a good highlight of using this is the Tampa Bay rays. They send a, push notification the fourth inning based on that fourth inning event, what happens in the fifth inning or end of the fifth inning is a mascot race. Happens every single game that the rays, host. And so there's a vote you can vote within the ballpark app for who's going to win that race.
+
+00:34:15:05 - 00:34:37:14
+不明
+And if you win, you're eligible for some prize every single game. And so what they found after running this push notification, delivering it in a very timely way to the fan right on their device. It's just right there when it comes time for that race to start that that push notification is a deep link to the survey. And they saw a significant uptick in the engagement of that program.
+
+00:34:37:19 - 00:34:54:19
+不明
+So they continue to use that over the course of, last season. Another example is for last call messaging. So being able to use the sixth inning where maybe their concessions are closing, in an inning and a half, maybe middle of the seventh and being able to send a promotion, or a last call, a call to action.
+
+00:34:54:19 - 00:35:06:25
+不明
+You know, all of the concessions are closing. So, again, highly timely making sure no one misses out on that last beverage or or last concession. That's concession run.
+
+00:35:06:30 - 00:35:28:32
+不明
+So finally, game over, game over layers on top of some of those, business events that I was just mentioning. This one is specific to the game inning, to the game ending, excuse me. And making sure that the home team has one. And so what that's able to do is we can bring in that same audience, those that have attended the game, and we can start to message to those fans and leverage the positive experience that they just had.
+
+00:35:28:37 - 00:35:58:21
+不明
+Specifically, in this use case template, we're looking to, send a communication, start the conversation to bring single game buyers, those that may not have plans to return to another game, start that conversation to bring them back in that sort of hear the moment. They just have this great experience. Let's try to start the conversation. And this template is flexible enough because we've seen a lot of clubs have different hypotheses around what is the right timing to send this and start that conversation, or what channels should we activate.
+
+00:35:58:26 - 00:36:25:46
+不明
+This sort of communication. And, and so this use case is flexible enough to do all that. But what we've also seen this game over messaging used for is also section based messaging. So some ballparks have activities or venues within that that are still open after the ballpark or after the game ends. So leveraging that to promote, you know, going, you know, partaking in festivities that are happening at those at those venues or those restaurants.
+
+00:36:25:51 - 00:36:44:51
+不明
+Yeah. And before I jump into this one, too, I want to state the three in game triggers Dan just talked about. Those are brand new. We that was a gap in our lifecycle, our communication lifecycle before we were doing it. But it was very manual. And a lot of that was, hey, we had ten strikeouts and then the club would have to flag down a digital producer while they were sitting at home at 8:00 at night, saying the team just struck out ten people.
+
+00:36:44:54 - 00:37:04:01
+不明
+We need to send this email out to everyone. And then the digital producer would have to log on and do that. We're working with Dan and X to automate all of that as well. So, like Dan mentioned, home run, stolen bases, all that stuff is on our roadmap for 2025 to continue to develop into. But now we have this great, capability to message fans, while they're at the game.
+
+00:37:04:06 - 00:37:19:39
+不明
+We do I do want to also call out those three examples are just available for clubs. They're not standard within the lifecycle. We're not forcing clubs to do that. They have the option to opt into all of those. And with that option, we also make sure we, notify them that like be cautious of how often you're communicating with fans.
+
+00:37:19:39 - 00:37:45:15
+不明
+It is great to have these tools, but we don't want to be over communicating, especially when it comes to push notifications. It is very easy to annoy somebody, to turn off push notifications, and it is very hard to get them to turn notifications back on. So be very cautious. With that and we often tell them to prioritize which ones are more important to them or use cases, and to kind of make sure that, the fan experience is not being bombarded because we can and more, more stepping back and say, should we?
+
+00:37:45:19 - 00:38:04:46
+不明
+So, quick shout out for that before we move into this last up here, which is our win back, approach. This is our single game buyer retention program. This one has been really, fun and exciting, because it has been, seeing it go from crawl, walk, run. It started a couple of years ago with proof of concept of, hey, can we message everyone that went to a game and just send them an email and say, thanks for coming by another ticket?
+
+00:38:04:51 - 00:38:17:58
+不明
+I don't even think we had personalization. And that very first iteration of it, it was just throw, throw the net out and see if we can get people to come back. The proof of concept did work, and we did see good, come back, win back rates from the program. And we knew we knew we had something again.
+
+00:38:17:58 - 00:38:34:10
+不明
+And we wanted to kind of continue to expand and extrapolate it out. It went from one email to three emails. We moved it into a journey. We talked about, hitting different touch points within each of those three journeys. So it wasn't just bye bye bye. It was, hey, come back, maybe check out this new part of the ballpark you didn't see before.
+
+00:38:34:15 - 00:39:01:40
+不明
+Again, so really strong success from that. In 2023, 2024. This program blew up in an awesome way using agile. We were able to incorporate multiple channels, multiple touchpoints. It went from three emails to three emails, two push notifications, and a Facebook ad at the end of it all automated, Facebook ad being at the end. Let's see if the relatively cheap free channels at the beginning email push can do some heavy lifting before we start throwing money at them via the Facebook ads, I can go and you can show me the example of this text.
+
+00:39:01:40 - 00:39:19:03
+不明
+And this is an example from what the, Toronto Blue Jays ran in 2024. I really like this example. It's really engaging. It stands out, it pops in my inbox. Each of those touchpoints talks about a different kind of content point. And, I do need to call out this was their creator from 2024. They just launched a brand new brand for 2025.
+
+00:39:19:03 - 00:39:40:28
+不明
+It's really cool. Go check it out when you get a chance. But, I really like this one. And, we've seen really good success from expanding the multiple channels. That was our very first journey, which we extrapolated this out into such a large multi-channel journey. And we did see that doing so, fans that received that got an email, plus a push notification converted at a 40% higher rate than fans that got just an email.
+
+00:39:40:33 - 00:40:00:27
+不明
+That was awesome to see. That proved that there was something here we needed to continue to, think about how we can utilize this approach across other programs. As well as, just, it was working as a reminder tactic. It was it was the combination of channels was doing exactly what we hoped it would do, and fans were engaging with all of it, which was awesome to see.
+
+00:40:00:32 - 00:40:16:39
+不明
+The other huge win in 2024 was tailoring the content to customers customized for each individual fan. This is I'm very excited about this. This is, where the future of this program is heading as well. But we took a step back and thinking about that first email, which was just thanks for coming to the game. We didn't even put a name in there.
+
+00:40:16:39 - 00:40:37:00
+不明
+We hope you came back. We learned that, like, if we really want to win these fans back, we need to tailor the content based off of each fan's experience. Every fan has a different experience. Even within the same game. You could be sitting in the bleachers, the grandstands, or whatever. You're going to have a different experience, and we have the data and flags within our data of that allow us to give these different experiences to our fans.
+
+00:40:37:04 - 00:40:54:13
+不明
+So 2024, we tested four audience segmentations, the first of which was first time attendees, if we know is your first time ever coming to that ballpark, we can talk to you differently. Now we have a flag in our database that says, hey, Dan checked in today. This is his first time ever checking in. Maybe we need to talk to that fan a little bit differently than just a diehard fan.
+
+00:40:54:18 - 00:41:09:16
+不明
+We've found that it's really hard to win these fans back. A lot of them are just they're not diehard baseball fans. That could be tourists. This gives us the capability to communicate with them differently than we would those diehard baseball fans. The other big, big win within our segments was exactly that. It was win loss.
+
+00:41:09:21 - 00:41:22:39
+不明
+So if we know a fan went to a win, awesome. We can give them a content that says you're lucky charm, come back for another game. If we know they went to a game where they've lost, we've also learned it's very hard to win back a fan that went to a loss. They didn't have the same experience that the fan went with the win.
+
+00:41:22:39 - 00:41:37:58
+不明
+That win comes with a high. You're with the crowd. You really love your experience. Loss is the inverse is all right, I had fun. It's okay. The crowd wasn't in there. Totally. Everyone just kind of mopped as they walked back to the car at the end of the game. What? This allows us to do is then say, hey, we owe you one.
+
+00:41:37:58 - 00:41:56:47
+不明
+Come back. We owe you a win. It's also a great way for us to not cast offer nets across all of our audiences. So we've recommended to clubs that say, like, hey, maybe for this lost audience, we can throw an offer at them. It might take a little bit more for that audience to come back. A lot of clubs they like, we don't love offers.
+
+00:41:56:47 - 00:42:12:34
+不明
+We don't love giving away free money. I get it totally. This is a great way to not give that offer out to 100% of everyone that attended a game, but just to the small portion of the fans that attended the last game, because we know it's going to take a little bit more to win them back. The third audience segment we tested with was, promotions.
+
+00:42:12:39 - 00:42:32:06
+不明
+Promotions are huge. Everyone loves promotions, have promotional release. Calendars are, up there with our highs engaging content out there. But we have flags within our database that tell us if the game was a promotional giveaway game, if there was a bobblehead. Bobblehead fanatics are real. It's a thing everyone loves bobbleheads. It performs, gangbusters every time we talk about them and firework nights.
+
+00:42:32:06 - 00:42:48:18
+不明
+So if, if there's a firework after the game, maybe the crowd was a family. Maybe they wanted to go to the game just because of the firework night and bring up bring the whole family out. We now have flags that we can differentiate that audience and deliver them different content. Thanks for coming to Shohei Ohtani Bobblehead Night.
+
+00:42:48:18 - 00:43:05:44
+不明
+Here are our next upcoming bobblehead nights, because that may have been the only reason they went to the game, so we could potentially utilize that to get them to come back to another one. The last segment that we tested and saw good success with was seating section. A lot of our stadiums and ballparks have very unique seating sections that the clubs love to lean into.
+
+00:43:05:49 - 00:43:26:49
+不明
+Our friends at the Cubs, utilize this for their bleachers for, the iconic Wrigley Field bleachers, if we know fan set in the bleachers, let's call that out. We were able to design an email with them that said, thanks for sitting in the Budweiser bleachers. Come back to another game at Wrigley Field. We can show an image of the bleachers really tailor that content to the exact experience the fan had, and leverage that to try to get them to come back to another game.
+
+00:43:26:54 - 00:43:45:02
+不明
+That is all. That was beta tested in 2024. With each of those segments, we saw really strong success. 2025. We've opened the floodgates and allowed all the clubs to kind of pick and choose, which ones they want to opt into, because there's a lot of beneficial there. So I'm really excited to see where this program continues to go and the results we see from this upcoming season.
+
+00:43:45:07 - 00:44:01:52
+不明
+All right. So those are our use cases. Want to finish the use case section here really quickly and just talk about how we're activating with Ajo today. We talked about that use case library of all of our capability, options that clubs can opt into seeing really good, positive feedback and success with that.
+
+00:44:01:57 - 00:44:16:53
+不明
+We do continue to hold weekly office hours for, the clubs and digital producers on all things Adobe and Agile. Been receiving a lot of feedback as clubs continue to adopt that more and more. Again, new tool for everyone. So it's a great open forum for a club to dial in and say, hey, I was building an audience the other day.
+
+00:44:16:53 - 00:44:44:33
+不明
+I saw this weird thing. Can you help me walk it through it? Great educational tool. Not just for them, but for anyone else that dialed in for help that they can, can learn from what the other clubs are doing as well. We also have a handful of clubs that is not just business as usual or early adopters of this, allowed us to, build up a lot of their programing and they use day in and day out, a couple of use cases we didn't even talk about today, but loyalty program communications, we've started to adopt those and build those into how, CRM integrations and the no.
+
+00:44:44:33 - 00:45:02:53
+不明
+Before you go program are some of the bigger wins we've seen within agile, this last season. Lastly, we, worked to define that intake process, very hard to organize 30 requests in 30 clubs. And, this process has been hugely beneficial. And organization, control of who's going to be handling what, how it's going to be handled.
+
+00:45:02:58 - 00:45:23:33
+不明
+It. We've seen a lot of positive feedback from this as well. All right, Dan, tell us a little bit about how we can accelerate and get some, tips and tricks for these use cases. Sure. Yeah. And before I really dive, deep dive deep in here, I think what's important to call out is obviously the the adoption and the scale that we saw today wasn't magical.
+
+00:45:23:33 - 00:45:56:51
+不明
+It didn't happen overnight. Over the last 18 months, you know, just recapping that it was a great, collaboration between multiple teams to get us where we are today. But it was also propelled by that initial use case. I think when we think about use case selection and how you can expedite your time to value with agile what MLB did right, it was identifying the right use case for how we're really addressed, a need and a new opportunity to engage with the fan in the a very pivotal part of their customer lifecycle that their previously couldn't do.
+
+00:45:56:56 - 00:46:16:06
+不明
+And I think when you think about use case selection as your first use case in Adobe Journey Optimizer, and maybe you are starting your path with leveraging agile, is finding something similar. What what doesn't, what can't you do in your marketing stack today that requires that 1 to 1 orchestration? Because that's what does best. And so fitting that right.
+
+00:46:16:06 - 00:46:47:46
+不明
+Use case and matching it with the opportunity that you have to engage with your customer is pivotal. And if you if you see the cross between those, right. That is what you want to identify as a first use case within agile. We seen from a AKS perspective, a lot of projects that do start with things that are maybe more considered a lift and shift, an expansion of an existing program, and those will all naturally have additional cycles of development and testing and validating counts, people and process changes.
+
+00:46:47:51 - 00:47:06:55
+不明
+If you're able to take the capability and align it with something that is new and not available in your marketing stack, that that is going to help expedite the value. And then further, you also need to have the data, right. Is it is it latent? Is it something where you can ensure that the use case lines up to the speed of which that data is available?
+
+00:47:06:55 - 00:47:33:52
+不明
+Now, is it hygiene? Is it is it good data that you can leverage to orchestrate an outbound experience to your customer? These things are pivotal, and AP allows you and gives you the flexibility and a lot of tools to ingest some of that data into platform. One of the newer features, that I'm going to speak to here in a moment, Federated audience composition is a way to expedite some of that in getting your data to a point where you can activate on it.
+
+00:47:33:57 - 00:47:57:16
+不明
+So what is federated audience composition? So first and foremost, before I get into what it truly is, is it's going to extend the value of Adobe Journey Optimizer. But what it really is, is it's a next gen audience building tool for you within experience platform. So this is for Ultimate and Prime customers and requires an add on for federated audience composition.
+
+00:47:57:21 - 00:48:25:28
+不明
+But what this begins to do is leverage the concept of zero data copy and hooking into your external data warehouses, your cloud data storage environments where you have a lot of this data that already exists. Right? You've you've structured it in a way it makes sense to you as a marketer to activate on. But rather than pushing that data, depending on the use case, rather than pushing that data into platform, you're actually able to leverage the data in that data warehouse, with zero data copy.
+
+00:48:25:33 - 00:48:47:40
+不明
+And I'll explain the workflow in a moment. But it gives marketers a friendly user interface after some technical setup to actually leverage our data and build audiences, and also enrich audiences with some of those attributes or information that exists in that warehouse and bring them into Adobe Experience platform for activation, both in real time CDP and Adobe Journey Optimizer.
+
+00:48:47:49 - 00:49:09:31
+不明
+So that gives you an accelerated way to start to activate on an audience, right? We've given you a head start, rather than all of the development effort that it takes to bring some of this data and stream it into platform. So like you mentioned, it's a one time technical setup of basically hooking up apps to your external data warehouse.
+
+00:49:09:36 - 00:49:32:24
+不明
+You select the tables, the schemas that are applicable for your marketers to go about building an audience. And then this marketer friendly user interface allows the marketer to take advantage of that data. Right? It's still in your existing warehouse, but you're in Adobe Experience platform and you're querying, you're filtering, you're ranking, you're identifying who is your target audience.
+
+00:49:32:24 - 00:49:56:12
+不明
+You can elect to add some, attributes, maybe their birthdate, something like that. For a birthday message, you can enrich and associate that with that audience, save the audience, and it makes it available in real time. CDP in near real time for activation, not only in the destinations of real time CDP, but also in Adobe Journey Optimizer. So I would advise if you would like to learn more about this feature.
+
+00:49:56:16 - 00:50:16:01
+不明
+There is a lab tomorrow at 8:30 a.m. it is full, but I'd highly recommend if you want to get more into how that works. There is a lab available to to get a little more hands on. So you identified, an expert in a way of bringing data. And activating on data. We've talked about the use case selection.
+
+00:50:16:06 - 00:50:38:42
+不明
+And maybe you've identified your use case and what's available. And early in 2024, what was made available in Adobe Experience Platform is use case playbooks. These apply to both real time CDP audience activations, if you will, as well as Adobe Journey Optimizer. There are use case playbooks that involve journeys and journey activation. So maybe you've identified your use case as a marketer to prioritize.
+
+00:50:38:56 - 00:51:10:23
+不明
+Or maybe you want to use this use case playbook as a thought starter. There's 40 plus turnkey playbooks there. They span across industries. They span across channels and business outcomes. And you can either leverage that as a thought starter or align it to the use case you've you've already prioritized. What's awesome here is this is a great interlock for the marketer and the technical persona who has to ultimately build and test and execute the journey or get it to to activate because it allows the marketer to select that use case they're interested in.
+
+00:51:10:28 - 00:51:36:40
+不明
+And then there are technical assets, journeys, audiences. There are schemas, API schemas that are basically built as a result of selecting that. And they end up in what's called an inspiration sandbox for you to start to configure specific to your environments needs. Right. You might have a custom, schema for your transaction or your web events. You're able to map that to the use case playbook template that was provided.
+
+00:51:36:45 - 00:52:08:21
+不明
+And so again, all of that happens in a lower environment. And then you're able to package that all up. Once you've made those modifications and put in your production environment for further testing and preparing for go live. So what's upcoming in April is a beta program for playbook authoring. So bringing your own playbooks, this is something that, you know, as we have available in April, it might be something we might leverage to package some of those journeys and those templates that we mentioned earlier up for easier activation into the 30 club sandboxes.
+
+00:52:08:25 - 00:52:29:31
+不明
+But what this is great for is if you are a center of excellence and you have multiple business units that span different sandboxes or different orgs, AMS orgs within Adobe Experience Platform. These use cases, once you select them, can be brought into those different orgs or different sandboxes. So the center of Excellence you can define what that template should be.
+
+00:52:29:36 - 00:53:03:15
+不明
+And then you can allow your business units to pick and choose from there and take those same, same steps that I just mentioned to eventually propagate it into all, you know, that that sandbox, right, for their own needs, for their own business unit. And what's also coming with this feature is being able to prompt, using AI assistant and prompt to generate your own use case playbooks, your own mind maps, descriptions based on what you're looking to do, and eventually also being able to build out those technical assets, the audiences, the journeys that align to the use case that you've prompted in AI assistant.
+
+00:53:03:19 - 00:53:32:10
+不明
+And so finally, to activate, how do we want to accelerate activation within Adobe Journey Optimizer? One way to do it is through custom actions and leveraging your push your as your email service providers that you already have today where they don't have the 1 to 1 journey orchestration capabilities. So you leverage first to do that orchestration and then eventually layer on native authoring, Native Deploy, and Adobe Journey Optimizer.
+
+00:53:32:15 - 00:53:54:01
+不明
+All of the journeys that we saw today and what we mentioned early on with the capabilities for the tickets and those are all using custom actions, we're able to make these journeys, those custom actions look and feel, allow the journey practitioners to to route and configure that push notification all within a custom action. So this is a great way to accelerate your time to value.
+
+00:53:54:01 - 00:54:18:29
+不明
+Most of your applications will have a means to send through an API. All of this information, and is a great way to accelerate time to value. So can I hand it over to you to help wrap things up? Yeah, we're wrapping up here. We've talked a lot today, about some some really big wins. MLB, helped define those wins by kind of selecting those right use cases up front.
+
+00:54:18:34 - 00:54:35:38
+不明
+It really helped us expedite this whole process and be able to scale this out across all the clubs. And then find those early wins, that 2023, kind of, early on season when we started testing all this, it was great to see the positive results we were getting. And that really proved to us that, agile was incredibly powerful and impactful for us.
+
+00:54:35:49 - 00:54:52:39
+不明
+And we needed to continue to, figure out how to appropriately and, just kind of expand upon everything or use it to expand everything we're already kind of doing. So we've seen a lot of a lot of great success. And, and we're we, are very excited to see where this is going to continue to go.
+
+00:54:52:44 - 00:55:14:13
+不明
+And we've also given you some tips to accelerate your use case prioritization, as well as how to actually activate those use cases. Once you once you select them. So with that said, don't forget to take the summit survey for this session. Thank you all for your time today. I hope you have a great, great rest of your summit, experience.
+
+00:55:14:18 - 00:55:15:50
+不明
+Have a nice day. Thanks, guys.
+

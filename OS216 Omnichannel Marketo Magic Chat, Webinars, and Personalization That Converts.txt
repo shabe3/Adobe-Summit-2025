@@ -1,0 +1,272 @@
+00:00:06:21 - 00:00:26:31
+不明
+Hi, everyone. Thank you for joining us at Adobe Summit as we speak about our session today, where we'll be speaking about omni channel, more Kettle Magic will explore, chat, webinars and personalization that convert. But first let's start off with a quick little quote. We've heard before that content is king, but engagement is queen and the lady rules the house.
+
+00:00:26:36 - 00:00:45:39
+不明
+So we'll stay on that same thing. As we talk about our channel and all of our tools that are available to us in our kettle. Sweet. So first, let me start off by introducing myself. My name is Carina. Be that, I am the Senior Manager of Marketing, Operations and Automation at Montara, which is a for profit organization that feeds into the nonprofit space.
+
+00:00:45:52 - 00:01:08:01
+不明
+I am also the DC mug leader, and last year I was the top three at the Marketer Experience Maker Award finalist. So let me pass this on now to the amazing Lauren. Thank you so much, Carina. It is a true joy to be presenting this session alongside you today. My name is Lauren McCormick. I am the vice president at Revenue Pulse.
+
+00:01:08:05 - 00:01:35:30
+不明
+We are a marketing automation and revenue ops consultancy, handling everything from startups all the way to the fortune 50 and everything in between. I have been using Marketo since 2012. Doing rev ups before it was cool. I always like to say, and, love marketing operations, love the intersection of paid media, omnichannel campaigns, globalization, and all things marketing automation.
+
+00:01:35:31 - 00:02:00:43
+不明
+So super excited to meet with you today. I'm, four time Adobe Marketo Engage champ and the Tucson Marketer user group leader and co-founder. So that being said, I think we'll go ahead and unpack our agenda a bit for you today, we're going to talk about what omnichannel marketing is and is we're going to talk about why omnichannel marketing matters.
+
+00:02:00:48 - 00:02:25:05
+不明
+We're going to give you a practical application, an actual real world example of omnichannel marketing in motion. Thanks to Karina and her use case, we're going to look at dynamic chat in a little more depth. So if you're new to dynamic Chat, you'll get some wonderful insights. If you're already using the tool, we've got some tips and pointers for you to, same with Adobe Webinar.
+
+00:02:25:10 - 00:02:47:19
+不明
+And then we're going to pivot, talk about omnichannel signals, how we can track them and best communicate them to our sales org and within our marketing department. We'll let you think a bit with us on how to build the strategy with Marketo at the hub, and we'll give you some great key takeaways that you can use almost immediately and bring back to your organization after summit.
+
+00:02:47:24 - 00:03:30:38
+不明
+So that being said, let's dive in. What exactly is omnichannel marketing? I think a lot of us have had exposure as marketers to campaigns that were meant to be really significant to our organization. Maybe it's a piece of collateral or an event or conference or a release that we're particularly excited about as a company and as marketers, I'd like to challenge you to pivot that, turn it outward, and think instead about how omnichannel marketing isn't really about our collateral, our near whitepaper, or our big annual trade show.
+
+00:03:30:43 - 00:04:06:25
+不明
+Instead, think about omni channel marketing as an experi agents for your customers and prospects that makes a coherent, cohesive picture of who your brand is. Why that matters. Stake. What kind of value are you delivering across different channels to your prospects and customers? If you are saying different things to them on paid media versus email versus perhaps social media, even in person, if your message is fragmented, they don't know what to make of your value proposition.
+
+00:04:06:30 - 00:04:34:19
+不明
+So consider taking a more customer and prospect centric approach. Put the right messaging at the right time in front of the right people with the right channels, and keep it cohesive. Use data driven insights to really understand what they're engaging with so instead of continually, thinking content is king and chasing new pieces of, marketing materials to throw out and see what sticks.
+
+00:04:34:24 - 00:05:03:07
+不明
+Try to weave your channels together to tell the same tale, to tell the same significant brand story. Integration across channels doesn't just look like the person sitting next to you on an org chart or in your office. Think about cohesion across marketing and sales. What if outreach sequences were promoting the same virtual event that, email marketing was promoting?
+
+00:05:03:07 - 00:05:32:30
+不明
+Imagine the synergy. What if you could get support, and customer comms on the same page and leverage those events to reduce churn? There's tremendous power when we think about, getting everybody in the same boat and rowing in the same direction, a wonderful way to make sure that you're getting the message across in a salient fashion is to personalize the way that it's pitched.
+
+00:05:32:34 - 00:05:57:39
+不明
+So maybe a webinar has a few different facets. Maybe it's talking about the value proposition for an end user, but also for seeing results. Make sure you're personalizing the value prop at that point. Same event, same piece of com different salient value prop, but the outcome should remain the same. You're looking to drive registration, attendance and ultimately pipeline.
+
+00:05:57:43 - 00:06:22:06
+不明
+But the way you say it matters and how that is put into play it it's very foundations is your game. You can't slice and dice your audiences unless you have good data hygiene practices. So always remember that unified data is at the very foundation of successful omnichannel marketing. That's wonderful. Lauren, why does this matter to me? People expect it now.
+
+00:06:22:12 - 00:06:47:48
+不明
+It used to be that we could indulge ourselves in lots of months of planning to get one major, you know, marketing initiative over, and out to the market. 76% of consumers are expecting it. If you're not delivering on it, your competitor competitors are going to 73% of people want a personalized experience that makes them feel seen and understood.
+
+00:06:47:52 - 00:07:11:16
+不明
+And the benefit here is, is really, I think, a key motivator for you to think about a more omnichannel approach that encompasses the needs and wants of your prospects. You're going to make more money. You're going to have, more job security. At the end of the day, you'll have increased engagement, higher conversions, a happier sales team because their commissions will, well, will be lifted.
+
+00:07:11:31 - 00:07:37:17
+不明
+And you're going to retain less customers for longer. People will stay with your audience that a churn. And at the end of the day, that's what we all want for our company. That being said, this has been a wonderful exploration of the theoretical. Let's hear from Carina on the practical application of omnichannel marketing, for sure. So as you said, Lauren, when you think about omnichannel marketing, we're talking about different channels, but the same message.
+
+00:07:37:30 - 00:07:56:34
+不明
+And in this example, we're we're going to use using webinar like that content piece as the collateral that we're going to be promoting and attracting people to. I think in this example, like one of our biggest struggles is webinar is a big channel and webinar has engagement. It's a no brainer. We know it, you know, but how can we actually articulate its value?
+
+00:07:56:34 - 00:08:19:06
+不明
+Can we actually pinpoint the engagement rather than having inferred information. And I think that's an issue that we've encountered where we want to make sure that the people were attracting, whether it's top of funnel, middle funnel or cost of acquisition, is not super expensive. Ultimately, we want to continue engaging them. In addition to that, we want to increase engagement and not in the sense of we attracted a lot of people and they attended our webinar.
+
+00:08:19:06 - 00:08:46:44
+不明
+We really want to understand, are they engaging? Do they like what we're presenting? Is the information we're seeing useful? Are we enabling them? Ultimately, we want to be thought leaders. We don't want to just pitch, pitch, pitch. And it's like all of that together. We also want to increase our ICP hand raisers. We want to make sure we're working with sales where anyone that we're bringing into this webinar, yes, we're engaging them, we're enabling them, but we're warming them up to really understand what is it that we offer and pitch them over to sales.
+
+00:08:46:44 - 00:09:07:53
+不明
+So that way they can continue that conversation. So let's get into some of the results. And we're super excited to explain that. We experienced a high engagement of 117%, which was a super, super success. And we'll go into the details of how we're able to calculate that given like Adobe Interactive Webinars. And then in addition to that, there was an increase in hand raisers and there was a reduction of time to booking.
+
+00:09:07:53 - 00:09:32:56
+不明
+So that hand-off process from our webinar to our sales team was a super reduction and a success for us. So let's continue into like all the ecosystems that we have, the technologies, disposable tools and Marketo. Wonderful. Carina, I love those results. And a little bit on dynamic chat, just high level if you haven't explored it as an Adobe customer, with Marketo engage, you already have access.
+
+00:09:32:56 - 00:10:05:33
+不明
+There's no need to go through a vetting process for other vendors where you have to justify, you know, a new, software platform. Everything is already integrated. What a great way to hit the ground running. Will it engage all of your site visitors immediately? No. Do you want it to? Probably not. But what's wonderful is that it's, automated in such a fashion that you can curate as, like, a concierge for your website, tailored experiences for people.
+
+00:10:05:33 - 00:10:24:25
+不明
+So to create as an example, she's got a webinar that she's promoting on paid media. And if people are coming to the site and they're curious about how they can learn more about the brand, or if they can see a demo or see it in action, she can push people straight into, the registration pipeline and track those registrations.
+
+00:10:24:30 - 00:10:46:26
+不明
+But in reality, with Dynamic Chat, we're looking at maybe six, 7% of your site traffic is going to engage and actually talk to your chat bot. So levels that your expectations and your team's expectations around, some metrics that are informed by your analytics, by your unique site visitors. So you can kind of start with a proof of concept.
+
+00:10:46:35 - 00:11:24:41
+不明
+You don't have to launch it across your entire site. Start with the proof of concept and get used to the different features and functionality that, this, this tool has to offer, whether it's personalize interactions, lead qualification, handing off key, chat, engage to your sales team, or even just, enjoying the visibility that's created with the integration with Marketo and CRM around informing your team about what people are asking questions about 24 765 while the team might not be online or around, so it's an always on solution.
+
+00:11:24:50 - 00:11:41:12
+不明
+And I think it's done some wonderful things for green on her team. I'd love to hear more about that. And I think our audience would too, for sure. Like transforming chat. It's definitely different. I don't want you guys to think of the chat feature that we have of Dynamic Chat as just a bot that just speaks to people.
+
+00:11:41:16 - 00:12:02:22
+不明
+It's so much more robust. We're taking this further than just logic branching and trees, but there's multiple things you can do. So you can again use this part of your omnichannel strategy. Your chat is a channel and it also is a driver. You can utilize it to promote any type of content that you have, such as like a webinar, and have it placed in specific areas.
+
+00:12:02:31 - 00:12:21:39
+不明
+Perhaps other people may be interested in learning more of the other channels or assets that you're promoting. So again, with the same idea of using this webinar channel, we could set up a chat where we're pitching people who go into a specific part of our website, whether they're looking for content or if they're in a on, webinar section, but they're looking for on demand.
+
+00:12:21:39 - 00:12:42:59
+不明
+So they can sign up and view that recording. Or if they just want to sign up for a webinar, your chat bot can pop up in, your chat bot can engage knowing that they're showing some interest because they're on a particular page of your site. At that moment, you can pitch using your chat bot the the link to your landing page, having that link within it with the UTM parameter.
+
+00:12:43:10 - 00:13:01:05
+不明
+That way you get a better understanding that this specific webinar that's part of this specific campaign has just gotten a driver from the chat for someone to sign up for that webinar. So it's a clear understanding of where this person came from. And it's no longer like we're going to attribute this to organic. No, we know they specifically came from an interaction with our chat bot.
+
+00:13:01:10 - 00:13:22:44
+不明
+In addition to that, you have dialogs and dynamic chat, but you also have conversational flows. This is a really cool and unique feature because it's appended to your CTA. So you can leverage this on any forms that you have more kettle forms. And when someone does fill out the content, let's say someone came in and they came to our website and they're interested on a content that may be an asset related to the topic.
+
+00:13:22:44 - 00:13:42:47
+不明
+They'll be discussing a webinar after they fill out that form, use your conversational flow and pitch to them as well. This webinar that you guys have coming up, again, embedded within the link of your conversational flow, someone can click on it, but the benefit of this is once they've already filled out that form for the initial request, which was a content.
+
+00:13:42:52 - 00:13:59:47
+不明
+It's a very low lift at this point because we've already gathered that information. At this point, they can just click the CTA and we can record that engagement for this webinar activity within our Marketo instance. And again, all of this stays within the person profile. So you can use it for batch campaigns. You can use it for for triggers.
+
+00:13:59:56 - 00:14:21:51
+不明
+And if you want for future sourcing or nurture, you can go back and get that information. Another cool, unique feature as well as the AI rep, which is AI. You can utilize that for your team, whether it's someone coming into your website, if they come in with a certain UTM parameter, or if they're a certain type of, group, a segment within your database that's high intent.
+
+00:14:21:55 - 00:14:41:27
+不明
+Depending on how you segment your database, you can also leverage that. So that way your sales rep jump in at the right time rather than being their active on a chat for eight hours. Let them jump in at the right time because you can train your AI, your Genii to utilize your content. You can set up responses so that we can understand, and you can also set up responses.
+
+00:14:41:36 - 00:15:14:01
+不明
+So when your sales team is communicating with them, they can just plug and play and have these automated responses that are answering these questions for them. I think that's a wonderful point. And if you have eight EES that have been watching these target accounts, ever so carefully and just waiting for the right person to engage meaningfully with the brand and the the gen AI is aware of this relationship, and Marketo seamlessly is able to identify who this person is that's engaging with your chat.
+
+00:15:14:06 - 00:15:43:03
+不明
+Imagine the power of being able to take a key decision maker at a key account, and instantly connect that to have a powerful conversation to expedite lead velocity, to move closer, to shortening the sales cycle, and just to deliver on the expectations of that prospect that indeed your brand is in the right place at the right time for them to experience the level of support that you want for a key account, and the brand experience that you want for a key account.
+
+00:15:43:03 - 00:16:10:33
+不明
+So it really is, amazing and impactful, and a wonderful way for sales to feel enabled, but also for the prospect to have their expectations met. So can't endorse it more. And don't sweat too much about, training. The I think that, Adobe makes that easy. It's it's, not the steep learning curve. You might imagine if you're nervous about to paying a toe in the water is to put that out there.
+
+00:16:10:33 - 00:16:38:24
+不明
+So wonderful. I think here we pivot and we'd like to talk a little bit about webinars is engagement fibers. We all know that webinars are wonderful. It's interactive. People can ask questions. You get wonderful, intense signals about where people are at and how they're engaging with your brand. Wonderful qualification signals as well. But amazingly, Adobe has now found a way for us as marketers to seamlessly integrate and automate registration reminders.
+
+00:16:38:29 - 00:17:03:52
+不明
+There's there's no need for a bidirectional sync with an outer platform outside of your marketing automation. It's a great way to connect people into the bigger ecosphere of nurture and engagement within marketing automation. So super exciting that we have this available to us. Carina, again, please do tell us how you're putting this wonderful platform into play at your organization.
+
+00:17:03:57 - 00:17:25:17
+不明
+Yeah, interactive webinar is definitely one of my most favorite tools in Marketo, and it's one of my favorite ones because it's definitely gone beyond just being a broadcast. It's an opportunity to directly engage with your leads. This is the platform where you can engage with multiple leads at one time, and they're in a low pressure environment because they're learning.
+
+00:17:25:20 - 00:17:44:20
+不明
+You're understanding whether you're teaching them about your product or you're teaching them about strategies of how to elevate certain skill sets or certain tools that they already have at their hand. This is the opportunity for you to engage with them directly, and for you to also see where your engagement is at. Is your content truly entertaining? Is your content helpful?
+
+00:17:44:33 - 00:18:07:50
+不明
+You can see all that engagement metrics within the backstage area. So at any moment, if your leads are decreasing, engagement, if they're not interacting much, send them a poll. It's beneficial as well. You have many opportunities to engage with them directly so that you can elevate the the polls that you have no longer just for communications or to see when you can lift up that engagement.
+
+00:18:07:55 - 00:18:28:03
+不明
+But it's now the opportunity for you to gather more information. We're talking about omnichannel strategies. We're talking about bringing up the ICP, increasing that, and truly sending warm links. Your sales team, this is that opportunity. So utilize your polls to get a better understanding. Like what are their issues. Like what are they? What are the problems that they're having.
+
+00:18:28:13 - 00:18:48:07
+不明
+But your tools or your team can help them solve. Also understand better what type of organization are they? There's times that organizations can have many people interested in their content because it's phenomenal. It's awesome, is great, but we also have that business aspect that we definitely need these leads and clients and customers. So we can continue growing and producing amazing things for them.
+
+00:18:48:12 - 00:19:11:54
+不明
+So get your KPIs and certain questions that perhaps you can't add on the form because it's too much information. Throw it into your webinars. Use your polls for what you need to continue getting an ICP, an understanding of your segment. In addition to that, you can also leverage your call to action whether you want to give them additional PDF additional collateral that they can use that's related to this webinar or that can set them up for another success, go ahead and do that.
+
+00:19:11:54 - 00:19:47:46
+不明
+You can also schedule demos. So again, reconnecting this instead of using your webinar platform as a broadcast use as a channel. It's a driver. Append your UTM so you can understand from where these demo requests are coming from, whether you use them as hand raisers so you can push them into your sales team, or you want to schedule them on request instantly while they're listening to your webinar broadcast, you can use those call to action and add them into these other programs so that we can track what is the driver and what channel is increasing these conversions for you?
+
+00:19:47:51 - 00:20:17:51
+不明
+Nicole. Thanks, Lauren. It's definitely my favorite. Like I'm passionate. If you can't tell I yeah I know you are. I think it's awesome. So like another thing again back to Lauren's point saying that interactive webinar excuse me it's connected already within our Marketo ecosystem. It's something we don't have to set up and reconnect. We don't have to broadcast on another platform, extract the information because believe it or not, I've been in the seat with some marketers, whether they ask questions or polls or take notes, it doesn't get synced back.
+
+00:20:17:51 - 00:20:46:17
+不明
+Once the handoff from marketing comes to markups, it's some time from agent are willing to drop, and sometimes they set up batch campaigns for those who are interested. Both hand raisers as demos via email. So get those email address, put in a batch, launch it. It's different since everything is all connected. The people who fill out your polls, if you if you have your program set up to understand like who requested a demo, who wanted to learn more, you can set up these poll responses as your batch and just send that off right after the broadcast has ended.
+
+00:20:46:30 - 00:21:11:01
+不明
+So it's definitely turning down the time of this conversion and the time for booking that you're sending to your sales team and optimizing your process to make it even faster, more robust. I love that, and it's speed. The lead right green, I like it. Not only are you increasing the efficiency with which you're getting information to your internal team, you're increasing the level of service that you're delivering, delivering to your prospects and your customers, which is so significant.
+
+00:21:11:06 - 00:21:38:17
+不明
+Yeah. Wonderful. So speaking of tracking these signals, you know, all the different, interaction points that we've mentioned so far, indicate interest. And in turn, these can be leveraged in centralized tracking. You can take this into lead scoring. You can make it a behavior inside. You can even bake it into your Marketo sales insight, which we'll talk about a little bit in just a few.
+
+00:21:38:22 - 00:22:10:53
+不明
+It improves the level of understanding not only your sales team and your marketing team has and what drives, prospects and sales. It also helps you better understand, how to tailor your operational programs to glean the most insight. Right. So, maybe you're tracking currently in your existing webinar platform, a binary, engagement point, right?
+
+00:22:10:53 - 00:22:40:46
+不明
+They asked a question. They didn't ask the question in our chat. Right. What if that webinar, comment is just hi from Arizona? That's not necessarily a meaningful insight, right? But you, of course, want to start by gathering those comments. Marketo lets you filter them and make them meaningful, and make sure that you're passing along the valuable pieces of intent, the valuable conversation starters, while mitigating some of the noise, which I think is really, really powerful.
+
+00:22:40:46 - 00:23:08:43
+不明
+We have so much more latitude when we have Marketo as a center of the engagement hub. Instead of relying on a spreadsheet or an integration with third party platform. So sales insight, as I mentioned just a moment ago, if you were wanting to set up interesting moments, you could go ahead and based on interactions and webinars, communicate in CRM directly to your sales team in virtually real time.
+
+00:23:08:56 - 00:23:43:37
+不明
+When somebody asks a significant question, maybe contains the filters, contains insert your product name, right? If they're asking a question on pricing, you can immediately send that over in CRM. And if you are is monitoring particular people particular accounts or just likes to watch the news ticker of, information that comes across about marketing activities, into CRM, they'll see that significance and they'll be able to act with speed and efficiency to address these concerns.
+
+00:23:43:42 - 00:24:09:07
+不明
+So it's super awesome. It accelerates your sales team's efficiency and effectiveness. It improves the experience of your prospects and your customers. And that, of course, has influence on revenue. So talking about the omni channel strategy quickly here, Creta, maybe you can help us explore how you vetted your best channels, and how you made the decisions that you chose.
+
+00:24:09:12 - 00:24:28:19
+不明
+Well, the truth is, there is no right answer. There is no that's right. Fit all. And Lauren, like you have the experience. Multiple clients from multiple regions, certain laws that you guys have to abide by. I know your proof and confirming that as well. And I think that the best step to take is go into your Marketo system.
+
+00:24:28:30 - 00:24:54:00
+不明
+We have our maps system where our information is scattered. Maybe there was a migration, or whether you're just starting to definitely leverage the reports that are available in Mercato. So we have the program performance. That gives you a better idea of at least what are the channels in the past that's been used in your organization that has driven a lot of conversion or success, because different channels have different success metrics get a better understanding of that.
+
+00:24:54:05 - 00:25:12:25
+不明
+You can also look into understanding as well with your UTM parameters. What channels are we coming from? This is a bit more information that's a bit more robust as you continue setting up your your Marketo instance, but it gives you an understanding of what channels have worked well and then test and repeat confirm if indeed they're the best working channels.
+
+00:25:12:30 - 00:25:35:00
+不明
+And if they're not, now you have an opportunity to test out other channels for you to use for your omni channel strategies. So just always remember, no size fits all what fits you or your or your organization is the best channel for you guys to implement into your strategies. And as you're working with like omni channel strategies within Marketo, again, if you want to set up, we have to set up this data architecture because consistency is key.
+
+00:25:35:00 - 00:25:54:51
+不明
+You want to make sure that you create a process that can be repeated over and over, not just for a test, not just for this strategy, for all strategies moving forward, even three years from now, you want to make sure you have that. The best low hanging fruit I'd like to suggest is utilizing your UTM trackers. This is a place where you can set up your channels, your media, get a better understanding of your campaigns.
+
+00:25:54:55 - 00:26:16:33
+不明
+Always remember that a campaign when you're using a UTM channel can be the same exact campaign. Your channel and medium are the only pieces that change because these are absolutely. These are the pieces that give you a better understanding of how people got there and who sent them. Also take advantage of your naming convention. Your naming convention can be used in multiple places.
+
+00:26:16:48 - 00:26:33:55
+不明
+Whether you're setting it up to understand what was the first touch, what was the last touch, what was the most recent engagement? You can have it set up. So that way when you pull reporting or any type of channel reporting, Marketo, you know where they're coming from. These are things that you can utilize. So your architecture is very, very important.
+
+00:26:33:55 - 00:27:00:07
+不明
+And the way you set it up to make sure you have a clear understanding of your entire omnichannel strategy, to be able to pinpoint back where people are coming from and how they got there. And indeed, what is your best performing channel? This is all data that goes back into feeding that absolutely. So wonderful. So I think unified customer data, clear goals, benchmarking against yourself and leveraging core features.
+
+00:27:00:07 - 00:27:21:45
+不明
+I think taking advantage of everything Adobe has to offer you super important, and thinking about a personalized brand experience, as you as you map out your workflows, try to move from old channel to omni channel, automate everything you can, and test, test, test. Make sure you're measuring and optimizing all along the way. So some key takeaways as we close.
+
+00:27:21:50 - 00:27:51:04
+不明
+Omnichannel marketing of course is essential. And Marketer Engage is one of your best strategic allies. Engagement signals will let you know when you're moving in the right direction. You can start small and scale strategically and make sure that you're tracking your measurable results. Right. So continually working on conversion optimization, on shortening sales cycles with an eye toward return on ad spend and return on investment as you grow your business.
+
+00:27:51:09 - 00:28:00:24
+不明
+But yes, omnichannel is the way forward. It is expected by your customers and prospects. So embrace the journey. You.
+

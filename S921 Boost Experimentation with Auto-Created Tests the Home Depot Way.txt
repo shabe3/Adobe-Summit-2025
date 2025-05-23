@@ -1,0 +1,396 @@
+00:00:00:19 - 00:00:29:51
+不明
+We really appreciate you sticking out to the end. No, it's it's tough to stay out. So we're very honored that you stuck around for a session. It means a lot to us. We hope that, maybe we've saved one of the best sessions for last for you. We're also happy to answer questions afterwards. So, I'm very honored here today to be, presenting about how Home Depot has helped to streamline and automate their testing creation process with, my colleague, a professor, and more so.
+
+00:00:29:58 - 00:00:53:30
+不明
+Perfect. Why don't you go ahead and, give them a little bit of background about yourself? Yeah, definitely. Hey, everybody. Thank you for being here today. So I lead the experimentation and personalization team at Home Depot. I started as a software engineer, in the experimentation space, gradually learning every facet of this amazing field with over ten, with over a decade of experience.
+
+00:00:53:31 - 00:01:22:45
+不明
+I specialize in bridging engineering, business strategy, and data science, accelerating decision making through experimentation, turning data into action, and insights into growth. I'm really passionate about building high impact systems, one of which we'll be talking about today in detail. When I think about the achievements or my achievements or what we have done in Home Depot for experimentation, I like to group it into two parts.
+
+00:01:22:49 - 00:01:55:08
+不明
+Program optimization and technology evolution. I lead a very dynamic, product driven team that enable experimentation and personalization across 45 plus cross-functional squads. The squads are essentially like balanced teams. You know, they have their own prop manager, their, engineers, their data scientist, a UX partner, everybody together working on solving maybe a part of the customer journey, maybe a particular feature, something that interesting.
+
+00:01:55:08 - 00:02:33:36
+不明
+But you can imagine the amount of collaboration we have to ensure the effective communication. We have to ensure across all of this, all of those, 45 squads while sitting as a centralized, unbiased party. It's hard. No pressure, no pressure. Definitely. We also have a center of excellence, a SEO team inside of experimentation. Our aim here is to, not just think about the culture of experimentation, but also to advance through program, maturity.
+
+00:02:33:41 - 00:03:05:17
+不明
+We in the last year itself, we developed 11 frameworks which enabled us to unlock, like, you know, capabilities which were not there with us before to do experiments which we didn't even think about before. And that has been a great when when we talk about technology evolution and experimentation for Home Depot. One of the key things that were, that is very striking for us is the scalable frameworks we built for content, feature and algorithm testing.
+
+00:03:05:22 - 00:03:30:00
+不明
+This helped us do faster building and deployment of tests. One quick example I can give you is before the frameworks. If we wanted to do a content test, you had to go to the product manager to the UX partner. Can you give me this image uploaded into a like a server and give me the image URL? Then we have, developers writing the code for it and making the image swap.
+
+00:03:30:05 - 00:04:06:20
+不明
+Now it's not like that. Now the, the CMS, the Home Depot CMS talks directly to Adobe Target, letting them know that, okay, this is the location. This is the image. Let's make the swap. This definitely helped us unlock, like a lot more capabilities related to personalization and scale. The number of tests we do. The second thing we did, which helped a lot with scalability, which helped a lot, with delivering faster, experiments, was how we embedded automation into the experimentation lifecycle.
+
+00:04:06:25 - 00:04:31:55
+不明
+This improved our measurement accuracy. This helped with improving the speed to insights as well. All in all, this has all contributed to the scale, culture and innovation of experimental within Home Depot. How many years we've been at it, How many years have you been at that? Oh, sound like it happened overnight? No, it did not. And we're still evolving.
+
+00:04:31:57 - 00:04:57:04
+不明
+We started 2 to 3 years ago with all of these efforts. And we are still, like, adding to all of this that we have done. We have not. We are not done yet. Yes. So I think that comes in from my introduction. That's Orion Techno. I'm an enterprise architect for the consulting team with Adobe, so I partner with companies like A Service and Home Depot to help them with a roadmap for how they want to mature and their technology use.
+
+00:04:57:09 - 00:05:19:55
+不明
+It's not just the technical configuration, it's the operational adoption, the learning, the standardization of how it's used. And I'm sure many of you are aware, if you put someone who doesn't understand how to test into Adobe Target to build a test, you could blow up your site. So that's one of the challenges, though, with with creating a program level for experimentation ensures that risk, which we're going to dig into a little bit.
+
+00:05:19:55 - 00:05:50:17
+不明
+Also, but it's a pain point that I've personally felt. I my whole career has been based on experimentation. I started in marketing research back before website personalized and testing was a thing. So, leading new product development for craft surveys, small intercepts across a number of industries. So when I saw an opportunity to get into website optimization through paid media in and pay per click in 2006, I started splitting my own ad copies to different landing pages to optimize it just manually.
+
+00:05:50:22 - 00:06:12:02
+不明
+And then it moved up gradually. As I learned about Adobe Target and Adobe platforms after they bought an armature to then help lead a broader scale experimentation programs. But I always felt the pain of trying to move up the volume of tests. We showed that that we had created value, but we always kind of hit the ceiling that we couldn't expand past in terms of volume and scalability.
+
+00:06:12:07 - 00:06:36:48
+不明
+So what are we to talk about today? Oh, before we go ahead, Ryan, can you share a fun fact he always has this very interesting fact. Listen to it, guys. Please. I'm going to get one from you too. So yeah, my daughter is 15. She's got her learner's permit, but she's hopelessly addicted to Starbucks. So every day to school, she wants to drive because then she can force me or my wife to go to Starbucks because she's driving while.
+
+00:06:36:48 - 00:06:57:09
+不明
+So, the descendant of two presidents, John Adams and John Quincy Adams. But you can tell which one came to mind first. So if there's anybody from Starbucks in the room, I want to talk to you afterwards. It's your fault. Yep. Oh, you want one for me? Yes. Oh, okay. So, I love reading a lot. But I like those physical books.
+
+00:06:57:09 - 00:07:14:44
+不明
+I don't like Kindle. My husband has tried to give me one, but I've never opened it. I love taking handwritten notes. I have, like, this big collection of fountain and ink pens that I use. So if you are in a video or call with me, you'll always see me like, you know, taking notes while talking to you too.
+
+00:07:14:49 - 00:07:36:37
+不明
+So I do like that, but I'm more cautious. What her one swag request was. Yes. Like, I'll speak for you. I'll speak with Adobe, but I want that stationery. Definitely. On a more personal note, I have a one year old baby boy whose, recent hobby has been, looking at cars go by. He doesn't know how to say cards, so he'll just say vroom, vroom.
+
+00:07:36:46 - 00:07:55:32
+不明
+And that's when he says we have to go him and go and show him a car that's in, prime while you do that. Let me talk about what what this session is all about. Yeah. We're going straight into the agenda. So, yes. In this session, we'll be talking about how Home Depot, evolved experimentation as a product.
+
+00:07:55:37 - 00:08:28:27
+不明
+Why we did that, what challenges we face, and all the key learnings that we have along the way. We realized that experimentation, being truly accessible, truly democratized is very crucial for us. We will also share what it took to get there and how we iteratively improved that. I don't want to give out too much upfront, but the results were extraordinary and what we where we are headed next is truly exciting.
+
+00:08:28:31 - 00:08:51:52
+不明
+So where we were two years ago, right? Two years ago, it was the program was more ad hoc. It was more as a service, as a support group, like you have a test, you walk up to somebody and they'll be like, okay, let's let's use Adobe Target, let's launch this. Now it's more, as a product experimentation as a product changing or transforming.
+
+00:08:51:52 - 00:09:21:33
+不明
+It so helped us make the process very efficient, helped us scale the number of tests we do, helped us not just improve the quantity of tests, but also the quality of the test, because we were able to now have more measurement accuracy, have more, trust in the data that we were sharing with our stakeholders. One of the key points there was how we established a very streamlined process.
+
+00:09:21:37 - 00:09:43:39
+不明
+We adopted Adobe Vogue Front as our program management tool. At this stage. Whenever a stakeholder has a request for us, they have to fill a very, standardized intake form where we understand from them why they are doing this test, what they want to improve. What's the hypothesis? What's the key success metric they are trying to improve, etc..
+
+00:09:43:44 - 00:10:10:50
+不明
+All of this happens in vogue front. After that comes a more, a more of a process, which is like a product lifecycle or a software development lifecycle where there is, where we assess the feasibility of the request. Is it is it technically feasible to do this? Do. Is it analytically feasible to like, do we have all the right analytical tracking that we need to collect the data for this test?
+
+00:10:10:55 - 00:10:34:53
+不明
+And also whatever we are trying to achieve, is it possible in the timeline that is set for us? But think about this concept. Experimentation is a business product. Many companies view AB testing as something very tactical. Sometimes it's an afterthought, but it really drives the organization to be data driven. And the elements that I was talking about are all important to help grow your footprint.
+
+00:10:34:53 - 00:11:09:00
+不明
+If you're in charge of an experimentation program to frame it the right way based on how it can drive that decision making. True. Now we are part of every product managers roadmap. If they have a product that they need to deliver right under that, line item that is going, you are going to see an AB test for this product, something like that, that helped us make sure that we are scaling and expanding the impact of experimentation to, of course, we go through the software development.
+
+00:11:09:05 - 00:11:34:30
+不明
+You know, you are building the test, your QA, it, you are making sure the authorities know that you are launching something. You're changing something on the side. You launch the test. Now what happens is the test is live. The test ends. And this is where it's, the automated pipeline kicks in. The AR experimentation analysts don't need to go in and pull the data from our data sources anymore.
+
+00:11:34:31 - 00:12:03:57
+不明
+The automation pipeline takes care of that. All the data is pulled in, the statistical analysis is done. Outliers are removed. What are experimentation? Analyst are experimentation subject matter experts need to do now is come in there and to help interpret the data and make sure you have insights for the stakeholders. Make sure they are actionable. If the if the feature like if the aim was to improve the engagement of the feature.
+
+00:12:03:57 - 00:12:28:17
+不明
+Yes, we saw the engagement improved, but people did not convert as much. People did not buy as much. What happened there? Maybe they added to cart and something bottom of the funnel did not work with them. Help interpret the state. Help work with the stakeholders to interpret where in the customer journey did the feature fail for them, or where in the customer journey did the customer preferences change something like that?
+
+00:12:28:31 - 00:12:51:47
+不明
+Are they only looking at a purchase, or are they just focused on a purchase metric to optimize? No. We have over 450 metrics in our data dictionary right now. We do make sure though, with any of the features or any of the AB tests or experiments we launched, that we are not harm the revenue metrics statistically. That's the that's the thing we do check.
+
+00:12:51:52 - 00:13:14:58
+不明
+But you're right, it's not always the revenue metrics. It could be as simple as engagement. It could be as simple as did somebody even view the feature? Something like that. So okay, so we have built this report. Now we are sharing it with the stakeholders, reviewing with them. And when they are, when they are like all okay, we have understood that, you know, all this is good.
+
+00:13:15:03 - 00:13:37:03
+不明
+We close the loop of experimentation. There is a closed out form now in work front itself that makes sure that we are recording the learnings from our experiment. Is it a win or a loss? What did what else did we learn from that? Were there any other improvement that we do along with this? What were our recommendations, etc. this helps us close the loop.
+
+00:13:37:12 - 00:13:56:31
+不明
+This helps us, helps us record all the data that needs to be recorded. If my leaders now come in and ask me a pura, how many tests did we do last quarter? I don't have to go and pull an excel sheet. Try to figure out what it is I can go and work from within a matter of two minutes, pull that data and inform my leaders.
+
+00:13:56:43 - 00:14:16:12
+不明
+In fact, even give leadership like a pretty view of the data that they can look at it whenever they want. Kind of like a live dashboard without having to build the dashboard. So that definitely helped us. This sounds like it takes a lot of people, though, to manage and maintain this. What what does your team structure look like right now?
+
+00:14:16:12 - 00:14:38:20
+不明
+Yes, you're right, it does take, people to maintain this, but it's not a separate skill set or a separate set of people we are looking at. We do make sure that our experimentation analysts themselves, who are driving the end to end lifecycle of an experiment, keep track of all of this. But it's easier now to do that because of the Adobe Work front tool.
+
+00:14:38:31 - 00:15:03:32
+不明
+All the communication now gets, like basically for anything we want to understand about the experiment or inform stakeholders about the experiment. It is all done through Adobe work front. From a process standpoint, it sounds like there's handoffs and checks. Is that a complicated process? Is there manual steps involved? There are there are manual steps involved, especially when we are interacting with stakeholders.
+
+00:15:03:46 - 00:15:25:21
+不明
+You want a data asset. You want to understand the metric definition. Maybe, you want an API to build the experiment. To develop that experiment, you still need to go ahead and talk to that particular stakeholder. Try and get a meeting maybe on, I.T engineers calendar to try and understand how that API works. There's still a lot of emails.
+
+00:15:25:21 - 00:15:49:27
+不明
+There's still a lot of meetings. One of the number one complaints that my team has is the back to back meetings. And they hate that. Yeah, I I've experiences with other companies too. I feel like it makes me mentally dizzy sometimes, especially to start getting up the volume of tasks that Home Depot is producing. And that must have resulted in, some challenges that you've experienced across this process.
+
+00:15:49:28 - 00:16:19:28
+不明
+Yes, we have, as the experience as a Home Depot is experimentation program group, we realize that we have reached the limits of a centrally managed approach. We are not able to scale the number of tests that we do. As we try to scale experimentation across, enterprise, like across the enterprise, across the organization, we end up introducing more operational challenges, that that affect our efficiency, adoption and overall program effectiveness.
+
+00:16:19:33 - 00:16:40:09
+不明
+Let's break this down. Right. Let's talk about development effort right now at Home Depot. It takes a lot of time for us to, design and develop the test. So there are two ways you could do that, right? There are two ways you could develop a test. One could be as easy as, okay, let's work with the experimentation team and develop the test.
+
+00:16:40:13 - 00:17:04:12
+不明
+So but you still have to go and talk to maybe the engineers or the data scientist. Let's consider an example. Right. You want to change the model for the recommendation container. You're going to the data scientist. You're going to your product managers or engineers to get the API for it. Understand the structure. Actually go ahead and write the code for it, make the change and then deploy the test the other way around.
+
+00:17:04:12 - 00:17:26:15
+不明
+Could be are working very closely with IT engineering partners, but that still involves a lot of back and forth. There is still a lot of communication to make things happen to even work hybrid like the. This just slows down the whole process. The second part is program management. Yes, we had this great tool. We had Adobe to sorry, Adobe Workflow to help us with that.
+
+00:17:26:20 - 00:17:45:25
+不明
+But you saw the process. There was so many approvals. There are so many steps involved that it started becoming cumbersome with hundreds of tests in pipeline. You can imagine how the experimentation team now became a bottleneck again, slowing down the whole process. And how long would it take when you need these approvals for them to turn that around?
+
+00:17:45:30 - 00:18:10:37
+不明
+Oh, everyone would have their own SLA. So I can give you the overall numbers, like before all of this, the end to end lifecycle of an experiment from concept to the end of the experiment was 60 to 70 days. Now we have been able to reduce it down to 21 days. So you can imagine how how many handoffs were involved, how slow the process was.
+
+00:18:10:42 - 00:18:39:15
+不明
+The third is learning curve. Many of our stakeholders did not understand the nuances of experimentation. We yes, we had to do documentation. We had total training, my experimentation and did make sure that our stakeholders understand these concepts. But still, the learning curve was an impact to us, mainly because, we were expanding experimentation across the organization. So you would always have some new stakeholders coming in.
+
+00:18:39:19 - 00:19:08:25
+不明
+You would always have, people leave the organization, leave the company, move here and there, which again, caused that exact activity against cost retraining and everything. This also led to the fourth challenge adoption. Because of the cumbersome process, slow process, many people were not ready to, like, work with us, sort of hesitant to work with experimentation because of the like the slow process that was there takes too much effort.
+
+00:19:08:27 - 00:19:33:29
+不明
+Exactly. What am I going to get from it? Yes. So has anybody else experience this resonating with you? Have you seen this kind of challenge in your own organization? I've seen it personally myself across a number of different companies, which is why I was so excited about the opportunity. I think that that was presented to a Purva. And when she came to me, I thought it was a tremendous opportunity and it was worth sharing with you.
+
+00:19:33:34 - 00:19:56:51
+不明
+Yeah, definitely. The challenges we face made us think that, yes, we have to evolve our approach and that was the birth of auto test. We use the tools that we had to scale experimentation in a more automated, in a more decentralized workflow. In this case, we used Adobe Vogue Front and Adobe Target. But what was the catalyst right around?
+
+00:19:56:51 - 00:20:25:59
+不明
+As you said, we faced these challenges before too, but there was a trigger for us. One of the teams at Home Depot used to use Google optimize for their experimentation, so they used to independently run tests. But as you know, Google announced the same set of optimize. Now they had no other tool to work with. They were trying to figure out how to work with us, but they were not ready to or their, business needs did not suit the approach, the centralized approach that we had.
+
+00:20:26:04 - 00:20:46:17
+不明
+They wanted more control. They wanted more control and hands on approach in the way the tests were designed and launched. If we would have stuck with the traditional way of doing things with them, either of two things would have happened, right? They would have said, no, we don't want to work with you. And they would have gone and found another tool that they could work with.
+
+00:20:46:17 - 00:21:04:57
+不明
+And that's just, again, a messed up way of doing things for a big org, like, well, not even to mention the risk that that incurs by having multiple optimization tools that can't talk to each other, potentially undermining each other. True. And it just leads to competition within orgs, which we we which we don't want. That's not the way to grow.
+
+00:21:05:02 - 00:21:22:43
+不明
+The other thing that would have happened is they would have just given and accepted. Okay, let's do it in the centralized way. But now we need more resources to do it because it's a completely new set of, business and a completely new set of stakeholders we would be handling. We didn't want that. We wanted to evolve further.
+
+00:21:22:48 - 00:21:47:07
+不明
+We wanted an approach which gave better autonomy, better flexibility. A centralized approach was not giving us that. This is where decentralized came into focus. So how did you approach this, this kind of like once in a lifetime opportunity to finally win over this team that have been resisting you for years? Yes. It was mainly about recognizing their requirements, but also recognizing the risks involved with decentralization.
+
+00:21:47:07 - 00:22:10:19
+不明
+We knew there was a risk of fragmentation. There was a risk of quality loss, consistent, consistency loss, which we had strived to achieve over the last 2 or 3 years. Based on all of this, we started defining our requirements for the product. The requirements fell into three buckets. One was automation. Of course, we had to scale this.
+
+00:22:10:24 - 00:22:21:18
+不明
+We wanted to scale it without increasing the number of resources. Of course, automation was the key. Second was governance.
+
+00:22:21:23 - 00:22:36:52
+不明
+We wanted to make sure the right set of people are accessing the right set of functions and tools in this new, in this new integration, there comes governance. The third was standards.
+
+00:22:36:57 - 00:23:00:36
+不明
+We had worked over the last 2 or 3 years to instill best practices. As we expanded across the Arc, we had to make sure that there are guardrails in place, standards being followed as people outside of our team started to launch tests and how many people have seen a stakeholder or leader say, just just go prove that I'm right with this test.
+
+00:23:00:36 - 00:23:27:42
+不明
+And then when the results come back different, like we'll just change the results. I've been experiencing this back in even in my marketing research days when they didn't like the survey results. Oh, it's still true today and more. The leader knows about data, the more of a blessing. And of course it becomes. So we use all of these requirements, all of that, to outline a streamlined workflow for us.
+
+00:23:27:46 - 00:23:50:03
+不明
+I show of hands how many of you guys have used the Adobe Work Front tool? Quite a few of you, quite a few of you. But those of you you have who haven't, you can work with Adobe. But for now, please take our word for it. It's a very easy to use tool. You want to build a report, just click on it and enter a few details and the report is built.
+
+00:23:50:07 - 00:24:13:10
+不明
+We want it to maintain the same accessibility, the same user friendliness with this tool to if you want to, do this, let's let's just go ahead and open up open, Adobe Target activity request. If you want to add audience to it, just go ahead and add audience. If you want to add offense to it, just go ahead and add office and submit the request.
+
+00:24:13:15 - 00:24:51:38
+不明
+So easy for any non-technical person to do it. But I want to make sure you realize what this is. This isn't just a normal workflow. This activates the test in Adobe Target automatically by API. It by directionally syncs together. I'm going to get to that in a minute. And these these guardrails I think are the real, gold of this because it enforces those best practices for people where they don't have the time for that learning curve to understand how to do it themselves properly, we can conditionally stop them from launching a test if they're doing it wrong.
+
+00:24:51:43 - 00:25:09:07
+不明
+Yeah, you're right in this case, right? If if somebody submitted a request which was all good, which follows your standards, of course you can go ahead and approve it. But let's say they didn't follow the rules. Like let's say Ryan comes in and he's trying to launch a test home page and push it 100% on day one. That's it.
+
+00:25:09:07 - 00:25:27:03
+不明
+No, no, that's not going to happen. That's a guardrail right there. That's where we make sure that okay, Ryan is doing this. What do we want to do? We get an automated email, an automated trigger trigger notification that lets me know that let my team know that. And we can take the next steps as our guidelines tell us.
+
+00:25:27:03 - 00:25:44:03
+不明
+Unfortunately, I also got a trigger to my boss, and then I got assigned to remediation track a video that I had to watch so I could learn better about testing if I wanted to do it again. Yes, if Ryan does that again and again, I can definitely escalated very easily. But does this have all the capabilities that you've built in?
+
+00:25:44:07 - 00:26:08:22
+不明
+Why? When is there something I couldn't do? No. There's everything you can do and more than in Adobe Target. So you can of course create activities here offers audiences. But the guardrails, the approval steps, that's what's new over here. Let's say there is already a stakeholder who has launched a test on home page and which is running for this week, Monday to Friday.
+
+00:26:08:27 - 00:26:26:36
+不明
+But I come in there and I see that, no, no, no, I want to launch another home beach test today which would which would like essentially end up overlapping that test. I get an automatic trigger that lets me know that. Now let's on you right. It's on your organization and best practices to let us know if it's overlapping.
+
+00:26:26:36 - 00:26:45:39
+不明
+Okay, fine. This works for us. Let's go ahead. If it doesn't work for you or you can immediately let the stakeholder. No, wait. The end date of this test is Friday. You can launch your test on Monday Saturday whenever you want to. But aren't my tests all going to get mixed together with all the other 45 divisions? How am I going to find that we can easily do that right?
+
+00:26:45:39 - 00:27:14:16
+不明
+This is where work Front and Target helps you with that. That program management comes into focus and which is again automatically running exactly. Partitioning. Got it. How about the rest of the pieces though? Doesn't it need other things to build the test? Yeah, we of course have audiences as we do in target. We have office two. If you have any audiences and offers already in Adobe Target, you can easily sing them up in work front as well, so you don't need to go ahead and recreate.
+
+00:27:14:25 - 00:27:38:24
+不明
+But if you want to recreate, you have an option for that to the same, the same complex way of, creating audiences like, you know, adding the logic operators of add an or include exclude all of that still exist. We can still make sure that we can create audiences and offers as we need it. But what if you want to just one division to not be able to create their own audiences?
+
+00:27:38:24 - 00:27:57:50
+不明
+Could you exclude them for that? Yes. That's where our access groups, our governance come into focus. We can easily partition. We can easily let know that, no, I don't want Ryan's team messing with my test. Ryan, you cannot access. I know I already doomed myself earlier by pushing it 100% and in three seconds, losing $100 million from Home Depot.
+
+00:27:57:52 - 00:28:24:21
+不明
+Yep. Thank you for not firing me. But this this this couldn't have just been flipped out overnight, right? It was not. It was a very methodical, phased approach, a crawl, walk run stage to make this happen. Don't worry about the flow and the diagram over here. I know it looks intense, but it's all done. Now. If you want to adopt this, you don't need to go through all of this.
+
+00:28:24:36 - 00:28:45:00
+不明
+The tool is ready. The tool is repeatable and configurable as you as you and your organization needs it. This was just the process at thinking about that, establishing experimentation as a business product. We had to go through this process to prove out to leadership that what we were building could work, but then it's going to help to drive value.
+
+00:28:45:05 - 00:29:02:55
+不明
+And so we had to go through multiple phases. Early pilot programs like you tell us a bit more about how that rolled out. Yes, there were three phases for us. Phase. Phase one was more proof of concept. Yes, we have this amazing idea, but is it even technically feasible to do it with the tools in hand? That's what we proved in this stage.
+
+00:29:03:00 - 00:29:24:39
+不明
+We had some early adopters internally look at it, play with it and help us figure it out. Is it what we wanted it to be? We used this demonstration to talk to our senior leadership, get the buy in we needed and help prove that how this could drive value. Then key phase two. We started adding features and capabilities that Home Depot needed.
+
+00:29:24:45 - 00:29:50:54
+不明
+In this case, it was audiences and offers. We also made sure we ran an end to end experiment into production, which helped us understand not just the technical feasibility of the tool, but also helped us map the process that needs to be in there to make sure this happens seamlessly. Then came phase three. This is where, as Ryan likes to say, all the magic began.
+
+00:29:51:00 - 00:30:11:56
+不明
+The guardrails came into focus, the guardrails about how, how to launch a test, the guardrails kind of like a checklist that everyone needs to go through before launching or even designing any test. It could be as simple as a naming convention to follow for a test name or as complicated as, you know, make sure the tests don't overlap.
+
+00:30:11:56 - 00:30:33:05
+不明
+Send us automated triggers if you see any of those, and these are all configurable as you need it to be, as your organization needs it to be. And us having experienced everyone trying everything to change a test or to subvert the system over the past 10 or 15 years, we had a lot of ideas already. We didn't need as much input from others.
+
+00:30:33:16 - 00:30:53:46
+不明
+If anything, we thought of things that they didn't. Yes, we knew all other tricks that our stakeholders could pull and break the system. We tried to break it on our own and iteratively kept improving and adding more guardrails to it. So this was a long journey embarked over the course of a year three phase of work, multiple rounds, early pilot programs.
+
+00:30:53:51 - 00:31:22:53
+不明
+But the great news is that target API and fusion API are the same for every company that doesn't change for Home Depot. It doesn't change for Starbucks, which means it's all very replicable for those fusion scenarios. So what we're doing now is what I think is really exciting. It's creating basically a extension off of your content supply chain to activate out to experience endpoints.
+
+00:31:22:53 - 00:31:52:28
+不明
+In this case with Adobe Target on site. And it can you can benefit from all the hard work and pain that Home Depot has gone through in a very short cycle for much less effort total. So just an example of how this could. Other companies are starting to take advantage of this to roll it out. We're actively involved with multiple different major enterprise companies across industries, and we're taking into account their individual feature and capability needs.
+
+00:31:52:28 - 00:32:12:42
+不明
+We talked about some groups shouldn't be able to build audiences. They should just be taking those audiences in from the experience. Cloud connections from CDP passed over. We don't want them to build those audiences. And the way that we've designed the fusion scenarios make it very components usable. So if you want to replicate this, you replicate the parts that matter to you.
+
+00:32:12:46 - 00:32:36:18
+不明
+But other companies are also looking to add on features. So we have some other major companies looking at recommendations, API, other capabilities, even other channels where this whole, fusion blueprint can now be applied, potentially to email, direct paid media, other areas where we could also automate. So think about this as you're establishing your business product for experimentation.
+
+00:32:36:23 - 00:33:00:54
+不明
+It shouldn't be tactical just on site. This is where you can grow your footprint. Experimentation and automation can happen everywhere centrally through workflow. As an extension of your content supply chain. Yep. So I think where does the rubber meet the road? What did this do for Home Depot? A perfect. So this is my favorite slide. I know Ryan is taking his time to reveal the numbers.
+
+00:33:00:59 - 00:33:32:19
+不明
+Okay, so the key benefits of this. We saw a dramatic increase in the test volume. Many more teams are willing to do testing with us increasing the impact of experimentation across the org. Now there is a streamlined process, a streamlined workflow. Now my team doesn't need to toggle between Adobe Target and Adobe Vogue front. There is one centralized tool that does both as process execution that is test setup as well, making the experience seamless, reducing the back and forth communications.
+
+00:33:32:24 - 00:34:05:06
+不明
+There is more ownership and accountability on the test requester. On the stakeholder side, which helped us a lot to mainly with faster test launches. We reduce the time and time we spent on the design and the development of experiments by 86%, accelerating experimentation cycles. The third one, oh, this is my favorite cutting down resource requirements by 83%. Again, this does not mean I started laying off people in Home Depot.
+
+00:34:05:11 - 00:34:32:47
+不明
+All I mean is we started redirecting these resources away from our repetitive task, away from these, back and forth communications and meetings into more meaningful work. Each of my experimentation analysts have a side projects or have projects like innovative sprints, which they can focus on along with working on experiments. It could be, improving our sample size calculator.
+
+00:34:32:47 - 00:34:58:37
+不明
+It could be contributing to our data automations, making it faster, making it efficient. It could be figuring out which other experiment type we could focus on. That definitely helped us a lot. One thing in this, though, which which I would like everybody to think about, is navigating this change with automation. And I though one of the perception that the team had was a poor one.
+
+00:34:58:37 - 00:35:21:23
+不明
+The team are automating a lot of things. Does this mean it cost my job? No, it was not so we were not laying off people. The job perception was changing. We were elevating. We were upscaling, sorry, UX upscaling, but not eliminating. That was the key idea over there. Oh, I know I've when I've been in that spot, I thought when someone started taking my job away from me that I like, the next step was me getting cut.
+
+00:35:21:32 - 00:35:45:05
+不明
+So. Yeah. How how did you help turn that around? I think it was more about awareness. The team knew why we were doing this, what we were doing and what was their contribution to it. They were aware about what next steps were coming their way. What exciting work was coming their way. Like, I remember team members saying, we are excited that we have something cool to work on.
+
+00:35:45:19 - 00:36:05:24
+不明
+We are excited that we have a nice bullet point to add to our resume now, which is not just facilitation anymore. They were excited about all of this. I know there is no way to quantify this, Ryan, but boosting team morale is one of the key benefit that I like to focus on over here. It also helps that we took all the tasks they didn't really like and automated it to.
+
+00:36:05:25 - 00:36:32:54
+不明
+Yeah. So but where do we go from here? So just because we've rolled this out, we've seen great benefits doesn't mean we stop here. And you've probably heard about it. In fact, I think they just changed the name, for the project. It's, Joe, Experiment Optimizer, where it helps to build hypotheses. So while this builds a test and we think about a content supply chain, we've got the offers being designed.
+
+00:36:33:01 - 00:37:02:11
+不明
+We need to help them craft a good hypothesis. So just like how there's a learning curve to building a proper test, the actual hypothesis, the KPIs with it also take some help. So we've been very excited to partner with the Adobe product team that's building out this component that will live in both Adobe Target, and also how that can help with uncovering opportunities for tests in terms of performance numbers, and then craft that hypothesis to guide these teams in.
+
+00:37:02:11 - 00:37:23:10
+不明
+And it can be partitioned from what we've seen down to individual divisions. So 45 different divisions can have their own specific view for the test performance. So we're excited in proving out this. And perhaps we'll be back here next year to speak about how we're able to get more people involved with building quality tests and not pet project tests.
+
+00:37:23:15 - 00:37:38:49
+不明
+I know I've had at least a few where someone says, I want to do a test on 20 people. So that's what excites me about this, because then all of the hundreds of KPIs that that approver mentioned that she runs on tests, and I don't think you illustrated this. It's not that she has an array that go to different tests.
+
+00:37:38:49 - 00:38:00:38
+不明
+She runs 200 KPIs that test stats for every test. We can put those all in and power that hypothesis generator to is what we're going to look to do. So one of the things Ryan, you remember I requested was it's not just about the idea generation. Of course, a great experiment requires a great idea. It's also about validating that hypothesis.
+
+00:38:00:43 - 00:38:22:46
+不明
+I don't know how many of, if you would relate with this. We have stakeholders who would come in with a hypothesis somewhere down the line, change the primary success metric, or change the hypothesis altogether while the test is going on. And it's just crazy. Validating that hypothesis beforehand and not mid-flight would be very helpful to us. And also in an automated fashion.
+
+00:38:22:51 - 00:38:53:10
+不明
+Totally. I just have no words for that one that I lost of words. So, my shameless plug ax was honored to be a part of this program to help support the design, the rollout phases, the testing process, the configuration of all the fusion scenarios, making sure that it would end up the right way in Adobe Target, but that all the elements inside Adobe Target were also coming back into work front in real time, with the full catalog or partial catalog, if we only wanted them to see certain things.
+
+00:38:53:15 - 00:39:15:20
+不明
+So here and you'll see the video running to actually shows it in action for how easy it is to click and drop down tests. But we went through all of the testing components, the different phases of work, and we'd be happy to, support you as well. So if there's any questions, we've got two microphones here. We'd be happy to talk, just openly here or even after the session with you.
+
+00:39:15:25 - 00:39:22:41
+不明
+But thank you.
+
+00:39:22:46 - 00:39:23:22
+不明
+For.
+

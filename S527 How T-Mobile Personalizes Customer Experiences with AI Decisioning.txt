@@ -1,0 +1,460 @@
+00:00:01:20 - 00:00:25:50
+不明
+Allowing us to be the time in which we are between you and your drink. We appreciate the time. We appreciate you being here and excited to talk to you. Awesome. So first we will flash the roadmap disclosure statement, as we always do with product talks. So not a guarantee of any future feature functionality, but in the spirit of transparency, we want to be able to show you what we're working on and what's coming.
+
+00:00:25:55 - 00:00:48:08
+不明
+So welcome everyone. We're so excited to talk to you about decisioning, what it is, why it matters, and how T-Mobile is making it real, and some stuff we're working on as well. I'm oh, I'm Anthony. I'm a senior product manager. Focus on now specifically focused on decisioning. And I'm on Enstrom. I'm at T-Mobile. I lead the digital store.
+
+00:00:48:08 - 00:01:16:16
+不明
+I do product strategy as well as business management, all things digital. Awesome. So showing our agenda. I want to first talk about T-Mobile's Digital vision. Then go into decisioning and overview of what it is and why it matters, and then talk about some key focus areas. So I ranking experimentation and decisioning expansion as well as what's next. And then I'll hand it over to Anya to talk about T-Mobile.
+
+00:01:16:16 - 00:01:43:19
+不明
+How we got here. Yeah. So you will hear the mantra from every employee to the CEO that T-Mobile is a data informed, AI enabled and digital first company. We aren't just a telco. We are connecting people with their world. And we're doing so in a hyper personalized way with smarter recommendations. At least we're aspiring to do our very best, and we're still on that journey.
+
+00:01:43:23 - 00:02:06:55
+不明
+We're customizing content in near real time with hyper personalization. We're taking efficiency and innovation and using that automation to redirect that energy to higher strategic projects, so that when we do reduce time to market or how we can operationally be efficient, we can spend it elsewhere, and that reduces our need for more headcount. But we can still do a lot more.
+
+00:02:07:00 - 00:02:25:38
+不明
+We also are optimizing the customer journey. Every touchpoint matters. So we want to make sure that no matter where you are in the journey with us, we're being, we're kind of identifying those friction points and making sure that we're addressing them along the way. And lastly, we want to reduce the cognitive load for customers. We want to have smarter recommendations.
+
+00:02:25:43 - 00:02:36:19
+不明
+So they're not having to hunt for what they want from us. But we're actually offering something to them before they even know they need it.
+
+00:02:36:24 - 00:02:57:42
+不明
+And what I love about this presentation is it's really the intersection of where T-Mobile and Adobe are making it realer and to life, which is our latest app. We released it last year around February, so it just had its anniversary. Very exciting, because what we did is we took 20 different apps and we consolidated that into one experience.
+
+00:02:57:47 - 00:03:15:20
+不明
+What the challenge also there in lies is that that's a lot of content to try to fit in one place, and especially a place like the home page, which I'm going to get into in a bit. But it's really designed to keep that kind of fluid experience with the customer, no matter whether they're starting their journey online or they're going into a store.
+
+00:03:15:20 - 00:03:38:41
+不明
+And in fact, one of the things that I'm most excited about, we just launched a new sales motion as of February in stores where if you're a customer looking to upgrade, you walk into that store and the retail wrap actually has you pull out your phone, has you opened the To Life app or downloaded if you haven't already logged in and walks you through the customer experience of of actually doing an upgrade online.
+
+00:03:38:46 - 00:03:59:46
+不明
+And this is a brand new experience for our customers. It's a brand new experience and sales motion for our in-store reps to go and navigate. But we're really excited because it really, truly embodies our digital first vision, and it's our kind of first step to at least taking that one customer journey and making it a very digital enabled, enabled experience.
+
+00:03:59:51 - 00:04:23:51
+不明
+It's the link between kind of our sales and our marketing channels. And now I'm going to pass it to DP to give us an overview on decisioning. Thanks, Hannah. So what is decisioning? It's choosing from an inventory of content to present to an end user to optimize a goal. For example, what's the best phone offer for my end user?
+
+00:04:23:56 - 00:04:52:27
+不明
+It can provide so many benefits, namely unlocking personalization. You can tailor your offer content to each individual user. You can drive efficiency at scale. You can automate the process of selection, saving time and resources for businesses, and you can drive market growth by leveraging decisioning effectively, you can result in increased brand loyalty, which can result in, in turn increased LTV for customers.
+
+00:04:52:31 - 00:05:17:01
+不明
+So I want to take a step back and talk about the actual process of decisioning. So there's two key components filtering and ranking. But first let's just set the context. So let's say that there is a user named Mark Aaron. And we want to personalize his experience by choosing three offers to put onto his homepage. So how do we do that?
+
+00:05:17:05 - 00:05:42:07
+不明
+First let's start with our offer inventory. That's our source of truth. Our full library of content that we have all of our offer stored. Then from that group, we might not necessarily want to say any three offers from this library's what I want. Maybe we have a pre-specified group within that inventory, which we call a collection of offers that we would then say, I want to pick from this specific group of offers to go into decisioning.
+
+00:05:42:12 - 00:06:08:12
+不明
+So that's where we think about our pre-calculated constraints. Then we might have some eligibility constraints. So maybe there's an offer that's specific for gold status members or subscription members. And let's say that Mark is neither of those things. So those offers will be taken out of the running to be sent to Mark as well. We might also have placement constraints or location constraints where offers are configured for specific locations, that maybe are not the homepage.
+
+00:06:08:12 - 00:06:24:50
+不明
+So those are also be taken out. There might also be suppression or capping constraints. And this is where it like fatigue management comes in where we might think about okay, if offer a I don't want an end user to see offer a more than three times a week. And let's say Mark's already seen offer eight three times this week.
+
+00:06:24:55 - 00:06:48:35
+不明
+That offer would be taken out of the running. So similarly those types of capping constraints would be met there. So after all of those layers of filtering, you go down from in this example, 500 offers down to 30 offers. So what happens now? Now we go into the ranking component. So now we apply some logic for our arbitration for selecting the top three offers in this example for that web placement.
+
+00:06:48:40 - 00:07:10:23
+不明
+In this example here we're using eye ranking. But we have other methods of ranking which I'll talk about later. But in this example here we'll use eye ranking to pick the top propensity offers the top three. That will then get shown on that web page. Within this example, we're looking at a web page, but I just want to call out that delivery of those offers can happen across any channel.
+
+00:07:10:28 - 00:07:32:11
+不明
+When I just pause and see from a quick show of hands. Does this make sense to everyone or are there any areas that we want to maybe I can go through it again if I don't see enough. Hands up. So how are we feeling about this? Okay. That was that was more than I expected. Okay. So we will we will move forward.
+
+00:07:32:15 - 00:07:54:42
+不明
+Get a room full of experts. Yeah, exactly. So leveraging, offer decisioning correctly entails a few key building blocks that then boil down into a few key questions. Who is the end user or audience? What we what might we know about that end user or audience that we can use to leverage and tailor our content to that user?
+
+00:07:54:47 - 00:08:17:24
+不明
+For example, here, maybe we know this person's a subscription member. Maybe we know certain interests that they have. What offer or content is best for this interaction? How are we thinking about our logic for selection, our ranking, and our eligibility that we might want to add here? When or where is the best way to have this interaction? What's the best channel for this interaction?
+
+00:08:17:33 - 00:08:42:58
+不明
+What's the best time for this interaction and why? What's the business rationale for this engagement? Overall? Decisioning addresses a lot of these business challenges. By having a few of these key components, we are able to leverage our real time customer profiles. We have a holistic understanding of each profile that we can then use to tailor our content and make sure we're personalizing and making our content relevant.
+
+00:08:43:03 - 00:09:10:45
+不明
+We have a centralized offer library, so we have a source of truth for all of our content to be housed in one place. We leverage the decisioning engine with those key components of filtering and ranking that allows arbitration to to be sourced centrally. And then finally we have cross-channel integration. So after we have selected the offer or offers that we want to send to the end user, we can apply that across any channel.
+
+00:09:10:50 - 00:09:29:59
+不明
+So now that we have an understanding of the high level, definition and use cases of decisioning, I want to focus in a little bit more on AI model ranking. But before I do that, I want to first talk about all of the methods of ranking that exist with decisioning. So first and most straightforward, we have rule ranking.
+
+00:09:30:03 - 00:09:49:39
+不明
+This is for those familiar called our priority scores where you apply a manual score to the offer at offer authoring. So you can apply any value here when you're creating the offer. And basically how this works is after you go through all of that filtration that I talked about, then when you go into ranking, it would literally look at whatever offers that are left.
+
+00:09:49:48 - 00:10:11:49
+不明
+What are the top ranking offers? And that would be the one that selected offer or offers depending on your use case. So this one's a little bit more straightforward. The second layer is formula ranking. So this is where you can apply. And you can think about dynamically adjust the weights of those offers that you've defined at offering time those priorities under specific conditions.
+
+00:10:11:54 - 00:10:30:16
+不明
+So you can think about things like if, my end user lives in Paris and I have a few offers that have the Eiffel Tower in the background, maybe I want to boost the ranking of those offers specifically so I can leverage things like profile attributes and that example offer attributes. Also in that example, or the context data.
+
+00:10:30:16 - 00:10:45:31
+不明
+So things that are coming in at the time of the request. For example, if I have some offers that are focused on warm weather products and the temperatures above 70 degrees where my user lives, maybe I might want to boost those offers as well, so we can think about things that are coming in at the time in real time.
+
+00:10:45:35 - 00:10:58:03
+不明
+And that's where formula comes in. Again, this is adjusting those priorities under those specific conditions. And then lastly we have intelligent ranking. And that's where our AI models come in.
+
+00:10:58:08 - 00:11:20:30
+不明
+So both of our AI models that we have in-house with decisioning rank offers based on their propensity to achieve the success metric that you define. They both employ employee goal based optimization, so they learn over time, to help, you know, drive your business outcomes. We have auto optimization, which is focused on maximize the overall return for your entire offer group.
+
+00:11:20:41 - 00:11:41:02
+不明
+So that's when you think about maximizing your overall winner. When you have an audience and you just want to find the best offer for that entire group. And we also have personalized optimization which maximizes the return per profile. So that's more of that 1 to 1 type of matching. We have a few recent developments in the space.
+
+00:11:41:07 - 00:12:04:19
+不明
+First custom metrics is it gives you the ability to define your custom optimization metric that you want the AI models to perform against. And then second we have lift measurement. So it's the way to visually see the difference between the explore and the exploit traffic of a model. To understand against your optimization metric, to understand the performance of those models.
+
+00:12:04:23 - 00:12:32:37
+不明
+So both of those are available today for our personalized optimization model for your customers. Something else that we're working on is our AI formula, builder. So what this allows us to do is very similar to the ranking formulas that I talked about earlier, where you can think about profile attributes, offer attributes and the context. You can manipulate all of those different things in the same way to think about adjusting your weighting of the offer.
+
+00:12:32:51 - 00:12:56:00
+不明
+But instead of just using priorities, you can now also use your AI score output. So what that means is you can assign your ranking score of any all offers of interest using the AI model, output the priority score. It propensity score that could be derived externally, that could live on the profile, or any static value that you could also place in here.
+
+00:12:56:01 - 00:13:15:22
+不明
+So that's all available in one place. And that will be coming out in April. So very soon. And with that, I will turn it over to Ania to talk about how T-Mobile is making this real. Yeah. Excited about all the things are coming. And to be completely transparent, we're not using it all. We're using some of the things, we're using some of them better than others.
+
+00:13:15:22 - 00:13:37:39
+不明
+And we're still on a very long learning journey with decisioning. And we also have different ways that we use it in app, and we use it on web. So those there's nuances that we're always kind of contending with. But today I'm here to talk about the TI live homepage optimization. We implemented a combo of the ranking including formula and intelligent ranking, and we think about content.
+
+00:13:37:39 - 00:13:57:06
+不明
+And when I was talking earlier about all the different teams that we have to support, you've got your, you know, prospect or your acquisition team wanting to see that best deal, the best iPhone deal you've got your your base customer team wanting to see that churn offer. You've got your big brand moment that wants to see their shiny thing at the top of the page.
+
+00:13:57:11 - 00:14:27:16
+不明
+And we've got to think about how our information architecture on the homepage has to interact with that. We use experimentation to pressure test and make sure that it's working as hard as we want it to. We also are trying to figure out, you know, if I'm going to put a bunch of the content in the top of the page and in to do the optimization on the individual modules versus start to think about how a one to end experience could look like, where content actually fluidly moves up and down based on personal and and customer interaction.
+
+00:14:27:30 - 00:14:44:14
+不明
+I think that that's a really unique way to start to decide whether or not you want to keep content categories, or you want to be able to have that flexibility for more 1 to 1. So we have a lot of work to do here. But in this particular case, we really wanted to drive higher engagement through those personalized experiences.
+
+00:14:44:18 - 00:15:08:55
+不明
+And we found that it worked. We saw a lift in engagement. We saw double digit growth in order volume. But we learned a lot along the way. And so that's what I wanted to spend a little time talking about today. And so the delicate balance around kind of that business prioritization or rule ranking versus, you know, having more of the ability for the model to kind of do the work for you.
+
+00:15:08:56 - 00:15:42:54
+不明
+It's it's a hard one to strike because at the end of the day, you have a lot of leaders that want control to see their thing at the top of the page. I've got my team here, giving me smiles because we know how that can be, and yet we want to really kind of let the model do what it's supposed to and actually use those behavioral signals to, give that content the right kind of place and priority as the model allows, instead of the actual, kind of putting it there because of decision or because of, the actual rule logic.
+
+00:15:42:59 - 00:16:04:18
+不明
+So the other lesson that we really learned is that it's only as good as your measurement system. We were very used to looking at orders and conversion to decide what worked and what didn't. And a couple things came out. Now we've got 20 apps and one, so there's a lot of content that we didn't really anticipate and needed to absorb into our measurement framework.
+
+00:16:04:33 - 00:16:32:11
+不明
+T-Mobile Tuesdays is measured very differently than our iPhone offer, measured differently than a benefit or even a service related message, or a network outage for that matter. So how do we absorb and take that into account and then also input that so that the optimization works? The way we need it to? And some of that does go back to the idea or the information architecture, where maybe you need a specific place for alerts and you don't want to necessarily put that against the iPhone offers.
+
+00:16:32:16 - 00:16:50:36
+不明
+So we really have created kind of some mechanisms to help us understand what that customer behavior is. Some of it goes back to actually letting the rules and the logic do the work, but some of it's also just doing a lot of UX testing and making sure that we watch the customers really interact with the app and with the experience, especially on the homepage.
+
+00:16:50:36 - 00:17:09:26
+不明
+That has to do a lot of work. The next thing we did was it was a mindset shift for our leaders who wanted control. We had been doing very manual prioritization, especially, on the on the homepage of our website. I want to see this offer in this spot, and I want to see that offer in that spot.
+
+00:17:09:26 - 00:17:28:16
+不明
+And I don't want anything different. And especially if our gapped to quarter numbers, we want to adjust accordingly. And we get that all the time with with T-Mobile, as I'm sure you're all familiar with that type of interaction as well. And so how do you get your leaders comfortable with this whole concept of letting letting the machine do the work?
+
+00:17:28:31 - 00:17:54:33
+不明
+And it's hard. It's been a lot of education. It's been a lot of thinking through. I learned a new term change activation. Thank you, Katie and Accenture. Typically I call this change management, but I like the idea of change activation because it's a little more inclusive of bringing everyone together rather than a top down approach. But that is so important to create a lot of visibility with how you're measuring and how it's performing.
+
+00:17:54:33 - 00:18:13:43
+不明
+And, you know, having sometimes the ability to obviously ab test against a non, you know, decisioning experience would be great. We didn't have that. So we had to kind of build that trust over time. And hopefully we will get to a point where we have a little bit more, flexibility on our AB testing, as my testers here would attest.
+
+00:18:13:48 - 00:18:42:24
+不明
+But alas, we do not yet. Number four was around scaling content. The machine is only going to be as good as how much content you put in, and it can't decision against what doesn't exist. So for us, it was really about how do we make sure we kind of think through how much content and what content and even the differentiation of content, because if I've got an upgrade offer and an Adeline offer, that literally could you could just say iPhone on us.
+
+00:18:42:24 - 00:19:02:10
+不明
+And it applies to both, but it doesn't really distinguish any level of personalization or speak to that customer's needs state. And so for us, it's how do we kind of expand and accelerate content to really think through different variations, whether that's an image or a message or all sorts of things that actually help us kind of navigate what what good looks like or how many.
+
+00:19:02:10 - 00:19:22:23
+不明
+I mean, I was even just talking to my VP this morning about is, you know, putting putting it into the machine learning on our top three cards on the homepage. Is it, is it 50, is it 200, is it a thousand? And we don't know yet. We're still trying to figure that out and trying to understand like how much variance it has to have in order for the machine to even pick up different signals.
+
+00:19:22:28 - 00:19:42:17
+不明
+So those are kind of some of the things I blurred a little bit of the lines between key learnings and what's next. But we definitely want to accelerate content and kind of see what the right threshold is. And then we also want to enhance those insights and think about macro learnings, because right now I feel like we're very focused on what did that piece of content or that type of content do.
+
+00:19:42:21 - 00:20:01:59
+不明
+And we really want to get to a point where we're looking longer term, over quarters or even years on what content does in kind of its seasonal moments and how does that change and shift? So how do we kind of pull ourselves up to the 10,000ft view is really important? Now I'm going to pass it back to you to talk about experimentation.
+
+00:20:02:04 - 00:20:05:19
+不明
+Some.
+
+00:20:05:24 - 00:20:30:48
+不明
+So there's a few different areas where experimentation and decisioning can play together. The first is content experimentation, where you can look at various aspects of the message or the offer itself and test against those two things. So for example, you could look at copy, you know, layout images, colors of a given offer or also test on separate offerings themselves.
+
+00:20:30:48 - 00:20:54:32
+不明
+In this example, we're looking at pieces of the offer that we're adjusting looks like colors. Some items here, to directly test in a content fashion. The next layers are. Rather than just decisioning or experimenting on content, you can experiment on the ranking methods themselves. So you could ask a question like, does my formula I form? Or does my formula perform better than my AI model?
+
+00:20:54:37 - 00:21:22:20
+不明
+Do either of those perform better than my priority ranking method? You can use decisioning and experimentation together to test which selection strategy or ranking method does better. You can now take it a step. Even beyond that, rather than looking at an individual experience, you can look at a layer of experiences or a set of experiences and directly experiment on how do these sets of experiences or journey paths perform against each other.
+
+00:21:22:24 - 00:21:45:26
+不明
+Those are their separate levels of experimentation. And now I get to talk about how to make it real. So we've got two use cases, two use cases that I'll go through today. In this particular decisioning experimentation. And the first is, is that the basic level? It's just content variance, right? I just wanted to see how many pieces of content I could put into the machine and see how it worked.
+
+00:21:45:26 - 00:22:09:29
+不明
+And in this case, we did over 50 variants of a of a travel offer. And the goal was to understand who it resonated with and why. Increased customer engagement, obviously. But in this case, we really focused on travel. And so what did we learn? We were surprised. Travel offers are consistently in our top five highest performing offers.
+
+00:22:09:29 - 00:22:30:35
+不明
+And I'm not just talking about in the placement that we have it, which is actually pretty low on our homepage for the TI live, it's it's performing really well across all of our different content types. Even iPhone offers and benefit offers like Starlink that we just launched a few months ago. So lots of really great learnings there. And now we're trying to say, okay, well, do we move that up the page?
+
+00:22:30:35 - 00:22:57:06
+不明
+Do we start putting travel offers into the top three slots and see if it gets even more engagement? Which is why testing is so fun? We really think that it's an opportunity for us to not just test things like travel, but across our whole content portfolio. So what did we learn? We learned that kind of cross-channel, we, we could validate results in one channel and carry those over to another.
+
+00:22:57:11 - 00:23:14:19
+不明
+We also adjusted the experiment, actually, before it even started, with channel specific capabilities that are different for us between web and app. So how do we structure the tests so that we can modify it, get the right learnings, but not necessarily say that, oh, we can't do it the same in both spots, so we're not going to do it at all.
+
+00:23:14:19 - 00:23:42:11
+不明
+So making those adjustments ahead of time to make sure that we were getting the right information on the, on the output. And then last we overcame channel limitations, with strategic adjustments. So if we weren't able to do something in a certain way, how could the experiment pivot and not stick rigidly to a test plan? How could we, if we you know, instead of removing the channel altogether, how we found creative ways to make it work.
+
+00:23:42:11 - 00:24:12:15
+不明
+And so just being flexible was a really important part of the process. And then where do we go from here? Expand creative testing. Obviously we did it with travel offers. We had a lot of other content categories that we can move into. We also want to explore other journeys and other channels that we can expand into. So we have obviously other channels like email, SMS, push, those are and I get to talk about that next, but those are other channels that we could also think about more of an end to end journey for the customer and meet them where they are.
+
+00:24:12:20 - 00:24:37:51
+不明
+And then lastly, taking propensity model. So making more predictive analytics as part of our actual, experimentation is kind of a next step forward to. So I go right into the next one. So now this is one that I'm super excited about because this was our really first foray into looking across kind of multiple channels and deepening a program that already existed.
+
+00:24:37:51 - 00:25:00:03
+不明
+We ended up taking a Tiger team and having them, you know, really think about how we could do this fast, how we could do this effectively. And we had an abandonment, email program, like many of you probably do, as well, as well as, web, content that would show up, but our web would optimize over here and our email would optimize over there.
+
+00:25:00:03 - 00:25:22:46
+不明
+And they didn't really talk to each other. So this was an exciting kind of distinction, is not only bringing the analytics and the cross journey where you've got now app in-app kind of cards and messaging, you've got web, you've got email as well as you've got your push notifications that are all talking to each other. And we also expanded the type of content that we included.
+
+00:25:22:46 - 00:25:52:50
+不明
+So instead of just cart abandonment alone, we did browse abandonment, shop abandonment. And then ultimately, you know, if you didn't check out. And so that really gave us opportunities to talk to customers in different ways and in different parts of their journey, so that we could customize the messaging accordingly. And obviously most of it was to increase engagement, but ultimately we wanted to also see upgrades and add ons increase, which was the primary kind of use case that we we put to this task.
+
+00:25:52:55 - 00:26:19:44
+不明
+And results were were great. We saw lifts up to 63% and a double increase in our weekly order volume. So everyone is very happy. And T-Mobile land and wants to see it grow to other journeys and other content types. But what did we learn? Similar to my previous learnings, we leveraged each channel's unique value. So in places like web and email, we used rich content and rich imagery to really kind of sell the story.
+
+00:26:19:44 - 00:26:43:07
+不明
+Whereas a push notification, a lot shorter footprint of what we can tell customers. So we have to really, urge urgency. And then we followed the customer where they went. So when you think about the targeting logic, we made sure that it was fluid across all of those channels, and it moved with the customer profile and then letting customer signals drive that adopted adaptive messaging.
+
+00:26:43:07 - 00:27:03:35
+不明
+If we learn something from the customer, we actually changed the messaging in the next touchpoint that they got so that it could be adaptive to how customers interacted with all of those channels. And so if they and also if they were able to get more or we started to see more customers interact with, say, push notification, we sent more traffic there.
+
+00:27:03:35 - 00:27:29:29
+不明
+So that's really where kind of decisioning allowed for that flexibility and scaling in certain experiences that we're doing better than others. And then what's next? So refining and testing content is always a part of it. We are a continuously optimizing engine. We never well, we don't never. But we often, as much as we can in digital, try to not set and forget so that we can we can eke every little experience and make it a little better.
+
+00:27:29:34 - 00:27:49:07
+不明
+And then we also want to incorporate more channels. One of the things that we considered at the beginning was adding some of our paid media, and we found it to be a little too complicated, complex. It added an additional partner team to go and navigate. So for us, that was to to really kind of prioritize speed to market and quicker learnings.
+
+00:27:49:07 - 00:28:07:17
+不明
+We decided to kind of pull in and only have the four channels that we did with the idea that we would expand to more channels at a later date. And then, of course, lastly expanding to other journeys. We we sell insurance. We obviously have travel offers. We have, you know, ways that we want to go and deepen customer relationships with our benefits.
+
+00:28:07:21 - 00:28:28:45
+不明
+So there's a lot of opportunity to kind of extend, all of the great learnings and experiences we had with this abandonment journey optimization. And with that, I'm going to pass it on to talk about AJ, ODI, which is the new cool thing. Thanks, Sonya. So yes, for that third focus area that we want to talk about is AJ decisioning.
+
+00:28:28:45 - 00:28:57:14
+不明
+AJ, I'm sure there's been a few different acronyms of this in some conversations, but this is our next generation of decisioning within AJ. So it was conceived for two key purposes. One, to lay the groundwork of new content objects beyond just offer. So moving into things like products, content, calls to action, things like that to to unify the workflow between decisioning and AJ at large.
+
+00:28:57:22 - 00:29:23:42
+不明
+So specifically looking at that selection and kind of separating selection from rendering and unifying rendering with campaign authoring and journey authoring. So what can you expect to see today with AJ one, you can find schema based item catalog management. What does that mean? So for those familiar with offer decisioning you might have to create, you know, manually create new attributes with every new offer that you're creating.
+
+00:29:23:51 - 00:30:01:48
+不明
+And with every new offer you have to recreate those attributes again. So rather than having that, we have a centralized way of managing the schema of an offer, and that will reflect in all new offers that you create. We have robust collection rules. So rather than having to manually tag or assign, a group of offers that can be brought into a collection for decisioning, you can use all of the custom attributes and standard attributes that already exist on the offer, and apply any sort of flexible logic to tie those things together so you can use the information that's already there, rather than having that manual step.
+
+00:30:01:53 - 00:30:36:34
+不明
+We have these new constructs called a decision policy and selection strategy within. The takeaway here is that a selection strategy, which is a collection of ranking method and any sort of eligibility criteria you might want to add is location agnostic, meaning you can create this reusable component, save it in an inventory, and then pull it in to use against any location that you create, rather than again, for those who are familiar with offer decisioning, it's more tied to a specific location, and you have to rebuild that every time.
+
+00:30:36:34 - 00:30:58:31
+不明
+So the selection strategy is new. It's the ability to keep things reusable and to allow you to have more flexibility with where you place this decisioning logic. We have our code based content authoring workflow. That's our first channel that we're debuting in. And we'll have some more thoughts on that to come. Within the session. And we have experimentation within decisioning.
+
+00:30:58:31 - 00:31:18:28
+不明
+So I know we talked about that a little bit earlier, but that ability to layer in decisioning, whether it's the offer level or the ranking method level and be able to test those against one another. And with that, I'll hand it over to Anna to talk about how God is playing a role at T-Mobile. So subscription marketplace automation.
+
+00:31:18:28 - 00:31:40:11
+不明
+This is a pain point for a lot of my operators here in the room. We we have a lot of ways that we bring content to customers. And in this particular case, subscription marketplace, it's slightly different for every one of our customers. And with whether you're on a certain rate plan or you have certain attributes in your account, you're eligible for different things.
+
+00:31:40:11 - 00:32:09:57
+不明
+So this was a way that we could take dynamic merchandizing and make that real with a Jody using, you know, the AMM based content, but also then layering on customer profiles and making unique experiences. And in this case, we powered five different campaigns that served kind of those different customer profiles. We grouped them five ways, and what that would have normally done is obviously we would have had to manually, you know, cater and merchandise to each of those five different experiences.
+
+00:32:09:57 - 00:32:29:19
+不明
+And this allowed us to dynamically merchandise the content that was eligible, giving us both opportunity to drive engagement with things that they might not otherwise known about. And so it's more of an education and awareness for what they're eligible for. And it also gave us an opportunity to upsell when they were maybe on a non paid version of a subscription.
+
+00:32:29:19 - 00:32:43:35
+不明
+So really, really a lot of great opportunities to kind of broaden the portfolio of content that we put in front of customers outside of just your device that most people recognize and think of carriers for.
+
+00:32:43:40 - 00:33:07:11
+不明
+And we saw engagement increase. We saw great customer retention and stickiness from the activity. They they stayed longer. They found more value in the benefits and their subscriptions that they had access to. And then what did we learn along the way? This centralized approach broke down silos. We had multiple locations that we talk about benefits. And to be fair, we probably still have some work to do.
+
+00:33:07:11 - 00:33:30:38
+不明
+I keep looking at Gw1. We had some work to do to kind of help, even bring those down further. But what this does is allow us both on web and app. So two of the locations have these experiences be dynamic. And we created a forum for all of our partners that do, kind of have a hand in creating the different portfolio of benefits and offers.
+
+00:33:30:38 - 00:33:55:41
+不明
+We have to have kind of rules and governance and ways that they can display content and have a bit more education on kind of decisioning at large. I already talked about this, but we consolidated all those experiences into one that increased our ability to have more time to focus on other things. We love that because the last we can do mundane tasks, the more we can do strategic opportunities.
+
+00:33:55:41 - 00:34:15:43
+不明
+And so that's a big, big win for the team. And then we really had to prioritize data hygiene because all of these experiences were powered by our, our CDP. And so making sure that that was exactly the way we needed it to be, and it was pulling in the right information. So those experiences were legit. For their eligibility.
+
+00:34:15:54 - 00:34:33:45
+不明
+It was important to get that right. So if I, if I have anything data is king and is very powerful tool. So make sure that you're you're paying a lot of attention to it. And then what's next. We want to test the personalization level because our, our five profiles. Right. Or is it ten or is it 20.
+
+00:34:33:54 - 00:34:55:26
+不明
+Is it 1 to 1. So there's a lot of opportunity to think about expansion here and how you know what is the right ROI for the level of personalization that we want to get to. We also want to scale this type of dynamic content to more experiences, so that we can really kind of deepen that customer relationship with getting the right information to the customers based on kind of them.
+
+00:34:55:26 - 00:35:29:39
+不明
+Because I think sometimes we get into these situations where we we treat, the customer as kind of, oh, all of these folks in this genre are eligible for an upgrade, but we might be featuring content at what we, what we call a band level, which is the account level, not necessarily unique to everyone's line. And so there's ways that we can deepen that sophistication in different experiences so that we can really customize and tailor the message so that it resonates with them, and it makes them feel like we're talking to them, as opposed to talking to just any customer.
+
+00:35:29:43 - 00:35:51:01
+不明
+And lastly, additional channels. So web and app are where this lives now. But we could see expansion of this and more of that kind of full end to end journey and meeting the customer where they are, whether, you know, we want to talk to them through email or even taking the signals of of how they interact with an email or SMS or a push and feed that back into what we end up showing them on these pages.
+
+00:35:51:01 - 00:36:23:25
+不明
+So lots of opportunity to continue to kind of test and optimize. And now what's coming next. Tell us 50. So what is coming next in decisioning. So I know we talked about code based experience being our first channel that is supported in. We're working on building in additional channel support to get to that parity with offer decisioning starting with email channel coming soon, followed by push web, etc. we are investing heavily in our AI models, so I talked about a few of the enhancements that we had recently.
+
+00:36:23:36 - 00:36:53:43
+不明
+We're also working on general performance improvements, etc. we're working on decisioning on journeys and journey paths, and I'll talk about a little bit of what that looks like. And lastly, we want to expand our content catalogs. Moving beyond offers into products, calls to action, etc.. So what are we ultimately working towards? When we think about an interaction, there are several questions to consider which you may remember me saying from the beginning who is the right person to engage with?
+
+00:36:53:48 - 00:37:16:06
+不明
+What's the right content? Is it an offer? Is it a product? Is it something else? What's the right delivery method or channel for this interaction? And when? What's the right time for this interaction and why? What's the business rationale for this type of engagement? We want decisioning to optimize the who, what, where and when. As long as you know your why.
+
+00:37:16:11 - 00:37:40:23
+不明
+So what does that mean exactly? We want to bring decisioning beyond just offers across all the way to journeys so we can optimize for the next best insert experience here at scale for any interaction. So what does that mean specifically? I talked about Journey Path a little bit earlier, and I think I talked about that a bit in the experimentation, method.
+
+00:37:40:23 - 00:38:03:53
+不明
+So we might think about what are these different paths and how can we test against them one another to understand the best path to move a user down. But we can also layer in decisioning here, so we can automate the selection of any one of these paths and customize that for each individual user. So we can layer in when we think about nodes using actions wait times, we can put offers in any of these nodes.
+
+00:38:03:53 - 00:38:32:55
+不明
+We have a lot of flexibility here where we can layer in these experiences. We also want to go a step, I guess a step higher up from that. So rather than looking at the paths themselves on the journey canvas, we want to be able to arbitrate between journeys themselves. So if we had a constrain, for example, if I said I only wanted a user to enter one journey per week, and let's say that user was eligible for several journeys, how do I make the decision of which journey that user should go down?
+
+00:38:33:00 - 00:38:49:09
+不明
+So right now we have priorities as a way of arbitrating between journeys. But we want to bring in these additional decisioning components such as formulas and eye ranking, as a way of intelligently arbitrating between these types of journeys.
+
+00:38:49:14 - 00:39:16:19
+不明
+So when we kind of think about the entire spectrum of optimization across AGL, we really want to infuse intelligence at every inflection point within the customer's journey. So thinking about journeys, which we just talked about, bringing that down a level into journey paths. So a selection or grouping of experiences going a step below that into channel optimization. So automating the selection of a channel for a given user, going a step below that, thinking about messaging.
+
+00:39:16:19 - 00:39:38:01
+不明
+What's the best message for my end user. And then going even more granular to our focus of our discussion offers what's the best offer in a given interaction? We want decisioning to be able to flow through from the very top to the very bottom. So with that, we want to do a quick recap and I'll let you talk about some key takeaways.
+
+00:39:38:06 - 00:40:10:41
+不明
+So bringing it home a bit, these are some of the macro learnings because we talked about a lot of use cases. We use decisioning in a whole lot of ways. And these are kind of like the top five themes that really came through. Automation drives better experiences and efficiency. Not rocket science but truth. We we really found it to be true where when we took our hands off the wheel and we were allowing the machine to do the learning, it gave us the opportunity to increase engagement, increase orders, and really flow through to the outcomes that we were looking for.
+
+00:40:10:55 - 00:40:34:23
+不明
+But then also give our time back to our hands on keyboard and our strategists to think about different things to do and different things we can go and experiment and expand on so that was that was a huge learning across a lot of these different takeaways, and then finding that balance between the business priority and letting the machine and the customer behavior dictate what goes where.
+
+00:40:34:28 - 00:41:00:12
+不明
+It's a continued continuous journey for us at T-Mobile. We have a lot of leaders who like to see their thing at the top of the home page, and we still struggle with kind of getting getting through, breaking through on how and when that should matter. We have AI decisioning or we have the the homepage as an example, thinking through ways where if it's an Apple new product introduction in the fall, we darn well better put that Apple iPhone at the top of the page.
+
+00:41:00:12 - 00:41:24:28
+不明
+And we know that because that's an OEM commitment. But we also have moments in times where below that experience, we can kind of talk about things that are more additive and let the decisioning actually power the experience. The third is really success requires amazing success or measurement frameworks. We really need to think through what success looks like, and that can be dictated by many different content types.
+
+00:41:24:28 - 00:41:57:52
+不明
+And so finding a measurement framework that's flexible enough to embody some of the things that aren't necessarily related to order strictly, my team focuses on on sales and activations when it comes to the digital experience, whether it's web or app. We also have to think about those big brand moments and Magento status, or T-Mobile Tuesday, and things that definitely don't have as tangible of a sales goal attached, but are really about creating that customer stickiness and thinking about us as more than just their carrier and more about connecting them to their whole world.
+
+00:41:57:57 - 00:42:16:40
+不明
+And decisioning is only as good as the amount of content and the amount of testing that you do. Right? You're not. I mean, we're even in our kind of nascent journey of what all we can do with decisioning. We've been using target on our web for years and years and years. But this is new product, new opportunity, new ways of thinking and new ways of presenting content.
+
+00:42:16:45 - 00:42:36:41
+不明
+So we're really we're really excited to figure out how to do this better and with more, so that we can have a lot of that variation and understand better how like how different even the messaging needs to be on a single offer type in order to really get those learnings and the behavior signals to actually make the machine learning and present different things.
+
+00:42:36:46 - 00:43:21:02
+不明
+And then last again, new favorite terminology change activation. Critical. You need ways to train, to educate, to really kind of, to get and drive that adoption, ways to prove the value of the things that we're doing. And so this is also something that, T-Mobile doesn't always do a great job at investing in, but it's so, so very important and so kind of my my last word to you all is please invest in change activation, because in order to get everyone on board and to really kind of be able to drive the level of engagement and adoption for something like AJ Khaled, you need to create kind of that, that journey for
+
+00:43:21:02 - 00:43:44:01
+不明
+even your internal employees and your, your stakeholders and leaders to really get on board as well. So with that, he's going to talk about what's next for you. So awesome. I know we said a lot of things in the last hour. So what do we do with all of this information? So for those of you who are familiar with decisioning and agile, please explore our model capabilities.
+
+00:43:44:01 - 00:44:15:56
+不明
+Try out and experiment and try to layer in decisioning and see how that goes. Try out a geo decisioning to try to understand the functionality of our next generation of decisioning, and be able to have a voice in our future product roadmap and give us live feedback. For those who have not yet explored decisioning, please peruse our experience documentation to really understand how decisioning can help drive your workflows and help you unlock personalization, drive efficiency, and futureproof your marketing.
+
+00:44:16:01 - 00:44:39:43
+不明
+And with that, have to plug the survey. So please submit the survey for a chance to win one of these session prizes or the daily grand prize and we will be taking all questions after the session. So to give everyone a chance to go to the mixer. But, thank you so much everyone. Thank you.
+
+00:44:39:48 - 00:44:40:10
+不明
+For.
+

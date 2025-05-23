@@ -1,0 +1,460 @@
+00:00:00:21 - 00:00:24:43
+不明
+Welcome, everyone. Good afternoon. How are you doing today? Good. All right, all right. Thanks for joining us. My name is Stephanie Simmons, and I'm a principal product manager here at Adobe. I'm focused on our customer journey management, B2B applications, and that includes Adobe Journey Optimizer, B2B as well as Marketo Engage. And a fun fact, you know, I've been on Adobe over six years or actually almost six years.
+
+00:00:24:55 - 00:00:43:05
+不明
+And this is my first summit. Is there anyone here at summit for their first time as well in the room? Okay. I'm not alone. Yeah. Okay. We're all together in this. So two presenters with me today, and I'm going to have them introduce themselves. Hi, everyone. I'm Richard. I lead the technical implementation of marketing solutions at AWS Marketing Technology.
+
+00:00:43:10 - 00:01:05:22
+不明
+That includes driving the technical strategy, architecture, design, product innovation, and also making sure that the process that we developed, adopted by our marketers across marketing. And a fun fact about me, actually. I joined Adobe Summit for the first time last year, and that was actually the same day when I joined the AWS marketing team. And it's in that summit that I thought, I'm going to come here next year, present on the stage about implementation.
+
+00:01:05:33 - 00:01:32:22
+不明
+And here we are leading the dream. Awesome fortune. Good afternoon everyone. I see a lot of familiar faces in the crowd and a lot of new faces as well. Thank you guys for coming to our session. I'm Courtney. Toby, I'm a senior manager in marketing technology consulting for Deloitte Digital. I'm a five times Marketo champion, Marketo Certified Solutions architect, and I have 12 years of B2B marketing experience.
+
+00:01:32:27 - 00:02:00:21
+不明
+So I'm really excited to be here today and share a little bit about the work that we're doing at AWS. Awesome. Well, in our session, we're going to cover ABM, which is also known as account based marketing and buying group orchestration through a B2B ad AWS. So let's get started. So in the next hour or so, we're going to explore how AWS, with the help of Deloitte and Adobe, implemented agile B2B for their customer journeys.
+
+00:02:00:21 - 00:02:27:31
+不明
+For B2B audiences. I'm going to start with a very high level B2B overview, but then we're going to dive into the journey that AWS has taken towards account based marketing. Then we're going to dive even deeper, and we're going to examine their use cases for marketing, personalization, and then hopefully get some insights from that implementation experience. And finally, I'm going to highlight some B2B, AI and genetic highlights from our roadmap.
+
+00:02:27:36 - 00:02:49:06
+不明
+But before we get started, I want to ask a couple of questions. How many of you made it to the combined roadmap session of Marketo? Engage in a B2B yesterday with Niranjan and Badshah. Raise your hand. Okay, some of you. Some of you. Now what about the dedicated agile B2B roadmap session yesterday with Mitch and Ambika? Okay. About the same.
+
+00:02:49:06 - 00:03:08:18
+不明
+Maybe a little less. And then what about the B2B reimagined keynote that just happened earlier today with Raj and Kershner, a lot more of you. Great. So I can skip this part, right? You know all about it. All right. Well, for those of you that didn't make it, let's dig in. So at Adobe, we have a lot of conversations with our customers.
+
+00:03:08:18 - 00:03:38:56
+不明
+And we know B2B enterprises are facing a lot of change. They're shifting leadership, right. We all experienced that shifting teams. We've all experienced that in shifting technologies. And so in our conversations, we're finding three key themes that are coming out of it. Our organizations are really focused on achieving greater profitability and growth. You know they want to step away from that standard old sales driven model, accepting new channels but still having to balance tighter budgets.
+
+00:03:38:56 - 00:04:04:03
+不明
+Right. We're all know where the motto is do more with less these days, right? So in order to do that, you're probably going to have to integrate and connect your new and old systems. And in the meantime, marketing and sales want to manage this across the entire customer lifecycle. That means from acquisition to upsell to cross-sell and retention.
+
+00:04:04:08 - 00:04:28:57
+不明
+So, you know, Adobe is really focused on making a solution for this. And at the heart of our solution, we want to provide you a broad view of your accounts. Who are the players? What are the products? What's their usage? What about the health? Really a total 360 view. So we are focused on providing and creating a unified go to market platform for account orchestration.
+
+00:04:29:02 - 00:04:54:25
+不明
+And our goal is to help you unlock insights that have been previously trapped in silos at the heart of the solution. We do have our Adobe Customer B2B model, as well as rich first party data, and then we bring in that AI journey content and insights, or trying to bring marketing and sales together around these journeys to help engage customers more effectively.
+
+00:04:54:39 - 00:05:24:52
+不明
+And this is all built on the power of what the Adobe Experience platform and B2B optimizer is. That solution. There are five key characteristics and capability pillars of B2B. The first is buying groups and accounts. We want to help you create buying groups. We want to help you align those with your offerings. And we want to help you actually automate assembly of those buying groups.
+
+00:05:24:57 - 00:05:55:46
+不明
+Then we're going to bring in journey orchestration. How can we help you create tailored journeys for those buying group members? You know what. That's going to require content and personalization. Having personalized messaging is critical, very critical for buying group conversations and maximizing those conversations. We bring in sales intelligence and coordination to provide your sales team with qualified marketing buying groups so that they can accelerate sales and better engage with your customers and accounts.
+
+00:05:55:51 - 00:06:23:22
+不明
+And finally, we bring journey Insights in to provide you with, dashboards. You can analyze those customer journeys and make better decisions going forward with your account progressions. So with that, I'm going to pass it to Ruchi to dive into the journey to ABM at AWS. Thank you Stephanie for setting the stage for B2B l am. Now, before I start sharing my journey, all the B2B marketers in the room give me a shout.
+
+00:06:23:27 - 00:06:48:46
+不明
+All right. Oh. All right. So tell me honestly, how many of you are still targeting individual leads while trying to sell to an enterprise? All right. Well, it's not a test. So congratulations. You all passed. Now, how many of you are tired of not hearing back from your customer? Do you still blindsided when you do not know who in your sales team should reach out to?
+
+00:06:49:01 - 00:07:15:13
+不明
+When they need an influencer? They need a DM to make a decision. Well, at AWS marketing, we are working with Adobe and Deloitte Digital to go on an transformational journey to transform the AWS marketing. I'm going to walk into the journey that started a year ago here at Dhoby Summit, where we decided to implement Adobe Experience Platform and Adobe Journey Optimizer to have the evolution for AWS marketing.
+
+00:07:15:18 - 00:07:44:42
+不明
+Now, before I share the journey, how many of you are AWS customers? Great. And let me tell you, those who did not raise the hands. You might not know that the company is actually using AWS in the back end. Now AWS is the leading cloud service provider on the planet. We have more than 200 fully featured services available in more than 20 categories compute, storage, databases, networking, artificial intelligence, machine learning.
+
+00:07:44:45 - 00:08:11:17
+不明
+Satellite gaming. Internet of data. Internet of devices. And I'm not going to name them all. Well, you can find that on the internet, but we have more than 800 generally available instance types that are available in 36 regions globally. We have more than an EC2. We have more than a million active customers every single month, and a partner of 140,000 sales partners that are in 200 countries across the globe.
+
+00:08:11:22 - 00:08:43:39
+不明
+Now, this gives you some idea of the complexity and scale of AWS services, but this also establishes the need, the requirement of having robust systems, extensive content management systems, and those structured data management systems. So marketers, thousands of them, who are sitting again across the globe, who are maintaining and updating our digital presence effectively, these thousands of marketers are creating the content to scale our message across the globe on different touchpoints that we have with our customers.
+
+00:08:43:44 - 00:09:10:34
+不明
+Now, as a leader in the AWS marketing technology org, it is the mission of my team to ensure that these customers, these these marketers are successful in their mission. We constantly strive to deliver on our Northstar, which is to provide them with the intelligent, scalable, highly available marketing technology solutions. So these customers of ours, which is marketers, they can deliver personalized, omnichannel learning to our customers at every single touchpoint.
+
+00:09:10:39 - 00:09:31:00
+不明
+We innovate on behalf of our customers. And as you all know, Amazon is a customer obsessed company. It doesn't matter whether it's internal customers or external customers. And for marketing technology team, our marketers are the customers. So we constantly, constantly innovate on behalf of them. We build and operate these interconnected tools so marketers can do their job efficiently.
+
+00:09:31:04 - 00:09:57:40
+不明
+But it is easier said than done. Not because technology is difficult, but B2B buying is a complex decision. Now tell me again by days of hands, how many has bought a new car recently? Or planning to buy a new car? Maybe the next six months or one year? Okay, just a few. Well, I've been trying to buy a new car for quite a while.
+
+00:09:57:45 - 00:10:20:39
+不明
+My husband is a car enthusiast. He wants to have everything in a single package. The engine, the sound, the the custom rims, the V8 from the turbos. On the other hand, I like to go on long trips. And for me, comfort and safety is paramount. And then I have two teenagers. One of them is almost an adult.
+
+00:10:20:43 - 00:10:50:55
+不明
+They want the latest and greatest infotainment in the car. All the touch screens and the high sensors. Well, you can imagine it's so difficult to please this set of decision makers with one simple, that simple buying tech buying solution. Now imagine the dilemma. If it is scaled to a fortune 500 or a fortune 1000 company, when these very decisions actually can make and break, the existence of your entire company can decide the future of your company.
+
+00:10:51:00 - 00:11:14:22
+不明
+There are multiple decision makers when it comes to tech buying. When you have your VP of I.T. Was probably looking for scalability, compatibility with your existing systems, performance, availability and all the other fancy words that ends with it. That's what they need, right? Your finance leader is looking for low cost for long term pricing, for high return on investment.
+
+00:11:14:27 - 00:11:36:16
+不明
+Your business and your marketing leaders. They are looking for scalability in personalization and analytics. And also, how do the features of this product actually lead to your use cases? How do they align with your business goals? And then there is always legal and compliance. They want to make sure that your data is adhering to those regulatory standards. GDPR and right to be forgotten.
+
+00:11:36:21 - 00:12:06:15
+不明
+There are so many decision makers involved in today's decision in today's tech buying that it is very, very challenging for the marketers to actually build that cohesive journey that addresses the individual needs of these decision makers. We have disjointed data systems because of that. Imagine a VP of ID and head of marketing who is actually searching for the same AWS solution, receiving conflicting messages just because there are silos and data sources.
+
+00:12:06:19 - 00:12:39:27
+不明
+On top of it. There are decentralized structures. There is lack of unification of data. There are different goals because teams are siloed. There are business unit, there are marketers in the field marketing. Then there's industry marketing. There's enterprise marketing, and everybody is working on their individual campaigns and goals. That leads to this fragmented customer journey. On top of it, there's another compounding problem, which I don't have on the slide, but marketing and sales most of the time actually, they have a disconnected funnel, right?
+
+00:12:39:28 - 00:12:43:52
+不明
+They don't talk to each other.
+
+00:12:43:57 - 00:13:02:26
+不明
+Many times marketing actually starts with a very broad approach that goes to really wide net, where we want to touch every lead, every individual. For example, all of you sitting in this room are probably now a leading Adobe database, right? When you go to a booth, you scan your badge, you get a cool swag. You are actually becoming a lead in their database.
+
+00:13:02:31 - 00:13:22:18
+不明
+But are you the decision maker? Are you going to make the decision to buy the technology, which is probably going to cost millions and millions of dollars for a company and can actually decide the future of its very existence, or how it is marketing? Probably not. But this is where marketing starts, and that's where the usually the focus is for the marketing orgs.
+
+00:13:22:22 - 00:13:46:25
+不明
+Now, on the other end of the spectrum, we have account based marketing. In this approach, the business entity is usually considered as a whole. The personalization happens at the account level. Now you have too many people who are belonging to the same company. They probably become a part of the same account. So when a marketing comes in target the customers at the account level.
+
+00:13:46:30 - 00:14:08:51
+不明
+You target everybody and you do not know who is the one who is actually going to play a key role in deciding what to buy, when to buy, and what is the dealbreaker. So is there a better approach? Is there a better way which combines the existing lead based and the gone based strategies, and actually work hand in glove with the sales?
+
+00:14:08:56 - 00:14:35:42
+不明
+And not to mention sales does not follow the lead approach or the account approach. Sales work. Usually with direct outreach, they work with key decision makers or with procurement teams, and they usually rely on calls, probably not on emails and not on scanning the badge, but 1 to 1 emails, maybe discussions and meetings and demos with a selected set of people, and then they decide on the go to market motion for their specific product pipelines.
+
+00:14:35:47 - 00:14:58:48
+不明
+Now, Adobe believes that the answer to this is buying groups. So how does this work? The buying groups is actually the missing link that combines the best of both worlds. You get all the leads. You create the demand. You create awareness. From an event like this. You get all the leads into the system and once they are bought into the system, you actually create a different account.
+
+00:14:58:53 - 00:15:30:25
+不明
+And using Adobe Journey Optimizer be to the edition, you can actually form buying groups based on the role templates that you can create in the tool itself. And we're going to run through a demo later in the session. But buying groups is the missing link between these two strategies that can actually lead to greater collaboration between sales and marketing, because now marketing can actually focus on these high value targeted accounts, and only on the specific people that actually do matter in the decision making.
+
+00:15:30:30 - 00:15:55:12
+不明
+Now, while standing on their own. Yes, lead based marketing does matter because that's where you start. That's where you operate at the top of the funnel. And the account based marketing also may work for small businesses, where you have probably centralized mechanisms for decision making, and you may have a select few people who are making the decisions. But for big enterprise companies, fortune 500 or 1000 companies buying group is the way to go.
+
+00:15:55:17 - 00:16:25:57
+不明
+So how are we doing it for AWS? Now, I do want to point out that moving from lead based and account based to a totally new way of marketing needs a paradigm shift. It's a different way of thinking. If I'm targeting to have 100 people in this room versus I need to have ten decision makers in this room who can actually go and talk to their agent, talk to their partner, and talk about how we can how they can buy will be doing AWS.
+
+00:16:26:02 - 00:16:56:55
+不明
+Those are two separate goals. The strategies to market that audience is going to be completely different. So we need to have a paradigm shift within AWS marketing to ensure that we are not doing lead based limited with personalization on email and web based journeys. When we have made a strategic decision to ensure that we are going to focus on sending targeted, role based messaging to the buying groups in the high value target accounts in multiple channels.
+
+00:16:57:00 - 00:17:20:28
+不明
+So we got to move our content from being focused on latest marketing campaigns or local goals to the high level business outcomes that we want to see as AWS marketing. We want to move away from time consuming coordination between sales and marketing to a simple handover that can actually happen automatically if we implement it the right way. In a B2B.
+
+00:17:20:33 - 00:17:51:45
+不明
+So with Azure B2B, our vision is to move from siloed journeys to journey based campaigns and to ensure that we have a singular data platform. Well, data is the goal. If your data is not right, then you can have all the great strategy in the world, but data will speak for itself. So first of all, we need to have a centralized data platform that can actually connect data from different sources that your customer is connecting with your email, your website, the events like this, the webinar they are interacting with, the post on LinkedIn, the downloading a white paper.
+
+00:17:51:57 - 00:18:17:06
+不明
+You need to get all that data into one system so you understand what is it that your customer is trying to understand or learn from your portfolio of products? And once you get that unified view, you can enable cross-channel personalization using Adobe Journey Optimizer. And finally, it will lead to streamline sales behavior and once all of this is done, hopefully, hopefully we can provide a view to the sales team.
+
+00:18:17:11 - 00:18:46:12
+不明
+Where we do not wait does not act like a chore to them while they're talking to the marketers. Because nobody likes chores right? All right, so how are we actually doing it for AWS marketing? I'm going to walk you through what we have done in last one year. So partnering with Deloitte and Adobe, we started on a discovery phase at the same time last year, we reached out to all our marketers, and our tech team was sitting right here for them.
+
+00:18:46:13 - 00:19:12:02
+不明
+Thank you for a great partnership, guys. But we started on this journey. We started talking to the marketers and figured out what are the best use cases that we can implement in on Adobe Experience Platform and Azure B2B to realize the value of this product. So we implemented Adobe Experience Platform and our CDP to bring that singular centralized data platform so our marketers can have a unified view for their customers.
+
+00:19:12:07 - 00:19:39:45
+不明
+Today, we are in the process of implementing web SDK. So we can also bring those real time touch points that our customers have that they're interacting with, so we can have a better response time. We can have a better content delivery on those personalized touch points that our customers have with us. And I'm happy to announce that just last month, we actually deployed a job to be in production for our very first use case for a ticket.
+
+00:19:39:49 - 00:20:01:10
+不明
+Thank you. Woo! Yes. We deployed our very first use case where we created buying groups for high value target accounts. And we actually integrated that tool with market to engage so we can create role based, personalized journeys for different decision makers that are in the buying groups. And again, we are going to dive deeper into that setup a little later in the session.
+
+00:20:01:15 - 00:20:22:13
+不明
+We also have in-house decision engines that actually tell our systems, which is the relevant message that should be sent to which customer, at what time. And also, as you might have heard yesterday, not yet yesterday. Right. Time is flying so fast. So yeah. Yesterday. Yes. Of course, yesterday you must have heard in the keynote. We'll announce that now at the market.
+
+00:20:22:13 - 00:20:50:49
+不明
+I'm not just AP. I think marketing it has been there on AWS for a long, long time. But A, B and B are available on it on the AWS cloud. So you do not have to worry about the integration of your existing AWS infrastructure with Adobe's suite of products. If you are getting it built on AWS, and not just AD because it is built on AWS now, you don't have to worry about data sovereignty or access issues or ensuring that, oh, will it be scalable?
+
+00:20:50:49 - 00:21:13:10
+不明
+Should I have an event like this where I have 20,000 people that are getting added to my system? So you forget about scalability. This is all taken care of just when you talk to your it'll be partner. Talk to them about AP on AWS. So with this we are on a path to move from siloed teams, creating generic campaigns leading to inconsistent engagements.
+
+00:21:13:15 - 00:21:39:15
+不明
+Do I do one personalization at scale for buying groups across multiple of accounts, leading to automated multichannel touchpoints and improve engagement and the happiness in this journey will be the sales team, because now they don't have to curate those actual buying groups from the marketing handover, but they get a better view where they can just go and run with the last mile leading to revenue generation.
+
+00:21:39:19 - 00:22:12:52
+不明
+Now, let me give you a sneak peek of what the use case is that we implemented in production, two weeks ago, and we will dive deeper later. But just to give you a little bit of, understanding of what we did, our first buying group journey was targeted for the enterprise greenfield accounts, where we gathered this signal from different sources that these buying groups or these accounts are interested in buying a certain product, let's say AI or machine learning is my not so hot topic.
+
+00:22:12:57 - 00:22:37:27
+不明
+So the audience definition is every enterprise enterprise dream account that has more than a certain amount of dollar revenue, but they have spending less than certain amount of, spending less than a certain dollar amount at AWS. But they have shown intent in buying a new product, which is I am and in this case. So how does the journey start?
+
+00:22:37:31 - 00:23:04:27
+不明
+AWS receives a signal from different sources that such an account, such people are actually interacting and trying to figure it out. Trying to search about a particular product. I mean, we get these signals from different data sources. Get that all in KDB, in AP. Now, once that signal goes into app, which is at CDP, we the audience is created based on their intent signals.
+
+00:23:04:31 - 00:23:31:49
+不明
+We define the role templates in Adobe Journey Optimizer B2B edition where we say, what are the roles that I want to see in my buying groups? Do I have a business decision maker? Do I have a decision maker? Do I have an influencer? Do I have an engineer? If it's a developer focused service. And once those buying groups are created in a step by step process, Adobe Journey Optimizer provides you a canvas through which you can actually define the journey.
+
+00:23:31:49 - 00:23:58:44
+不明
+For each of these buying groups. Each of these different roles. And within this journey, different buying groups can be at different stages of completeness of their engagement score and again, depending on how they interact with these personalized emails. And so with these paid media personalization, how they interact with it, we get those signals back into our CDP and then get fed into their profile data that updates their engagement score.
+
+00:23:58:55 - 00:24:35:27
+不明
+And once a buying group leads to a certain engagement score, a sales alert email is sent to your sales partner and notifies them that, hey guys, this group is ready to be taken to the last mile. Now you go set the demos. Go have a direct outreach and make that conversion. So what's the impact for marketers? We have a centralized tool which standardize, unify, automate, bring in the data from all the one data systems your email engagement, your website engagement, a third party system which is your search interest, your paid media.
+
+00:24:35:38 - 00:24:53:31
+不明
+And now your marketers can have a unified view for all your customers and can make better investment decisions. And because you have a personalized view, you have you have a unified view. You can actually do a improve targeting at scale because you can focus on higher counts. We have 90 million leads in Marketo. Do I go after everybody?
+
+00:24:53:45 - 00:25:25:58
+不明
+Probably not. Now that I know I have my buying groups defined, I know who are my decision makers so I can do a better targeting at scale using it for B2B. And I can get real time customer data using web SDK that enables you to do actually quick or just have quick response time. If your customer is interacting with multiple touchpoints for a single service that shows high interest, a high intent signal, which means now it's time to act upon that lead and maybe a count or buying group and move that from marketing to sales and strategic buying group activation.
+
+00:25:25:58 - 00:25:45:46
+不明
+As we spoke about. Sorry, moved a little quick. Strategic buying groups, strategic buying groups, activation. Again, you focus on the high value counts, the buying groups that really mattered. And you do not have to really go after every lead that you have in your database. And last but not the least, improves sales coordination. Sales is happy with marketing.
+
+00:25:45:54 - 00:25:52:19
+不明
+Marketing's happy with sales. Then there's a party every Friday.
+
+00:25:52:24 - 00:26:18:12
+不明
+So what's in it for customers and partners? Well, as a customer, we are able to provide consistent, personalized experience across different touchpoints. And this improve customer experience leads to better education, better awareness, better customer engagement that further leads to better loyalty and better spending at AWS because customer get the right message at the right time through the right channel and for the partners.
+
+00:26:18:18 - 00:26:43:03
+不明
+Now they're able to get the relevant and timely messaging so they can actually align their go to market motions with the right product pipeline. So they are always informed on what's happening on the on the product side. And for AWS, well, we have happy customers, happy marketers and effective, faster, better, more proficient sales operation. And that's what we care about in business right now.
+
+00:26:43:03 - 00:27:11:57
+不明
+I know this is all high level overview and I'm sure you're interested in knowing what are the actual nuts and bolts that we have put into the system to make it happen. And for that, I'm going to hand it over to my wonderful partner, Deloitte Curtis. Thank you Richie. All right. So now that you have a bit of background understanding of the goals and objectives that AWS is trying to achieve as they move to this personalized journey experience, let's dive into how we partnered together to actually bring this to life.
+
+00:27:12:02 - 00:27:43:03
+不明
+I'm going to start with the architecture. We were partnering with AWS to implement AP agile, OBB and C-J on AWS as a customer zero along with Ottawa. For this implementation, we were standing up, six zero use cases. But for the purposes of today's conversation, I'm going to focus on our ABM use case. AWS was already executing some level of account based marketing within their existing Marketo instance.
+
+00:27:43:08 - 00:28:06:20
+不明
+However, as many of the Marketo power users in this room know, it's great at targeting at the person level, but it was very challenging to get a better understanding of overall buying group engagement and, you know, the completion of a buying group. Did we have the right stakeholders in the right journeys to be able to drive the broader buying committee to a decision faster?
+
+00:28:06:25 - 00:28:34:39
+不明
+Additionally, AWS had lots of different data sources that they were wanting to be able to use, such as first party account data and third party intent data for accounts to use for downstream activation. But it was very challenging to be able to pull that into one system to use for downstream activation. And so with the addition of CDP, we were able to consolidate that data into one single source to be able to use for audience building, for journeys from account based perspective.
+
+00:28:34:44 - 00:28:57:41
+不明
+And then with the addition of B2B, it enabled us to have a better understanding of the buying group and to be able to build journeys around marketing to the broader buying group. So now that we have an understanding of the architecture. Let's dive into the actual tech. So walk with me as I pull this up quickly, and we will go into the actual use case.
+
+00:28:57:41 - 00:29:22:12
+不明
+In a true B2B. So when you're building a journey in B2B, there are really four main components that you need to account for. There's first the audience, then there's the buying group rules templates. Then there's the solution interest and then there's the actual journey itself. So let's dive into the audience.
+
+00:29:22:17 - 00:29:52:28
+不明
+So as Richie mentioned. Oh, and one thing to call out is we're going into the AWS dev instance today. So the account sample names that you see on here and the actual accounts of the audiences are not going to reflect what's live in production. But as Richie mentioned, we were trying to target enterprise greenfield accounts who are over a certain revenue threshold and spending less than a certain amount with AWS, who had not yet adopted AI, ML products.
+
+00:29:52:33 - 00:30:30:10
+不明
+When you're building an audience within agile B2B, the Data Foundation is our CDP. So you're able to pull in any attributes that are person match attributes as well as account attributes. And this is where you'll see how we were able to marry the, the first party account data, as well as the third party intent data. One thing that is very important to note with building an audience in B2B is that once an individual at that account qualifies, everyone from that account qualifies because you're building an account level journey, not a person journey.
+
+00:30:30:14 - 00:30:43:10
+不明
+So that's something that's very different, that we had to really take into account with additional filters and, you know, layers of inclusion criteria that we built into the journey itself.
+
+00:30:43:15 - 00:31:13:05
+不明
+Okay. So yeah, here you can see a little bit more about the intent data that we included. Searching for terms AI, automation, artificial intelligence, and how we were able to combine all this together to build a single audience. All right, so now we've covered audiences. Let's dive into buying groups. So why are buying groups important? How does this come into play with this journey?
+
+00:31:13:10 - 00:31:36:02
+不明
+So as I just mentioned, building an audience account audience qualifies everyone at that account. But for large enterprises, it doesn't make sense. You don't want to target every single individual that you have in your CRM, or in your data lake, or in CDP in a journey. So that's why it's really important to define who the key players of buying group are.
+
+00:31:36:07 - 00:32:03:09
+不明
+That often consists of decision makers, influencers, champions, all kinds of different roles. For the purposes of this use case, we started out with two buying groups. We had the business decision maker and we had the technical decision maker roles. You can see that the business decision maker, it was flagged as an important weighting, meaning that they're the ones at the end of the day that are going to make the decision, get the buy in, gets the budget to drive this forward.
+
+00:32:03:14 - 00:32:27:51
+不明
+However, we also had the technical decision maker, which they're flagged as vital because if you do not get the buy in of the key tech decision makers for AWS, you're not going to be able to to move that forward, to move that sale forward. And so really, you need to be able to have both of these buying group roles within your journey to get the broader decision from the committee to move forward with the purchase decision.
+
+00:32:27:55 - 00:33:13:01
+不明
+You'll also see here that there's rankings of priority as well as flagging required for a completeness score. So I'll start by describing the priority element. There are instances where an individual could, in theory, qualify for multiple buying group roles. So the priority indicates which one would take top priority for someone to be pushed into. And then from a completeness perspective, you know, when this is fully scaled, when you have like a bunch of research around your buying groups and have really matured, that Adobe has said you could have up to 50 to 60 different buying group roles that, you know, cover the entire decision maker and influencer worldview.
+
+00:33:13:06 - 00:33:35:13
+不明
+But for now, we just have two. But when you have this understanding of multiple roles, completeness is something that's very important. How much have you penetrated into that account? Do you have the right stakeholders identified? So being able to flag this is required for completeness will help you drill down into some of those overarching performance metrics of your journeys.
+
+00:33:35:18 - 00:33:57:12
+不明
+So we have defined group role templates set up. The next step is building out a solution interest. This is essentially telling a job to be that this is the product or solution that this journey will be targeted to, and that the buying group will be assigned to you. Because there could be a completely different buying group for one product versus another product.
+
+00:33:57:21 - 00:34:28:21
+不明
+So making sure that you associate this together, is critical to being able to drive into that dream. All right. Now let's go into the training. So okay. So you can see that we have our account audience defined. That's the one that I walked you all through earlier. But one thing that's important to note is, as I mentioned, if one person at the account qualifies, everyone from that account will be enrolled for the purpose of this use case.
+
+00:34:28:22 - 00:34:47:00
+不明
+We only wanted to start sending the messaging and the different touchpoints in this journey to individuals who are part of that buying group. And so you'll see that we have an initial split path here to break out the flow. There's one as ready, which means that there are individuals assigned to the buying group at that account. So move them forward.
+
+00:34:47:00 - 00:35:11:06
+不明
+They're ready to start being marketed to as part of this account journey. There's also an incomplete step where we have a listen step or, sorry, an incomplete flow path where we have a listen step to look for. If there's a change in the buying group completeness score, meaning that someone from that account did fit into one of the key stakeholder roles identified in the buying group and is now ready to be marketed to.
+
+00:35:11:11 - 00:35:31:48
+不明
+One thing that's wonderful about the buying groups, and the ability to incorporate multiple roles into the account journey is the ability to further personalize your messaging to the different buying group, individuals and the different stakeholders, so you can still keep the broader account flowing through the journey at the same rate. So that's something that's important to note as well.
+
+00:35:31:53 - 00:35:58:18
+不明
+If someone is added to the buying group at a later point in time, they're going to pick up the journey at the exact same stage as where the rest of the account already is, because the overarching goal of going to market in this way, instead of at the person level, is to ensure that consistent messaging is being received to the broader account at the right time, so that in theory, they can have similar discussions, be on the same page about the information that they need to make a purchasing decision.
+
+00:35:58:22 - 00:36:22:39
+不明
+But you can still drill down and further personalize the journey experience based off of that key. Buying group role template. And so that's what you're seeing happening here. We have a split path, that allows you to break out the flow, one you're seeing at the top, the business decision maker is getting one series of messaging, and the technical decision maker is getting another series of messaging.
+
+00:36:22:44 - 00:36:46:25
+不明
+Now, something that was really important for, AWS is that they have a, email prioritization, first party email prioritization tool built into their existing Marketo instance. And so because of that, they wanted to be able to actually orchestrate and send the email touchpoint for this journey out of Marketo and not use the email builder tool in B2B for now.
+
+00:36:46:30 - 00:37:10:14
+不明
+That's something we're adding to the roadmap. And as we continue to optimize this journey over time, we will be bringing that capability in. But age of B2B also makes it incredibly seamless to send someone from an account journey in a job, to be directly to a nurture campaign or a program that you have set up in Marketo to do continued marketing.
+
+00:37:10:19 - 00:37:40:26
+不明
+After they've engaged with certain touchpoints in the B2B journey. And so that's what you're seeing happening here. We have a, let's see. Sorry. Let me just go to the right place. Perfect. So we have an action step here where we're adding someone as part of this flow to a marketo engage request campaign. This is basically one of those trigger flow steps that the marketing Marketo power users in the room will be all too familiar with.
+
+00:37:40:39 - 00:38:08:39
+不明
+Yeah, the request campaign trigger set up in the head out program, and then the individuals who have qualified for this step will seamlessly continue to be nurtured and marketed to in Marketo. For this. Oh, and sorry, this is exactly what this flow step or trigger looks like in Marketo. So to go back real quickly this journey as its initial use case, we have three email touchpoints.
+
+00:38:08:43 - 00:38:35:26
+不明
+They're personalized at the buying group role level. However, we are continuing to optimize this. As Richie said, we launched this about three weeks ago, I think. So we're we are in the process of adding in LinkedIn as an additional touchpoint. Also adding in the sales alert functionality that Richie was speaking about earlier. So we're very excited to continue to be able to, optimize this and take key learnings to continue to expand it over time.
+
+00:38:35:31 - 00:38:56:21
+不明
+What are the results that we have started to see from this? And what do we expect to see as we continue to optimize over time? So as we mentioned, we just launched this a couple weeks ago, but we're already starting to get valuable insights that are going to make a difference in how we approach these conversations. With sales from an account based marketing experience.
+
+00:38:56:22 - 00:39:20:40
+不明
+So as I mentioned earlier, you know, they were doing and running some account based marketing tactics in Marketo, but it was very challenging to understand the overall, buying group and how the completeness of that was going and also how they were engaging at the buying group level. And so we can see right now we have 766 buying groups, as part of this journey.
+
+00:39:20:45 - 00:39:41:21
+不明
+And we have very strong completeness scores. All right. Already. This is visibility that we did not have until we launched this journey just a few weeks ago. And it's going to be valuable insights that we can share with the sales team and continue to pay attention to the next level from here, will be really drilling down into that over all buying group engagement.
+
+00:39:41:25 - 00:40:14:24
+不明
+How are these buying groups engaging with the journey with the content? When are they ready to be sent over to sales to have a more formal conversation and try to close this opportunity? This is just an additional view of the buying group completeness score that we were just speaking about. But from a big picture perspective, what is the impact that we can expect to see as AWS continues to adopt, you know, count based marketing and account based journeys and buying group journeys, based off of industry benchmarks.
+
+00:40:14:29 - 00:40:52:51
+不明
+We're anticipating somewhere around a 15% in target account average and converge in, through upsell and cross-sell opportunities, as well as a two times increase in intent signals. And engage buying group members and a 15% increase in sales. Qualified buying group members. Additionally, to sell services to small medium businesses through personalized engagement, we're anticipating similar metrics around 15% increase in buying group member conversions, 20% improvement in buying group member email click through rate, and 20% reduction in buying group members unsubscribe.
+
+00:40:52:51 - 00:41:08:37
+不明
+So there's definitely an impact here. We're very excited to see how this continues to to go as the journey is live longer. And be excited to update you guys on the progress. Maybe next year at some.
+
+00:41:08:42 - 00:41:29:27
+不明
+So what were some of our key learnings from this entire project from from start to finish and the enablement of this use case? One of the biggest things that comes to mind to me is understanding the difference of account journey dynamics. There are a few things that I spoke to directly about how you would set up the journey and the tool.
+
+00:41:29:27 - 00:41:54:55
+不明
+That's very important to know. But there's also things at a bigger picture strategy level, like how do you get marketing and sales to work more closely together, to actually build out an experience that is going to nurture the account and warm up the buying groups faster and, you know, push more towards this approach. As part of that, there's also this idea of the cultural shift, right?
+
+00:41:54:55 - 00:42:21:31
+不明
+The account based marketing approach is very different. How most marketing teams are going to market today. Some of my clients have started with account based marketing. Some of them are a bit further along, and a lot of them are just starting to scratch the surface. But to really get there, it does require, strategy alignment at an operating model level, for development and process, use of marketing and sales organizations can work better together.
+
+00:42:21:36 - 00:42:53:58
+不明
+And so the earlier that you can start to plan for that, as you're thinking about implementing a tool like B2B, the more successful that you'll be, and then also designing and building for simplicity and scale. You know, a lot of times you guys have so many systems, you have ways of working. The teams are comfortable with that, but that might not be the best way to continue to operate, to move forward, to really, capitalize on the new capabilities that you're implementing with these tools.
+
+00:42:54:09 - 00:43:16:30
+不明
+So thinking about what does it look like for the future? How do I need to maybe re-architect some of these things or deprecate some of these tools to create a more seamless experience across the board for my marketing teams, but also for my end users, my accounts and my, customers. Richie, do you have any other key learnings that you'd like to share now?
+
+00:43:16:31 - 00:43:38:57
+不明
+Sure. I actually work very closely with the AIP implementation team, and I can tell you that there's nothing like testing at home with a core slice of pizza. So I guess that also is true. We did do a lot of that. Yeah. So if you're integrating your different data sources to your system, make sure that you do enough testing because you're dealing with customer data and you want to make sure that you're doing it right.
+
+00:43:39:01 - 00:44:02:20
+不明
+And also because it needs a paradigm shift, it needs a cultural change. You think early and you start even earlier because implementing a tool is one just a step, one to get your organization move along with you to that new way of thinking. That's another big ordeal that you need to really bring into account and otherwise you can invest in all these fancy tools and implementation efforts.
+
+00:44:02:34 - 00:44:25:28
+不明
+If there's no adoption, then it's just a waste of time and waste of money. And the third thing is, which is very, very critical, that you are not married to your homegrown tools, not soulmates. Sometimes breakups can be really beautiful. Yeah, there will be. Is the market leader in marketing suite of products. So let's take it from the best and ensure that you help your you help drive your marketing.
+
+00:44:25:28 - 00:44:45:19
+不明
+Go faster, smarter, with better efficiency for sales. Right. And that just reminds me of one additional call out. We teed this up a bit on the last slide. But, you know, a lot of times from, from my own experience and marketing operations previously and something I've seen my clients struggle with is that they'll invest in these new shiny platforms.
+
+00:44:45:30 - 00:45:20:31
+不明
+They're all excited about the capabilities. They can't wait to bring them to life, but they don't make any changes from an operating model or process perspective. And so they're left scratching their heads why? They're not getting the results that they anticipated. Does this sound familiar to anyone in the room? Awesome. Not awesome because I'll help fix that. But, so the way that we tried to mitigate a lot of this at AWS is we actually have another work stream that we're partnering with the org on, to build the right operating model and to have a clear change management and calm strategy.
+
+00:45:20:40 - 00:45:45:43
+不明
+So that when they're shifting to this journey mindset, we have the right solutions, the right people in place, and we have the right trainings and communications available to upskill the necessary practitioners to ensure that they have all the information at their disposal and the processes in place that will really allow them to scale and adopt these capabilities in a way that's going to drive impact.
+
+00:45:45:48 - 00:46:06:30
+不明
+Awesome. Okay. Well, thank you so much, ladies, for taking us through that. I mean, I personally know I love seeing how your adoption of ABM and agile B2B has really delivered value not only for your marketers like you all in the room, but your customers, your business, and your partners. So, you know, earlier in the session, I talked to you about the five foundational pillars of agile B2B.
+
+00:46:06:30 - 00:46:33:07
+不明
+Right. They were buying groups and accounts, journey orchestration, content and personalization, sales intelligence and coordination. And finally journey insights. So now I just want to quickly touch on some of our AI and agent tech capabilities in B2B and on our roadmap. And so at Adobe, you heard about it all today in the keynote session. We have a lot of themes and focus on agents and AI, and these are our three main themes we're seeing today.
+
+00:46:33:12 - 00:46:57:13
+不明
+This is going to help you streamline data management. It's going to help you personalize effectively and engage and align with your sales teams seamlessly. So the first I want to focus on is AI for data and insights. With our buying group discovery and creation, we we will bring in the first party intent data, their signals and CRM data to help you create effective buying groups.
+
+00:46:57:18 - 00:47:17:22
+不明
+Then with our progression insights, you can see how those accounts and buying groups are progressing. We focused on AI for Journey and Contents. We do have our journey creation agent, that will help you visualize how you want to set up these journeys, and it's going to give you AI powered workflows and smart recommendations to make that a success.
+
+00:47:17:27 - 00:47:45:00
+不明
+We do have our image to HTML converter, which is going to help you quickly, compose and implement these new, landing pages and emails and then partner that with our AI design. Excuse me, gen AI, email and web designer. You're going to be creating content faster than ever. And lastly, AI for sales, we have our brand concierge B2B edition who saw that with Marriott and Angel today on stage right.
+
+00:47:45:01 - 00:48:14:39
+不明
+Hopefully all of you is pretty cool. So that is really meant to drive engagement, accelerate your sales, and provide you with real time insights. We also have an account qualification agent which is going to empower your sales team. It's going to help them take actions and even automate those actions to reach their accounts. And finally, we do have a sales mobile app that's going to give your sales team insights and AI tools in the palm of their hand to better engage with the field.
+
+00:48:14:43 - 00:48:38:04
+不明
+And so before, we conclude, I really hope we helped, you know, kind of give you some insights on the journey to account based marketing, the value of that strategic shift we've been talking about, and how agile B2B can help you bring that to realization. Before I stop, I want to thank both Richie and Courtney for their collaboration and partnership today, and I want to thank you all for being here.
+
+00:48:38:09 - 00:48:52:03
+不明
+And so with that, get out your Survey or summit app, take that survey so we can get your feedback and win a prize maybe. And so thank you all. We'll take questions. Thank you. So.
+

@@ -1,0 +1,444 @@
+00:00:00:37 - 00:00:21:21
+不明
+Thanks, everybody for joining us. I know it's after lunch. It's the end of the session times for the day. But thanks for joining us. I will get into some introductions. I'm Emily Willhite, chief marketing officer of Blue Acorn HCI. We're in Adobe Partner have been for over 15 years. We actually started as a commerce partner. So that's really what we were born from.
+
+00:00:21:21 - 00:00:40:20
+不明
+And so I've been at the organization 12 years and seen a lot of commerce change and really excited to be here at summit and, featuring this amazing B2B case study. Pete, I'll let you go ahead. All right. Well, good afternoon, everybody. My name is Peters and back. I, really my job at Aramark is to create possibilities for the company using technology.
+
+00:00:40:20 - 00:00:58:39
+不明
+Right? We are as a company, we're part of the company. It's the core. But really, the focus is creating amazing hospitality experiences using advanced technology focused around three things. You know, the consumer, right. How to be as many conversations with consumers as possible, let them order however they want, whenever they want. We'll talk a lot about that today.
+
+00:00:58:43 - 00:01:16:12
+不明
+You know, for our associates to create the great service experience enabling that moment. And I will say that one more moment to say good morning is what technology's role is for us and for our clients. It's really about making sure that things are most important to them. You know, employees coming back to work, you know, how do we make the most productivity other day?
+
+00:01:16:16 - 00:01:32:53
+不明
+Yeah, it's not really about food or like ordering coffee and things we'll talk about, but it's about the things that they need to get accomplished. And that's really what we're focused around technology. I've been at Aramark a very long time. Is some now 26 years. And this organization started as a trainee doing some of the things we're going to show you today.
+
+00:01:32:53 - 00:01:53:59
+不明
+So very excited to be here. And thanks, Sam. Hi everyone. I'm Diane Pink Husky. I lead our marketing and strategy team, for where business happens in the business and industry. So whether it is an office space, manufacturing, distribution or honestly, when we talk a little bit at our refreshments team, it could be any bank, car dealership, anywhere where you get a free amenity.
+
+00:01:54:04 - 00:02:12:56
+不明
+I focus on the B2B side we'll talk about, but also the B2C side because we bring the physical and the digital together and what we do as a hospitality company. But thank you both for joining. You know, you kind of gave a glimpse into Aramark and some of the things you do, but I think it would be good to level set on, the business overall.
+
+00:02:12:56 - 00:02:28:54
+不明
+And then a little bit more about refreshments to set the stage. Yeah. And I think, you know, Diane talked a lot about this and we'll talk about today and certainly open to questions around it from an overall perspective, you know, leading the organization globally. Like I said, it's very it's staying very true to this, this this methodology of creating great experiences.
+
+00:02:28:59 - 00:02:58:26
+不明
+I will say, you know, funny being at a tech conference with Adobe, telling people I actually don't care about the technology, I really don't. And you can't. You have to obsess over the things that we talk about, our consumer and what they do and what that consumer really is for us, it's unique because there are many different things that can be that person, you know, working in an office of a couple hundred people, you know, a large, you know, industry leading organization, a hospital system, you know, oil rig in the North Sea and goes online to think of every consumer segment you can imagine or microservices.
+
+00:02:58:26 - 00:03:15:36
+不明
+And and so how do we manage that complexity at the edge? Because really we make, you know, we make our money at the edge of what we do, right? Whether that register rings or that person engages with us, we've got to create that moment. And bring it. Kind of think about it backwards versus center down does not work.
+
+00:03:15:41 - 00:03:36:18
+不明
+And so really, when we're going through things with what Diane and I do and which socks are sitting up front, we'll pick on a little bit today since he's there, you know, we want to make sure that we're thinking about closest to where the interaction with our consumer is and then thinking about it backwards and how we can maybe carry it across if we can't, because it will jeopardize the experience.
+
+00:03:36:18 - 00:03:55:38
+不明
+We'll think of new ways to do it. It always is. That experience, ideology has to stay true. And everything that we do, regardless of here across the other 15 countries that we that we serve in. Yeah. And so specifically on the workplace side, we've really changed who we where we used to be. Business dining, a food service provider.
+
+00:03:55:51 - 00:04:23:05
+不明
+We have reimagined ourself to workplace experience group because again for people in the workspace it is about experience, engagement, building culture and community. And the best way to do that is over a cup of coffee over a sandwich. Right. So we do that and we provide that. So we've got this very personal way of doing things. But then there is that technology that enables people because when you're at work, convenience and experiences and depending on how your day goes, we have to deliver both, right?
+
+00:04:23:20 - 00:04:41:16
+不明
+We also have, on the B2B side, the client who we're trying to make their simplify and make their job easier. So how do we do that. So up here you'll see when I get down to like the actual amenity space. And we're going to really focus on break room amenities today because that's what our e-commerce platform is about.
+
+00:04:41:16 - 00:05:02:59
+不明
+People that are giving free things to their employees most number one thing, coffee, right. But water, snacks, beverages, there's lots of things, different types of supplies. And so the difference between what we do versus somebody, another company that picks, packs and ships to you is we pick, pack and deliver. Right. So we have that high touch service piece to it.
+
+00:05:03:13 - 00:05:26:04
+不明
+And we needed the e-commerce experience to have just as much personalization and high touch. And that's why we we platform. That's why we worked on the new Adobe platform with Blue Acorn to say we can't have they have to merge together. So never compete with those big companies on price. I'm competing on service on that high touch, and that digital experience has to be the same.
+
+00:05:26:08 - 00:05:51:44
+不明
+Perfect. I think that's so helpful to know the background and especially driving into, you know, the refreshments business. Let's talk a little bit about like what wasn't working on your B2B experience for refreshment. What led to this reimagination that you guys undertook? Yeah, I mean, it was clunky. It didn't have that personalization, right? It was hard to navigate the user experience was not where it needed to be from based on basic functionality of the mobile experience.
+
+00:05:51:44 - 00:06:09:04
+不明
+Right? You have to walk around, get, you know, again, the highlight of your day as an office manager is not ordering coffee and cups for the break room, right? So how do we make it so easy and simple? Well, now you got to walk around with your laptop or with a piece of paper because our mobile experience wasn't great.
+
+00:06:09:16 - 00:06:31:16
+不明
+Now you can walk around your device and boom, boom boom and click and go and you're done. Subscription reward wring out of Scot stock. Upsell. All of that has been seamless to us. So that experience has been so much better for our clients. I think so much the omission of it. Right. I think we, you know, we first look at this like the site actually was doing well.
+
+00:06:31:16 - 00:06:50:22
+不明
+We're making revenue, we're hitting our numbers. So it's always, you know, you go from a big organization saying, okay, listen, you know, we're going to go we're going to build a new one, but it's working. So why would we do that? You know, so it's the the joking part. It's like admitting the baby's ugly. Right. And the mobile, you know, I mean Diane and we all we all talked about it.
+
+00:06:50:22 - 00:07:10:06
+不明
+It was just horrific. Like it didn't work. So we didn't really have a presence. So you have to sit and say, like all these things that are go to when we don't retain clients are really those experience things that matters regardless of making money. We're actually not so it's kind of creating. You've got to kind of narrate that in your organization and say, no, it's not.
+
+00:07:10:08 - 00:07:25:03
+不明
+Here's why it's not working for us. Here's what it can be. Right. And again, that point of like thinking of that, that office worker. Yes. As much as we love to say, oh my God, we make it so wonderful. Them for them. Nope. Coffee. They don't care, right? They've got a million other things to do in the world.
+
+00:07:25:03 - 00:07:43:06
+不明
+And you have to appreciate that. So so that was the you know some of the challenge was again just we're going to have to do this. Yes, it's working, but it's really when you look at it, it's actually not working at all. And so it's showing them kind of painting the numbers a different way and making sure calling it out and it's it's expectations too, right?
+
+00:07:43:06 - 00:08:00:48
+不明
+B2B buyers are consumers too, right. That office manager who's needs to reorder coffee is on her mobile phone doing something at her lunch break, and expects a great experience with you guys just so they can do it. They know what they can do is when they go home, they can sell their new groceries on Walmart, right? And they can do, you know, stuff on Amazon.
+
+00:08:00:48 - 00:08:17:29
+不明
+So that's but then also to realize it doesn't take a genius to put it together and go, well, I can just do that too. Yeah. Service can only get you so far. And that's you know, Diane talks a lot about this physical and digital world having to really not just call out, they've got to be together because you can't be one or the other.
+
+00:08:17:30 - 00:08:34:56
+不明
+Right. And so that's the part of service will only get you so far that your digital experience has to match it, but it has to be ready to grow with it. Right. And I think, you know, as you embarked on this, things that you've mentioned, improving that experience on mobile, but what else was important as you went through this?
+
+00:08:34:56 - 00:08:56:48
+不明
+You know, I think I you've mentioned in our conversation, listen, we can't get through this without a good AI conversation. I mean, how many minutes in? And we said, I know, listen, this was a drinking game right where it was. No. Like, it's it is that idea of like you, you know, you shop at home. It shouldn't be different when you shop at work and again, consumers, they know that they don't care, right?
+
+00:08:56:48 - 00:09:16:32
+不明
+They want what they want, when they want it, how they want it, where they want it. Right. Those fundamentals of the consumer doesn't change because I'm ordering coffee at a break room. And so you have to match that. And those things that when we went through it, you know, and said, well, point of socks or CTO as it goes through this, you know, it's like we got to have we know the capabilities exist.
+
+00:09:16:32 - 00:09:40:57
+不明
+We know we can create it. You know, we know that, by the way, we have enough data to know that the person that buys coffee buys these things. So it's just creating the opportunity to match it and create those moments, even just the simple things. The holidays are the year, right? That the reorders right. And the biggest thing that to do is like, let me just push the reorder button, you know, so then I can just get about my day and do something else.
+
+00:09:40:57 - 00:10:05:15
+不明
+And that's where, again, the stuff we're doing with AI is really helping us curate to that person versus making them just a transaction. Okay. And I think, you know, Diane, thinking about what you guys did for the new site, how did that really evolve your business and deliver this great experience? I know we talked about these kind of pillars that you guys have focused on that consumer journey and engaging with the customers more.
+
+00:10:05:15 - 00:10:23:33
+不明
+Tell us more. Yeah, and two things right. We're the front end of our site that's open to the public. Right. We're we're looking for new customers. I mean on the you know we're looking for anybody. It has an office space. It could be 50 employees, 300 employees, you know, not all fortune 500. So we're looking for them when they're typing in coffee services in Detroit.
+
+00:10:23:33 - 00:10:41:21
+不明
+Right. I need to come up and I need to give them a reason on that front end. Why? Well, everybody needs an ROI. So the way we've built it with the stories, the blogs, the reasons why you should have these free things, how you should do it. You know, when our people are service techs who are amazing, go in and talk to these people.
+
+00:10:41:26 - 00:11:00:11
+不明
+You know, it's great, but, you know, when they can read a story and have a case study and really understand why that really helps, for sure. So that has been a really big thing. And the searchability, all the things that we've done has helped tremendously. Our leads are up dramatically. You know, we're not getting service requests.
+
+00:11:00:11 - 00:11:21:14
+不明
+We're getting relevant, qualified leads of people who truly are interested in buying from us and not someone who wants coffee for their home, which we would get a lot of. As you could imagine, coffee is a very high searched word. We've been able to hone that into finding relevant people that we can get our salespeople engaged in to sell more and have a very a higher conversion rate, for sure.
+
+00:11:21:21 - 00:11:35:58
+不明
+Yeah. And I think it's, you know, continue to tell that story. Also making and making it really easy. I think when you talk about the why you would do it and that you can do it, you know, some of the things that are really great that teams on this tell a story that you can have this right. You don't have to sit there and be like, I just need the cheapest way possible.
+
+00:11:35:58 - 00:11:54:11
+不明
+You can have this great experience. And then when you're ready, it's actually very easy to say, you know, contact me and off you go. Right. So you think about this, you know, cost 28 plus almost 30%. You know, more qualified leads versus you know, we may get you know, Peter may sign up because I'm like, hey, hot coffee in my house.
+
+00:11:54:16 - 00:12:12:24
+不明
+And we get those 500 times while we still have to call you and figure out if you're good or not. Right. And so then we have to pull that back and that creates and we've taken the inefficiencies out of that B2B process. You know, we've created a great experience. And then when you also see on the site, you see the great consumer experience, then that really kind of a finish.
+
+00:12:12:26 - 00:12:29:18
+不明
+It really kind of completes that story. You can have a great B2B way to engage, but if the rest of it's not there kind of that other pillars, well then it doesn't matter, right? Then again, consumers aren't something, they're stupid. They're smarter than we all are. Like treat them that way. And but I tell them the story that way.
+
+00:12:29:23 - 00:12:49:09
+不明
+You know, say another KPI we don't always think about in this world is retention of our salespeople. These are sell. These are really easy churn sells. We have 100 plus sellers when we give them and feed them more qualified leads, they stay because they're very highly commission based. And it's a high churn job because it's an entry level sales job.
+
+00:12:49:09 - 00:13:06:41
+不明
+And now we're finding they're staying there, you know, learning more. So it's that has like another effect that we don't really think about of the KPI. But we're seeing that tremendously because when I keep feeding them that stuff and they're making their numbers, they're very happy and they stay right. So let's get into you know, what it looks like now.
+
+00:13:06:46 - 00:13:23:26
+不明
+New experience. Isn't that nice now. Yeah, I think the you know, the part about it and what the team do an amazing job. As we said it's we knew what we were, what we knew, what we could be. Right. And I think the first phase of it, you know, we're going through this was, you know, we're going to jump ahead.
+
+00:13:23:28 - 00:13:41:45
+不明
+You know, it's that idea of, you know, not it's just more than what we are. Let's reach far and let's kind of look at the way that the technology is and we want to design that experience. And again bring the best partners that we can do it. You know, and I think that's when you see the things that we've done, the kind of where AI fits that kind of really cool experience.
+
+00:13:41:50 - 00:13:56:57
+不明
+It's why our average order value is up dramatically just on the first. This is like the first go of it, you know, think about for those of you that have done this before, I was going to say like, we've I think we've all said this is the easy part, right? Getting the new platform up and, you know, accelerating yourself from where you are.
+
+00:13:57:04 - 00:14:16:19
+不明
+That's easy. Then now we got to like, we're going to run this thing. We got to make this thing churn. Process of iteration continue to evolve. I think what we've really learned is that we were able to get very into the great emotional needs of that business and solve for that problem, right, and then create this great curated experience for you that makes it.
+
+00:14:16:19 - 00:14:32:26
+不明
+You can always go back to like what? Diane can always talk to us about this is not the like highlight of their day. So how do we make this as, you know, as easy as possible? And yeah, it can be pretty cool to pop up some things you might like. And again, those things that's where we're capturing the value that we need to capture.
+
+00:14:32:28 - 00:14:51:03
+不明
+Yeah. Danny, you gave me an example. Some of the customers, you know, the office manager who used to lug a heavy laptop to the break room or get a sticky note and write down what they needed and go back to the desk. And now this beautiful, mobile friendly site. Right. Is is solving that. Oh, absolutely. We're getting great feedback for sure.
+
+00:14:51:03 - 00:15:09:26
+不明
+The other thing, it enabled us because it simplified the back end. So all the product information that flows, the attributes that we're picking, all that things, it enables upsell enables out of stock. Right. All of those things. And now right. And now we're actually working on the easy bit to do. We're launching Canadian English Canadian French next.
+
+00:15:09:30 - 00:15:26:12
+不明
+Being able to have it, you know, and it's really been really easy for my team to actually execute. Right, right. Versus, you know, the back end before wasn't as seamless as this one is. So that's really been helpful because then they can focus on strategy. They can focus on writing promos. They can focus on the right analytics.
+
+00:15:26:16 - 00:15:48:04
+不明
+Yeah I think you have Dion had a great point. The things that you know we've across all of our mark, we've really focus on creating this ecosystem that can be, you know, again, very allow us to be very simple in the way we execute. It's very connected. And the things that came out of here, as you know, I remember because, again, we talked about salespeople many, many, many, many, many years ago, I was that person.
+
+00:15:48:08 - 00:16:03:46
+不明
+Like, that was my first job in Iraq. And you remember the part you would always like you're trying to sell, but I'm also going to run the product of the person that orders on is out of stock, you know, and the out of stocks in the past. Again, sales rep and race fine. Right. Organizations like oh my gosh, you're making your numbers great.
+
+00:16:04:00 - 00:16:21:17
+不明
+We realized what our stocks were costing us. And you never knew as the consumer when you ordered, you're out of stock until it didn't show up. And then if you're mad we try to run it overnight. It again, sales reps to put it in our car, and we'll drive it on our way home or wherever. It's my next appointment to make sure that we could take out that consumer.
+
+00:16:21:20 - 00:16:43:13
+不明
+Now we know it because we're fully integrated throughout our systems so we know it's not there. And by the way, when it's not there, we can suggest those other things. Not super like you can think about it. Everybody does that great. Yes they do. Then you add the service element on to it, which then sets us that, you know, kind of creates that better moment for us that we're not just going to ship it and you're on your own.
+
+00:16:43:18 - 00:16:58:34
+不明
+We're going to you've got that. We gave you that great order. We're going to deliver it to you and take care of it. Stock it for you. Go ahead and say the other thing that's been big for us, because we have large client organizations that want a special catalog, special pricing, and only certain things that go to them.
+
+00:16:58:34 - 00:17:22:43
+不明
+So we're able to curate not only like how you personally shop, but now for those clients that are saying, I only want them to shop in this bucket of things, this is the price run these types of promos to make sure that they have a very consistent program across maybe 100 plus of their buildings across the country. We're able to create these micro experiences for a specific client organization, which they love.
+
+00:17:22:43 - 00:17:47:35
+不明
+So from what we call our key client or larger clients, it is a really nice big sell. And that's such a benefit of Adobe Commerce, allowing B2B customers like you guys to manage those different pricing, different catalog, etc.. Yeah, because we always say, if I have 90,000 customers, I have 90,000 contracts in 90,000 experiences, 90,000. I say, right, because they're all very special to that customer based off of their business needs.
+
+00:17:47:44 - 00:18:09:51
+不明
+What equipment they have, how large the account is. So it's very specialized. And this allows us to do that, actually do that. I think you touched on, you know, you talked about the salespeople, being happier, but also your team. I love that, that, that yes. You guys made this for the office manager, per se, but your internal teams are are seeing the benefit as well.
+
+00:18:09:54 - 00:18:27:58
+不明
+Oh, absolutely. From the front end to the back end. Right. Because I have, you know, external, marketing people that are really trying to really focus on that SEO, sem, those stories, those blogs again. And then we've got the e-commerce team that's trying to get our current customers to stay and buy more. Right? So now they can work together, they can have the same platform.
+
+00:18:27:58 - 00:18:50:26
+不明
+We have a great new blog, so it all seamlessly works together. Before it was different things, we were going off of aramark.com and then the e-commerce and then the blog. This brings that all together seamlessly and really easily. So it's really been the team has been really happy with the experience. Good. I think we have a few more examples of kind of the features and functionality that are added to to make this all happen, right?
+
+00:18:50:27 - 00:19:06:09
+不明
+Let's not get into those kind of key fundamentals of the things that we knew. Right. When you really looked at the data, we knew before everybody. There are a lot of clients that are very habitual on things that I do. I'm going to do the same thing. So my gosh, just reorder. Right? We can create subscriptions, which is something very, you know, we never always wanted to do but never could do.
+
+00:19:06:14 - 00:19:23:33
+不明
+Right. It's why we made the switch. It's why Adobe, you know, is our partner through this. Because we can create those things we knew existed. We just were never able to get to unless we kind of it's like hacked it together. Right. And you know, so and like feeding into all those things all the way into our back end and investments.
+
+00:19:23:33 - 00:19:45:55
+不明
+Aramark as an industry leader in kind of what we're doing around AI in our space is allowing us to get even faster and smarter. And that acceleration happens. So the reorders are not just reorders, but the reorders with suggestions. Right. And things that we can do at the right moments. We know we can. Not just managing what you buy, but how you spend, how you're, you know, again, starting to think about the things around packaging that you know, the different consumers.
+
+00:19:45:55 - 00:20:03:44
+不明
+I mean, we run a lot of businesses, a lot of them are very much the same. So we can leverage those insights of the industries we serve and start to pull those things together around your experience. So you're getting that more like, you know, getting all of the data from different sources and having that kind of smarter ontology allows us to grow that our asset.
+
+00:20:03:59 - 00:20:22:38
+不明
+And also remember, finally, it's on a mobile phone where it's really freaking easy, you know? And that was the part of like, you know, we heard you, we got ads. And I think a lot of our activity now is continuing to show up that it's on a mobile device. Right. That's where a lot of information is, are, you know, we're getting far less phone calls than we would get.
+
+00:20:22:38 - 00:20:44:17
+不明
+In fact, like Diane's doing things where we're trying to get those few that still on the phone to just let's deflect you over, right, and kind of get those things, because when they get on there, that's where we're getting on there. Honestly, we're seeing better, we're seeing more. And you know, obviously increase sales, but we're seeing like again, the retention of our consumers, our clients is continue to you know, we're people are staying with us more.
+
+00:20:44:19 - 00:21:08:39
+不明
+They're not going to the Amazons of the world. Right. They're seeing the value. It's easy. And again it's like I don't have to worry about this is not a problem of my day specific I examples that you're doing I think discovery and curating product suggestions. Right. Tell us a little bit more about that. What is happening on on the site generated by AI to I think you'll you'll see the simple things.
+
+00:21:08:39 - 00:21:30:33
+不明
+Right. The the matching of you know that you might likes you know and those types of things again based on inventory and stuff that we have like we're starting to kind of play around those. We have a long way to go. Right? I say this like, we've got this all figured out now. Like we're like anybody else. We've done a lot over the last years around AI and remarks made considerable investments in that space, but it was really around like being smarter with what we have.
+
+00:21:30:38 - 00:21:55:16
+不明
+And then how do we use that? How do we make better decisions around inventory at the right times? And those are the things, some of which you're seeing little bits of, and some of which is really kind of the things and, and Rich's like mastermind, kind of like, here's what I want to get to. And so I think we're because we've made those underlying investments and the architecture as an organization, we're now able to with the right can put the right platform in the right place with the right partnerships.
+
+00:21:55:21 - 00:22:20:04
+不明
+Now we're at the pace where speed is now. We can go really fast because we're also going really smart at the same time. Yeah. And I was going to add to that on the inventory piece. We have 50 plus market centers that are 56, right? Warehouses that have all different levels of inventory. We can run specialized promotions now to that client based out of the Dallas Market Center, because they need to move something specific to Dallas versus New York or wherever.
+
+00:22:20:04 - 00:22:37:53
+不明
+Right. And before we wouldn't have been able to do that. So now we're getting more and more specialized with messages of those market centers to feel very local, right, where they need to national Aramark, where we need to, and then localize some of those things to help them move the right product. And that's been a huge, huge win for us.
+
+00:22:38:01 - 00:22:56:26
+不明
+I think that goes to the people side of things. You know, our Mike's a really fun organization that's always been here a long time. And, you know, I won't pick on Diane, but she's been there a long time with me, too. But that part of we could really do well on just the knowledge and our hats, like the institutional knowledge, is really something that is great amongst our industry.
+
+00:22:56:31 - 00:23:16:25
+不明
+However, that's not the way it is anymore. You know, we don't have people staying an average of 15 years in our organization. So some of that institutional knowledge needs to be like it needs to be generated, it needs to be automated. It needs to be something that can carry on beyond this. And I think that's you think of those markets that are things we had great marketers.
+
+00:23:16:25 - 00:23:37:33
+不明
+They just knew it. My goodness when they left. Oh right. And so that's where we're getting the value of this is not doing, you know with less people. That's not really yet. Right. We're doing it. So again when our team delivers and stocks they can have a conference. Like I said go back to have a conversation like technology done well is us sitting there like talking to the office manager.
+
+00:23:37:33 - 00:23:54:08
+不明
+How are you? How's your family? Like, here's some cool things. I brought you something just for the holiday or your birthday. You know, all the things we know. But the time to do it, you know, that kind of carrying that knowledge forward, that's really kind of the things that we're going to continue to do. And you have to, you know, again, it's those.
+
+00:23:54:15 - 00:24:13:35
+不明
+So I'll give the plug to Adobe. They've got a great platform allows you to do that. You get the right partners that you have with us. You know the right vision of the future. This is all love. What's possible and again, why we're seeing now again organizations like wow, you guys right. We were actually almost unsuccessful, you know, even though we thought we were good.
+
+00:24:13:40 - 00:24:30:12
+不明
+But now we see where we can go. And now it's like, now what's. Yeah, it's like any good thing when you do. Well the biggest thing you got is more work, right. What's next? I think you touched on some of the results, right. Some increase order value, more time on site. But Diane there's also increased lead gen for for the business.
+
+00:24:30:12 - 00:24:53:17
+不明
+Right. And and increasing you know the the new customers that are coming. Anything you want to talk about from the Legion side of the new site. Yeah I would say for us Legion, it was more really around qualified leads. Right. Like I was saying earlier that like the really people that want coffee service for a building that makes sense for us versus again, other things that just didn't make sense or a lot of service requests.
+
+00:24:53:17 - 00:25:11:14
+不明
+Right. Or things that just weren't. So we found that that qualified lead, getting that right into the hands of a seller, we can close those very quickly. So the closure happens quickly because they're ready to they're ready to order. Right. And so that's probably the biggest piece of it that I would say that's happened. I would say the ease of use, right.
+
+00:25:11:14 - 00:25:31:55
+不明
+That like the great relevant stories attached to the blog to get people because they're business people, they don't have time to read. But those little snippets, right, of those things that say, oh, wow, this is what Aramark can do for me. This is amazing. Let me get more information and then we're able to close that sale. Because really, at the end of the day, I can get 10,000 leads if I don't close any of those and bring money.
+
+00:25:31:56 - 00:25:46:27
+不明
+The bank, it doesn't matter. So I always love the click open rates, but I like when somebody tells me they need something and then I can actually pull it through and say, this brought me customers and we're seeing that I love it, I love it. We have a lot of positive things. But what were some of the challenges?
+
+00:25:46:27 - 00:26:03:00
+不明
+I mean, this was a pretty big undertaking. And rolling out a new offering like this to you. You know, you talked about your sales teams, but what are some things that, you know, other organizations should consider? What were the challenging parts? I mean, look, I can speak from my perspective and, you know, working with team and listening, and I've been together for a long time.
+
+00:26:03:00 - 00:26:20:29
+不明
+So Rich and I and and again, the things that my, you know, my team, you know, when we serve the organization and creating the possibility is the hardest part is letting people know that one, we need to be thinking that way. And two, it's actually possible, right? I mean, it's again, I go back to the biggest challenges. You guys are fine.
+
+00:26:20:39 - 00:26:43:07
+不明
+Your numbers are good, right? We're hitting our commitments. Wall Street's happy, okay. You know wonderful. We're like, no it's not, you know, and we need to be thinking differently and having those things. You know, as we said, it's it's a challenge. You know, I had less gray hair when I started some of these conversations because you've and you've got to be like, you've got to be in to be able to sell it.
+
+00:26:43:12 - 00:27:05:54
+不明
+You know, I think the hardest part was selling him on the idea. Once he got there, it was getting there, then became the things of like any organization, look, we love to hold on to things for very long times. We love our stuff and for a lot of good reasons, but sometimes for a lot of bad, you know, and I think when we went through the transition looking at other providers and things and look, Adobe, let me be really honest.
+
+00:27:05:54 - 00:27:18:40
+不明
+I remember I think I remember the texting that Rich and I were doing when I was traveling. We were like, not, this is probably not going to work for us. Kind of probably be a little too hard, might be too expensive. And I remember like Rich texting. He was like, oh my gosh. He's like, you got to see this.
+
+00:27:18:45 - 00:27:31:55
+不明
+And I'm, you know, like send him like literally like text me. He's like, I'm going to send you the DAC. And you remember me on a plane like, oh, like, oh. Like they can do it, right. But I think those it's, you know, kind of getting people through the idea of the change of it, like, we can do this.
+
+00:27:31:55 - 00:27:55:12
+不明
+You have to be willing to a me, I said, the idea of designing is imagining if you destroyed it last night, what would you do? You know, and if you think that way, you may not take the decisions you would commonly want to do, which is like, well, hey, we'll keep the same platform and the same partners and we'll just like, yeah, look at the newer platform of the same, you know, did those things and breaking those habits, having those conversations is difficult.
+
+00:27:55:17 - 00:28:22:22
+不明
+Any organization can, you know, I speak to organizations and work with them around the world. And that is a challenge for us. And yeah, I spent way too much time on the PIM, data management. I mean, the undertaking of managing is thousand plus SKUs, hundreds and hundreds of vendors getting the right pictures and video and the right, you know, long and short in the right keywords and attributes.
+
+00:28:22:22 - 00:28:41:23
+不明
+I mean, we had a team of people because, again, we're going to replatform you don't want garbage in, garbage out, right? So I would say that was the biggest thing that we probably should have allowed more people more time. Yeah. For sure. So that's the one. And then two other languages with Canada, English, Canadian French, I mean it just and all different attributes and different things.
+
+00:28:41:23 - 00:29:09:17
+不明
+So I would say that that was probably bigger than what I expected and my team expected, got there continuing obviously to do it, but when that's not right, the other stuff doesn't work. Right. So I would say that was my biggest, one. And then I would say on the now after launch side, you know, because our experience wasn't great before, most of our customers are not self ordering customer service.
+
+00:29:09:17 - 00:29:29:25
+不明
+People are calling them and using the system to place an order. But it's an Aramark person putting an order in. We now when someone self orders were 20 to 30% higher AOV right now the challenge is to get those people that were like I didn't like it before, it was too much. I like what Mary calls me and I talk to Mary.
+
+00:29:29:30 - 00:29:53:23
+不明
+We love Mary too. I need them to go and go on to the self and figure out how Mary can do something else, to talk to them and touch them but yourself. Ordering to get to that higher ROI to get to that. So sorry. So I, I just feel like, you know, that's going to be our next journey is this whole how do we get people and and sent them to move over to self ordering.
+
+00:29:53:28 - 00:30:18:27
+不明
+And so that's where we are today. But they're like probably the two biggest things we have to now convince them. No, it is so much better. Yes. Yeah. So convincing them. But was there any friction with your sales team that you made such a big improvement? I mean, change is always hard. It just is. And, you know, so I at the end, the trainings that we did, multiple trainings going back, high touch things that we did, I think it definitely helped.
+
+00:30:18:27 - 00:30:38:53
+不明
+And going back, we actually did it with major clients also. So that I can more email campaign to tell people it's happening, what's happening, handholding them through the order system to we had to re log in and do your new name and password. Those little things are just roadblocks for people. You know, when you're not working like you forget.
+
+00:30:38:53 - 00:31:02:12
+不明
+And so I would say over communication, hand-holding through it, we continue to do that. It gets better. We had the round of Canadian next coming up in April. So we have learned a lot. But that one you can't overcommunicate call people, walk them through it, walk them through it again. Yes. As easy as a system is, change is hard for most people.
+
+00:31:02:16 - 00:31:21:53
+不明
+It's great. So you have this foundation now. And Peter, you kind of alluded to what's next. But you know what, are you excited now that you have this great experience? What's next for refreshments and maybe beyond an earmark? What are you excited about? I like I think we've, you know, continuing to see this journey evolve. I said it again, I always go back to my career starting refreshments.
+
+00:31:21:53 - 00:31:43:01
+不明
+And so it's always like that bias of this, you know, this is where my career started. And I think it's really cool to see it evolve and what it's become. I think from an organization we've made considerable investments in Adobe. We're going to continue to do so. The parts that I think I'm most excited about, you know, really when you think about, you know, 50 to 60% of fortune, two 50s are actually exploring and into a guy.
+
+00:31:43:06 - 00:31:58:36
+不明
+Right? The idea that you hear the why they all the trends are there agenda conversational, whatever you wanna call it. Right. It's got lots of good marketing names. But the idea that, you know, a genetic AI is going to continue to rapidly accelerate because the costs. Right? I mean, again, it was like a million interactions was like $60,000.
+
+00:31:58:36 - 00:32:19:22
+不明
+Now it's like $0.60 or something at $60. Right? So as this costs continue to come down and people start to use it like we we knew this back in 2018 is that, you know, 60% of people would rather text a business versus like call a business. We see that now that I can create this experience, by the way, where I can just go in and say, reorder my, you know, just reorder my stuff and it's done right.
+
+00:32:19:22 - 00:32:39:43
+不明
+I can ask, you know, what's the promotion? Oh yeah, I want that those things around your mobile. Or we can think of digital and even mobile's role. These platforms exist to then start to put a gigantic on top of it. And I think we'll see that. Different opinions. Peter's point of view only is I think we'll start to see that pretty heavily the next 18 months, heavily meaning more people planning for it.
+
+00:32:39:47 - 00:32:58:14
+不明
+For companies like Aramark, you see us doing it, you know, again, we've gotten a huge experience around a genetic AI going on and several things that we do. So we're learning right. We're kind of in that phase saying okay now we're ready. But I think that's something I'm pretty excited to see as you see it, in everything you do, there's always some sort of agent experience and more and more things.
+
+00:32:58:16 - 00:33:16:09
+不明
+It's becoming more common. It's where people look, it's becoming simpler, it's becoming more affordable and different things. So I think that's going to be a really fun way to figure out how do we do that? What is that? You know, for us in the workplace right. For the break firms, what is it for the other parts of our business.
+
+00:33:16:09 - 00:33:36:01
+不明
+And, you know, colleges and universities and sports and so on. So I think that's the really exciting thing and that we are ready for it. Foundationally, we're really set up and we're there. So it's just now just speed and going, you know, how do we create those things. So when you go visit a park that we can actually like, use that to guide you through and create amazing experience before you hit Yosemite.
+
+00:33:36:06 - 00:33:54:56
+不明
+So this is like the fun things to do. It's exciting. And Diane, you talked about, expanding into other regions or, and languages that you're doing on the site. What else are you looking forward to the next phase of this refreshment experience? Yeah, I mean, I would say it's around loyalty, getting customers, you know, like, how do I keep them engaged?
+
+00:33:54:56 - 00:34:09:29
+不明
+How do I get them to buy more for me, make sure that the user experience continues to evolve and get better. Right. You can't be stagnant. You have to like, keep talking to them. Keep making sure, that, you know, they're using us and we can make sure that, you know, we're helping them in the ways they need to get help.
+
+00:34:09:34 - 00:34:32:04
+不明
+And we connect that to, you know, our warehouses. Right. And that when we're running bundling. So now that we can do all these things is the connected part that the warehouse can actually deliver on everything. Right? So we're really focusing on making sure that that end to end works, seamlessly. And how can we run things that, engage our B2B customers and then the warehouse can deliver them?
+
+00:34:32:04 - 00:34:50:20
+不明
+So still working through that piece of it, because you can run a ton of, you know, promotions and a ton of things. But if the warehouse isn't set up to run them the right way, which is really resetting our warehouses, which we're working through, I think that's the big piece because, again, the physical and the digital, we're not pick packing, shipping, we're actually going there with route drivers.
+
+00:34:50:34 - 00:35:07:48
+不明
+And we have to just make sure that they're all aligned so that when a customer does have a question about something on the website, that they actually can help them because they're physically in their spaces once, twice, maybe three times a week delivery. So they can also help them say, oh, here, let me show you how to order.
+
+00:35:07:48 - 00:35:29:18
+不明
+So those are some of the touchpoints that we never want to lose. That hospitality piece of what we do with making sure technology enhances the experience and they work together. That's always the challenge with us. On the B2B side and the B2C side, we're always trying to take that digital and physical and making sure it enhances the experience and wonderful.
+
+00:35:29:18 - 00:35:48:03
+不明
+Well, I think it's a great story, and I love hearing the success that you guys have seen and the excitement of what's to come. Peter and Diane, thank you for sharing this story with us. And excited to see what what lies ahead. And maybe this time next year we're talking about some engine tech solution. Add it in for now as well.
+
+00:35:48:03 - 00:35:52:44
+不明
+Thank you. All right. Thanks everyone. Thank you.
+
+00:35:52:49 - 00:35:53:27
+不明
+For.
+

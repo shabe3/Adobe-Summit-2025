@@ -1,0 +1,532 @@
+00:00:04:15 - 00:00:28:19
+不明
+thank you so much for choosing to spend the next hour, with, with us. My name is Justine, and I've got the great privilege of coming to you from IBM consulting. I'm a partner within consulting, and I lead, content supply chain capability globally. Today, and we're joined by some fantastic friends and colleagues to tell their own transformation stories around content supply chain.
+
+00:00:28:26 - 00:00:46:18
+不明
+I'll be inviting them on to the stage. Just in a moment. This session comes in kind of two sections. We're going to do a few minutes of just grounding ourselves in why? Why do we care about this topic? Then the majority of the session is going to be hearing from, Betsy and Tim about their own journeys in a more conversational style.
+
+00:00:46:25 - 00:01:06:07
+不明
+And there'll be a great opportunity, if you'd like to ask some questions. And please do, please do so. You can raise hands and I will translate for the audience. So you can, come to one of the mics is very much up to you. And then we'll be rounding off with some kind of takeaways and, some, top tips if you're also embarking on your own journeys.
+
+00:01:06:09 - 00:01:28:28
+不明
+So we're going to do a bit of a whistlestop of why do We Care? So we're talking about the content supply chain. But the reality is all of this, is supported and ladders up to personalization. So we know that, consumers, our target audiences, expect to have personalized experiences. It's not a nice to have. It is very much a minimum expectation.
+
+00:01:29:01 - 00:01:48:20
+不明
+For all of our digital experiences. So that's what we're striving to achieve. We also know that in order to deliver and fuel these personalized experiences, content is king. And in order for us to really understand the exponential demand and growth of content, I want us all visualize for a moment. Can you can you do that with me?
+
+00:01:48:20 - 00:02:15:18
+不明
+Let's see some visualization. And so I would like for you to imagine now that your organization represents 100 products that might be representative of your organization. I don't know, but for your organization, this part, this visualization, are you have 20 content assets associated with each of these products. These products and satellites as we know, think images, think videos, think product descriptions, banners, regulatory compliance statements, etc..
+
+00:02:15:21 - 00:02:43:05
+不明
+100 products, 20, 20 assets you're serving 20 global markets and you have five personalization profiles. Just with those variables, we are already in excess of 200,000 content assets. And that's just volume. Before we even start talking about getting those content assets into the right place at the right time, with the right message. But although these content demands are increasing, budgets unfortunately are not right.
+
+00:02:43:08 - 00:03:02:05
+不明
+We have to be able to serve this increasing need with the same, if not less. So we need to be looking at ways in which we can drive efficiencies through that content, process. And it makes sense to start with where has the most impact. And that is those incredible individuals in this audience and, in our communities that create content.
+
+00:03:02:08 - 00:03:27:12
+不明
+So Adobe, a couple of years ago did a time emotion study and looked at, on average, how creative spend their time. And rather shockingly, only 30% of it was spent being creative. The rest of the time, 70% was doing timesheets. Who loves their timesheets? Reporting on the work that we're not doing because we're reporting on it, etc. so there's an incredible amount of efficiency that can be gained by making the lives of people in this process more efficient.
+
+00:03:27:14 - 00:03:54:24
+不明
+But it's kind of unfair to pick unilaterally on the creative, because it's on a backdrop of real inefficiency that's grown over time. And this is a real process map for a marketing organization associated with content briefing, production and distribution. But if we think about marketing and in the context of its peers of finance, H.R procurement, for example, marketing hasn't yet gone through the transformation that those other departments have.
+
+00:03:55:01 - 00:04:29:05
+不明
+So it really is very much marketing time, right? And for us, we, characterized this as something called the intelligent content supply chain. And that is the combination of incredible people and the knowledge that they have about the way they do their work with incredible technology, data automation, AI, with the content assets. So these messages, those visuals that bring to life the action that you want people to take in the ecosystem of what is a supply chain, right message, right time, right person.
+
+00:04:29:07 - 00:04:48:21
+不明
+Perhaps a little controversially, we don't actually think of the content supply chain as a set of products or services. We think of it more in the context of a maturity curve that you can describe with characteristics. So I'd like to think, you know, you could think about your own maturity of your content supply chain by asking yourselves some questions.
+
+00:04:48:21 - 00:05:12:04
+不明
+So with confidence, can you say, you know where every dollar or pound or piece of currency that you have aligned to content production, can you with confidence say you know what the return is of that investment? Probably not. Can you, with confidence, say that for every content piece, you understand how it performs and the variables that influences performance?
+
+00:05:12:06 - 00:05:38:01
+不明
+Probably not. And can you confidently say that all of that comes together to help you iteratively improve briefs and content production for performance increases improvements each time? Probably not, but that really is an indication that an A maturity curve. This is a journey, not a destination that places in which you can look to pull those value levers to make things better, improve the outputs of where your investment goes.
+
+00:05:38:03 - 00:05:58:15
+不明
+And this is where we kind of enter into the generative AI story. And to talking about from well to Howard, it's taken me this long to get to Jenny. Jenny, give me a moment. So I think, we are seeing a incredible increase in the importance of the content supply chain because a few things have happened, namely gen AI.
+
+00:05:58:17 - 00:06:24:18
+不明
+And we've seen this opportunity where people have experimented on the side a little bit with this incredibly powerful technology. But now we're finding this turning on its head. And instead of an experimentation on the side, we are looking at those foundation principles to completely transform the way in which work is done. So the AI becomes the foundation principle for future proofing any investments, any developments in technology moving forward.
+
+00:06:24:20 - 00:06:48:04
+不明
+Excitingly, we've just announced a release. Excuse me. Yesterday, a new piece of research with our colleagues at Adobe and partnering with, IBM's research organization, the IBM Institute of Business Value, a longitudinal study where we've been looking at the impact of generative AI on the content supply chain over a number of years. And, please do use the QR code.
+
+00:06:48:04 - 00:07:18:21
+不明
+If you don't get it the first time, there'll be a couple of other opportunities to, grab the link later on. But the interesting there's a couple of interesting findings for the purposes of this conversation today, if we compare this year's results with, original questions, when we first, first launched this type of study, the, the realization is that organizations believe they're falling short of the expectations they had on themselves for where they would be today in terms of implementation of generative AI into their content supply chain.
+
+00:07:18:21 - 00:07:48:19
+不明
+That is, they haven't done it as much as they might expect. But interestingly, there's a real understanding of why that is, because the experimentation is helping them understand that there is complexity with, adopting this technology at scale that is moving from pilot into enterprise value. So a foundation pieces up play that you need to get right. So instead of, surprisingly again, perhaps is although organizations are falling short in terms of their adoption of this technology, enthusiasm has increased.
+
+00:07:48:21 - 00:08:21:00
+不明
+So almost two thirds of organizations are more excited about the potential impact I can have on the content supply chain, even though perhaps they're a little bit further behind where they thought they might be. This this time a couple of years ago. And most excitingly, is that those organizations that have truly embraced the content supply chain and generative AI are getting significant, better returns on investment for those of organizations that have not 22% greater return on investment for those companies that have gone all in on generative AI.
+
+00:08:21:02 - 00:08:43:03
+不明
+So what is it that we mean about, gen AI? Excuse me being all in and to help tell that story, I would like to firstly welcome Tim, from Steelcase to share with us a little bit about his journey so far. So good. Good afternoon. Really excited to be here with our partners from IBM. And and it's great to, to be at summit.
+
+00:08:43:05 - 00:09:01:16
+不明
+In fact, last year Mandaue said, hey, we're going to put you on stage next year. And I said, we won't be ready. The truth is, I'm not ready. But I think we as an organization are ready. But just show of hands. Who who has heard of Steelcase before? Before you read the the intro to this session.
+
+00:09:01:18 - 00:09:33:23
+不明
+Okay, good. So Steelcase is a 113 year old, office furniture manufacturer. We're actually the largest contract, furniture manufacturer in the world. But but that's not as important today. We're talking about digital. And for 112 of our 113 year existence, we did not have a centralized digital team. And so last March, we kicked off, a growth pattern, in alignment with our corporate strategy to really bring together digital and really start to engage and invest.
+
+00:09:33:25 - 00:09:54:26
+不明
+And I want to show you some of what those investments are here today. But what do we do? What we really do is we work for you. We we pride ourselves on bringing innovation into the, into wherever the workplace is. And so our goal is to make your environments work for you and thereby help you work better.
+
+00:09:54:28 - 00:10:16:07
+不明
+Whether that's in education, health care, whether that is in corporate or in a small business setting, that is our goal. And so it manifests itself as space. But ultimately we we are here to support your work and help you work better and even in your home and we'll talk more about that. Just a snapshot of of our company.
+
+00:10:16:10 - 00:10:41:11
+不明
+We I think the key takeaway here is, is that center board, we have 770 dealers. We are primarily B2B, and so we extend ourselves through those dealers into all the markets across the world. We operate in Asia and EMEA as well as in the Americas, which is, the healthier proportion of our business. But ultimately we manufacture across the globe as well, within the regions.
+
+00:10:41:14 - 00:11:02:14
+不明
+But before we dive into the content supply chain, we start talking about, I just wanted to give you a snapshot of where we are as a company. We are on a long arc digital reinvention journey, and in one respects that is happening in our I.T and our operations organization with a massive ERP implementation, which our partners at IBM are also helping us with.
+
+00:11:02:14 - 00:11:30:29
+不明
+And we've taken a lot of learnings into the digital side. But what I'm trying to do and what my teams are trying to do is build a digital factory. And we believe that content supply chain is absolutely critical to fueling that factory, making it high efficiency. And just like we do in our physical and manufacturing footprints, we want to lean it out and we want to make sure that it's as effective as it can be with the processes and ultimately the associated, value added activities that we have.
+
+00:11:30:29 - 00:11:55:03
+不明
+And AI plays a huge role in that. But before I can get to the right side of that slide and really transform that digital customer experience, I've got to start on the left side. And that was really about assessing our current data ecosystem where we have our flaws. Right. Peeling back the onion and ultimately getting into the underbelly of our data, because otherwise the AI is just going to be trained on garbage.
+
+00:11:55:06 - 00:12:22:11
+不明
+And I can't afford that. Our customers can't afford that. The influencers are across our organization and our industry. They won't tolerate it. And so ultimately, for us to compete and to continue to transcend, we really needed to get our data right. And so we went through these kind of step by step, really implementing a vision. We worked really closely with our partners at IBM, our partners at Adobe, to find the right technological stack and then ultimately to make the investments and move us forward into the future.
+
+00:12:22:13 - 00:12:46:04
+不明
+So when we talk about content supply chain, why why is it important to us? Well, like I said, I want this digital factory and I want our ability to to promote, content out into the various landscape of omnichannel. I want to be able to promote it to our dealers. I want to be able promoted to our architects and designers that have critical influence over whether our products are going to land in your office spaces.
+
+00:12:46:07 - 00:13:04:07
+不明
+At the end of the day, these were the top items, right? And I hope each one of you looks at this list and can say, hey, I'm dealing with that too, right? Because they're not unique to Steelcase. They're not really unique to digital, right? If you look closely, it has dealt with a lot of these issues over the years as well.
+
+00:13:04:09 - 00:13:32:16
+不明
+But the last one is the one that's most important to me. I came to Steelcase to start our data science practice 12 years ago, and our data was a mess. It was a mess then and that was more ERP driven and things like that. Our digital ecosystem is also, very challenging, is very complex, which is part of our goal is to reduce that complexity, to bring online new capabilities and then ultimately to make my company much more customer centricity.
+
+00:13:32:19 - 00:14:00:09
+不明
+So this is just a snapshot of our future state. I think the top line on there, going from implementation of work front, the implementation of a new dam and assets, and then ultimately we've invested in Content Hub as an early adopter with Adobe. Our goal is to make that back stage as efficient as possible, to make it, to make content accessible, to make it consistent and extremely available.
+
+00:14:00:12 - 00:14:21:22
+不明
+So our industry operates in a very bespoke manner. There's lots of archaic tools that have not completely evolved yet, but we need to feed them, whether it's electronic catalogs or it's just product variations, which I don't think you probably don't understand how complex, furniture can be. If you've ever put together an Ikea set, you have a pretty good glimpse.
+
+00:14:21:24 - 00:14:41:10
+不明
+Just imagine not having that one screw that holds it all together, or putting the dowel in in the wrong. That's what our installers deal with. And so lots of rules, lots of specification requirements. But ultimately, this is about our ability to deliver data to the right tools. And, and the bottom right corner is really where the AI starts to come in.
+
+00:14:41:10 - 00:15:05:06
+不明
+So we're looking at things like data driven design, floor plan, specification generation and ultimately giving the tools to our ecosystem partners, to make sure that they can be successful. In just a glimpse of our early mapping, I think these are going to be dwarfed by, betsey's, wonderful statistics from the IBM side. But early in this journey, we set out to really start to measure value, right.
+
+00:15:05:08 - 00:15:29:18
+不明
+We're making some strategic investments where, you know, they cost real money and real capital to to implement and to manage. But ultimately, what it's about is the early adopters of work front. In this case, we took, about 60 to 63 measurable elements. And what I mean by that, those are just those fractions of a process, the fractions of a person.
+
+00:15:29:21 - 00:15:55:19
+不明
+And we started to pull those together. And so this is a practice that our partners at IBM brought to, to Steelcase on the ERP side, which really helped us to understand where we could have impactful value contributions by by standardizing our global processes. I'm doing the same thing now on the digital side, and really trying to put us in a position to get some measurables that we can we can put in front of somebody to say, this pool is worth $100,000.
+
+00:15:55:21 - 00:16:16:17
+不明
+If you can believe that we can take 10% out of this pool, then it's worth $10,000, right? And we can start to build a value case that aligns, over these, value pools. So we're doing this for work front independently. We're doing this for the dam. We're doing this for also for a product information management system. And we'll continue to do this practice as we move forward.
+
+00:16:16:19 - 00:16:34:21
+不明
+But I think the the most important thing is the impact to the users. I had an early journey, an early adopter of work front and our creative director in the Americas, and she was really struggling. And you can see her intake process was 2 to 3 weeks long, right? So if I just take that on, it's on its lower end, right.
+
+00:16:34:21 - 00:16:58:23
+不明
+Two weeks, 14 days. Multiply that out into or into minutes and you're you're 20,000 minutes. Right. That's phone calls, emails, teams chats. Lots of meetings just to get to scope. And then her team can go do renderings, graphic design, videography and photography, all the things that create the great assets downstream. Well, we've reduced that to to ten minutes, right?
+
+00:16:58:24 - 00:17:30:14
+不明
+That's a 99.8% reduction in overall time spent by her team doing that administrative. So Jay showed you that right. Our creatives want to be creative and we want to enable that. Now this is without AI. So now imagine how can I extend that with the generative capability. So that that brief is now creating itself. How how do we extend that using the technology and putting ourselves in a position to say the creative is going to focus on creative and let the administration happen under the hood, with fusion and other technologies within our stack.
+
+00:17:30:17 - 00:17:54:24
+不明
+And then lastly, we were operating blind, right? Our management did not have visibility. They didn't have capacity planning. They didn't have scheduling tools. They were burning out their employees, unbeknownst to them, they were reassigning work constantly and all of that. If I take a lean manufacturing approach, that's all waste, right? It's waste in the system, and I need to be able to root that out and help.
+
+00:17:54:24 - 00:18:15:17
+不明
+And so work front in this context is really helping this creative team to to deliver on that promise. And then lastly, from a data quality perspective, again, you want to feed I feed it good data, good quality metadata, make things searchable, make them really easy for those, large language models to go out and retrieve and augment and then ultimately generate.
+
+00:18:15:20 - 00:18:43:07
+不明
+This is huge for us. We really had no control over our metadata for our, critical digital assets. And now we have a standardized form. We have standardized onboarding. We have all of the makings of clear accountabilities for asset management, which now I can have a longer, lifecycle management for our assets instead of the, you know, assets from 2002 still being out there in the wild when we've called that product and we've taken it out of the market maybe decades ago.
+
+00:18:43:10 - 00:19:00:29
+不明
+And so this is this is the value that we're contributing by creating our content supply chain. And the future is really bright. Once, once it's fully up and running and then feeding all of those great things like generative AI. Thank you.
+
+00:19:01:02 - 00:19:12:15
+不明
+Thank you very much, Tim. And now I'd like to welcome Betsy from IBM marketing to tell her transformation story. So far. Thank you.
+
+00:19:12:17 - 00:19:38:17
+不明
+Thanks, Jay. Thanks, Tim. Hi, everyone. So I'm Betsy Robert. I run ibm.com and we are as a, as a company about the same age as Steelcase. And our story, maybe we have a six months to one year head start. So we're kind of picks up a little bit where we're, Tim is leading Steelcase right now. Really mobilizing this technical foundation to activate the content supply chain to deliver those business outcomes.
+
+00:19:38:19 - 00:20:03:15
+不明
+So let's go back in time a little bit. We had a similar pain point. Our data was everywhere. We're feeling viscerally every day. We couldn't see how well we were doing, how well our content was performing. And that lack of visibility was, was stopping us from being user centric and digital first data driven. And when you're a century plus old, perhaps that's not your legacy.
+
+00:20:03:19 - 00:20:31:21
+不明
+But if you want to live, another century has to become your legacy. Now. So our partnership with Adobe was more than just adopting adopting the technical foundation, but it was changing our business processes and changing our people to be able to leverage these great capabilities to deliver value to the organization. And as we progressed, we started to train and enable and really grow on these foundations and grow our people's capabilities.
+
+00:20:31:21 - 00:20:55:29
+不明
+And in doing that, repurpose, headcount from doing repetitive tasks to doing unique tasks every time, that would compound what we were delivering in the market where we started was, and I'm looking in the audience because my, my head of performance and web engineering are sitting right in front of me, 40 million web pages. And we did a lot of additions by subtraction.
+
+00:20:55:29 - 00:21:22:29
+不明
+Many of them don't exist any more redundancies, 500,000 assets, similar to Tim. I'm pretty sure there was, my, a picture of my IBM PC two that was sitting in my bedroom in 1980 something. Sitting out there in our assets, we we had a great deal of of, of clean up to bad. The end of the day, you can't have AI without AI information architecture.
+
+00:21:23:01 - 00:21:52:09
+不明
+You have to put things in order. So clean and govern data is critical. It's critical to the foundation. It's critical to building. And it is a lifelong task of hygiene. My measure of success, on this foundation is not the dollars we put in, but the dollars we get out. I shouldn't have to invest another dollar in my technical foundation without getting an exponential return, because we're enabling people to do more and more every day.
+
+00:21:52:11 - 00:22:21:14
+不明
+So every time we can reskill, upskill, we are getting more value out of, out of an investment. We've already made it and amortizing it over a longer period of time. But I will say the market, the martech was actually the proverbial tip of the iceberg. We had to look at our Salesforce, for instance. We have to look at Ariba, we have to look at SAP and all the other, big parts of the technical foundation that we that many of us run and recognize that marketing is part of a larger system.
+
+00:22:21:17 - 00:22:41:17
+不明
+And if we're all committed to transformation, we all have to commit to transform. So what does it look like in practice and mean? I'm going to go more on the creative side, because it's kind of fun to see how these things end up looking. When you're producing thousands and thousands of assets so close enough doesn't quite work.
+
+00:22:41:17 - 00:23:06:11
+不明
+They have to hang together. They have to be visibly your brand and connected over digital to different touchpoints, different continents, different spaces. In time, even as your brand evolves, does need to connect from year to year. So the rationalization of our tech and our data change the human behavior within our team is to create that focused go to market.
+
+00:23:06:14 - 00:23:22:02
+不明
+A couple of years ago, we we looked at, our, our myriad of campaigns that had grown over time and brought it all back home to one ethos. Let's create and we ask ourselves regularly, what if?
+
+00:23:22:05 - 00:23:55:10
+不明
+Let's hold that thought for a minute and go to the martini glass. Because this is what AP looks like in my mind. We're not done connecting. We're innovating on top of it. So everything that, the Adobe Experience platform offers us in terms of connecting the data with the audience with the creative, is a flywheel of test results iterate, optimize, test, iterate, result, optimize so you don't make the same mistake twice.
+
+00:23:55:12 - 00:24:23:22
+不明
+And in fact, you build you. I it's a bad term, but you do fail forward. You learn from everything you've done right and the things that underperformed, and you close the underperformance gap every single time. The detail. Remember when we all had to do those detailed regression analysis and the analyzes and the Monte Carlo simulations about the best go to market with the genetic AI, and the, the, the workflows that we're seeing those days are over.
+
+00:24:23:26 - 00:24:51:03
+不明
+That work is being done for us. So we don't have to spend as much time reflecting on how the creative did in market. You watch it perform in market and improve it in flight, which is what we have been doing. And as we've progressed, we actually can see this in our savings. So the one thing, marketers in the room who hates the term cost center as much as I do, we're not a cost center anymore.
+
+00:24:51:05 - 00:25:13:06
+不明
+We not only are we a cost savings center, we are a revenue generation center. So in our marketing transformation, we succeeded in taking $300 million of cost out. And that includes agency fees. It includes redundant tools. We reduced our dams from 40 to 1. And I will say some of the dams were not so much dams as folders.
+
+00:25:13:09 - 00:25:31:19
+不明
+But folders. People really relied on them when it was missing. Very much wanted to know where it went. So there's a human behavior aspect to this too. But you win hearts and minds when you get to market 75% faster. You win hearts and minds when you're saving people the time to do repetitive tasks and putting it to high value tasks.
+
+00:25:31:22 - 00:25:51:03
+不明
+And when you can generate this number is now low. I mean, the amount of biasing, the amount of intent signals and buyer, buyer insight that we are getting did day from interaction with different asset as opposed to the same audience interacting with the same asset. It just pays off in dividends.
+
+00:25:51:05 - 00:26:35:04
+不明
+So, Firefly has enabled, our marketers to focus not only from a productivity standpoint, but also, garnered a great deal of positive results for us. So, for those of you here, about two years ago, Adobe announced Firefly, and about two months later, we rolled out a campaign using Firefly at the Masters, and we were building off on our what if, the the quintessential question mark that you were seeing all over our our social media and our brand presence, and we were thinking about what if we remastered the masters, building, showcasing that IBM was, has a co-creation process with the AI capabilities related to golf's biggest tournament.
+
+00:26:35:04 - 00:26:58:12
+不明
+And for those of you who don't have the Masters app, it's like really fire. So definitely download it when you get a chance. It'll make it makes the whole tournament so much better. And the mastermind, Billy Seabrook, is sitting in front of me. So we thought about, how can we apply this great firefly generative technology to our creative and stay true to our brand?
+
+00:26:58:15 - 00:27:18:08
+不明
+And in a very short period of time, really just two days, our creative team had thought about how do we make this question mark appear in the landscape of golf. And you can see the multiple iterations. They connected very well. But I think the really amazing thing is they performed 26 times better than anything had ever performed in social media for us.
+
+00:27:18:11 - 00:27:44:18
+不明
+And I don't know that being a century old company, social media and performance, you know, those things don't necessarily combine, but it actually created a groundswell of really wanting to do better every time. So for those of you who were here last year, you might remember, our twister at You Create campaign. We we use the landscape of the sphere to display a fishbowl.
+
+00:27:44:20 - 00:28:12:09
+不明
+And partnering with Adobe, we, we launched our trust. What you trust what you create campaign, which showed when you applied trusted AI, that fishy looking fish went to more traditional looking fish. If you knew your model was commercially safe. So for you, you would see, we backed when we put in a prompt goldfish, we got, like the Bruno Mars 24 karat gold fish.
+
+00:28:12:09 - 00:28:40:06
+不明
+We got something that might look more like a cracker, and then we get the fish. And technically, all of those are right. But what is the trusted? And, similarly, the ideation process was it was not only fast, but it was fun. And the one thing we noticed when we put our creative teams together in the room with the AI models is when the first generated idea comes out of AI, they're willing to critique it openly.
+
+00:28:40:09 - 00:29:02:29
+不明
+When the first idea comes out of a human, they don't because they feel they're going after the human. But you're not going to hurt the AI's feelings. So this really just generated a groundswell of support for using this technology more because everyone feels safer to say, I got my first pass from the AI. You can separate yourself from the from the artistic integrity.
+
+00:29:03:01 - 00:29:42:22
+不明
+This stopped being our cool practice pretty much in that moment. And now is just our practice. Our process for creating personalized digital banners and several other all kinds of derivative assets has gone from six weeks to six seconds. When we create a big piece of content, we create the derivative to go with it. The ad copy the email, and I have to say, I'll even tell my team, even if we never use it, don't lose the opportunity to create it in the moment, because on the off chance it comes back later, or when we refresh it again, shortens the cycle.
+
+00:29:42:24 - 00:29:50:24
+不明
+Thank you.
+
+00:29:50:26 - 00:30:05:20
+不明
+All right. So we've heard from, Betsy and Tim and their transformation journey so far. I've got some prepared questions I'm going to ask them that gets under the cover of this. But as we go through, if there's any questions from the audience, please do raise your hand. Come to the mic and we'll make sure we feed those in.
+
+00:30:05:22 - 00:30:25:23
+不明
+But to get us started, you've both described incredible journeys and it's inspiring to hear, but I know from working with other clients, it can feel big and it can feel intimidating. And one of the questions we get asked all the time is, where how do you get started, where and why did you start and the way you did?
+
+00:30:25:24 - 00:30:51:25
+不明
+So can you share? Tim, let's start with you. Why did you start and what and where, you know, what motivated you to get started in what you did? Yeah, I would just say I mean, ultimately, we recognized coming out of the pandemic that our industry was changing. It was changing rapidly, expectations were changing rapidly. And in order for us to compete and to I mean, to some degree defend our territory, we had to change.
+
+00:30:51:25 - 00:31:16:25
+不明
+And so when we took a look at what digital experiences meant to Steelcase, we quickly surmised that it would be great to change our websites, our web tools, and all of our generative specification, but we couldn't fuel it. And so ultimately, we kind of went back and in and really focused on that data in the data tier. So that's where content supply chain really became the heart of our digital transformation.
+
+00:31:16:27 - 00:31:46:16
+不明
+Thanks. So you know it did start the the epicenter of our pain was data. But the broader disease was scale. With 2600 products give or take. There's just no way for your entire employee base to be universally trained on your brand at any given time. So being able to use the AI, and the data to show where we were hitting and where we weren't, so we can move everyone together to a common point of view about how our brand goes to market.
+
+00:31:46:16 - 00:32:14:17
+不明
+And then breaking it down into products was just a it was beyond anything we could do on our own. As an extension of this, I know another kind of challenges in the context of this being a journey, not a destination. Measuring progress is really, really important, not just for internal what kind of motivation, but also stakeholders. So how have you both, really anchored in around measuring and continuing that drumbeat of support, both from an employee but also stakeholder point of.
+
+00:32:14:19 - 00:32:38:16
+不明
+Yeah, I would say, you know, I'm an operator, so we always want to have our numbers. And ultimately we in manufacturing, we use a pretty standardized framework called QTc. So safety, quality, delivery and cost. And I think as it pertains to our digital ecosystem, we want to do the same. So we've built a hierarchical measurement framework to, to deliver on those, those specific elements.
+
+00:32:38:16 - 00:32:54:27
+不明
+And I would say as it pertains to like the AI and people want to use AI, but it injects a certain amount of cost. And so we have to get that value trade off to ensure that the efficiency is worth the compute cost. And and I know that's continuing to fall. And that's something that we monitor really closely.
+
+00:32:54:27 - 00:33:24:00
+不明
+But ultimately we we really do want to root out cost. But I really want to deliver and I want to deliver in a high quality fashion. And that's what regardless of the method of of creation and delivery, AI or just artful, I think it's it's really important that we start with the stable foundation. Let's see. So of course, we have our standard marketing measures that were all from click through rate and cost per click and, and engagement and conversion.
+
+00:33:24:02 - 00:33:44:25
+不明
+We're looking very heavily on the ROI of a working dollar. A working dollar doesn't have to necessarily be a media dollar. But as you can free up more capital to put into working dollars, the the overall ROI of marketing goes up. One of the other ways. We actually we look at measuring the lifetime value of a customer, but we also have to look at the denominator.
+
+00:33:44:25 - 00:34:05:18
+不明
+We want the lifetime value of our customers to go up as the unit cost of acquiring them goes down. So we have a, you know, a dual plane we have to be looking at at all times. And the AI is a great enabler for efficiency to show us where we can, make back some nonworking and put it in working.
+
+00:34:05:20 - 00:34:28:15
+不明
+So we've spoken a little bit about getting started. Measurement of progress. We haven't really touched on the technology that's underpinning, a lot of the transformation. So I'm interested to understand, Tim, we'll start with you. How have you made those technology investment decisions? I mean, the stand up of our team was sort of the catalyst for us to be a lot more programmatic in our approach.
+
+00:34:28:15 - 00:34:50:00
+不明
+It was very much siloed. You know, if you had budget, you could go invest. And what we found is we just had a lot of tools and we didn't have 40 dams. But I guarantee you 44, 39 sitting around if you'd like. I think ultimately what we found is like we needed the technology to be the catalyst for the centralization and the unification of our data.
+
+00:34:50:00 - 00:35:11:18
+不明
+And so taking a very pragmatic and, programmatic approach was in the best interests of our company, in the best interest of feeding everything downstream, as we try to enter the market as fast as possible. And what about you, Betsy? From a from a foundation standpoint, you have to respect the technology for what it was meant to do in nature.
+
+00:35:11:20 - 00:35:30:28
+不明
+And implemented in that way. And then as you grow, we are very proof of concept based. We'd like to prove in a small in kind of a small test environment that something could be beneficial to rollout more widely. And, we live in the spirit of experimentation. And that's not just on the page, but it's also in our tech stack.
+
+00:35:31:05 - 00:35:53:10
+不明
+Well, I mean, that's a great Segway, actually unplanned, by the way. So this I know this is, something that we all feel passionately about and this is around adoption. And. You bet. So I'm going to start with you here. You mentioned how this kind of culture experimentation, can you link that to how you're driving adoption of this transformation?
+
+00:35:53:13 - 00:36:19:28
+不明
+One of the things I love that when we when we first moved, into a, from our legacy platform, we did classroom learning, good old fashioned 12 people in a room, live instructor. The playbook I've used before, it creates the culture of of people helping each other. So everyone's learning together. It's kind of like when you're in, you know, boy or girl scout camp, you learn to build a fire together.
+
+00:36:19:28 - 00:36:44:20
+不明
+Like, everyone feels like they've been in the in the trenches together, and they learn together, and then we adopt on top of it. Weekly authoring sessions. And now we have analytics analytics sessions where one can help each other. Showing a building a community around using these products gets more people to use the products. And I am fortunate to have a team that likes homework.
+
+00:36:44:23 - 00:37:11:12
+不明
+Do they really or are they just telling you that I answer that session? Tim, same question to you. You're now on the clock. And I don't like homework personally. I would say I mean, obviously we do not want to stand in the way of innovative ideas. So allowing, you know, prototypes and pilots to to be mature and ultimately to get those learnings, I mean, really applying that try, test, learn methodology.
+
+00:37:11:15 - 00:37:28:20
+不明
+But at the same time, we also want to take those learnings and put them into scaled solutions. And so to get adoption, I mean, you have to just show like you have to bring the executives in and show them how a chat bot is working or how the agent layer could work, and then show them that it does work.
+
+00:37:28:23 - 00:37:48:19
+不明
+Regardless of what platforms you're calling upon, they don't really care. You know, that it's Salesforce or Microsoft or Adobe, like I think we do, because it brings a level of efficiency to our world. I think we really want to use case studies, show Intel sessions and, and really document like where that value is going to be created.
+
+00:37:48:19 - 00:38:08:27
+不明
+And I really love taking snippet quotes from our leaders and even from our individual contributors to say this will help me if and then they fill in the gap, right? They say this will help me because my AI is now doing this rote task that I don't want to do, and thereby I can go do other things. That's a really powerful message.
+
+00:38:08:27 - 00:38:24:21
+不明
+And we just call that word of mouth, right? They're telling their friends and their friends are coming and asking the next set of questions, which means we have an opportunity to continue to train them. And then obviously we have formal training programs and things like that as well. So, Tim, on that, just an extension of that. There answer there.
+
+00:38:24:21 - 00:38:46:27
+不明
+As you mentioned, Jen, I a couple of times, what role for you is Jen I playing in this landscape and how are you approaching, you know, adoption and implementation. Yeah. So I kind of break it into two areas. I mean, first and foremost, it helps us with data management, right? Once I've established metadata like I want I don't really want people clicking on things.
+
+00:38:46:27 - 00:39:17:06
+不明
+And I love smart tags and assets. It's been hugely influential in reducing search patterns within our ecosystem to find the assets you're looking for, which is a surprisingly large problem for a lot of people. And, and so, you know, using it to, to manage and help, inform or make our data more, intelligent and robust. I think on the experience side, it's about what problem solving we we are finding that our dealers have unique interactive needs with us as a, as a manufacturer.
+
+00:39:17:06 - 00:39:40:13
+不明
+And because we're one of 3 to 400 that they have to work with. And so how do we be like that. Easy. Take the friction out of that relationship. Whether that's a toolkit a chat bot. We have we have a number of prototypes that are now going to scale and a bunch of scaled, gen AI capabilities that, that we're leaning on right now to, to drive that change within our industry.
+
+00:39:40:15 - 00:40:17:24
+不明
+Same for you, Betsy. Jen, I what is it for? So for me, humans were never good at workflows. And I am just thrilled to see the race. We have such high volume going through, so, being able to report to where something where each project is at any given point of time, understanding our level of readiness. The other piece that we're we're actually playing with a little bit more is actually making those agents available to our to our visitors, helping them get to the place they want to be quickly without using those, you know, the standard to your point navigation point.
+
+00:40:17:24 - 00:40:45:21
+不明
+I don't I don't need the clicker. If I can get someone the thing they need immediately, right now. So the the conversion of the great personalization capabilities of Adobe coming with the agents at the same time are actually where I say we're we're this close to just serving the customer exactly what they want. And, and so, how are you moving, from the experimentation into full blown scale adoption of, generative AI?
+
+00:40:45:23 - 00:41:05:22
+不明
+The. Largest piece is actually we infiltrate by our success. So anytime that we can, we have a, trust that you create a story or a master, a story that we can win the hearts and minds internally. That's the best way we can enable teams. And we we do kind of a do 1 to 1 to each one.
+
+00:41:05:25 - 00:41:28:03
+不明
+As we are successful in one area, we enable another team to do more. We also are, you know, I'm, I'm lucky to work at a company like IBM. IBM has required AI learning for every employee we participate in AI challenges where where you build yourself. I built a capability to to scrape competitive analysis reports to just give me the salient details last year.
+
+00:41:28:06 - 00:41:46:03
+不明
+And when you have an appreciation for what this stuff does, you can actually idea for what it can do for you and your job, and then you can demand it. And terms. Unquestionably. Yeah. I mean, it is about to try to learn and I think to to scale it, you really have to prove that you're solving a problem worth solving with generative AI.
+
+00:41:46:09 - 00:42:09:08
+不明
+And if it's not, then you have the wrong problem set. And so ultimately, I think the prototype should drive the level of intensity and the level of resourcing thrown at scaling. We have a scaling model that we follow from, you know, the innovation funnel all the way through the the prototype choice making. And eventually, if it's a large enough number, it becomes executive review.
+
+00:42:09:08 - 00:42:33:07
+不明
+But we really are driving a lot of these into production at a very low level of the organization. Managers working with managers ideas percolating and being created in a way that is really grassroots. And I don't think that we can we can't cut that off at the at the executive level, like there's just not enough hours in the day to get in front of them to show them that it's worth doing.
+
+00:42:33:09 - 00:43:00:09
+不明
+So we've really empowered our workforce to upskill. We've deployed a lot of technologies and as safe a manner as we can, for our CTOs, liking, and our CSOs liking, but ultimately that's more or less how we move to scale. So I will add on that the the good news is, is as these models become more commercially safe, as they become more open for use, you don't have to ask the permission internally because it's already there.
+
+00:43:00:09 - 00:43:22:02
+不明
+It's already baked in. I'd rather have my my boss ask me how I did something than ask for permission to do it in the first place. And that's where the safety and AI's getting me. Yeah. I'm great. So little pivot. Now. We've been kind of reflecting backwards. I'm not going to ask you to be looking forward. Tim, what's next?
+
+00:43:22:05 - 00:43:47:01
+不明
+Yeah, it's all about connection for me. I mean, we've been in this configuration mode. I mean, the Adobe tools are really powerful, but they're they're hard to to get up and running. And once they are running, they're amazing. And so we're kind of at that tipping point where I'm moving to the prioritization and connection to the digital experience and right at the top of the stack or a lot of our AI tools, and, and feeding those in a, in a really highly repeatable manner.
+
+00:43:47:01 - 00:44:24:03
+不明
+And so once I get there now, we can really start to transform, our digital presence in the world. And same for me. The next step is, is really getting that precision model for monetizing assets at the individual level. I want to know what's working when when to retire it, when to create new. I don't want the calendar switch from December 30th 1st to January 1st, and have my content overwhelmed with demand for new assets that might still be working, but we got sick of looking at, and then we're also doing a little bit of, microlearning in turn, internally, empowering each one of our marketers to record a three minute video
+
+00:44:24:03 - 00:44:49:25
+不明
+about what your thing is and putting it together in a journey because nobody wants to take the one hour course anymore. Yeah. So we've talked really positively because obviously this is glossy and we're giving you all of like the, the sanitized version, but not anymore. Right. So, knowing what you know now, if you were starting again from scratch, what would you do differently based upon perhaps the less, you know, smooth journeys?
+
+00:44:49:28 - 00:45:15:18
+不明
+If I go back 45 minutes, I would have asked them to move this. I'm just curious what it's saying on the, you know, hindsight is always 20, 20. I would have started two years earlier. You know, we've been on a 24 month path. I would love to have had four years because I feel like what I want to do today is, is it's still a little bit out of reach.
+
+00:45:15:21 - 00:45:39:13
+不明
+So I think the things that I would and I would encourage you all to think about as your own transformation journeys is like, do you have the right work? Like, are you working on the right things? Are you bringing the right partners to the table, the right platforms? And if you don't, then you should recalibrate. You should build the business cases and really go after the things that you need to be successful in whatever your industries are.
+
+00:45:39:15 - 00:45:58:03
+不明
+I think from our standpoint, we had to get the right, right people in the right seats, the right leadership for our programs, the right executive engagement, the right, key roles. Because without, you know, critical roles to manage supply chains. I mean, we have procurement people that do that all day long. But on the digital side, it's just sort of a free for all.
+
+00:45:58:06 - 00:46:26:16
+不明
+Like, that's not an acceptable outcome in my in my mind, but especially given the capital that we're putting out there. But lastly, I would I would go back and I would engage our executive team in a very different way. I would educate them unabashedly, like I would put them through boot camps of 101 classes just so they could see the impact that our content supply chain and ultimately how I can hallucinate against that.
+
+00:46:26:19 - 00:46:47:29
+不明
+I would just I would make it real and painful for them in a way that would just make it so simple to say yes. And I wouldn't have spent 18 months building a business case just to go after the most simplistic pieces of a digital ecosystem. So yeah, given that given a redo or a mulligan to use your masters, I there are many.
+
+00:46:48:02 - 00:47:15:22
+不明
+So anybody finding Tim a little bit scary now after that, thanks to Betsy, I'll take it another way. I definitely would have over a taxonomist and be more hygienic about our assets. I would have enforced it from the beginning. If you're going to create a tag that be sure about what it is, create a common language for what we call things, because now we have more cleanup than I, than I would wish to have.
+
+00:47:15:24 - 00:47:34:11
+不明
+Something I would do again. And I would do more, more experts for experts to ask you. I have a saying. I don't want to train my team for something they're only going to do once, but I want to bring in an expert for something we're going to do over and over and over again. There are those of us that have grown up implementing martech.
+
+00:47:34:11 - 00:47:55:13
+不明
+We're pretty good at it. It's nice, it's fun. It's I'm not good at other things. But this is the thing I'm good at. And I love being in a room of people that's good at it, too, when when you're constantly having to teach and deliver at the same time, you're already diluting or degrading your outcome. So more experts for experts tasks bring in the right talent at the right moment.
+
+00:47:55:20 - 00:48:20:04
+不明
+It'll accelerate you. Thank you. Okay, final question. So again, jet lag. This has been a warm room for an hour. Everybody's hanging in there. I'm loving it. But if the audience is only going to remember three things from this session, other than you're a little bit scary to them. Can you give three what your three things would be to takeaways like recommendations for their own journeys?
+
+00:48:20:06 - 00:48:40:09
+不明
+Can I have for sure. I'm not okay with you. One of my I mean you have to bring your authentic self, right? I mean you just to be successful in this world. So yes, I'm a little scary, as my kids would tell me, I think the three things I would say is one, this is hard. I mean, it's really easy to talk about AI.
+
+00:48:40:09 - 00:48:59:11
+不明
+It's real easy to spin up a prototype, but it's really hard to productionize and it's really hard to fuel a full digital ecosystem with the content supply chain that people can be, you know, really proud and confident. And, I think the second thing is like, you're not alone. Like partners are out there that can really accelerate your journey.
+
+00:48:59:11 - 00:49:19:25
+不明
+And I'm grateful to to the partners at IBM, for, for the work that and some of that is and I'll just be full disclosure, I mean, Mander is sitting there. He's hiding from me behind the screen. But, I mean, I'm appreciative of of the whiteboard sessions where he was basically telling me I was wrong without telling me I was wrong, right?
+
+00:49:19:26 - 00:49:44:29
+不明
+Or pushing me in a direction he knew was right and I was trying to force in a different direction, or my team was and and I think those partnerships are really, really important, as you go on these journeys. And then lastly, I would just say, don't underestimate the change management. Yeah. It is so critical, and particularly as we're thinking about gen AI to take the place of people's jobs or to really fundamental change what their jobs are.
+
+00:49:44:29 - 00:50:07:15
+不明
+If you redeploy them, it's really impactful and they can degrade your progress if you don't bring them on board early, often, share with them progress. I think you said something repetitive like make it transparent. Roadmaps should not be hidden behind the scenes like bring it forward. Show them where the pain points are and ultimately you know how the progress is driving business results.
+
+00:50:07:17 - 00:50:13:13
+不明
+I think it's super important that we overcommunicate in that regard.
+
+00:50:13:15 - 00:50:37:22
+不明
+On the roadmap from set your Dates and make them, nothing erodes the faith in the change. The missing. You can set a roadmap that is reachable, but when you reach those days, you're actually when you reach those dates and you're transparent about the issues that might be holding you back, you make people part of your change, not the victims of it.
+
+00:50:37:24 - 00:51:03:06
+不明
+The other piece, I would definitely say we are marketing's part of a broader system. Hold your colleagues that are responsible for the other technology, responsible and accountable as well. Join forces. These things work together like Legos. If you don't have one of them working, the back half doesn't stay together. And I think that's a responsibility we have to have with each other among organizations.
+
+00:51:03:10 - 00:51:24:15
+不明
+And that's the conversation to have with the executives the responsibility to each other. We don't have to go into detail three, three cuts deep about exactly how we're going to bring these things together. But having the alignment from the top, it's it's the most defendable thing. Amazing. Thank you. So, team, thank you so much for joining us today.
+
+00:51:24:17 - 00:51:33:01
+不明
+Applause for about sentiment.
+
+00:51:33:03 - 00:51:58:18
+不明
+So just to wrap up the session, please do, take a look at the IBD report that goes into this in a bit more detail. Carolyn, our fabulous author sitting at the front here. And we've got some follow on sessions immediately after this one. We've got, tomorrow, a bit of a deep dive into personalization and also, IBD reports, I'd like to thank Abby, who's a wonderful intern in our IBM and Adobe partnership who designed our slides.
+
+00:51:58:18 - 00:52:07:15
+不明
+So thank you to Abby and your Abby.
+
+00:52:07:17 - 00:52:08:07
+不明
+Who?
+

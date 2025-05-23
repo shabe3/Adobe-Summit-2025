@@ -1,0 +1,608 @@
+00:00:01:44 - 00:00:20:54
+不明
+Welcome to summit, everybody. Well, you've been here all day, I suppose. Welcome to this session. My name is Travis Sabin. I'm a product manager on the Adobe Analytics team. And I'm excited to have our session today with you. Today we're going to be talking about some tips and tricks within this suite of tools within Adobe Analytics and Customer Journey Analytics.
+
+00:00:20:56 - 00:00:37:56
+不明
+If you've been in my session before, in the past, this is a fun, interactive session. So there's going to be polls and stuff like that throughout the session to keep your phones out, not to text or to be on X or anything else, but to pay attention and engage. Certainly, please. I'm excited to get started. On our session today.
+
+00:00:37:57 - 00:01:08:35
+不明
+So we have the 2025 Adobe Analytics, play off here. And so we've got four major bowl games that we're going to be going through today. The Flour Bowl presented by navigation. The Grapefruit Bowl, presented by democratization, the Siesta Bowl, presented by different data. And the silk Bowl presented by Augment Analysis. All these, features will come together in the grand mommy of them all, the Tula Bowl.
+
+00:01:08:40 - 00:01:29:04
+不明
+So, please, get ready for that championship game that we'll be going through. So, like I said, as we'll go through, will highlight each of these features. We'll go through and vote and pick a winner based on your, votes and nominations to win that particular bowl. And then we'll have four finalists that we'll vote on and choose Crown a champion as we go through this.
+
+00:01:29:09 - 00:01:52:27
+不明
+So throughout this session, hopefully these are the things that I'm hoping you'll take away from what we're talking about today. So first and foremost, review the latest tips for navigating through your projects. We've got some great new features to help, with ease of navigation and getting your users or you personally, right where you want to be. Next, we want to help, figure out ways to onboard and ramp up new users faster than ever.
+
+00:01:52:31 - 00:02:12:13
+不明
+And then, third, we'll have new ways to investigate, analyze, and, look at new types of data. I also like to move around, so don't be alarmed that I like walk in the crowd. So, just FYI. Fourth, we're going to augment your analysis with new ways to analyze your data, with some additional tools and things like that.
+
+00:02:12:18 - 00:02:28:20
+不明
+And then lastly, one of the favorite parts everyone loves to see are some of the sneak peeks at innovations for things that we're going to, that we're working on currently, and things that may or may not be coming in the future. None of this is promised or guaranteed, but this gives you a snapshot of the kinds of things we're working on behind the scenes me, the rest of the product team, and our engineers.
+
+00:02:28:22 - 00:02:55:28
+不明
+So that's kind of where we're working towards today. So this is your last chance. Any entries submitted after 404. You will be disqualified from any money. So I got a time stamp on the form here. Get it in. This is your last chance. All right. Let's kick things off by going to the flower Bowl presented by navigation. So our first feature in the flower bowl is the table of contents.
+
+00:02:55:30 - 00:03:22:27
+不明
+So we've added a new table of contents feature two Analysis workspace. You may have a project. It's long and you have to scroll and scroll and scroll. You might build a text box at the top with links to different aspects of the project as a workaround in the past, instead, now we have added a table of contents to the far left rail that will automatically curate all of your visualizations into an easily clickable table of contents in the left rail.
+
+00:03:22:31 - 00:03:45:12
+不明
+So whatever the names of your visualizations are, those are. The names will be reflected in the table of contents. So if I update this free from table two to now be called countries, the table contents dynamically updates and is renamed appropriately and if I want to change this donut to be my country's donut or something like that, I give it a new name and it automatically is going to be reflected in that table of contents in the left rail.
+
+00:03:45:14 - 00:04:07:24
+不明
+You don't have to do anything. We automatically add this to every workspace project out of the gate. So we've also added, a new visualization called the section header so you can break up and organize your visualizations by category if you want to. So these are all my region, my regional data. And so I want to put these on a bucket together.
+
+00:04:07:24 - 00:04:26:54
+不明
+So now when I go back to my table contents, I can see I've got a header of regional data and then all my other visualizations underneath it kind of indented below. So really easy way to navigate and organize your data a little bit better, especially as you're sharing this out. So if you use one of our previously released features of the share with anyone links, you create this as a share with and in project.
+
+00:04:26:54 - 00:04:49:06
+不明
+You send this out to your executives or any other stakeholders. The table of contents is only baked into this read only project. So again, so they can navigate across what you've built for them that much easier. Right within the share with anyone link. So that is our first navigation feature which is table of contents. This is available both, as you can see in the bottom, the little boxes indicate which feature or product they're available.
+
+00:04:49:06 - 00:05:08:21
+不明
+And this is both CJA and Adobe Analytics. So that is feature number one. Number two is free form hyperlinks. So many of you have probably built a project and you have got a table with a bunch of data in it, and you've got a dimension that captures all your URLs for your, your site or something like that.
+
+00:05:08:25 - 00:05:35:20
+不明
+And you want to see how my video is not playing. One more time. There we go. So you could have a table with a whole bunch of content with some already populated URL strings, and they're not clickable today. Well, we've added a new feature to support that. So if you come in and you right click on any individual dimension item, you will now have an option where it will say create hyperlink.
+
+00:05:35:20 - 00:05:54:55
+不明
+So if I right click on this particular dimension item, now I'm going to get this new menu option within our right click menu Create hyperlink. There are three options for creating a hyperlink. You can use the value of the dimension item like. In this case it's an actual URL string, so I can just use that. I don't have to change anything, I can just do that and it will automatically create a URL for me out of that dimension.
+
+00:05:54:55 - 00:06:10:39
+不明
+Item value itself. Now I can see it's turned into a hyperlink text. It's blue, it's clickable. I see it takes me directly to my product page that it's associated with and money. Now any of my users in this project can look and see exactly what this value is. Now you might have in this case this table is ten DB.
+
+00:06:10:39 - 00:06:26:09
+不明
+It's not that bad, but that's kind of monotonous. I have to go through and click on all ten of them. You can click on the dimension item header and create the the hyperlink for all the contents within that dimension item to save you a little bit of time. So you click create and immediately my whole table of ten, they're all now clickable.
+
+00:06:26:09 - 00:06:44:08
+不明
+They're all hyperlinks. Now I might have an even longer one. This is 50 values and that would really suck. I don't want to do that. So let's create the whole thing for this entire table again. One click and it's done. And I've got this really clickable table right within my analysis to undo it I right click and I can remove any hyperlinks that I've created.
+
+00:06:44:13 - 00:06:58:40
+不明
+It'll go back in the order that I added them. So in this case it will undo my entire table if I do this. But I'll leave that individual one that I did if I wanted to, I could remove that as well. You can also edit your hyperlinks to be a different one if you want to change it. Like I said, there are two other options.
+
+00:06:58:40 - 00:07:20:06
+不明
+You can use a custom one, so instead of being the product URL, I want to be adobe.com and I can have it redirect to that. Specify a specific URL that I've added to it. So that's the second option. The third is a dynamic link. So if you've got a URL string that has it's the same. But your dimension value is what curates the ending, the end of your string.
+
+00:07:20:11 - 00:07:39:48
+不明
+You can use this third option to use the break down dimension option, and it'll automatically just pull whatever. If it was a product page and you have pants, shirts, belts, whatever, and that's your dimension item and that's how your URL string ends, then it'll just dynamically pull that item and turn it into a URL string, so you don't have to go through and recreate it for every single, URL there itself.
+
+00:07:39:50 - 00:07:59:09
+不明
+So those are the three URL options. That again, makes it really easy to get around your projects and navigate through. So that is number two free from hyperlinks. Number three this is project commenting. This is the last one is for both customer journey likes and domain. This is only coming to this is coming. This is not out yet.
+
+00:07:59:09 - 00:08:18:29
+不明
+So this is a bit of a sneak peak. It's coming in May right now is the plan. But for hyperlink or next topic for commenting. Excuse me. We're adding a new rail on the right side of the project where you can have a comments rail. You can perform a bunch of actions on any existing comments, edit, quote, delete things like that.
+
+00:08:18:34 - 00:08:39:04
+不明
+You can like reply directly to a comment and so you get the context of the comment right within the project itself. So you can tag individuals and say, hey, actually I want to be able to get this kind of data and you can update the comment, directly there to have in-context, contextual discussions about the analysis that you're performing.
+
+00:08:39:09 - 00:08:56:01
+不明
+So I may want to ping somebody else in the organization to ask them to do something. This is a great way to get them to come right into the project. So if they've been tagged, they'll get a notification up in the little post up at the top, the little bell thing, that's where we call our post notification and they'll get notified of it.
+
+00:08:56:06 - 00:09:14:30
+不明
+This is a project level comment what I've been doing, but I can also add comments on individual visualizations. So if I want to direct somebody to a specific table or in this case, the key metric summary is I can add a comment directly to that visualization itself. So when they come in and they see that comment, it's tied directly to that analysis and they know exactly what I'm talking about.
+
+00:09:14:34 - 00:09:41:27
+不明
+So there's no confusion about what I'm asking them to do or where I'm wanting them to do it. It's directly associated with the comment itself, so it'll get added to the comments rail on the right, but it'll be when you click to it. It is. It'll highlight exactly where the comment is associated within the project. So really great way to for to boost collaboration and make it easier to help users come in and understand exactly what's going on and have clarification in context of, the project itself.
+
+00:09:41:27 - 00:09:59:51
+不明
+So that is project commenting. So those are our three visualizations for the flower bowl. So now is the time where you guys get a vote. So get out your phones. You can if you're on your computer you can type in that web address. Or if you want to put in your mobile browser, you can do that. Or you can just text 2 to 3, three, three.
+
+00:09:59:51 - 00:10:19:38
+不明
+My name 5812 that number. And then you can start voting on which of the three you think is the best feature in this, the flower bowl. So we'll give everybody a second to vote and we'll see what comes in. And don't let peer pressure swayed you. If you don't think hyperlinks isn't the best one, then vote for the one that you do, okay?
+
+00:10:19:42 - 00:10:26:08
+不明
+If you do, that's great, but don't get about into peer pressure. We're not in high school.
+
+00:10:26:13 - 00:10:45:54
+不明
+So we'll give it 30s. So if everybody get their votes, then we.
+
+00:10:45:59 - 00:11:01:09
+不明
+All right. So table of contents going to do it. Is it going to catch up.
+
+00:11:01:13 - 00:11:10:16
+不明
+Okay. Oh my goodness. It's going to do it. Oh man. Any final votes. Who hasn't voted. We're getting a nail biter now.
+
+00:11:10:21 - 00:11:34:10
+不明
+Oh man I need someone else to vote. I can't have a tie. The system is not. We're not in America. We don't have ties. Come on. There we go. All right. In three, two, one. Table of contents wins it by. Ooh! The skin of its teeth. Okay, cool. No. Oh, okay. The polls are open for ten more seconds.
+
+00:11:34:10 - 00:12:11:28
+不明
+Ten 987654321. Okay, it's. Table of contents. It's close. All votes have been counted. We're done. Excellent. Okay. Awesome. That was fun. All right, let's go to our next region. The grapefruits. Not to be mixed up with the Orange Bowl that is presented by democratization. And we're going to talk about, what we got here. So our first one here is workspace templates.
+
+00:12:11:33 - 00:12:31:42
+不明
+This is a long existing feature in Adobe Analytics. But we've done an overhaul to the templates experience for CJA and the navigation experience within Adobe Analytics as well. Is just released in January. This is hot off the presses, but you've got our traditional waterfall chart or column view here, where you can see the templates themselves that have has long existed in Adobe.
+
+00:12:31:42 - 00:12:50:28
+不明
+Alex. But we've added this very sexy, very visually pleasing card view. Now to the templates. So if you want to get a snapshot of what all your templates look like really quickly, we've got this great new card for you that you can use. You can sort by most recent alphabetical things like that and filter by your data view or the filters column as well.
+
+00:12:50:33 - 00:13:09:55
+不明
+We've got some built in use cases and channels and things like that that are associated with the templates to help identify what you might be looking for in this card. Be aware it's not structurally organized by those particular use cases and things like that. We've also added this new preview. So if you aren't sure which template you want to use, you can click on this preview and it gets you a description.
+
+00:13:09:55 - 00:13:26:01
+不明
+Why you might want to use it, what components are in it, any related templates as well as a over a much bigger screenshot of what actually is within the template itself. So you can look at a time to load it up and see if it works through a data or anything like that. But once you click Use Template, you've got this great out-of-the-box starting place.
+
+00:13:26:06 - 00:13:42:52
+不明
+Especially for newer users, this is a great way for them to just browse your data and get familiar with what's available, what it looks like, what kind of numbers are looking at a really, really great starting point to point, newer users who are coming into the product now in siege, because we don't know your schema, you might not know.
+
+00:13:42:52 - 00:14:00:01
+不明
+Not all your components may be mapped. So you click on this not ready for use option. It'll show all the ones that haven't been mapped yet. And you go to this little red box here and they'll show you which components are missing. And you can go into your data view for that particular connection and map those components. So you can start using these use case.
+
+00:14:00:01 - 00:14:20:21
+不明
+We built a bunch of additional templates for especially in CDA for non web data. So we have call center point of sale a bunch of other ones that you can use in CJA. You just have to get the components mapped up appropriately. We've also moved all of company templates within this template section, and you can modify any existing template or brand new project and save it as a template.
+
+00:14:20:25 - 00:14:43:21
+不明
+And then you can fill out the same fields that we have in the preview section with whatever content you want to provide as far as a description and why they should use it, you pick the channel and the use cases that are appropriate, and now this template will get saved and added to my company templates section. You can and if you haven't seen it in the tool itself, the name for the templates section is dynamic for your organization.
+
+00:14:43:21 - 00:15:03:10
+不明
+So whatever your organization name is, it will show up there in the left rail on the template. So I've saved this now as my Business Report Summit template under my Adobe Marketing Cloud. That's my dynamic organization name. I've got my visits report with the summit template added to it. Currently, there are not screenshots on the card view for the organizational templates.
+
+00:15:03:10 - 00:15:23:33
+不明
+That's coming in like a month or less, possibly by the end of this month. There's releasing it very soon. So soon we'll have full, card view support on both organizational and Adobe provided templates. So templates are a great way to get started and for users to come in and learn and acclimate themselves a little bit to your project.
+
+00:15:23:33 - 00:15:57:19
+不明
+So that is our first one. For the Grapefruit Bowl. Next is asset transfer. This may seem like a bit of a snoozer for some of you, because it's been a longstanding feature in Adobe Analytics. But for anybody who's migrated to a, there is a little bit of, I'll call it work to get CJA up and running. You've got a lot of assets that you've probably built up in your Adobe Analytics instance projects, components and things like that, and you need to get those available and ready for use within CG.
+
+00:15:57:23 - 00:16:16:01
+不明
+Well, you can migrate all those over to CGA, but usually that ends up landing on one particular admin who now has a million different assets that they have. So the asset transfer tool is a great way to get those distributed out to your end users. So you're not the sole keeper of every little piece of product that you have within Adobe, within Customer Journey Analytics.
+
+00:16:16:01 - 00:16:32:22
+不明
+So within CJA you come into the tools dropdown, click on Asset Transfer and then you'll come in and I'm going to look up for myself. I'm going to find some of my components and assets that I want to share with some of the other people on my team, because I don't want to keep holding on to them.
+
+00:16:32:22 - 00:16:48:19
+不明
+So I've got my list of everything I've got here on my projects, filters and things like that. You can select all, I can select one on one, or one by one I should say which ones I want to view. And so I'm going to pick this particular project and I'm going to pick a couple of filters possibly to share.
+
+00:16:48:21 - 00:17:11:03
+不明
+And once I've got what I want I select up in the dropdown who I want to send it to within my organization. I'm going to send it to a show on my team. I hit transfer confirm and it's done. And now it's been successfully transferred. And I don't own those components anymore. He does. And now I can get these, projects and other things out into the hands of the rest of the users that need to have access to them.
+
+00:17:11:07 - 00:17:36:41
+不明
+So, again, really seemingly simple, but a really great tool for helping distribute your content and components out to the right individuals. So last one is AI assistant. Now this one is again only for CJA, where all of our AI goodness has been going these days. Previously the AI assistant was really good at being a doc finder. Basically, you could ask that question.
+
+00:17:36:41 - 00:17:58:04
+不明
+I would scour our docs and fetch some results, but with this new update we were added to the assistant. You can come in and ask it a an analysis question, and it will spit out an actual result within the workspace canvas. So I want to know which I want to show purchases in October. I do that and now I've got a free form table and a line chart.
+
+00:17:58:04 - 00:18:21:03
+不明
+A company with the month of October, my purchases, the right date range, and a trend showing how those are performing in the month of October, I can ask more sophisticated questions like compare purchases by product category from September to October. I click on generate, it runs for a minute, and then it's going to spit out again in a new panel, an accompanying bar chart this time, and a free form table.
+
+00:18:21:03 - 00:18:43:27
+不明
+With the month of October compared to September and the percent change between the two and now, I can really easily see all that data represented without me having to build. Oops. That's like, build anything. I just ask a simple question to the AI assistant and it does all the work for me. So this is a great thing to use for users who are trying to learn how to build things within the product.
+
+00:18:43:31 - 00:19:00:55
+不明
+I can ask it other types of questions, like I want to show the quantity by day of week, and so I want to see that for the last month, for example. And I want to ask this question, and now I send it off in the same project again. It spits out a new bar chart and a new free from table.
+
+00:19:00:55 - 00:19:19:23
+不明
+So I've got the day of the week and the quantity for each of those days. Now I can also augment a previous question. So this time I want to add profit, for example, to the free from existing free form table. I just click Add Profit and we'll add that as a new metric column to my free form table and update my bar chart accordingly.
+
+00:19:19:28 - 00:19:37:57
+不明
+All I had to do was type in that small little request to add profit, and then, I can again go. I can do different types of things besides a line chart or a bar chart. I want to see a donut, for example. So to see a proportion of profit by store name, for example, so far this last year.
+
+00:19:38:02 - 00:20:03:38
+不明
+And so I asked the the assistant to run that query for me. And it's going to spit out this really great donut chart with all my stores. And the breakdown of their profit by to them. I don't care so much to have this no value. So I'm going to remove that in the filter and apply that. But now really quickly and easily, I've built this project that has a whole bunch of data in it, all constructed without me doing really anything other than asking just a few simple questions.
+
+00:20:03:43 - 00:20:28:30
+不明
+Which is really, really powerful. So that is the new AI assistant update that is coming very soon. So let's vote again. Which of the three features is the winner of the Grapefruit Bowl presented by Democratization? Who's going to help get things out into the hands of your users? Better?
+
+00:20:28:35 - 00:20:34:41
+不明
+Let's see if we can have another come back here. That was exciting. So.
+
+00:20:34:46 - 00:20:57:20
+不明
+Or it might be a total blowout, which is the case in many of the playoff games this last year.
+
+00:20:57:25 - 00:21:16:03
+不明
+All right. I don't if I need to hold the polls open as long on this one, but we'll give another 10s or so while I tie my shoe.
+
+00:21:16:08 - 00:21:43:58
+不明
+All right. And three. Two. Unless all 200 of you who haven't voted for some reason want to vote for something else. All right. The AI assistant is the winner of the grapefruit Bowl. All right, very well. So let's move now to the next bowl presented by different data. This is all about bringing different types of data or doing different types of analysis within analysis workspace.
+
+00:21:43:58 - 00:22:05:43
+不明
+So the first one is Agco and CJ reporting. So any of you who are joint AG and CJ customers, this is a new integration that we've worked on over the last year or so. We released a few things for it last summer, a little bit more October, and we finished up just last January, which a lot of this bore out a lot of the great things that we've showcased today, like table contents and free form links.
+
+00:22:05:43 - 00:22:27:54
+不明
+But, you know, we've got embedded workspace reporting within the ag product for journeys, campaigns, overview reports and a few others. You can look at all these. They're all run by the same engine. And so the numbers are the same. And if I want to I can click on this analyze and kg button and open up that same AG report directly in workspace.
+
+00:22:27:59 - 00:22:49:32
+不明
+So now I can modify it and it's largely read only. But in CJA I can do whatever I want. Like you normally can with CJA. So whenever I want to augment this free form table here with some additional metrics, I want to add sends and delivered. For example, I care about those metric metrics as well for my journey, and then I want to see it broken down by day.
+
+00:22:49:37 - 00:23:07:45
+不明
+And that's really important to me. And so I can obviously do a whole bunch of other things. I could remove some stuff, I could add more visualizations to do, anything I wanted to, just like you can in workspace. But the cool thing I can really do here is I can save this. And using the templates workflow, we just walk through one of the template options and you save it as a journey optimizer use case.
+
+00:23:07:49 - 00:23:28:42
+不明
+And that gives me some new fields where I can choose the activity type. This is a journey and the specific journey name. And so now when I save it and I go back into Agco, I now have a dropdown in the top of my report where I can choose a Non-Default template, so I can choose the custom one I just curated, and it will refresh my journey report now to include the things that I just added.
+
+00:23:28:42 - 00:23:46:29
+不明
+So now you know, I see sends delivered and the date breakdown that I added to the report, because those are the things that are specific to my organization that I care about. Instead of being stuck with the lame report that the Adobe people put together and said, here's what you get. Okay, so that is our integration with AGI.
+
+00:23:46:30 - 00:24:06:45
+不明
+And there's a ton of great stuff here, but really, really cool use case for this publishing back and forth between the two products to meet whatever users, wherever they you do their analysis, where they need to be, whether it be in AG or in CJK. So that's the first one. Next is summary data sources. So this has been a long time Adobe Analytics feature.
+
+00:24:06:50 - 00:24:35:33
+不明
+But we've now added support for this last August I believe it was for support and CX. So next in AP you come in and update your schema to be a summary data schema. You get the schema set up just how you want it. And once you have the schema put together and ready to go as a summary data schema, you can now bring this data directly into Analysis Workspace, which is really, really cool and unlock some really cool use cases.
+
+00:24:35:38 - 00:24:55:37
+不明
+So once you've got it ready to go, you save up, you come into your connections, I should say, excuse me, and you're going to find the data set that you're looking for. When you click on Add Data sets, and then you'll find, amongst your data sets, the one that you just added within app.
+
+00:24:55:42 - 00:25:14:20
+不明
+And then you can, choose that. And I'm talking too fast. So I'm going to search across, find my summary data sets. Now I can see the data set type. There's a new summary data set type listed there. So you can see how they distinguish between your event data sets and things like that. You choose the one that you're interested in.
+
+00:25:14:20 - 00:25:39:56
+不明
+And then you can add any you can get a preview of the data, the default granularity is day. You can also have updated to our via the API, and same with the timezone. You can change that as well with the API. Once you import all this new data, you save the settings. You then ready to go and do the analysis directly within Analysis Workspace.
+
+00:25:40:01 - 00:26:01:24
+不明
+So I'm going to move into Analysis Workspace. Now. And I have oh wait I need to go to my derived fields first. So you have a new summary data set added, to your schema field. And you're going to choose the summary data set that you're interested in, from the dimension or the summary data set folder.
+
+00:26:01:24 - 00:26:28:21
+不明
+And you can see I've got some summary data added to, the different components here. And there's a new, grouping method here called Summary data grouping. That is now available as a summary data source. So if I want to bring, common components that are together using the summary data group, I can do that. So if I come and find my tracking code and I click on the summary data group, I want to bring my tracking code and my campaigns together.
+
+00:26:28:26 - 00:26:48:22
+不明
+I click on the Summary Data group and it'll present me with a dropdown where I can choose the other component that I want to group it together with. So I'm going to click on that and it will open up this new option to select from the dropdown. The other component that I want to bring it together with.
+
+00:26:48:27 - 00:27:16:19
+不明
+If I click enough there we go. And I'm going to create a grouping. And I'm going to choose for my dimension the campaign code and my tracking code and campaign code share. A similar component that I can use together. So I group these together, and then once I save that, I can go in. I can use this for analysis within, CJA, within analysis workspace, which, creates some really cool use cases.
+
+00:27:16:19 - 00:27:39:09
+不明
+Now that I can use. So the first thing is here, I've got this table built out with my tracking code, my orders and revenue. Those are all my event level data that I've already been collecting and reporting on. But in the left rail, under my metrics now, I've got some new types. You can see I have my cost data and in parentheses it says it as a summary data source.
+
+00:27:39:09 - 00:28:01:23
+不明
+I'm going to add that to my table here. And then I want to bring in my impression data as well also summary. So you can see there just by the way that we've distinguished them. Which ones are event versus which ones are. Summary. Because I group them together. They're all associated with this comp with this, tracking code, I can create a calculated metric like cost per impression, which is based off of the two summary.
+
+00:28:01:28 - 00:28:25:55
+不明
+Metrics Cost and impression or my return on ad spend, which is a mix of my summary data and my event data. So I can combine those two together to create a summary, an event calculated metric here to see my return on ad spend. So really quickly now I've augmented this data here, my tracking code data with more valuable information that I didn't have so I can enrich the data, to make it that much more effective in my analysis.
+
+00:28:26:00 - 00:28:46:50
+不明
+So that is summary data sources. All right. Third is product usage. This has been something that customers you guys have asked for for a very long time is to know who in my organization is even doing anything and what the crap are they using? Because I don't know what I can get rid of and what I can keep and what I need to have.
+
+00:28:46:55 - 00:29:08:15
+不明
+So in CJA we've added a product usage to the tools dropdown. You have to enable it first of all, because it'll kick off a new system generated connection and data view for you to use, so you'll get charged for it. But once you enable it, you come in, to the date of you. You can see you've got these product usage ones already added for you.
+
+00:29:08:20 - 00:29:25:28
+不明
+Automatically out of the gate just by enabling it, you don't have to do anything. And then within the templates workflow again that we've showed earlier, there'll be a new product usage overview template where you can come in and see, who are the top users in my organization? How many sessions and events are they contributing to?
+
+00:29:25:33 - 00:29:43:39
+不明
+You can see them by their username, which project types are people using? And things like that. So now really quickly you can get a good overview of who the users are in your organization, what they're doing, what projects are being utilized, what components, segments or filters, date ranges, all those kinds of things are actually in use.
+
+00:29:43:39 - 00:30:06:15
+不明
+And which ones, maybe more importantly, are not being used. So you can clean up some stuff, or if you need to do some training to a set of users and say, hey, I see you guys are using this project, but this one is an old one and outdated. You should be using this one and vice versa. It's a really good way to help inform you as the administrators, especially which ones people are using and how you should go about, cleaning up some of that stuff.
+
+00:30:06:19 - 00:30:27:40
+不明
+So that is product usage. So we're ready for our next vote. So get your phones back out. Who is the winner of the Siesta Bowl? AJ over in KGaA product usage or summary data?
+
+00:30:27:45 - 00:30:43:50
+不明
+Oh man, we might have a close one.
+
+00:30:43:55 - 00:31:01:31
+不明
+Oh man. A three way tie would be just a monumental fail here. So let's let's see what happens. But I guess that's good. I'm glad you find value in all the things that we're doing. So that's good.
+
+00:31:01:36 - 00:31:05:06
+不明
+All right. We'll go.
+
+00:31:05:11 - 00:31:22:48
+不明
+Come on. Somebody's got to pull away. Ten more seconds.
+
+00:31:22:53 - 00:32:02:06
+不明
+All right. We're going to call it. Oh, no. Again. Final votes 54321. Somebody vote for me. Oh it's AJ okay, but it's a close one. All right. We're going to call it there. All right. That was a nice very close one okay. Next we have the Silk bowl. Cousin to the Cotton Bowl presented by augmented analysis.
+
+00:32:02:11 - 00:32:26:40
+不明
+And so we're going to talk about, new ways to analyze your data here. So let's go on to our first one, which is a recently released feature, Journey Canvas. Not to show any bias, but this is one of my favorite things we've done in years. So Journey Canvas is a really, really cool new way to visualize and analyze your data in CJA.
+
+00:32:26:40 - 00:32:44:06
+不明
+So you pick the new Journey canvas from the vision library. You choose the default primary metric. You can have a secondary metric if you're interested in that, but then once you hit build, you have a blank canvas to do whatever you want. So in this case, I'm going to drag on some dimension items from my page name dimension.
+
+00:32:44:06 - 00:32:58:23
+不明
+I'm going to bring on the home page. And as soon as I do that, I get this little what we call a node, and I'm going to drag on a few more items to get a few more nodes. I can see out of the box really quickly how many people within this date range are going to my home page?
+
+00:32:58:28 - 00:33:19:05
+不明
+My purchased F1, and my purchase step to page now. Right now they're all just on the canvas. They're not connected to each other. So I need to click on these little edges here and drag them and connect them to the appropriate place on the, subsequent excuse me nodes. And now, really quickly, the numbers have updated to show people moving through this particular funnel.
+
+00:33:19:10 - 00:33:36:27
+不明
+And I've only been using dimension items. But I can also add a metric as an ending metric or anywhere in the funnel as well or in the journey. So I connect my purchase up two to my total orders metric. And now I've got people going from home to purchase of one partnership two and ending with my conversion metric, my total orders, which is really cool.
+
+00:33:36:27 - 00:33:53:31
+不明
+Now this is a pretty standard type of funnel that we've already got and we've had for years, but there's a whole lot of other really cool stuff that I can do, so I can drag it directly onto, the what we call the arrow, the little line between the nodes, and it automatically will add it to the journey as another step.
+
+00:33:53:31 - 00:34:20:36
+不明
+So I've got home and then search results and then purchase step one. I can also drag on some other components, as and make what we call a forked funnel is a common use case. You guys have probably seen, or requested or wanted to do with some of our funnel features before. So I can drag on the forum page and I can drag on courses now, I can drag it on top and combine them together so they can go to search or home or search our courses page.
+
+00:34:20:43 - 00:34:38:15
+不明
+Or maybe I don't want to do that. So I click on the info like and get rid of it. And I'm going to add it as a third fork in this particular funnel here. So I'm going to connect it from my home to my forum page. And then I'm also going to connect the home to my courses page and then bring those back into connected to my purchase.
+
+00:34:38:15 - 00:34:57:01
+不明
+Step one within the journey itself. And so now once I get these all connected appropriately, if I know how to use my mouse, then I can. There we go. See? I can do it. You connected together, and now I can see how people are moving from my home to one of three options. They don't have to be forced through a particular one.
+
+00:34:57:01 - 00:35:13:36
+不明
+You can see how the data changes and how people are moving across the journey in one of these three options, and then come back together to complete the journey in step one, step two, and so on. Really cool use cases. I can do a breakdown right on the journey canvas, so I can drag a dimension onto this metric.
+
+00:35:13:40 - 00:35:32:16
+不明
+And I want to see which product is driving the most orders. And I get a top five right there on the journey canvas. If I need to know more, I click open in free form table and it spits out this new free form table with that same data broken down so I can dig deeper and go further if I want to better understand that breakdown of products that are driving the most orders.
+
+00:35:32:16 - 00:35:51:41
+不明
+So really, really, really awesome use case here all on the canvas. Now this has all been my mobile browser data, but I want to see my mobile or my mobile web or my browser data I should say. And I want to see my mobile data. I can bring that in. I don't care about all the steps. I'm just curious to know how that data is working together and which which one is driving the mobile.
+
+00:35:51:42 - 00:36:06:26
+不明
+So I can see how my mobile web comes in at a later start and drives directly to total orders, along the funnel as well. And in this case, I want to maybe see I want to filter the data a little bit. So I dragged on the dimension item, which gives me the top three values. One of them was no value.
+
+00:36:06:26 - 00:36:35:00
+不明
+So it's no no good to me. So I'm going to rid of it and I'm going to stick with USA and Greece. And so in this case I'm going to filter my web data to see who is coming from USA, that domain or who is coming from Greece in terms of my regional data. And so now I've got this pretty cool journey here that I built in just a matter of seconds and unlocking a bunch of use cases that you just couldn't do before, with our funnel analysis, which is still has its place for a known linear funnel.
+
+00:36:35:00 - 00:36:50:10
+不明
+But if you have a crazy journey, which me, which I'm sure you all do have people going off and doing random stuff all the time and you're like, just go where I want. But they don't. And so you got to build something like this where you can analyze where they're going instead and what they're doing and how they get back to where you want them to go.
+
+00:36:50:15 - 00:37:17:04
+不明
+So that is journey canvas. Next is the big extension. So we released this last year. We've got support for the extension in power BI, Tableau, looker, MicroStrategy, Jupiter, notebooks and RStudio are all supported. So to get started need to come in to ADP and grab your credentials here. These are the credentials we'll use that you'll type into whatever extension tool you are.
+
+00:37:17:09 - 00:37:40:33
+不明
+By extension tool you want to use your pulling from here if you need, not expiring credentials, you can generate new ones and get those and you're off and running. So you can take something like this data view I have here my super ultra comics data view, where I've got a project together, where I have, some return sessions per week, and then I have some average orders, by superhero and by super villain.
+
+00:37:40:33 - 00:37:55:37
+不明
+I've got them broken down into these donut charts. So I've got this really cool project, but I want to see it where some of my executives are going, which is only in power BI. I can't get them to come in a workspace. So I'm going to recreate that dashboard in power BI. And so I've done that here through the extension here.
+
+00:37:55:42 - 00:38:13:33
+不明
+And then in the data column here, you can see that data that I have from my data view is available directly in power BI. And so you can see I have the name of my data view. Super ultra comics underscore all. That's the same one that I had in customer journey analytics. And then I've got all my components.
+
+00:38:13:33 - 00:38:38:33
+不明
+The same ones that you can find in CJA are available to me here in power BI. I even got my calculated metrics, and we've got all the naming appropriately for those, so I can use those to help build any of the dashboards that I need to recreate. I also have my date ranges that I've created and built in CJ added to power BI, so I've got all of these options here are automatically added once I've got those credentials provided.
+
+00:38:38:33 - 00:39:03:19
+不明
+Connected together, so I can build and repurpose anything that I need to for those stakeholders using the same data. So there's no mismatch metrics or anything like that. And then in here, obviously if you need to, the naming can be really important. So if you need to make sure you have any updates, you can come to your data view and the external ID is what we use to govern the naming within the BI extensions themselves.
+
+00:39:03:19 - 00:39:25:27
+不明
+So you can rename these to be whatever else might be appropriate for you. If you need a more friendly customer or username, that name will be reflected up at the top for your data view. And you can do the same thing with your calculated metrics and so on. So extensions are a great way to augment your analysis, get your data in the hands of other users and stakeholders, and bring some of that other data together within power BI.
+
+00:39:25:31 - 00:39:51:57
+不明
+So that's number two. All right. Our third and final one for augmented analysis is guided analysis embedded in Analysis Workspace. So we released guide analysis a year or so ago. And just recently last August we added support to bring your guide analysis directly into an analysis workspace project. So on the far left rail we've added a new guided analysis icon.
+
+00:39:51:57 - 00:40:09:07
+不明
+You click on that you can build a new one from any of the existing guide analyzes types. And you can drag that on and it'll give you this new option. In this case I'm going to track Release impact. And so it gives a take over screen here where I can use the same stuff that I would do directly in a guide analysis.
+
+00:40:09:07 - 00:40:30:07
+不明
+I can do it directly here in workspace. So with this release impact, I want to know how well the Journey Canvas tool that I built and put together and released is doing. We released in October. I want to know how well it's driving sessions here. So I can see before release my sessions were around 14. 15 was my average sessions.
+
+00:40:30:12 - 00:40:49:07
+不明
+Now, after the release of Journey Canvas, I can see my sessions have jumped up to 26 on average. So really quickly I can see the impact of that new visualization. This is real data, by the way. This is actually what happened by you users. So this is really cool. To see the impact of that, you can modify that directly in Analysis Workspace.
+
+00:40:49:08 - 00:41:12:43
+不明
+You have some of the little tweaks here to show just the chart, the table or all within Analysis workspace. If you said anything in a guided analysis, you can reuse it here in workspace and pull from your saved list. So I've got this trend with our PCA cohorts. I drag that on. And the analysis that I already performed previously elsewhere in guided analysis is saved and just repopulated here directly in analysis Workspace.
+
+00:41:12:43 - 00:41:30:10
+不明
+So now I've got a workspace project that has some of my guided analysis work that I've done alongside the rest of my workspace, stuff that I've built previously. So really great way to bring in, especially for the product use cases. The guided analysis unlocks really great way to bring all that data together, augment what you've been doing with it.
+
+00:41:30:10 - 00:41:53:22
+不明
+Analysis workspace and make it that much more powerful. So those are our three features for augmented analysis. So pick up your phones. Call us pledge five more dollars to save a dog. Whatever it is that people say when they pick up the phone. All right, let's see which one is going to be the winner here.
+
+00:41:53:27 - 00:42:22:30
+不明
+All right. Three. Two. One. All right. We'll call it journey. Canvas is the winner. So just like college football, they cannot stop talking about expanding the playoff or expanding a conference to bring another new member. So let's look at some expansion candidates for Adobe Analytics. They're not eligible to win this year, but let's talk about them. These are some things that we're working on currently, that are just a little sneak peek of things to come.
+
+00:42:22:30 - 00:42:45:45
+不明
+So the first one is secondary sorting. So currently you can only sort by one particular column within analysis workspace. But with secondary sorting we can unlock the ability to do secondary, tertiary and so on type of sorting. So you can do your normal sorting options here. But if I want to click advanced sorting you can build a set of rules to sort your freeform tables.
+
+00:42:45:50 - 00:43:03:43
+不明
+So in this case I'm going to choose my account number. And I'm going to sort those by smallest to largest. And I have my IMS user email A to Z. And I save it and I can see which one is governing my table here, my first one, my primary sort and my secondary sort. And this is a really quick demo.
+
+00:43:03:43 - 00:43:23:38
+不明
+But that's it. Like really, really quickly I can now I can do multiple dimensions and don't get, taken aback by the table you're seeing. That is a table that has multiple dimension columns, not breakdowns, also known as a flat view table or a flat table. That is also coming hopefully in May. But I'm not demoing that right now.
+
+00:43:23:38 - 00:43:40:53
+不明
+This is just, a freebie you get as part of that project. So, but so secondary sorting is going to be really cool to allow for even in a non flat table, if you have a single dimension and a whole bunch of metrics, you can choose which metrics are going to govern the table sort order. In there okay.
+
+00:43:41:00 - 00:44:01:42
+不明
+So that is secondary sorting. The next one is correlation matrix. So if you've ever wanted to get any more statistical analysis within Analysis Workspace we're building a new visualization called the correlation. Well actually we're just calling it matrix now to be honest as it is being developed right now. But when you do this you'll add a new visualization to workspace.
+
+00:44:01:42 - 00:44:18:00
+不明
+There's two options. There are correlation and include in pair or what we're now going to call overlap. You choose your dimension that you want to see the correlation in which metric you want to see it by, and you click build. This is a bunch of dummy data. So it's not going to look that great. But it gives an idea of what it can be.
+
+00:44:18:00 - 00:44:36:11
+不明
+So across I have my top ten dimension items going down and across. And I can see the correlated pairs between them to know which ones are more highly correlated versus others. Now, essentially, if you were to break right click and see this as a trend, the trend is kind of it gives you an indication of how highly correlated they are.
+
+00:44:36:16 - 00:44:54:36
+不明
+And so you can get a view of which ones are in which ones or not. If you change it to include in pair R or cloud parent filter, I mean, or what we're going to probably call overlap. This is more of a basket analysis. So if you want to know which things are bought together or used together, in this case I want to see which visualizations are used jointly in the same session.
+
+00:44:54:41 - 00:45:11:04
+不明
+And no surprise, a free form table and a line chart are most often used together. Who would have guessed? But you can do this same type of analysis using this overlap feature within the correlation matrix viz to get and see to see which products are used together, which features on your site are used together, and also and the like.
+
+00:45:11:04 - 00:45:38:51
+不明
+So that is the correlation matrix. Last one is the interactive training tutorial. So we've long had a starter project that you can use to kind of guide yourself through an onboarding session to learn analysis workspace, but it's not always super helpful if you are brand new in your learning or analysis workspace. This interactive, more guided experience will show you what to do and help you learn where to click and how to get started.
+
+00:45:38:51 - 00:45:56:31
+不明
+So you've got live feedback as you're doing what you're supposed to be doing by the tutorial. Whether or not you're getting it right. So you click on the components icon and it says, yes, well done, you have done it. You're following the steps that you're supposed to do. And now it says to add the page dimension. So I'm not sure where to go.
+
+00:45:56:31 - 00:46:09:32
+不明
+So highlights for me where to click and drag. And I bring that on in the table. And I can see I've got a little green checkmark saying I've completed that. Now I got to look at the table and interpret the data, which can sometimes be confusing for people. So this is a great way for people to learn how to find it.
+
+00:46:09:32 - 00:46:32:15
+不明
+And then I get fireworks. Boom, you did it. Now the tutorial moves on and I can see some videos to help me learn what I'm doing to get additional feedback there. To learn if I'm following the right steps or not. But the interactive training tutorial is really good again at getting the users up to, to speed on how to use Analysis Workspace without you having to hold their hand and walk them through everything, all on your own.
+
+00:46:32:20 - 00:46:57:04
+不明
+So that is our third, sneak peak feature, the interactive training tutorial. So let's vote on our expansion candidates. Which one is the best? The secondary sorting the correlation matrix or the interactive training tutorial?
+
+00:46:57:09 - 00:47:09:52
+不明
+Which is stat nerds in here? All right, I see I see how it is in. Cool. No problem with that.
+
+00:47:09:57 - 00:47:18:24
+不明
+The secondary sorting have it in it to pull off, to come back like we saw earlier.
+
+00:47:18:29 - 00:47:44:37
+不明
+It doesn't look like it. Okay. We'll call it the correlation matrix is our expansion candidate winner. So now we move to the final bit of the Tulip Bowl. The grand mommy of them all, the championship game. Which one is going to be the champion today. So as a recap, hopefully you've noticed as we've gone through each of these, hence the names of the bowls and all that kind of stuff, all the things we've done have been in service of helping you achieve these outcomes.
+
+00:47:44:42 - 00:48:03:03
+不明
+Okay, to make it easier for you to navigate around your projects, to make it easier to onboard newer users, find new ways to analyze your data, unlock new types of analysis, and then we have a little sneak peak at the end. So we've got our playoff bracket, we've got our top four. And if I was updating this appropriately it looks like it did.
+
+00:48:03:18 - 00:48:26:49
+不明
+We've got our our final four competing in the championship game. So let's pick a winner. And this will dictate who gets the money. So if you are still is anyone still have a perfect bracket as far as they know or remember. Any hands. No one maybe. Okay let's see. Cash your final vote. Which is your favorite feature of the day?
+
+00:48:26:49 - 00:48:35:42
+不明
+Who is the winner of the Tulip Bowl Championship game? Table of contents.
+
+00:48:35:47 - 00:48:48:22
+不明
+All right. Our winner is the assistant. So who picked our assistant as their winner? Okay, let's give out some money.
+
+00:48:48:27 - 00:48:57:58
+不明
+So I'm going to pick a random name. For who? Pick the assistant.
+
+00:48:58:03 - 00:49:07:31
+不明
+Pauline Hernandez, where are you at? I hope you didn't leave. Pauline, where are you? Pauline?
+
+00:49:07:36 - 00:49:35:51
+不明
+Oh, no. All right. Someone else gets a chance now. Last name? Hernandez. I might need photo ID, you know. Oh, yeah. That's me. I got a new name. Okay, let's go with Drew Miller. Drew, come on down, drew.
+
+00:49:35:56 - 00:49:58:37
+不明
+You get 50 bucks now. Let's see by honestly, before I have to look. Anybody get a perfect bracket, do you think? Okay. Let's see. We need. We had the. Which one? The future one. The training tutorial. No correlation matrix won. That's right.
+
+00:49:58:42 - 00:50:12:31
+不明
+And we had. Journey canvas AGL which won on our first one. Table of contents.
+
+00:50:12:36 - 00:50:33:31
+不明
+I have Vivek Sharma down the back in here. He's going to move. I didn't get your. You can come talk to me afterwards if it works out here. He didn't get to claim his prize, I guess so. Okay, come talk to me. We'll look at it. All right. Well, that is all for today, everybody. I appreciate your time.
+
+00:50:33:36 - 00:50:39:47
+不明
+Thanks for coming to the session.
+
+00:50:39:52 - 00:50:40:30
+不明
+You.
+

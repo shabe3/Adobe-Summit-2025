@@ -1,0 +1,432 @@
+00:00:00:01 - 00:00:27:11
+不明
+Good afternoon everybody. Thanks so much for joining us today. Before we get started. First of all, there's cake at the end. So if you stay, you get some cake. I want you to think back to the last time you celebrated a birthday or a wedding or maybe an anniversary, or maybe even a personal victory. And I'm sure cake was part of that.
+
+00:00:27:15 - 00:00:59:53
+不明
+And it's because cake is more than a dessert. It's a symbol for joy and celebration, for connectedness and shared experiences. And at the center of that experience is nothing. Bundt cakes. Had. It's a brand that keeps delivering this joy and the connectedness and the shared experiences. And did you know that 1.5 billion Americans eat cake annually?
+
+00:00:59:55 - 00:01:35:55
+不明
+That's a lot of celebrations. And staying at the center of all of these celebrations, as I mentioned, is nothing Bundt Cakes. And it's a really hard job because as we know, consumers are super demanding these days. We need convenience. We need speed. We need reliability. We need to stay connected across all of the channels that we interact with and compound that with growth over a period of a couple of years to 678 bakeries across the U.S. and Canada.
+
+00:01:36:00 - 00:02:10:00
+不明
+And that's what we're going to talk about today, is how Nothing Bundt Cakes has really embraced technology to fuel this tremendous growth. As becoming this joyful celebration that Americans can, can really grab on to. So my name is Jen Zim Naski. I am a client partner with, huge. We used to be known as Hero Digital. We are a full service digital agency, and I am so thrilled to be here with one of my favorite clients, Scott Lovejoy.
+
+00:02:10:00 - 00:02:36:36
+不明
+Bringing the joy. The CTO of Nothing Bundt Cakes. Thank you so much, Scott, for being here for so. Before we get started, maybe you can introduce yourself. Talk a little bit about your role, about the organization. Sure. I'll talk about myself a little bit. And nothing but cakes a lot. How about that? So I've been in technology for more years than I care to admit here, but about ten years ago, I got into the hospitality industry.
+
+00:02:36:36 - 00:02:55:27
+不明
+I went to work at Topgolf, and there I was responsible for the entire guest journey, all the technology points from the game. It was, I'll say, reservations to lobby to the games themselves and point of sale. And I really got the hospitality bug. I love working in an operation where you bring the joy. You make guests happy.
+
+00:02:55:29 - 00:03:13:55
+不明
+They can bring their friends and family and such. About a year ago, I guess a year and a half now I can say I moved over to Nothing Bundt Cakes. Our our mission literally is bring the joy. So my name could not be better. That's you really embody. That's probably how I got the job. Yeah. But more importantly.
+
+00:03:13:55 - 00:03:43:06
+不明
+So nothing. Bundt cake was founded in 1997 here in Las Vegas. So two women, Debbie and Deanna, got together and opened a humble little cake shop here at I believe is on Sahara Avenue. That was in 97. They I think it took them several years before they opened store number two. And then that really probably 5 or 6 years ago, the company started a growth trajectory, started getting into franchising and started rapid growth.
+
+00:03:43:11 - 00:04:07:48
+不明
+So for the last few years, for example, we've been opening 100 per year. Our goal this year is about 150 bakeries to open. So I was introduced to Nothing Bundt Cakes as a customer, as a guest. So when I moved my family from Seattle to Dallas in 2014, my Aunt Donna brought a decorated ten inch welcome cake. And I thought, oh, being in the South is different, right?
+
+00:04:07:52 - 00:04:28:29
+不明
+Here we go. It's like a big decorated cake. Right, exactly. Yeah. But it was amazing. And I thought, what is this? This is. And so that became my party trick to take and nothing but cake to a housewarming or birthdays or whatever. And it's common to see, like Jen mentioned, for Thanksgiving, to see a red velvet cake and things like that.
+
+00:04:28:29 - 00:04:45:30
+不明
+So it's a wonderful brand. It did not start off digital, although we've been getting there in a hurry. Especially in the past five years ago, as we've been trying to increase our digital mix and meet our guests where they want to be. You don't always want to drive into a to a located a strip mall kind of thing.
+
+00:04:45:30 - 00:05:01:37
+不明
+You want it delivered to you, or I want to be able to order ahead of time and skip the line and things like that. So we're meeting our guests where they are. That's wonderful. And you can now boasts the number one chain restaurants in America, which is amazing. That's a big, congratulations, I really is. Thank you. Thank you.
+
+00:05:01:52 - 00:05:20:56
+不明
+Yeah, definitely worth a round of applause. But it sounds challenges, right, since you joined. And so maybe you can just start off talking about some of the challenges that you've encountered specific to technology, over the past couple of years. Okay. Well, I, I would prefer to skip over that part, but I'll relive it a little bit.
+
+00:05:21:01 - 00:05:41:09
+不明
+Okay, so picture this I started in November of 2023, a few weeks before Thanksgiving. Okay, cool. I'm liking this. I've got a lot to learn about franchising. Topgolf wasn't as big on franchises. Nothing bundt cakes, but six days in on the job. I got to meet many of our franchisees. We call them bakery owners because the website crashed.
+
+00:05:41:14 - 00:05:58:37
+不明
+I'm in a meeting and all of a sudden my phone starts blowing up. Somehow they got my mobile phone saying, the website's down. What are you doing to fix it? Even as extreme as when are we going to get off of the Magento platform? It's only brought badness to us. Yeah. So that was my Intro to Nothing bundt cake.
+
+00:05:58:42 - 00:06:19:14
+不明
+I was stressful at all. No, I went from being around a holiday day to. With your family. That's it. Day two. I'm decorating cakes and going through the training. And day six, the website crashed and so people are coming after me. But that was a really good benchmark to building trust. We can only go up from here with our digital presence.
+
+00:06:19:19 - 00:06:39:28
+不明
+And I had thankfully, I had wonderful partners with hero now huge. And, I integrated very quickly in and we've partnered well. Awesome. Please ignore the music next door. Right. What's happening? That's not for us. Yes. For us. But let's talk maybe about some of the largest pain points that you encounter. Like, what were the issues with the platform?
+
+00:06:39:33 - 00:07:00:42
+不明
+Okay, so one of the biggest problems and some of this is I had to put on my archeologist hat when I got there to figure out the why behind some of this. But our platform, we had migrated from some other non-emergent site to Magento, and I guess due to time constraints or whatever, it was a lift and shift, so we weren't really taken advantage of the Adobe Commerce platform.
+
+00:07:00:47 - 00:07:21:26
+不明
+So that was number one. Lots of custom code, very inefficient queries to the database and things like that. So we couldn't even think about how do we improve conversions. How do we attack abandoned carts and things like that? We really just had to build trust that the website would stay up and running because of our growth rate.
+
+00:07:21:26 - 00:07:43:15
+不明
+So we have a starting point of we migrated code as is not leveraging the platform. Then you add 100 bakeries a year. Yeah. Growing awareness as a brand. We're compounding the issue back in 2223, right. So when holidays came up, more people were coming to the site. The site would slow down to a crawl and we'd be watching on New Relic.
+
+00:07:43:20 - 00:07:59:42
+不明
+Oh, no, I don't I don't want that line to go up in that line to go down. But we very quickly had to dig in and figure out what was causing that. And how could we improve those scaling issues? Yeah. Yeah. And can you walk us through what happened during some of those high trafficked periods of time?
+
+00:07:59:42 - 00:08:17:41
+不明
+I we've got this slide up that shows we, my, my team didn't necessarily love this, but my office window had a days up sign because we every day I would add to it to say, we've been up for, you know, 28 days, 20 and, oh, I got to start over again, erase it on the window and put back zero.
+
+00:08:17:46 - 00:08:36:55
+不明
+And we had to we had to attack that very honestly and say, look, we all inherited a platform that can be improved. And I'll go into that more a little bit later on why we didn't listen to the folks who said, you know, throw out Adobe. This isn't the right answer. I learned very quickly it is a great platform.
+
+00:08:37:00 - 00:09:02:09
+不明
+Adobe can handle far more traffic than our lowly little, cake store, right? But we hadn't implemented it correctly. So the team with a lot of humility, we started working on the roadmap to attack. What's the lowest hanging fruit? To improve the infrastructure. Infrastructure? Scaling, security, all that stuff. Because we just could not handle the volume that our brand brought with it, right?
+
+00:09:02:13 - 00:09:22:41
+不明
+When you think back to the time where you were evaluating, you had these bakery owners that were calling you very frustrated. Your customers were probably very frustrated. Every time the site was down. They were in order to be able to order their cakes and celebrate joy. What were like some of the business impacts there too? Can you talk through that a little bit?
+
+00:09:22:43 - 00:09:53:33
+不明
+Yeah, it's a strange thing because we didn't start off as a digital brand. We started off as people knew to drive down the street, go to your local nothing Bundt cakes and and order and take to your family event or whatever. The probably the best news is that when our site crashed, they would call the bakery and complain about the site crashing, and then the bakery owner would submit a ticket and call us, and I say that's the best news, because any other brand they would abandon, they would go to a competitor.
+
+00:09:53:33 - 00:10:11:21
+不明
+I can get a cake anywhere, right? But they didn't. They would chew out the bakery owners who would then chew Mia Love. Right? So I would much rather have that situation. But to be honest, we know that there was lost revenue. Right. If your website's down during a Thanksgiving period, we're calculating by the hundreds of thousands of dollars of lost revenue.
+
+00:10:11:28 - 00:10:30:14
+不明
+Yeah. So the scaling, we really had to get that fixed. Yeah. And at what point did you decide to stay with Magento? Like, I'm sure it was a really, you know, a thoughtful decision that you went through, especially with the bakery owners telling you to leave. And did you just have a gut feel this was the right platform?
+
+00:10:30:19 - 00:10:49:52
+不明
+There is a bit of a gut feel, because, again, you know, if Coca-Cola is on Adobe Commerce, I think nothing bundt cake should be able to adapt, right? There's many other brand examples there. There was a bit of a gut feel, but there was also a as we put our archeology hats on and realized we were barely scraping the surface of what Adobe is capable of, the native features.
+
+00:10:49:56 - 00:11:13:13
+不明
+And we had so much legacy code that was in there. Yeah. Here's a very specific example. So partnering with the, the DevOps team at huge, we saw that as a as a guest traverse the website. One click would on average be 19 queries to the database. So you've already put in your local local bakery, you've already put in what flavors you want and things like that.
+
+00:11:13:13 - 00:11:36:40
+不明
+And it was querying the database for that each time. And so digging into those root causes, you don't need 19 queries to do something like that, right? So we started down that roadmap of picking off the custom code, because we knew that Magento was the right answer if we optimized it. Sure, sure. You talked about working with the hero slash huge dev team.
+
+00:11:36:41 - 00:12:00:12
+不明
+How was that experience for they? Wonderful. Yeah. Yes. I'm not leading. I would say, as with all, all partnerships. Right. You. There was a push and pull as we learned each other's styles and learned to trust each other because it was a it was a tough situation where, calls are going back and forth, and I never had to worry about finger pointing or any of that.
+
+00:12:00:13 - 00:12:31:18
+不明
+So I've loved that about the relationship. But I would say it did take a little bit of a breaking in period to where we knew were marching in the same direction, were picking off those 19 queries every time a customer traverses the site. And then we worked both on simultaneously on project work, like upgrading to the latest version of Adobe Commerce, as well as the DevOps side to build in security, make sure monitoring and alerting are in place so that I felt more comfortable that I could see things before I got a phone call from the bakery if they happened.
+
+00:12:31:33 - 00:12:52:23
+不明
+Otherwise, we were able to benchmark and see improvement over time. Right, right. I have to say, trust is is the right word really. And we have appreciated your partnership very, very much. And over time it just continues to grow your team. Some of some of the people are here today are fabulous. And we do really appreciate all of the work that we've been able to.
+
+00:12:52:26 - 00:13:19:35
+不明
+Likewise with you. All right. So let's talk about now you've been able to stabilize the platform. Things are smooth sailing and rocking and rolling. So what's next? What's what does the road to transformation look like. All right. So there's several things. First of all, you never end optimization. We're always building that in. So as we build new features we're making sure we're using, not using custom code when we can avoid it and things like that.
+
+00:13:19:40 - 00:13:37:10
+不明
+But at the same time, we're looking down the road at how can we better answer our guests questions with perhaps AI web chat bots so that, we have a different generation buying cakes now than were, ten years ago? I don't want to tell people that's that's right. They don't want this thing. I don't want a phone number.
+
+00:13:37:10 - 00:13:54:34
+不明
+They don't want an email. I want to answer right there. What that could mean for us is not only the opportunity to answer guest questions, but also to build a cake for them. Right. Do you have any gluten free options? Yes we do. In fact, we have eight inch, ten inch gluten free chocolate chip. Would you like it decorated or not?
+
+00:13:54:47 - 00:14:11:55
+不明
+And we can build the bundt cake there and lead to another conversion. Right. So that's one of the things we're looking for. We'll talk a little bit about what we've rolled out in last year and what we're going. We're continuing to optimize for those. Yeah. Sky's the limit. There's a lot more we can do now that we have comfort in the platform.
+
+00:14:11:59 - 00:14:36:57
+不明
+Right. And before we get to those new features, maybe you could talk about some of the, like DevOps, how you're alerting and just being aware of the what's happening on the platform a little bit more regularly now. Yeah, that was that was a key part early on was instrumenting our getting the monitoring and alerting set up so that we knew we could follow the performance of the site as a as it went.
+
+00:14:37:02 - 00:14:57:47
+不明
+The the fact that we have a dedicated DevOps team means that from an employee base, we have a low employee count, but trust in a partner. And that's been that's been huge. That's great. And all out of the box Adobe components also. Right. That's where we'd like to go. Yeah, yeah. We're not quite there yet, but we're working towards it.
+
+00:14:57:49 - 00:15:17:25
+不明
+Right. Well, congratulations. It's a huge win. So as we mentioned, these are some of the the key wins that you guys are seeing over, over the time now. So is there anything you want to call out here that really stands out to you? Really anybody who's technical in the audience can look at these numbers and go, yeah, this is great.
+
+00:15:17:25 - 00:15:32:17
+不明
+What we've what I care the most about is that our customer doesn't feel doesn't see a little wheel spinning like some of you may have saw on the, video broadcast earlier today. That was. We were joking. Jamie Diamond got to the most important part, and then the wheels turned. We don't want to see that on our website.
+
+00:15:32:17 - 00:15:51:33
+不明
+You don't want to see that on a live cast, right? It feels so much better as a guest to be able to load up your cake with the right bow colors and flavors and everything else and just click, click, click and get through it. So this is the proof that it's happened to the the qualitative in the quantitative blend there of a better guest experience.
+
+00:15:51:33 - 00:16:12:09
+不明
+Great. All right let's talk about growth. Where are you going. Well let's let's talk about a few of the things we did in the past year that we couldn't have done before. We stabilized the platform. One good example is anybody in the restaurant industry in here, not just me. Okay. Has anybody ordered from any of these providers? How about that?
+
+00:16:12:13 - 00:16:33:56
+不明
+Yeah okay. Got it. Okay. So I'm going to I'm going to do a little translation back in the old days when you ordered a pizza, you would order it directly from a Pizza Hut or Domino's or whatever. Some still do what we, we call that first party delivery. That is our customer data, our delivery. We have a little mini van that gets painted up and which has been in a lot of parades lately.
+
+00:16:34:00 - 00:16:59:39
+不明
+Oh good. Good. The Irish say Paddy's Day parade, the the the cake truck was going through. So we have a bump mobile with a picture of a big bundt cake on the side. Yes, it is that cheesy, but it works, she remembered right? So first party delivery means you go on our website, you order. There's some limits, because often the person driving that bookmobile is the franchise owner, so they may put in fairly restrictive times.
+
+00:16:59:50 - 00:17:18:57
+不明
+I can deliver as long as it's more than two weeks out. It can only be during these times. And there needs to be a minimum order size of, say, $150. Can you imagine back in the day calling Pizza Hut? And they said, well, only if it's more than $150. So on one hand, we've had the mobile first party delivery concept.
+
+00:17:19:02 - 00:17:40:10
+不明
+A couple of years ago, we rolled out a third party, what we call a third party delivery concept, which is you go on the DoorDash app, you're hungry on a Friday night or whatever. You load up a couple Bartlett's and DoorDash would deliver to you. Okay, the downside with that plan, there's an upside, but the downside is that we have no idea who you are.
+
+00:17:40:15 - 00:18:00:14
+不明
+We have no idea what you're ordering, why you're ordering it. Yeah. You're not connected to that. Guess that's it. So it's their guest. Their delivery is very simple for us. They just show up, grab a bag and leave. Unfortunately, if there's a bad experience, our brand may be impacted. But we have no idea, what that situation is.
+
+00:18:00:28 - 00:18:25:53
+不明
+Now, the upside is turning on that third party delivery was a revenue upside immediately, because we found an incremental guest that we didn't have before because people had been looking for us on DoorDash and Grubhub and UberEats, but they couldn't find us because we weren't there. So we saw a nice little revenue bump. However, we didn't have the customer data and new brand recognition for people that may not have known about your organization.
+
+00:18:25:58 - 00:18:48:17
+不明
+Exactly. So this past year, we we met in the middle. We came up with what we call second party delivery, that is our guest on our website on the Adobe Commerce platform, but delivering with a third party. So we would process the order, set all those requirements I talked about earlier. Minimum order. No. You want one bottle? Great.
+
+00:18:48:30 - 00:19:13:12
+不明
+I've done that many times. I mean, there are times that chocolate chocolate chip bottles sounds very good. Yeah, the Reese's Pieces there, you guys. Yeah. And so we now have the customer data. We deliver much more efficiently with an Uber Eats who has cars standing by who are delivering. But we don't have to have the franchise owner stop what they're doing and go deliver cakes in the minivan and the Batmobile.
+
+00:19:13:17 - 00:19:36:10
+不明
+So that, again, we saw a revenue bump almost immediately. We knew we would we were able to run missed delivery or a missed order reports with our first party solution prior to this. And you could we charted them geographically and showed how many orders would get all the way to the end. And then when they clicked availability, there was none.
+
+00:19:36:14 - 00:19:56:58
+不明
+I want something tomorrow. Sorry, we can't deliver for seven days. And so we could chart that and we could see hundreds of these around every bakery. So literally the day we turned on our second party delivery, we saw those orders go through the roof. Yeah. That's great. And it's a complex solution too, right. Because you've got several integrations to account for.
+
+00:19:56:58 - 00:20:24:50
+不明
+Maybe you can talk about that a little bit. Yeah. So this is a great example. Earlier when I said we had simultaneous project work and the DevOps work, different set of resources, the project work was to integrate going from the guest order, pulling potential times, any minimum fees, if there were any, flowing through to the Uber, Uber direct platform, and then connecting with the driver, sending messages back, you can see all the integrations through this path.
+
+00:20:24:55 - 00:20:41:24
+不明
+And then once we have success that we have in order, we have a driver submitting the order through to our point of sale and bakery so that they fulfill the order baguette and put it out for the driver. It was it was quite complicated. But it paid off. It certainly paid off. Not on the front end, though.
+
+00:20:41:24 - 00:20:56:28
+不明
+It's pretty seamless, like you would never be able to tell. And it's super fast. So that's really a great solution. If in fact, I'll take that a step further. It was so seamless to the guests. They said they expected us to be delivering, and then they'd be surprised when an Uber driver shows up and drops it on the front porch.
+
+00:20:56:28 - 00:21:20:05
+不明
+Yeah. Were there any other logistical challenges that you came upon? Well, rolling this out as bakery owners I mentioned earlier. So imagine putting your life savings into a franchise and you're so proud of the brand and everybody tells you my favorite color. Any time you wear a shirt or a pin or whatever. And then getting a call from an angry guest that says, my cakes turned out upside down.
+
+00:21:20:05 - 00:21:43:26
+不明
+What? What happened? Or we had one case. This was probably the worst I've ever heard with a delivery service where they had ordered a decorated cake. The tiered decorated cake. So a ten inch with an eight inch cake on top of it. It arrived by Vesper. Oh, no. Right. So we we had to learn. There's, I'm just like bungee cords right there.
+
+00:21:43:38 - 00:22:02:40
+不明
+The guest was not happy we made it right? Of course. But, some of those things we had to figure out in the early days of delivery, and this is why we test and learn. We pilot in small numbers of bakeries and then grow over time. But we did have to iron out some of those kinks. The customer experience, we believe, has been happening that way all along with a third party delivery.
+
+00:22:02:47 - 00:22:31:15
+不明
+But they weren't our guests, right? We didn't see their tickets. We just saw money coming in with second party delivery. We got first hand knowledge of every time a pack of containers would arrive upside down. Yeah. So now that you have more visibility into who the customer is, what are you doing with the data? So fantastic. So now that we have that data and we can see guests frequency, we can see what types of things are ordering at different times.
+
+00:22:31:20 - 00:22:58:54
+不明
+Our goal is to meet the guest where they are and find opportunities to to change their behavior or help them along with these celebrations. The simplest example is many people know us only as a celebration brand. You order a cake, you bring it to a party, and we can see those cases. And those tend to all clump around times like Mother's Day, Super Bowl, Halloween and Thanksgiving, father's day, that's it.
+
+00:22:58:54 - 00:23:21:10
+不明
+Yeah, well, fathers don't get nearly as much love as mothers. We have data to show that. But what we found is those special occasion guests we can now target them with, with email or SMS or app messaging to say, you know, why not treat yourself? The Reese's Pieces cake is out. Yeah. And vice versa. We have people who only know us as by a $6 bottle.
+
+00:23:21:10 - 00:23:54:14
+不明
+It did. You know, you can make mom's day or dad's day or whatever with, decorated happy birthday cake. Yeah. So that's data we didn't have before, before this. I have taken advantage of of those targeted marketing efforts. So thank you very much. You know, it's two PD was one of these projects that we also were very proud of working on with you all, and especially after the first month of rolling it out and hearing the success of the program, which was sort of a surprise.
+
+00:23:54:14 - 00:24:17:32
+不明
+Right? All the financial numbers, can you talk about that a little bit? I can't share the actual numbers, but I will say it was a significant, significant bump in revenue system wide. Right. We had planned on taking much longer to roll out the system, but based on the financial results and our ability to quickly turnaround fixes to things like a tiered cake going on a Vespa or fontina arriving upside down, right.
+
+00:24:17:35 - 00:24:36:02
+不明
+We escalated that and rolled out much quicker, and we got the entire system rolled out in about six months last year. That's that's amazing. All right. So now that that is, what other innovations are you able to come up with? Well, one of the things we're working on right now to hoping to roll out this year is fundraising.
+
+00:24:36:06 - 00:25:04:52
+不明
+Yeah, that's a great one. So, for many years our bakery owners have been involved in the community. They PTA events, hospital charitable giving events, soccer club, things like that. It's an enormous amount of work for them. Again, these are people who have, put their life savings into opening a bakery and then to. And then five, and they're out in their community loading up the Batmobile, going to an elementary school or a PTA event or a hospital or whatever.
+
+00:25:04:57 - 00:25:27:53
+不明
+And when we interviewed them, just to understand what opportunities there were to automate and to improve the process, we learned that there were I think we we had 678 bakeries. We probably have about 380 or 400 franchise owners. There were probably 380 or 400 different systems, ranging from monday.com to track orders to excel to things like that.
+
+00:25:27:58 - 00:25:56:12
+不明
+And we realized there was a great opportunity to create a fundraising portal that reduces the amount of work, both for the fundraiser and the bakery. So in an electronic fashion now, you can negotiate the discount you'll give for a PTA versus, an Air Force base or whatever it is. They can go back and forth and say, for example, we'll give you but let's for $4 each, you we suggest you sell them for $7 each, your organization gets three per.
+
+00:25:56:17 - 00:26:17:05
+不明
+And you can see the math on the screen very quickly as you build up. Well, if I sell 2000 of these things and who doesn't love cake? Yeah, right. So it's it's many benefits but the automation helps the bakeries. This also helps us to scale community involvement much more than a person or two. Drive in the Batmobile out full of cakes.
+
+00:26:17:10 - 00:26:39:15
+不明
+As well as it helps us to track in one central system flowing through to the point of sale and helping with inventory management. So yeah, you were talking earlier about, the Frisco location and somebody was it's available at that location. Somebody came like 35 minutes just for the order. Maybe you could even put marketing. We typically don't for a pilot.
+
+00:26:39:15 - 00:27:00:59
+不明
+Right? When we roll out a pilot, we just want to work out the kinks. Yeah. Make sure you can't design behind the desk. And you can never truly understand what's going to happen in the real world until it happens. Right? So we didn't put any marketing behind this, but Frisco is a far northern suburb of Dallas, and it was the only bakery with this fundraising portal set up.
+
+00:27:01:03 - 00:27:33:25
+不明
+And we got our first $2,800 fundraising order from West Fort Worth, which is probably 35 or 40 miles away. And we were thinking, how did they even this is just a guess that we didn't market to going to the site searching for fundraising, and found the easier process that's automated with Frisco. And so they went through. The transaction happened, she coordinated with the bakery owner, and she drove her 38 miles or whatever it was to to load up her car to sell at an event that told us there's demand.
+
+00:27:33:25 - 00:27:51:56
+不明
+Yeah, it's a unique offering. Not a lot of cakes for sale, for fundraising. That's right. We have 13 bakeries in the Dallas-Fort worth area. And this could this was probably the furthest one, but it happened to be the one that we turn this on. So we've since rolled out to 17 bakeries and rolling. We're learning with each implementation.
+
+00:27:51:56 - 00:28:13:24
+不明
+We're we're getting feedback from bakery owners as well as the fundraisers themselves. So we hope to get this rolled out by the end of the year. Yeah. I also love that you enabled the location services to allow for that distance too, because sometimes it just doesn't show any results. No, you're right. And and anybody who's worked with a franchising organization that gets a little dicey with territories.
+
+00:28:13:29 - 00:28:33:29
+不明
+And so that that told us something to we need to roll out by market so that we cover, the entire market. So territories are respected and things like that. Right. Lots of great learning, right. All right, so you're on a serious growth trajectory, a thousand bakeries by 2027. Can you talk about how this is going to happen?
+
+00:28:33:31 - 00:28:57:04
+不明
+Yeah. I mean, and how the technology too is enabling this. So I would say for the past 2 to 3 years, long before I got to the company, we've been focusing on how do we scale, how do we grow? Others have done this in the industry. It helps for growing awareness as well as just, getting everything standardized and, it it helps in a lot of ways beyond technology, right?
+
+00:28:57:19 - 00:29:22:13
+不明
+Training processes, marketing efficiency awareness and all that. From a technology perspective we've been focusing on, I'll say I've specifically been focusing on not 700 bakeries, not a thousand, but 2000 and beyond. How do we pick a point of sale company that can scale to that, to that level? How do we double down on the website to make sure that we can grow our digital mix percentage?
+
+00:29:22:18 - 00:29:53:28
+不明
+The mobile app, the even the silly things you wouldn't normally think about, like the audio in a in a store. How do we have the right provider there? Because it's very difficult to go from 100 to 500 to 600 to 2000. But by designing things for the 2000 range, that's enabling us to go from I think we went from one to 2 to 10 a year to 46 to 100 where, like I said earlier, we're hoping to get to 150 this year and there's no reason we can't open 200 to 250 bakeries a year.
+
+00:29:53:37 - 00:30:15:35
+不明
+Yeah, I love that you're planning for 2000 and not just the thousand that which is still incredible by itself. But yeah, that you're you're planning for it. So, can you share what's on your roadmap a little bit for the, for the kind folks in the. Yeah for sure. So I mentioned earlier that we're working on an AI web chat bot solution.
+
+00:30:15:40 - 00:30:36:37
+不明
+That one is a relatively straightforward way to to add guest service features on to the website. We're doing a lot of work optimizing things we rolled out in the last year. I'll set the stage for this a little bit. We have a technology advisory council that is made up of bakery owners with a technical background, and they represent for the rest of the bakery owners.
+
+00:30:36:42 - 00:30:58:38
+不明
+And one of our meetings, I think this was in November, one of my, allies and sometimes opponents, he'll, you know, he'll be in my ear, but he'll also thank us for the good work and all. He said, love, joy for eight years we've been asking for two PD for fundraising for, mobile app solution for a website that stays up during holidays.
+
+00:30:58:43 - 00:31:18:26
+不明
+He said, we love it, don't get me wrong, but why do you have to do eight years worth of requests in six months? Right. And he he was right. We really they they went through so much change for improvement and our commitment to them was we will we will slow down on new rollouts and focus heavily on optimizing the things we've rolled out.
+
+00:31:18:30 - 00:31:37:06
+不明
+Sure. How do we optimize UberEats? How do we get fundraising right before we roll it out? How can we make simple things like how do you out of stock red velvet? Because it was popular this week across the platforms to make it easier for your 18 year old, perhaps, who's working, as a as a joy creator there.
+
+00:31:37:06 - 00:32:03:51
+不明
+So and loyalty is going to play. That's it. Thank you for reminding me. Yeah. So we never had a loyalty program until this past year, but specifically in October we rolled that out. Yeah. With loyalty, we've enabled the ability to add events. So me as, I'll just say, as a dad and a husband is a good example of I sign up for the app and it asks me, would you like to enter your dates, birthdates and anniversaries?
+
+00:32:03:57 - 00:32:27:23
+不明
+Oh heck yeah, because the app will remind me you have an anniversary coming up. Oh, sweet. Okay, I'm going to. I'm going to buy cake. A birthday, things like that. And every year on those anniversary, I need one for Father's Day. That's. Oh, yeah. Yeah, I need to put that on somebody else's phone. Okay. But loyalty is a big deal because we now have better guest information correlated to.
+
+00:32:27:28 - 00:32:45:34
+不明
+Did they do pickup or delivery? Are they a special event guest or are they a treat guest. And how do we get them to go the other way? So much more we can do to meet the guest where they are now that we have that loyalty information, even that interplay with the fundraising program. And this is going to be really important also.
+
+00:32:45:45 - 00:33:14:11
+不明
+That's right. In using that example with fundraising, everybody in this room has different personas depending on whether you're at home or at work or in the PTA. And each one of those hats you put on has a different case where where you might need cake or any other product out in the market. So really, considering that all of the ways that our guest journey can change depending on those personas leads to great opportunity for us and for them to be the winner when they show up with cake right?
+
+00:33:14:16 - 00:33:35:28
+不明
+You and I have talked a little bit about catering. Is there anything that you can share there? Catering. I forgot about that. Catering is a good example. In fact, I think we used Easy Cater platform today to get buntings for the winners here for the the quest for we made a small change on our website just a few weeks ago, and we really enjoyed this.
+
+00:33:35:33 - 00:33:58:03
+不明
+We rolled out Easy Cater is a third party catering provider. They're big on white glove service. You large orders, that sort of thing. So I think company event, you have a company meeting and you want to have bunting is sitting out there easy caters a great third party to do that. We didn't get much traction though, and we couldn't figure out why there's a marketing element to it, but it seems like an obvious thing.
+
+00:33:58:08 - 00:34:16:56
+不明
+Well, on our website, we've been doing a lot of AB testing. Now that the platform is stable, we do AB testing, we do heat mapping and look at where guests are clicking through on the mobile version, on the desktop version. And we noticed that one of the tabs at the cross at the top that says about us hardly ever got clicked.
+
+00:34:17:01 - 00:34:39:06
+不明
+Nobody cares about the history of the company. I'm going to the website to buy a birthday cake or a wedding cake or whatever. So we had somebody on the team had a theory. What if we removed about us, or move it down to the bottom of the screen and put catering there? That week with zero marketing, we had nearly $40,000 in sales through Easy Cater just by a simple product placement.
+
+00:34:39:11 - 00:35:00:09
+不明
+But of course, since then we've been doing all sorts of things to help spread the word. But catering is a big opportunity for us for events like this. And company parties. Yeah for sure. And I love that test and learn mentality. Also, just the experiment with everything right? Is there anything more that you can share there? I would say you don't know if you don't test.
+
+00:35:00:09 - 00:35:22:34
+不明
+Right. It's true. There were, certain people in the audience pointed out as we're looking at our heatmaps. So the conventional wisdom in e-commerce, from my perspective, is don't force anybody to scroll and get to the cart as fast as you can. Well, we found we break some of that, right? We're looking at it. We added a happy birthday, package at the bottom, just, just to see what happens.
+
+00:35:22:45 - 00:35:42:07
+不明
+So on your mobile, that 80% of our traffic is mobile. And at the very bottom of the page is happy birthday. That had more clicks than most of the stuff up at the top. And so we thought our guests are a little different than at least the conventional wisdom. And so we've been experimenting with we moved Happy Birthday weight to the top and we saw how popular it was.
+
+00:35:42:12 - 00:36:01:13
+不明
+But we've been experimenting with different placement, and I'm just imagining somebody who's hungry on a Friday night scroll and scroll. Oh, that's the one, right? Yep. But if you don't test, you don't know. Right. And I imagine, too, that the optimization of the platform has made it really easy to be able to make these changes as you see things happening.
+
+00:36:01:19 - 00:36:18:32
+不明
+That's that's right. I mean, we didn't have the headspace to focus on that when we couldn't handle large volumes for trust keeping it live. Yeah. That's right. Yeah. That's great. It's a lot more fun to focus on the customer than the tech. I will say I'm sure. And I love that. Now that you know that it's stabilized, it's all about the customer.
+
+00:36:18:32 - 00:36:41:24
+不明
+That's right. What are you excited about? What? What is. So, what is exciting going on? I love I love our growth. I love the increasing awareness. I think there's so much opportunity to increase our digital mix now that we're meeting customers where they are. There is a lot of opportunity for us to expand, really expand fundraising.
+
+00:36:41:24 - 00:37:06:17
+不明
+We've got the potential to go into gifting like corporate gifting type stuff. Sky's the limit in terms of what we're able to do on the digital platforms. So yeah, you, the team have had some really great success. I'm excited to be there with you. All right. So looking back on your journey over the past two and a half year, one and a half year, one and a half, what are some of the lessons learned?
+
+00:37:06:22 - 00:37:29:29
+不明
+I think I would do it the same exact way again very few times in my career if I said that, but I would focus on the platform. The foundation and the infrastructure first, do the archeology dig. If you start somewhere, figure out what the problems are and focus on the foundation. You can't grow as a company if you're scattershot all over the place.
+
+00:37:29:29 - 00:37:58:57
+不明
+Looking for, how do we improve conversion yet? Takes ten seconds to open a page or something like that. Security is really important. It's obvious if anybody in technology in the room knows that it's a constant threat. Infrastructure, just the abilities, scalability, stability, maintainability, really focusing on those things first, then open the door for us for all the opportunity of product placement and leveraging features with Adobe Commerce.
+
+00:37:58:57 - 00:38:19:03
+不明
+Yeah, and it really helps when you do have a platform that is reliable and trusted. That's it. That you can grow on. Yeah. That's great. I think that's all we have for today. Unless there's any other stories that you want to share, I can't I can't think of anything. I will say one. Actually, I will tell a side story here, one of my big things.
+
+00:38:19:03 - 00:38:43:28
+不明
+And we do this as a company, too, is I like to work in the bakery. Right. And I am the least bakery. Like, I frosted a cake and it was a disaster, right? So they don't let me do that job, but for, for holidays, I'll go work behind the behind the cake case there and work the point of sale and understand all the things that that are, you know, 18 to 80 year olds are dealing with there.
+
+00:38:43:41 - 00:39:03:57
+不明
+And they're so wonderful as brand representatives and joyful. And what are you celebrating today? And then they can help with the upsell. Because if it's a birthday, we can put a birthday hat on it or whatever. But it's really humbling. I worked on Easter last year, the day before Easter. It's really humbling to have people come in and complain about the website.
+
+00:39:04:01 - 00:39:18:54
+不明
+Right? And they have no idea who I am. And I'm like, yep, that's fair. And people are answering the phone, oh, I'm sorry that happened to you. I bet the bakery and it looks at you like I'm I told you. Yeah, they love it though. They love the fact that, you know, you're willing to hear the feedback and everything.
+
+00:39:18:58 - 00:39:39:34
+不明
+I've since worked in bakeries, and that is not people show up to get their cake and that's. It's just a smooth transaction. Yeah. Or there's somebody who didn't go to the website and they need to. Yeah. But yeah, it's been a big difference. I have ordered tens of thousands of times, and I've never had an issue either through the second part delivery or the pickup.
+
+00:39:39:39 - 00:40:03:07
+不明
+Good. And oftentimes I want to say I help with your website, but I don't like you. That's, you know, we, Yeah, I know, all right, well, we will be at the booth 571 and there is a very large pink cube over our booth. So if you do have any other questions, please stop by. There are cakes for everybody.
+
+00:40:03:12 - 00:40:10:56
+不明
+And there will be cakes also at the booth. So, we would love to see you. And thank you very much for joining today. Thank you, thank you. Likewise.
+

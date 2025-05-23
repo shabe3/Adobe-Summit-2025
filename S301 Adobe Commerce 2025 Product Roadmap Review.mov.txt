@@ -1,0 +1,492 @@
+00:00:00:01 - 00:00:27:39
+不明
+I think to see all of you here. Welcome to the session Adobe Commerce 2025 roadmap. I am Chandra Dani. I lead product management, product marketing and tech commerce for Adobe Commerce, and I'm Jennifer Hankey. I'm a senior expert solutions consultant for Adobe Commerce. Jennifer and I, together we will show you all the innovation we plan to bring to the product.
+
+00:00:27:39 - 00:00:54:50
+不明
+This year. We will talk about the state of the market. We will talk about new product announcements. We will talk about all the innovation we are bringing throughout the stack. And we will give you insight into what you can expect from us for the rest of 2025 and early 2026. So let's look at the state of the market as some of you already know.
+
+00:00:54:52 - 00:01:35:58
+不明
+Every year, Adobe publishes its own research. It's called the Adobe Digital Insights. It captures the entire year and the holiday seasons shopper experience, shopper trends. So based on the January 2025 report, the total online spend for the year 2024 was 1.05 trillion. It eclipsed the trillion dollar mark for the first time. The mobile spend was more than 500 billion, and it went over the desktop spend for the first time.
+
+00:01:36:03 - 00:02:28:16
+不明
+And the holiday season spend itself was significant. E-commerce spending is at an all time high. What the report also showed was this growth is fueled more by promotions and discounts and less by value, because discounts were also at all time high. We need to change that. If we look at the B2B landscape, the global B2B e-commerce market is already skyrocketing, fueled by the transformation on digital experiences, B2B e-commerce sales is growing more than 200 times faster than offline sales, and 83% of B2B customers expect a rich digital experience.
+
+00:02:28:21 - 00:03:02:53
+不明
+What is interesting is millennials now drive 73% of B2B purchase decisions, and this digital native group expects high quality online experience. So it's amazing to see all this opportunity. When we ask you what is holding you back from making the most of all this opportunity? You tell us your challenges. Some of the things you tell us is, first and foremost, bring down my operational cost.
+
+00:03:02:58 - 00:03:27:24
+不明
+Bring down the cost of upgrades. Then you tell us. Help me differentiate with respect to other third party sites where I may be selling my products, because whenever you sell on a third party site, they take a cut that eats into your margins. You would rather attract all the traffic on your own store front and convert them. There.
+
+00:03:27:28 - 00:03:59:33
+不明
+Many of you support B2B businesses. You tell us to support even more complex use cases. So what is our vision at Adobe? We live in the age of digital experiences. Technology has reached a point with all of the AI innovation, where each one of us can have the digital experience we want, and for that experience, we are willing to pay.
+
+00:03:59:38 - 00:04:55:07
+不明
+At Adobe, we believe hyper personalization will happen. It will happen for individuals such as you and me. It will happen for businesses big and small. But before it happens, there will be intermediate steps. Personalization. At the level of GEOs countries, it is personal personalization and for audiences for segments. Personalization by gender, age, style. As the technology powerhouse of digital experiences, we aspire to be the platform that will bring you the traffic, that will bring you the personalized engagement, and also be the platform that will help you extract the maxim value for your products.
+
+00:04:55:12 - 00:05:29:55
+不明
+We aspire that all your digital experiences should look like this. Where if you know that your buyers say, for example, is a female who is looking for running shoes and loves nature. When your buyer visits your store front, they can imagine themselves experiencing your product. On the B2B side, let's say your buyer is a small clinic owner. When they come to your storefront, you show them options for a small clinic.
+
+00:05:30:00 - 00:06:02:12
+不明
+And if your buyer is a procurement specialist at a large hospital, you show them options for volume purchase. With this vision in mind, we are bringing a ton of innovation such that you can drive outcomes like this where you can supercharge your conversion by 4 to 8%, where you can fast track your expansion across business lines and brands in hours.
+
+00:06:02:16 - 00:06:31:50
+不明
+And yes, we heard your first challenge you should be able to drastically cut your operational costs. The promise to you is that the number of upgrades and patches you will do will be zero. All right, announcing the first new product, Adobe Commerce as a cloud service.
+
+00:06:31:55 - 00:06:48:22
+不明
+The entire stack of Adobe Commerce is now available as SaaS, managed by Adobe. 000.
+
+00:06:48:27 - 00:07:23:48
+不明
+Adobe Commerce as a cloud service is a multi-tenant, full stack e-commerce platform consisting of the store front merchandizing services, native digital asset management, a developer platform, and yes, the industry leading commerce foundation on which you can run B2B and B2C use cases on the same platform, promising you all the outcomes that we just talked about. It goes general availability in June 2025.
+
+00:07:23:52 - 00:07:53:01
+不明
+So let us look at the stack in a little more detail. The benefits come to you in three dimensions. The first one is that it is fully SaaS 100% SaaS managed by Adobe. What it means for you is you will not do any upgrade or patching. It will be done by Adobe. The platform is always up to date.
+
+00:07:53:04 - 00:08:28:07
+不明
+It is version less. What that means for you is whenever we put a feature out, it will be instantaneously available to you. We can onboard you in less than five minutes. You can provision an instance in less than two minutes. You can stand up the environment in weeks. And because we did this recently, we leveraged all the latest and the greatest that was out there, such that we can give you the scalability during your peak times with no impact to your performance.
+
+00:08:28:12 - 00:09:15:19
+不明
+All the goodness of SaaS now available to you. The second dimension on which you get the benefits is we went ahead and pulled a lot of key technologies from the rest of Adobe and are now bringing it to our commerce customers in this commerce single skill. What are those technologies? The Commerce storefront runs on the edge. We picked the best of authoring, the best of visual, and the best of document authoring inside Adobe and it is now available to our commerce customers as part of this skill.
+
+00:09:15:21 - 00:09:46:57
+不明
+Natively. We took some of the key technologies from our digital asset management solution and assets such as smart imaging, dynamic media, etc. and are now natively bringing digital digital asset management to you as part of this single skill as part of that effort. You also get access to our gen AI capabilities. You get access to Adobe Express. You get access to Adobe Firefly.
+
+00:09:47:02 - 00:10:20:53
+不明
+Other than that, a whole bunch of gen AI powered personalization is also available to you. Everything as part of this one commerce skill. The third dimension on which we bring you the benefits is every component of this stack is composable and headless, and every component of this stack comes with a ton of innovation, which Jennifer and I will show you right now.
+
+00:10:20:58 - 00:10:25:34
+不明
+That was not it.
+
+00:10:25:39 - 00:10:35:44
+不明
+We are announcing a second new product.
+
+00:10:35:49 - 00:11:08:59
+不明
+Adobe Commerce Optimizer. We have a lot of customers that have a complex commerce backend. They have deep integrations with their ERP, CRM systems. Sometimes their commerce data sits in these systems. It's very hard for them to change it. We have customers with traditional back and we have customers with DIY back end. The problem is not the backend. The challenges, the limitation that this backend imposes on the catalog management layer.
+
+00:11:09:00 - 00:11:57:51
+不明
+On the store front, it limits the personalization. You can do and hence it limits your conversion. Adobe can now help. Adobe Commerce Optimizer is an experienced layer that can work with any e-commerce backend. It comes with the same storefront, with the same merchandizing services, with the same developer platform, and the same native digital asset management solution, promising you the benefits of conversion, faster time to market with no disruption to your existing commerce backend system.
+
+00:11:57:55 - 00:12:29:39
+不明
+Get all the benefits of Adobe with your existing commerce platform. Our backend platform. This product also goes general availability in June 2025. Let us look at the stack of Commerce Optimizer. Just like the previous product. This is 100% SaaS managed by Adobe. It will work with any commerce backend, Adobe or non Adobe. It is also composable and headless.
+
+00:12:29:43 - 00:12:49:52
+不明
+So if you asked me the question. Hey, I want to keep my own storefront, but Adobe, I want to buy rest of stuff from you. Can I do that? Yes. The answer is yes. You can do that. So now you are wondering, did I really get the difference between the two? Right? What exactly? How exactly are they different?
+
+00:12:49:57 - 00:13:25:55
+不明
+So look at the left hand side. Adobe Commerce as a cloud service is a full stack from Adobe. On the right hand side. Adobe Commerce Optimizer can work with any third party commerce backend. Rest of the components of the stack are exactly the same. So now you must be thinking what about me? I am your existing customer. I am on your past platform.
+
+00:13:26:00 - 00:14:15:45
+不明
+All this innovation is great, but how does it impact me? We put a lot of thought into this. There is no impact to existing customer deployments. Adopt Adobe Commerce as a cloud service at the time of your choosing. We will continue to support all our existing fast and on prem customers. With the quarter early releases and patches. What we have been doing for all these years, there is no end date that we put to how long we will continue to support you.
+
+00:14:15:50 - 00:14:47:00
+不明
+The reason we do not put any end date is because we believe that the cost savings and the conversion and time to market benefits on the SaaS platform are so compelling that you will want to adopt it. So what we want to do is help you with that adoption process. We want to help you in two ways. First, we are we extend.
+
+00:14:47:09 - 00:15:14:19
+不明
+We did it already. We extended the support of all our old versions to to August 2026, which means if you are on 4.442.4.54.6, whatever. If you planned to upgrade, you can now adopt and the SaaS platform. Don't spend the time and money upgrading to a new version just to make the leap to the SaaS platform whenever you are ready.
+
+00:15:14:24 - 00:15:44:35
+不明
+Right. And the second thing we are doing is investing heavily in migration tooling, investing in accelerators, investing in starter kits, investing in app builder up applications for your PHP application applications, investing in our partner ecosystem, and investing in best practices and documentation for you so that whenever you are ready, the system is there to help you.
+
+00:15:44:40 - 00:16:11:28
+不明
+So talking about adopting Adobe Commerce as a cloud service, we realize that you cannot change your e-commerce platform overnight. There is a lot of thought and planning that goes into it, and many of you want to do it in a step by step, phased manner. So this is the reason why we made every component of the stack composable, so that you can choose how you want to get there.
+
+00:16:11:33 - 00:16:38:35
+不明
+So you could choose the Adobe Commerce Optimizer as an interim step towards Adobe Commerce as a cloud service. It has the storefront and it has the development platform App Builder, where you can bring all your integrations, all your customization customizations. As you all know, it has been out there for a while, two years now, and you all know that it's an API first platform.
+
+00:16:38:40 - 00:17:06:33
+不明
+Or you can take a even smaller baby step. You can just start with the App Builder. And here there are two thoughts I want to leave you with. Every integration that you bring to App Builder, every customization that you bring to App Builder. First of all, you can do it while you are on the platform. Every integration that you bring, you will not have to repeat this effort.
+
+00:17:06:37 - 00:17:37:08
+不明
+When you go to the SaaS platform. It's a one time effort. You will not have to repeat any expense that you incurred. It is a one time effort, one time expense, whatever pain you go through bringing that integration, you go through it only once and you can start that on your current plus plus platform. Now the second thing is every integration or customization that you bring because it works in an API first manner.
+
+00:17:37:19 - 00:18:12:20
+不明
+You make that integration more secure and easier to maintain. The reason we have designed things this way is even if you take a small step of having a one small integration, you will actually be able to demonstrate business impact and create value to your organization. So every step you take, your org sees value. Now let us go into the next level of details.
+
+00:18:12:25 - 00:18:37:37
+不明
+How do we make all this possible for you? So we will first talk about what are we going to do such that you can achieve this conversion. We will talk about our storefront technology first. So as you all may remember, those of you who were with with us in this session last year, we did some storefront announcements last year too.
+
+00:18:37:42 - 00:19:03:34
+不明
+So what is different this year? Jennifer and I will walk you through it, and when we reach those points, we will keep on flagging them. But here I want you to remember two things. I want you to remember performance. I want you to remember personalization because it is the combination of performance and personalization that gives you this kind of conversion benefit.
+
+00:19:03:39 - 00:19:44:40
+不明
+So talking about performance first, our store front runs on the edge, which makes it lightning fast, which means your pages load instantaneously, which means your Google Lighthouse scores go really up when your Google Lighthouse scores go really up. Your Google search rankings go really up when your Google search rankings go really up. A whole bunch of organic traffic comes to your store front.
+
+00:19:44:45 - 00:20:14:13
+不明
+Now, instead of spending your SEO dollars on buzzwords, you can spend it on your product keywords. So there is some SEO savings there as well. But now you suddenly you are dealing with a much wider funnel on your storefront. You have a much more relevant and meaningful traffic traffic that you really want on your storefront. Now your problem is, how do I convert them?
+
+00:20:14:15 - 00:20:40:30
+不明
+And that is when the personalization part kicks in. So what are we going to do for personalization? I talked to you about altering. And the next part is all the gen AI powered content variation. All we can do with native digital asset management and all we can do to drive data driven personalization through our integration with our customer data platform.
+
+00:20:40:35 - 00:21:10:30
+不明
+We have more than 13 VIP customers that have used this technology and have seen very promising results. Some of them you see on the slide on the right hand side. Love stack is one such customer. If you go on Love shark.com, you will see pictures like this. Like really big images, very immersive and they keep on scrolling and you'll see so many of them.
+
+00:21:10:35 - 00:21:43:14
+不明
+But the page loads instantaneously. Love shack is running their storefront on the edge. Their Google Lighthouse scores are almost perfect, and they increase their unbranded organic traffic by two x. Overall, they increase their conversion by 8%. So let us now see this in action. What it means when your storefront is running on the edge. Thank you Chandu. We are so excited to get into these demos today.
+
+00:21:43:19 - 00:22:03:34
+不明
+But just before we get into the demos, just out of curiosity, we're going to conduct a little poll. How many of you have ever used or worked with a homegrown platform before just to raise your hands? Okay. Wow. A good, good number of people. All right, all right. So I'm sure all of you are very familiar with what Adobe does.
+
+00:22:03:39 - 00:22:35:24
+不明
+Photoshop documents, illustrator marketing automation software. Well, Adobe just launched an Adobe store where we sell hats, hoodies, caps, wine glasses, and charcuterie boards because, of course, what does an Adobe sell? And today, that Adobe store has gone live on Adobe Commerce as a cloud service. So for demos today, we'll be walking through all the experiences on the storefront builder through the lens of the Adobe store.
+
+00:22:35:29 - 00:23:00:00
+不明
+We'll be walking through two different experiences. One on the left hand side, you'll see Adobe Store on a homegrown ecosystem. And then on the right hand side, you'll see the Adobe store, the same store on Adobe Commerce as a cloud service. And we'll be comparing and contrasting the performance, the speed using a Google Lighthouse test. So let's go ahead and let's analyze this.
+
+00:23:00:05 - 00:23:26:35
+不明
+These two separate experiences. So once we click on analyze we're now testing for page load speed interactivity and stability. Fun fact every 100 milliseconds of delay will actually decrease conversions by 7%. And so we're still analyzing. We're still analyzing. It even says that for any experience that takes longer than a second to load, you'll actually lose much of the attention of the buyer.
+
+00:23:26:40 - 00:23:51:27
+不明
+So it's continuing to gather information. Again, this is the homegrown ecosystem. Many of you must be very familiar with that. And we're still getting the information. Jeopardy! Song insert and not so hot 38 red yellow yellow red. But let's compare that with Adobe Commerce as a cloud service. Analyzing that page. And now what you'll see is a highly performance store front.
+
+00:23:51:41 - 00:24:08:30
+不明
+It's loading the page and within moments before I even finish the spot, you'll see that the returned results will be a near-perfect score. 99 on Performance and Speed.
+
+00:24:08:34 - 00:24:31:41
+不明
+So many of you are very familiar with the homegrown experience, so let's just see how much more performance, how really personalized Adobe Commerce as a cloud service, and all of the innovations that we're bringing today with all of our demos. So let's see how that works. Back to you, Rhonda. Thank you Jennifer. We want that you should be able to get started with our storefront quickly.
+
+00:24:31:46 - 00:24:59:17
+不明
+So we designed it using the concept of templates and pre-built component the templates we call it the boilerplate. The pre-built components we call it the drop in. What is new and different this year is across the boilerplate and across that drop ins. You can now expect feature completeness, and we also added an SDK so that you can now go ahead and create your own drop in.
+
+00:24:59:22 - 00:25:31:13
+不明
+Or you could customize any of the existing drop ins. Let's move to authoring. Last year we introduced document based authoring. This year we are giving you both document based authoring, and we are bringing the best of visual authoring technology inside Adobe to Adobe Commerce and what you have is a choice. You can start with document based and then go ahead and edit in your visual editor.
+
+00:25:31:22 - 00:25:58:15
+不明
+You can start with your visual editor. Go ahead and edit in your document editor. Do whatever is your preference. Now we I want to attract your attention to the right hand side. What you see on the screen. You will see a few icons there through this one. Single interface with these icons you can now trigger an AI powered content variation through this icon itself.
+
+00:25:58:16 - 00:26:21:34
+不明
+These icons itself. You will be triggering a B, testing different kinds of measurement performance measurement tests that you may want to do. You can. It's customizable. In fact, you can go ahead and create your own functionality, associate it with an icon and put it here. So let's see that in an action. I just want to double click on two themes that China just brought up.
+
+00:26:21:34 - 00:26:49:37
+不明
+So the first is on choice. The second is on accessibility. Truly anyone can now create, edit, preview and publish whether you're a marketer, a developer, an e-commerce merchandizer literally anyone can now create their own personalized storefront builder with this new feature. So I want to also call your attention to the right hand side, as China had just mentioned, we see all of these different icons, right?
+
+00:26:49:42 - 00:27:17:29
+不明
+You can now truly build your own experience on that right hand side. As we hover over, we see the ability to insert different content fragments. We see the ability to manage tasks, generate different variations, create different multiple content drafts, as well as experiment for B and testing to really see what is performing best out of all of our content fragments.
+
+00:27:17:38 - 00:27:41:47
+不明
+So let's actually edit that hero banner on the storefront here. We're going to click into that content tree, and you'll see a very, very controlled wizard wig editor of all of the different edge delivered commerce drop ins like cards, sections, even product recommendations. So let's click into one of the carousel items into that image. We're getting ready for a Skateboard community collab campaign.
+
+00:27:41:56 - 00:28:10:40
+不明
+So we're going to our Digital asset manager that's now included in our commerce license. We're typing in category because part of the metadata that it's read, we know that that category image of that skateboarder is one that we want to feature on that storefront. So we're inserting skateboard as that image alternative to improve SEO. And now we're going to preview and publish this hero image because truly you have performance authoring capabilities within the Storefront Builder.
+
+00:28:10:40 - 00:28:35:29
+不明
+We press publish and now publish has kicked off and started successful. And within seconds we see that skateboard girly now on our storefront in that hero banner. So truly, this is not just any visual editor. Truly, you are getting an experience, a performant experience to be able to use any experience or framework, headless or head full back to you to thank you.
+
+00:28:35:40 - 00:28:58:45
+不明
+Let's talk about an AI powered content variation. We want that anyone should be able to use it. All of you here should be able to use it. So the way we designed it that you can provide input to the prompt in a conversational language, in a natural language such that it's super easy to use. Let's see that in action.
+
+00:28:58:49 - 00:29:31:42
+不明
+Yeah. So as Wanda had just said, write that right hand tab that we saw that's aggregating all of those experiences like generate variations, experimentation. This is the dashboard of generate variations. Generate variations is utilizing artificial intelligence to really craft your own experience based on user generated content, as well as different pre-built prompt templates for different images, different text and marketing copy that you can use to your own advantage for content creation acceleration.
+
+00:29:31:42 - 00:29:51:34
+不明
+So let's see how that works. So we're brought to that dashboard right here. We're going to hover over different cards. You see a fake sections cart abandonment. But we're creating a hero banner. So today on that storefront what we're going to do is we want to make an experience for our Adobe employees to feel really excited to buy more equipment.
+
+00:29:51:43 - 00:30:23:17
+不明
+So let's input some of that interaction. So experience for Adobe employees to buy Adobe branded gear. We're going into explaining that user intent because we want them to feel excited to buy. And what's amazing is that you can further personalize by bringing in your own audiences. All of these audiences can be extracted directly from the Experience cloud and what's also even amazing is that you can even insert your own URL that's going to fetch all of that content, that contextualization, to refine the generative output.
+
+00:30:23:22 - 00:30:57:39
+不明
+So now that we've retrieved all of that input, that content, that context, it knows that our Adobe stores selling those hoodies, those caps, those t shirts and those wine glasses and charcuterie boards as we see there. So it's going to refine our output for marketing copy different buttons. So let's click generate to see the magic happen. And instantaneously we see three different variations popping up with marketing copy call to action buttons Adobe Gear for champions, show your Adobe Love Dress, Adobe for all, and let's create a Gen I hero image for the first image.
+
+00:30:57:45 - 00:31:18:32
+不明
+So we're brought to Adobe Express. Again, this is all within the same user interface. We're clicking into the type of image size. We're clicking photo. We want to create a stylistic and compositional reference based on the hero image that we already have on our storefront to really guide the gen AI, to create an image that we really want for our storefront and instance easily.
+
+00:31:18:39 - 00:31:43:35
+不明
+When we click generate, it creates these four different images. We like the first image. So let's go into the second variant. Let's generate another image. And we're going to repeat the same process within Adobe Express using fire Fly, our proprietary gen AI model wide screen. And of course you can select your own style graphic logo. Maybe you want a 3D anime Bohemian glass morphism.
+
+00:31:43:35 - 00:32:02:40
+不明
+All of that is available to you and instantaneously you see four different variants. Maybe we like the one with a simple red background, so we're going to click into that image and save that for our storefronts. And if you want to further refine this, you can even continue editing at the top there to remove background, maybe add on a few stickers.
+
+00:32:02:42 - 00:32:24:43
+不明
+No Photoshop skills required. So let's do that for the third one and the last one. To generate another image for that Storefront Hero banner, we're inserting that last hero banner that we have as that stylistic reference, and we're going to click into Widescreen Photo. You get the idea here. All right. And immediately we see four different very ends of that hero banner.
+
+00:32:24:55 - 00:32:47:48
+不明
+We like the girl with the smile, the orange, the blue contrast. We're saving that. So let's put that in. And what's amazing again in this one unified experience, if you really wanted to, you can then experiment to test out which Jedi image is performing the best on your storefront. Truly innovate, have and all within one ecosystem. Back to you, Jennifer.
+
+00:32:47:52 - 00:33:16:40
+不明
+You saw the authoring part. You saw Jen AI powered content variation. We now take it a step further by bringing digital asset management capabilities natively within commerce, so that you can go from creating product visuals to merchandizing in minutes. Here you also get access to Adobe Express and Adobe Firefly's, so you just don't have a centralized asset management solution.
+
+00:33:16:53 - 00:33:42:16
+不明
+You have more. You can now do searches based on skill, based on tagging, based on visual characteristics. But what is interesting is you take personalization to a whole different level, because now you can create millions of product variations and publish any number of renditions. So let's look at that.
+
+00:33:42:21 - 00:34:02:42
+不明
+All right. So let's just pretend that you're now running the Adobe store. Your manager calls you up and is like, hey, I need a new summer campaign. So I need you to edit all the product SKUs to get ready for a summer campaign sale. And I need it pronto in three days. Of course, normally you'd feel very stressed out.
+
+00:34:02:47 - 00:34:23:37
+不明
+You'd feel like you don't have enough time. But with product visuals now, you can do exactly just that by generating multiple images and all of them. One ecosystem to update for the summer campaign sale. So let's see how that all works. So we're typing in we're using Live Search as you might be familiar. We're typing in that Adobe Max T.
+
+00:34:23:41 - 00:34:51:23
+不明
+We're looking at this currency and we're going to copy the skew code that we grab directly from the storefronts. And then we're going to a digital asset manager. We're typing in that skew copy paste. We're going into a property is here. And we're again now back into Adobe Express Firefly. We're changing the background up to a maybe a summer beachy blue and maybe we want it to be paired with a little bit of more of a summery accessory.
+
+00:34:51:23 - 00:35:14:56
+不明
+So maybe we're going to use or think about, summery accessory, maybe white sunglasses. And what we're going to do is use this brush tool which is using gel eye. And immediately when we generate that accessory, we see three different variants of that white sunglasses. And we like this one. Ooh very cute. So we're going to save this save this baby into our storefront.
+
+00:35:14:56 - 00:35:33:02
+不明
+So let's save that. It's processing our image. And we're brought to the commerce folder so you can save and structure all of your assets directly within this digital asset manager. We're going to save that directly into our commerce folder. And you can also see all of these different areas for campaign metadata, maybe different projects that you can save this to.
+
+00:35:33:07 - 00:35:56:13
+不明
+Again, it is truly amazing what we've brought to you today with all of these package services. So now let's see how we can actually sync this auto sync this directly to our commerce back end. So let's click into the properties function. Here we see different metadata. So with smart search it'll actually start to intelligently surface and understand what type of context is available in the actual image.
+
+00:35:56:25 - 00:36:23:11
+不明
+We're now inserting this or making this available into the Adobe Commerce back end. And now with approval rules we can actually click approved. And let's switch back on over and to the commerce back. And maybe many of you may be familiar with this in the product table grid. So we see that product skew the Adobe Max 2040. And if we scroll down to image and video, we see instantaneously that image that we just generated is now in the back end.
+
+00:36:23:11 - 00:36:42:47
+不明
+So let's check out the store front. We're back in using Live Search to type in Adobe Max 2040. And as we scroll over we see how amazingly simple that was. So in two minutes we were able to update for that product campaign for the summer sale, and we were able to use gen AI all within again, one unified platform.
+
+00:36:42:52 - 00:37:08:49
+不明
+Thank you Jennifer. So Jennifer showed us a few variations in reality, you can get many more variations. All right. You want your decision to be data driven. So you want to be able to conduct different kinds of AB tests and all of that. The we allow you to do that from the same interface. Go ahead. Do your testing.
+
+00:37:08:58 - 00:37:38:31
+不明
+You can do it based on devices, based on location, based on audiences. You can split the traffic the way you want, like 50% goes here, 50% goes there, or 80% here, 20% that you make the pick. But your decisions are now way more data driven. Talking about being data driven, now you must be wondering, is there a way you can capture customer behavior data, past sales data, and help me leverage that to accelerate my conversion?
+
+00:37:38:43 - 00:38:12:49
+不明
+Yes, we can do that. This is something we showed you last year to your commerce. Data can now be brought into Adobe Journey Optimizer. It can be brought into Adobe real time customer data platform. Once it's there, you now have segments. Now that you have segments, you can do segment specific campaign, segment specific journeys, segment specific site content, segment specific site optimization, segment specific promotions, and of course segment specific analysis.
+
+00:38:12:54 - 00:38:44:58
+不明
+So the combination of performance and the combination of personalization together, it helps drive the conversion that we promised you. Let us now shift gears and take you to the next part, which is fast track expansion across business lines and brands in hours. How many of you are on the B2B side of things here? All right, a good percentage in the room for almost 30%.
+
+00:38:45:03 - 00:39:21:25
+不明
+You will like this. Okay, here we drove our innovation on three fronts. First, we invested in on route a new data model itself such that we can support massive catalogs for you running in one single instance, we can now support 250 million SKUs in a single catalog. And of course, we take care of all availability and performance, all of that associated with it runs in a single instance.
+
+00:39:21:30 - 00:39:48:52
+不明
+The second dimension on which we innovated is for each of these skills, we now support 30,000 unique price points at any point in time, which means, Patrick, when Patrick logs in, he sees a different price point. When Kelly logs in, she sees a different price point. Julia sees a different price point. Ryan sees a different price point. Jennifer sees a different price point.
+
+00:39:48:54 - 00:40:23:48
+不明
+I see a different price. One 30,000 unique price points for a single skill at any point in time. The third dimension on which we innovated is the concept of channels and policies, where you can now syndicate catalogs from your one massive catalog you can or master catalog. You can now pick the set of products that you really want associated with your price book, and you are up and going to enter a new market in just a matter of minutes.
+
+00:40:23:52 - 00:40:47:56
+不明
+We read 10,000 products per minute. We read 50,000 prices per minute. This will become easier to understand if you see this example. Let us say you are an automobile company. You make cars and you make auto parts and you are super successful. You know you have been doing this for years. Every year you put out a new model.
+
+00:40:47:56 - 00:41:07:36
+不明
+Your business is all over the country. You even sell globally. All of that. So we are going to pick three brands that you have model A, model B, model C. Now I would have named it model X, Y and Z. But we know those names are taken. So. So we are going to stick with the names model A, model B, model C.
+
+00:41:07:40 - 00:41:29:15
+不明
+Now I told you you are very successful. So you have dealership across the country. You have a dealership in L.A which is a different market, has its own storefront. You have a dealership in Houston, different market has its own store front and a dealership, let's say in Portland, Oregon, different market has its own storefront now any dealership and it has its own client base.
+
+00:41:29:15 - 00:41:51:21
+不明
+Let us say the people there like vintage cars, and therefore the L.A. dealership actually wants to carry all three model A, model B, model C, but they do not want to carry every car you build like they may pick only the popular models, right? Not everything you have built every year. So. But I remember at least carrying all three model A model.
+
+00:41:51:21 - 00:42:21:03
+不明
+We want to see Houston. It's a different market. They want to carry only model B and model C and Portland let's say also just wants to carry model B and model C. How do you do this today? Today what happens even though L.A. needs only your popular models it because it is carrying model A, model B, model C, it ends up carrying the entire catalog for model A, model B, and model C it duplicates.
+
+00:42:21:03 - 00:42:42:50
+不明
+It duplicates all of it. Model. For example, has 2 million SKUs because you have been doing it for so long, all the cars and its parts. Model B has 3 million skills. Model C has 1 million. So what happens with the L.A. dealership? They are carrying 6 million SKUs. What happens with the Houston dealership? They are carrying model B and model C right.
+
+00:42:42:50 - 00:43:09:24
+不明
+So 3 million plus 1,000,004 million skills. And Portland is also carrying 4 million SKUs. In reality, L.A. just wanted 1 million skills. And let's say Houston just wanted 900 K and Portland just wanted 300 K. What does it mean for you as an admin? You as an admin actually maintain everything that is summation of blue because you have to maintain the master catalog too.
+
+00:43:09:28 - 00:43:34:46
+不明
+So you are actually maintaining 20 million skills. And how do you actually do it? You are running in multiple instances and managing all the availability and performance challenges. And as a result, your customers experience also is not as all that great, right? Expand this. I told you, you are super successful, right? So make it across all the dealerships you have now across the country and you know, internationally.
+
+00:43:34:51 - 00:44:03:27
+不明
+Not fun. And if your L.A. region wanted to do a promotion and Portland region wanted to do a promotion, it's like a week long, month long headache. What does it mean for you? Now remember, the promise is one catalog running in one instance. So now you just deal with the master catalog. That's it. Everything else will be syndicated and they will get only a syndicated catalog with 1 million skills.
+
+00:44:03:39 - 00:44:30:46
+不明
+And yes, they are free to have 30,000 pricing power skills to optimize the L.A. market. And Houston gets all a syndicated catalog, their own syndicated catalog, which has 900 K SKUs. And they can do their own price variation to optimize the Houston market. And so does Portland. Now, because the catalog is syndicated, each dealership does its own pricing.
+
+00:44:30:55 - 00:45:06:50
+不明
+They can do price promotions and all and do it in a matter of minutes. Okay. That gives you opportunity to actually do price personalization. It gives you an opportunity to make the most of every market, every storefront that you may be operating. Let us see that in action. We're so excited to show you how we're taking a singular Mastercard catalog and truly creating granular catalog segmentations and advanced pricing configurations all in one dashboard.
+
+00:45:07:03 - 00:45:29:22
+不明
+You'll also notice on this dashboard in Commerce Optimizer all of your favorite AI merchandizing tools like product discovery as well as product recommendations. You're brought to this area where you could see all of your performance key metrics as well, but underneath you'll see catalog. So the catalog data model for creating channels and policies to really level set here.
+
+00:45:29:22 - 00:45:53:56
+不明
+Before we go into this demo, a channel just for a little bit more context is really the highest level of umbrella abstraction. So think of that as like a business unit, maybe a brand or maybe a sales channel, or in this case a geo. So the locations LA, Houston, Portland policies is like creating a filter bubble or creating filters based on skew attributes.
+
+00:45:53:56 - 00:46:15:21
+不明
+And you can do this virtually on any type of attributes. So for today's example, we're going to create a policy for brand as well as part categories. And to further personalize this experience we can create advanced price books. So let's say you have a VIP user versus a non VIP user. You can then create two different price points.
+
+00:46:15:27 - 00:46:37:33
+不明
+And ultimately what we're doing with a singular unified catalog is making sure that the right products are arriving at the right destination for the right type of customer, without any duplication. So let's see how that works with our dashboard. All right. So we see as we scroll we hover. We're going to create a policy here. And for our first one we're going to create the East Coast policy.
+
+00:46:37:44 - 00:47:04:41
+不明
+And specifically for Houston as we remember as Tonya was explaining, Houston is only delivering or selling brand B and C. So we've defined right now the based on the brand brand B and C. So we're saving that. Let's create another filter or another policy based on part category for Houston. So we're going to type in part underscore category defining the operator.
+
+00:47:04:46 - 00:47:28:57
+不明
+And now we're going to make sure that we got our breaks and our suspensions for this policy okay. Saving that. Now let's hover over to channel. We're creating a channel specifically for that Geo or that location in the Houston branch. And now we're going to associate those two policies that we just created. So brand BMC. And the parts for breaks and suspensions underneath that umbrella hierarchy of channel.
+
+00:47:29:02 - 00:47:49:03
+不明
+All right. So now that we've associated that let's go into our configurations back here. We see the configurations. Now for our live LA site. So this is what it looks like on the store front. So let's search using Adobe Live search for breaks. And we see when we type in breaks we see three brand brands A, B and C on the LA site.
+
+00:47:49:08 - 00:48:12:55
+不明
+But specifically for Houston, we only want to show brands B and C, and based on the breaks and suspension. So now let's configure the Houston site. So we're now going into our table. We're editing our name. We're going to get the Or to leave the channel ID directly from that channel that we created copy paste and then editing West Coast to East Coast and our configuration.
+
+00:48:13:00 - 00:48:34:37
+不明
+Now let's preview and publish that. And instantaneously we now have a Houston site. So let's type in the word breaks. And instead of seeing brands A, B and C, we only see brands B and C. And you'll see in comparison here between 100 and 79 products on the L.A site, we only see 59 products on the Houston site.
+
+00:48:34:48 - 00:48:55:06
+不明
+So again, taking that singular unified catalog and making sure that the right customer are getting the right type of products and price point. So let's create one for the VIP user. So we just change that from East Coast to VIP East Coast. And now you see there is a significant discount for the Houston site. For the VIP user 288 versus 480.
+
+00:48:55:13 - 00:49:16:30
+不明
+So the VIP user is now getting that price book of a 40% discount. So you can see how quickly we were able to create an entirely new site experience at the right price for the right type of customer under Commerce Optimizer in catalog data model. So back to each other. Thank you. Jennifer. Now the benefit is not limited to B2B.
+
+00:49:16:35 - 00:49:35:54
+不明
+If you are B2C you can use this as well. Let's say you are a retailer and you operate in United States. You have four brands brand A, B, C and D. You have your United States price book and you are very successful. You now want to expand to Canada. Now Canada is a different market, different kind of weather.
+
+00:49:35:54 - 00:50:08:42
+不明
+People need different kind of clothes. So you choose to take brand A and branded there. It speaks the same language. So you can reuse, you can use your same master catalog. You pick brand and the brand, the pull to pull together your Canadian price in Canadian dollars. Associate this new syndicated catalog with your Canadian price book and as regards all the work related to catalog with respect to entering a new market, you are set to go now.
+
+00:50:08:45 - 00:50:33:32
+不明
+We did a lot of other innovations for B2B. We had we released them just recently. So I'll do a very quick recap for you, but know that you have it already. We now support B2B parent child modeling. If you have a hierarchical organization, subsidiaries and all. All of this works seamlessly. We support standing courts where there is one master code already negotiated.
+
+00:50:33:43 - 00:50:56:49
+不明
+From that you can derive thousands of courts honoring the pre negotiated terms and conditions. We support B2B multi buyer assignment, where one buyer can make purchases for a conglomerate for many different companies and support all different kinds of permutation combinations that and while that buyer does that, that buyer will not have to log in into 50 different portals.
+
+00:50:57:03 - 00:51:23:33
+不明
+All of that storefront context switching functions seamlessly. So go ahead and use that. It's available to you. What we will be doing in the next few months is making all those capability work with edge delivery. Remember the new storefront that we have, and we will also give you accelerators so that once it is done, you can go ahead and adopt is adopt it and use it.
+
+00:51:23:33 - 00:51:57:14
+不明
+With the new edge store front, many of you are open to using JNI when it comes to developer productivity. So we are going to be investing in that and giving you janai power tooling to recreate your storefront experiences and more. There is a whole bunch of other stuff. Also we want to do like support a whole different suite of products sample product, complex product, configurable products, subscriptions, bundles, plans, all that stuff help you make complex bundles, help support order splitting where one order you split it into multiple before you fulfill.
+
+00:51:57:27 - 00:52:27:00
+不明
+Modify your order before you fulfill. We want to support subscription AI driven promotions, workflow automation, all of that. Okay, the last part, how do we help you save a ton of money? A heavy lifting here is done by the fact that Adobe Commerce has a cloud service, as well as Adobe Commerce Optimizer are both SaaS and as a result, like I said, you would not be doing upgrades and patches and that alone saves you a ton.
+
+00:52:27:05 - 00:52:50:33
+不明
+We invested heavily in developer experiences such that we can onboard you in less than five minutes, but developers can do a whole lot of things in that class itself and publish changes. We can onboard you very quickly, but we also recognize that many of you work with third party applications when it comes to, for example, taxes, shipment payments.
+
+00:52:50:45 - 00:53:13:27
+不明
+You do integrations with back office systems and checkout systems. And you need all this from to work from a marketplace. We invested in that to. So I will leave this for a while. Big thank you to all our solution partners and technology partners.
+
+00:53:13:31 - 00:53:43:09
+不明
+Thank you, thank you, thank you, thank you for coming with us on this journey. The announcement goes public today, and we expect even more momentum with the rest of the ecosystem. Come work with us as a product team. We are committed to your success. We are committed to help you. I'll let you take all the pictures. As you can see, the key ones for access, shipping, payments and CRM, etc. integration is all here.
+
+00:53:43:13 - 00:54:15:16
+不明
+One last thing. The world is changing. The paradigm is shifting. What can I do for commerce? And we have a capability where we integrate the auto identify capability of site optimizer such that we can identify inefficiencies in your store front. Let us see that in action. Yes. Let's look at Site Optimizer with one click deployment, the auto automations to identify the high impact opportunities using a genetic AI.
+
+00:54:15:21 - 00:54:34:49
+不明
+So we see underneath here the high impact opportunities on that store front. We see 13 out of 14 are experiencing some core web vital issues. We also see some are missing some links as well. And what you'll notice as well is that on the right hand side, it'll identify the projected traffic loss as well as the projected traffic value.
+
+00:54:34:49 - 00:55:01:17
+不明
+So let's double click into that details page. Let's see here we see the different pages desktop mobile issues with the AI suggested optimization. Here. And what's great is that once we actually identify those areas, we can even involve our stakeholders to manage approvals to make sure that we understand what type of auto one click optimizations that that agent I might be doing on the behalf for us.
+
+00:55:01:22 - 00:55:28:10
+不明
+So we're copying that link. We're sending that off. And you can just see how quickly auto recommendations as well as actionable insights can really help us in resolving traffic issues and improving SEO. Thank you. Jennifer. We so many of you here have already accomplished so much on our past platform. Imagine what is possible once you adopt all the innovations that we talked about.
+
+00:55:28:15 - 00:55:56:06
+不明
+Jennifer and I just barely scratched the tip of the iceberg today. I strongly recommend you go to some of these commerce sessions. They will answer more detailed questions and take you into even more details and let you take a picture. We are taking Early Access customers for both the new products. Here is a QR code using which you can sign up for early access.
+
+00:55:56:11 - 00:56:11:46
+不明
+Thank you. And finally, thank you so much for your time. And here is a survey that you can take. Thank you, thank you, thank you, thank you so much.
+
+00:56:11:51 - 00:56:12:36
+不明
+For.
+

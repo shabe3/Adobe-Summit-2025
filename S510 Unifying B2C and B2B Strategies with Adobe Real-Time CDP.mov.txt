@@ -1,0 +1,488 @@
+00:00:00:48 - 00:00:25:06
+不明
+Good afternoon. Now, I guess, everybody, thank you for coming. You've made it to the very last session in in the summit. And so congratulations on having survived that far. My voice mostly has. And, so I apologize for sounding like Tom waits. We, we saved the best for the last, and, the best crowd for the last as well.
+
+00:00:25:06 - 00:00:51:20
+不明
+So, thank you for coming. My name is Eric Rucker. I'm the product manager for the B2B edition of the real time CDP. Bennett Adobe for about five years and have basically been working on that ever since I joined. I, wrote the vision in 2019. We, got that all, all approved and decided to start building it on Friday the 13th in 2020, which was, about a week after we closed down all of the Adobe offices.
+
+00:00:51:25 - 00:01:09:18
+不明
+And we delivered the first version of it, right around the time when we were starting to come back into the office. So, that was an adventure. And, in the time since, we've been continuing to enhance and extend things, I'm here with Chris session, Chris Sessoms, I'm the senior manager of web and audience tech at Red hat.
+
+00:01:09:23 - 00:01:33:38
+不明
+I've been there almost ten years. I think it'll be in this November. My first experience at Red hat with Adobe was actually launch an audience manager. That was our first dip in the waters of segmentation and data ingestion from disparate data sources. And then a CDP experience platform. Customer data platform is now my second child, if you will, from Adobe.
+
+00:01:33:43 - 00:02:08:28
+不明
+And we can go as an authority figure out of me today. We'd like to make sure we have a couple of goals in our sessions to deliver today, the first one being the overview and understand of the Adobe real time customer data platform, both the B2C and B2B editions, the differences, but also how they work together. And then hopefully you'll head back home to your offices and home and understanding the development and learning the skillsets to deliver seamless workflows and integrations between those two editions and make them work together.
+
+00:02:08:33 - 00:02:25:19
+不明
+And then finally, we'll I'll talk a little bit right at the end, about how to actually what buttons to click to get things set up so that they run right. The system runs correctly, and there will be a slide that was designed really for you to take a picture of, and refer to in the future.
+
+00:02:25:19 - 00:02:53:44
+不明
+So we'll talk about that very quickly. And, kind of prime the pump for you to, to use that as, as you go home and work to extend the, the system. We have left a ton of time at the end of the session for questions as well. And so, will be available afterwards. But, it's really appreciate, questions in the big group because they're generally very interesting to other folks as well.
+
+00:02:53:49 - 00:03:16:48
+不明
+There we go. Actually, I'm going to go ahead and, and I so the the customer data platform has evolved. I joined Adobe, from a startup that builds a consumer oriented customer data platform at Adobe. I've been building the B2B edition. And in that first wave, there was some IT investment. The goal was really all about data was a pretty nerdy endeavor.
+
+00:03:16:48 - 00:03:52:09
+不明
+It was about aggregating data together, figuring out who the people were, creating customer profiles and so forth. As we move forward, the, we've extended that to create, the, the, bring the audience forward as the center of gravity in the system. So instead of just being a data thing, it's really about creating a set of customer targets to, to make sure that your, that you're targeting the customers that you intend to target.
+
+00:03:52:13 - 00:04:04:16
+不明
+And that you're, you're, you've got the audiences with all of the attributes that you need for personalization as we move that further forward.
+
+00:04:04:21 - 00:04:32:31
+不明
+We're, we're getting to the point where, the, engagement and activation or the center of gravity data is really only fun if you do something with it, like it's building a database for a databases sake. Isn't that exciting? And so the the goal here is to unify the work that marketing and, IT operations all do together to create a consistent set of experiences for all of our customers as they move between different modes of communication with, with us.
+
+00:04:32:36 - 00:05:01:54
+不明
+So as they move from, an online conversation off the often at the beginning of a B2B journey into something that is more, sales driven, at the end of a journey. Or is they, in, in some cases will continue through and may buy online? You know, through a more B2C motion. But with.
+
+00:05:01:58 - 00:05:28:21
+不明
+With all the power of, of B2B behind it. So, you know, a B2C like motion that's closed online, but that is informed by accounts and opportunities and so forth. So we'll walk through a bit of a timeline here. Funnily enough, the line is missing. The, the, the CDP started in 2019. We delivered the Adobe Experience platform that is, it's still the thing that the CDP sits on top of.
+
+00:05:28:21 - 00:05:58:28
+不明
+And then pretty shortly thereafter delivered the, customer data platform as well. Sitting on top of that, we continued to build out the tools and functionality in the platform and then the tools that surround the platform as we move forward. So the, the, I'm sorry, customer journey analytics was the first tool that that surrounds, the CDP coming along.
+
+00:05:58:33 - 00:06:22:41
+不明
+That takes the, activity out of the experience platform, and allows you to trace customer journeys through the, through the system. With that, we, had a journey optimizer as we got into 2021, and continued to, to build things out. We finally got to the point where we were, at the end of 2021, the very end of 2021, we shipped the B2B edition.
+
+00:06:22:46 - 00:06:44:53
+不明
+When we were doing that, Red hat was on a similar journey. Looking at their needs and how those needs would be filled. Yeah. So tracing the top here, Red hat started their CDP journey back in 2020. We were evaluating multiple vendors and solutions and then decided to select in 2021. It'll be experience, platform, and real time CDP the best fit our needs.
+
+00:06:44:58 - 00:07:12:58
+不明
+Based on the research we were doing, sessions we were going to do conferences and comparisons that we were doing. And then that led us to continue to implement in 2022 when we actually launched and put our platform for B2C into place and started to actually activate customer data. And the context related to that, by 2022, B2C was fully in production and in a time of about six months.
+
+00:07:13:03 - 00:07:30:52
+不明
+And that was successful because we had a three pronged approach. Red headers, obviously Adobe and our trusted vendor further and allow us to quickly pace, learn, but also implement. Well, sorry.
+
+00:07:30:57 - 00:07:57:45
+不明
+Well, that was happening. We were continuing to expand the the real time CDP. So we added support for our audience. Composition, and support for a segment sharing so that you could share segments between either sandboxes or different, different companies. We added edge segmentation with the ability to do personalization in subsecond, with subsecond response times.
+
+00:07:57:45 - 00:08:29:09
+不明
+So same page or next page scale personalization. And then as we came forward, we've added the Journey Optimizer for B2B last year. We talked about that at summit last year. This year we just announced the customer journey analytics for B2B. So we're continuing to build out a parallel set of B2B tools that that are similar to but but very focused on B2B use cases, similar to the ones that we've got for B2C, but very focused on B2B use cases and then similar fashion March of 2023 for Red hat.
+
+00:08:29:09 - 00:08:55:09
+不明
+And the team was based on optimizing our B2C use cases and the delivery. Speaking of the real time, we started to leapfrog where we started of manually ingesting data with Csvs and Json in a batch form, nightly to actually doing integrations through airflow, DAGs, and our own dogfood with OpenShift to allow us to get streaming data, within, the catalog and the connections, but also streaming to the destinations.
+
+00:08:55:13 - 00:09:28:32
+不明
+Then in 2024, we started to look at the B2B implementation and got our use cases prepped for that once again successful with the same three pronged approach, and was able to get that delivered in six months and then started activating there shortly after. In order to combine and get B2C and B2B in tandem, we started to discover with the Adobe team and with our trusted vendor further the capabilities that were allowed in segment match, where we could actually make use of segment IDs and have a bidirectional path between our two sandboxes of B2C and B2B.
+
+00:09:28:37 - 00:09:51:19
+不明
+So we can not only leverage data sources coming into one activation coming out of the other, but also the destinations across those. And a couple of slides. We've got a visual representation representing the full stack and capabilities across that we've got. One of the things that that happens here is we've we've got this very clean, nice timeline that makes it all look very orderly for how we built all the things.
+
+00:09:51:19 - 00:10:12:09
+不明
+And they were delivered over time. You stood things up in this very orderly plan. But, you know, I think we all experienced and I think we've got a slide on this later, but I'd love it if you could. If you could kind of fill us in on what else was going on in the organization. As we as we did this because I imagine that it wasn't like this was the only thing going on.
+
+00:10:12:14 - 00:10:29:13
+不明
+So first of all, we took a page out of Adobe's book, obviously started with the use cases to make sure we could pull off those capabilities and actually see it the follow through in the output. We've also got a slide on the outcomes that we were able to deliver and realize. But in that time in 2025, we also had some transformations going on.
+
+00:10:29:18 - 00:10:55:27
+不明
+Actually, there's transformations going on throughout this timeline, but the big ones were around Adobe as well. So our peer team delivered, transformation around marketing automation platform, which allowed us to do Marketo and fully deploy that. In doing so, we knew that we needed to integrate with that platform. So we did the streaming out of the box, native connection with Adobe to Adobe for Marketo to a B2B.
+
+00:10:55:31 - 00:11:21:16
+不明
+And then at the same time, we were also looking forward to consolidating those sandboxes into one sandbox. So we're not having to maintain both in tandem to be able to fully have all the capable capabilities centralized and deliver optimal experiences across the board. I think it's really impressive that you've managed to do to get these things stood up on the order of six months with all of the other things going on, keeping a you know, it's not like you can turn off marketing for six months.
+
+00:11:21:16 - 00:11:43:37
+不明
+Well, we're we're messing around with this. And in addition to that, a three pronged approach with a bunch of vendors as Adobe. And further, there's a lot of teams involved. It wasn't just isolated in one team, not the Adobe stack or Red hat. It's stretched across teams. We've got digital experience, user experience, marketing, digital growth operations, I.T, content delivery.
+
+00:11:43:42 - 00:12:10:23
+不明
+It's a a family affair at Red hat. Very cool. I will switch over now for a second. I'll dive into, really what the B2B and B2C editions of the CDP are. We've been talking about the B2B edition of the CDP. And I'm sure some of you are familiar with the distinction, but. Well, I'll cover very quickly sort of what what we mean by that at Adobe.
+
+00:12:10:28 - 00:12:33:49
+不明
+In, in the B2C world, of course, we care about people and, the things that they do that are tracked by events. And so we've got a system that, captures people, builds from various sources, builds a unified customer profiles, associates all of the events, associated with each person to that, that unified customer profile, and lets you, build audiences and activate them.
+
+00:12:33:54 - 00:13:00:00
+不明
+All of those things are super important in the B2B world as well. We care a ton about people and what they do. There's a there's a huge amount of information there. And really, the B2C, everything in the B2C edition carries over to the B2B edition. It is, a it's really, I think, more correct to think of there being one product, which is the B2B edition, with some things turned off.
+
+00:13:00:05 - 00:13:21:00
+不明
+And that's the thing that we call the B2C edition. So the things that are turned on when you get to the B2B edition are some new data objects. So we've got a data object for people, we've got a data for companies, I'm sorry, accounts data object for opportunities. We we've of course got events, we've got a buying group, we've got marketing campaigns and marketing lists and so forth.
+
+00:13:21:00 - 00:13:44:54
+不明
+So we've got a bunch of other data that we can use to target, audiences of people. And we can also target audiences of accounts from the B2B edition. So in this, you know, forgive my geekiness, in this entity diagram, we've got, people in the blue box, events in the green box, those carry forward from the B2C edition directly.
+
+00:13:44:54 - 00:14:04:45
+不明
+They're exactly the same. I I'd say they're exactly the same. There's a couple of extra attributes on the person, but the way that people are connected together to make unified profiles and those kind of things are the same. The events have the exact same structure. There's some extra events. And in the B2B world, people go to conferences and so that can get captured.
+
+00:14:04:49 - 00:14:25:48
+不明
+And so, we bring in this extra data and let you make use of that data, for building audiences. When we look at, how customers adopt the B2B and B2C editions, many of our customers are very large enterprises. I'm sure some of you, some of the folks in the room are from some of the biggest companies in the world.
+
+00:14:26:00 - 00:14:50:44
+不明
+And the, the path to the integrated, customer data set that Chris was describing, can start from either side. We've had companies that start with start with B2B and expand into B2C use cases. We've had companies that start with B to C, and expand into B2B, and then we've had companies that start from both sides and unify them.
+
+00:14:50:49 - 00:15:13:52
+不明
+And this unified thing is something that is easy for folks at Adobe to understand, because it's our business and we we sell to large enterprises. We sell big deals with, that are closed by sales. They, they're tracked by, prospects and opportunities and so forth. It's a very traditional sales process. We've got consumers as well.
+
+00:15:13:57 - 00:15:38:19
+不明
+And then we've got a large set of, smaller, smaller companies that, you know, trail all the way off to one person. And, in the dream, and so, we can cover that whole set of, business structures, with a single tool and in a way that allows us to, to track people as they grow through that structure, track people as they move between jobs.
+
+00:15:38:24 - 00:16:02:13
+不明
+So there's there's a ton of power in this system for, the whale and for us, the reason that our team had to start with B2C and then progressed towards B2B is, honestly, when we started this path down CDP, B2B wasn't an option. So we went with what we had and what was available at the time, which was the B2C, and then grow or evolve with Adobe as they deliver more and more capabilities.
+
+00:16:02:18 - 00:16:24:07
+不明
+And also the Xdm schema, visual that Eric had on, slide before two slides before. One of the key things that we do with our enablement and office hours is really walk our teams through so they understand where the data lives and are in an entity relationship diagram mimics that. So we know exactly what sources, what fields, what values are across each one of those.
+
+00:16:24:12 - 00:16:50:20
+不明
+And that way we can start to, indoctrinate and teach the teams and enable them to understand when they're building a segment, where are they going to be activating it from, but also, which path are they going to get? They want to get all the people associated with their relationship to the account, and then they also want to take the account and, organize it in a way that you can also capture the relationships to the opportunities or the campaigns or the programs or the events, that are associated with those two.
+
+00:16:50:33 - 00:17:11:05
+不明
+So you really have to think about where you're going when you're building segments, but also understand your data and that and visually actually use it side by side and our demos and our, office hours. So you navigate through that while we're navigating the folder structure within the user interface. I, we I've described the unified customer. I'm sounding worse.
+
+00:17:11:05 - 00:17:33:01
+不明
+I'm sorry. I've described the unified customer profile. And in the B2B edition, we also build a unified account profile. So we'll unify account records together from multiple sources in the similar way to what we do for people. So you can see that on the screen here. So in, in the B2B world, of course, we've all got multiple data sources.
+
+00:17:33:01 - 00:17:51:30
+不明
+They'll keep track of people, number of them also keep track of accounts. And there's generally no shared key, that allows you to join all those things together. So we build a graph of connected identifiers that allow you to do that, build a unified customer profile. You can activate that through the system. There's some, information on there.
+
+00:17:51:30 - 00:18:23:37
+不明
+We've got a couple of different editions of, the, tiers, I apologize. The B2B is an addition as compared to B to C, the prime and ultimate are two tiers that sort of, turn on and off, different destination or activation channels. So, so there's a number of knobs that one can, can dial in the product to let you, make sure that we, we rightsize things for you.
+
+00:18:23:42 - 00:18:46:36
+不明
+So what we'd like to do now is, give away the punch line. So what we've we've got red hat is spent, as you saw on the timeline, a couple of years working on, rolling out the CDP. They've got some results now, over the, their first, rollouts of that. And Chris will walk us through what's happened.
+
+00:18:46:40 - 00:19:14:42
+不明
+And then we'll, we'll talk about how it happened. This is a year, year over year over the results and outcomes comparing 2023 2024. So starting on the left, we've got two recent outcomes of the team increase in adoption of the overall audience, segmentation by activation of 30% across the org. We also increased the number of visitors reached via the on site personalization experiences by 61%.
+
+00:19:14:47 - 00:19:44:58
+不明
+This one in particularly, I like to call out that our original goal was only 25%. So we really crushed that and, delivered beyond what we our expectations were. We also increased our opportunity pipeline resulting from the Adobe Experience platform's customer data platform by 162%. And we also on the reverse side of that, with that additional quality and quantity, we're able to increase opportunity one, also known as closed revenue by 85%.
+
+00:19:45:03 - 00:20:09:42
+不明
+And then lastly, we increased our overall audience reach in paid and social by 90%, primarily while activating B2B at an account level with account based marketing, not just the individual level. So lots of growth, lots of output, and obviously time back $2 in the overall goal at right hat. I could imagine the business was super excited about that.
+
+00:20:09:46 - 00:20:33:52
+不明
+Yeah. And like I said, it doesn't there's not one team. This took an effort across multiple teams. So a lot of our onsite experiences are delivered via the Adobe Target platform, which is a pure team dollars, our analysis to get to some of these quantities and the overall output of these was also delivered by a peer team that's, underneath the platform or on top of the platform with the services of Customer Journey Analytics.
+
+00:20:33:57 - 00:21:15:36
+不明
+And then the partnership just across the board with Adobe and further, in the implementation, but also the execution. How did you measure the, the revenue growth attributed back to like 162% is a fantastic, or the opportunity growth, is, fantastic. So we've got a new team in marketing analytics, that does a lot of Tableau dashboarding and takes a lot of our data that's from the similar places and puts it into a separate visualization platform, and we're able to actually tag on the the campaigns, the tactics, the offers that were contributing and involved in the Adobe Experience platform based on the audience segments, but also the delivery mechanisms.
+
+00:21:15:41 - 00:21:44:15
+不明
+So by by way of just backtracking. Yeah. And connecting the dots there, we were able to contribute exactly where Adobe was influential across the board. And is that the same thing they used to, for the revenue track? The yeah, the opportunity ones. Yeah. Okay. Very cool. Yeah. That's is is very neat to see. I'm looking at this realizing that we need to update our visuals because the little dial in the middle doesn't spin far enough to show us 162%.
+
+00:21:44:20 - 00:22:09:10
+不明
+Very nice. So what we'll do next is will lean into how did this happen? What use cases, did you, progress. How did you choose those? And, and then how did they how did they get executed? So Adobe has created a rich set of customer use cases that are available up on, on the web. They're also available through the Adobe field.
+
+00:22:09:10 - 00:22:34:28
+不明
+We can walk you through them all kinds of all kinds of ways to get hold of these. They're meant to serve as inspiration. They're they're things that you could use directly, like, they're they're detailed enough recipes that you could build them out. But I think their, their biggest use usually is, that they're close enough to something that you want to do that it reminds, reminds the org of, of those things.
+
+00:22:34:28 - 00:23:04:10
+不明
+And and you can build them out. And four of them were particularly useful for Red hat for particularly inspiring for Red hat. First one was around prospecting for new customers. Second was around website personalization, both for known and unknown folks. Offsite retargeting, particularly for unknown visitors was was the third and then using second and third party data to enhance customer profiles for known people.
+
+00:23:04:15 - 00:23:32:46
+不明
+Was the fourth one. So let's, let's hop forward and, and dive into those sort of one by one. So as we went over the timeline, obviously we started with the B2C alignment on those use cases. And from there our key inspiration was the and Eric's mentioned earlier, the second, provided use case for inspiration around identifying and being able to unify profiles, but also to reach omnichannel.
+
+00:23:32:51 - 00:23:55:01
+不明
+So we focused on paid and social as our first integration, as well as our on site knowing that we could trust Adobe on Adobe AI, passing audiences from customer data platform to target to hit the glasses, as our marketing team says, and be able to put those personalized experiences to work. In doing so, we also wanted to be able to identify exactly who our customers were.
+
+00:23:55:06 - 00:24:16:27
+不明
+But one of our first use cases was actually identifying internal employees and suppressing not only the onsite experiences, but the paid media from us at Red hat. One of the things that is an interesting challenge in this is bringing AI, choosing what data to bring together for personalization. How did you how did you select that? And was this, this is a B2C use case.
+
+00:24:16:27 - 00:24:36:34
+不明
+So you're not using like somebody who's linked to an account or an opportunity at this point. Correct. So we knew that we were going to bring in our contacts. So we started with an individual email, but we also were very risk averse, knowing that we could not yet overcome the need to obfuscate some of our data, and make sure that we had it secure but also trusted.
+
+00:24:36:39 - 00:24:57:38
+不明
+So in doing so, we hashed with Sha256 all email addresses coming out of our market automation platform upon ingestion into the, the experience platform. And then we also knew that we needed to, for on site personalization, have what used to be the marketing cloud visitor ID is now the Experience Cloud ID. We need to join those or have that relationship and stitching together.
+
+00:24:57:43 - 00:25:21:07
+不明
+And then we really start to hit the ground running. When we started to identify authenticated users with what we have internally as a Red hat user, ID based on authentication. So those three really started to develop how our unified profiles would come together and then enable all the capabilities that we're able to reach in that first year. And it sounds like they were delivered sort of incrementally where they did this all show up on a Tuesday or was no.
+
+00:25:21:07 - 00:25:43:57
+不明
+So we started with the e-cards and the contacts, made sure that student union and relationship was there, and then tacked on Red hat user IDs, and it really start to hit the ground. When we started to have our, in person. And virtual events require authentication, really helping us have the known known, and we could really progressively profile the unknowns.
+
+00:25:44:02 - 00:26:08:20
+不明
+Very cool. One, one thing that, is challenging, I know for a number of, of organizations is just getting hold of the data. I know from Adobe Consulting, like, there's, there's schedules has some buffer in it for find the guy with the password. How how did that work for Red hat? Is that a challenge for you or is that smoother than that?
+
+00:26:08:20 - 00:26:29:00
+不明
+Started off as a challenge, but we obviously had to work across the teams, make sure we had access to the correct credentials. Make sure that our peers, colleagues also had that understanding of why we were asking for the access that all really became quicker and accelerated when we got that executive championship from our leadership to make sure that we had that capability and didn't have as many buffers.
+
+00:26:29:13 - 00:26:42:52
+不明
+Not that we didn't hit some road bumps along the way. There was times where I requested access for our teams. The team got it. I didn't have access to some of the data. So we had to go back and backtrack a couple that a couple of those, ServiceNow things to make sure we all had access.
+
+00:26:42:52 - 00:26:53:30
+不明
+Yep. Makes sense. It's, that's one of those things that seems so simple and, is not always that simple.
+
+00:26:53:34 - 00:27:13:57
+不明
+So on this slide, wanted to exemplify the inspiration that really kind of kick this off of our jumping or jumping off point for B2C, being able to focus on the unified profile and the details that were available. So this is actually a screenshot from one of our first demos. I think this is also a video that's available on the Experience League.
+
+00:27:14:02 - 00:27:36:27
+不明
+So we took that to heart. We knew that this was like the in goal vision for our unified profiles that we wanted to start to work on. Obviously starting internally, but also wanting to reach customers and contacts and our partners. Right. You describe this as being a B2C use case than it is in the sense that it it is utilizing just people and what they do.
+
+00:27:36:32 - 00:27:59:31
+不明
+To personalize the web. But it and of course you're doing this for all of the B2B folks that show up at your web as well. Right. And so I think that's a key thing for us to think about in B2B is that many of the things that the folks do, and we see this when we look at the audiences, they get built in the CDP, is that many B2B audiences look exactly like B2C audiences.
+
+00:27:59:36 - 00:28:30:14
+不明
+And so you'll see folks talking about the, the a B2B CDP is completely different than a B2C one. And a lot of the stuff that we do has a ton of overlap the scale, the, the breadth, the speed, that are important for, for B2C, are super important for some B2B is and increasingly important, I think, for all of us is, is things, become more aligned, as, people become less patient, and as we grow forward.
+
+00:28:30:14 - 00:28:50:03
+不明
+So one of the realizations we had, speaking of those overlaps, is that the audiences that we created in B2C, we had a standardized naming structure or naming convention of how they would be titled, when we started to build in B2B, which we'll get to here shortly, we realized that we also had to have some differentiation between the two.
+
+00:28:50:07 - 00:29:08:24
+不明
+So our naming structure doesn't mean it has to be how you do it. We actually take the same naming construct and actually append B2B in the B2B sandbox, so we know for sure if even though they might have some overlap and some similarities, but those are definitely coming from this sandbox and this instance versus our original B2C instance.
+
+00:29:08:29 - 00:29:30:38
+不明
+And we'll talk as we we go forward about as, as we look to you look to integrate those sort of how we do that. And because there's, there are two modes for people deploying, the real time CDP when they have both consumer customers and business customers, in one mode, they keep those things quite separate.
+
+00:29:30:43 - 00:29:51:06
+不明
+You know, often in those cases, they've got separate websites. And really there's, there's two very independent, tracks. In other ones, they're much more they're much more related. And they want to have they want to make sure that they've got that complete picture of every person. So on this next slide, this was a fun experience for our team.
+
+00:29:51:10 - 00:30:18:56
+不明
+This is a unified profile. This is actually my personal unified profile. I had several test accounts, several personal emails, also some junk drawers, of email addresses that we just had. But, also several devices. I think at one point in time while we were conducting this test, over six months, I had like ten devices, even some of my kids devices on my desk, just making sure that we could show the capability and power of the tool, but also the unified profile.
+
+00:30:19:01 - 00:30:47:28
+不明
+And then right here at the end as it came last, is the Red hat user IDs those authenticated through single sign on IDs that really connected, those that are known and unknown. But also connecting back to our web activity with the experience cloud IDs and the hash demos. So on this particular case, because I had test accounts, I'm not in FSA, but at the point in time we were actually doing some personalization work on the front end, with the financial industry.
+
+00:30:47:33 - 00:31:08:04
+不明
+So that was the result of some of those being qualified for that particular experience. And we also had the line of business as well as a categorization of internal. So we were able to really break it down for the user. And the adoption internally of what kind of details could you actually see at the unified profile level?
+
+00:31:08:09 - 00:31:28:37
+不明
+Yeah. It sounds like things really took off when, the last authenticated user identifier came into, came into the picture, but were you able to achieve uplift before that? Yeah. So even before this unified profile kind of came in to union, the identity graph is the other view that you could see on this as well.
+
+00:31:28:42 - 00:31:54:43
+不明
+And it's that for those that are in the platform, it's almost like a molecule. It starts with separate identities. And then over time, as the platform realizes connections, is the users habitually come and visit and they do certain actions, raise their hand, self-identify, or so on, that molecule becomes closer and closer. And then at this point in time, the unified profile is a full connected of all of the identities that are available in this middle column.
+
+00:31:54:48 - 00:32:10:50
+不明
+Very cool. So we had a great slide deck and internal video that kind of demonstrated the six month time lapse of how Chris Sessoms evolved into a unified profile across the RedHat experience.
+
+00:32:10:55 - 00:32:38:22
+不明
+So next up, we've got our B2B inspiration and use cases. Really wanted to be able to focus in on that account based capability, knowing that we were going to bring in now we're flipping over to be from B2C to B2B. We knew we were going to have to focus in on our CRM and our marketing automation platform. So we had the, contact data, the persons, but we also needed the accounts that we could roll up to and then the connections between.
+
+00:32:38:34 - 00:33:02:42
+不明
+So we could go back to that Zdm visual and understand the relationships, but also deliver on the outcomes. And in the last use case, we also wanted to open up the capability of our, destinations and the reach that we were doing. So we across three other channels totaling five. I was the expected outcome coming out of B2B was unification with B2C.
+
+00:33:02:47 - 00:33:22:54
+不明
+So this was sort of the inspiration for that. And then I think. You can see here how that how that worked with the lines or maybe a little bit of pain for you, but a thank you diagram that showing how customers flow through the system is that, no, this one is actually our B2B use case. So sorry.
+
+00:33:22:58 - 00:33:45:27
+不明
+We've got segment matched. So B2C is on the top, B2B is on the bottom. This is actually taken right from the user interface showing the data source coming in. And then the destinations where data is being activated to the right. So you can see where B2C is, where we started. And then B2B is where we really started to hit the ground running, running all, all cylinders and everything firing.
+
+00:33:45:32 - 00:34:12:27
+不明
+But the capability that's in between these as segment match, we're able to share the data back and forth from an audience perspective, allowing for data that might be a B2C audience. You pass it over to B2B activated through a B2B channel and vice versa. So being able to have that bidirectional capability really unlock the capability of both editions and brought it into tandem at the next turn of the critical will be to bring those two into the same data set.
+
+00:34:12:32 - 00:34:34:24
+不明
+Yes. So there's, a huge efficiency gain that's going to come about with that. Our data engineers are already having to maintain and build for two different sandboxes and two different editions. So having one edition, obviously cutting the work in half and being able to centralize on, one sandbox, it's going to be a great efficiency gain. But we also have to think about the enablement capabilities.
+
+00:34:34:39 - 00:34:55:08
+不明
+So there's another pillar on my team that's the product owner for Adobe Experience platform. He has a tedious job of actually inventorying all of our audiences, refreshing the profile accounts, notating the use cases and the definitions of what they're used for so we can actually enable the organization and really give them it's in a spreadsheet, it's color coded, it's beautiful.
+
+00:34:55:08 - 00:35:17:24
+不明
+It's got tabs, everything's categorized. And he does that for B2C and B2B. In addition to that, we also have our entity relationship or entity relationship diagrams. They're separate. Those will come together and only have to be maintained. In one instance. We have our data mapping spreadsheet, which is a an opportunity that we learned from Adobe. And further is how we organize our information and data in a spreadsheet fashion.
+
+00:35:17:38 - 00:35:41:22
+不明
+Before we start to build out the schemas and input the fields. And then we also have a solution design document that allows for full and the enablement for the teams and full transparency of what fields are coming from, what sources, what values might be available from there, and then additional use case notations. So we can kind of give them some recipes, because we treat audiences really like building blocks.
+
+00:35:41:27 - 00:36:06:42
+不明
+So just because we have hundreds of audiences, we treat those building blocks as if you want to build a car. Here's the building blocks to do so, we could make some recommendations, but if you want to have a flying car, we're not going to stop you. We, we talked about this a little bit before, but, of course, all of the, all of these changes were were not going on in a vacuum.
+
+00:36:06:46 - 00:36:26:28
+不明
+Yeah. So this vision slide actually shows the progression from left to right, where we started with Adobe on Adobe as our data sources. And then we expanded to include some of our data from our data lake. But other parts of the organization, other parts of the business, all of that data was coming into, real time CDP and then being activated to the right.
+
+00:36:26:33 - 00:36:53:49
+不明
+And these are actually ordered as they occurred. So we started with that bread and butter of Adobe Target on top of our CMS. We started to work with, paid media and social and activations. And then we started to go back into Adobe on Adobe with our email marketing platform with Marketo. And then we also have our CRM, our marketing automation platform, giving data back into a PCP.
+
+00:36:53:49 - 00:37:16:33
+不明
+So we have some bidirectional data sources and destination integrations. This is, very cool. It's set of tools. It's interesting how many things are, in your inner stack? Are there's a bunch of things in your stack that are Adobe. There's also a whole bunch that aren't, and, and, that's morphed over the journey too, right?
+
+00:37:16:33 - 00:37:36:58
+不明
+Yeah. And it's really helpful across the B2C and B2B editions, the catalogs for destinations as well as integrations. There's some things that you might have to just have out of the box and native and turnkey, but you also have the opportunity to build things that might not be in the catalog today. So we really saw the opportunity with, I believe it was http, API.
+
+00:37:37:03 - 00:37:59:01
+不明
+Connections and data sourcing that really allowed us to connect with APIs and do some custom development, and stretch the legs of our engineering team, but also our partners. Very cool. The, the set of, data that can be brought in and sent to those different, sources and destinations is, is quite customized in the CDP, so that works pretty well.
+
+00:37:59:06 - 00:38:19:40
+不明
+I forgotten that you moved to Marketo from Eloqua. Yeah. So it was, replacement of a previous marketing automation platform. Yeah. And I believe the next slide actually goes through all the transformation. Yeah, that we're going on in the background that you mentioned earlier. So here, as you can see, in no real particular order, but I think it is left right.
+
+00:38:19:51 - 00:38:48:12
+不明
+And then bottom row, there's lots of years of continued transformation and change at Red hat. So we started off with migrating, our CRM. And then, as you mentioned, Eric, we moved on to, migration and transformation around a marketing automation platform. We also, while this was going on, really change the tires while the car was going down the road, if you will, because we also, had some transformation of migrations around our data lake.
+
+00:38:48:16 - 00:39:14:48
+不明
+We started with our, our own Red hat dogfood, if you will, of the data versus our data lake. And then we transitioned to another out of the box platform. And now we're actually rolling out us snowflake. And we'll be on fully on snowflake. And our data lakes have morphed into a data verse, at Red hat, the last one is really just a call out to the data engineering teams, that we work with and the, the peers on my team.
+
+00:39:14:52 - 00:39:44:26
+不明
+They started with ETL, doing manual querying, doing airflow, DAGs going from 24 hour batch to one and 1 to 4 hour batch, and then the streaming was trying to leapfrog and get faster and faster and better and better when we really started to unlock, the power of the platform was when we also started to do, ELT and using the catalog to get streaming data and real time capabilities, which allowed for the organization to realize we could do a lot more, a lot faster, a lot sooner.
+
+00:39:44:31 - 00:40:09:38
+不明
+Are there keys that you've discovered that we should share with the folks here to make that work, either organizationally or like I'm sure there's a ton of, there's a there are a ton of technical things. I found the the move from, doing ETL, transform in the pipe to doing ELT, like have a simple pipe that just brings things across straight and then do the transform.
+
+00:40:09:43 - 00:40:29:35
+不明
+Has been great. Makes validation easier. All kinds of stuff. So that's a great tip. I'm curious if there are organizational tips that you found for, yeah. I think they mentioned all the different parts of the org and the different teams and collaboration that was necessary. There's a particular teammate of mine, on our team that runs the overall Adobe, as a product manager.
+
+00:40:29:40 - 00:40:51:27
+不明
+He really is our internal success manager. He brings us all together, he organizes. You make sure we're all on the same path. There's actual, that slide that comes to mind where there's all these different strategies across Reddit, but they're all going in the same direction. And if we didn't have this individual kind of, pulling us all together, moving us forward and organizing this, a lot of this wouldn't be possible.
+
+00:40:51:27 - 00:41:11:05
+不明
+And also, allowed us to give some feedback to our leadership to make sure they were understanding what they had given us approval to do, but also the outcomes that we're delivering upon. And he delivers, I think a I annual. So at the half year mark, and then at the end of the year, kind of like a report card of what were the outcomes that we had shown earlier and then how we're progressing towards additional outcomes.
+
+00:41:11:06 - 00:41:39:02
+不明
+We want to reach for. Very cool. It let's hop into, some key takeaways. And I think we, have a we've got some key takeaways. And then I'll talk quickly through that slide that I mentioned. That's a great one to shoot a picture of. So yeah, it seems like having all of the, all of the key players brought in, and aligned behind what the goals are, is, is great having goals.
+
+00:41:39:07 - 00:42:01:50
+不明
+Also turns out to be incredibly helpful, knowing what your use cases are and what they're what they aren't, is, is critical. And, treating the journey as a journey, something that's going to be, you're going to start off with some use cases, you're going to build those out, and then continue to learn and expand over time.
+
+00:42:01:55 - 00:42:24:05
+不明
+Of course, data compliance and data privacy are critical. And it's it's very important to know, what is, what the requirements are for your specific organization, who the people are, who needs to say yes. That's another one of those things like, finding the password. That can take a surprisingly long time.
+
+00:42:24:14 - 00:42:51:04
+不明
+So, so those are some of the key things that we've seen as we've looked across, all of the customers that, we've had deploying the real time CDP for Adobe, which is somewhere in the mid hundreds. Now, there's quite, quite a few. So on that Larry journey. Yeah. Last takeaway, we found that once again internally in the org leading with our legal and privacy and compliance teams is key.
+
+00:42:51:09 - 00:43:18:31
+不明
+We actually have a scheduled meeting that happens every two weeks. Oftentimes, I'm always asking or the teams always asking for things that are new, but might not yet be fully discovered or we might not have approval yet. So oftentimes we get a lot of no's, but we'll always go back and continue knocking on the door. But we've found that to be very essential, in addition to the internal collaboration across the teams that are actually making use of the Adobe stack, that that is wonderful.
+
+00:43:18:36 - 00:43:44:34
+不明
+So this, this final slide here, let me talk a little bit about setting up the real time CDP. The real time CDP has a it's got a distinct perspective around how data is shaped. And so it, it, believes I it it has a semantic understanding of what, the data objects are, what the fields in those data objects are and so forth.
+
+00:43:44:34 - 00:44:07:16
+不明
+And it uses that to make operational management going forward much simpler than it is, in something that is, more fungible. And so the, the real time CDP can take more time to set up. You need to think through use cases and make sure that you understand your data pretty well, so that you can get all of the things set up at the outset.
+
+00:44:07:21 - 00:44:26:33
+不明
+But after that, you shouldn't need to do a lot of work to keep it humming. Of course, if you stand up a new tool, you'll need to capture the data for that tool, build a new connection, figure out how it maps into the schemas that you've created, and so forth. So, in order to help the, with that set up, there can be a bunch of button clicking.
+
+00:44:26:43 - 00:44:49:22
+不明
+We've created a script and the URL is at the bottom of this slide. It, it is tucked under the, the Marketo hive in our help, taxonomy. But it doesn't work only for Marketo. It really works for any B2B, system. Most, most all B2B systems that we found have very kind of similar structures.
+
+00:44:49:22 - 00:45:12:40
+不明
+There's accounts, there's people, there's opportunities. There's, you know, they may have different fields. They all have different names for the attributes in those fields. But the, the overall structure is quite similar. So that is a that's a great help. Those, carpal tunnel syndrome, at least. So, we we definitely encourage you to, to use that.
+
+00:45:12:45 - 00:45:48:11
+不明
+There is a and this is way down in the weeds. There's, a specific way to, identify, objects and, rows of data in B2B sources that allows us to connect up multiple CRMs or multiple marketing automation platforms, to the CDP. So if you've got, one, large international partnership, that I've spoken with, I think the number was something like they had their 21, Salesforce instances hooked up to 21 Mark Meadows.
+
+00:45:48:16 - 00:46:12:25
+不明
+They also had a half a dozen, elec was hooked up to dynamics, and I'll try out other things. And so we can support bringing all of that structure into the into the CDP and rolling that data together. And, so there's this the source key helps us do that. The other thing that the CDP does, is it, allows people to work at multiple accounts.
+
+00:46:12:30 - 00:46:35:06
+不明
+And so it actually has to do this because we aggregate customer records together. So if you've got two contacts in Salesforce, that are both me, and I work for two different accounts, the system, will realize that there's only one person in the world will unify those two things together. But it has to preserve both account links, or we've gotten rid of some super valuable information.
+
+00:46:35:06 - 00:46:58:42
+不明
+And so it does, and it does this through an object array called the person components array. So that's what the account to person, related. That's where the account to person relationship needs to be configured. And we see maybe in 10% of our, so 10% of our customers, maybe it's a little bit less than that.
+
+00:46:58:42 - 00:47:22:46
+不明
+But, we a surprising number of people that have that configured, not using that, that path. So, another good reason to use that, that script. So I won't, I won't, read through the rest of these very geeky things. I saw many of you took a picture. That's great. Of course, the deck and and all of this will be available online as well.
+
+00:47:22:51 - 00:47:45:20
+不明
+So I think at this point, we've got a, survey for the session that you can, that you could fill out. But we would love to spend some time answering questions for anybody in the audience that may have one. But we also realize that we're between, we're standing between you and beer. So that, dangerous place to be maybe.
+
+00:47:45:25 - 00:48:02:51
+不明
+Well, thank you very much for coming and joining us today. I really appreciate you sticking around. And, will be available after if you want to come up. But I hope you have, everybody that's not from Vegas has a safe trip home. And, I hope that conference has been useful for you. It's been wonderful for us.
+
+00:48:02:56 - 00:48:07:37
+不明
+So thank you. Thank you.
+
+00:48:07:42 - 00:48:08:14
+不明
+For.
+

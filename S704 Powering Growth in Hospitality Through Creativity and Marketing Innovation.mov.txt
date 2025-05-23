@@ -1,0 +1,376 @@
+00:00:01:40 - 00:00:23:37
+不明
+Hello, guys. Thank you. Thank you for coming for this session. I know it's been a long, tiring day, but seeing all of you here, it's great motivating for both of us here. We're going to have a session that talks about a little bit about how Adobe is going to AI is been powering the hospitality at MGM.
+
+00:00:23:42 - 00:00:38:51
+不明
+I don't want to steal her thunder. She is going to she's going to talk about the session and what you're going to learn. But I'm sure you will learn something by the end of it. I'm pretty sure you don't have it right. There is an there is a Q and A plan towards the end, and if there is time, we will take those questions.
+
+00:00:38:56 - 00:00:58:04
+不明
+And by way of introduction, my name is Sajid Malan. I am the global client partner for cognizant. And, Vegas happens to be one of the regions that I manage and practically every other week in Vegas. So I'm, I'm called a local here. And that's one of the reasons why I'm on the stage here. And I have my colleague with me, Gianna.
+
+00:00:58:04 - 00:01:21:02
+不明
+She manages the enterprise messaging platform for MGM. And, let me invite her on the stage. She will give us a view of what this session is all about. And then we'll go from there. Okay. Thank you. Thank you. Hi, everybody. My name is Deanna Zelaya. And I currently serve as the executive director of marketing Tech Products, at MGM.
+
+00:01:21:07 - 00:01:51:09
+不明
+So that's a mouthful. But specifically, I have executive, basically direction over our offers management system, our messaging framework, which, is our various different platforms, SMS, push notification emails as well as real time communication. So basically in a in a position to kind of lead the efforts around our tech, what that infrastructure looks like and what the future of MGM looks like around our personalization and our messaging.
+
+00:01:51:14 - 00:02:09:49
+不明
+So I think the main thing, I guess, that I want to get out of this session, I think it's it feels a little bit redundant. I feel like you guys have heard this message before. The data is going to be right. Then we can get to the messaging framework. But I think part of the challenge is always that we have foundational legacy tech, right?
+
+00:02:09:54 - 00:02:32:55
+不明
+And then we have the tech that we haven't maximize its capacity. And then we have tech that we want to go on to the future. So I think while we're planning sort of this foundational data and foundational tech, I want to kind of look into what we can do today while we do these in tandem and still drive, you know, new revenue streams, new creative ideas and new spaces to harmonize with our customers.
+
+00:02:33:00 - 00:02:53:12
+不明
+So wonderful. Thanks, Gina. While some of us might not know what MGM resorts stands for, I'm going to have her give us a view of what it is. So when you want to talk about MGM. Yeah, fantastic. So, I guess welcome to the show or welcome to the MGM experience as we like to as we like to say.
+
+00:02:53:16 - 00:03:17:39
+不明
+Let's talk a little bit about the stats here. What you guys are seeing here. 20 entertainment venues, 350 food and beverage club experiences, 37,000 hotel rooms, 1,000,000 square foot of casino floor, 4,000,000 square foot a convention center across, you know, Marriott plus properties. And I and I think what I really want you guys to gauge from just this slide alone is, you know, MGM really isn't any more about hotels and casinos.
+
+00:03:17:43 - 00:03:39:34
+不明
+It's really about, creating an ecosystem of entertainment that kind of dazzles all these different, personalities, these different, age groups. And, everybody's coming here for a different flavor, whether it's entertainment, whether it's, you know, I have I have a new restaurant. We're position at the center of core sports and entertainment growth. Right. So T-Mobile arena, 750,000 hockey tickets.
+
+00:03:39:39 - 00:04:16:33
+不明
+We have some of the greatest performers, that have come here. We have our Allegiant Stadium, home to our Raiders. 68% of the attendees are from out of town, and 90% of them say it's a trip driver. 8 million tickets sold for our Adobe live theater. 24 headliners. And so I think, you know, the main thing that I want you guys to gather from this is I really feel like MGM is redefining and reshaping what it means to come to Las Vegas, I think before, and, you know, even as, as the last ten years ago, people would just come for the casino floor, the gaming experience, maybe, you know, had a casual
+
+00:04:16:33 - 00:04:42:40
+不明
+buffet, maybe a good magic show. But today, you know, we have the luxury of experiencing a myriad of different entertainment, you know, from, you know, something like going to the Mayfair. Right. And having this what I think is like the quintessence of a Las Vegas show. Fine dining with the fountains in the background. You know, going to one of your favorite Iron Chef, you know, my memorial and having some of the best sushi you've ever had in your life.
+
+00:04:42:45 - 00:05:02:10
+不明
+Going to the Nomad library, for instance, if you guys ever get a chance to go there, we actually have the Rockefeller Library there. And when you enter it and you open it, it literally looks like a scene from Beyond the Beast. So imagine it's your anniversary for your girlfriend. And you, you pull the curtains back and she gets to see this elaborate library and experience is fine dining space, right?
+
+00:05:02:13 - 00:05:22:48
+不明
+Something that I'm sure when I came here I had never heard of before. With, you know, formula one, you can watch some of the fastest cars in the world. Now zoom through the Las Vegas Strip. And I, you know, I got the chance to see it, and I was really floored. If you guys ever seen or played Grand Theft Auto or are you familiar with that with your kids?
+
+00:05:22:53 - 00:05:48:09
+不明
+It looks like a spaceship. Grand theft auto. I mean, it's really it's really incredible. So I think, like I mentioned, I feel like Vegas is is being reshaped. There really is a true driver. And, if everyone was a fan, I am definitely a fan. Now, I think of MGM, so and if you guys haven't seen any of the at the MGM properties, you should add on this trip, try and make it a point to stay there.
+
+00:05:48:09 - 00:06:07:32
+不明
+If not next trip. It is right. But I got to ask you, those F1 cars ripping through, did you really see them or you just want the sound you I think I mean so I got some tickets to, to actually go to the event. So lucky I didn't get stuck in this one. Events come on and they do their best to kind of block it, but you can see it from various parts of the strip.
+
+00:06:07:37 - 00:06:23:58
+不明
+And I think just the excitement of being there, you know, meeting the different NASCAR, I think I would have never had the opportunity to do that before. Oh, it's here in Las Vegas in a back door. Right. I think that that alone, you know, is amazing. So, just so that, you know, that cognizant is also a sponsor for Aston Martin.
+
+00:06:24:03 - 00:06:48:50
+不明
+Oh, so we own the title sponsors for Aston Martin. So our cars also run through those. Yep. So anyways, but Gianna taking a side look at what MGM has done over the last few years, I know you have been associated with MGM for for the last few years and, it has evolved all the entertainment. Digital transformation has evolved drastically, especially with AI coming into picture.
+
+00:06:48:50 - 00:07:08:31
+不明
+This is this area is completely blown out. What's been your experience? What is what have you seen change in MGM? What is your roadmap? What do you think? What's happening here? Okay. Let's go. So, so okay, so why am I sharing all of this? So I kind of want to talk about what what really led to wanting this bigger digital transformation.
+
+00:07:08:31 - 00:07:29:29
+不明
+Right. We have so much to offer. It's overwhelming. And frankly, I think most people don't even know about what we have to offer. Right. I could probably think of, you know, a myriad of things that aside from the stuff that I just mentioned, you know, like wellness experiences, I mean, there's literally yoga with dolphins that we offered in the past, things that probably would probably.
+
+00:07:29:34 - 00:07:54:34
+不明
+You just say yoga with dolphins. Yes. Oh my God. Okay. So so I think what's happened is, we want to understand how our technology, can evolve to really understand the customer DNA. Right. How do we help them discover, new experiences while still giving them a taste of their favorite? So, I mean, you still, you know, you might still want to watch a magic show, but you might want to go to a Michael Jackson show, or you might want to go see Bruno Mars.
+
+00:07:54:34 - 00:08:13:58
+不明
+Right. So I think, this is kind of where our technology and the need for a digital transformation is coming from. Plus, there's a new segment of a population, you know, a 25 to 35 segment of the population that is really interested in this growing segment of food. You know, we grew up being foodies. They want to be wildly entertaining, short attention span.
+
+00:08:13:58 - 00:08:37:17
+不明
+We know that. And so how do we cater to them, what some of the legacy technology and some of the current technology that we have. Right. So digital roadmap now the bigger digital roadmap is top secret. So I can't share that. But I'm just giving you kind of and, and and like I said, I'm sure you guys heard this before, but I really want to talk about, you know, the experience that we have today where AI, technology is today.
+
+00:08:37:17 - 00:08:57:12
+不明
+And I think we're a lot of companies technologies are today and where we want to be. Right. So this idea of multichannel, you know, the simplified journey orchestration kind of want to walk you guys through what that looks like. You know, like a kind of like a disparate sort of system where the messaging framework isn't necessarily cohesive or harmonized and then versus what it would look like through an Omni channel experience.
+
+00:08:57:12 - 00:09:25:10
+不明
+So, I have my colleague here, John, you know, John receives a birthday offer via email for free night stay at MGM property in Las Vegas. He later opens up the app but doesn't see the same birthday offer. And he might see, you know, an advertisement for a previous restaurant that he went to. He browses MGM's website, but only sees standard roommates who missed opportunity to give him a birthday deal with potentially a package for his restaurant that he really likes, or his favorite steakhouse.
+
+00:09:25:15 - 00:09:47:33
+不明
+When he arrives at the property, he isn't necessarily reminded of his birthday offer. Maybe the data catches up later that day. No personalized sentence, for he receives an SMS follow up about his birthday, not really understanding that he just got off the casino floor. And you know he's having a great time gaming, right? So it's like, you know, we're receiving the data in different ways here a different times.
+
+00:09:47:43 - 00:10:12:54
+不明
+Some is real time, some is near time, some has latencies. And and not having these different channels created an omnichannel experience is is just a disparate journey for the customer. Right. We're not really giving them what they want when they want in real time. So let's talk about a little bit of where we want to be. So we want a customer to move seamlessly between channels with their data, their engagement history occurring across all these different multiple touchpoints.
+
+00:10:12:54 - 00:10:33:56
+不明
+So let's let's look at what I guess this, this same situation would look like if we had created an omnichannel experience. Right? John receives a birthday offer for a three night stay and $100 play credit. Fantastic. He gets is a mobile money is mobile app, and when he opens his app, the birthday offer is automatically displayed in his promotion tab.
+
+00:10:34:01 - 00:10:49:59
+不明
+He goes on the website and when he logs in the website, sees a personalized banner reminding him of his birthday, along with a package to go see his favorite artist gets an SMS reminder. Whether he's booked or not, he gets a different message, right? If he hasn't booked, he receives an SMS. Hey John, come celebrate your birthday with us.
+
+00:10:50:04 - 00:11:08:49
+不明
+You know, here's $100 of free play credit or, you know, a reminder to book with us, right? So the idea here is like you're seeing all these channels and now we have a cohesive story to tell. We are telling him the same thing in real time as it happens. And the final portion of this I think, is the AI predictive element.
+
+00:11:08:54 - 00:11:29:17
+不明
+And so I think, you know, we have elements of AI already and all of our tech. But the idea here is that we want to anticipate the customer need. So if we know that John, you know, loves to eat steak, especially food, have food after you've been on the casino floor for a few hours, maybe we offer him a reservation, right, to the latest steakhouse, right on the casino floor.
+
+00:11:29:22 - 00:11:51:30
+不明
+But we can't do that. If we have a multichannel experience. That's not seamless. It's not cohesive, and it's not omnichannel. So I think we're all headed towards obviously the same direction. We want hyper personalization. We want intelligent adaptive models, that create that seamless, connected experience in real time for our customers as they're on the casino floor or coming to Vegas or maybe Vegas.
+
+00:11:51:30 - 00:12:10:48
+不明
+Right, right. That's that's a lot of journey that you guys have actually gone through. I recommend looking at some of the things that you guys have achieved. I'm sure people in the room who might be on the journey might be, I'm sure, learn from that. Let me go to the next most important question that we have all assembled here to hear is talk about Salesforce.
+
+00:12:10:53 - 00:12:30:45
+不明
+I'm sorry, I'm sorry, I won't. I'm at the Adobe Summit, right. So okay. Fair enough. So talk about Adobe. I know they have been your partner for the last six years or so. How has been that journey? Okay, so this is a pretty simple, I guess slide. And I want to talk a little bit about how we leverage Adobe today.
+
+00:12:30:50 - 00:12:52:33
+不明
+So MDM MDM utilizes various sources of data. Right. And this data gets input into from from for different systems obviously. So we have hotel gaming data. We have, you know, tier loyalty restaurant, various different data sources. These systems deliver the data to it through Adobe campaign through rather, you know, complex kind of workflows that we use.
+
+00:12:52:33 - 00:13:12:43
+不明
+But we leverage the product to create these workflows. And these are used to process and load the data into our Adobe schema. Guest these guest identifiers like MiFID or critical to kind of stitch everything together. And so the idea here is these create export logs that go into, you know, export labs that have subscription delivery tracking logs.
+
+00:13:12:43 - 00:13:47:46
+不明
+They get sent to our dashboards and get sent to Teradata. So to keep everything up to date, these are essentially automated jobs, that happen hour by hour or day to day. And they keep the data, you know, flowing between these external systems and our campaign instance. Right. And, and to talk a little bit about how we actually use some of these, you know, pieces of our, our stack, we have Adobe audience manager here, target analytics, you know, triggers, I want to give you kind of like a simple, sort of idea of how we're using it.
+
+00:13:47:51 - 00:14:10:23
+不明
+Like, for instance, like browsing behavior, right? Adobe Analytics and Target can collect the behavior of signals on the web, the, the campaign, then ingest these behavioral signals, and then these profile signals can get sent to something like Adobe Audience Manager where we create the audience segmentation, build up, build the segment, and then that gets activated and sent out as a messaging campaign.
+
+00:14:10:28 - 00:14:27:41
+不明
+We can also leverage target in that same instance. So, that messaging campaign can either be, you know, email triggered, scheduled, pushed, you know, we don't have geolocation yet, but SMS and and so these are the kind of channels that we're working with right now. A short answer is it would be a good platform to use or not for campaign messaging.
+
+00:14:27:41 - 00:14:56:46
+不明
+It has proved to be, what we've needed at this time. So yeah, I would say, yeah, okay. Wonderful. Now, while you have, spoken a lot about the journey, the digital transformation journey, how we have leveraged Adobe. None of these platforms would have been easy to implement in an environment like MGM. Right. And a large organization with multi multiple disciplines, different stakeholders involved.
+
+00:14:56:51 - 00:15:22:41
+不明
+If I were to ask you what were your top three challenges? Right. Let's go one by one, talk about your top challenge that you might have faced. How did you how did you mitigate that? How did you know forecast the problem. How do you fix it? Sure. Creating seamless, personalized, personalized guest experience across channels. So delivering a consistent, personalized experience across all guest touchpoints.
+
+00:15:22:46 - 00:15:45:25
+不明
+Now I think at face value, I mean, this is a rather complex concept. And you know, once again, I think without the data really being, you know, the identity resolution piece being in place, our data being cohesive, you know, from all these data sources, whether that means, you know, put it in one data mart or, you know, we have data bricks, you have us here, we have all these different elements.
+
+00:15:45:25 - 00:16:16:28
+不明
+And I think that navigating that foundational using our data, that's going to take time, right? It's going to take time. And so I wanted to take a look at, what we were doing. Our messaging framework, what was the low hanging fruit that was creating a lot of friction? So I want to talk a little bit about just a small example of something that created, a ton of value has decreased with redundancy, has opened up the space for, what my support team would do before, which was 100% support and now it's decreased.
+
+00:16:16:33 - 00:16:43:28
+不明
+We've leverage about 20% of our time to support an 80% to creating new revenue streams, doing new a B testing, trying new initiatives. So what we did was the idea of the scalable, intelligent, sophisticated template, right. Modular template. And I'm sure you guys seen this concept before. But the idea here was, you know, I really wanted to take, like I mentioned, low hanging fruit and figure out, you know, how we can kind of democratize this system.
+
+00:16:43:28 - 00:17:09:12
+不明
+So the, the modular templates that we have implemented are scalable, reusable. We have a content fragment library that marketers can pull from. And these different fragments have dynamic branding and content pods. So I just want to give an example of. A template that we've built just to give you an idea of, you know, it's it's it's something that you wouldn't think would cause, you know, such a great impact.
+
+00:17:09:12 - 00:17:27:41
+不明
+But it did. Right, because we had a ton of people investing time and creating single deliveries and trying to create the cohesion across all these different properties, as we integrated the cosmopolitan but create another source of friction. So this, this idea here, with this, with this, template is, you know, has a collapsible menu so our customers can take a look at different options.
+
+00:17:27:50 - 00:17:47:15
+不明
+We have a content fragment library that's draggable and droppable, and that helps unlock some of that market or flexibility, whether it's, you know, with promo code, different, you know, different tier incentives. At the on the left hand side, we have dynamic content conditions. So this is more the personalized portion here. What a customer progress bar.
+
+00:17:47:20 - 00:18:04:04
+不明
+And this is fed to the customer via their tier credit. So what's available to them. So is this kind of like first step to getting personalized with the customer without doing a huge lift? We took this same stack that we have today, and I took a look at, hey, like, where is the most friction being caused? And let's kind of eliminate that, right?
+
+00:18:04:04 - 00:18:25:55
+不明
+So we've used this same concept over and over where we've optimized using Adobe different workflows, you know, things like subscription, things like, you know, even when, when, when we're enabling the customer to choose their preferences. So we've continued to optimize, and like I said, I now I have a, you know, a team that was 100% support.
+
+00:18:25:55 - 00:18:53:38
+不明
+It's now about 20% support and 80% just dedicated to, you know, revenue generating ideas. So, thank you again. I know, in an MGM like environment where MGM is involved and I just when I say entertainment, it's not just shows. It's about, dinner reservations, bird reservations about hotel bookings. Right? It is about games, F1, everything. Packaging is all together would have been a big challenge.
+
+00:18:53:38 - 00:19:14:16
+不明
+So again, I can see that you guys have already solved the challenge. So moving on. If you say, what would be your other next challenge that you might have faced down the journey gaining real time guests insights? So so once again, I mean, I, I don't think these are the biggest challenges. I think this is from the lens and framework of we have these big challenges.
+
+00:19:14:16 - 00:19:31:48
+不明
+We're working through them in tandem on the back, you know, on the back end here. But what can we do today? I mean, business has to run as usual. We still have to create revenue. We still have to create an impact. But the tools that we have, so gaining real time guest insights. So we know that we need a unified, real time view of guest behavior.
+
+00:19:31:48 - 00:19:50:28
+不明
+Right? It's challenging. It's challenging to tailor these marketing efforts when our data is just not there. So what can we do today? To to create some, you know, to unlock some of that flexibility for marketers where they can get that data in real time, and we don't necessarily have to wait for all this harmonization. And, you know, all of our data pools.
+
+00:19:50:33 - 00:20:15:58
+不明
+So let's take a look at what that looks like. So what we did is we took a look at what what we can do out of the box with our Adobe instance here. And we did an integrated architecture here with Adobe Analytics and Campaign. Right. The integrated architecture gives us a new data access flow. It allows for real time capture based on, you know, behavioral cues potentially like on the, on the web.
+
+00:20:16:03 - 00:20:35:11
+不明
+And it gives us an opportunity to create an automated, automated personal outreach to our customers. So let's take a look at what that architecture, so what the flow actually looks like. This is a very simple flow. We have, you know, MDM customer signs into the web. The customer browses something like a Las Vegas property and abandons their session.
+
+00:20:35:11 - 00:20:56:49
+不明
+They don't necessarily add to the vending card. They don't necessarily book. And we give them a message. Now, although this is a rather, you know, simple sort of flow and it could be attributed to abandoned car or, you know, anything that really has, behavioral insight on the web for our customers. The real value here is, is kind of we took the same architecture and reintegrate it in a different way.
+
+00:20:56:54 - 00:21:22:39
+不明
+So let's take a look at what that architecture looks like. And it's rather simple right. So we have we already had all of these components. We have tag management tool. That's Adobe Launch which is our secret sauce. They capture the vars that are then sent to through our analytics tool, the eyeballs. Then if our data then gets shared to our triggers, which sends it our data based on various rules that we create to, our marketing campaign instance.
+
+00:21:22:44 - 00:21:49:01
+不明
+So if you send in our data based on various rules, I mean, we can create latencies, you know, in the journey, but in reality, it's a real time framework where as as we're capturing the eyeballs ask, we're capturing the data, we're having the that actually available for our marketers to action on. So while we have, you know, this bigger pot of data coming to us from CDP, maybe these are latencies, maybe these are, you know, more, actionable.
+
+00:21:49:08 - 00:22:13:08
+不明
+But a lot of them, you know, they have issues, right? So we created a new way for our marketers to be able to action on real time data as it's happening, as our customers are browsing the web. And I mean, just opening up this small pod gives us a, you know, a way to, you know, create new revenue streams and create new ways to personalize the customer journey for, our guests.
+
+00:22:13:08 - 00:22:31:03
+不明
+So now I get it. So this is the reason why I get those marketing emails when my wife leaves the shopping cart and booked, right? I mean, this is this is what is done. Okay. Now I get the I get now it. Okay. So, moving on to the next, challenge and I and just to clarify, everybody is sake here.
+
+00:22:31:17 - 00:22:50:47
+不明
+She correctly said this is not the top three challenges. This are just the challenges that she is going to. Yeah. Is going through this point in time. Right. Because we have a bigger top secret digital, you know, roadmap that obviously we that everybody has. Right. But I think just trying to figure out how we can get creative with our current stack, because we've already invested, you know, some of these contracts are three years.
+
+00:22:50:47 - 00:23:10:42
+不明
+We got to do something with them. Right. So right now is number three optimizing marketing investments. So I think I think about this in 333 things here three three major components really. And that is we have the data and we have our messaging framework. And then we have measurement. Right. And if we don't have the data right then the omnichannel orchestration doesn't work.
+
+00:23:10:55 - 00:23:28:16
+不明
+Then our measure our measurement is incorrect. So we try to look outside of the box and figure out, you know, where we can, fix some of the elements that we need for them from the measurement perspective without necessarily tapping into this data foundation that we're working through. Right. And so we saw a great solution in Adobe.
+
+00:23:28:21 - 00:23:47:00
+不明
+You know, we we needed to figure out, a way to spend this media dollar efficiently. And I think Adobe gave us a correct answer because it's a holistic measurement. It's data driven budgeting, and it's removing a lot of the data silos that we see today. So I want to kind of give you an example really quick.
+
+00:23:47:00 - 00:24:06:11
+不明
+Just on on what that really means. So for example, if we have like a high value player, and typically they like to book their rooms, potentially like a house. Right. And you know, we're adamant that this high value player, needs to get messaging because we know that, you know, it's a revenue generating stream for us.
+
+00:24:06:16 - 00:24:27:28
+不明
+So we're feeding them Facebook ads. You know, we're feeding Google ads. But then Adobe comes in and tells us, hey, you guys want to keep spending money on Facebook ads, but we're noticing there's little to no value or movement on any action item that he wants to, you know, wants to do in Las Vegas or MGM specifically. So what that gives us insight to understand.
+
+00:24:27:28 - 00:24:44:44
+不明
+Like we're we're wasting our our money erroneously here. Right. We can be, you know, get given this money where it really counts. And it's not counting here. So that's the idea of Adobe. And we don't really need all the data integrated. All right. They need a resolution figured out to take care of this portion of the business.
+
+00:24:44:49 - 00:25:02:36
+不明
+So these are just three challenges that we you know we took a look at as we're creating the bigger roadmap. But I think it's it's you know they're impactful. They're resource from the creative. And it didn't really at least the first two didn't cost us any extra more money. And I think Adobe Minimum was a great component to add that.
+
+00:25:02:36 - 00:25:22:48
+不明
+So okay. Thank you for all the insights and guys, we are in Vegas, right? So we would be missing something if we don't play something here. So the next, next few minutes are going to be we're going to play, myth versus reality. And we would like you guys to participate in this. The question will come up on the screen.
+
+00:25:22:48 - 00:25:40:50
+不明
+You guys can shout out what you feel, whether it's a myth or reality. And then our expert on the stage will field say what her opinion is. Obviously your opinion don't matter much, but but but still say please say that. Please shout out what do you feel? We go to this one. The AI can replace human driven marketing in hospitality.
+
+00:25:40:55 - 00:26:10:33
+不明
+What do you guys think? Come on guys, it's reality, right? Jenna? Absolutely not. Myth. Yeah. So I can replace human driven market, I think I can it, but it could never replace, I believe, you know, with AI driven insights, we can we can create a multilayered connectivity with the customer. I mean, something as simple as, you know, knowing that it's, you know, your parents, you know, 40th anniversary, for instance.
+
+00:26:10:48 - 00:26:33:09
+不明
+And they want a special touch. You know, I can inform our host to give them potentially a champagne or an upgraded room or, you know, nothing can really replace that, that connectivity layer. But I think that that they could enhance it. So. Okay. Wonderful. We'll go to the next one. Anybody. What do you guys think.
+
+00:26:33:14 - 00:26:57:07
+不明
+Come on. You know nobody's going for the reality do you think Jenna. Absolutely myth okay. Fair enough. Yeah I mean I, I always I think about how some people are here, like on a, like, let's say like on a bachelor's party and then somebody are here, you know, on a roll getting married. Right. Like you don't you wouldn't want to give, you know, hey, like, enjoy your last night of freedom to somebody that's getting married in Las Vegas tonight, right?
+
+00:26:57:12 - 00:27:19:03
+不明
+We need catered, personalized, messaging because we do have such a variety of different people celebrating, you know, all kinds of things. I think I invite, in fact, people come here for multiple reasons, which they never want their family to know when they come with the family. Right. Exactly. Enough. Point taken. Okay. The next one here, most guests don't engage with hotel emails or marketing messages.
+
+00:27:19:03 - 00:27:24:14
+不明
+I don't know, for you guys feed. What do you guys think?
+
+00:27:24:19 - 00:27:50:08
+不明
+Of reality. Okay, we have few. Reality is that I have a few myths here. What else? What do we have? Okay, I will take Gianna's opinion. I mean, I think, I think there's a so my take on this is there's always a need for a personalized message. And I'll give you an example of like, you know, something something that we kind of launched as an AB test when I first started here.
+
+00:27:50:13 - 00:28:12:14
+不明
+Something as simple as, so we, we did a B test with our gaming and non-gaming customers, and we did something as simple as a scratch off for our emails. Right. And you wouldn't think that. I mean, I love scratch offs. I always ask for them for my birthday, but, you wouldn't think that something as simple as, you know, doing a digital scratch off that kind of reveals, you know, you know, maybe an offer or, you know, some type of discount would actually get, you know, engagement.
+
+00:28:12:14 - 00:28:36:46
+不明
+But in fact, what we saw is that our gaming core customers, you know, engaged with this three times more than our non-gaming. And then when we also saw is that our non-gaming engaged with this email two times more than, you know, the average, you know, email that wouldn't have the scratch off. So, yeah, kind of interesting, I think I think, maybe not as often as we think, but I think if the if the message is right to the right person, then we do see them engaged with our emails.
+
+00:28:36:52 - 00:28:51:34
+不明
+So do you think it's a myth? 5050 reality. That's what do you think? Okay. Fair enough. Go to the next one. Email marketing is dead in hospitality. I agree. What do you guys think?
+
+00:28:51:39 - 00:29:13:37
+不明
+Judy is going to kill me for saying that, but okay. Oh, there you go. Yeah. That's me myth. Yeah. I think, email will continue to evolve but will never be dead in hospitality. You know, I mean, still our our most lucrative, probably revenue generating channel. We send, you know, 250 million, emails, probably to 50 million and a quarter.
+
+00:29:13:40 - 00:29:30:32
+不明
+Yeah. So I think, you know, it's something that will continue to evolve. But dead I. Yeah, I don't see that happening. Okay. Where the next one. Hospitality brands don't need real time data to optimize campaign.
+
+00:29:30:37 - 00:29:51:57
+不明
+Okay. Fair enough. Yes I think absolutely myth and I I'll give you guys also a real life example. So we have the Dolby Theater. And we get a lot of foot traffic. You know, when we have shows, people come in and out of Park MGM, but don't necessarily stay at Park. And, I think Park MGM is one of those hotels where maybe, maybe people don't understand the brand concept.
+
+00:29:51:59 - 00:30:17:13
+不明
+It's actually one of my favorite hotels, from the MGM, portfolio. So what what what we've seen is that, you know, the concept that if we were able to target these people as they leave, like a Bruno Mars show, for instance, there's actually an on the record speakeasy right across that most people would just walk right by and and actually, you can you can have an intimate setting with Bruno Mars and party with him after this concert.
+
+00:30:17:16 - 00:30:34:19
+不明
+I think the idea is most people don't really know right. And if we were able to target them, maybe by geolocation or, you know, understand that they're leaving the Dolby Theater, then we can cater that experience to them and it's definitely heightened. Elevate you know this show that they just had. Right. So definitely real time to optimize campaigns is essential okay.
+
+00:30:34:21 - 00:30:55:21
+不明
+Thank you. Go to the last question. And guys please hold your breath. This is the most important question. Hold your breath on this one I didn't write that guys right. No. Yeah of course. Cognizant has been a great partner to our crazy, sometimes creative ideas. And, and I think we throw a lot at them and they have been, extremely flexible there.
+
+00:30:55:21 - 00:31:14:52
+不明
+So thank you. And we thank you, Gian. And we seem to be spending a lot of money on Adobe. That's why we are on the stage and other places, too. So thank you, cognizant, for spending the money. And again, thank you that this thanks goes to the team on the ground. I happen to be the guy who takes the credit for everything on the stage, but that the team on the ground is working with you.
+
+00:31:14:52 - 00:31:34:31
+不明
+So thank you. Just one. Okay. We are almost at the end of the session. We didn't plan this to be a one hour full session. We planned it to be 1140, 45 minutes. You know, at the end of it. Any final thoughts? Anything that these guys in the room should take away? I know this this deck might go to other people too.
+
+00:31:34:31 - 00:32:03:25
+不明
+So what should be their takeaways from this session? Oh, takeaways. I forgot about this. Okay, so this is pretty generic. But you know, everybody's been beating the dead horse with this one. Start with the data. We know that personalization wins. That makes sense to me. Omnichannel is non-negotiable. Yeah. I think to ensure a seamless integration, consistent connect experience that makes sense.
+
+00:32:03:30 - 00:32:38:06
+不明
+You know what? I think from my perspective, the biggest takeaways for probably this session is that, yeah, I think agility is essential. So we have a marketing landscape and tech landscape that's evolving. You want to, you know, embrace the tech that we have today, but also, I think build your architecture in a way that's flexible. The way that I'm thinking about it is, you know, right now, you know, we want to have that connective tissue in between that is sort of plug and play, where, you know, we we understand that, you know, Adobe is, is meeting the need, but we got to be critical and brutally honest about our, our priorities
+
+00:32:38:06 - 00:32:57:54
+不明
+and also what our business requirements are for today and for the future. So I think a lot of what I spend time doing is thinking about, like, where do we want to take these experiences? And are these products and tools meeting the requirements of not just, you know, somebody on, you know, the marketing team, somebody on the engineering team, is there flexibility between the integrations?
+
+00:32:57:54 - 00:33:16:46
+不明
+Are we thinking about the components of, you know, somebody like a host or a sales person on the floor and how that would cater to their experience with the tech that we're using. So, you know, agility to me is essential to build something flexible, to be flexible about the tech, about the tech as it's evolving. So I feel like that's that's pretty that's a good takeaway.
+
+00:33:16:51 - 00:33:37:45
+不明
+And then partnerships drive success. Yeah. Collaboration is key I think there's always this like thought process like you know engineering knows best product knows best strategy knows best. And frankly, we need that cohesion, to understand where we want the tech to take us in the next five, you know, ten years. Right? We're never going to get it right.
+
+00:33:37:49 - 00:33:55:45
+不明
+But I feel like as long as we became we stay flexible with how we build the systems that drive the data, then we can always bring in new products or, you know, think about how to elevate the current products that we have. The tools, the foundation, though, has to be has to be. Right. And I think the foundation is always a data.
+
+00:33:55:49 - 00:34:22:43
+不明
+So okay. Takeaways from this. Wonderful. Thank you, Jenna, for all your insights on this one. The last section is Q&A. So shoot your questions, guys, if you have any. We have the expert on the stage. Awesome. Well, thank you guys so much for coming. I appreciate it. Thank you. Thank you, thank you. You.
+

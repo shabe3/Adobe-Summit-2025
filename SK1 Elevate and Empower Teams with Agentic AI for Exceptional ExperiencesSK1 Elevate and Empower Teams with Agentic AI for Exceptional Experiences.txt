@@ -1,0 +1,624 @@
+00:00:03:14 - 00:00:25:17
+不明
+Hello, everybody. I see some people still coming in. I think their seats on the sides grab. Yeah. Please come on in and make yourselves comfortable. How was the keynote? It was good. Good, good. Hopefully, hopefully. You all enjoy that cut. See a lot of the innovation coming. Look, the goal of this strategy session is to really pick up where Anele left off.
+
+00:00:25:17 - 00:00:39:13
+不明
+So hopefully you were all there for the keynote. Based on the applause, I think you were right and really kind of unpack a little bit around the AI parts of it. We said so much so quickly on main stage around a genetic, an agent and all this stuff. So the goal of this is to really spend a lot more time going deeper.
+
+00:00:39:13 - 00:00:57:10
+不明
+So and it's very clear by the attendance is very clear by obviously the conversation dominate everything. It's about AI. So we're going to spend a lot of time talking through that today and and really go through it. And I do I do want to recognize before going too much into the content. There's questions out there, right, to say the least.
+
+00:00:57:10 - 00:01:14:26
+不明
+In fact, I was presenting here yesterday on Partner Day and I said sometimes I actually kind of feel bad, right, for, for customers and partners because sitting there getting bombarded by like everybody's doing agents, everyone's doing that. So I think the goal of today is to unpack that, show you it's real, show you what we're doing, and we've done our job if we can do that.
+
+00:01:14:26 - 00:01:29:28
+不明
+And I know there's questions around, are people actually using this technology? Is it all just hype? We're going to unpack that in a big way today okay. So let me kind of walk you through, the agenda. So, you know, kind of where we're going. I think the first part lights up a little bit where we are seeing some pockets of value.
+
+00:01:30:05 - 00:01:47:23
+不明
+Secondly, incredibly excited to have some of my colleagues here from, Coca-Cola building out what James Quincey announced. And then from there, we're going to geek out. So I hope that works for everybody. We're going to go pretty deep into the platform. The orchestrator that Anil announced on stage, I'm lucky enough to be joined by Shiv, by Akash and Winnie.
+
+00:01:47:28 - 00:02:03:11
+不明
+And the goal is to show you, show you, show you. Right. And I think the more we can show you, ideally, ideally the better. So very excited you're going to hear from some of our best and brightest people. So, we're going to get rolling. So as a quick, preset maybe a little bit before we go too much into this.
+
+00:02:03:14 - 00:02:27:05
+不明
+You saw so much for Manila on main stage, right? Look at this product, look at this agenda, etc.. I always think it's interesting to take a two second step back and just reflect for two seconds. This AI journey we've been on for a while. So if you rewind back the clock 1012 years ago, we started with predictive AI and a lot of the products and hopefully a lot of you're using today have that predictive AI evolved to a lot of ML capabilities, and we've been building and building on that.
+
+00:02:27:08 - 00:02:54:20
+不明
+For folks that have come to summit for last couple of years. You heard about us doing Jenny, right? So this is really been an evolution, and we're incredibly excited about what it means as well. But hopefully you're seeing that we're bringing this to you where you use our applications. So stuff like Firefly generative fill in Photoshop, stuff like what you see in Gen Studio, you're hearing about this new applications, but just understand it's been a journey for Adobe on how we continue to build on these AI capabilities.
+
+00:02:54:22 - 00:03:13:25
+不明
+So this is why, as that next phase, the genetic AI is so critical. We're amazingly excited about it and we're really, really excited. But again, let me before we go deep, spend a minute on the reality of where AI is today. So I think this is helpful to show. Right. And there's tons of stats out there. So I'm sure there's a million stats.
+
+00:03:13:25 - 00:03:30:07
+不明
+But I also asked a question on like, are people actually using the stuff? I thought these were two interesting stats that we found. Number one is 39% of people are now using AI for the consumer side. And by the way, I asked the team like five times, what the hell does that mean? Right? And the answer is, hey, you're actually using ChatGPT using perplexity.
+
+00:03:30:14 - 00:03:54:02
+不明
+People are starting. If you're on Amazon using Rufus, there's so much use now of AI, but you're starting to see it hit from a consumer point of view. The interesting stat I thought was also fascinating was, hey, 55% of people are starting to think about deploying these agent experiences. So I think it's still a little ways out, but you're seeing tremendous excitement and people believe in the promise of, hey, what is this technology, how does it help me, etc..
+
+00:03:54:02 - 00:04:13:13
+不明
+So I actually do think this year, way more than the last two years, when I was talking about this on stage, I think we're moving. We're moving from experimental to implementation AI. We're seeing that more and more with customers. And I think if we go, oh, sorry, I'm trying to click here. There we go. Perfect. This gives you a quick snapshot right.
+
+00:04:13:13 - 00:04:28:06
+不明
+This is a fraction of the customers. But we just wanted to show this to you right a lot of the customers we're working with who are deploying a lot of these rich capabilities, but more importantly seeing value from it. Right. And I'll just highlight maybe a couple of them. I think one PGA tour, they've actually been using the Firefly services.
+
+00:04:28:06 - 00:04:48:17
+不明
+So a lot of stuff that David would want he showed on stage. Right. And they're talking about from a supply chain point of view. They've literally gone from month to hour. So you're starting to see that. Another example super excited about Triple-A northeast a great partner of ours. They used AI generated audience insights. So a capability that we've been providing to them and seen 165% increase in transactions.
+
+00:04:48:17 - 00:05:05:23
+不明
+So again, I'm not going to go through every one of these because we can talk about, hey, what are people doing? But I actually really do believe that we're starting to see people move to implementation and starting to see value. So as I mentioned earlier, one of the key logos you see here is Coca Cola. So what I'm really, really excited to do is build on the conversation.
+
+00:05:05:24 - 00:05:25:16
+不明
+Hopefully everyone enjoyed that. Between Shot New and James, I thought it was incredible. We want to build on that. And Coca Cola has always been one of the most agile companies and thinking about how they're integrating AI. So rather than me to tell us more, let me invite them up. So the first one is, Rafa Abri, vice president of global design and vice president of global marketing technology, Chicago.
+
+00:05:25:20 - 00:05:37:15
+不明
+Come on out. Guess I'm the guy.
+
+00:05:37:18 - 00:06:00:00
+不明
+Who put it all together? It's a masterpiece put up. And everybody, you know, they are feeling me. All right, first of all, again, thank you guys. Thank you for being here. I was I love the James conversation. I'm just incredibly excited by the partnership. So thank you for all that. But let's let's dive in. So maybe to start, you can both share a little about your roles at Coca-Cola and maybe Rafa with a sub question as part of that.
+
+00:06:00:02 - 00:06:42:17
+不明
+Maybe from a global design perspective, how does your team right bring the brand and storytelling to life? Sure. Hello, Ahmed. Hey everyone. What's up? Team? So coca Cola design team, we ensure that brand storytelling remains iconic worldwide. And we do that by balancing the timelessness with timeliness all the time across every touchpoint. So from global campaigns to localized executions, design works as a connected connective tissue, ensuring that the brand Coca-Cola remains distinct, recognizable and emotionally resonant with our consumers everywhere.
+
+00:06:42:20 - 00:07:07:01
+不明
+And practically speaking, our job is to develop brand guidelines. Right. So to define how our global brands should look or visually behave across the world. So that's me. That is awesome. Thank you. And maybe Shaker over. Well, actually sorry. Before Shaker, you do your intro. Congratulations. Shaker one and experience maker. Yeah, actually, one of the one of the best awards, and I.
+
+00:07:07:03 - 00:07:29:28
+不明
+Congratulations. I don't know how many people saw that, but he won an incredible award last night, so. But building on that, maybe from a technology side. Right. How do you want to build on that and how do you work together to, to really, enable these, innovations? Thank thanks. Summit. Technology, the way we see is, is a bridge that allows the creativity to scale.
+
+00:07:30:00 - 00:07:55:11
+不明
+And making sure that Coca-Cola's marketing ecosystem has the right tools and platforms. Automation. Yeah. I ml all these things are much, much needed to execute, the Coca-Cola systems, vision at an unprecedented level. No. Perfect. Yeah, yeah. So maybe let's I'm going to build on that shaker. Right. And maybe let's, start even more at the beginning.
+
+00:07:55:14 - 00:08:24:09
+不明
+So Coca-Cola and I think James kind of alluded this to, as well. It also blows my mind, is a global brand in over 200 markets. So I don't by level of complexity that I can only imagine. But maybe Shaker what kind of initially sparked right, this interest in, in Gen I echo, as you probably heard from James, we, we, we had 400 brand and now we have 200 brands, and we operate in, close to 220 markets.
+
+00:08:24:11 - 00:08:56:03
+不明
+If you can imagine the volume of content we need, to supply to this machine, scaling was, one of the important, thing for us. And, it's not just scaling is not just the volume. It's about maintaining the integrity of our brand across every execution we do and across every channel. Right. When I, came in, we we were moving from more from static brand guidelines to more dynamic in nature.
+
+00:08:56:05 - 00:09:34:08
+不明
+For every campaign we, the, the guidelines from Rafa's team, we want to adopt quickly and then generate this content. And that was very, very key for us. And and we always learn and adapt. And I just want to make sure this is not just, an automation tool. It's actually a transformation. Yeah, yeah. Driven brand guidelines allows us to take a creative idea and scale it infinitely, while ensuring every piece of content from our local digital ad to mass to out-of-home execution remains on brand and visually flawless all the time.
+
+00:09:34:11 - 00:09:52:29
+不明
+No, that's that's amazing. And by the way, I was laughing reaching out for it because what was James's line? The zombie killer? Yeah, I, I, I love that. I thought that was, I thought that was really good. Russell, maybe I'll come back to you. Right. I think we all, kind of totally understand this notion of, like, challenges kind of drive innovation, right?
+
+00:09:52:29 - 00:10:11:17
+不明
+Is is, is how we think about it. So maybe some of the biggest hurdles, right, that you've I mean, you guys have accomplished so much candidly, like maybe some of the hurdles on this journey would be good and maybe how do those challenges help shape the partnership with Adobe and creating this whole new design system? Sure. Look, the challenges are quite straightforward.
+
+00:10:11:17 - 00:10:38:07
+不明
+As we are talking here, we are over operating over 200 countries. We have 2.2 billion servings every day, which is kind of insane, right? So in order to support that, the Coca-Cola brand system must be designed to allow creative flexibility, right, to enable our global presence with a lot of local relevance. But brand consistency cannot be left to chance, right?
+
+00:10:38:07 - 00:11:02:17
+不明
+Brand consistency is paramount for us, and the more we scale, the greater is the risk of misinterpretation of brand guidelines that can lead to loss on brand fit and ultimately like a bad quality execution. Right? So the project vision, which is maybe you're going to see a little bit more details on that was born out of this that challenge.
+
+00:11:02:20 - 00:11:30:08
+不明
+Right. We needed and they AI enabled system that didn't just replicate designs, but deeply learned and truly understood what makes Coca-Cola look and feel like Coca-Cola. Right. And that's what Project Fusion does. It does not replace designers with AI. In fact, it ensures that their vision is fulfilled, right? That it's executed flawlessly across thousands of applications, which is super exciting.
+
+00:11:30:10 - 00:11:49:27
+不明
+Well, now you teased that, so I think you teased it. Let's show it. All right. You guys brought it. No, no. It's great. You guys brought a video to share. Let's, let's see. Project vision and action. Let's do it. In a world where brands like Coca-Cola connect with billions globally, creating quality content at scale while following traditional brand guidelines can be a huge challenge.
+
+00:11:49:29 - 00:12:19:12
+不明
+Introducing Project Vision. Powered by Firefly services and custom models, it lets you create intelligent dynamic design systems from your original designs. Working in Adobe Creative Cloud, designers create their own layouts to establish a visual identity. Vision learns every element logos, layouts, typography, and imagery, then codifies them into a new style ID that can be published with one click.
+
+00:12:19:15 - 00:12:52:02
+不明
+The beauty of the solution as it seamlessly integrate into our design workflow. It empowers us to transform design systems into intelligent style ideas. With designers remain in control, refining the visual identity with precision without ever leaving the tools of choice. Creatives can select a style ID to develop new campaigns with their own ideas, while staying on brand. Working within Adobe Creative Cloud tools, changes can be made in one layout then applied across all work instantly.
+
+00:12:52:04 - 00:13:20:10
+不明
+This has allowed us the ability to take ownership of what we're doing, knowing that we're going to stay within that brand, and keeping the honor of the beauty of the brand of Coca-Cola, which gave us the freedom to create creatives finally have a way to work at the pace of their imagination without stopping to check brand guidelines and with intelligent updates, introducing a new element automatically adjusts all assets across a campaign, applying the design system accurately.
+
+00:13:20:13 - 00:13:51:12
+不明
+This platform allows designers to lead with creativity, while AI drives quality at scale, proves that creative freedom and brand governance can work hand-in-hand. From the first idea to thousands of assets, leveraging Adobe, Firefly and training those models with corporate assets helps us go to the market facet. Coca-Cola has a history of design innovation. When we are thinking about adding, I think it's natural that you want Adobe to take the lead on this.
+
+00:13:51:14 - 00:14:01:11
+不明
+And now, in this new moment with Gen AI, we continue the journey together.
+
+00:14:01:14 - 00:14:07:10
+不明
+That was awesome. Yeah. The fact that.
+
+00:14:07:12 - 00:14:23:15
+不明
+For the record, I was asking them earlier what it's like to watch themselves on video, and you guys look horrible. It's terrible. You guys, you guys look great. No. Thank you. That was, I thought that was really great to bring to life. Let's dig in more. Right on on vision and this concept so that the pilot design system.
+
+00:14:23:15 - 00:14:43:13
+不明
+Right. Rapha is a great example of how Janine is driving this. What excites you just in terms of progress, what excites you kind of the most so far? Yeah, you saw it there on the visual like project vision ensures that our brand integrity remains intact even when we scale visual content production at least ten times faster than before.
+
+00:14:43:15 - 00:15:13:14
+不明
+But what excites me the most is that with that, designers and creatives now get to focus on what they do best, right? So that is brand storytelling. New ideas, innovation in general without being slowed down by any executional, inefficiencies or even being concerned about lack of visual compliance. And instead of reading through a 100 page PDF guidelines, what Project Vision does is that embeds that intelligence directly into every design element, right?
+
+00:15:13:14 - 00:15:37:24
+不明
+So the logos, typography, colors, photography, illustration, you name it, they all become intelligent and self-govern. They, they just know how to behave, which is awesome. And the beauty of that is all happens inside the tools that creatives and designers already use every day. So it's a it's a game changer because it removes barriers, it flattens the learning curve of our brand.
+
+00:15:38:01 - 00:16:02:14
+不明
+It improves agility and enhances creativity, not ever restricting it. Not not in one moment. So and you saw that this is not our Coca Cola point of view. Only you saw in the video, Lisa and Carlita from one of our agency partners. They have been highly involved in this process, with us helping to refine the platform as key users of of this tool, moving forward.
+
+00:16:02:17 - 00:16:21:19
+不明
+That's that's awesome. Thank you. Shaker, maybe maybe back to you. You're looking at this from a little bit of different perspective. So like what general use cases. Are you exploring? You know, especially as we think about maybe on the data side, the customer journey side, including the, API assistant work? I know you're doing. Yeah.
+
+00:16:21:19 - 00:16:50:27
+不明
+So. So Project Fusion, is just the beginning for Coca Cola. So the next frontier is for us. Is this real time personalization where I don't just execute the brand guidelines, but tailors the creativity dynamically for individual audiences with with the AI driven insights from ADP, which we probably already know that we we, we sit on a, a goldmine of, consumer data.
+
+00:16:50:27 - 00:17:18:03
+不明
+We, we work with, close to a billion consumers. Day in and out. As James mentioned, we have 2.2 billion servings. So that is close to like, off a million, of a billion consumers on a monthly basis. We need to personalize the content. So with the AI driven insights and the ERP, we are now able to anticipate and deliver hyper personalized content in the moment.
+
+00:17:18:05 - 00:17:42:10
+不明
+Whether it's a dynamically adapting creative for different markets or personalizing the messaging at scale. So we leverage AI to the fullest. Yeah. No, it makes it makes perfect sense. All right. Last question. Maybe to both of you, but I'll start. I'll start with you. There's so many marketing leaders obviously in this room and practitioners, obviously, you know, hopefully listening and taking away some key points.
+
+00:17:42:10 - 00:18:00:22
+不明
+So for for those that are just kind of starting right there AI journey and everyone's completely at different points on this journey, I completely get it. What is that piece of advice, right, that maybe you wish somebody had given you? But what would that one thing be that you would tell everybody? Sure. I think we touched on this already, but I will say that again.
+
+00:18:00:25 - 00:18:34:13
+不明
+I does not replace creativity, right? It enhances it. I think project vision is the perfect example of that. And when you are defining your strategy in whatever moment you are, for me, the keys to establish a human led approach where designers, creatives, humans in general lead in AI follows. Right? If you are using AI in your creative projects right now, and the eyes making creative decisions on your behalf, I think you've probably have gone too far.
+
+00:18:34:18 - 00:18:54:01
+不明
+So that would be my advice. No, I think I that's awesome. And maybe Shaker same same question to you in terms of what you would what advice would you give? Yeah, I would use the AI for the sake of using AI. Start with a clear problem. What your business has to solve, right? Yeah. Is not a silver bullet.
+
+00:18:54:03 - 00:19:15:23
+不明
+At the end of the day, it's a tool. How we leverage that tool depends on the human, the human element. Right. The companies that succeed VDI are the ones that define the role carefully. Where it should automate, where it should enhance, and where the human judgment remains essential. I love it. I, I think those are very sage pieces.
+
+00:19:15:23 - 00:19:37:15
+不明
+Advice from both of you. Again, I cannot thank you guys enough. And and obviously to James as well for being, you know, doing the main stage and you guys doing this here just incredibly appreciate the partnership. And again thank you for doing this. Much appreciate it. Thank you. Thank you guys. Look at.
+
+00:19:37:18 - 00:19:57:00
+不明
+All right. So hopefully that shared a little bit of insight. Again building on where James and Sean you talked about. And I love the examples of vision. And I think there's some very good, piece of advice in there as they've been on this journey now for quite a while. So I think it's great. All right. We're going to switch gears a little bit away from just the customer side into building on what Anil talked about on stage and obviously shot.
+
+00:19:57:00 - 00:20:18:25
+不明
+And you mentioned this as well. I did want to unpack a little bit about how we're thinking about the AI platform. I want to start by first laying out the pillars, which we lay out every part of our platform and our strategy. Right? So if you look at the very top, the apps and interfaces. Right. This is where we continue to deploy the AI technology right directly in the tools applications you use.
+
+00:20:19:01 - 00:20:35:17
+不明
+What's new this year? Right. Relative to last year is this orchestration. We're going to unpack that in, in a very big way over the next kind of half an hour. And then obviously the models and data layer. So all of this stuff, I think the key point, all of this stuff needs to come together to provide this.
+
+00:20:35:17 - 00:20:49:04
+不明
+And the end system. But before I move on, I did want to spend a minute because as I mentioned earlier, I know there's a lot of noise. I know a lot of scuttlebutt. What are agents? But Adobe, how do you define an agent? Right. It's all these different. Everyone's throwing these out. So let me just take a crack at it.
+
+00:20:49:05 - 00:21:11:21
+不明
+Right. And just put together what we are holding ourselves accountable to from a definitional point of view. First it's interactive okay. So let's start there. It interprets intent, right. It responds intelligently and often supports what we call multimodal communications. That can be natural language, that can be text input, that could be speech, whatever that might be. More importantly, it reasons, right.
+
+00:21:11:21 - 00:21:31:16
+不明
+So this is a core part. And again I'm I know I'm speaking about it. Shiv is going to come up and go detail. What do we mean by this. But it thinks through problems right. It understands the context and it makes decisions right and really thinks through it from a point of view. It is not just a predetermined rule builder and says, hey, go A, then do B and go do C, right?
+
+00:21:31:16 - 00:21:54:21
+不明
+And lastly, and importantly, it's autonomous. It takes action, right. This is a key part. So actually what this agenda is doing is saying, hey, I'm asking you your reasoning through it and help me take action. Right. And this can be through high level guidance. Right. Or it could be through explicit instruction. Either way, every one of the agents you saw, which, you know, Sean, you announced on stage, have to meet this criteria, right.
+
+00:21:54:21 - 00:22:13:28
+不明
+So that's kind of how we think about this. So you can see again the the a deep dive on the platform right here. The core of it is we're calling Adobe Experience Platform Agent Orchestrator. And we can zoom in on kind of different pieces of this, much like a nailed it. But the one point I want to make before the reason I talked earlier about this is a journey.
+
+00:22:14:00 - 00:22:32:22
+不明
+This is all continuing to build on the same platform, to do these agenda capabilities and to do these the right way, it needs to be grounded in the customer data. It needs to be grounded in the understanding the schematic, understanding the metadata, all of that. And you heard, Shaker do a nice job. Talking about ATP as well is what we've been building for years.
+
+00:22:32:24 - 00:22:54:13
+不明
+This is a new capability to basically provide more value there. But the key pieces I want to highlight, maybe before we go into a lot more detail, number one, right, it's powering a set of these purpose built experience platform agents. And the whole goal here is to deliver more complex use cases right across the lifecycle. This is really important right.
+
+00:22:54:18 - 00:23:23:00
+不明
+And for customer experience teams our whole view is this adds capacity. We know at Adobe it still takes a while to get campaigns out the door fully know it. So what we did is we asked ourselves where are these bottlenecks and where can this additional virtual capacity help? That's why you see the list of agents that you see is to say, hey, we can actually add capacity to focus on what those teams are good at setting strategy, doing the in-depth analysis, etc..
+
+00:23:23:00 - 00:23:43:28
+不明
+So this is a key point of how we think about this. I want to lay out now just two seconds. Then we'll deep dive into every one of these pillars, because I think people also ask where these are agents. They're everywhere. Where do I get them? There's three pillars of how we're thinking about our agents strategy okay. The first one is for practitioners.
+
+00:23:43:28 - 00:24:04:07
+不明
+A lot of you are sitting in this room today. This is going to empower you, just like I said earlier as experience makers to do more. Right. And so how do you use these agents in the context that, you know. And again, we're going to unpack this in a lot of detail with Shiv using an agent. And as an example, it's not just about that practitioner experience.
+
+00:24:04:10 - 00:24:22:13
+不明
+It's been really interesting to watch. If you take a step back, a lot of we're hearing from you and the audience is, hey, the end customer experience is changing as well. People are using new these new magic tools that I mentioned earlier, hey, what is that new a conversational experience? Well, and we are deploying agents to provide that end customer experience.
+
+00:24:22:13 - 00:24:39:24
+不明
+Again, we'll walk you through exactly what we mean by that. And the last pillar of this, it's not even just about those two. How do we make this open and through the ecosystem. This is incredibly important. And I know the questions come up. Hey, is this Adobe only? Absolutely not. For folks at the keynote. I hope you saw what Intel showed.
+
+00:24:39:26 - 00:24:57:25
+不明
+We are working with the ecosystem. What does orchestration mean within Adobe? What does it mean across the ecosystem. So these are the three pillars that we're now going to walk through and how we're thinking about every single part of our platform energetic strategy. So let's start right I want to start a practitioner side. Like I said this is where we're going to go deep.
+
+00:24:57:27 - 00:25:15:03
+不明
+And we're going to showcase not only the practitioner side, but as I mentioned, this deep reasoning capability and all the power built in Adobe Experience platform. So rather than me continue to talk about it on slides, we're going to get into a lot of details. Let's go really deep and we're going to showcase that audience agent. And they'll show it on stage as well.
+
+00:25:15:05 - 00:25:31:06
+不明
+But the best person to do this, I'd like to welcome the VP of Platform Engineering and Architecture, my good friend. She invited us. And come on up chef.
+
+00:25:31:08 - 00:25:46:04
+不明
+I don't get I don't get to see Shiv in a blazer that often. This is not how we. So this is this is, this is special. But, Shiv, maybe maybe before I leave a couple things. Right? Number one, it is really damn cool if I can say that. Right. To see all the things you were, you were on the stage last year that you presented.
+
+00:25:46:11 - 00:26:03:23
+不明
+Yeah, right. And now to see it in the hands of customers. Yeah. Thank you. First of all. And thank you everybody. A lot has happened since the last time I was on this particular stage. It's been less than a year or so since AB has, API assistant has shipped, and we have hundreds of customers right now using it.
+
+00:26:03:23 - 00:26:21:17
+不明
+So thank you everybody. No. It's awesome. And the cool thing I would add is not only that using it, a lot of them are here co-presenting. Yes, they're here with this audience. And I think it's just there's a huge opportunity around agents. And I know everyone is super, super energized about that. So I think time is yeah, I'm excited for you to dive into it.
+
+00:26:21:20 - 00:26:47:25
+不明
+So yes, we are excited about agents and reasoning, and I cannot wait for it to be in your hands and start getting feedback from you as we go forward. Take it away, buddy. Thank you very much. Right. So we're going to try to make this a little bit interesting. So let me start with a question. What do enterprise software agents and Sudoku solvers have in common.
+
+00:26:47:27 - 00:27:19:08
+不明
+And hopefully as we go further today, I will answer that question. But that story starts a year ago in this exact venue. The same event. So we introduced AI assistant last year and leveraging customer experience models, AI assistant enabled conversations over enterprise data, we also introduced three core principles of enterprise AI data safety. All business data remains isolated and protected.
+
+00:27:19:10 - 00:27:48:11
+不明
+Precision I must be precise and transparency explainable and trustworthy. AI and these remain foundational to everything that we continue to build. As I mentioned before, we have seen excellent adoption. Hundreds of customers are asking a broad range of questions, and today, and we are happy to see that these questions are reducing the hours of work down to minutes.
+
+00:27:48:13 - 00:28:14:03
+不明
+But we are not stopping here. We want to not just do questions and answers, but take and finish complete tasks in its entirety, complex ones, smarter and faster. An example of such a task that we will talk about, a complex task that we will talk about today, is audience creation. Building audiences are not easy, but it's critical to every brand.
+
+00:28:14:06 - 00:28:42:00
+不明
+Different, creation strategies, different data strategies, different models and queries, different profiles to target. To get the right outcome, you need to know the right questions to ask. And then we will pass through these unknowns to accomplish the goal. Ideally, you just want to state your role, and then the system guides you with the right questions and the parts to be taken.
+
+00:28:42:03 - 00:29:15:09
+不明
+And this is precisely where agent reasoning can help. So what is agent reasoning? We all do logical reasoning every day. We just do it subconsciously and we don't think about it. We don't pick a task and say, hey, this is what we are doing. We just do it logically. But to build software agents, we need to concretize these core constructs of agent reasoning and then show how it actually is useful in enterprise software.
+
+00:29:15:12 - 00:29:45:20
+不明
+So planning, verification and backtracking. These are the three core constructs that we need to make agent reasoning work. They sound a little abstract. So we will take an everyday puzzle now to connect and make sense in our own heads. Pseudocode. So this is the connection I promised when I started. When I first started. It is a puzzle that most of us know and possibly even solve every day.
+
+00:29:45:22 - 00:30:17:02
+不明
+And believe it or not, every Sudoku solver is doing planning, is doing verification and is doing backtracking. Also, local solvers have a plan. Depending on your level of expertise, you either have a simple plan or you have a more expert plan. Let's take a simple plan that you see on this particular, slide right now in that you've taken the leftmost three by three grid, identified all the numbers that are missing, and then you need to now go for it.
+
+00:30:17:05 - 00:30:42:14
+不明
+Okay. Let's start filling it. Remember these plant blends are very dynamic. So when you start filling in and you put in a number, it's possible that verification fails. And what verification fails is that there is some rule violation that has happened. You violated one of the Sudoku rules, and you can no longer continue and finish this, Sudoku.
+
+00:30:42:16 - 00:31:18:12
+不明
+Now, at this point, what most of us do is go back, erase the number that we've already put and put in a new number, and then move forward. This erasure that we do when we go back, that's backtracking. And then we continue from that onwards and keep moving forward. In 45 seconds, this is planning verification and backtracking. This is great for an everyday puzzle, but unfortunately, enterprise and generally atheistic reasoning in the enterprise is a lot more nuanced.
+
+00:31:18:14 - 00:31:49:15
+不明
+Enterprise decisions are not cut and dried like the rules of a Sudoku puzzle, and there's no easy right answer. And often there may be more than one right answer experience. Intuition, judgment calls. All of these are significant components of enterprise decision making. Therefore, enterprise agent reasoning necessitates it is necessary for humans and AI to work together.
+
+00:31:49:18 - 00:32:20:08
+不明
+Every plan, every verification step, and every backtracking decision that you do will be either grounded in enterprise data or will have human approvals. And in a lot of cases, both. These do now become the extra support constructs that, together with the core constructs, make up the overall enterprise agent reasoning. So what has this done to the architecture that we introduced a year ago?
+
+00:32:20:10 - 00:32:47:18
+不明
+So we've added a layer of reasoning on top of the two previous layers that we already had. And this unified architecture is what helps us solve complex tasks. So before I go further and start describing a few more things, let me take one moment to describe the advancements that we have done in our language models. Okay, most of you know, and you can't go anywhere without seeing this.
+
+00:32:47:18 - 00:33:15:04
+不明
+Open source large language models have made a lot of progress over the last year, and we've been doing our own experiments quite a bit, and we found them to be favorable. And we've actually moved several tasks over to fine tuned, open source large language models. We have also expanded significantly on our task based language models. Some of these advancements you will see play out as we go through a demo.
+
+00:33:15:10 - 00:33:45:06
+不明
+And the unpacking. To make reasoning. And these class of course models a little bit more understandable, we'll walk through an example of audience creation, an audience agent, and for that we will have Akash Maharaj, lead data scientist. He's on stage with us today. He and I will go back and forth between showing you a demo and an unpacking of a demo so you get better appreciation.
+
+00:33:45:08 - 00:33:52:01
+不明
+Akash. Thank you so.
+
+00:33:52:03 - 00:34:16:04
+不明
+You know, the past couple of years working in Chennai have been such a thrill. So I can't wait to show you what we've been building with audience agents. In the next few minutes, I will play the role of a marketer at Coca Cola tasked with creating a highly optimized audience. I'll show you how audience agent helps me work faster and smarter with real reasoning behind every decision.
+
+00:34:16:07 - 00:34:38:14
+不明
+Of course, we'd like to thank Coca Cola for allowing us to use their brand to showcase this innovation, and to let you know that all the data you will see here is synthetic. Okay, let's get going. My role today is to create an audience to be used in an email campaign promoting a new flavor of Coca Cola. So let me start.
+
+00:34:38:18 - 00:35:06:19
+不明
+Start by asking audience agents, help me find an email audience of 100,000 people who are most likely to enter a sweepstakes that will offer the chance to win the Coca Cola Orange Cream prize pack. Oh, interesting. I'm seeing the reasoning process. It's cool to see what's happening under the hood. Seems like audience agent first search documentation to find the right methods for audience creation.
+
+00:35:06:22 - 00:35:36:17
+不明
+It then query the knowledge base to find audiences that were used in past sweepstakes campaigns. It's come back with two recommendations that either I reuse existing audiences or I build a new audience using a propensity model. I like that it's thinking of reusing previous audiences. Let me dig in here. It seems like Audience Agent has found two audiences that were used in sweepstakes campaigns last year.
+
+00:35:36:19 - 00:35:59:04
+不明
+While I like that the system was proactive enough to find these audiences, they're both a bit on the old side. I need something fresher and more targeted so that I can maximize my conversions. So today I'm going to go ahead and build a new audience using a propensity model. I'll click on the suggested prompt. Yet again, we see the reasoning process.
+
+00:35:59:06 - 00:36:23:00
+不明
+This time audience agent is validating assumptions, formulating constraints, and then creating a plan to train the model. All of this information is now summarized for me in this audience building plan. I like that audience agent did all the heavy lifting for me. I didn't have to do any manual configuration to create this plan. The next step is to execute the plan.
+
+00:36:23:00 - 00:36:47:25
+不明
+But before we do that, let me hand it back to shift to unpack everything we just saw. Thank you Aakash, what you saw just now was more than just simple a question and an answer. Akash prompted with the goal and the agent responded with an audience creation plan and options. Others chose the option to create an audience with a propensity model.
+
+00:36:47:27 - 00:37:21:22
+不明
+The agent then responded with a propensity model training plan. This is the planning component of large and easy agent reasoning. Each plan has a lot to unpack behind it. Let's look briefly at the audience creation plan first, it understands the fact that Akash wants to create an audience with specific characteristics. Second, from documentation, it identifies two appropriate methods for creating audiences.
+
+00:37:21:24 - 00:37:53:29
+不明
+Method one use existing audiences from previous sweepstakes and method to build a propensity model a new propensity model for engagement with sweepstakes. Note that Akash made the final choice, and it's not immediately obvious that one choice is better than the other. Akash decided that the existing audiences were slightly old and therefore he said, I'm going to build a new model and a new propensity model.
+
+00:37:54:01 - 00:38:38:06
+不明
+This is an informed choice made possibly with years of experience. Human and AI working together. Once the choice has been made, like before, the agent presents a new plan for the subtask. Every task and subtask first begins with a plan. Let's look deeper into how six models have played into this entire first step that I showed. We have multiple language models that we showed on the previous slide from plans to intent, either for identification to audience creation, to actually finding existing audiences.
+
+00:38:38:09 - 00:39:07:12
+不明
+No one single model will suffice for all of this, especially for the level of precision that enterprises demand. So we have therefore defined two broad categories of models one task based small language models that we trained and fine tuned open source and other large language models.
+
+00:39:07:14 - 00:39:39:02
+不明
+And these are the two flavors that are that make up part of the models layer. Importantly, this is not a one and done. We continuously keep evaluating new models, both for new tasks that come along, as well as for the existing tasks that we have. And our underlying architecture is flexible enough to be able to do this without putting any burden on anybody.
+
+00:39:39:05 - 00:39:56:17
+不明
+Before I talk further, let's see more examples of how advanced reasoning can help Akash. Thank you chef. So when we last left off we had a plan to train this propensity model. Let's now execute that plan.
+
+00:39:56:20 - 00:40:20:05
+不明
+This time I see audience agents is searching for relevant data sets and relevant signals within those data sets for training. The model. It's then confirming data governance restrictions to make sure I have access to this data. It's come back with four possible data sets that could be used for training the model. For now, let me just select the historical sweepstakes and email engagement data sets.
+
+00:40:20:07 - 00:40:43:22
+不明
+I see that with these two, the estimated training time is about two minutes. So let's proceed. Of course, because we were demoing, we've prepped all these models ahead of time. Model training now begins. And oh wait, the verification step seems to have failed and now the system is backtracking. It's coming back and saying that the model quality score is too low.
+
+00:40:43:24 - 00:41:10:18
+不明
+It's below the acceptable threshold of 75%. Audience agent further suggests that I should add more data sets and restart the training process. It seems like if I really want to, I could actually use this model anyway. But when I was growing up in Trinidad, a score of 70% definitely wasn't a pass in my household. So let's go ahead and reselect data.
+
+00:41:10:20 - 00:41:31:20
+不明
+This time, all four data sets come pre-selected. We're adding in the website visits and social media campaign data. Let's proceed with model training. We see model training restarts. And now, the verification step has passed. Wonderful.
+
+00:41:31:23 - 00:41:56:12
+不明
+We're met with this audience card. With this model card. Sorry. The model accuracy score is now in the green. Great. 90%. Definitely a pass this time. I see on the right hand side these influential factors. These are the signals that are most predictive of future conversions for sweepstakes. I love that this level of transparency is being built in automatically into these AI models.
+
+00:41:56:14 - 00:42:22:20
+不明
+Okay, at this point we have our propensity model trained, and the next step is to use this model to create the audience. But before I do that, back to shift to unpack what we just saw. Thank you all. Gosh, I'm getting in my steps for the day. We just saw the execution of the propensity model training plan. Plan execution begins with selecting the data sets that he needs to, that he thinks is useful for training.
+
+00:42:22:22 - 00:42:49:20
+不明
+This choice, again, is a human, an AI working together. Not that the agent did the hard work of identifying the four data sets from possibly hundreds of data sets in the underlying platform. All I needed to do was make the choice, and this particular fact probably saved them hours, if not days of work for hunting for the four.
+
+00:42:49:22 - 00:43:19:07
+不明
+Once the model was trained, the agent checked for the quality and the model was flagged off as not being high enough in quality. The agent is knowledgeable enough to be able to flag this issue. This is the verification component of the larger reasoning engine. When verification failed, the agent backtracked to the last decision point. This is the backpacking component of the larger reasoning engine.
+
+00:43:19:09 - 00:43:50:18
+不明
+The last decision that was made was the choice of data sets, but I chose to. The agent now provides Akash either continue with the subpar model, or choose more data sets to see whether the model can actually improve in quality. Today, Akash chose two more data sets. With this choice, the quality model was reached, the agent completed its training and verification passed.
+
+00:43:50:21 - 00:44:17:08
+不明
+If the data set addition had not yet reached the quality bar that Akash wanted. He has high standards. Then that's a story for another day. So before I go anywhere, let's get back to Akash so that he can continue and finish the demo for us. Thank you chef. So we last left off with this advanced propensity model trained on the fly.
+
+00:44:17:10 - 00:44:40:00
+不明
+And now we need to use this model to create an audience. Let's go ahead and do that. This time audience agent begins applying the propensity model to all profiles and finding the top ones by propensity. I met with this audience preview card. I see that there are 100,000 profiles in the audience, just like I wanted at the beginning.
+
+00:44:40:02 - 00:45:06:23
+不明
+Looking at the breakdown of propensities, I see that all profiles are either high or medium. Propensity to converge. Fantastic. A highly optimized audience, just like we wanted. I see that the estimated conversion rate here is 6.5%, but I wonder how does that compare to those audiences that were used in sweepstakes campaigns last year? Let's compare this new audience to those previous ones.
+
+00:45:06:25 - 00:45:31:03
+不明
+Audience agent looks up the previous audiences from chat memory and then present me with this audience comparison reports. Interesting. I see that the new audience in purple has a 60% overlap with those previous audiences. In the blue. This is a great sanity check. It means that no matter what we did here, we weren't crazily different from what happened in the past.
+
+00:45:31:05 - 00:45:57:25
+不明
+But here's the kicker our new audience has a 6.5% estimated conversion rates, but those previous audiences were estimated to just have a 3.3% conversion rate. Honestly, this is kind of amazing. In the matter of just a few minutes, I was able to go from a vaguely worded prompt into a highly targeted audience that may now convert at double the rate of those previous audiences.
+
+00:45:57:27 - 00:46:28:05
+不明
+And all this with just a few requests to audience agents and its advanced reasoning process helped me. Honestly, right now I'm feeling like a marketing superhero. Thanks. Thank you, super hero. So that was a little bit harder than solving a Sudoku puzzle. Audience agent helped us go from a somewhat ill defined goal to creating a better audience, a significantly better audience.
+
+00:46:28:07 - 00:46:58:20
+不明
+It was made possible because of human AI working together. Remember, the agent interaction is dynamic, which means on a different day, different strategies, different data. The pathways and the goal may have been different. The demo that we saw just now was for audience creation. But audience creation is just one aspect of the larger, broader audience agent.
+
+00:46:58:23 - 00:47:28:08
+不明
+There's also audience optimization and audience management in general. These are all complex tasks, and the audience agent will be able to help. But it's not just about audiences that are journeys, experimentation, data, insights, and multiple such purpose built agents. All of these are complex tasks and have decision points and choices to be made human. Plus, I elaboration is the key.
+
+00:47:28:10 - 00:47:48:06
+不明
+Last year I showed you how I assistant can help take hours, hours of work down to minutes with agent reasoning. We look forward to taking that even further, going from days and weeks down to minutes. Thank you very much.
+
+00:47:48:08 - 00:48:04:25
+不明
+Thank you. Very thank you chef I appreciate you guys walking through that. And thank you very much. And I will hand it back to Amet. All right. Thanks. Thank you. That was great. Okay. Hey before I move on to the to the next part, I just a couple things I want to call it, I hope came across right.
+
+00:48:04:25 - 00:48:21:25
+不明
+Number one is the human centered approach. Right. So we always talk about this notion of human centered AI. I hope that came across. That was the whole point of kind of showing a caution and shift going back. I think the whole value of the collaboration right between what Akash was doing in that and the agent, hopefully that came across and as well as some of the power of the underlying platform.
+
+00:48:22:00 - 00:48:36:21
+不明
+Right. And this is why I was so excited for Shiv to show it, because we've been building ATP. But the notion of content, data, all of that metadata being there, that was the whole point of that coming across. But great. So I want to go. That was the first pillar. Right. So how we're showing us practitioners like a caution and other folks.
+
+00:48:36:24 - 00:48:57:14
+不明
+Now I want to go to the second one and show you some stuff there too. So as context, I mentioned this briefly earlier, right, that there's a fundamental shift happening of how consumers are starting to engage. Right? So whether it's ChatGPT, whether for plexi, I actually use both quite a bit. One of the questions we're getting from customers a lot is, hey, what is that next conversational experience?
+
+00:48:57:14 - 00:49:19:07
+不明
+Adobe, you've basically helped me build a mobile app. You've helped me build a web page, you helped me build all these digital experiences. But what is that next conversational experience, right. So that is the question. And Nikhil on mainstage highlighted this. He went through it very quickly because you don't have time. But it was around this concept of brand concierge and how we're bringing agents to bear for both B2C and B2B.
+
+00:49:19:09 - 00:49:37:16
+不明
+As part of that, and building on this next demo, I want to show it to you. I'm proud to introduce Winnie Wu, Director of Product Management, who will introduce it. But quick thing I just heard from Winnie. Winnie is new to Adobe. It's her first time. Her father is up all night in Malaysia watching the live stream, so she's.
+
+00:49:37:19 - 00:50:07:21
+不明
+If we could give her an extra round of applause, that would be great, I love it. Yeah. Hey, everyone. Hey, dad. I'm excited to show how Adobe Brand Concierge is set to revolutionize digital brand experiences where customer interactions are immersive, intuitive, and seamless. Let's get started. First, we're going to see Lucas, our marketer from fictitious brand Savoy Resorts, configure and launch brand Concierge.
+
+00:50:07:23 - 00:50:40:19
+不明
+Then we're going to see the experience of brand Concierge through the eyes of Lauren, our Savoy guests, planning her dream trip to Barcelona, Lucas opens up Brand Concierge, where it's connected to experience cloud resources such as content assets from Experience Manager Insights from customer journey analytics and customer profile data from Experience Platform. This, in addition to third party integrations, is what serves as the foundation of a powerful, AI driven experience.
+
+00:50:40:21 - 00:51:13:11
+不明
+Lucas can ask Brand Concierge for some recommendations of business goals, but in this case, his goals are clear he wants to drive engagement with new loyal team members. Brand concierge analyzes these resources and generates some recommendations. In this case, it will serve as a destination and hotel expert to highlight the benefits of rewards, membership and surface up preference based, exclusive experiences to encourage points earning.
+
+00:51:13:13 - 00:51:46:27
+不明
+Brand concierge is connected to the brand's content and data sources, and powered by the AI reasoning engine that Shiv and Acosta shared. It's able to generate tailor made strategies. What once used to take months of strategy alignment can now be accomplished in days or weeks. This looks great to Lucas, and so he moves on. Brand concierge pulls approved brand guidelines for Lucas to be able to configure the visual identity of this experience.
+
+00:51:46:29 - 00:52:15:15
+不明
+Everything is sourced and ready to go, saving precious time and ensuring brand consistency. Lucas can further configure and Brand Concierge provides recommendations for effective content for Lucas to be able to achieve those business goals and ensure that the content resonates with his target audience. What makes this truly powerful is that all of this content is not one size fits all.
+
+00:52:15:17 - 00:52:47:01
+不明
+It dynamically adapts to each individual consumer's preferences, interests, and real time interactions with brand concierge. Of course, delivering the right content at the right time is just one part of the equation. Just as critically, we need to ensure reliable and accurate responses, Lucas can train brand concierge to handle any errors, answer out of scope questions to ensure that it's a brand approved experience.
+
+00:52:47:04 - 00:53:18:16
+不明
+Built in testing also ensures enterprise readiness, in which Lucas can check for overall performance, reliability and accuracy. He can also manually test, but in this case, everything looks great, and so he launches to a limited audience. We now shift over to Lauren. She's a new Savoy Loyalty member. She just booked a Savoy property in Barcelona, and she receives this exclusive invitation to access concierge immediately.
+
+00:53:18:16 - 00:53:46:07
+不明
+She steps into a world designed just for her. Her entire digital surface is taken over by the Barcelona skyline, and there are tailored recommendations based on her current plans as well as her interests. As she indicated in her profile, Lauren simply speaks to Brand Concierge, telling it she's on a family trip looking for activities and tours in Barcelona around photography, art and food.
+
+00:53:46:10 - 00:54:30:05
+不明
+Brand concierge understands her context, understands her preferences and surfaces up tailored recommendations just for her. She browse through them, finds the one she likes, and decides to book it on the spot. Now you might be thinking, what makes this different from other solutions? Well, Brand Concierge is not a one time conference. A conversational exchange every time. It's a living experience that gets smarter and builds on every subsequent consumer interaction with brand concierge consumers aren't just getting the right answer, they're getting an experience that's built just for them and meets them where they are at.
+
+00:54:30:08 - 00:55:01:18
+不明
+The impact doesn't stop there with every conversation, it feeds signals of insight back to the brand. And so, back at Savoy, Lucas can see that his limited launch has been a success 28% engagement over the typical 8% baseline. He's able to see other conversational analytics tap into an individual conversation to address any critical issues. And sure human in the loop feedback to continue to improve on brand concierge.
+
+00:55:01:21 - 00:55:32:03
+不明
+Lastly, insights show that there is an uptick in interest for Barcelona photography. Lucas activates his team and adds a few more experiences in this area, delivering exactly what guests want. And there you have it. Brand concierge is a fundamental shift in how brands build, maintain and cultivate relationships with your customers and consumers to ensure lifetime value. With Brand Concierge, it is true brand changing impact.
+
+00:55:32:05 - 00:55:56:21
+不明
+Back to you, Ahmed. Thank you. Winning. That was amazing. I, I. I, I think we have a proud dad somewhere on the on the, on the line. But that was that was great. So what we've seen here, our practitioner's the view of what we're doing. Practitioners and the concierge, as I mentioned in our three pillars, let's spend a minute as well on this notion of the ecosystem and developers.
+
+00:55:56:21 - 00:56:15:17
+不明
+Right. I mentioned this earlier a couple times and Nikhil mentioned it, but we're gonna keep on saying it. We are committed to this notion of interoperability of our agents working with others, and we're also committed to developers, citizen developers, on how we provide the tools to be able to extend and customize these agenda capabilities. It is core to what we're doing.
+
+00:56:15:20 - 00:56:46:10
+不明
+So what does this mean? Right. This could mean app orchestrator coordinating across API agents, those from customers, those from partners. It could also mean orchestration by a partner framework of a use case. Right. That includes app agents on a whole different side. But we're enabling both modalities. I think that's a really critical point. We will meet you wherever you are, and we'll provide our customers with the flexibility to tailor experiences and workflows and these integrations to the unique needs of whatever they're looking for.
+
+00:56:46:12 - 00:57:07:23
+不明
+So today, I think you saw hopefully quickly on stage, but again, showing the list of partners incredibly excited. We are committed to working with these sets of folks around this notion of interoperability, orchestration again within our ecosystem, orchestration, other ecosystems as well. But I wanted to highlight one. It was mentioned, but we want to actually show it to you where it is and the excitement around it.
+
+00:57:07:23 - 00:57:26:07
+不明
+It's the first application working with the ecosystem. It's called Adobe Marketing Agent that surfaces in Microsoft 365 Copilot, and it builds on the partnership. This is the key point. It really builds on everything we've been doing from integration point of view between Microsoft and Adobe. But again, let's show it to you. So any one more time back over to you.
+
+00:57:26:14 - 00:57:49:11
+不明
+Thank you. All right. So now I'm excited to show you how Adobe Marketing agents from Microsoft 365 Copilot is going to help help marketers be more effective, faster, and more productive in their workflows. I want to thank Coca Cola for letting us use your brand to demonstrate this vision. And please note that all data and workflows shown are fictitious.
+
+00:57:49:13 - 00:58:17:11
+不明
+Most planning happens when people come together in meetings during a team's call. The Coca Cola team outlines campaign goals, target audiences, and channels strategies for their latest campaign. Microsoft has powerful AI features and annotation, as well as intelligent recap. Leveraging this recap, the Adobe marketing agent helps the team kickstart their campaign by drafting a brief using work fronts, creative brief template.
+
+00:58:17:14 - 00:58:49:22
+不明
+The brief is generated with real data from meeting transcript notes, as well as information from Adobe apps such as Real Time CDP and Journey Optimizer, just to name a few. Directly in this word doc, I can ask the Adobe Marketing agent what are the top audiences I need for me to achieve my goals? The marketing agent recommends three segments based on past campaigns and similar goals, and I can also see the estimated audience size pulling information from experience platform.
+
+00:58:49:25 - 00:59:25:10
+不明
+From here, I'm able to directly add these real time CDP audiences into my brief. Additionally, the Adobe Marketing Agent proactively recommends content that fits my campaign objectives. Again, I'm able to add this directly into the brief under a Design Inspiration section, so that my creatives have a starting place. This is a true productivity enhancer. What once used to take weeks and multiple meetings to get one brief done, you're now able to accomplish in minutes or weeks.
+
+00:59:25:13 - 00:59:53:11
+不明
+The Adobe marketing agent recognizes that the brief is complete and recommends next steps in the workflow. In this case, generating tasks and potential owners for me to review. From here, I can add, edit, remove, and once I finalize the list of tasks, I can create them directly in work front. The Adobe Marketing Agent is always looking for ways to optimize my campaign.
+
+00:59:53:13 - 01:00:25:19
+不明
+In this instance, I receive a notification based on content insights from customer Journey analytics that I have an opportunity to improve engagement by swapping out the content in one of my landing pages, I ask the agent to suggest some changes. It brings me directly into the landing page link, and because I manage my content with Adobe experience Managers Edge Delivery Services for document based authoring, I am able to edit this content directly in the word doc.
+
+01:00:25:22 - 01:00:57:07
+不明
+From here, I pull content directly from Experience Manager, and with generative AI it automatically updates the copy to fit my new image. The Adobe Marketing agent knows my brand standards and so all of its suggestions are brand compliant. I can share final Eyes and publish directly to the site via Adobe's Edge delivery services. Now, my campaign's been running for a while, and I want to check on its performance.
+
+01:00:57:09 - 01:01:26:23
+不明
+I'm able to do so by asking the Adobe Marketing agent within Microsoft 365 Copilot chat from here. I ask it how is engagement going with my campaign? Within minutes, the Adobe marketing agent is able to generate a visualized graph. To answer my question, I want to dig a little bit deeper, so I ask it about engagement by channel once again.
+
+01:01:27:00 - 01:01:53:23
+不明
+Within minutes it generates a visual graph. I no longer have to bother my analysts to pull basic numbers or reports. And lastly, I'm also able to draft a PowerPoint directly from in here. And there you have it. The Adobe Marketing Agent is a true productivity enhancer, and it frees up the Coca-Cola team to focus on high value, personalized customer experiences at scale.
+
+01:01:53:25 - 01:02:18:06
+不明
+Back to you want it? Thank you. Thank you very much. Appreciate it. All right. Thank you, thank you. I'm getting the flashing red light, which means we're out of time. Hopefully this was very helpful. I do want to land on just kind of two takeaways of what we're trying to do. I think first, everything around AI, including now The Expanse, energetic AI gives experience, team more capacity, and we can't stress enough human centered.
+
+01:02:18:11 - 01:02:38:15
+不明
+Where are those bottlenecks? How can they collaborate? And unlocking a whole different level of capacity? Right. And the second, these agents are also helping a whole new world of personalized interactions between brands and customers. You can deliver these personalized experiences in the moment, right? Making every experience impactful, which is what I know we're all trying to do. I think it's transformative.
+
+01:02:38:18 - 01:02:56:04
+不明
+I really believe that I said that a couple of years ago. It continues to be. And I know we're just getting started on this journey. Okay. This is my I'm supposed to do this, get your phones out right. Call to action. There's QR codes up here for more AI sessions. If you want to double click on any of these, please, by all means, go to the QR code.
+
+01:02:56:08 - 01:03:13:07
+不明
+It'll take you to a bunch of these sessions. Secondly, we have a community pavilion. Within that there's a, Coca-Cola experience, which builds on a lot of what, Rafa Shakur show. There's an a zone, so you can go literally, there's our product extra to there. Go play with these. You can ask questions. All of that. I think it's great.
+
+01:03:13:07 - 01:03:23:20
+不明
+But most importantly, thank you. Thank you all of you. Hope you're enjoying summit. We do believe this is an inflection point and all the work you guys do with us, just incredibly appreciated, but hopefully it's helpful and enjoy the rest of summit.
+

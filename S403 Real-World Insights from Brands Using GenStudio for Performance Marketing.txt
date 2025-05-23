@@ -1,0 +1,532 @@
+00:00:00:01 - 00:00:29:04
+不明
+Lot to talk about today. So it's 1:00. We're going to get started right on time. So first of all, thank you everyone for joining today. We're really excited to have you all. We're here to talk about Jen's studio for performance marketing. We announced Jen's studio for performance marketing exactly one year ago at summit last year, and we're really excited to be here to share with you a little more about where we are in our journey, but also to share a little bit more about how our customers are using.
+
+00:00:29:04 - 00:00:48:19
+不明
+Jen. So your performance marketing and what their journey has been to date as well with this application, especially as they're scaling their creative and marketing workflows. With Jen, I so I'm going to go ahead and get started with a little a few introductions because we have a few speakers today. My name is pretty much what you are, Roy.
+
+00:00:48:19 - 00:01:04:17
+不明
+I lead product marketing for Jen Studio Performance Marketing, and I'm joined by Matt here in noir. Who leads product management. And he's going to be showing you all a great demo of the application as well. I know you some you might have seen some of that on the in the keynote today, but you're going to get a little bit deeper.
+
+00:01:04:17 - 00:01:44:01
+不明
+Double click in here. We also have with us Maria Fredrickson, senior director of brand and dot.com from Lumen Technologies, as well as Allie Lampkin from University of Phoenix leading go to market for prospects. And they're both here to share a little bit more about their journey as they've been implementing Jen's studio performance marketing in their workflows. So first, before I jump in and I want to start talking a little bit about like what the context is for this new application, why Adobe went through this journey to bring this application to life, and how is this relevant for all of you?
+
+00:01:44:03 - 00:02:03:21
+不明
+So let's start with what's driving the need. We know that consumers want to engage with companies that deliver more personalized, relevant experiences, and they want this to extend everywhere, across all of the different platforms and the touchpoints that they have with that company and everywhere that they do business.
+
+00:02:03:24 - 00:02:29:12
+不明
+But for companies, what this means is that the amount of content needed to fuel that level of personalization is growing and accelerating at an exponential rate. With the number of channels, languages, variations and refreshes that organizations need to support. And across all of those different product lines that you have, the content demand quickly grows and it outpaces the capacity that many of your teams have today.
+
+00:02:29:14 - 00:02:53:22
+不明
+Whether you're using creative agencies, whether you're using in-house, creative teams, it's just starting to go beyond what humans can just be able to support with the amount of content needed. And we're hearing that, you know, 59% from our research, marketing teams are unable to get the content that they need because of how much is needed and how quickly that volume is growing to fuel their campaigns and agencies.
+
+00:02:53:22 - 00:03:05:26
+不明
+Creative teams cannot meet the demand that's coming in, especially because budgets remain the same and they're being asked to continually do a lot more with the same.
+
+00:03:05:28 - 00:03:42:14
+不明
+This is where Adobe's really looking at generative AI. How can we use technology to help organizations scale content creation? Because you can now use generative AI to create more content variations with the click of a button so you can actually get to that volume. You can also create copy images videos instantly with prompt based actions. And being able to generate content at a marginal cost using technology means that, you know, you can actually augment content creation without having to increase your budget significantly.
+
+00:03:42:16 - 00:04:09:06
+不明
+And that's where Adobe Gen Studio for Performance Marketing comes in. It's a new purpose built application for marketing teams to work in collaboration with creative teams to be able to create, activate and optimize on brand high performing content. So in the previous slide you saw, there's, you know, the number of creation, the number of content pieces, the variations that you can create is now, you know, accelerating with AI.
+
+00:04:09:08 - 00:04:30:10
+不明
+But we also want to make sure that content that's being generated in the application, it is tailored to your organization. It is, you know, on brand with everything that your organization needs so that you feel confident when you put it in market. And because of that, we have four key principles around content in the application. So I'm going to touch on that very quickly.
+
+00:04:30:10 - 00:04:57:20
+不明
+So the first is the ability to ensure that all of the content being generated in the application is on brand is adhering to your your brand guidelines, your style, your tone, your voice, all of those things so that you know it's in parity with what's what your teams are creating today for in market activation. We also want to ensure that, you know, as we're thinking about personalization, all of the content needs to be tailored to your specific audiences.
+
+00:04:57:22 - 00:05:17:16
+不明
+So being able to get the persona level information as the team is creating the content is very important because it's understanding the nuances of your target audiences and generating content towards those nuances. And the third is we don't want to create content for content sake. We want to make sure that all of that content is resonating with your audiences.
+
+00:05:17:23 - 00:05:37:19
+不明
+But you need data. You need to understand performance to be able to ensure that all of that content is actually driving outcomes. So this is where performance comes into play. You want to ensure all of that content is what you have. The insights around that and being able to continually fine tune the content you're generating. The last is compliance.
+
+00:05:37:21 - 00:05:58:21
+不明
+Content has to be in compliance with the requirements and guidelines that we that, you know, a lot of enterprises have today, especially when you're thinking about legal regulatory compliance requirements, those all play a role in the content that you're putting out there. So that's another key area that we focus on as well, to ensure that all four of these principles are, adhered to.
+
+00:05:58:21 - 00:06:21:02
+不明
+When we think about content now, when we also talk about create, activate, optimize, I want to touch on that a little bit. What does that really mean in the application? The application allows you to create, use Genii to create on brand text, images and videos coming soon. We have that in beta, and being able to bring all of those together to actually assemble experiences.
+
+00:06:21:02 - 00:06:41:17
+不明
+So we support a variety of channels. You can see that their paid media, email, display, ads, banners. So I is actually able to break down the different components of an experience and generate those and also assemble it. So you have, actual ads and experiences with an instance. And here we'll show that in a moment. The second is the ability to activate.
+
+00:06:41:19 - 00:06:57:10
+不明
+We know that you have content in the application. But now how do I make sure that all of that is actually where I need it to be? So activation is also in the, in the tool today. So we actually just launched meta. So you can actually take all of the meta ads you're generating and quickly activate it to meta.
+
+00:06:57:12 - 00:07:25:18
+不明
+We also have integrations with downstream applications like Adobe Journey Optimizer and more channels coming soon so you can activate emails and other content downstream. The third is optimized, as we mentioned. So what the platform also the application also does is provides insights at a variety of different, vectors from experiences as well as assets as well as different attribute levels, so that you have the control to be able to optimize campaigns as well as content.
+
+00:07:25:20 - 00:07:55:19
+不明
+And here will show a lot of this in a moment. Now, when you are able to equip marketers and creatives with these capabilities, we feel we can unlock some really key use cases. The first is marketers can now generate a lot more variation so they can very easily conduct AB testing so they can truly understand what's resonating with their target audiences, so they can optimize the the content they're putting out there for engagement and ROI.
+
+00:07:55:21 - 00:08:25:12
+不明
+Marketers can also better personalize content to the different offers, product segments, personas that you have, so they're actually able to promote the content better and connect with their audiences better, because you're now able to tailor it to those different personas. The third, as I said, is optimize. You can reduce ad fatigue by easily reviewing the performance data in the application, understanding where there might be drop off in engagement, and quickly update the experience.
+
+00:08:25:12 - 00:08:49:14
+不明
+Quickly update the media so you can actually optimize for engagement and outcomes. The fourth is localization. Marketers can very quickly localize content create in non-English languages, which is currently in beta, to support regional campaigns so that again, you ensure consistency across all of the work that you're doing for your organization. The last, as marketers can quickly create or refresh content.
+
+00:08:49:17 - 00:09:07:14
+不明
+There's so much flexibility in the platform with we have express integrated in as well for, easy last mile edits, things like that, so that marketers who want to be able to very quickly generate content because they have a product that's just not getting enough attention, or they have a campaign that they were previously unable to run because they just don't have the content.
+
+00:09:07:16 - 00:09:29:03
+不明
+They can now do that because of the speed and agility that this application provides them. So those are the key use cases we think about for this application. Now from here, I don't want to talk too much. I want to show you the product. So I'm going to actually have me here come up and do a demo of what the application looks like.
+
+00:09:29:05 - 00:09:49:07
+不明
+Okay. I think we're in business. Hi everybody. My name is Maria Navarette. I have the absolute privilege of being able to present this product. I worked on to you. As I said, we announced, Jen Studio for performance marketing about a year ago at summit. We did it in, October at max in Miami, where some of you were.
+
+00:09:49:09 - 00:10:13:19
+不明
+And if you look at the product today, it has probably grown five times in those six months. There's a whole lot of new stuff. And that's super excited to walk you through what's coming. So what I'm showing you right now is we call it the create landing page. So it's the home where our customer, the agile marketer, the creative operations person, will come in and initiate or start their creation journey for all the omnichannel content they want to create.
+
+00:10:13:21 - 00:10:33:24
+不明
+But before I take you through an end to end flow of what create, activate, optimize really means and how you can do that all in one application, let me take you through campaigns first. Campaigns is a view where you can actually get, timeline view as well as detail view of all your campaigns. The back end of this is work from planning.
+
+00:10:33:24 - 00:10:55:23
+不明
+So we want to know that works on is very much the operating system for all our campaign activity. And you will see those campaigns here clicking into a campaign. You start to see the context for the tasks that you will then initiate. There's a description of the campaign and objectives, certain messaging restrictions, and there's also content. I will then bring you into the content area.
+
+00:10:55:25 - 00:11:18:00
+不明
+Content is to paint the idea of governance. It is the place where you would draw on only approved content to create experiences with the why do I want to underline approved content? Because the number one nightmare people have is if you give the powers of generative AI to more and more people, if you democratize in the organization, the best practices and the governance might slip.
+
+00:11:18:06 - 00:11:43:28
+不明
+But by connecting to a dam and in this case, you can see this is a 100,000 plus assets in a dam. You can be assured that experiences will be generated only with approved content. All right. Wonderful. So let's start our career journey. I will start with a meta ad. We as just maybe a 10s on this. We have reorganized our create landing page now to support the amount of content we create.
+
+00:11:44:05 - 00:12:11:19
+不明
+So there is a support for owned channels like email and banners, but paid media channels like meta with Google, Microsoft in terms of display ads and also LinkedIn, which is in beta beyond that, we have the ability to now create more variants of content. So you have ability to, create image to video. You can create video ads as well as there's, foray into a generic architectures with the content production agent.
+
+00:12:11:21 - 00:12:29:26
+不明
+So some of these are better in labs because we are moving so fast. We wanted to get the innovation out there and put it in your hands. So if you are interested in these capabilities, please come up and talk to us. With that said, I'm going to start with a meta ad. I click into a meta ad. I am shown a set of brand approved templates.
+
+00:12:29:29 - 00:12:47:23
+不明
+Now within matter we support all the popular placement types. So one by one, four by five, nine by 16 and more to come soon. You can see that the templates here actually show the layout of the ads and how they would actually render. When I select one.
+
+00:12:47:25 - 00:12:52:28
+不明
+So I'll go ahead and select a particular meta ad.
+
+00:12:53:00 - 00:13:14:01
+不明
+To use. And this pops up my prompting area. So the whole idea behind generative AI is that you should be very adept at expressing yourselves in words, and those words will then become content. Right? That's that's the basis of a lot of the generative AI. And the reason we feel this is buffoon is because you are really good at writing briefs and words.
+
+00:13:14:07 - 00:13:52:17
+不明
+So bring in those same skills of brief writing into this interface, and let's create some of ads. So I will select my brand I will we have the ability to fine tune models to more, subtly represent the nuances of brand. So I will select a fine tuned LM here. I have a persona. So the persona is the group or the the the group of customers with the common characteristics that you want to reach out to, in this case, active adults on the West Coast for my weekend lifestyle brand and a product now behind the scenes, all of these are objects that have been set up such that they are available for rapid content generation
+
+00:13:52:17 - 00:14:15:28
+不明
+in one shot. So behind the scenes, there's actually brand products, personas, which have rich details about all the facets of your brand, including copy guidelines, image guidelines. Soon there will be video guidelines as well. The nice thing is we are now able to extend the app, and one of the extensions I'll show you is, I can bring in a set of product features from a third party location.
+
+00:14:15:28 - 00:14:35:19
+不明
+In this case, I'm going to pick up a few, references to the quality of my product that I want emphasized in my image or in my mind. And so I'll select this particular aspect. The reason for extension is so powerful is we are not going to solve all the deep regulatory and compliance needs in industries like pharma and Finserv.
+
+00:14:35:19 - 00:14:56:20
+不明
+Right? There are experts in this field who Adobe works with, who can then build custom extensions. Beyond that, take Gen Studio beyond it and implement those MLR workflows or any of the other deeper compliance workflows needed to get content out of door. I'm going to select from content.
+
+00:14:56:22 - 00:15:17:26
+不明
+So I have some beautiful images here. But I'm today I'm feeling partial to, frogs photos. So pretty. So.
+
+00:15:17:28 - 00:15:43:17
+不明
+And I will for now, use the default prompt. We can we have prompts which you can customize. So I'll say create ads to release a new product with that generate. So while this is calling the different generative models putting together this assembly what this is done for our, even our own customers, customer zero is our users have become really good at prompting, right?
+
+00:15:43:17 - 00:16:05:04
+不明
+Which means that they can shorten the length of time. And I know later on in the show, will we in our talk, we will hear from some of our customers who have seen some of this evidence. But you can get very, very adept at creating content fast, which is the whole idea. You can see how these ads are coming together.
+
+00:16:05:06 - 00:16:28:22
+不明
+And there I have, four new Facebook ads now that's spinning. Will you see? It's actually a brand compliance check that's ongoing. So I am running all of my copy and the ad I created against my brand guidelines, because being on brand is the ground floor of actually scaling up content production, as I said. So I say 8282 is a really good score.
+
+00:16:28:22 - 00:16:46:08
+不明
+It's out of 100. I can click in here. Now there's another new innovation we brought in. We can check against Meta's platform guidelines also. So that's inbuilt in the product. We actually check against the platform guidelines and we will be up to date with those as they evolve, as they tend to. You can get a check for meta guidelines.
+
+00:16:46:10 - 00:17:12:10
+不明
+And we also have accessibility check. So this is a foray into accessibility. We're starting with readability the use of jargon etc. we will then add the ability to look at contrast of text on media and help you really paint that picture of accessibility tests that many of you do before you go out the door. If you click into this, you will see a detailed report of what needs fixing or what doesn't.
+
+00:17:12:17 - 00:17:44:06
+不明
+Now, this is an assistant in the sense these are just suggestions. The user has complete creative license to completely ignore or fix these. It's up to you if this is really meant to be a guide to, telling you how aligned the content is with the brand and platform guidelines, etc. should you like to choose? Should you choose to make changes, you have the ability of generative AI within the interface to come in and rephrase, re, prompt, shorten, lengthen, or make complete manual edits.
+
+00:17:44:08 - 00:18:13:15
+不明
+With that, you can then rerun the score to see if you up or fix the problem in the first round. You can also make edits to the media. You can, swap out images on the canvas. You can resize them. We do an intelligent crop, but if the crop doesn't fit exactly what you're looking for, you can quickly adjust the boxes and you can generate all the other renditions that meta might need, such as the four by five rendition or the nine by 16 all in one canvas.
+
+00:18:13:18 - 00:18:33:22
+不明
+All right. With that, I'm reasonably happy with these ads, but I do want my colleagues who are the experts to weigh in and tell me what they think about it before I go to market. That's where we have an in-built review and approval process in the product, where I can send this over to my colleague, put him on, probably.
+
+00:18:33:25 - 00:18:58:04
+不明
+There we go. I can request approval. And she she is in the system already because we use work fronts. User group. And I can, select put Neymar's name. It will pop up and I send her an approval. Once I send an approval, we can start a back and forth dialog so you can see might say, change that image, change the text, refine it, copy.
+
+00:18:58:04 - 00:19:24:10
+不明
+All of that can happen seamlessly in the product itself. We've also extended a product to work with, work from proof. So if anybody is a proof user and proof is in the same, we buy company has proof she and I can she can actually receive an email by which she can open up proof and then make mockups and comments and proof, and then approve or send back to me changes that I need to take care of in this canvas.
+
+00:19:24:12 - 00:19:50:01
+不明
+All right. So I have my ads. I'm going to move into the next part of my demo, which is brand new. It is the ability to activate these ads directly on to matter from Gen Studio. So coming into the meta interface, I go into the new meta flow. I will, put in a few details, but I'm going to now select media.
+
+00:19:50:04 - 00:19:54:29
+不明
+From my content repository.
+
+00:19:55:01 - 00:20:05:07
+不明
+So in this case I will look at. Maybe a couple more images. Let's see.
+
+00:20:05:10 - 00:20:30:17
+不明
+Yeah. For. The amazing thing is as this media is loaded, it starts to show me previews of how these ads will render on each of the placement types that Facebook has. So I can see it as a profile feed or a Facebook feed, or as a right column. So all the details are right there, because we know the media types and I'm familiar with it.
+
+00:20:30:17 - 00:20:57:11
+不明
+It's all built into the platform itself. I'm going to put in some text, a headline. Of course, this is all for demo. We have the Call to Actions play by now. And here is now a moment of magic. We can link this better paid media campaign back to the marketing campaigns that I just showed you when we started this demo.
+
+00:20:57:13 - 00:21:20:22
+不明
+So all those campaigns are available. And ladies and gentlemen, this is a small detail, but this is a huge unlock because this closes the loop between the marketing campaign and its stipulations and the groups of people we want to reach, and how this ad will do one better. And closing this loop is, I think, of paramount importance as you look at optimizing your paid media strategy.
+
+00:21:20:29 - 00:21:41:11
+不明
+Eventually we will, of course, go across all the channels too. But that little detail I did want to emphasize is absolutely key. Anyways, I'm ready here. I can move on to the next stage. The audience have already been set up, so the right person in your organization can come in and set up the logins. So I have access to all my meta accounts.
+
+00:21:41:13 - 00:22:04:15
+不明
+I have access to the pages and the Instagram accounts, and I can it will pull up my meta campaigns where I can start to push these into the right campaign and the right ad set. And the exact perfect. I can also publish the same set of media to another set of campaigns if needed, all within the same interface.
+
+00:22:04:17 - 00:22:22:07
+不明
+And currently you can put in, tracking ID again, a key to take your clicks from meta onto websites where things like conversions happen. You can build in here. We are going to customize this and make it business specific, such that that problem of coming up with highly coded tracking names, etc. is taken care of in the product itself.
+
+00:22:22:07 - 00:22:52:09
+不明
+So another big unlock. With that I can move on to the preview stage and if everything looks good to go, I'll publish, which I won't do today, but I can now come back to the activate view and click into the view where I will see everything, all the real time status of the campaigns I have activated from metal.
+
+00:22:52:11 - 00:23:16:27
+不明
+There you go. You can see all of this. All right. So we've we've done create we've done activate onto a personal favorite insights insights is the is the data you need to optimize. So as you come into insights a few changes that you'll see. If you've been watching us from October last year I'll focus on this product ladies and gentlemen, is purely on the performance of content and how content can help you drive your KPIs.
+
+00:23:16:29 - 00:23:36:20
+不明
+So what I'm going to land you in is, content first view. So this is at scale all your images and media that are active across all your Facebook accounts for the last six months. So this gives you an unprecedented view into what's out there in the market. Number one. And number two, how is it performing. That's fantastic right.
+
+00:23:36:20 - 00:23:57:25
+不明
+So if you're an exec or a supervisory persona who wants to get a sense of, hey, what's what's what content do I have out there? This is a place you come in. But if you're a practitioner, you will go into new advanced filtering capability. So that's within campaigns. I click, I can now type in a very custom string and I'll tell you why.
+
+00:23:57:25 - 00:24:05:21
+不明
+It's custom, but very powerful.
+
+00:24:05:23 - 00:24:25:20
+不明
+So I'm a performance marketer for Photoshop, and I've been working with publicists to launch these campaigns. I want to just focus in and zero in my view, on those campaigns that I've been working on. It's great to see everyone else's campaigns as well. Gives me a bunch of ideas, but I do want to focus my analysis on just my campaigns.
+
+00:24:25:23 - 00:24:37:24
+不明
+And with that, you can narrow down the analysis with the same level of view into content, down to just the campaigns that you care about.
+
+00:24:37:26 - 00:25:05:22
+不明
+That's awesome. So it's all, all the content there. The other part of our, product is focusing on the attribution of KPIs back to content itself. So picking into content here, I can see a view of all the videos and other that I have active. We aggregate KPIs against content, so you can actually see the performance of images, even if they were used across a bunch of different ads, which is again, very unprecedented, extremely powerful.
+
+00:25:05:25 - 00:25:32:25
+不明
+I have a few more minutes here, but I do want to hit on one, key highlight attributes. So attributes are your cross-cutting attributes. Answer the question about we know content is performing well, why that content might be performing well. And it's because of the characteristics of content that we can identify. So when I sort by CTR, I can see that.
+
+00:25:32:28 - 00:25:52:03
+不明
+Titles for whatever reason, and we don't know why, but tigers seem to be resonating with at least Photoshop customers. So I click in there I can see all the images of tigers and this gives me fantastic new ideas. So this is where we've taken the loop between insights or optimization back to create, which helps us to close that flywheel of value.
+
+00:25:52:06 - 00:26:10:11
+不明
+So I'm like, wow, this is awesome. What can I do about that? Well, it turns out that with the new image generation feature in create, you can make variants of that media in a trice. They can help unselect.
+
+00:26:10:13 - 00:26:21:18
+不明
+That search by metadata tag. I'm like, oh wow, that's an awesome base picture for me to use. Let me select that.
+
+00:26:21:20 - 00:26:49:15
+不明
+I have the ability for my brand to apply to image guidelines. So my brand here is aware of all my categorical image guidelines for lifestyle photography, product photography, or any other kind of photography. It's all within the brand. I also have access to custom models, which is another innovation we just launched. So the pause and play model, which was trained for the particular style of the kind of animals we've been using in these media campaigns, is available to me.
+
+00:26:49:18 - 00:27:14:17
+不明
+So I can go in there and select it. I want a type of prompt. It takes a few seconds, but I'm going to go over to the results. So that's what I created. And ladies and gentlemen, I am not creative. I just use words. And I got some pretty, pretty interesting images. The lovely thing about this is I can check for adherence of these images I created to my brand, very much in the same way I did with metalheads.
+
+00:27:14:19 - 00:27:37:13
+不明
+Great score here. What we will have very soon in the product is the ability to send this for review and approval. So my creative colleagues who have a much more discerning sense of esthetics and brand can look at it, make comments, give me feedback all in one place. But with these ads, I can go back into meta and traffic these and take advantage of the fact that for whatever reason, my customers love tigers this month.
+
+00:27:37:15 - 00:27:56:17
+不明
+So that's that's the whole loop. When generate, activate, optimize. And back there, that's that's the virtuous feedback loop that we want. All right. Thank you so much. With that back to.
+
+00:27:56:20 - 00:28:21:24
+不明
+Now. All right. Thank you. Here. So as I said double click from the main stage. So hopefully that gave you guys some insights. And if you have questions we are also going to have some time at the end. So you guys can come up and share some more questions. But I'm really excited. First to have Ali Lampkin, come join us on stage.
+
+00:28:21:27 - 00:28:44:23
+不明
+So we've been working with University of Phoenix, since last summer, actually, since the product was in beta and they've been using this to test a couple of different use cases around display ads, meta ads, emails. So I'm really excited for Ali to be here to share a little bit about their journey. Okay. Thanks, everybody. Thanks for having me.
+
+00:28:44:25 - 00:29:13:06
+不明
+My name is Ali Lemkin. I'm the senior director of prospect. Go to market at University of Phoenix. You're probably like, what does that mean? My team does the messaging strategy and the content development for paid ads, as well as, emails and nurture strategies. We also do digital reporting and really look at the data and make data driven decisions on what creative we're going to put market and what our rotation looks like.
+
+00:29:13:09 - 00:29:34:04
+不明
+All right. So let's start where everyone loves to start. What is the problem we're trying to solve here. We're trying to scale personalized content rapidly. Customers are demanding personalization. You heard that a few times today. I'm sure, and we need to be where they are. We need to be delivering that personalized content, and we need to be delivering it quickly.
+
+00:29:34:04 - 00:29:56:00
+不明
+But how are we going to do that? Jen, I, Jen, I as a way to help us scale personalized content faster, with a goal of creating, testing, measuring results, optimizing repeat the process. We are a very tested and learn organization. And so testing is really important to us and making sure that we're, analyzing the results.
+
+00:29:56:00 - 00:30:18:13
+不明
+And then recreating and putting back and market, when needed. So how are we going to get there? We're going from a one size fits all creative campaign, meaning everyone in this room is receiving the same email, the same ad to 1 to 1 personalized content. So everybody in this room is seeing a unique ad based on your attributes.
+
+00:30:18:15 - 00:30:53:20
+不明
+We're going from a waterfall process that could take weeks, sometimes months, to an agile process leveraging gen AI to be able to help us produce this content. And this is an important one. We're going from our creative team, from manually producing all of the assets. So think about a writer and designer creating 20 different versions of that email to now putting the keyboard in the hands of the marketers and marketers are creating the tactical assets of these creatives and really focusing on the strategic content.
+
+00:30:53:22 - 00:31:17:14
+不明
+And they're the ones developing the content. And what does that mean for your creatives? It means they get to work on more strategic, bigger projects. So win win for all. And what staying at the same, compliance and regulatory standards as well as brand guidelines, because you're really training your algorithm to really understand your brand, understand who you are and understand the compliance guidelines.
+
+00:31:17:16 - 00:31:42:14
+不明
+Anyone in this room work for either a complex and or highly compliant organization. Okay, perfect. Then I'm going to be speaking your language. So let's talk a little bit about University of Phoenix. So here's our reality. We have about 1200 plus product SKUs that's between multiple fields of study nine fields of study between business health care nursing it.
+
+00:31:42:16 - 00:32:05:16
+不明
+That's professional development for people who want to come back and get upskilled. That's individual courses that you can get for credit, like continuing teacher education courses and on and on. We have a lot of SKUs and we need to make sure that we are reaching the consumer with the product that they're most interested in. We have 25 plus different segments across the lifecycle.
+
+00:32:05:19 - 00:32:24:22
+不明
+So my team as I mentioned, manages prospect. That's from first touch all the way through first class. But then they become a student and I hand it off to my counterpart who does student marketing. They hand it off to another counterpart who does alumni. We also do employer marketing. Across all those. We have nurses, we have teachers, we have business professionals.
+
+00:32:24:22 - 00:32:46:08
+不明
+So lots of different segments that we're trying to reach. We have hundreds of unique messages and offers, and what's going to resonate with me might not resonate with somebody else. And we have very unique messages and offers that's going to resonate with different people. We have nearly 30 paid and organic channels that we're trying to reach. We have multiple funnel stages in our media buy.
+
+00:32:46:09 - 00:33:10:22
+不明
+So anywhere from discover, like, I'm just thinking about going back to school, which is quite a journey to I'm ready to hit that apply now button. And then within our platforms we have multiple sizes that need to be resized. So what does that mean? That's thousands of versions of personalized creative that we need to create. In fact, one campaign can be hundreds of personalized assets that we need to create.
+
+00:33:10:24 - 00:33:37:26
+不明
+And without Jen, I and constant content solutions, it would be impossible not feasible to personalize at the scale. So let's talk about the benefits of AI and how it fits into your workflow. So you'll see all process on the left. New process on the right. So the old process is a marketer creates and writes a brief frankly that can take about a week.
+
+00:33:37:26 - 00:34:01:13
+不明
+Plus, if you're writing a really strong strategic brief now in the new process, the marketer is writing the prompt. The prompt is the new brief. And don't underestimate the prompt. You need prompt training. It is a skill. It takes time, and you need to get really good at that prompt, because now your prompt is replacing that two plus page brief that you were writing.
+
+00:34:01:15 - 00:34:23:06
+不明
+But the prompt can be written in minutes. And so what is that time savings? That's about a week you're going from, as I mentioned, the creative team developing all of your versions to now gen AI, developing all those versions, using that prompt in our world, creative, developing all those versions about 9 to 12 days for our paid assets.
+
+00:34:23:11 - 00:34:45:21
+不明
+Now Gen AI, you guys just saw the demo. It's eight minutes. So you're saving about 9 to 12 days of work there. This is what stays the same and the time stays the same. We are a highly compliant organization, so our compliance review is staying the same. We are making sure that all of our ads are getting run through our compliance and our legal team.
+
+00:34:45:23 - 00:35:09:18
+不明
+But here's where the added step comes in. Now, our creative team, instead of manually creating all of those versions, they're doing a check. Is it on brand? Is it saying what we want it to say? So they're now part of that review process in the system along with compliance. Instead of having to create all the ads from scratch themselves.
+
+00:35:09:20 - 00:35:33:01
+不明
+And then lastly, as I mentioned, the creative team would then take that feedback from compliance and others stakeholders, whatever it may be, and they would go back and they would update all of that created based on the feedback. So imagine if they're manually creating 20 emails, they're now going back and updating 20 emails. Now the marketers able to go back and finalize the creative based on feedback.
+
+00:35:33:01 - 00:35:56:00
+不明
+And they can do that very quickly. So we're saving about three days there. So what does all this mean? This is about a 3 to 4 week process that's now going to about a week. And so the net savings is about 2 to 3 weeks of time. You're putting the asset creation in the hands of your marketers that as I mentioned, the prompt is the new brief there.
+
+00:35:56:00 - 00:36:24:04
+不明
+And our creative team now gets to focus on more strategic process projects versus manually creating all these versions. So we're looking for gen AI to contribute with three things. One is productivity gains. We're leveraging gen AI to increase content by about 3 to 4 times while remaining compliant and on brand. The middle one. I'm super passionate about empowerment and engagement with the team.
+
+00:36:24:06 - 00:36:49:00
+不明
+We're now putting gen AI tools in the hands of marketers, so they're really owning their campaigns. How rewarding and fulfilling is that? The marketers are owning what the ads are saying and the content that they're creating, and then they're getting to also look at the data and say, should I optimize these based on the data? So you're really putting, the creative right in the hands of the marketers there.
+
+00:36:49:08 - 00:37:15:16
+不明
+And then our creative team gets to work on really high impact work, like our national TV campaigns are creating really, really solid templates to put into our DNA AI platform. And then our goal is to increase our in-market conversion to, match industry wide benchmark of about a 25% lift. When you personalize your content. All right. So you're probably asking yourself, man, where do I get started?
+
+00:37:15:16 - 00:37:40:24
+不明
+Well, the the start from the top. Have your leadership embrace gen. I have them embrace this change. And that will trickle down to your teams. So first and foremost, don't underestimate the time of change management. You need to address change management head on. And the way to do that is really define your challenge.
+
+00:37:40:24 - 00:38:03:10
+不明
+Define what you're trying to do, and be very open and honest with your teams of what are their roles. Leveraging Gen, I communicate the importance of each person's role and responsibility within Gen AI. And, make sure you have a solid workflow in place around how that's going to work. So communication is key there. The next is Test and Learn.
+
+00:38:03:10 - 00:38:28:19
+不明
+You are not going to just jump into a platform and create hundreds of ads without doing some test and learning and really setting up. So I mentioned this a little bit earlier, but set up training documents, set up playbooks, set up best practices. My recommendation here is set up a core team where you have one person from each group represented who's really passionate about Gen I am what Gen I can do.
+
+00:38:28:22 - 00:38:49:17
+不明
+They're going to be your cheerleaders and advocates here, and they're going to go back to their teams and they're going to tell everyone how cool it is. So really set up that core team there. Start training. We call it internally training the robot. So train your gen AI platform to really understand what is your brand.
+
+00:38:49:17 - 00:39:10:08
+不明
+And that's where creative team plays a huge role or has played a huge role for us as well. Make sure that you have your creative team really setting up your brand. Make sure you're in there setting up the right personas. Set up what, is called products or messages, and make sure that you're also setting up your compliance guidelines.
+
+00:39:10:08 - 00:39:34:02
+不明
+So we've done that as well with certain messages we have. They're very compliant. You have to say certain things or you have to have certain disclaimers. Put all of that in the system to really train your robot to get it to understand, the more content you put in there, the more you set it up, the better it's going to be trained and then have that core team empower them to start using it, to start playing around with it, start setting things up, start using it.
+
+00:39:34:02 - 00:40:00:20
+不明
+That's the best way to learn, and put something in market and see how it does. And you know, the beauty of Jedi AI is you can test and learn quickly and go back and make adjustments as needed. And then when you're ready, when you've done all of that, that's when you're going to expand. And like I said, you're going to have this core group of cheerleaders who are really going to advocate for the product, and then you can start really optimizing quickly.
+
+00:40:00:23 - 00:40:25:28
+不明
+And so, yeah, that's when you're kind of ready to, to hit the go button and get going with this, but really empower your teams, really allow them to test and learn, allow them to iterate quickly, allow them to make decisions. And, you'll be you'll be ready to go. So that's it. Thanks for having me.
+
+00:40:26:01 - 00:40:49:27
+不明
+Amazing. Thank you, Ali, for sharing your journey with this new application. So next I do want to introduce Mariah Fredrickson. We've been working with Mariah and team for a little bit, as well the last couple months as they've been, starting to generate some meta ads and activating them. So really excited to have Mariah to to share her experience.
+
+00:40:49:29 - 00:41:21:05
+不明
+On.
+
+00:41:21:08 - 00:41:28:15
+不明
+This.
+
+00:41:28:17 - 00:41:40:07
+不明
+One.
+
+00:41:40:10 - 00:41:44:24
+不明
+
+
+00:41:44:27 - 00:41:59:26
+不明
+No no no no.
+
+00:41:59:29 - 00:42:26:12
+不明
+That's not what I want. There we go. Hey, everybody. I'm Mariah. I run the brand and creative team at lumen. Lumen is a networking service provider. Where fortune 500 company. And we're the leading networking provider for most of the generative AI platforms and major cloud providers. We are on a journey not unlike Ali's, not unlike yours, right?
+
+00:42:26:14 - 00:42:52:00
+不明
+The idea here is to maintain our brands quality at the speed and scale in which the market is asking for it, so we are kind of in the middle of this journey right now. We're it's stage three, and our goal this year is to kind of get into stage four and tools like Firefly Services and Adobe Gen Studio are the pieces that are helping us get there.
+
+00:42:52:02 - 00:43:39:26
+不明
+Our situation is complex. Like most of you in this room, we're a B2B brand. We have anywhere from 5 to 10 different decision makers sitting within our buyers group. We have an extended buyer's journey that's very much that can be months long, and we have seven kind of key verticals that we need to hit. So when you start to do the math on personas in a buyers group, the, ability to customize is for a certain vertical, my creatives for the last year in my in-house team have been spending a lot of their time making variations.
+
+00:43:39:26 - 00:44:09:18
+不明
+And we're a challenger brand. A lot of you probably haven't heard of us. And to be a challenger brand, we need to stand out in market in this attention economy more than our biggest and largest competitors. And where I would really love my team to be focused is not on did you make a hundred versions of that display ad and oh, by the way, did you make it at seven different sizes?
+
+00:44:09:21 - 00:44:35:18
+不明
+That's not where their passion, frankly, lies. As a creative. And it also isn't what I need them to be focused on. So our work with Jen Studio started in January actually. So I'm going to give you a few tips on how we went this fast. We did a lot of prep work before getting in the tool to have before we ever got this set up.
+
+00:44:35:20 - 00:45:01:24
+不明
+Our key use case right now is to optimize existing campaigns and market, which enables us to also go a little bit faster. But I think what we have found has been our secret to success is really setting a goal for our team. And then letting them go figure out how to hit that goal. We set a goal for them to run into market 50% faster.
+
+00:45:01:26 - 00:45:31:05
+不明
+As you can see in this first attempt, they blew that out of the water. And there are some keys that we found, actually two keys that I would find to success. Number one, this may sound obvious, but ensure that you have all of your personas documented in a standard way. Make sure that you have your brand guidelines all the way down to tone of voice and copies styling, all documented.
+
+00:45:31:07 - 00:45:54:04
+不明
+Make sure that you have, really these key components of an enterprise content strategy. We worked with our partners at Merkle to help get this set up. Before we ever gotten in the tool, we brought together a bunch of various pieces of the marketing organization and made sure they were all good. With every message that we want to say at every stage to every persona.
+
+00:45:54:07 - 00:46:24:06
+不明
+And that helped us set up the tool really, really well. The second thing, and Ali mentioned, this is like, have experts set up your tool? It should be your creatives setting up, this is key to the quality, right? Setting up those personas, setting up those messages, setting up those templates so that you're following design best practices so that you're consistent with other parts of your campaign and experiences.
+
+00:46:24:09 - 00:46:50:20
+不明
+And when you do that, you're going to then kind of move into this very iterative process where, as you saw in the demo, there's kind of some key elements, right? There's there's brand and there's products, which is essentially messages, and then there's the prompt and, and you'll spend some time kind of going back and forth on what part should be in the prompt, what part should be in the brand, what part should be in the message.
+
+00:46:50:23 - 00:47:03:12
+不明
+And that work is all really critical, that you have your experts there guiding that, because that's what's going to allow you to get to quality at scale.
+
+00:47:03:15 - 00:47:33:19
+不明
+So this is exactly what our creative process used to look like. And I think we've found success in this new process. By setting that goal, we're going to get to market faster and boiling it down to the very, very bones of our creator or of our process. What did we actually need to do? And when we boiled it down to the very bones, we knew we needed to go through a brand, some sort of brand review and legal compliance check.
+
+00:47:33:19 - 00:48:17:14
+不明
+Right? We knew that we needed to hand off to our paid media partners. But, and there would be some sort of creative round, although we didn't know what that would look like in the before times, we followed a very waterfall based creative approach. So design is a precious, precious resource to us. And we would go from brief all the way in to having copy, and we go through our first legal review, which is a standard SLA of three days before we even went into design, because we wanted to make sure that the copy was solid enough, that if we put it into layout, we weren't wasting designers time.
+
+00:48:17:14 - 00:48:51:14
+不明
+If legal ripped it up and then it would come back and go once again through copy and design. And, and then finally, you know, we'd have a revised version. Everybody would sign off and it would go to approval. Now, where we're saving time and surprise us. Yes. The creative versions generate much, much faster, but we're also able to change our workflow so that we're not going into legal twice that instantly save us, saves us days.
+
+00:48:51:17 - 00:49:18:22
+不明
+And we can really help kind of break down a lot of the silos. We saw our creative team working directly with our platform experts and paid media experts. And because of that, everything kind of collapsed. So once you put your team really in the driver's seat with a clear set of goals, then have them figure out how to get there.
+
+00:49:19:00 - 00:49:46:29
+不明
+And by the way, please make sure they are documenting that all the way through, because that's going to be really key to what your success looks like. And then just a couple of tips that I would kind of recommend, going into this, as I said, you can get started before you ever get inside this tool by making sure you've got your enterprise content strategy really locked down and documented.
+
+00:49:47:01 - 00:50:22:02
+不明
+And then there's going to be a process that Adobe has created a great set of tools, called Zen Studio Academy around that will allow you to take those guidelines. It's not like the tool in just the traditional way that you have built those guidelines, because they're going to be in all sorts of form. Factors are going to be in word docs, they're going to be in, PDFs and Adobe has built a really good press practice for how exactly do you want to state your guidelines, to state your messaging in a way that the tool can do really, really well.
+
+00:50:22:02 - 00:50:50:10
+不明
+So use gen studio art, use the Gen Studio Academy to learn those tools. And then again, I think giving your team a clear goal of what it is you're trying to achieve, and then putting them in the driver's seat makes them come along for the ride a lot more. Because if you pick the right experts and I agree with this, these are your most growth minds that most change.
+
+00:50:50:13 - 00:51:11:24
+不明
+Like they love change and they love kind of experimentation. Put those people kind of on your core team to launch your first campaign. And then again, the tools going to be as good as the data that you give it. So put your creative experts in as you're setting up the tool to make sure the quality of the outputs is at your brand standard.
+
+00:51:11:26 - 00:51:24:20
+不明
+And, and that's really what I would recommend. That's how we got there.
+
+00:51:24:22 - 00:51:25:11
+不明
+You.
+

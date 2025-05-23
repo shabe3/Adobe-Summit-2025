@@ -1,0 +1,364 @@
+00:00:00:08 - 00:00:25:24
+不明
+Supply chain. So let's take a look at what we're talking about today. So first and foremost we want to highlight and show you what is the gene storage solution and how that fits into the content supply chain and how specifically it solves for streamlining the content supply chain. Next up, we're going to talk through how Adobe is approaching the generative AI experience and some of the new innovations that are happening there.
+
+00:00:25:26 - 00:00:48:00
+不明
+And then, as with any new AI or any other new technology, we recognize, there are a number of adoption barriers. And as part of this, we want to talk you through what are those adoption barriers we've seen with other customers and how you can go about overcoming those. And then we want to go and take you through our top ten AI innovations that are either available today or coming next.
+
+00:00:48:03 - 00:01:24:01
+不明
+As with any roadmap presentation, what we are showing you the plan and not a commitment and these items are subject to change. Specifically, the dates highlighted. So let's begin with what Adobe's solution is to your content supply chain. I know if you've attended Adobe events in the recent past, I'm sure you've all seen the slide before. And over the last few years, we've seen a significant market trend in where marketers are asked to produce more campaigns, and they are forced to do that at a greater level of personalization, relevance, and with greater speed.
+
+00:01:24:03 - 00:01:46:08
+不明
+And they're asking to do this at scale. And I'm certain anyone in this room who's part of a creative and marketing organization feels this today. However, two particular aspects stand out more than ever. The idea of personalization and scale. Although we've spoken about these for some time, truly, has it never been possible as it is today through the introduction of generative AI?
+
+00:01:46:10 - 00:02:11:15
+不明
+So with these recent advancements, we're now able to have technology help us scale while maintaining personality personalization. And today, I'm going to be talking to you about those innovations inside of the Adobe ecosystem and how they can help you with those, meet those demands. But talking about AI is not enough, and AI is not enough to help you achieve your goals, even with the power of generative AI.
+
+00:02:11:17 - 00:02:36:25
+不明
+If your content's supply chain is broken, you won't be able to really maximize the benefits that I can bring. And in fact, introducing I could even exasperate some of those challenges within a broken content supply chain. You might just be shifting the bottleneck from one stage to the next. For example, it may become even more difficult to ensure compliance and brand standards as you introduce AI.
+
+00:02:36:27 - 00:03:02:13
+不明
+It also could become more time consuming to do aspects such as removing approval processes, which have increased by the scale of content produced. And that will ultimately just lead to more frustration and more questions. As you can see across your organization, well, Adobe provides a way for you to fix and streamline that content supply chain, and it does so within these five building blocks, what we call our gene studio solution.
+
+00:03:02:15 - 00:03:23:04
+不明
+So if you think about how you produce content, you have your workflow and you've got your planning that goes into any new campaign that or is initiated. From there, you create and produce the content. You then once you deliver and activate that content. And throughout this entire process, you want to ensure that you can report on and gain insights on your content performance.
+
+00:03:23:06 - 00:03:44:03
+不明
+And at the center of it all, well, you have your acid storage. To better articulate this, we have what we call our market texture framework. Now, this might seem a little bit overwhelming at first, but let me simplify this and highlight some of the key few aspects to help you better understand and see how we have changed the solution fit into the wider Adobe ecosystem.
+
+00:03:44:06 - 00:04:11:23
+不明
+First of all, you'll see the four pillars across the top. First one workflow and planning, which work front the workflow and solution specifically forms a part of. We then have creation and production of which Creative Cloud, Adobe Express, Adobe Firefly Services, as well as Frame.io forms a portal. We then have our assets storage and asset management through Am assets and Am sites for experience building with delivery and activation.
+
+00:04:11:27 - 00:04:33:08
+不明
+We natively connect to other Adobe delivery solutions, and we also allow you to integrate into any third party application you might have or use today. And in the fifth one, we've got a reporting and insights which is provided through the newly launched continent. Lyrics. More to come on that. And then beyond this we have modules. So we've got our Gene studio for performance marketing module.
+
+00:04:33:10 - 00:04:59:02
+不明
+We've got our newly launched Gene studio for creative production. And we're going to continue building out these modules and encompassing all of this. We have the newly newly launched Gene Studio Foundation, which is ultimately the home for your entire Gene studio solution. And at the heart of it all, we've got our gene, our models, which is part VI, Firefly and Firefly services to produce commercially safe content.
+
+00:04:59:04 - 00:05:22:28
+不明
+So this is our gene studio solution and more architecture and it help. I hope it helps you understand what are the technologies that form part of it. One key call I want to make is we have two specific aspects. We've got the overall gene studio solution, which encompasses everything. And then we've got Gene studio for creative production. It's a specific model and we'll talk more to that.
+
+00:05:23:05 - 00:05:49:20
+不明
+But I want you to clearly understand the differences between these two. Now let's take a look at Adobe's approach to generative AI. Our vision is very simple. We see a lot of conversations about how generative AI can be used to create and produce copy. And specifically we see this within the enterprise. We really see this as the core of reshaping an impact in every possible way in a positive manner.
+
+00:05:49:27 - 00:06:18:22
+不明
+The way you produce your content within the marketing workflow, whether it's from planning your campaigns through to marketing spend through to the execution of an email or a multi-channel journey. We see I play a key role of this. Architecturally, our approach to gen has built on more than a decade's experience, all integrating AI into our products, and it spans innovations across the full technology stack, including the constructs of data, models and apps.
+
+00:06:18:24 - 00:06:44:16
+不明
+But air is truly only as good as the data on which it's trained, and we've trained ours on rich data sets drawn upon our investments and various experience across the creativity, documents and customer experiences that we've had throughout the market. We're also building high quality foundational models in various categories where we specifically have domain expertise. And we we don't.
+
+00:06:44:16 - 00:07:14:28
+不明
+We've partnered strategically with best in class models to address a range of customer use cases. And we've strengthened our intellectual property through enterprise grade security and privacy, specifically with governance. But ultimately, the exponential value of AI doesn't only come from data and models. It comes from how successfully it makes you in your daily tossing workflows. And we've done this by integrating generative AI natively across our industry leading products and portfolios.
+
+00:07:15:00 - 00:07:43:18
+不明
+We want to accelerate everything from ideation, exploration, insights, and into in production and delivery. Using all of these methods. But we actually see an evolution in our AI is adopting in our Adobe ecosystem and its various solutions. We see an evolution towards the agenda AI moving beyond just traditional generative AI and into a genetic era where AI systems can understand actual human intent.
+
+00:07:43:25 - 00:08:13:15
+不明
+It can understand your goals. It can take autonomous actions. A genetic AI isn't just about automation. It's about orchestrating these various processes and having aligned with your user defined objectives. We want these agents to be purpose built and designed for real use cases in your customer experiences. And you can do this by setting clear goals. We will allow these agents to harness and execute these tasks seamlessly in the background or foreground, creating real time value.
+
+00:08:13:18 - 00:08:49:05
+不明
+And the result? A future ready organization that is ultimately primed to thrive in an AI driven marketplace. And how do we achieve that? Well, with our newly launched Adobe Experience Platform Agent Orchestrator, that's Adobe's a changing framework upon which new capabilities and agents are going to be built. To put it differently. You can see the Adobe Experience Agent Orchestrator is a self-contained, foundational system which is powering agent creation and coordination to orchestrate agents within the Adobe ecosystem as well as beyond.
+
+00:08:49:08 - 00:09:16:04
+不明
+And it will support the entire customer journey everything from ideation, content creation, data management, as well as campaign execution. Each agent will be developed for a specific domain, and over time we will see this library of agents growing not only as self-contained skills, but also the ability to interact with one another in an autonomous manner. But an easy way to think of this is through a real world illustration.
+
+00:09:16:09 - 00:09:38:02
+不明
+Think about yourself. See how you fit into your organization. You're all part of a specific department responsible for certain objectives. Let's say marketing. Similarly, we have an Adobe product that performs a set of functions. Let's look at work front for example, which is auth is all about work management efforts. Next within your department you will have a function which you form a follow.
+
+00:09:38:04 - 00:10:07:11
+不明
+And you specialize in a set of responsibilities. For example brand management within the marketing department. Similarly, we have an agent inside of the orchestration fragment that will perform workflow optimization. Lastly, you have a skill within that function that perform specific tasks and such as brand strategy development for example. Similarly, you have a skill inside of an agent that performs a subset of the tasks that form part of that.
+
+00:10:07:13 - 00:10:43:28
+不明
+So with that as background, we recognize that with any groundbreaking technology, we see a lot of barriers to adoption. So specifically with the promise of generative AI comes a lot of set of challenges and risks that we need to address. Everything from copyright infringement to harmful impacts, as well as bias. Considering our key three personas that form part of the content supply chain, I'm sure you can relate to many of the questions on screen as it comes to your willingness to adopt this brand new generative AI technology and that's completely understandable.
+
+00:10:44:00 - 00:11:10:14
+不明
+Thinking about operations in it, for example, it's important that you ensure that the content is produced, remains compliance and commercially safe, and you want it to be enterprise grade, following your processes and workflows. Similarly, as a marketing team, you want to ensure you retain the level of personalization that comes from the current human driven creative experiences that are produced.
+
+00:11:10:17 - 00:11:33:19
+不明
+Does I take away from that in a world of scale and volume? Is your data private? And importantly, do you have an AI strategy? And last but definitely not least, are creative professionals. I know that the job security in a world of AI is at the forefront of concerns. Will it take away from their roles? How can they still control the work that is produced and retain this stolen intellectual property?
+
+00:11:33:21 - 00:12:02:28
+不明
+We fully recognize that all these concerns, and I have actually good news for you. Adobe has very thoughtfully implemented AI the right way. We've building on decade place legacy of AI innovations across all our cloud technologies. And we've developed and deployed Firefly generative AI in alignment with the AI ethics principles of accountability, responsibility, and transparency for our operations and I.T. teams.
+
+00:12:02:29 - 00:12:28:29
+不明
+This means we only train five slide permitted content. We ensure it's commercially safe and never uses customer web data. You can fully control your AI adoption and its authority within the wider organization. From marketing teams, you own the gen AI and content that's produced by Doby. Third party trading on the customer data is prohibited. And you have all the tools you need to personalize your content.
+
+00:12:29:02 - 00:12:51:04
+不明
+And to do so while remaining on brand. And for our creative teams, Adobe prides itself on protecting creators rights. We specifically do this through the Content Authority initiative, and we constantly advocate for intellectual property protection. And for those that do contribute to our Adobe Stock Library, we ensure they are compensated adequately. So how do you solve for the adoption barrier?
+
+00:12:51:11 - 00:13:15:03
+不明
+It is important for you to take steps to ensure the adoption of AI outfits into your organization. And we've specifically seen success with customers taking these clear three step approaches. Firstly, you need to build out a strong strategy that can help you gain strategic alignment. It's super important that you have a strategy that evolves, that is realistic and that can be adopted.
+
+00:13:15:05 - 00:13:38:09
+不明
+Putting in place a strong AI data governance model is super important to ensure that you get wider legal buy in from the organization. This is where you need to look at your controls and processes. Marry them with those strong, commercially safe processes that exist inside of Adobe to ensure that you are meeting the necessary data governance of your organizations.
+
+00:13:38:11 - 00:14:04:29
+不明
+And then with those in place, you can ultimately look at driving culture adoption through educating your workforce as well as your colleagues. Ultimately, you have full control over the level of adoption, and you can follow a maturity scale that suits your needs. Everything from no AI to full adoption. We recommend you start small scale gradually move from assisted to more automated in a high controlled environment.
+
+00:14:05:01 - 00:14:28:11
+不明
+And you can do this by ensuring governance and trust, by implementing explainability as well as bias checks and human oversight in those areas where you feel it's more sensitive and necessary. Now that you understand our gene studio solution and our approach to AI, let's take a look at our top innovations. Previously, we showed you our new agency orchestration model.
+
+00:14:28:18 - 00:14:57:05
+不明
+Well, yeah, you can see the different areas that form part of our current and coming innovations, specifically around these products and solutions. We have also these two agents that now form part of our genetic orchestration model. And then these expand beyond with these number of skills that we will be talking more about. Beyond that, we want to also highlight that you are able to innovate where you need to adopting as you need.
+
+00:14:57:08 - 00:15:33:28
+不明
+Specifically, we have these top ten innovations which are either available today, newly launched or coming soon. It all begins with Firefly capabilities, and these are embedded across the entire Gene studio solution. We have three key AI first offerings with Firefly Services and the APIs, the Firefly custom models and Firefly Creative Production. And then we also see Firefly powered core creative and marketing applications through the solutions such as Creative Cloud, Adobe Express, Adobe Experience Manager, and Engine Studio for Performance marketing.
+
+00:15:34:00 - 00:16:05:17
+不明
+As you can see, fireflies integral to the content supply chain and all the content you produce. Let's take a closer look at the Firefly offerings. Firefly services are a collection of unique, extensive, and creative APIs, and they can be embedded into your own workflows and also embedded into our flagship applications. They provide capabilities ranging from things such as text to image, which allows you to generate images based on natural English text language, as well as any style parameters you want to provide.
+
+00:16:05:17 - 00:16:38:20
+不明
+As part of that generative expand API, which allows you to take an existing image and use Firefly to resize images to new dimensions. Generative full, which enables you to take parts of an image to add elements, remove elements, and replace backgrounds using generative AI. And these are only a few. As you can see, Firefly is already embedded in these applications and these creative suites that we have available and forms a powerful back, powerful solution for all our creatives, individuals.
+
+00:16:38:22 - 00:17:01:04
+不明
+Here are some key use cases for Firefly services. Firstly, you're able to refresh your campaigns very quickly. You can easily produce and resize your advertisements for various platforms, and you can meet the demand of these frequent marketing cycles that we see happen on an annual basis. You can do this by swapping out images, cropping and resizing, and doing this at scale.
+
+00:17:01:06 - 00:17:28:09
+不明
+You're able to also extend your reach by localizing assets and videos. You can adapt the content for local markets, and you can translate and tailor those visuals where you can boost the relevance and engagement with those audiences. You can also personalize assets and videos by creating customized content variations. We targeted specific customer segments and ultimately driving, hiring and conversion rates.
+
+00:17:28:12 - 00:18:04:16
+不明
+Beyond that, you're able to streamline your production toss. You can edit product images in bulk, like the background removal of thousands of product images, which ultimately will increase your productivity of your creative teams and reduce the costs needed to outsource these tasks. And then lastly, you can create unique user experiences. By leveraging generative AI, you can pre generate thousands of images with different various unique experience APIs that can then be integrated into your web portals or solution platforms to provide the necessary experience for your end user.
+
+00:18:04:18 - 00:18:33:09
+不明
+Now let's look at some of the brand new recently launched Firefly services. Firstly, we have our localization of video content. And you can do this at scale. With Firefly services you solve this by transcribing speech to text and translating dialog while preserving the speaker's voice and matching lip sync. And in some of the key use cases include enhancing global reach for ads, social media, and tutorials into different markets and locations.
+
+00:18:33:11 - 00:18:59:26
+不明
+You can now also take reframing and move it from a manual to an automated process, where you can take high volume of videos, which are time consuming and inefficient to adjust, and do so by having Firefly services automate video adaptation for these different platforms. They can even detect scene edits, and they can do precise reframing, enabling you to do easy brand with overlay and compositions changes.
+
+00:18:59:29 - 00:19:35:02
+不明
+And this is ideal for scenarios such as social media marketing for videos, as well as static content in platforms such as TikTok, Instagram Reels and Facebook. And then lastly, we've got our consumer packaged goods and retailers. They need to constantly showcase their products effectively and do reshoots to do that, which is costly and time consuming. Well, with the substance 3D API, we solve this by allowing you to generate 2D images from 3D compositions that can then be used throughout your retail journey.
+
+00:19:35:04 - 00:19:57:23
+不明
+With custom models, you're able to keep internal teams or external agencies on brand. You can do this while you're scaling the volume of your personalized assets and content. It's an AI model that is 100% trained on commercially saved content, which is key to our barrier of execution. And it allows you to tailor Firefly services for your previous content to harness.
+
+00:19:57:23 - 00:20:24:22
+不明
+Your specific brand can harness your style, your products, and campaign direction. Some of the use cases we've seen, our custom highlight harness is things such as easily generating backdrops for seasonal ads and promotions that are aligned with your campaign style. You can even extend photoshoots by generating engaging imagery in a specific style for online ad experiences, or increasing your sales conversion in various industries.
+
+00:20:24:25 - 00:20:48:06
+不明
+It also allows you to empower your distributed teams by adapting the content to local markets with specifically tailored visuals, and boosts the relevant in-game engagement for those audiences. You can also create customized content during the ideation process to streamline Concepting and help you explore, not new ideas. So how do you go about go about training a custom model?
+
+00:20:48:12 - 00:21:14:29
+不明
+Well, it's extremely easy through a dedicated, simple user interface. You can upload ten or more of your own images, review the generated captions, modify those captions to provide more creative direction, and then just hit the train button. And that's it. Firefly Custom Models does the rest, and it does so by creating a unique model that is stored and can be applied to any of the Firefly services or other Adobe applications that harness the custom models.
+
+00:21:15:02 - 00:21:38:06
+不明
+Speaking of applications that harness custom models, here you can see Firefly Custom Models is available as part of Creative Cloud Dobie Express and coming soon to our Firefly API services, as well as Gene studio for PM Performance Marketing. And this is only the beginning. More to come in the future. And then the third component is our Firefly Creative production.
+
+00:21:38:09 - 00:22:00:25
+不明
+We see one of the largest time constraints on the creative teams is taking high scale, repetitive tasks and performing these functions, which takes away from them doing the most strategic projects. Well, the first of its kind is this application that allows you to streamline these repetitive tasks, doing things such as removing backgrounds, cropping and resizing, and doing it all at scale.
+
+00:22:00:27 - 00:22:21:11
+不明
+For example, an online retail store needs to process thousands of new product images for the holiday season. Well, with Firefly creative production, that can be done in a matter of minutes. And how is that done? Well, you start off by uploading your images from AMS, IDs, Dropbox, or any one of your local storages into the Creative Production user interface.
+
+00:22:21:13 - 00:22:43:11
+不明
+Then, through a few clicks, you can either remove backgrounds, apply specific hex color, or upload and choose your own background images to name a few. All of this is processed within Firefly in the cloud, and it'll notify once ready for download, which saves you days and time of producing content at scale.
+
+00:22:43:13 - 00:23:04:29
+不明
+So we've now introduced you to the Gen Studio Solution and its accompanying project products and modules. Well, now let's introduce you to the home of Eugene Studio Solution Chain Studio Foundations. It's a single pane of glass for all your solutions that form part of the studio, where we can surface valuable information around your workflows as well as your Chain studio users.
+
+00:23:05:01 - 00:23:29:26
+不明
+It can provide you insights into your campaigns, approvals, and assets, and you're able to better understand and manage your content supply chain. And as we building towards a more unified core reusable service framework through things such as brand guidelines, custom models and many more to come, join Studio Foundation will. The plan will be the place where you get to create, manage and administer those throughout the rest of your chain.
+
+00:23:29:26 - 00:24:00:27
+不明
+Storage solution Foundation. This will begin and be available for users with at least one Gene studio solution or application module. And our initial experience will be mostly focused on our executive user and later being expanded into other roles and ultimately relying on your entitlements and everything else that's available within the Adobe ecosystem. And some of the initial use cases we want to solve for include things such as marketing leaders that want to see the relevant performance and insights about their marketing investments.
+
+00:24:00:29 - 00:24:20:17
+不明
+As well as their campaigns. And they want to see this in a single view so they can make better decisions. Similarly, marketing leaders want to see a unified view of the content throughout the entire lifecycle across all channels so they can understand what is performing and optimize for the future.
+
+00:24:20:20 - 00:24:43:09
+不明
+Beyond the foundation we've got in studio for performance marketing, which is ultimately a one stop shop for all your paid media production. It provides all the capabilities in a single application that allows you to define multiple brand guidelines, all of which form part of your brand and media channels. It allows you to create campaign along with associate information and breach materials.
+
+00:24:43:11 - 00:25:07:13
+不明
+It allows you to provide channel specific materials and data, such as products and personas, that will inform the content generated via Firefly services. It allows you to build out your own custom media templates that will drive the variations for your paid media, such as emails, banners, and social. And it allows you to send it for review and approval to reach alignment and compliance before publishing for delivery.
+
+00:25:07:15 - 00:25:29:20
+不明
+And then ultimately it allows you automated channel activation and delivery. And with all that said, you are able to gain insights on best performing material so you can use that information when you refresh your campaigns. Well, let's take a look at some of the key capabilities with the Gen Studio performance marketing platform, specifically part of our content production agent.
+
+00:25:29:22 - 00:26:01:20
+不明
+We see this solving a number of key functions that are available today. Firstly, it provides a single source of truth for you to manage your brands. It allows you to provide channel, campaign or media specific guidelines through attributes such as tone of voice, brand values, guidelines, usage criteria as well as image and general guidelines. You can create as many of these guidelines and brands as you want, each one being able to be used as part of your generation process using these brand guidelines.
+
+00:26:01:23 - 00:26:31:17
+不明
+Then, along with the descriptive text prompt and the power of Firefly, general Performance Marketing will produce paid media materials that are on brand, which reduces churn and revision cycles that are commonplace with these manual processes and to ensure on ensure brand compliance performance, marketing will automatically perform brand validation using the power of Gen I, and this will provide you with a scoring of your air content that is produced.
+
+00:26:31:20 - 00:26:59:00
+不明
+It will ultimately determine the accuracy and reflect that has your desired experience, allowing you to decide which variations better match the campaigns you're targeting. Bringing it all together, it means you end up with on brand content that reaches your audiences and your best performing. So these are things that are available today. However, if we look ahead, here are some of the exciting AI innovations that are coming to change to your performance marketing in 25.
+
+00:26:59:03 - 00:27:28:11
+不明
+Firstly, we introduced the support for multi-language translations. You can now automatically generate content across geo locations and languages, cutting significant time and costs further. We are expanding on the supported content types with the specifically recent innovation of Firefly services for support for text to video. You can now produce paid media that is interactive and includes animations, which we recognize produces better click through rates.
+
+00:27:28:14 - 00:27:48:25
+不明
+And then lastly, we are tying in metrics and optimizations into the internal workflow. We allow this by having you understand through performance insights, such as content that sees a drop in performance over time, allowing you to recreate and produce best performing refreshed content with the click of a button.
+
+00:27:48:28 - 00:28:12:22
+不明
+We now move on to our second agent within the content supply chain, the Workflow Optimization Agent, which specifically focuses around workflow and planning. This agent provides all the skills necessary that form part of the work front solution and its and expands on aspects that is part of your work management across the Gen studio solution. We see two key aspects to this stage.
+
+00:28:12:23 - 00:28:33:22
+不明
+Firstly, the ability to accelerate, accelerate your workflows throughout ur of your and AI systems. And then secondly, the ability to gain intelligence and true actionable insights on your existing projects through our Project Health and Bot Advisor. Let's take a deeper look at these.
+
+00:28:33:25 - 00:29:16:29
+不明
+So thinking about regulatory compliance and managing your content supply chain. This is a critical aspect, especially in more heavily regulated industries such as formal and financial. Earlier on, we discussed and showed you how you can define various brand guidelines within Gen Studio Foundation, and those can be harnessed across the solutions of your content supply chain. Well, the R of your width and work front is one place where you can harness those brand guidelines using these guidelines, workflows for viewing approval capability paired with the power of Firefly, JNI, R enables you to accelerate the review and approval process by conducting reviews on the fly on the content based upon the brand that you've attached to, and
+
+00:29:16:29 - 00:29:42:22
+不明
+it ensures those are adhering. If not, it will provide commentary, feedback because we recognize there are multiple guidelines that form part of various content you produce. You also able to build out multiple of these AI reviewers, each attached to one or more different brand guidelines, allowing you to configure and scale in the various markets and channels where you will be operating.
+
+00:29:42:24 - 00:30:13:28
+不明
+Ultimately allowing you to be able to streamline any brand collaboration and cutting out any of the significant overhead we've seen with revisions, and allow your reviewers to focus on the more relevant, strategic, and important aspects of the review process. The plan is to launch the of your with and work front in the second half of this year, and we start with image guidelines, where the validation is conducted on images specifically later introducing the ability to review text and then further on compliance measurements.
+
+00:30:14:00 - 00:30:44:01
+不明
+Beyond that, we're exploring how this AR of yours can also be integrated into other solutions that form part of the Gen Studio platform. Things such as performance marketing. Next, we have a work for an AI assistant. Consider this as your own personal human assistant that can provide guidelines along all aspects, such as getting instant answers to your questions about important constructs such as projects, Tossin issues, as well as documents just using natural English language.
+
+00:30:44:03 - 00:31:15:05
+不明
+It can also provide you with summaries on these objects such as your projects, tossin issues, and for your more complicated tasks in the areas of calculated fields. It's actually able to build out those business rules with an AI powered formula generator. You'll see more assistance becoming available across the Gen Studio solution, all with the purpose of providing more training, less experience, and by helping you, helping you not only better understand your work, but also adoption of new solutions to users as they take those on.
+
+00:31:15:07 - 00:31:40:08
+不明
+The final innovation in our workflow optimization agent is our Project Health Advisor. Now, typically when a customer requires work front, they're doing so not only because they want to better manage and organize their work, but they also really want to understand what's the risk with what's coming down the pipeline. And even with work from today in order to understand that, they have to translate a lot of their questions into reporting and building those out in work front.
+
+00:31:40:11 - 00:32:10:04
+不明
+And they want to look at specific areas that might be at risk and then make their own subjective assessments, whether that project is at risk. These assessments aren't always consistent, especially across all the various teams and individuals and groups. So with the Project Health Advisor, we really wanted to solve for that specific problem. So what we've built the scoring system based on all the information we have around what makes a customer productive or likely to hit their deadlines and goals within their campaigns.
+
+00:32:10:06 - 00:32:30:16
+不明
+We've built it in a way where you can customize the scoring system and let you know right out of the box which projects are at risk and which ones are performing well. You can also understand which campaigns are suffering from reaching the goals, and what you specifically can do to improve on those. And we've also noticed that not all organizations work the same between their groups.
+
+00:32:30:18 - 00:32:54:15
+不明
+So we allow you to set up multiple different health advisors, each with their own set of criteria, allowing you to scale to your organization. We see how health Advisor, significantly reducing the bottlenecks that you see come about in the various campaigns and projects. And they do this intelligently by quickly catching and providing you with recommendation to adjust things, to get them back on target.
+
+00:32:54:18 - 00:33:22:20
+不明
+We now move into asset management. Looking at our Am asset solution 2025 will see us launch our Content Advisor. The content Advisor is the evolution of our current content. Select that forms part of the content of an asset solution. We are moving from an agent, an exact search solution to a more semantic search that is really content based, which will allow you to discover more impactful content.
+
+00:33:22:23 - 00:33:50:04
+不明
+Furthermore, we are also extending to all types of content, including third party and not just Am assets content as it is today. So with these innovations, we aim to produce results that are much more aligned to the actual campaign. Intent itself with the intent can be expressed as a prompt or even form part of the campaign brief, and we can include filters based on the metadata and other prompts that you can enter, or either filter content out on.
+
+00:33:50:06 - 00:34:12:08
+不明
+We are also introducing the ability to produce renditions focused on dynamic media types that are generated on the fly, which in turn can then be modified to your specific desired results. The content selector is currently harnessed by solutions outside of assets, for example, such as work Front, which will be our first target solution. We want to make this available.
+
+00:34:12:10 - 00:34:32:10
+不明
+Beyond work fronts, we want to introduce it to other products inside of the entire Adobe Chain Studio solution. Things such as performance marketing. To further enhance that content discovery experience. And we are targeting to have this available in the live with work front in the second half of this year.
+
+00:34:32:12 - 00:34:56:01
+不明
+Continental lakes moves us into the whole analysis and insights phase. The goal of content analytics is to let you measure and therefore understand elements and the attributes of these experiences and connect them to your customer usage. And then using those insights, we want to help you personalize and optimize future content for optimal business outcomes. And to achieve this, we see four clear steps.
+
+00:34:56:01 - 00:35:20:25
+不明
+Firstly, we need to understand experiences. So for every experience and asset we are going to be using our models to extract features attributes of those experiences meaning the imagery, the language, the layout and the scale standard way so that it can be measured. Next, we need to understand your customers. We do this by correlating these specific attributes to the customer interactions.
+
+00:35:20:27 - 00:35:45:20
+不明
+And then we can really start to measure things that are more granular level. Once we have the correlation we can start to derive insights. With these new data sets we're able to derive insights and segment customers based on shared affinities for the various types of content that they resonate resonating with. And then we move into real time activation using all these insights, we can personalize experiences and optimize content.
+
+00:35:45:22 - 00:36:08:02
+不明
+So how do we do all of this? While content analytics is going to use our services to break content down into components and attributes, as you can see on screen. From here, we creating a structured metadata profile on all your content, which your users can analyze and determine what content or what attributes of their content will ultimately drive business values.
+
+00:36:08:04 - 00:36:33:14
+不明
+In addition to this and the stretch admitted at a profile, we are identifying assets even when they've been resized, cropped or save to different file formats, ultimately still remaining the same asset. And we're assigning a single ID. This allows us and your users to aggregate performance of an asset in its various forms and placements, back to a single ID.
+
+00:36:33:16 - 00:36:56:21
+不明
+Building on content analytics, we move into Am assets and brand aware tagging. This initiative focuses specifically on improving the life of our content librarians. With these improvements, we are really looking at how we can make discoverability and in turn, performance of content and reuse a lot better throughout the content supply chain. So with brand aware tagging and using the power of fast like AI.
+
+00:36:56:28 - 00:37:20:17
+不明
+We are able to analyze Acid content to extract this key attributes. Very much like you saw in content analytics. Things such as products, brands, locations to name but a few. And then we're also allowing the ability to intelligently apply asset wide rule based metadata to help you better organize these assets that form part of the solution. And this can be done one of two ways.
+
+00:37:20:20 - 00:37:47:00
+不明
+Either you can introduce these brand brand aware tags on any new content that's brought into your assets. Or you can batch apply to an existing assets at the folder label. And using these pre-configured, user defined text prompts, you're able to define multiple rules that can form part of this. We in general will use these prompts, along with OCR technology to visualize the images and then attach those metadata information.
+
+00:37:47:02 - 00:38:15:07
+不明
+So the result, it means you've got an asset wide metadata that is accurate and leads to better discoverability. And with these more detailed attribute attributes and relevant metadata, it means you assets are discovered correctly and it ultimately leads to much better performance on the creative content you produce. And with that, we conclude the top AI innovations that's ultimately going to help you streamline your content, review and approval.
+
+00:38:15:09 - 00:38:42:08
+不明
+Let's look at some of the key takeaways around this. So firstly we started off by talking about the Gen Studio solution and how that solves for your content supply chain. As a reminder, it's made up of a number of technologies and modules, which we're going to continually expand and build on. We truly believe bringing these together and building better integrations through the power of AI is going to help solve for your content production and solutions.
+
+00:38:42:10 - 00:39:09:25
+不明
+Next up, we highlighted how Gen AI, along with the content supply chain, can help you personalize and scale like never before. We encourage you to look at your current processes, identify bottlenecks and areas of improvement using these technologies. But we also realize that none of this will be possible without a clear strategy. We strongly encourage you to go take a step back if you haven't already, and go and consider your strategy.
+
+00:39:09:27 - 00:39:30:17
+不明
+How do you want to adopt these technologies? Where do you want to bring them in? Where do you see areas where you can make initial enhancements and improvements and later bring on other areas of the product that is super important to ensure success. And then lastly, but not least, we showed you a ton of new AI innovations that Adobe brings you to help streamline your content supply chain.
+
+00:39:30:19 - 00:39:39:04
+不明
+Again, considering these, think about where you can make improvements to what you have today and in the future. And with that, I conclude. Thank you.
+
